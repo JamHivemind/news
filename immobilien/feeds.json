@@ -1,162 +1,12 @@
 {
- "fetched": "2026-11-04T13:12:38.208Z",
+ "fetched": "2026-11-04T13:13:01.277Z",
  "hours": 48,
  "sources": [
   {
    "name": "Immobilien Zeitung",
-   "ok": true,
-   "items": [
-    {
-     "title": "Staatsanwaltschaft durchsucht Büros von Deutsche Finance",
-     "url": "https://www.iz.de/recht/news/-staatsanwaltschaft-durchsucht-bueros-von-deutsche-finance-2000050218",
-     "date": "2026-11-04T11:59:00.000Z",
-     "text": "Am Dienstag hat die Münchner Staatsanwaltschaft die Zentrale der Deutsche Finance Group durchsucht."
-    },
-    {
-     "title": "Apollo stattet europäische Debt-Plattform mit 10 Mrd. Euro aus",
-     "url": "https://www.iz.de/finanzen/news/-apollo-stattet-europaeische-debt-plattform-mit-10-mrd.-euro-aus-2000050219",
-     "date": "2026-11-04T11:05:00.000Z",
-     "text": "Das Private-Equity-Unternehmen Apollo Global Management hat für eine europäische Kreditplattform über 10 Mrd. Euro eingesammelt. Das Geld soll unter anderem für die Vergabe von Immobilien- und Infrastrukturkrediten verwendet werden."
-    },
-    {
-     "title": "Capital 27 holt Felix Bindrich von Loanland",
-     "url": "https://www.iz.de/personen/news/-capital-27-holt-felix-bindrich-von-loanland-2000050217",
-     "date": "2026-11-04T10:53:00.000Z",
-     "text": "Capital 27, ein Berater für Immobilienfinanzierung, hat Felix Bindrich zum COO ernannt. Er arbeitet eng mit Gründer Daniel Schmidt zusammen."
-    },
-    {
-     "title": "Aumovio findet Käufer für 4 ha großen Campus bei Frankfurt",
-     "url": "https://www.iz.de/transaktionen/news/-aumovio-findet-kaeufer-fuer-4-ha-grossen-campus-bei-frankfurt-2000050203",
-     "date": "2026-11-04T10:09:00.000Z",
-     "text": "Das Firmengelände des Autozulieferers Aumovio in Schwalbach am Taunus soll in neue Hände gehen. Vor dem abschließenden Übergang der Immobilie möchte die Stadt aber noch ein Wort mitreden."
-    },
-    {
-     "title": "100 Wohnungen von WVM in Köln-Sülz sind genehmigt",
-     "url": "https://www.iz.de/presseschau/news/-100-wohnungen-von-wvm-in-koeln-suelz-sind-genehmigt-2000050209",
-     "date": "2026-11-04T09:50:00.000Z",
-     "text": "Für 100 Eigentumswohnungen in Köln-Sülz liegt die Baugenehmigung vor. Das berichtet der Kölner Stadt-Anzeiger."
-    },
-    {
-     "title": "Periskop verschiebt in Potsdam Baustart für Großquartier auf 2028",
-     "url": "https://www.iz.de/presseschau/news/-periskop-verschiebt-in-potsdam-baustart-fuer-grossquartier-auf-2028-2000050212",
-     "date": "2026-11-04T09:50:00.000Z",
-     "text": "Periskop Development verschiebt den Baustart für das Wohn- und Gewerbequartier im Potsdamer Kirchsteigfeld auf frühestens 2028. Das melden die Potsdamer Neuesten Nachrichten."
-    },
-    {
-     "title": "Quartier in Husum mit bis zu 150 Wohnungen und Hotel geplant",
-     "url": "https://www.iz.de/projekte/news/-quartier-in-husum-mit-bis-zu-150-wohnungen-und-hotel-geplant-2000050213",
-     "date": "2026-11-04T09:50:00.000Z",
-     "text": "Nahe dem Bahnhof in Husum plant der Projektentwickler Mike Hemmerich für die Gesellschaft HMD das Quartier am Ausstieg. Bis zu 150 öffentlich geförderte Wohnungen sowie ein B&B-Hotel sollen dort entstehen."
-    },
-    {
-     "title": "Eilantrag gegen Braunschweiger Stiftshöfe abgelehnt",
-     "url": "https://www.iz.de/presseschau/news/-eilantrag-gegen-braunschweiger-stiftshoefe-abgelehnt-2000050214",
-     "date": "2026-11-04T09:50:00.000Z",
-     "text": "Das Verwaltungsgericht Braunschweig hat den Eilantrag einer Grundstücksnachbarin gegen das Quartiersprojekt Stiftshöfe abgelehnt. Auf dem Areal sind Wohn-, Schul- und Gewerbeflächen geplant. Das berichtet Braunschweiger-Zeitung.de."
-    },
-    {
-     "title": "Berliner Senatsverwaltung gibt Wohnturm-Investoren recht",
-     "url": "https://www.iz.de/presseschau/news/-berliner-senatsverwaltung-gibt-wohnturm-investoren-recht-2000050215",
-     "date": "2026-11-04T09:50:00.000Z",
-     "text": "Die Berliner Senatsverwaltung hat dem Widerspruch der Investoren eines in Friedrichshain geplanten Wohnturms gegen einen ablehnenden Bescheid des Bezirksamts stattgegeben. Das berichtet die Berliner Morgenpost."
-    },
-    {
-     "title": "´: Scout 24 legt beim Umsatz mit Maklern zu",
-     "url": "https://www.iz.de/unternehmen/news/-scout-24-legt-beim-umsatz-mit-maklern-zu-2000050204",
-     "date": "2026-11-04T09:06:00.000Z",
-     "text": "Scout 24, Betreiber der Onlineplattform Immoscout 24, meldet Wachstum bei Umsatz und Gewinn fürs dritte Quartal. Vor allem das Geschäft mit Immobilienmaklern lief gut."
-    },
-    {
-     "title": "Hoteldirektor flutet Tiefgarage",
-     "url": "https://www.iz.de/innovationen/news/-hoteldirektor-flutet-tiefgarage-2000050077",
-     "date": "2026-11-04T06:00:00.000Z",
-     "text": "Hoteldirektor Herbert Stemp lässt sich viel einfallen, um sein Wellnessresort im Bayerischen Wald nachhaltig zu gestalten. Dazu gehört unter anderem das Fluten der Tiefgarage mit Poolwasser drei bis vier Mal im Jahr. Weshalb er dies tut, verrät er im Video von BR 24."
-    },
-    {
-     "title": "Gropyus schickt mehrere Töchter in die Insolvenz",
-     "url": "https://www.iz.de/innovationen/news/-gropyus-schickt-mehrere-toechter-in-die-insolvenz-2000050202",
-     "date": "2026-11-04T05:45:00.000Z",
-     "text": "Eine ausgebliebene Investorenzahlung bringt das von Vonovia unterstützte Holzbau-Start-up Gropyus in Schwierigkeiten. Mehrere Tochtergesellschaften müssen Insolvenz anmelden."
-    },
-    {
-     "title": "Büroinvestor Alstria hält Umsatz stabil",
-     "url": "https://www.iz.de/unternehmen/news/-bueroinvestor-alstria-haelt-umsatz-stabil-2000050161",
-     "date": "2026-11-04T05:33:00.000Z",
-     "text": "Der Büroinvestor Alstria hat seinen Verschuldungsgrad weiter gesenkt. Der Umsatz in den ersten neun Monaten des Jahres blieb auf Vorjahresniveau."
-    },
-    {
-     "title": "München stoppt Ausbau der Gewerbehöfe",
-     "url": "https://www.iz.de/politik/news/-muenchen-stoppt-ausbau-der-gewerbehoefe-2000050140",
-     "date": "2026-11-03T14:06:00.000Z",
-     "text": "Die Stadt München will den Ausbau ihrer Gewerbehöfe vorerst stoppen. Damit würden die ambitionierten Ausbaupläne von Wirtschaftsreferent Christian Scharpf auf Eis gelegt."
-    },
-    {
-     "title": "Bauministerin und Branche sind uneins über den Erfolg des Bauturbos",
-     "url": "https://www.iz.de/politik/news/-bauministerin-und-branche-sind-uneins-ueber-den-erfolg-des-bauturbos-2000050138",
-     "date": "2026-11-03T13:52:00.000Z",
-     "text": "Der Bauturbo sei nach einem Jahr „in der Praxis angekommen“, lautet die Bilanz von Bundesbauministerin Verena Hubertz (SPD). Verbände kritisieren hingegen, dass viele Städte nicht damit arbeiten und genehmigte Wohnungen noch längst keine gebauten sind."
-    },
-    {
-     "title": "Immobilienbranche sieht Assetklasse Büro weiter unter Druck",
-     "url": "https://www.iz.de/maerkte/news/-immobilienbranche-sieht-assetklasse-buero-weiter-unter-druck-2000050136",
-     "date": "2026-11-03T12:56:00.000Z",
-     "text": "Die Immobilienbranche rechnet mit weiter nachlassendem Interesse an Büroinvestments. Unter den übrigen Nutzungsklassen schneidet Logistik am besten ab."
-    },
-    {
-     "title": "Pandion hält fürs Erste den Geschäftsbetrieb aufrecht",
-     "url": "https://www.iz.de/unternehmen/news/-pandion-haelt-fuers-erste-den-geschaeftsbetrieb-aufrecht-2000050135",
-     "date": "2026-11-03T12:35:00.000Z",
-     "text": "Der insolvente Projektentwickler Pandion erhält zur Finanzierung des laufenden Geschäftsbetriebs ein Massedarlehen. Zwei Tochtergesellschaften werden nicht weitergeführt."
-    },
-    {
-     "title": "Union Investment veräußert Hotel in Brüssel",
-     "url": "https://www.iz.de/transaktionen/news/-union-investment-veraeussert-hotel-in-bruessel-2000050133",
-     "date": "2026-11-03T12:29:00.000Z",
-     "text": "Union Investment hat das an Motel One verpachtete Hotel in der Rue Royale 120 in Brüssel an M&G Real Estate verkauft."
-    },
-    {
-     "title": "Accor eröffnet Hotels in Hildesheim und Saarbrücken",
-     "url": "https://www.iz.de/projekte/news/-accor-eroeffnet-hotels-in-hildesheim-und-saarbruecken-2000050132",
-     "date": "2026-11-03T12:24:00.000Z",
-     "text": "Accor baut seine Präsenz in Deutschland um je ein Hotel in Hildesheim und in Saarbrücken aus. Zudem befinden sich 30 weitere Häuser der Hotelgruppe in der Pipeline."
-    },
-    {
-     "title": "Schnapshersteller mietet Logistikimmobilie in Berlin-Pankow",
-     "url": "https://www.iz.de/transaktionen/news/-schnapshersteller-mietet-logistikimmobilie-in-berlin-pankow-2000050134",
-     "date": "2026-11-03T12:00:00.000Z",
-     "text": "In Weißensee im Berliner Bezirk Pankow hat der Produzent von Spirituosen O'Donnell Moonshine insgesamt gut 5.000 qm gemietet. Die Fertigstellung der Halle ist für das erste Quartal 2027 avisiert."
-    },
-    {
-     "title": "Fachmarktzentrum bei Augsburg wechselt Eigentümer",
-     "url": "https://www.iz.de/transaktionen/news/-fachmarktzentrum-bei-augsburg-wechselt-eigentuemer-2000050130",
-     "date": "2026-11-03T11:19:00.000Z",
-     "text": "Ein Fachmarktzentrum in Diedorf im Landkreis Augsburg ist an einen privaten Kapitalanleger aus der Region verkauft worden."
-    },
-    {
-     "title": "Karl-Gruppe erwirbt Chemieareal in Deggendorf",
-     "url": "https://www.iz.de/transaktionen/news/-karl-gruppe-erwirbt-chemieareal-in-deggendorf-2000050128",
-     "date": "2026-11-03T11:01:00.000Z",
-     "text": "Die Karl-Gruppe baut ihr Immobilienportfolio in Niederbayern aus: Der Projektentwickler aus Hengersberg hat das ehemalige Huntsman-Chemieareal in Deggendorf gekauft."
-    },
-    {
-     "title": "Stayery mietet über 6.000 qm für 105 Apartments in Berlin-Kreuzberg",
-     "url": "https://www.iz.de/transaktionen/news/-stayery-mietet-ueber-6.000-qm-fuer-105-apartments-in-berlin-kreuzberg-2000050131",
-     "date": "2026-11-03T11:01:00.000Z",
-     "text": "Ein deutsches Family-Office hat 6.620 qm in einem Bestandsgebäude in der Wrangelstraße im Berliner Bezirk Kreuzberg an Stayery vermietet. Der Hospitality-Anbieter kündigt für den Standort 105 Apartments für Kurz- und Langzeitaufenthalte an."
-    },
-    {
-     "title": "Althoff übernimmt das Sylter Hotel Windrose",
-     "url": "https://www.iz.de/transaktionen/news/-althoff-uebernimmt-das-sylter-hotel-windrose-2000050127",
-     "date": "2026-11-03T10:50:00.000Z",
-     "text": "Das Kölner Familienunternehmen Althoff wird künftig das Hotel Windrose in Wenningstedt auf Sylt betreiben. Nach einer umfassenden Sanierung soll es im Frühjahr 2028 wiedereröffnen."
-    },
-    {
-     "title": "Leonardo übernimmt früheres Intercity-Hotel in Schwerin",
-     "url": "https://www.iz.de/transaktionen/news/-leonardo-uebernimmt-frueheres-intercity-hotel-in-schwerin-2000050110",
-     "date": "2026-11-03T10:11:00.000Z",
-     "text": "Das zuvor von Revo betriebene Intercity-Hotel in Schwerin ist nun eine Herberge von Leonardo. Der neue Betreiber will die Immobilie mit 180 Zimmern umfassend renovieren."
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 403",
+   "items": []
   },
   {
    "name": "Immobilien Zeitung (Google News)",
@@ -849,14 +699,8 @@
    "ok": true,
    "items": [
     {
-     "title": "Steuern: Diese Nebenkosten können Mieter absetzen – die Grundsteuer nicht",
-     "url": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-diese-nebenkosten-koennen-mieter-absetzen-die-grundsteuer-nicht/100265061.html",
-     "date": "2026-11-04T13:07:52.000Z",
-     "text": "Der Fiskus entlastet Mieterinnen und Mieter bei ihren Wohnnebenkosten. Welche Posten Sie absetzen können und wann Sie Nachzahlungen richtig geltend machen."
-    },
-    {
      "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-     "url": "https://www.handelsblatt.com/technik/ki/ki-menschen-schaetzen-echte-menschliche-verbindung-noch-immer-sehr/100223312.html",
+     "url": "https://www.handelsblatt.com/technik/ki/ki-wenn-wir-einzelne-individuen-sind-ist-das-schlecht-fuer-die-demokratie/100223312.html",
      "date": "2026-11-04T13:07:00.000Z",
      "text": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen."
     },
@@ -1027,6 +871,12 @@
      "url": "https://www.handelsblatt.com/politik/international/us-parlamentswahl-trump-abgestraft-demokraten-triumphieren-bei-kongresswahl/100267117.html",
      "date": "2026-11-04T11:20:14.000Z",
      "text": "Donald Trumps Republikaner müssen bei der Kongresswahl eine verheerende Niederlage einstecken. Die US-Wähler rechneten mit der Politik des Präsidenten ab, der nun vor zwei härteren Jahren steht."
+    },
+    {
+     "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
+     "url": "https://www.handelsblatt.com/politik/international/migration-was-macht-polen-fuer-deutsche-auswanderer-so-attraktiv/100249315.html",
+     "date": "2026-11-04T11:18:00.000Z",
+     "text": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?"
     }
    ]
   },
@@ -1056,13 +906,6 @@
      "via": "SAT.1 Regional"
     },
     {
-     "title": "17:30 SAT.1 Niedersachsen und Bremen - Neubau der Bahntrasse Hannover-Hamburg beschlossen - Joyn",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTVdfSVZnMmJhN2lnTlRsMWdFRWFjU3dvYVd0NmNBYjBVYVpqWHNNYkF3X0FPRTVNdDlXLUhBUzZwSmotS2ZPUHhoWl9xckZkTWNoQ0NCNGhqNjZHQkFMeGxFcVdxaHN2VHJDMHRfTmhYck5mYVZSZ09pYTlPclJFWmFoajdTRm9wZTByTG5vclAtNEQzV2x0NTlOWDU5RGZOd0NiT2NnMHlBZFA0UWh6UjBiODFCVXpyOEY0UGhnTnZ4bTlOZnhOMzBWZEs?oc=5",
-     "date": "2026-11-02T23:32:26.000Z",
-     "text": "17:30 SAT.1 Niedersachsen und Bremen - Neubau der Bahntrasse Hannover-Hamburg beschlossen Joyn",
-     "via": "Joyn"
-    },
-    {
      "title": "„Hass und Hetze“: SPD-Fraktionschef attackiert Linken-Politiker wegen Insta-Post - Hamburger Abendblatt",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdWFGZVJ2UUtiUjVTdEppaGNiOEJXSGkweEZKNDBuSndqcFNZS0R0UDVJSVZ4SWtnTW1RU1JORXJjUFpTT0VoODF2SlJtNmdKZ05KQlkyajNReEsxM0pZOUJ1MkpROHVqQ3lZVmhGRkZ6dkFNa1Y2RHJNNU53UTVvMVNOdFNVQk5lNDJubGhBQzNBb1YzMnRoUUM5dlB2TU93cGRERmZWQTMwbFdub3BlY3J5Mjh4b3dyOEZEZENMMGZYbVFQNTJib0dCdw?oc=5",
      "date": "2026-11-03T12:59:00.000Z",
@@ -1075,15 +918,7 @@
    "name": "Google News: Büromarkt Hamburg",
    "focus": "Büromarkt Hamburg. Reicht 7 Tage zurück, weil Marktberichte selten erscheinen.",
    "ok": true,
-   "items": [
-    {
-     "title": "Deutsche Luxusimmobilien: München und Hamburg trotzen der Marktschwäche - aktien.news",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEMxYXE4VEFfaldBZnJ2cms0TC1aTHo5WGFzejNheUh1RlBxOEtYWmtCX0RCLU1NV3VjN2ZwbUtXMk5EYVlnSzFCOE1MclBWbUlraFJoWWt6UUZvRldRTHdBTFltdTItaXI1N0dfUkNhLWRZbV9BUHpDTUphcjFIMWVJV2FvQjlKQUNXRGY3RElqd0dqSF9NbmNB?oc=5",
-     "date": "2026-10-28T15:20:14.000Z",
-     "text": "Deutsche Luxusimmobilien: München und Hamburg trotzen der Marktschwäche aktien.news",
-     "via": "aktien.news"
-    }
-   ]
+   "items": []
   },
   {
    "name": "Google News: Immobilienmarkt Deutschland",
@@ -1097,25 +932,11 @@
      "via": "Konii"
     },
     {
-     "title": "Immobilien: Eigentumsquote in Deutschland geht zurück - Der große Rückzug der Gen Z - WELT",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNjJjVmh5VnJ0LXRBWmdhT0U4S19WSUpZOXpiWFJjcVVUbFotRmIzbWVWVkhadW9iSEc5STVqd0J2QVN0MW9ZdDR3WlNfTzlfWGxHM0tKMGtaZktYR01sNzlYa2pkaXNySnM3ZndOOHJ2aHdOS0E1RjVRQXByVW12akdZc3dmRmdrZWt5cU1TZHhabmQwUW14M2lreTRkNUlmX1ZrcE9mSEdvRlFlc0tVZ3RGZ1VUZVhCM1ktTXU0MWN5cHFLOVRlQmpUMVBBNE14YlRDR1BycTUydWVtVlpz?oc=5",
-     "date": "2026-11-02T23:40:18.000Z",
-     "text": "Immobilien: Eigentumsquote in Deutschland geht zurück - Der große Rückzug der Gen Z WELT",
-     "via": "WELT"
-    },
-    {
      "title": "Immobilienmarkt: Ein Jahr Bau-Turbo: Ministerin sieht erste Effekte - Mitteldeutsche Zeitung",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFp5Q3RHM2l6cmx3VG5FU1k3WnAzbnc0N2tQYWY3ZzNvMGRuYlBQb01nbDFpZGdaMUJoZ3hldlFMWHYxWS1CMkpITVpHVjJGSW11R2xYbGFzblR4WFFZUTlHeTNZMXZfWXlILW1hdWtBZ2NYczBGSEtTbVVMMm9nU0tvMFhJbUt2YUFqRXlBX3BWOE1YMnhVeXF3MWZSQTZtdEFreVFlTWgwOEk?oc=5",
      "date": "2026-11-03T11:31:00.000Z",
      "text": "Immobilienmarkt: Ein Jahr Bau-Turbo: Ministerin sieht erste Effekte Mitteldeutsche Zeitung",
      "via": "Mitteldeutsche Zeitung"
-    },
-    {
-     "title": "Australische Immobilienpreise fallen siebten Monat in Folge - aktien.news",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSTBUTmYyU3JQZ29UUEFyWTFyMjg1Vl9PM0R3dEcxbXJGNDJjaTZka0xQb0h3SmJEa25vem45T3BaandzZzJjT25EbEVtRVBFNTM2NUNnakFHMklCd1FtZVRjSS14SjdmOTh6M0lQNjhkYUJ2VGV3T3lRV2lTV3ZXT2Z5OGprTlp6OUlR?oc=5",
-     "date": "2026-11-02T14:56:07.000Z",
-     "text": "Australische Immobilienpreise fallen siebten Monat in Folge aktien.news",
-     "via": "aktien.news"
     },
     {
      "title": "Grenzgänger wollen (zurück) nach Luxemburg - Luxemburger Wort",
