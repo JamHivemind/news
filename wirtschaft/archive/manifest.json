@@ -1,0 +1,32 @@
+{
+  "briefs": [
+    {
+      "date": "2026-11-04",
+      "file": "2026-11-04.html",
+      "headline": "Inflation im Euroraum steigt auf 4,0 Prozent",
+      "count": 14,
+      "sources": 6,
+      "cats": {
+        "Konjunktur": 2,
+        "Unternehmen": 5,
+        "Zinsen & Geldpolitik": 2,
+        "Arbeit & Soziales": 1,
+        "Energie": 2,
+        "Politik & Handel": 1,
+        "Börse & Märkte": 1
+      },
+      "ents": {
+        "BMW": 1,
+        "China": 1,
+        "EZB": 2,
+        "Bundesbank": 1,
+        "Bundesregierung": 1,
+        "BASF": 1
+      }
+    }
+  ],
+  "site": {
+    "title": "Wirtschaft & Zinsen",
+    "description": "Konjunktur, Geldpolitik, Börse und Unternehmen in Deutschland und Europa, jeden Morgen kurz auf Deutsch"
+  }
+}

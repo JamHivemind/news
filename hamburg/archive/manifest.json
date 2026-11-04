@@ -1,0 +1,31 @@
+{
+  "briefs": [
+    {
+      "date": "2026-11-04",
+      "file": "2026-11-04.html",
+      "headline": "Hamburg verschickt 26.000 neue Grundsteuerbescheide",
+      "count": 16,
+      "sources": 6,
+      "cats": {
+        "Stadt & Politik": 3,
+        "Verkehr": 2,
+        "Bauen & Wohnen": 4,
+        "Wirtschaft & Hafen": 3,
+        "Kultur & Freizeit": 1,
+        "Polizei & Sicherheit": 2,
+        "Sport": 1
+      },
+      "ents": {
+        "Senat": 2,
+        "Bürgerschaft": 1,
+        "Elbtower": 1,
+        "Hafen": 1,
+        "HSV": 1
+      }
+    }
+  ],
+  "site": {
+    "title": "Hamburg",
+    "description": "Was in Hamburg passiert: Stadt, Verkehr, Bauen, Wirtschaft und Hafen, jeden Morgen kurz"
+  }
+}
