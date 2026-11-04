@@ -3,6 +3,9 @@ on:
   push:
     paths: ['**/content.json', '**/config.json', 'template.html', 'scripts/**', 'assets/**']
   schedule:
+    # Feeds vor dem Morgenlauf der Routine holen (05:40 Berlin im Winter; Routine 06:15).
+    # Die Cloud-Umgebung der Routine erreicht die Nachrichtenseiten nicht, GitHub schon.
+    - cron: '40 4 * * *'
     # Kennzahlen auch an Tagen ohne neue Ausgabe nachziehen (09:20 Berlin im Winter)
     - cron: '20 8 * * *'
   workflow_dispatch:
@@ -23,6 +26,9 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: 22
+
+      - name: Feeds holen (für die Routine)
+        run: node scripts/feeds.mjs
 
       - name: Kennzahlen holen (EZB, Börse, KI-News)
         run: node scripts/metrics.mjs

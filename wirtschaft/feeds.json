@@ -1,0 +1,798 @@
+{
+ "fetched": "2026-11-04T12:14:01.266Z",
+ "hours": 48,
+ "sources": [
+  {
+   "name": "tagesschau Wirtschaft",
+   "ok": true,
+   "items": [
+    {
+     "title": "Airlines streichen Flüge: Verliert Deutschland den Anschluss?",
+     "url": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html",
+     "date": "2026-11-04T05:23:01.000Z",
+     "text": "Fluggesellschaften klagen über zu hohe Steuern und Abgaben in Deutschland. Die Airlines haben zuletzt etliche Verbindungen gestrichen. Verliert die deutsche Luftfahrt den Anschluss? Von Sebastian Schreiber."
+    },
+    {
+     "title": "Inflation im Euroraum steigt auf 4,0 Prozent",
+     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html",
+     "date": "2026-11-04T11:12:00.000Z",
+     "text": "Die Teuerung in der Eurozone ist im Oktober auf 4,0 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Besonders die hohen Energiepreise sind Treiber der aktuellen Entwicklung."
+    },
+    {
+     "title": "BMW erwirtschaftet noch weniger Gewinn",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html",
+     "date": "2026-11-04T08:21:37.000Z",
+     "text": "Die Absatzkrise in China lässt den Gewinn von BMW im dritten Quartal weiter einbrechen. Auch teure Abfindungen und das vorgezogene Aus älterer Modelle verhageln dem Münchner Autobauer die Bilanz."
+    },
+    {
+     "title": "Marktbericht: DAX-Anleger reagieren gelassen",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
+     "date": "2026-11-04T09:46:01.000Z",
+     "text": "Nach dem Wahlsieg der Demokraten in den USA gehen die Anleger schnell zur Tagesordnung über. Der DAX holt vorbörsliche Verluste wieder auf. Im Fokus steht dabei der Fortgang der Berichtssaison."
+    },
+    {
+     "title": "Wirtschaft vor acht vom 03.11.2026",
+     "url": "https://www.tagesschau.de/video/video-1677572.html",
+     "date": "2026-11-03T18:52:45.000Z",
+     "text": "Wirtschaft vor acht vom 03.11.2026"
+    },
+    {
+     "title": "Update Wirtschaft vom 04.11.2026",
+     "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1677864.html",
+     "date": "2026-11-04T09:29:34.000Z",
+     "text": "Update Wirtschaft vom 04.11.2026"
+    },
+    {
+     "title": "Evonik wehrt sich gegen Chemieriese BASF",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-fusion-100.html",
+     "date": "2026-11-03T14:59:40.000Z",
+     "text": "Es wäre die größte Fusion in der deutschen Chemiebranche: Wenn BASF und Evonik zusammengingen, entstünde ein Konzern mit einem Jahresumsatz von rund 74 Milliarden Euro. Doch noch sträubt sich Evonik. Von Michael Heussen."
+    },
+    {
+     "title": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
+     "url": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
+     "date": "2026-11-03T13:49:27.000Z",
+     "text": "Statt fünf waren es plötzlich 50 Grad: In der Nacht haben Hacker in mehreren Supermärkten in Deutschland die Kühlanlagen umgestellt. Große Mengen an Lebensmitteln mussten entsorgt werden. Ähnliche Cyberangriffe gab es auch im Ausland."
+    },
+    {
+     "title": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
+     "url": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html",
+     "date": "2026-11-02T16:10:17.000Z",
+     "text": "Cyberkriminelle haben offenbar wieder Supermärkte angegriffen. Sie sorgten besonders in Belgien und Schweden dafür, dass Kühlschränke und Tiefkühltruhen wärmer wurden. Es ist nicht das erste Mal."
+    },
+    {
+     "title": "EU genehmigt MediaMarktSaturn-Übernahme durch JD.com",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html",
+     "date": "2026-11-03T13:25:20.000Z",
+     "text": "Der chinesische Tech-Riese JD.com darf Europas größten Elektronikfachhändler MediaMarktSaturn übernehmen. Das hat die EU-Kommission entschieden. Doch aus Brüssel kommen Auflagen."
+    },
+    {
+     "title": "Bundesnetzagentur fördert den Bau elf neuer Gaskraftwerke",
+     "url": "https://www.tagesschau.de/wirtschaft/energie/bundesnetzagentur-gaskraftwerke-100.html",
+     "date": "2026-11-03T10:28:56.000Z",
+     "text": "Die Bundesnetzagentur vergibt erstmals eine Förderung für neue Gas-Reservekraftwerke. In Brandenburg, NRW und Sachsen sind die meisten Projekte geplant. Mehrere Unternehmen profitieren."
+    },
+    {
+     "title": "Was Polens Wirtschaft boomen lässt",
+     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/polen-boom-wirtschaftswunder-100.html",
+     "date": "2026-11-03T07:23:57.000Z",
+     "text": "Jahrzehntelang galt Polen als der arme Nachbar im Osten. Ein längst veraltetes Klischee: Die polnische Wirtschaft wächst stark - was viele Menschen aus Deutschland anlockt. Von Christiane Cichy."
+    }
+   ]
+  },
+  {
+   "name": "Spiegel Wirtschaft",
+   "ok": true,
+   "items": [
+    {
+     "title": "Energiepreise: Deutsche kaufen 38 Prozent weniger Heizöl",
+     "url": "https://www.spiegel.de/wirtschaft/energiepreise-deutsche-kaufen-38-prozent-weniger-heizoel-a-0eef58fb-5baa-4c21-8938-98aca25e9769#ref=rss",
+     "date": "2026-11-04T11:16:00.000Z",
+     "text": "Deutschland wird in diesem Jahr wohl weniger Energie verbrauchen als zuvor, auch private Haushalte halten sich zurück. Einige fossile Energieträger finden trotzdem mehr Absatz."
+    },
+    {
+     "title": "Hohe Energiepreise: Inflation im Euroraum steigt auf vier Prozent",
+     "url": "https://www.spiegel.de/wirtschaft/hohe-energiepreise-inflation-im-euroraum-steigt-auf-vier-prozent-a-6aa49e04-4639-4134-acf6-08d84917b500#ref=rss",
+     "date": "2026-11-04T10:39:00.000Z",
+     "text": "Weil Energie infolge des Irankriegs teurer ist, steigt in der Eurozone auch die Inflation. Im Oktober hat sie den höchsten Stand seit mehr als drei Jahren erreicht."
+    },
+    {
+     "title": "IG-Metall-Chefin Christiane Benner vs. Audi: »Ich habe mich fremdgeschämt«",
+     "url": "https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-vs-audi-ich-habe-mich-fremdgeschaemt-a-ed782c85-684f-4c18-99da-f55a1b350837#ref=rss",
+     "date": "2026-11-04T08:42:00.000Z",
+     "text": "Er zeigte sich neben Donald Trump auf einer Wahlkampfbühne: IG-Metall-Chefin und VW-Aufsichtsrätin Christiane Benner fällt ein hartes Urteil über Audi-Frontmann Döllner. Und sie kündigt einen entschlossenen Arbeitskampf an."
+    },
+    {
+     "title": "BMW macht 15 Prozent weniger Gewinn – und es dürfte noch schlimmer werden",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-macht-15-prozent-weniger-gewinn-und-es-duerfte-noch-schlimmer-werden-a-c122d2d7-a0c6-48a1-97ca-043d5fef46cd#ref=rss",
+     "date": "2026-11-04T07:23:00.000Z",
+     "text": "Am Abend die Gewinnwarnung, am Morgen die schwachen Zahlen: Das geringe Geschäft in China hat BMW das dritte Quartal vermiest. Konkurrenten geht es teils aber noch schlechter."
+    },
+    {
+     "title": "Berlin: Rapper Sido gibt seinen Späti »Svenni’s Nachtshop« auf",
+     "url": "https://www.spiegel.de/wirtschaft/berlin-rapper-sido-gibt-seinen-spaeti-svennis-nachtshop-auf-a-dd5115fa-886d-4630-94ef-c80a1f96186b#ref=rss",
+     "date": "2026-11-04T06:26:00.000Z",
+     "text": "In der Nähe des Ostkreuzes betreibt Rapper Sido mit zwei Kollegen einen Kiosk. Doch nun haben sich die Umstände geändert, der Laden soll schließen."
+    },
+    {
+     "title": "Handwerk erwartet steigende Kosten für Kunden",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/handwerk-erwartet-steigende-kosten-fuer-kunden-a-962b71ab-1f43-4fb3-bee2-e88b91f67747#ref=rss",
+     "date": "2026-11-04T05:53:00.000Z",
+     "text": "Wer etwa eine Wohnung saniert oder einen Schaden daran reparieren lassen will, dürfte künftig mehr bezahlen als bislang. Der Handwerksverband rechnet mit steigenden Preisen – aus zwei Gründen."
+    },
+    {
+     "title": "Pflege: Knapp 3400 Euro Eigenanteil – was mit Ihrem Ersparten passiert",
+     "url": "https://www.spiegel.de/wirtschaft/service/pflege-knapp-3400-euro-eigenanteil-was-mit-ihrem-ersparten-passiert-a-dd541cb4-5fe1-45c5-bef8-bf40712d4274#ref=rss",
+     "date": "2026-11-04T04:30:00.000Z",
+     "text": "Die Pflege im Heim wird für immer mehr Menschen unbezahlbar. Expertin Silke Möhring erklärt, wann die Kinder einspringen müssen und ob es sich überhaupt noch lohnt, Geld zurückzulegen."
+    },
+    {
+     "title": "BMW: Prognose für 2026 erneut gesenkt",
+     "url": "https://www.spiegel.de/wirtschaft/bmw-prognose-fuer-2026-erneut-gesenkt-a-ec19601a-7b36-4467-860d-01e655ba77bb#ref=rss",
+     "date": "2026-11-03T20:53:00.000Z",
+     "text": "Für das laufende Geschäftsjahr rechnet BMW mit Verlusten im Automobilsegment. Das hat auch mit dem Umbau im Management zu tun."
+    },
+    {
+     "title": "Leag: Doppelt Geld für Kohlekraftwerke",
+     "url": "https://www.spiegel.de/wirtschaft/soziales/leag-doppelte-staatsgelder-fuer-kohlekraftwerke-a-65f1ed16-8103-47eb-b45a-09e63f8a3e1c#ref=rss",
+     "date": "2026-11-03T16:17:00.000Z",
+     "text": "Der Lausitzer Stromerzeuger bekommt 1,75 Milliarden Euro, weil er alte Kohlekraftwerke vorzeitig abschaltet. Und nochmals Geld, um die Meiler zu Gaskraftwerken umzubauen. Das kann rechtlich nicht sauber sein."
+    },
+    {
+     "title": "Renten sollen 2027 um mehr als vier Prozent steigen",
+     "url": "https://www.spiegel.de/wirtschaft/soziales/renten-sollen-2027-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa#ref=rss",
+     "date": "2026-11-03T15:52:00.000Z",
+     "text": "Die Bundesregierung erwartet 2027 eine Rentenerhöhung von mehr als vier Prozent. Der Beitragssatz bleibt stabil, soll aber in den kommenden Jahren steigen."
+    },
+    {
+     "title": "Türkei: Justizminister wittert »umfassende kriminelle Vereinigung« hinter Börsenskandal",
+     "url": "https://www.spiegel.de/wirtschaft/tuerkei-tuerkischer-justizminister-wittert-umfassende-kriminelle-vereinigung-hinter-boersenskandal-a-d8366e11-f36a-4c74-8db7-94d8698345ef#ref=rss",
+     "date": "2026-11-03T14:52:00.000Z",
+     "text": "Ein Fondskandal erschüttert die Türkei, Hunderttausende Menschen sind betroffen. Nun erheben die Behörden schwere Vorwürfe gegen den abgesetzten Istanbuler Börsenchef Korkmaz Enes Ergun."
+    },
+    {
+     "title": "Künstliche Intelligenz: KI-Chatbots können Rechte von Presseverlagen verletzen",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-ki-chatbots-koennen-rechte-von-presseverlagen-verletzen-a-97b10c58-0481-440d-afde-df5f5d31ad3c#ref=rss",
+     "date": "2026-11-03T12:13:00.000Z",
+     "text": "Werden Presseartikel vervielfältigt oder öffentlich zugänglich gemacht von KI? Unter Umständen schon, heißt es im Schlussantrag zu einem Verfahren am EuGH. Die »berichtete Tatsache« sei jedoch nicht geschützt."
+    },
+    {
+     "title": "Mediamarkt-Saturn: EU-Kommission genehmigt Übernahme durch chinesischen Techriesen JD.com",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/mediamarkt-saturn-eu-kommission-genehmigt-uebernahme-durch-chinesischen-techriesen-jd-com-a-72d1e702-9517-4dd9-a124-16d050f8e556#ref=rss",
+     "date": "2026-11-03T10:51:00.000Z",
+     "text": "Der Handelskonzern JD.com darf die Muttergesellschaft von Mediamarkt-Saturn kaufen. Gegenüber der EU-Kommission hat der chinesische Techriese zugesichert, den Wettbewerb nicht durch unfaire Staatshilfen zu verzerren."
+    },
+    {
+     "title": "Gas aus Russland: Warum Donald Trumps Pipeline-Deal für Europa riskant wäre",
+     "url": "https://www.spiegel.de/wirtschaft/gas-aus-russland-warum-donald-trumps-pipeline-deal-fuer-europa-riskant-waere-a-da9d7824-2301-4b9b-8cc4-42701e1b0003#ref=rss",
+     "date": "2026-11-03T10:44:00.000Z",
+     "text": "Es klingt nach einem Trump-Deal: Wenn wieder Pipelinegas aus Russland durch die Ukraine strömt, soll Energie endlich günstiger werden. Doch Experten warnen: Der Plan sei nicht nur politisch »verheerend«, sondern auch ökonomisch fragwürdig."
+    },
+    {
+     "title": "Autobahn GmbH: Bundesrechnungshof kritisiert Finanzreform scharf",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-bundesrechnungshof-kritisiert-finanzreform-scharf-a-0151ed9c-9ee5-41ab-89f7-09c1a91dd168#ref=rss",
+     "date": "2026-11-03T10:24:00.000Z",
+     "text": "Ein Wunschprojekt von Kanzler und Verkehrsminister lässt den Bundesrechnungshof nach SPIEGEL-Informationen Alarm schlagen: Die Regierung solle der Autobahn GmbH nicht erlauben, sich selbst zu verschulden."
+    },
+    {
+     "title": "Midterms: Warum sich auch die Wall Street einen Sieg der Demokraten wünscht",
+     "url": "https://www.spiegel.de/wirtschaft/service/midterms-warum-sich-auch-die-wall-street-einen-sieg-der-demokraten-wuenscht-a-4c0bf4ce-368b-4099-bcef-645a7dad04fc#ref=rss",
+     "date": "2026-11-03T09:20:00.000Z",
+     "text": "Vor den Midtermwahlen ist die Stimmung an den Aktienmärkten nervös. Gewinnen die Demokraten beide Parlamentskammern und erhöhen die Steuern? Die Erfahrung zeigt, dass ein bestimmtes Szenario für die Börsen am besten ist."
+    },
+    {
+     "title": "Wirtschaft: Friedrich Merz sollte sich dem Zeitgeist widersetzen",
+     "url": "https://www.spiegel.de/wirtschaft/wirtschaftspolitischer-kurs-warum-deutschland-politisch-rechts-wirtschaftlich-links-tickt-a-7eeed536-37bc-4baa-8f44-9c22738dd603#ref=rss",
+     "date": "2026-11-03T09:13:00.000Z",
+     "text": "Politisch ist das Land deutlich nach rechts gerückt, wirtschaftspolitisch tickt es zunehmend links. Wie kann das sein?"
+    },
+    {
+     "title": "Leag bekommt Zuschlag für alte Kohlekraftwerke",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/leag-bekommt-zuschlag-fuer-alte-kohlekraftwerke-a-6742bd40-c723-40aa-b15a-005d8206b82b#ref=rss",
+     "date": "2026-11-03T08:21:00.000Z",
+     "text": "Der Leag-Konzern will alte Braunkohlekraftwerke auf Gas umrüsten und sich das von den Stromverbrauchern bezahlen lassen. Die Bundesnetzagentur hat diesen umstrittenen Plan nun bei einer Auktion gebilligt."
+    },
+    {
+     "title": "Schaeffler baut Tausende Stellen ab und schließt vier deutsche Werke",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-baut-tausende-stellen-ab-und-schliesst-vier-deutsche-werke-a-d8d594dc-cc55-4a16-9ece-e3c76fcf22b3#ref=rss",
+     "date": "2026-11-03T07:38:00.000Z",
+     "text": "Der bayerische Autozulieferer Schaeffler steckt tief in der Krise. Nun kündigt der Konzern weitere Sparmaßnahmen an: Zahlreiche Beschäftigte verlieren ihren Arbeitsplatz, andere müssen auf Gehalt verzichten."
+    },
+    {
+     "title": "Iran-Krieg: Aramco steigert Gewinn trotz Angriffen und hoher Ölpreise",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-oelkonzern-erhoeht-gewinn-trotz-angriffen-im-irankrieg-a-77687919-cb49-4802-abe8-296d589a55ac#ref=rss",
+     "date": "2026-11-03T06:59:00.000Z",
+     "text": "Seine Anlagen sind Ziel Irans und dessen Verbündeter. Dennoch nutzt der Konflikt Aramco: Wegen der hohen Ölpreise macht der saudi-arabische Konzern mehr Gewinn."
+    }
+   ]
+  },
+  {
+   "name": "FAZ Wirtschaft",
+   "ok": true,
+   "items": [
+    {
+     "title": "Wahlen in den USA: „Der Anfang vom Ende von Trump und seiner Politik“",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/der-anfang-vom-ende-von-trump-und-seiner-politik-was-die-midterms-fuer-europa-bedeuten-accg-201650311.html",
+     "date": "2026-11-04T10:11:48.000Z",
+     "text": "Nach dem Sieg der Demokraten in den USA dürfen die Europäer in der Handelspolitik keine Erleichterungen erwarten, erklären international erfahrene Ökonomen. Sie erwarten keine drastische Änderung der amerikanischen Wirtschaftspolitik."
+    },
+    {
+     "title": "Kongresswahlen: Das ganze Geld von Musk hat nichts gebracht",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bittere-pleite-fuer-elon-musk-bei-us-midterms-2026-halbe-milliarde-dollar-an-wahlkampfspenden-ohne-erfolg-accg-201649321.html",
+     "date": "2026-11-04T11:20:56.000Z",
+     "text": "Elon Musk hat eine halbe Milliarde Dollar in den US-Wahlkampf gepumpt – und auf breiter Front verloren. Jetzt könnte einiges auf ihn zukommen."
+    },
+    {
+     "title": "EU-Verbrennerverbot: Wie wäre es, die CO₂-Grenzwerte von Neuwagen komplett abzuschaffen?",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/verbrennerverbot-braucht-die-eu-einen-neuen-weg-zur-dekarbonisierung-accg-201307501.html",
+     "date": "2026-11-04T09:57:18.000Z",
+     "text": "Europa verhandelt über die Zukunft des Autos. Die EU-Kommission will nur kleine Abstriche von ihren Regeln erlauben. Doch es gibt Alternativen."
+    },
+    {
+     "title": "Business-Ticker: Cyberangriff auf Kühlhäuser von Metzgerei",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-cyberangriff-auf-kuehlhaeuser-von-metzgerei-hoher-schaden-faz-200452404.html",
+     "date": "2026-11-04T08:40:38.000Z",
+     "text": "Gewinneinbruch bei BMW – China-Geschäft belastet +++ Gesamtmetall sieht weitere 300.000 Jobs in Gefahr +++ Ferrari „sehr zufrieden“ mit erstem E-Ferrari +++ Lufthansa und Lissabon unterzeichnen Tap-Einstieg +++ alle Neuigkeiten im Unternehmen-Liveblog"
+    },
+    {
+     "title": "nachfolge im Unternehmen: „Ich habe wirklich keinen Plan B gehabt“",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nachbarstochter-rettet-brauerei-haerle-ich-habe-wirklich-keinen-plan-b-gehabt-accg-201605816.html",
+     "date": "2026-11-03T06:27:05.000Z",
+     "text": "Gottfried Härle hatte alles, was eine Brauerei braucht: Technik, Marke, Finanzierung. Nur eine Nachfolgeregelung für das Familienunternehmen fehlte ihm. Das änderte ein einziger Satz seiner Nachbarstochter."
+    },
+    {
+     "title": "Wettbewerb im Schienenverkehr: Eine bessere Bahn? So nicht!",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wettbewerb-auf-der-schiene-warum-italo-in-deutschland-scheitert-201614457.html",
+     "date": "2026-11-04T11:05:58.000Z",
+     "text": "Mehr Wettbewerb im Schienenverkehr – den wünschen sich viele Bahnkunden. Doch die Realität sieht anders aus."
+    },
+    {
+     "title": "Hauseingänge in Paris: Sie haben Post!",
+     "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/sie-haben-post-pariser-hauseingaenge-201633783.html",
+     "date": "2026-11-04T10:17:48.000Z",
+     "text": "Wer in Paris nur die Fassaden bewundert, verpasst womöglich das Beste. Ein neuer Bildband zeigt, welche Schätze sich in den Eingangsbereichen gewöhnlicher Pariser Wohnhäuser verbergen."
+    },
+    {
+     "title": "BMW in der Krise: Kein Aufbruch, nur Krisenmanagement",
+     "url": "https://www.faz.net/aktuell/wirtschaft/bmw-chef-milan-nedeljkovi-kein-aufbruch-nur-krisenmanagement-201650292.html",
+     "date": "2026-11-04T09:25:26.000Z",
+     "text": "Der neue BMW-Vorstandsvorsitzende sollte für einen Neuanfang stehen. Doch Milan Nedeljković verwaltet nur die Symptome der Krise."
+    },
+    {
+     "title": "Digitalgipfel: Die letzte Warnung",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/digitalgipfel-ritual-der-absichtserklaerungen-statt-echter-ki-politik-201647041.html",
+     "date": "2026-11-03T19:01:28.000Z",
+     "text": "Auf dem Digitalgipfel mahnt die KI-Taskforce, Deutschland verliere ohne rasches Handeln den Anschluss. Der Gipfel allein wird daran leider nichts ändern."
+    },
+    {
+     "title": "Autozulieferer: Schaeffler zwischen den Mühlsteinen",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/schaeffler-zwischen-den-muehlsteinen-201647394.html",
+     "date": "2026-11-03T13:56:52.000Z",
+     "text": "Der Zulieferer steckt in einem strukturellen Dilemma: Das Geschäft mit dem Verbrennungsmotor bricht ein, und die Elektromobilität gleicht den Rückgang nicht aus."
+    },
+    {
+     "title": "Autoindustrie: Wer Luxusautos verteufelt, riskiert Arbeitsplätze",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/luxusautos-in-deutschland-warum-wir-sie-brauchen-201644441.html",
+     "date": "2026-11-02T21:31:16.000Z",
+     "text": "Luxusautos haben einen schlechten Ruf. Doch wer weniger von ihnen möchte, wünscht die Verlagerung deutscher Autoarbeitsplätze nach Spanien, Ungarn und sonst wohin."
+    },
+    {
+     "title": "Proteste am Wochenende: Die Gen Z macht es sich zu einfach",
+     "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/proteste-der-generation-z-am-wochende-sie-macht-es-sich-zu-einfach-accg-201643151.html",
+     "date": "2026-11-02T12:50:09.000Z",
+     "text": "Die Generation Z sieht die Verantwortung für ihre Probleme vor allem beim Staat. Statt die Zukunft zur Aufgabe anderer zu erklären, würde eigenes Handeln mehr bewirken."
+    },
+    {
+     "title": "Digitale Hausmeister: „Die Reinigungstour nachts macht der Roboter allein“",
+     "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/buero-gewerbe/wolf-dieter-adlhoch-wie-dussmann-auf-reinigungsroboter-setzt-accg-201623340.html",
+     "date": "2026-11-04T09:10:00.000Z",
+     "text": "Dienstleister Dussmann setzt auf Reinigungsroboter, aber sucht mehr menschliche Mitarbeiter. Manager Wolf-Dieter Adlhoch spricht über höhere Gehälter, Künstliche Intelligenz und fleischfreies Kantinenessen."
+    },
+    {
+     "title": "Ruhestand: Wie viele Ältere nutzen die umstrittene Frührente?",
+     "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/fast-zwei-drittel-gehen-frueher-in-rente-wer-die-fruehrente-nutzt-accg-201650232.html",
+     "date": "2026-11-04T08:09:03.000Z",
+     "text": "Die meisten Menschen gehen laut einer neuen Untersuchung früher in Rente. Wie lange das noch in heutiger Form möglich ist, ist in der Koalition derzeit umstritten."
+    },
+    {
+     "title": "Digitalgipfel: Wie Deutschland im KI-Rennen Boden gewinnen will",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschlands-ki-strategie-aufholen-gegen-usa-und-china-201646770.html",
+     "date": "2026-11-03T19:01:03.000Z",
+     "text": "Weit abgeschlagen, aber noch nicht ausgeschieden. Mit einer KI-Strategie und mehr Rechenzentren versucht die Regierung aufzuholen."
+    },
+    {
+     "title": "Wirtschaftsbücher: Ein Headhunter erzählt",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/heiner-thorborg-was-deutschlands-bekanntester-headhunter-verraet-201557376.html",
+     "date": "2026-11-02T16:26:06.000Z",
+     "text": "Der Headhunter Heiner Thorborg vermittelt seit mehr als 45 Jahren Managertalente für die obersten Chefetagen. In seinem neuen Buch erzählt er im Plauderton über seine verschwiegene Branche."
+    },
+    {
+     "title": "Lufthansa: Warum sich Flugpassagiere auf höhere Ticketpreise einstellen müssen",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lufthansa-senkt-jahresprognose-kerosinrechnung-steigt-auf-9-3-milliarden-euro-201646643.html",
+     "date": "2026-11-03T18:49:36.000Z",
+     "text": "Premiumkunden helfen Lufthansa, ihr Sommerergebnis zu steigern. Wegen des hohen Kerosinpreises senkt der Konzern aber seine Jahresprognose. 2027 könnte es für Fluggäste teuer werden."
+    },
+    {
+     "title": "Drittes Quartal: Biontech stellt mehr Umsatz in Aussicht – trotz geringerer Impfstoffverkäufe",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/biontech-steigert-umsatzprognose-trotz-schwacher-impfstoffnachfrage-201646577.html",
+     "date": "2026-11-03T15:40:59.000Z",
+     "text": "Biontech verzeichnet erstmals schwarze Zahlen in diesem Jahr und stellt etwas höhere Umsätze in Aussicht. Wichtige strategische Fragen, wie die Nachfolge von Forschungschefin Türeci, bleiben weiter offen."
+    },
+    {
+     "title": "starke pharmasparte: Bayer sieht den „Wendepunkt“ erreicht",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-sieht-den-wendepunkt-erreicht-201646732.html",
+     "date": "2026-11-03T15:05:50.000Z",
+     "text": "Neue Medikamente bringen dem Dax-Konzern nicht nur hohe Umsätze, sondern sind auch hochprofitabel. Das Unternehmen erwartet daher höhere Gewinne – was die Anleger erfreut."
+    },
+    {
+     "title": "Immobilien vor Gericht: Eigentümer haben Recht auf außerordentliche Versammlung",
+     "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/eigentuemer-haben-recht-auf-ausserordentliche-versammlung-accg-201313667.html",
+     "date": "2026-11-03T13:44:00.000Z",
+     "text": "In Eigentümergemeinschaften wird oft gestritten. Jetzt hat ein Gericht geurteilt: Wer ein Treffen verlangt, zahlt nicht allein."
+    },
+    {
+     "title": "Ökonomen warnen: Teurer Wohnraum bremst das Wirtschaftswachstum",
+     "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/wohnungsknappheit-bremst-wirtschaftswachstum-in-deutschland-201645015.html",
+     "date": "2026-11-02T15:27:04.000Z",
+     "text": "Wohnungsknappheit dämpft laut Forschern die Produktivität. Eigentümer sollen Baufolgekosten stärker tragen."
+    },
+    {
+     "title": "Entlastung: Ein Spritpreisdeckel, den Reiche eigentlich ablehnt",
+     "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/ein-spritpreisdeckel-den-reiche-eigentlich-ablehnt-201643781.html",
+     "date": "2026-11-02T16:01:55.000Z",
+     "text": "Die Höchstpreise für Kraftstoffe sollen im neuen Jahr kommen – aber nur, wenn sie die Mineralölindustrie nicht abwürgen. Dieses Zögern dürfte der SPD nicht gefallen."
+    },
+    {
+     "title": "Ausschreibungen: Wie alte Kohlemeiler den Kraftwerkspoker gewonnen haben",
+     "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/leag-gewinnt-den-kraftwerkspoker-mit-alten-kohlemeilern-201647098.html",
+     "date": "2026-11-03T17:46:53.000Z",
+     "text": "Die Netzagentur vergibt einen großen Teil der Förderung für neue Kraftwerke an die Leag. Die Lausitzer polarisieren mit einem besonderen Kniff."
+    },
+    {
+     "title": "Energiewende: RWE, LEAG und Stadtwerke Karlsruhe erhalten zwölf Milliarden Euro für neue Kraftwerke",
+     "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/bundesnetzagentur-rwe-leag-und-stadtwerke-karlsruhe-erhalten-milliarden-fuer-neue-kraftwerke-accg-201646252.html",
+     "date": "2026-11-03T10:01:15.000Z",
+     "text": "Wer schafft neue Kapazitäten zur Stromerzeugung? Die großen Gewinner der jüngsten Ausschreibung der Bundesnetzagentur sind die alten Kohlekonzerne RWE und LEAG."
+    },
+    {
+     "title": "Renommierter Ökonom: Ökonom Berthold Wigger gestorben",
+     "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/finanzwissenschaftler-berthold-wigger-mit-60-jahren-gestorben-accg-201646231.html",
+     "date": "2026-11-04T07:31:15.000Z",
+     "text": "In der Öffentlichkeit war Berthold Wigger vor allem bekannt als Mitglied des liberal gesinnten Kronberger Kreises, des wissenschaftlichen Beirats der Stiftung Marktwirtschaft. Jetzt ist der Finanzwissenschaftler gestorben."
+    }
+   ]
+  },
+  {
+   "name": "Handelsblatt",
+   "ok": true,
+   "items": [
+    {
+     "title": "US-Wahlen: Demokraten siegen in Kalifornien – und die Milliardäre?",
+     "url": "https://www.handelsblatt.com/politik/international/midterms-demokraten-siegen-in-kalifornien-und-die-milliardaere/100267150.html",
+     "date": "2026-11-04T12:06:00.000Z",
+     "text": "Der Staat wählt einen Latino zum Gouverneur. Zugleich stimmten die Kalifornier über die neue Milliardärssteuer ab. Hinter der rekordteuren Abwehrkampagne steht ein Co-Gründer von Google."
+    },
+    {
+     "title": "Sachsen-Anhalt: Von Angern erwägt Kandidatur gegen Siegmund",
+     "url": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-von-angern-erwaegt-kandidatur-gegen-siegmund/100267281.html",
+     "date": "2026-11-04T12:03:01.000Z",
+     "text": "Der AfD-Politiker Ulrich Siegmund will im Dezember Ministerpräsident werden, doch ihm fehlen drei Stimmen für eine Mehrheit. Die Linke prüft, ob sie eine eigene Kandidatin ins Rennen schickt."
+    },
+    {
+     "title": "Mobilitätskosten: Benzinpreis für E10 fällt wieder unter 2 Euro",
+     "url": "https://www.handelsblatt.com/politik/deutschland/mobilitaetskosten-benzinpreis-fuer-e10-faellt-wieder-unter-2-euro/100267251.html",
+     "date": "2026-11-04T12:00:43.000Z",
+     "text": "Günstiger als derzeit war der Kraftstoff zuletzt im Juli. Der Dieselpreis entwickelt sich anders."
+    },
+    {
+     "title": "Märkte Insight: Warum der andere Verlierer der Zwischenwahlen Elon Musk heißt",
+     "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-warum-der-andere-verlierer-der-zwischenwahlen-elon-musk-heisst/100266665.html",
+     "date": "2026-11-04T11:57:30.000Z",
+     "text": "Niemand hat mehr Geld für die Republikaner gespendet als der Multimilliardär. Dass dies verpuffte, könnte enorme Folgen haben. Die Aktienkurse von Tesla und SpaceX spiegeln das Risiko wider."
+    },
+    {
+     "title": "Angeklagter mit Fußfessel: Neuer Prozess gegen Ex-Milliardär René Benko hat begonnen",
+     "url": "https://www.handelsblatt.com/politik/deutschland/angeklagter-mit-fussfessel-neuer-prozess-gegen-ex-milliardaer-rene-benko-hat-begonnen/100267280.html",
+     "date": "2026-11-04T11:57:00.000Z",
+     "text": "Bisher hat der Signa-Gründer 30 Monate Haft zu verbüßen. Jetzt muss er sich einem Betrugsverfahren stellen. Das könnte ihm eine Zusatzstrafe einbringen."
+    },
+    {
+     "title": "Klima: UN-Bericht – Gelder für Klimaanpassungen reichen nicht aus",
+     "url": "https://www.handelsblatt.com/politik/international/klima-un-bericht-gelder-fuer-klimaanpassungen-reichen-nicht-aus/100267270.html",
+     "date": "2026-11-04T11:42:15.000Z",
+     "text": "Klimaziele der internationalen Gemeinschaft drohen zu scheitern. Auch finanziell ist die Weltgemeinschaft schlecht vorbereitet auf die Bewältigung der Folgen des Klimawandels, so die UN."
+    },
+    {
+     "title": "Dax aktuell: Dax steigt nach Midterms auf Zwei-Monatshoch – Heidelberg-Aktie springt nach oben",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-steigt-nach-midterms-auf-zwei-monatshoch/100267175.html",
+     "date": "2026-11-04T11:35:14.000Z",
+     "text": "Der deutliche Wahlsieg der Demokraten in den USA übertrifft die Erwartungen der Anlegerinnen und Anleger. Für Bewegung sorgen zudem Zahlen und Inflationsdaten."
+    },
+    {
+     "title": "US-Midterms: Aus „Inshallah“ wird „Alhamdulillah“ – El-Sayed wird US-Senator",
+     "url": "https://www.handelsblatt.com/politik/international/us-midterms-aus-inshallah-wird-alhamdulillah-el-sayed-wird-us-senator/100267219.html",
+     "date": "2026-11-04T11:32:51.000Z",
+     "text": "Der 42-jährige Mediziner aus Michigan wird der erste Muslim im US-Senat. Damit macht er wahr, was ihm ein früherer US-Präsident schon vor zwei Jahrzehnten riet."
+    },
+    {
+     "title": "Geldpolitik: Inflation erreicht vier Prozent – Weitere Zinserhöhung der EZB wird wahrscheinlicher",
+     "url": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-im-euro-raum-erreicht-die-vier-prozent-marke/100263504.html",
+     "date": "2026-11-04T11:27:25.000Z",
+     "text": "Die Inflation steigt auf ein Drei-Jahres-Hoch. Einzelne EZB-Ratsmitglieder machen deutlich, wie dringlich eine erneute Zinserhöhung ist. Aber wie weit wird die Notenbank gehen?"
+    },
+    {
+     "title": "Tourismus: EU-Kommission will Touristenströme besser verteilen",
+     "url": "https://www.handelsblatt.com/politik/deutschland/tourismus-eu-kommission-will-touristenstroeme-besser-verteilen/100267273.html",
+     "date": "2026-11-04T11:24:31.000Z",
+     "text": "Hunderttausende Touristen zieht es Jahr für Jahr an die gleichen Orte. Die Europäische Kommission will die Länder dabei unterstützen, Folgen auszugleichen - und Europas Tourismus stärken."
+    },
+    {
+     "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+     "url": "https://www.handelsblatt.com/karriere/ki-wo-gibt-es-weiterhin-eine-nachfrage-nach-arbeitskraeften/100235558.html",
+     "date": "2026-11-04T11:24:00.000Z",
+     "text": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten."
+    },
+    {
+     "title": "Kommentar: Volksaufstand gegen den Trumpismus",
+     "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-midterms-volksaufstand-gegen-den-trumpismus/100266488.html",
+     "date": "2026-11-04T11:23:00.000Z",
+     "text": "Mit dem Verlust der Mehrheiten im Kongress und Senat hat der US-Präsident den Zenit seiner Macht überschritten. Doch es ist schwer vorstellbar, dass Trump die Schmach wirklich akzeptiert."
+    },
+    {
+     "title": "Nachfolge bei der Notenbank: Poker um EZB-Spitze: Wer folgt auf Christine Lagarde?",
+     "url": "https://www.handelsblatt.com/politik/deutschland/nachfolge-bei-der-notenbank-poker-um-ezb-spitze-wer-folgt-auf-christine-lagarde/100267145.html",
+     "date": "2026-11-04T11:20:46.000Z",
+     "text": "Die Eurostaaten suchen nach einem neuen Präsidenten für die Europäische Zentralbank. Schon in wenigen Tagen könnte über die Nachfolge von Christine Lagarde entschieden werden. Wer sind die Favoriten?"
+    },
+    {
+     "title": "Notenbank: Niederlande nominieren Ex-Zentralbanker Knot als EZB-Chef",
+     "url": "https://www.handelsblatt.com/politik/deutschland/notenbank-niederlande-nominieren-ex-zentralbanker-knot-als-ezb-chef/100267272.html",
+     "date": "2026-11-04T11:20:17.000Z",
+     "text": "Nach dem angekündigten Rücktritt von Christine Lagarde wird der Chefposten bei der Zentralbank frei. Einer der Favoriten ist der Niederländer."
+    },
+    {
+     "title": "US-Parlamentswahl: Trump abgestraft: Demokraten triumphieren bei Kongresswahl",
+     "url": "https://www.handelsblatt.com/politik/international/us-parlamentswahl-trump-abgestraft-demokraten-triumphieren-bei-kongresswahl/100267117.html",
+     "date": "2026-11-04T11:20:14.000Z",
+     "text": "Donald Trumps Republikaner müssen bei der Kongresswahl eine verheerende Niederlage einstecken. Die US-Wähler rechneten mit der Politik des Präsidenten ab, der nun vor zwei härteren Jahren steht."
+    },
+    {
+     "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
+     "url": "https://www.handelsblatt.com/politik/international/migration-was-macht-polen-fuer-deutsche-auswanderer-so-attraktiv/100249315.html",
+     "date": "2026-11-04T11:18:00.000Z",
+     "text": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?"
+    },
+    {
+     "title": "Gehaltsreport 2026: 1,3 Millionen Gehaltsdaten im Vergleich: Gehören Sie zu den Besserverdienern in Deutschland?",
+     "url": "https://www.handelsblatt.com/karriere/geld-wie-viel-gehalt-in-den-bestbezahlten-berufen-2026-moeglich-ist/100179922.html",
+     "date": "2026-11-04T11:18:00.000Z",
+     "text": "Das Gehalt gehört nach wie vor zu den Tabuthemen in Deutschland. Finden Sie heraus, wie gut Sie im Vergleich in einzelnen Berufen, Branchen und Bundesländern verdienen."
+    },
+    {
+     "title": "Missoirs: Diese Frau will den weiblichen Toilettengang revolutionieren",
+     "url": "https://www.handelsblatt.com/unternehmen/start-ups/start-up-wie-missoirsden-toilettengang-fuer-frauen-veraendern-koennen/100262598.html",
+     "date": "2026-11-04T11:17:00.000Z",
+     "text": "Lena Olvedi hat ein Urinal für Frauen erfunden. Einen berühmten Berliner Club überzeugt das bereits. Können sich die Missoirs in Konzerthallen oder Restaurants flächendeckend durchsetzen?"
+    },
+    {
+     "title": "Hochrechnung: Experten rechnen mit sinkendem Energieverbrauch",
+     "url": "https://www.handelsblatt.com/unternehmen/energie/hochrechnung-experten-rechnen-mit-sinkendem-energieverbrauch/100267260.html",
+     "date": "2026-11-04T11:14:17.000Z",
+     "text": "Die verhaltene Konjunktur und hohe Energiepreise werden wohl dafür sorgen, dass Deutschland in diesem Jahr insgesamt weniger Energie verbraucht. Fossile Energieträger dominieren weiterhin."
+    },
+    {
+     "title": "Leistungsfähigkeit: Warum Firmen ihre Mitarbeiter ausschlafen lassen sollten",
+     "url": "https://www.handelsblatt.com/karriere/arbeitszeit-wie-wirkt-sich-ihr-biorhythmus-auf-ihre-produktivitaet-aus/100231866.html",
+     "date": "2026-11-04T11:14:00.000Z",
+     "text": "Die innere Uhr wirkt sich maßgeblich auf die Produktivität aus. Trotzdem arbeiten viele gegen ihren eigenen Rhythmus. Wie lässt sich das verhindern?"
+    },
+    {
+     "title": "Führungskräfte: Hochqualifiziert, erfolgreich, arbeitssuchend – Vier Betroffene berichten",
+     "url": "https://www.handelsblatt.com/karriere/fuehrungskraefte-warum-auch-high-performer-es-mit-der-jobsuche-nicht-leicht-haben/100228751.html",
+     "date": "2026-11-04T11:13:00.000Z",
+     "text": "In der Krise finden auch Menschen, deren Karrieren bislang steil nach oben gingen, keinen Job mehr. Vier Betroffene erzählen, vor welche Herausforderungen sie das stellt."
+    },
+    {
+     "title": "Krankmeldung: Wie sich Arbeitgeber gegen Blaumacher wehren können",
+     "url": "https://www.handelsblatt.com/karriere/fuehrungskraefte-wie-firmen-rechtlich-gegen-blaumacher-vorgehen-koennen/100180160.html",
+     "date": "2026-11-04T11:13:00.000Z",
+     "text": "Aus dem Handelsblatt-Archiv: Ein Mitarbeiter meldet sich immer an Brückentagen und montags krank? Diese rechtlichen Möglichkeiten haben Firmen bei Verdacht auf Blaumachen."
+    },
+    {
+     "title": "Jürgen Klopp: Sieben Leadership-Lehren, die sich Chefs von ihm abschauen können",
+     "url": "https://www.handelsblatt.com/karriere/fuehrungskraefte-sieben-dinge-die-manager-von-juergen-klopp-lernen-koennen/100242667.html",
+     "date": "2026-11-04T11:11:00.000Z",
+     "text": "Klopp wird neuer Bundestrainer. Der DFB gewinnt einen Motivator. Sein Führungsstil ist so gut, dass auch andere Chefs sich davon etwas abschauen können, sagt ein Forscher – und erklärt, wie."
+    },
+    {
+     "title": "Angespielt: Hey, hör zu!: „Zelda: Ocarina of Time“ ist zurück",
+     "url": "https://www.handelsblatt.com/technik/it-internet/angespielt-hey-hoer-zu-zelda-ocarina-of-time-ist-zurueck/100267266.html",
+     "date": "2026-11-04T11:00:08.000Z",
+     "text": "Hühner als Gleitschirme, ein Dornröschenschlaf und Zeitreisen? Hört sich nach Zelda an - und ist es auch. Das Abenteuer „Ocarina of Time“ kehrt als Remake zurück. Kann es dem Klassiker gerecht werden?"
+    },
+    {
+     "title": "Autobatterie: Was hilft, wenn das Auto im Winter nicht startet?",
+     "url": "https://www.handelsblatt.com/mobilitaet/ratgeber-service/autobatterie-was-hilft-wenn-das-auto-im-winter-nicht-startet-04/29450590.html",
+     "date": "2026-11-04T11:00:00.000Z",
+     "text": "Im Winter verbrauchen Elektroautos und Verbrenner mehr Strom. Mitunter entlädt sich die Autobatterie dann unerwartet. Wie Sie Ihr Auto dann noch starten können."
+    },
+    {
+     "title": "Batterie, Frostschutz & Co.: Tipps für Laternenparker in Herbst und Winter",
+     "url": "https://www.handelsblatt.com/mobilitaet/motor/batterie-frostschutz-co-tipps-fuer-laternenparker-in-herbst-und-winter/100267265.html",
+     "date": "2026-11-04T10:56:09.000Z",
+     "text": "Morgens Scheiben freikratzen, festgefrorene Türen lösen: Wer draußen parkt, sollte sich auf die kalte Jahreszeit vorbereiten. Welche Handgriffe dabei wichtig sind."
+    },
+    {
+     "title": "Einzelhandel: Was Sie zum Black Friday 2026 wissen müssen",
+     "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/black-friday-2026-was-sie-zum-schnaeppchen-tag-wissen-muessen/100178458.html",
+     "date": "2026-11-04T10:56:00.000Z",
+     "text": "Im Einzelhandel gilt der Black Friday als Umsatzbringer. Schnäppchenjäger suchen am Shopping-Tag nach tatsächlich niedrigen Preisen. Worauf Sie beim Einkauf achten sollten."
+    },
+    {
+     "title": "Influenza: Schwanger gegen Grippe impfen lassen? Schützt doppelt!",
+     "url": "https://www.handelsblatt.com/technik/medizin/influenza-schwanger-gegen-grippe-impfen-lassen-schuetzt-doppelt/100267261.html",
+     "date": "2026-11-04T10:51:16.000Z",
+     "text": "Mehr als ein harmloser Schnupfen: Eine Infektion mit Grippeviren kann Schwangere ins Krankenhaus bringen. Eine Impfung schützt - und nützt auch dem Kind. Wissen für werdende Mamas."
+    },
+    {
+     "title": "Stromverbrauch in Deutschland: So viel Strom verbrauchen Haushalte im Schnitt",
+     "url": "https://www.handelsblatt.com/unternehmen/energie/stromverbrauch-in-deutschland-2026-so-viel-strom-verbrauchen-haushalte-im-durchschnitt/29024506.html",
+     "date": "2026-11-04T10:51:00.000Z",
+     "text": "Wie hoch ist der durchschnittliche Stromverbrauch von Privatleuten? Wann ist er zu hoch? Die Durchschnittswerte des Stromspiegels verraten es."
+    },
+    {
+     "title": "Zwischenwahlen in den USA: Lame duck? Was Trumps Wahlpleite für die Wirtschaft bedeutet",
+     "url": "https://www.handelsblatt.com/politik/deutschland/zwischenwahlen-in-den-usa-lame-duck-was-trumps-wahlpleite-fuer-die-wirtschaft-bedeutet/100267256.html",
+     "date": "2026-11-04T10:44:48.000Z",
+     "text": "Bei den US-Kongresswahlen erobern die Demokraten beide Parlamentskammern und können Donald Trump künftig das Regieren erschweren. Das dürfte Folgen bis nach Deutschland haben."
+    }
+   ]
+  },
+  {
+   "name": "EZB",
+   "focus": "Nur Zinsentscheidungen und wichtige Berichte",
+   "ok": true,
+   "items": [
+    {
+     "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+     "date": "2026-11-04T00:00:00.000Z",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "name": "Bundesbank",
+   "ok": true,
+   "items": [
+    {
+     "title": "Aufstockung von zwei Anleihen des Bundes – Tenderergebnis",
+     "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/bundeswertpapiere/aufstockung-von-zwei-anleihen-des-bundes-tenderergebnis-964794",
+     "date": "2026-11-04T11:00:00.000Z",
+     "text": ""
+    },
+    {
+     "title": "Reopening of two Federal bonds – Auction result",
+     "url": "https://www.bundesbank.de/en/press/press-releases/federal-securities/reopening-of-two-federal-bonds-auction-result-964936",
+     "date": "2026-11-04T11:00:00.000Z",
+     "text": ""
+    },
+    {
+     "title": "Tägliche Rendite der börsennotierten Bundeswertpapiere",
+     "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/bundeswertpapiere/taegliche-rendite-der-boersennotierten-bundeswertpapiere-964500",
+     "date": "2026-11-03T12:00:00.000Z",
+     "text": ""
+    },
+    {
+     "title": "3-months Bills of the European Stability Mechanism (ESM) – Auction result",
+     "url": "https://www.bundesbank.de/en/press/press-releases/esm/3-months-bills-of-the-european-stability-mechanism-esm-auction-result-1013838",
+     "date": "2026-11-03T11:55:00.000Z",
+     "text": ""
+    },
+    {
+     "title": "Neue Geschäftsverteilung im Vorstand der Deutschen Bundesbank",
+     "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/neue-geschaeftsverteilung-im-vorstand-der-deutschen-bundesbank-1013792",
+     "date": "2026-11-03T11:30:00.000Z",
+     "text": "Der Vorstand der Deutschen Bundesbank hat mit sofortiger Wirkung eine Anpassung der Geschäftsverteilung beschlossen."
+    },
+    {
+     "title": "Reopening of five-year Federal notes (Bundesobligationen – “Bobls”) – Auction result",
+     "url": "https://www.bundesbank.de/en/press/press-releases/federal-securities/reopening-of-five-year-federal-notes-bundesobligationen-bobls-auction-result-964930",
+     "date": "2026-11-03T10:30:00.000Z",
+     "text": ""
+    },
+    {
+     "title": "Aufstockung der Bundesobligationen Serie 194 – Tenderergebnis",
+     "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/bundeswertpapiere/aufstockung-der-bundesobligationen-serie-194-tenderergebnis-964922",
+     "date": "2026-11-03T10:30:00.000Z",
+     "text": ""
+    },
+    {
+     "title": "Ausschreibung Tenderverfahren – Aufstockung von zwei Anleihen des Bundes",
+     "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/bundeswertpapiere/ausschreibung-tenderverfahren-aufstockung-von-zwei-anleihen-des-bundes-964924",
+     "date": "2026-11-03T09:00:00.000Z",
+     "text": ""
+    },
+    {
+     "title": "Invitation to bid – Reopening of two Federal bonds",
+     "url": "https://www.bundesbank.de/en/press/press-releases/federal-securities/invitation-to-bid-reopening-of-two-federal-bonds-1013790",
+     "date": "2026-11-03T09:00:00.000Z",
+     "text": ""
+    },
+    {
+     "title": "Ankündigung – Unverzinsliche Schatzanweisungen des Bundes (Bubills)",
+     "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/bundeswertpapiere/ankuendigung-unverzinsliche-schatzanweisungen-des-bundes-bubills--964940",
+     "date": "2026-11-03T08:30:00.000Z",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "name": "Google News: Konjunktur",
+   "ok": true,
+   "items": [
+    {
+     "title": "Konjunktur: Ifo: Stimmung in der Autoindustrie springt nach oben - STERN.de",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGdSUWdSVi1JenM5bk5pZ205dTBuMjV2WEJmNjFRdG5YMjAzZHJkck02ak0wLXNzU0F5T1hreHhMM3dweWwzb2hBWTEwa3QtZnFvVUZUdWF5ZDlfV2FiMEFpX2JCVmhDMElScmMzRExpaVk5LXJtdHhkeVF4N2VsN0wwa3ZRU2FnN1ROWTQ0cG1KRzdnWUdiNE9NdTJrMjNGM3FHeUswWVU3ajFmc3lGQVdSWEk2Zw?oc=5",
+     "date": "2026-11-04T07:06:00.000Z",
+     "text": "Konjunktur: Ifo: Stimmung in der Autoindustrie springt nach oben STERN.de",
+     "via": "STERN.de"
+    },
+    {
+     "title": "Midterms USA: Auswirkungen auf die deutsche Wirtschaft - tagesschau.de",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zWVd0Y0Fyd0RZWlJ5QWJ4RjlMSG45WHR4NzJhY0c5TlhESkg0OHFFeEdVMk5XaFVad2dzWTlnMHphVUFPbjl6cF95UFlzbEp1T1haSnA4eXBsUlNoRzJN?oc=5",
+     "date": "2026-11-04T09:56:28.000Z",
+     "text": "Midterms USA: Auswirkungen auf die deutsche Wirtschaft tagesschau.de",
+     "via": "tagesschau.de"
+    },
+    {
+     "title": "(S+) Wirtschaft in den USA: Wo Amerika Deutschland beim Wachstum überholt - Spiegel",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYVJvUGtaYktLZGpPSENmcnE1c29renR2M29OWGUtelFjM3hobkxjWEdLaEduRWlYRjlhQkUtZ3F5OUxkWllhT3FvSXNjWC1MZ2VJSW56M0dkNTBxVkhxZ0pGdWhNZll3RDBOZ2hhU2hRZE9zV3RDWWJSYWFrRU9OSEZOcndQZ1hKdG1fejd3NmhyMy1YaFY1ZlBlX3NWdVdlM29vSEgwdl9aV3lOVXZfcmdQR19qQXFxaVFsZGI0WC1pajhJUU9fdGJkUng3bEZMNk5oMjBPODk?oc=5",
+     "date": "2026-11-02T14:14:00.000Z",
+     "text": "(S+) Wirtschaft in den USA: Wo Amerika Deutschland beim Wachstum überholt Spiegel",
+     "via": "Spiegel"
+    },
+    {
+     "title": "ÜBERBLICK am Morgen/Konjunktur, Zentralbanken, Politik - MarketScreener Deutschland",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbDVnOGNJZTJRYjNndGtNMzZ0N0ZSZFFaZjJtUW1hOHJzVHJBZlQtMmN4WFgtQUdDU1p5LTVhNkJ0R2o3S2lKVmQ4WmRSbTk4WTBRYV90bXhaLVdxaWQwRExOUnRSTnpSVVRoWFJ5d0VjYkVkTjgzRjk1b3o5UGZyakRPUERaZEZ6RmxWWTIwMDd6a1BqMGRyUXUxemJhODhUa3prMkNZai1meFViQzJLVFFKR05VcEQtTVQw?oc=5",
+     "date": "2026-11-04T08:00:26.000Z",
+     "text": "ÜBERBLICK am Morgen/Konjunktur, Zentralbanken, Politik MarketScreener Deutschland",
+     "via": "MarketScreener Deutschland"
+    },
+    {
+     "title": "USA, EU, Deutschland: Was Trumps Wahlpleite für die Wirtschaft bedeutet - Stuttgarter Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQajl3YWU3TngzcVRYVjBDaHA2MmFYSlVVbkRXV2Vkdl9CWGpsQzVCelVQQkNpTGt6YkZrNWNLQWxobGozOTVkb3doOUdVYWI5NHMybFBOcmdic2VmR0FVYzI0Sklhc1RNbTZ0TTNlQ1pNcEpvMXZROEpIaUFkaGp6bm92UU55RVNyc1QxUWh1ejFDMktnc2htX2xGRVFhemNLdHNhZGZmNXRRaVh4cUZuZjRGV1NscFk0NkZhLXNpSldYazFDNlVUN3lkSjRGZw?oc=5",
+     "date": "2026-11-04T12:02:12.000Z",
+     "text": "USA, EU, Deutschland: Was Trumps Wahlpleite für die Wirtschaft bedeutet Stuttgarter Nachrichten",
+     "via": "Stuttgarter Nachrichten"
+    },
+    {
+     "title": "Mehr Aufträge für Maschinenbauer - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1ZITG1vZ01xQkVxTGI2cDQtOHdWZ2wwemVTdGZfTzJoQThJbEtGNHhPTnIwTFBPcFI2UEd1eURJajc0WnRvOFMyc1VqMy1paS1LVVprT3NnWlA0RXN2dGVTNndfcndiZHgxWXA4ZTRNMTRGeTMwNUNqdXFpSGZDUnVEY1NDYVJxQkN6dHlxX3ZCUFlhcnVXQllwRFkzOHVaQnNLYWl2RGJpREJha3B3?oc=5",
+     "date": "2026-11-04T08:34:00.000Z",
+     "text": "Mehr Aufträge für Maschinenbauer Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "News, Wirtschaft: Anteil der Führungskräfte EU-weit höher als in Deutschland - tixio - Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb3FZeVc2VGl6dTBSdFFYRVVxMlZYYlNEU3lUMnBhS3NWSmwyM2RMOUZvUllUMmJnbVZCLU80ZUVqZHA0TXNtVDNGY0pNWS1RUDNpSnhRTWZVQjVsUU15cnh5U2txLTRlckNJTnF0blEwdk02TklIQldyWWl2anplYy1OV00xSEw4Tk94RGJ2TFRJbWZ2TU1XUUFNZw?oc=5",
+     "date": "2026-11-04T07:31:44.000Z",
+     "text": "News, Wirtschaft: Anteil der Führungskräfte EU-weit höher als in Deutschland tixio - Nachrichten",
+     "via": "tixio - Nachrichten"
+    },
+    {
+     "title": "Nagel: Zinserhöhung im Dezember wahrscheinlich - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVN1a1g1ZFo2Q3pZQ3M1OFB6SUZTQWFSZVRORzU2R0FSQXNuVnZtNktOQS13aWtOTmFodVlVcTk5X21mQTVqU2J2QzQxY2tweXpXYmRUaTVhaTEzVUJ0MTNvMUNXRjgzN3UyQk9BMUhpTFN0THFzcWtFMzJleGlVaG05UW1XT1JhVHRkbW01TW1FSGYwRDhnTm9Wa2FBMU9Td3VaX3pHNHZZbzJKLXlUQXVlTkNtTjBMdXBOc0RJcw?oc=5",
+     "date": "2026-11-03T18:00:00.000Z",
+     "text": "Nagel: Zinserhöhung im Dezember wahrscheinlich Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Cyberangriffe auch auf Kühlanlagen deutscher Supermärkte - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSkZ5Y3daV0dnZ0RrcTVDck9RR2RrellZUkl2UnNXOGl2V21nUFJuTkdxSFRPXzdjbmpHdU1ZeUF3RE8weU01MmJoVlRlRFZINVZmUldObUZUczBqdWdWdTBzbk5FUk1qMFFnUXByT24wd1lHUDE4b29RaXJQMlhTRjRoQzdheWVkNXM3enplOElEN09oaGs1NGtjYzF0VFdEZ05SakhQMV9wOHB0MnRjaUVpYWNiTTY1T2RkZFJ6eFpFT2hmeFk2OFBKdjlsTUE?oc=5",
+     "date": "2026-11-03T15:14:00.000Z",
+     "text": "Cyberangriffe auch auf Kühlanlagen deutscher Supermärkte Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Autoindustrie: Autozulieferer Schaeffler streicht rund 2.600 Stellen in Deutschland - DIE ZEIT",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZC1PY3JfemJSeVNqR09JQWF1bGxVZ3ZKQmZwaFFlTTV0RUt6YlNJamNMLS13YnI2eXc5RFJBTFZFTWIzb0l5QzBSOHFWdUdEM1J2N2xkWlZDX1pFMEhFWHJCamszRC1rQ2dPT05vbXBLdGpseVVZUzBFaFNpWmU3MlpEWmFCZ19WeXF5V2doVmxYVFdOWW9jSVEtTkNISTZKZFNQaElEcjMteUczeHZZRFByY1FhV2lU?oc=5",
+     "date": "2026-11-03T08:43:31.000Z",
+     "text": "Autoindustrie: Autozulieferer Schaeffler streicht rund 2.600 Stellen in Deutschland DIE ZEIT",
+     "via": "DIE ZEIT"
+    },
+    {
+     "title": "Schaeffler: Autozulieferer schließt vier Standorte – 2700 Jobs in Deutschland weg - Wirtschaft - SZ.de - SZ.de",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkhibXBRVHJhTnRNVFc5ajFlRkszMDBueGMzaVcxZ3R2VFBBeHItU3czRmhneHNQTHROcldDd2V4eTktQnNydkgyZWY0eTZzWmU5a1h4RmJVNW41RXNfSlB6N1EySWNOT2pJX3lHZ0hBTkx6dy14VDdLVEJXNXF3ZjVueFJsTER5OFNsZE5vYmg1czltN0ZFOWUxWFd0eFBIY0xweHhBd3NFdzNz?oc=5",
+     "date": "2026-11-03T13:42:12.000Z",
+     "text": "Schaeffler: Autozulieferer schließt vier Standorte – 2700 Jobs in Deutschland weg - Wirtschaft - SZ.de SZ.de",
+     "via": "SZ.de"
+    },
+    {
+     "title": "Experten rechnen mit sinkendem Energieverbrauch - Freie Presse",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnNwRFpHb3VsVDdVWFR1NEFKd0RTcVRsUTlwOXV4aFR5ZlNvbjVLT09mUTNyT3NXSHYzZFJ0blAxQ25BLU5Eb2VOeEZvX3ptVEcwZm5YcTRucVM2UXpsN29jdjlPQi1IUy1LMGV3VFNrRGZtdDNDV1FPLS1nbk9BSlp1cGZLeGU1YzJuejNtSndvMThiaFJyQW5nbGVPYUVpdy1CeExUNHVoc0xtVi1QR2lXdw?oc=5",
+     "date": "2026-11-04T10:46:00.000Z",
+     "text": "Experten rechnen mit sinkendem Energieverbrauch Freie Presse",
+     "via": "Freie Presse"
+    },
+    {
+     "title": "Wirtschaft: „Deutschland ist die Lokomotive Europas“ – ABB-Chef fordert schnellere Reformen - WELT",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY1BIb3o3QzBqNTEwWWMweTFST0V1WVhKQTJ0SVl3QmpMemx2RXlDY1dxRk9FM3Zmb2U1MWE0cS03MkhUWUVaZXdxYlhUUHpNWWJLTFlwWjNSWUtvYWtSMGF1R3dHWmxLWWQzSTdBVmgxTmFCT3pDNEY0X1FMVm9vYURlVVJUN29lcmI2dUV0MV9XZ21fTnNqS1dPWndHS0xyd1VZbnoxc0tOS1ROZWl2RmFMUmVoTXpLRTd5NzVUX3ZuQUZPVE9BM0o5MDZ0UHVBYlJ0V1oxQy04UHBoMU1Qa3pxaWZ1eGhfZFE?oc=5",
+     "date": "2026-11-03T08:00:00.000Z",
+     "text": "Wirtschaft: „Deutschland ist die Lokomotive Europas“ – ABB-Chef fordert schnellere Reformen WELT",
+     "via": "WELT"
+    },
+    {
+     "title": "Rechenzentren: Rekordinvestitionen in Deutschland, aber USA und China enteilen - ComputerBase",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR25PSEVib2ZPOUs0RWRPdWhDSWtmdGM1OEplY0hfem5PM2FWSFZBWkZiQ1FTUFpPemJ6T2MwNVNmUTFIMW1WWDl2eFFacy11bEFyY0JMT0lRdXdyeUZ0blZ6OGFvNzFTTWo5MWVQbldSUy05SlZxajVyeHRqLV96bDFENFZoLS1zbC1LM18xN0FCeWpSbUZ4YmFPek1zYzVHQkRqT3A2YWxLUThIa2pmdkp4NEZZa3MwNlBQTzhkUkFzYWVuVnlj?oc=5",
+     "date": "2026-11-03T14:20:00.000Z",
+     "text": "Rechenzentren: Rekordinvestitionen in Deutschland, aber USA und China enteilen ComputerBase",
+     "via": "ComputerBase"
+    },
+    {
+     "title": "Sparprogramm sorgt für Gewinnwarnung bei BMW - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2VEM2JNMW5vSGZDYVpycXdNdDdBMU5NWXA4cEx4U1dzMDNESUNCeUJ0WDVzRTBDTk1WNXp5MThweGIwMWc1ZkFlVndrWUswQ1BWTnVLR0FHdkwzSnJ1YjAwSWlaejVzdXdoYUo4SDIwdkVNY3RiWnRsWHMxUS1WOEQ1T2w5S1huVTl3TEhBNGdHV3BoQlI1M3pFWUdUS1lIdU5QNFh0NjBpODBQLVRaWkRNMkZZZlhadHRqZW9B?oc=5",
+     "date": "2026-11-03T18:58:00.000Z",
+     "text": "Sparprogramm sorgt für Gewinnwarnung bei BMW Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Neue Gaskraftwerke: Zuschläge fast nur für RWE und Leag - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQenJYUU5tazVQeVJ1VjdsbUVVNDFJa0Z4X282clBfOGhCQWFFN0F6ZnprMUVPZk5VeWN5VUNvWlhqVkJkN1hJc282WWVZV3F4eFMzSFVMbjg1X3d1OWFLeWwxN3JjUzdGTkZIdmx5VTVwdGZqOGtvMG1EM0VuMkhIbmdvVUx1UUZEem9DbTlxdi1MaFJOMWtlTDlKdFJhNTZSbG5pTXgzMGd2U2FlbWVUUlRJUmxpa0FlN2I2cWpGR1VyZUN1S1FjOEJhaTc?oc=5",
+     "date": "2026-11-03T14:08:00.000Z",
+     "text": "Neue Gaskraftwerke: Zuschläge fast nur für RWE und Leag Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Monopolkommission übt scharfe Kritik an Briefporto-Anhebung - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdzJzSUZYWkw3bGpPLXVlYnMwOXgzN2NkWUtQb1lVY0lUQ05kVHRDSmo2SDBaR1JHU2Q1V1NhbThMTDhtNHM2T21iRzREYXViNFdnZGVnNS0tdzl0U3FlSWlDQ1VkbmlBMzJFanB5aERYWTZvTlVNUjg3OWtzR2dwSElZSGNLdHB4N3YwQThSd1o4bkY0ZFJXWVVjTm1RbUs4dTc2NEVMU1FRTHltNmVFODFGa3Q1VGxTM3JRQVZ4Z1Q0VGs5UEtGVlh1c2t0Qmd6TFE?oc=5",
+     "date": "2026-11-03T16:09:00.000Z",
+     "text": "Monopolkommission übt scharfe Kritik an Briefporto-Anhebung Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Sabotage an Kühlanlagen: Experte rügt Hersteller - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjZIQmVuM0ZHN2FFa01PLTcyOHFyVFpxRklza3laXzNfbFZjNUZDaXcyUlJlaTJ4eGc5eEM4enEyYkNCSm1GVlMtR0hNQ3o4d2pJTmc1Y184bTM3dW9QLUFMWVJldHpRQjZYZ3FmNHdIUVVyUmxGSXYyWFlKTEQ4WmY3OC1XaUtFZDF2N3ZUb2JwSU5nTDFjRjdaWTlBMnFLZWdmMDBiU1RUckNHRVNiWG92QXpZVkJWejFlWHdJajBKbTA?oc=5",
+     "date": "2026-11-03T17:00:00.000Z",
+     "text": "Sabotage an Kühlanlagen: Experte rügt Hersteller Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Wirtschaft will deutsche KI – doch die hinkt dem Boom hinterher - Oiger",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGd2eG02VjN4R2hESzdVRzFLS1pudGNzVmRTUTZFc1NNY2NJMTRZNldnSkZKYm52TmdKRlh1VmxyOXVpMnA1c21mWmREVVBxdDE3YUtoWTNXS1lQaUtoa2VNVGxZMFNPWFBVa3hDOW4zTERzNy1jdFJFQTlLMWlrQ3lrb1p4OHJXV1dMNTBXY3lFV3JXLUk0U0RSWHE?oc=5",
+     "date": "2026-11-02T18:04:10.000Z",
+     "text": "Wirtschaft will deutsche KI – doch die hinkt dem Boom hinterher Oiger",
+     "via": "Oiger"
+    },
+    {
+     "title": "Fernzüge im Oktober etwas pünktlicher - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2NubHBmM2hPcll2bkQ3Q2xJX3dtNmlzMk1LUS1EMFFicGU1Y19UbHFVZVNJa3FHZzZ6dDZfYXFLVXlrRmJuWHVBYjZPcGJGRk45czUxYVgwLVRHZm5NbDh0YWFXdTdEbjJjZVhxLTZpNTFhRE9XdjB3LTVXOEtLeDByTzhsWnNhMDEzNGxPQU1faVlLb0I2WHBNQS1YZEt4akIyS2c5NXlXVWhySWx4MkVETjgydw?oc=5",
+     "date": "2026-11-03T13:57:00.000Z",
+     "text": "Fernzüge im Oktober etwas pünktlicher Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Bahnverkehr: Was die Probleme bei Alstom für Deutschland bedeuten - Wirtschaft - SZ.de - SZ.de",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHZwdklpaGtheW4yNlJSNHVaMDkwdThvSS1XSDFuUmhicmtmdWtrdUE4dDNkXy1IOEdoSjhkZ0lna2tNeXZ1dTY1SmhjVU9GcTlwM2lQLVdObzBkMDgxdXlvbTlLby1lMW1XV1ZsVVg0bHJMT21GU0Z6WU5VTWZXLWFmdnpkbzlYNGZLdGZkSlRWVWl2OTBjbmJhYnVDOVo1OV9yeVJTMVFaeVk0QWZUeDlQdEpBQQ?oc=5",
+     "date": "2026-11-02T13:33:29.000Z",
+     "text": "Bahnverkehr: Was die Probleme bei Alstom für Deutschland bedeuten - Wirtschaft - SZ.de SZ.de",
+     "via": "SZ.de"
+    },
+    {
+     "title": "Mehr Hersteller, mehr Produktion: Nahrungsergänzung boomt - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcUdGZVNsZllRT0J6emdSVUI2a3RLRWtIVW13V2ZwWWZwMHR0ZkVkand4MWJONXpYN3h1YjFERWt5eWxlNy1heU9GU3kybUVVNXd5QklqMFJ4Q3k2YmpBcnRWRWM4OUt2Nnl5d0JLUjBnZzVGX0psZkdmNmlNRm5KMTlYMkFlT2RmRGVXQVFJamh4OTMzcHNLT1lfb2dwQXpaQ3RBX1VkSHVpeC1odHotWGxFaFRsTTZXb1M3VGZrRTNnN0RkSW1PT0VEbHI?oc=5",
+     "date": "2026-11-03T08:40:00.000Z",
+     "text": "Mehr Hersteller, mehr Produktion: Nahrungsergänzung boomt Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Ein Jahr Bau-Turbo: Ministerin sieht erste Effekte - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZVRraks2VWcyQllwdDZSOWNFckpOTWhyNjVmZFpIVk1WaEJnTlRubTJUWFJPN1RReTUwY2l1Q0J1akZGSmJjYUpnT3N2b1Fva1hQdkNkemg3MFByWHk3SEJoX1luODIyTFVPZVhCR0R1RnRVSVlkUGhHRzRUVmpqclB2ZnFDeHNKcHlMbnZRQzRIc3B2alVlM0drRXR3b1ZhRGZUXy1ONXFfTWg4SXNkd0NiWTg1SG5IYnlmZmUxYXNsTEE?oc=5",
+     "date": "2026-11-03T11:31:00.000Z",
+     "text": "Ein Jahr Bau-Turbo: Ministerin sieht erste Effekte Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    }
+   ]
+  }
+ ]
+}

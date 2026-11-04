@@ -1,0 +1,925 @@
+{
+ "fetched": "2026-11-04T12:13:51.930Z",
+ "hours": 48,
+ "sources": [
+  {
+   "name": "Immobilien Zeitung",
+   "ok": true,
+   "items": [
+    {
+     "title": "Staatsanwaltschaft durchsucht Büros von Deutsche Finance",
+     "url": "https://www.iz.de/recht/news/-staatsanwaltschaft-durchsucht-bueros-von-deutsche-finance-2000050218",
+     "date": "2026-11-04T11:59:00.000Z",
+     "text": "Am Dienstag hat die Münchner Staatsanwaltschaft die Zentrale der Deutsche Finance Group durchsucht."
+    },
+    {
+     "title": "Capital 27 holt Felix Bindrich von Loanland",
+     "url": "https://www.iz.de/personen/news/-capital-27-holt-felix-bindrich-von-loanland-2000050217",
+     "date": "2026-11-04T10:53:00.000Z",
+     "text": "Capital 27, ein Berater für Immobilienfinanzierung, hat Felix Bindrich zum COO ernannt. Er arbeitet eng mit Gründer Daniel Schmidt zusammen."
+    },
+    {
+     "title": "Aumovio findet Käufer für 4 ha großen Campus bei Frankfurt",
+     "url": "https://www.iz.de/transaktionen/news/-aumovio-findet-kaeufer-fuer-4-ha-grossen-campus-bei-frankfurt-2000050203",
+     "date": "2026-11-04T10:09:00.000Z",
+     "text": "Das Firmengelände des Autozulieferers Aumovio in Schwalbach am Taunus soll in neue Hände gehen. Vor dem abschließenden Übergang der Immobilie möchte die Stadt aber noch ein Wort mitreden."
+    },
+    {
+     "title": "Eilantrag gegen Braunschweiger Stiftshöfe abgelehnt",
+     "url": "https://www.iz.de/presseschau/news/-eilantrag-gegen-braunschweiger-stiftshoefe-abgelehnt-2000050214",
+     "date": "2026-11-04T09:50:00.000Z",
+     "text": "Das Verwaltungsgericht Braunschweig hat den Eilantrag einer Grundstücksnachbarin gegen das Quartiersprojekt Stiftshöfe abgelehnt. Auf dem Areal sind Wohn-, Schul- und Gewerbeflächen geplant. Das berichtet Braunschweiger-Zeitung.de."
+    },
+    {
+     "title": "Berliner Senatsverwaltung gibt Wohnturm-Investoren recht",
+     "url": "https://www.iz.de/presseschau/news/-berliner-senatsverwaltung-gibt-wohnturm-investoren-recht-2000050215",
+     "date": "2026-11-04T09:50:00.000Z",
+     "text": "Die Berliner Senatsverwaltung hat dem Widerspruch der Investoren eines in Friedrichshain geplanten Wohnturms gegen einen ablehnenden Bescheid des Bezirksamts stattgegeben. Das berichtet die Berliner Morgenpost."
+    },
+    {
+     "title": "´: Scout 24 legt beim Umsatz mit Maklern zu",
+     "url": "https://www.iz.de/unternehmen/news/-scout-24-legt-beim-umsatz-mit-maklern-zu-2000050204",
+     "date": "2026-11-04T09:06:00.000Z",
+     "text": "Scout 24, Betreiber der Onlineplattform Immoscout 24, meldet Wachstum bei Umsatz und Gewinn fürs dritte Quartal. Vor allem das Geschäft mit Immobilienmaklern lief gut."
+    },
+    {
+     "title": "Hoteldirektor flutet Tiefgarage",
+     "url": "https://www.iz.de/innovationen/news/-hoteldirektor-flutet-tiefgarage-2000050077",
+     "date": "2026-11-04T06:00:00.000Z",
+     "text": "Hoteldirektor Herbert Stemp lässt sich viel einfallen, um sein Wellnessresort im Bayerischen Wald nachhaltig zu gestalten. Dazu gehört unter anderem das Fluten der Tiefgarage mit Poolwasser drei bis vier Mal im Jahr. Weshalb er dies tut, verrät er im Video von BR 24."
+    },
+    {
+     "title": "Gropyus schickt mehrere Töchter in die Insolvenz",
+     "url": "https://www.iz.de/innovationen/news/-gropyus-schickt-mehrere-toechter-in-die-insolvenz-2000050202",
+     "date": "2026-11-04T05:45:00.000Z",
+     "text": "Eine ausgebliebene Investorenzahlung bringt das von Vonovia unterstützte Holzbau-Start-up Gropyus in Schwierigkeiten. Mehrere Tochtergesellschaften müssen Insolvenz anmelden."
+    },
+    {
+     "title": "Büroinvestor Alstria hält Umsatz stabil",
+     "url": "https://www.iz.de/unternehmen/news/-bueroinvestor-alstria-haelt-umsatz-stabil-2000050161",
+     "date": "2026-11-04T05:33:00.000Z",
+     "text": "Der Büroinvestor Alstria hat seinen Verschuldungsgrad weiter gesenkt. Der Umsatz in den ersten neun Monaten des Jahres blieb auf Vorjahresniveau."
+    },
+    {
+     "title": "München stoppt Ausbau der Gewerbehöfe",
+     "url": "https://www.iz.de/politik/news/-muenchen-stoppt-ausbau-der-gewerbehoefe-2000050140",
+     "date": "2026-11-03T14:06:00.000Z",
+     "text": "Die Stadt München will den Ausbau ihrer Gewerbehöfe vorerst stoppen. Damit würden die ambitionierten Ausbaupläne von Wirtschaftsreferent Christian Scharpf auf Eis gelegt."
+    },
+    {
+     "title": "Bauministerin und Branche sind uneins über den Erfolg des Bauturbos",
+     "url": "https://www.iz.de/politik/news/-bauministerin-und-branche-sind-uneins-ueber-den-erfolg-des-bauturbos-2000050138",
+     "date": "2026-11-03T13:52:00.000Z",
+     "text": "Der Bauturbo sei nach einem Jahr „in der Praxis angekommen“, lautet die Bilanz von Bundesbauministerin Verena Hubertz (SPD). Verbände kritisieren hingegen, dass viele Städte nicht damit arbeiten und genehmigte Wohnungen noch längst keine gebauten sind."
+    },
+    {
+     "title": "Immobilienbranche sieht Assetklasse Büro weiter unter Druck",
+     "url": "https://www.iz.de/maerkte/news/-immobilienbranche-sieht-assetklasse-buero-weiter-unter-druck-2000050136",
+     "date": "2026-11-03T12:56:00.000Z",
+     "text": "Die Immobilienbranche rechnet mit weiter nachlassendem Interesse an Büroinvestments. Unter den übrigen Nutzungsklassen schneidet Logistik am besten ab."
+    },
+    {
+     "title": "Pandion hält fürs Erste den Geschäftsbetrieb aufrecht",
+     "url": "https://www.iz.de/unternehmen/news/-pandion-haelt-fuers-erste-den-geschaeftsbetrieb-aufrecht-2000050135",
+     "date": "2026-11-03T12:35:00.000Z",
+     "text": "Der insolvente Projektentwickler Pandion erhält zur Finanzierung des laufenden Geschäftsbetriebs ein Massedarlehen. Zwei Tochtergesellschaften werden nicht weitergeführt."
+    },
+    {
+     "title": "Union Investment veräußert Hotel in Brüssel",
+     "url": "https://www.iz.de/transaktionen/news/-union-investment-veraeussert-hotel-in-bruessel-2000050133",
+     "date": "2026-11-03T12:29:00.000Z",
+     "text": "Union Investment hat das an Motel One verpachtete Hotel in der Rue Royale 120 in Brüssel an M&G Real Estate verkauft."
+    },
+    {
+     "title": "Accor eröffnet Hotels in Hildesheim und Saarbrücken",
+     "url": "https://www.iz.de/projekte/news/-accor-eroeffnet-hotels-in-hildesheim-und-saarbruecken-2000050132",
+     "date": "2026-11-03T12:24:00.000Z",
+     "text": "Accor baut seine Präsenz in Deutschland um je ein Hotel in Hildesheim und in Saarbrücken aus. Zudem befinden sich 30 weitere Häuser der Hotelgruppe in der Pipeline."
+    },
+    {
+     "title": "Schnapshersteller mietet Logistikimmobilie in Berlin-Pankow",
+     "url": "https://www.iz.de/transaktionen/news/-schnapshersteller-mietet-logistikimmobilie-in-berlin-pankow-2000050134",
+     "date": "2026-11-03T12:00:00.000Z",
+     "text": "In Weißensee im Berliner Bezirk Pankow hat der Produzent von Spirituosen O'Donnell Moonshine insgesamt gut 5.000 qm gemietet. Die Fertigstellung der Halle ist für das erste Quartal 2027 avisiert."
+    },
+    {
+     "title": "Fachmarktzentrum bei Augsburg wechselt Eigentümer",
+     "url": "https://www.iz.de/transaktionen/news/-fachmarktzentrum-bei-augsburg-wechselt-eigentuemer-2000050130",
+     "date": "2026-11-03T11:19:00.000Z",
+     "text": "Ein Fachmarktzentrum in Diedorf im Landkreis Augsburg ist an einen privaten Kapitalanleger aus der Region verkauft worden."
+    },
+    {
+     "title": "Karl-Gruppe erwirbt Chemieareal in Deggendorf",
+     "url": "https://www.iz.de/transaktionen/news/-karl-gruppe-erwirbt-chemieareal-in-deggendorf-2000050128",
+     "date": "2026-11-03T11:01:00.000Z",
+     "text": "Die Karl-Gruppe baut ihr Immobilienportfolio in Niederbayern aus: Der Projektentwickler aus Hengersberg hat das ehemalige Huntsman-Chemieareal in Deggendorf gekauft."
+    },
+    {
+     "title": "Stayery mietet über 6.000 qm für 105 Apartments in Berlin-Kreuzberg",
+     "url": "https://www.iz.de/transaktionen/news/-stayery-mietet-ueber-6.000-qm-fuer-105-apartments-in-berlin-kreuzberg-2000050131",
+     "date": "2026-11-03T11:01:00.000Z",
+     "text": "Ein deutsches Family-Office hat 6.620 qm in einem Bestandsgebäude in der Wrangelstraße im Berliner Bezirk Kreuzberg an Stayery vermietet. Der Hospitality-Anbieter kündigt für den Standort 105 Apartments für Kurz- und Langzeitaufenthalte an."
+    },
+    {
+     "title": "Althoff übernimmt das Sylter Hotel Windrose",
+     "url": "https://www.iz.de/transaktionen/news/-althoff-uebernimmt-das-sylter-hotel-windrose-2000050127",
+     "date": "2026-11-03T10:50:00.000Z",
+     "text": "Das Kölner Familienunternehmen Althoff wird künftig das Hotel Windrose in Wenningstedt auf Sylt betreiben. Nach einer umfassenden Sanierung soll es im Frühjahr 2028 wiedereröffnen."
+    },
+    {
+     "title": "Leonardo übernimmt früheres Intercity-Hotel in Schwerin",
+     "url": "https://www.iz.de/transaktionen/news/-leonardo-uebernimmt-frueheres-intercity-hotel-in-schwerin-2000050110",
+     "date": "2026-11-03T10:11:00.000Z",
+     "text": "Das zuvor von Revo betriebene Intercity-Hotel in Schwerin ist nun eine Herberge von Leonardo. Der neue Betreiber will die Immobilie mit 180 Zimmern umfassend renovieren."
+    },
+    {
+     "title": "Cinthia veräußert Geschäftshaus in Göttingen an Family-Office",
+     "url": "https://www.iz.de/transaktionen/news/-cinthia-veraeussert-geschaeftshaus-in-goettingen-an-family-office-2000050124",
+     "date": "2026-11-03T10:11:00.000Z",
+     "text": "Ein Geschäftshaus mit rund 2.400 qm Nutzfläche in der Innenstadt von Göttingen geht an ein regionales Family-Office. Verkäufer der Immobilie ist Cinthia."
+    },
+    {
+     "title": "Doris Zoller wird Vorständin von Gewobag",
+     "url": "https://www.iz.de/personen/news/-doris-zoller-wird-vorstaendin-von-gewobag-2000050125",
+     "date": "2026-11-03T10:10:00.000Z",
+     "text": "Der Aufsichtsrat der Berliner Wohnungsgesellschaft Gewobag hat Doris Zoller zum Vorstandsmitglied bestellt. Sie nimmt ihre Tätigkeit als operative Vorständin Anfang 2027 auf."
+    },
+    {
+     "title": "Betreiber von Seniorenzentren im Kreis Lörrach muss sich sanieren",
+     "url": "https://www.iz.de/presseschau/news/-betreiber-von-seniorenzentren-im-kreis-loerrach-muss-sich-sanieren-2000050111",
+     "date": "2026-11-03T10:05:00.000Z",
+     "text": "Die Betreibergesellschaft des Seniorenzentrums Mühlehof in Steinen und des Seniorenhauses Schopfheim, beides Kreis Lörrach, befindet sich in vorläufiger Eigenverwaltung. Das berichtet badische-zeitung.de."
+    },
+    {
+     "title": "Klinikum Bayreuth prüft Immobilienverkäufe",
+     "url": "https://www.iz.de/presseschau/news/-klinikum-bayreuth-prueft-immobilienverkaeufe-2000050112",
+     "date": "2026-11-03T10:05:00.000Z",
+     "text": "Das Klinikum Bayreuth prüft den Verkauf seiner Immobilien. Das berichtet der Nordbayerische Kurier."
+    }
+   ]
+  },
+  {
+   "name": "Immobilien Manager",
+   "ok": true,
+   "items": [
+    {
+     "title": "Wenn eine Wohnung kippt: Kostenfalle im Bestand",
+     "url": "https://www.immobilienmanager.de/pathologisches-horten-kostenfalle-im-wohnungsbestand-04112026",
+     "date": "2026-11-04T10:17:44.000Z",
+     "text": "Entrümpeln allein löst das Problem oft nicht. Wie Verwaltungen bei pathologischem Horten früh reagieren und wiederkehrende Kosten begrenzen können."
+    },
+    {
+     "title": "Vonovia-Finanzchef Grosse hört Ende 2027 auf",
+     "url": "https://www.immobilienmanager.de/vonovia-finanzchef-grosse-hoert-ende-2027-auf-04112026",
+     "date": "2026-11-04T08:52:50.000Z",
+     "text": "Philip Grosse strebt keine Verlängerung seines Vertrags als Finanzvorstand an. Vonovia will die Nachfolge in Kürze bekannt geben."
+    },
+    {
+     "title": "Nexum erwirbt erstes Wohnprojekt in München",
+     "url": "https://www.immobilienmanager.de/nexum-erwirbt-erstes-wohnprojekt-in-muenchen-04112026",
+     "date": "2026-11-04T08:21:14.000Z",
+     "text": "In der Maxvorstadt plant Nexum eine Sanierung, eine Dachaufstockung und einen Hofneubau. Das Investitionsvolumen liegt bei rund 20 Millionen Euro."
+    },
+    {
+     "title": "Gropyus-Töchter stellen Insolvenzanträge",
+     "url": "https://www.immobilienmanager.de/gropyus-toechter-stellen-insolvenzantraege-04112026",
+     "date": "2026-11-04T07:23:29.000Z",
+     "text": "Eine fällige Investorenfinanzierung wurde laut Gropyus bislang nicht ausgezahlt. Die Muttergesellschaft ist von den Anträgen nicht betroffen."
+    },
+    {
+     "title": "Comer Group kauft Luxushotel bei Frankfurt",
+     "url": "https://www.immobilienmanager.de/comer-group-kauft-grand-hotel-gravenbruch-03112026",
+     "date": "2026-11-03T12:30:13.000Z",
+     "text": "Die Comer Group hat das Grand Hotel Gravenbruch bei Frankfurt aus der Insolvenz übernommen. Der Verkauf umfasst die Immobilie und den Hotelbetrieb."
+    },
+    {
+     "title": "Brüsseler ZIN gewinnt Internationalen Hochhaus Preis",
+     "url": "https://www.immobilienmanager.de/bruesseler-zin-gewinnt-internationalen-hochhaus-preis-03112026",
+     "date": "2026-11-03T11:50:34.000Z",
+     "text": "Das umgebaute World Trade Center in Brüssel erhält den Internationalen Hochhaus Preis 2026/27. Die Jury würdigt den Erhalt der Bausubstanz."
+    },
+    {
+     "title": "Wo Light Industrial andocken kann",
+     "url": "https://www.immobilienmanager.de/light-industrial-standortvorteile-von-hafenregionen-03112026",
+     "date": "2026-11-03T10:33:27.000Z",
+     "text": "Hafenregionen verbinden Infrastruktur, Kundennähe und industrielle Kompetenz. Timo Hielscher von CTP erläutert ihr Potenzial für Light Industrial."
+    },
+    {
+     "title": "Köln: Siegerentwurf für 450 Wohnungen steht fest",
+     "url": "https://www.immobilienmanager.de/koeln-siegerentwurf-fuer-450-wohnungen-steht-fest-03112026",
+     "date": "2026-11-03T10:10:04.000Z",
+     "text": "Art-Invest und Die Wohnkompanie planen in Köln-Ehrenfeld ein Quartier mit rund 450 Wohnungen und 15.000 Quadratmetern Gewerbefläche."
+    },
+    {
+     "title": "Redevco veräußert Shoppingcenter nahe Berlin",
+     "url": "https://www.immobilienmanager.de/redevco-veraeussert-havelpark-dallgow-an-svp-und-4fi-03112026",
+     "date": "2026-11-03T09:41:17.000Z",
+     "text": "Strategic Value Partners und 4FI erwerben den „Havelpark Dallgow“ bei Berlin. Das Einkaufszentrum umfasst rund 55.000 Quadratmeter Mietfläche."
+    },
+    {
+     "title": "Junge Immobilienprofis untersuchen Erfolgsrezepte",
+     "url": "https://www.immobilienmanager.de/junge-immobilienprofis-untersuchen-erfolgsrezepte-03112026",
+     "date": "2026-11-03T08:34:18.000Z",
+     "text": "Drei Nachwuchs-Forscherinnen erhalten den Förderpreis der Frauen in der Immobilienwirtschaft."
+    },
+    {
+     "title": "Union kauft Retail Park in Dublin",
+     "url": "https://www.immobilienmanager.de/union-kauft-retail-park-in-dublin-02112026",
+     "date": "2026-11-02T14:05:40.000Z",
+     "text": "Union Investment erweitert ihr Irland-Portfolio um einen vollvermieteten Retail Park in Dublin – für einen Spezialfonds."
+    }
+   ]
+  },
+  {
+   "name": "konii",
+   "focus": "Nur Marktdaten und Branchennews, keine Werbung",
+   "ok": true,
+   "items": [
+    {
+     "title": "Family Offices reduzieren den Deutschland-Immobilien-Anteil deutlich",
+     "url": "https://www.konii.de/news/kingstone-family-office-real-estate-report-2026-family-offices-reduzieren-den-deutschland-immobilien-anteil-deutlich/",
+     "date": "2026-11-04T10:38:37.000Z",
+     "text": "KINGSTONE Family Office Real Estate Report 2026"
+    },
+    {
+     "title": "MEC stellt operatives Geschäft neu auf",
+     "url": "https://www.konii.de/news/mec-stellt-operatives-geschaeft-neu-auf/",
+     "date": "2026-11-04T10:20:05.000Z",
+     "text": "Dirk Otto übernimmt zum 1. Januar 2027 die neu geschaffene Position des Head of Center Operations."
+    },
+    {
+     "title": "Alexander J. Lukesch zum Head of Multi Manager Real Estate bei PAA ernannt",
+     "url": "https://www.konii.de/news/alexander-j-lukesch-zum-head-of-multi-manager-real-estate-bei-paa-ernannt/",
+     "date": "2026-11-04T08:08:02.000Z",
+     "text": "Pictet Alternative Advisors (PAA), der auf alternative Investments spezialisierte Geschäftsbereich der Pictet-Gruppe, gibt die Ernennung von Alexander J. Lukesch zum Head of Multi Manager Real Estate bekannt. Die Ernennung Lukeschs zum Leiter des Bereichs wird dazu beitragen, das Angebot an spezialisierten Lösungen für Privatmarktanlagen weiter auszubauen. Alexander Lukesch wird von Genf aus tätig sein und an Zsolt Kohalmi, Deputy CEO von PAA und Global Head of Real Estate, berichten. Er übernim"
+    },
+    {
+     "title": "OSMAB und ALCARO übergeben Logistikneubau an APOSAN in Köln-Kalk",
+     "url": "https://www.konii.de/news/osmab-und-alcaro-uebergeben-logistikneubau-an-aposan-in-koeln-kalk/",
+     "date": "2026-11-04T07:59:30.000Z",
+     "text": "Langjährige Mietpartnerschaft erreicht mit maßgeschneiderter Logistikimmobilie einen neuen Meilenstein"
+    },
+    {
+     "title": "Siemens verlängert Mietvertrag in der Airport City Düsseldorf langfristig",
+     "url": "https://www.konii.de/news/siemens-verlaengert-mietvertrag-in-der-airport-city-duesseldorf-langfristig/",
+     "date": "2026-11-04T07:25:33.000Z",
+     "text": "Eigentümer investiert mehr als fünf Millionen Euro in Haustechnik und Büroflächen"
+    },
+    {
+     "title": "Immobilienangebot in Deutschland wächst um 4,1 Prozent",
+     "url": "https://www.konii.de/news/immobilienangebot-in-deutschland-waechst-um-41-prozent/",
+     "date": "2026-11-04T07:21:42.000Z",
+     "text": "eXp Germany veröffentlicht aktuellen Home Seller Activity Index: In 13 von 16 Bundesländern stehen mehr Häuser und Wohnungen zum Verkauf als bei der vorherigen Erhebung."
+    },
+    {
+     "title": "Spatenstich für 32 neue und bezahlbare BImA-Wohnungen in Frankfurt",
+     "url": "https://www.konii.de/news/spatenstich-fuer-32-neue-und-bezahlbare-bima-wohnungen-in-frankfurt/",
+     "date": "2026-11-04T07:18:29.000Z",
+     "text": "Wohnraumoffensive"
+    },
+    {
+     "title": "Capital 27 ernennt Felix Bindrich zum Chief Operating Officer",
+     "url": "https://www.konii.de/news/capital-27-ernennt-felix-bindrich-zum-chief-operating-officer/",
+     "date": "2026-11-04T07:00:00.000Z",
+     "text": "Kommend von Loanland verantwortet Felix Bindrich in seiner neuen Rolle die operative Steuerung der Real-Estate-Finance-Boutique mit Sitz in Frankfurt am Main, die Weiterentwicklung der Advisory- und Investmentprozesse sowie den Ausbau der Plattform."
+    },
+    {
+     "title": "6-Seen-Wedau wächst: nyoo legt Grundstein in der Neuen Gartenstadt",
+     "url": "https://www.konii.de/news/6-seen-wedau-waechst-nyoo-legt-grundstein-in-der-neuen-gartenstadt/",
+     "date": "2026-11-04T06:58:29.000Z",
+     "text": "Zwei nyoo-Wohnprojekte mit insgesamt 186 Wohneinheiten zeigen den Fortschritt des großflächigen Konversionsprojekts im Duisburger Süden „nyoo lime“: Grundsteinlegung für 85 Wohneinheiten – erste Townhouses in Holzbauweise nehmen Gestalt an; Vertrieb der Townhouses gestartet „nyoo berry“: Rohbau abgeschlossen, erstes vollständig ausgebautes Townhouse als Musterhaus eröffnet Fertigstellung von „nyoo lime“ für Sommer 2028 geplant, Fertigstellung von „nyoo berry“ für Sommer 2027 Mit der Grundsteinle"
+    },
+    {
+     "title": "Vonovia: Operatives Geschäft robust im aktuell schwierigen makroökonomischen Umfeld",
+     "url": "https://www.konii.de/news/vonovia-operatives-geschaeft-robust-im-aktuell-schwierigen-makrooekonomischen-umfeld/",
+     "date": "2026-11-04T06:53:02.000Z",
+     "text": "CFO Philip Grosse strebt keine Vertragsverlängerung an"
+    }
+   ]
+  },
+  {
+   "name": "NDR Hamburg",
+   "focus": "Nur Wohnen, Mieten, Bauen, Büro, Stadtentwicklung",
+   "ok": true,
+   "items": [
+    {
+     "title": "Nord-Stream-Prozess in Hamburg: Explosionen waren Gefahr für Schiffe",
+     "url": "https://www.ndr.de/nachrichten/hamburg/nord-stream-prozess-in-hamburg-explosionen-waren-gefahr-fuer-schiffe,nord-stream-prozess-138.html",
+     "date": "2026-11-04T12:11:40.000Z",
+     "text": "Im Prozess in Hamburg um die Sprengung der Nord-Stream-Pipelines in der Ostsee sagte ein Sachverständiger aus."
+    },
+    {
+     "title": "70-Jährige in Lokstedt getötet - Bekannter festgenommen",
+     "url": "https://www.ndr.de/nachrichten/hamburg/70-jaehrige-in-lokstedt-getoetet-bekannter-festgenommen,lokstedt-102.html",
+     "date": "2026-11-04T10:09:50.000Z",
+     "text": "Die Leiche wurde in einer Wohnung eines Mehrfamilienhauses gefunden. Ein 27-Jähriger wurde festgenommen - ist er psychisch krank?"
+    },
+    {
+     "title": "Steine auf Autobahn in Hamburg geworfen: Jugendliche festgenommen",
+     "url": "https://www.ndr.de/nachrichten/hamburg/steine-auf-autobahn-in-hamburg-geworfen-jugendliche-festgenommen,steinewerfer-100.html",
+     "date": "2026-11-04T09:25:35.000Z",
+     "text": "Zwei Jugendliche sollen am Dienstagabend in Hamburg rund 200 Schottersteine auf die A7 geworfen haben. Laut Polizei wurden mindestens acht Autos beschädigt."
+    },
+    {
+     "title": "Notlage durch Hitzewelle: Übung zum Krisenmanagement in Hamburg",
+     "url": "https://www.ndr.de/nachrichten/hamburg/notlage-durch-hitzewelle-uebung-zum-krisenmanagement-in-hamburg,uebung-136.html",
+     "date": "2026-11-04T09:03:01.000Z",
+     "text": "Heute beginnt eine bundesweite Übung zum Krisenmanagement bei einer extremen Hitzewelle. In Hamburg proben rund 200 Beteiligte, wie im Ernstfall vorzugehen ist."
+    },
+    {
+     "title": "Hamburg: Finanzsenator Dressel rechnet mit mehr Steuereinnahmen",
+     "url": "https://www.ndr.de/nachrichten/hamburg/schaetzung-hamburg-kann-mit-mehr-steuereinnahmen-rechnen,steuern-150.html",
+     "date": "2026-11-04T06:14:39.000Z",
+     "text": "Im Vergleich zur letzten Steuerschätzung im Mai erwartet der Finanzsenator bis 2030 Mehreinnahmen in Höhe von rund 1,11 Milliarden Euro. Dennoch gebe es keine neuen Spielräume."
+    },
+    {
+     "title": "Rund 200 Menschen bei Solidaritätsdemo im Schanzenviertel",
+     "url": "https://www.ndr.de/nachrichten/hamburg/rund-200-menschen-bei-solidaritaetsdemo-im-schanzenviertel,kurzehh-4804.html",
+     "date": "2026-11-04T06:49:04.000Z",
+     "text": "Die Demonstration richtete sich gegen Wohnungsdurchsuchungen bei mutmaßlichen Linksextremisten in Hamburg und in anderen Bundesländern."
+    },
+    {
+     "title": "Schwerer Unfall auf der Horner Landstraße",
+     "url": "https://www.ndr.de/nachrichten/hamburg/schwerer-unfall-auf-der-horner-landstrasse,kurzehh-4802.html",
+     "date": "2026-11-04T10:11:13.000Z",
+     "text": "Nach Angaben der Hamburger Polizei stießen ein Kleinwagen und ein Transporter am späten Dienstagabend zusammen. Es gab fünf Verletzte."
+    },
+    {
+     "title": "\"Sterne des Sports\": HSV Barmbek-Uhlenhorst ausgezeichnet",
+     "url": "https://www.ndr.de/nachrichten/hamburg/sterne-des-sports-hsv-barmbek-uhlenhorst-ausgezeichnet,kurzehh-4800.html",
+     "date": "2026-11-04T04:57:52.000Z",
+     "text": "Der HSV Barmbek-Uhlenhorst gewann mit seinem Demokratie-Projekt \"Gebt der Jugend eine Stimme\" und vetritt Hamburg nun auf Bundesebene."
+    },
+    {
+     "title": "Verstorbene Obdachlose: Ärger über Zählung der Sozialbehörde",
+     "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/verstorbene-obdachlose-aerger-ueber-zaehlung-der-sozialbehoerde,hamj-16170.html",
+     "date": "2026-11-03T18:53:19.000Z",
+     "text": "Künftig sollen statistisch nur Wohnungslose erfasst werden, die direkt auf der Straße gestorben sind. Das stößt auf Kritik."
+    },
+    {
+     "title": "Linke in Hamburg fordert Feuerwerksverbot",
+     "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/linke-in-hamburg-fordert-feuerwerksverbot,hamj-16168.html",
+     "date": "2026-11-03T18:43:26.000Z",
+     "text": "Die Linksfraktion hat einen Bürgerschaftsantrag gestellt. Als Alternative zu Silvester schlägt sie eine Drohnenshow vor."
+    },
+    {
+     "title": "Antennenmast des NDR in Moorfleet wird abgebaut",
+     "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/antennenmast-des-ndr-in-moorfleet-wird-abgebaut,hamj-16176.html",
+     "date": "2026-11-03T19:03:22.000Z",
+     "text": "Viele Jahrzehnte lang war der Mast das höchste Bauwerk Hamburgs. Nun wurde er durch eine noch höhere Antenne abgelöst."
+    },
+    {
+     "title": "Talk mit Rapp und Favé: Was braucht der Fußballnachwuchs?",
+     "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/talk-mit-rapp-und-fave-was-braucht-der-fussballnachwuchs,hamj-16174.html",
+     "date": "2026-11-03T19:01:53.000Z",
+     "text": "Bei einer Veranstaltung des Hamburger Fußball-Verbands ging es um bessere Chancen für die Talente von morgen."
+    },
+    {
+     "title": "Zwischen Tragik und Komik: \"Weil der Frieden Zucker ist!\"",
+     "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/zwischen-tragik-und-komik-weil-der-frieden-zucker-ist,hamj-16178.html",
+     "date": "2026-11-03T19:06:09.000Z",
+     "text": "Regisseurin Anita Vulesica bringt im Schauspielhaus einen Text des französischen Schriftstellers Georges Perec auf die Bühne."
+    },
+    {
+     "title": "Hansa-Theater zeigt neues Varieté-Programm",
+     "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/hansa-theater-zeigt-neues-variete-programm,hamj-16182.html",
+     "date": "2026-11-04T11:26:18.000Z",
+     "text": "Bunt und einfallsreich: Auf der Bühne am Hamburger Steindamm wird rund zwei Stunden Akrobatik und Spektakel geboten."
+    },
+    {
+     "title": "Charles Spencer in Hamburg: So war Lady Di wirklich",
+     "url": "https://www.ndr.de/kultur/buch/charles-spencer-in-hamburg-so-war-lady-di-wirklich,spencer-120.html",
+     "date": "2026-11-04T10:16:03.000Z",
+     "text": "Dianas Bruder las erstmals in Deutschland aus seinem viel diskutierten Buch \"Swan Song\". Ein bewegender und liebevoller Abend."
+    },
+    {
+     "title": "A7 in Hamburg und Elbtunnel werden Ende November wieder voll gesperrt",
+     "url": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-in-hamburg-werden-ende-november-wieder-voll-gesperrt,a7-sperrung-102.html",
+     "date": "2026-11-03T16:18:48.000Z",
+     "text": "Ab dem 20. November wird die Autobahn 7 in Hamburg erneut für ein Wochenende zwischen Hamburg-Heimfeld und -Stellingen voll gesperrt."
+    },
+    {
+     "title": "Wie Schwule in Hamburg verfolgt wurden",
+     "url": "https://www.ndr.de/geschichte/chronologie/vor-66-jahren-hamburg-erlaesst-tanzverbot-gegen-schwule,homosexuellenverfolgung101.html",
+     "date": "2026-11-04T04:00:00.000Z",
+     "text": "Polizei und Justiz gingen in Hamburg noch lange nach der NS-Zeit gegen Schwule vor. Am 4. November 1960 wurde das \"Tanzverbot\" erlassen."
+    },
+    {
+     "title": "Kritik an Obdachlosen-Statistik: Hamburg zählt nur noch Tote auf der Straße",
+     "url": "https://www.ndr.de/nachrichten/hamburg/kritik-an-obdachlosen-statistik-hamburg-zaehlt-nur-noch-tote-auf-der-strasse,obdachlosigkeit-166.html",
+     "date": "2026-11-03T18:54:14.000Z",
+     "text": "Die Sozialbehörde hat die Zählung der Statistik vereinheitlicht. Aber Obdachlose, die kurze Zeit nach Einlieferung ins Krankenhaus sterben, sind nicht mehr Teil der Statistik."
+    },
+    {
+     "title": "Block-Prozess dauert mindestens bis Ende Februar",
+     "url": "https://www.ndr.de/nachrichten/hamburg/block-prozess-dauert-mindestens-bis-ende-februar,block-378.html",
+     "date": "2026-11-03T16:01:52.000Z",
+     "text": "Das Hamburger Landgericht hat 15 neue Verhandlungstermine angesetzt. Vergangene Woche hatte der Anwalt von Christina Block nochmal über 20 neue Beweisanträge gestellt."
+    },
+    {
+     "title": "Bürgerschaft debattiert über Böllerverbot in Hamburg",
+     "url": "https://www.ndr.de/nachrichten/hamburg/buergerschaft-debattiert-ueber-boellerverbot-in-hamburg,boellerverbot-138.html",
+     "date": "2026-11-03T18:43:55.000Z",
+     "text": "Die Linke hat einen Antrag mit dem Titel \"Böller Ciao\" in die nächste Bürgerschaftssitzung eingebracht. Die CDU und AfD sind gegen ein pauschales Feuerwerksverbot."
+    },
+    {
+     "title": "Elmshorn: AKN-Zug erfasste Transporter - Polizei sucht Zeugen",
+     "url": "https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/unfall-bei-elmshorn-akn-zug-erfasst-transporter,unfall-akn-100.html",
+     "date": "2026-11-04T11:29:06.000Z",
+     "text": "Auf der AKN-Strecke ist es am Dienstagmittag zu einem schweren Unfall mit einem Schwerverletzten gekommen. Die Polizei äußerte sich heute."
+    },
+    {
+     "title": "Fischwirtschafts-Gipfel in Hamburg: Branche diskutiert über Herausforderungen",
+     "url": "https://www.ndr.de/nachrichten/hamburg/fischwirtschafts-gipfel-in-hamburg-branche-diskutiert-ueber-herausforderungen,fischwirtschaftsgipfel-102.html",
+     "date": "2026-11-03T17:51:16.000Z",
+     "text": "Rund 200 Teilnehmer diskutieren noch bis Mittwoch über Themen wie Lieferketten, Tierwohl, Kennzeichnungspflicht und Aquakultur."
+    },
+    {
+     "title": "Weltmännertag 2026: Auf \"Alpha-Männer\" reagiert dieses Stück empathisch",
+     "url": "https://www.ndr.de/kultur/buehne/aktuell/wie-hat-ein-mann-zu-sein-das-stueck-alpha-sucht-antworten,alpha-106.html",
+     "date": "2026-11-03T14:43:51.000Z",
+     "text": "Die neue Inszenierung am Jungen Schauspielhaus Hamburg widmet sich dem Bild von Männlichkeit, dem junge Männer heute ausgesetzt sind."
+    },
+    {
+     "title": "Fatih Akins Hamburg schwebt in \"Geister\" zwischen Welten",
+     "url": "https://www.ndr.de/kultur/film/tipps/fatih-akins-geister-ein-modernes-romantisches-maerchen,geister-116.html",
+     "date": "2026-11-04T09:58:26.000Z",
+     "text": "Mit unbekannten Darstellern, einer geheimnisvollen Liebesgeschichte und seiner Heimatstadt Hamburg kehrt Akin zu den Wurzeln seines Kinos zurück."
+    },
+    {
+     "title": "Meistgeklickt: Beliebte Artikel und Videos in Hamburg",
+     "url": "https://www.ndr.de/nachrichten/hamburg/Meistgeklickt-Beliebte-Artikel-und-Videos-in-Hamburg,meistgelesen110.html",
+     "date": "2026-11-04T06:02:06.000Z",
+     "text": "Hier finden Sie die meistgelesenen Artikel des letzten Tages und die meistgesehenen Videos der letzten sieben Tage für Hamburg."
+    },
+    {
+     "title": "Tokio Hotel begeistern rund 11.000 Fans in Hamburg",
+     "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/tokio-hotel-begeistern-rund-11000-fans-in-hamburg,hamj-16140.html",
+     "date": "2026-11-02T19:14:20.000Z",
+     "text": "Das \"Kerngeschäft\" von Tokio Hotel ist die Musik- das beweisen die vier derzeit live und laut auf ihrer Arena-Tour."
+    }
+   ]
+  },
+  {
+   "name": "Hamburger Abendblatt",
+   "focus": "Nur Wohnen, Mieten, Bauen, Büro, Stadtentwicklung",
+   "ok": true,
+   "items": [
+    {
+     "title": "Nach Eskalation: Veranstalter will Eppendorfer Landstraßenfest komplett umkrempeln",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article413576680/eppendorfer-landstrassenfest-nach-eskalation-will-veranstalter-hamburger-stadtteilfest-komplett-umkrempeln.html",
+     "date": "2026-11-03T16:03:00.000Z",
+     "text": "Bergmanngruppe präsentiert neue Ideen für Hamburger Stadtteilfest. Dazu gehört auch, das Wort „Eppendorf“ aus dem Namen zu verbannen."
+    },
+    {
+     "title": "Metronom kündigt neue Bauarbeiten an: Pendlerfrust geht in die Verlängerung",
+     "url": "https://www.abendblatt.de/hamburg/harburg/article413586224/metronom-kuendigt-neue-bauarbeiten-an-pendlerfrust-geht-in-die-verlaengerung.html",
+     "date": "2026-11-04T12:10:00.000Z",
+     "text": "Laufende Maßnahme zwischen Hamburg-Harburg und Hauptbahnhof ist nicht genug. Danach baut die Deutsche Bahn weiter Richtung Hannover."
+    },
+    {
+     "title": "Serieneinbrecher gefasst: Mann (60) stieg in fünf Hamburger Wohnungen ein",
+     "url": "https://www.abendblatt.de/hamburg/wandsbek/article413586414/serieneinbrecher-gefasst-mann-60-stieg-in-fuenf-hamburger-wohnungen-ein.html",
+     "date": "2026-11-04T12:01:11.000Z",
+     "text": "Hinzu kommen noch mehrere gescheiterte Einbrüche. Vor allem in einem Bezirk trieb der 60-Jährige sein Unwesen. Wie er jetzt gefasst wurde."
+    },
+    {
+     "title": "Altes Schulhaus wird abgerissen: Was auf dem Areal in Bergedorf entsteht",
+     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413560583/altes-schulhaus-wird-abgerissen-was-auf-dem-areal-in-bergedorf-entsteht.html",
+     "date": "2026-11-04T12:00:00.000Z",
+     "text": "Im Altbau stecken alte Schutzräume und Asbest: Der Abriss soll vor Weihnachten enden und kostet mehrere Hunderttausend Euro."
+    },
+    {
+     "title": "Hunderte Gasanschlüsse in Hamburg abgemeldet – für den Rest wird es teurer",
+     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413518449/heizen-gas-preise-netztentgelte-grundversorgung-hamburg-verivox-eon.html",
+     "date": "2026-11-04T11:16:00.000Z",
+     "text": "Weniger Abnehmer und explodierende Preise verteuern Gasrechnung um viele Hundert Euro. Warum die Grundversorgung von E.ON jetzt günstig ist."
+    },
+    {
+     "title": "Florenz, Chania, Bodrum: Diese neuen Ziele gibt es am Flughafen Hamburg",
+     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413511844/flughafen-hamburg-ziele-analyse-bdl-corona2.html",
+     "date": "2026-11-04T11:12:00.000Z",
+     "text": "Analyse: Seit Corona wurden am Helmut-Schmidt-Airport mehr Strecken aufgenommen als gestrichen. Hamburg entwickelt sich gegen den Bundestrend."
+    },
+    {
+     "title": "Ob Fritteuse oder Ledercouch – Inventar des Brewdog-Pubs kommt unter den Hammer",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413585046/ob-fritteuse-oder-ledercouch-inventar-des-brewdog-pub-kommt-unter-den-hammer.html",
+     "date": "2026-11-04T11:11:00.000Z",
+     "text": "Im März ging die deutsche Sparte der Brauerei pleite, die Tage der Bar auf St. Pauli waren gezählt. Jetzt sind Schnäppchen möglich."
+    },
+    {
+     "title": "Gymnasium oder Stadtteilschule: Wo lernt mein Kind am besten?",
+     "url": "https://www.abendblatt.de/hamburg/politik/article413526790/gymnasium-oder-stadtteilschule-in-hamburg-die-wichtigsten-unterschiede3.html",
+     "date": "2026-11-04T11:08:00.000Z",
+     "text": "Beide Schulformen führen zum Abitur: Doch es gibt große Unterschiede bei Klassengröße, Fremdsprachen und Dauer. Die große Übersicht."
+    },
+    {
+     "title": "Auf dem Weg zum Deutschen Hafenmuseum: Diese Ausstellung macht Appetit auf mehr",
+     "url": "https://www.abendblatt.de/hamburg/kultur/article413578494/auf-dem-weg-zum-deutschen-hafenmuseum-diese-ausstellung-macht-appetit-auf-mehr.html",
+     "date": "2026-11-04T11:00:00.000Z",
+     "text": "Faszination Hafen: Im Kultur Kontor Hamburg kann man einen Blick in die Zukunft auf eins der spektakulärsten Museumsprojekte Europas werfen."
+    },
+    {
+     "title": "Wolf Biermann ausgerechnet in der Elbphilharmonie: Warum das so besonders war",
+     "url": "https://www.abendblatt.de/hamburg/kultur/article413582918/wolf-biermann-ausgerechnet-in-der-elbphilharmonie-warum-das-so-besonders-war.html",
+     "date": "2026-11-04T10:50:41.000Z",
+     "text": "Der Hamburger mit dem unvergleichlichen Leben wurde von berühmten Freunden gefeiert. Dann sang er selbst: der fitteste 90-Jährige des Planeten!"
+    },
+    {
+     "title": "Jugendliche werfen 200 Steine auf die A7 – Verdächtige bisher nicht vorbestraft",
+     "url": "https://www.abendblatt.de/hamburg/eimsbuettel/article413582823/jugendliche-werfen-200-steine-auf-die-a7-zwei-14-und-18-jaehrige-festgenommen.html",
+     "date": "2026-11-04T10:48:00.000Z",
+     "text": "Mindestens acht Fahrzeuge wurden am Dienstagabend auf der A7 beschädigt. Verletzt wurde niemand. Autobahn musste voll gesperrt werden."
+    },
+    {
+     "title": "„Abgekoppelt von den Menschen“: Spendenparlament attackiert Sozialsenatorin",
+     "url": "https://www.abendblatt.de/hamburg/politik/article413536051/integrationszentren-in-hamburg-spendenparlament-linke-und-cdu-attackieren-senatorin1.html",
+     "date": "2026-11-04T10:01:00.000Z",
+     "text": "Scharfe Kritik am Umgang mit Trägern der Integrationszentren. Nach Mittelstreichung ist ein Verein insolvent. Senatorin erklärt sich."
+    },
+    {
+     "title": "Virtual-Reality-Fahrgeschäft neu auf dem Winterdom – so etwas gab es noch nie",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413570301/winterdom-hamburg-2026-neues-virtual-reality-fahrgeschaeft-so-etwas-gab-es-noch-nie.html",
+     "date": "2026-11-04T10:00:00.000Z",
+     "text": "Hamburgs Volksfest hat dieses Mal besondere Neuheiten zu bieten – und in allen wird es ziemlich bewegungsreich. Was Besucher erwartet."
+    },
+    {
+     "title": "Greta Oto-Küchenchef verrät seine fünf Hamburger Lieblingslokale",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413535159/kuechenchef-vom-greta-oto-verraet-das-sind-hamburgs-beste-lokale-fuer-fisch-und-wein1.html",
+     "date": "2026-11-04T10:00:00.000Z",
+     "text": "Tilo Sachadä vom Restaurant im Luxushotel Conrad gibt ganz persönliche Tipps zum Essengehen, auch ein Sternrestaurant ist dabei."
+    },
+    {
+     "title": "Hitzetote und Wassermangel: Jetzt probt Hamburg mit Polizei und Feuerwehr die Krise",
+     "url": "https://www.abendblatt.de/hamburg/politik/article413531647/duerre-und-hitzewelle-hamburg-probt-mit-polizei-und-feuerwehr-den-krisenfall2.html",
+     "date": "2026-11-04T09:58:00.000Z",
+     "text": "„LÜKEX“ ist die wohl größte Übung seit Ende des Kalten Kriegs: Hamburg probt den Umgang mit Hitzetoten, gestörten Lieferketten und knappem Trinkwasser."
+    },
+    {
+     "title": "SterniPark-Kita in der HafenCity mit satanistischen Symbolen beschmiert",
+     "url": "https://www.abendblatt.de/hamburg/politik/article413524667/sternipark-kita-in-der-hafencity-hamburg-mit-satanistischen-symbolen-beschmiert1.html",
+     "date": "2026-11-04T09:56:00.000Z",
+     "text": "Ist es nur Sachbeschädigung – oder steckt mehr dahinter? Die Polizei Hamburg ermittelt zum Vandalismus an der SterniPark-Kita in der HafenCity."
+    },
+    {
+     "title": "Leichenfund in Lokstedt: Psychisch kranker Mann soll Bekannte (70) getötet haben",
+     "url": "https://www.abendblatt.de/hamburg/eimsbuettel/article413580794/leichenfund-in-hamburg-psychisch-kranker-mann-27-soll-bekannte-70-in-lokstedt-getoetet-haben-2.html",
+     "date": "2026-11-04T09:48:00.000Z",
+     "text": "Tote in Wohnung am Grandweg gefunden. Verdächtiger soll mit ihr dort gelebt haben. Er führte die Beamten zum Tatort, einem Plattenbau in Lokstedt."
+    },
+    {
+     "title": "Traditionskonditorei bangt um Existenz – wegen Bauarbeiten fehlen Parkplätze",
+     "url": "https://www.abendblatt.de/hamburg/wandsbek/article413521216/umbau-der-rodigallee-zerstoert-lebenswerk-traditionskonditorei-bangt-um-existenz1.html",
+     "date": "2026-11-04T09:34:00.000Z",
+     "text": "Dauerbaustelle auf wichtiger Hamburger Straße im Osten lässt Inhaber eines Familienunternehmens verzweifeln. Was sie am meisten ärgert."
+    },
+    {
+     "title": "Der Straßenstreit von Lurup: Eigentümer macht Schleichweg nach Globus-Aus dicht",
+     "url": "https://www.abendblatt.de/hamburg/altona/article413544877/nach-globus-aus-folgt-strassenstreit-in-lurup-eigentuemer-macht-schleichweg-dicht1.html",
+     "date": "2026-11-04T09:20:00.000Z",
+     "text": "Zwei Jahre lang führte über den privaten Parkplatz eine Umfahrung. Damit ist jetzt Schluss. Dabei ist die Straße weiterhin gesperrt."
+    },
+    {
+     "title": "Nach Razzia gegen Linksextremisten: 180 Menschen gehen in Hamburg auf die Straße",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413583294/nach-razzia-gegen-linksextremisten-180-menschen-gehen-in-hamburg-auf-die-strasse.html",
+     "date": "2026-11-04T07:14:25.000Z",
+     "text": "Sicherheitsbehörden haben das „Kollektiv Zwickau“ ausgehoben. Auch eine Wohnung in Hamburg wurde durchsucht. Auf St. Pauli kam es zur Soli-Demo."
+    },
+    {
+     "title": "Schwerer Verkehrsunfall auf Horner Landstraße: Zwei Fahrzeuge kollidieren frontal",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413582695/schwerer-verkehrsunfall-auf-horner-landstrasse-zwei-fahrzeuge-kollidieren-frontal.html",
+     "date": "2026-11-04T05:39:00.000Z",
+     "text": "Ein 39-Jähriger soll beim Abbiegen den Gegenverkehr missachtet haben. Der Fahrer des entgegenkommenden Fahrzeugs ist schwer verletzt."
+    },
+    {
+     "title": "Mikroapartments fördern oder verbieten? CDU streitet über Kleinstwohnungen",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article413549969/immobilien-hamburg-mikroapartments-foerdern-oder-verbieten-cdu-streitet-ueber-kleinstwohnungen.html",
+     "date": "2026-11-04T05:30:00.000Z",
+     "text": "Fraktionschef aus Hamburg-Nord fordert im Abendblatt Reglementierung entsprechender Immobilien. Parteikollegen widersprechen vehement."
+    },
+    {
+     "title": "Neues Buch „Afrika“ von Daniel Kehlmann: Darf man über Kolonialismus lachen?",
+     "url": "https://www.abendblatt.de/hamburg/kultur/article413562439/neues-buch-afrika-von-daniel-kehlmann-darf-man-ueber-kolonialismus-lachen.html",
+     "date": "2026-11-04T05:20:00.000Z",
+     "text": "Das Thema ist ernst: Es geht um Arroganz und Kolonialismus. Interessanterweise verbindet der Autor dies mit einem sehr schusseligen Helden."
+    },
+    {
+     "title": "„Endlich wieder da“: Beliebtes Restaurant feiert nach zehn Jahren Comeback",
+     "url": "https://www.abendblatt.de/hamburg/altona/article413571753/beliebtes-restaurant-in-hamburg-feiert-nach-10-jahren-comeback-tropical-point-endlich-wieder-da.html",
+     "date": "2026-11-04T05:15:00.000Z",
+     "text": "Zwischenzeitlich war Joyce Bestelmeyer mit westafrikanischer Küche Stammgast auf dem Ottenser Weihnachtsmarkt. Wo es jetzt weitergeht."
+    },
+    {
+     "title": "Modenschau und Livemusik: Das sind die Highlights am verkaufsoffenen Sonntag",
+     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413576443/verkaufsoffener-sonntag-in-hamburg-die-highlights-am-8-november.html",
+     "date": "2026-11-04T05:05:00.000Z",
+     "text": "Geschäfte öffnen zum letzten verkaufsoffenen Sonntag des Jahres. Diesmal dreht sich alles um Kunst. Westfield feiert zeitgleich neues Event."
+    },
+    {
+     "title": "„28 Jahre gesoffen“: Zwei Hamburgerinnen über ihr neues Leben ohne Alkohol",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413510179/28-jahre-gesoffen-zwei-hamburgerinnen-sprechen-in-sternhageldoll-ueber-ihr-neues-leben-ohne-alkohol.html",
+     "date": "2026-11-04T04:55:00.000Z",
+     "text": "Die Schwestern Chrissie (43) und Franzi Bruns (38) trinken seit einem Jahr nicht mehr und feiern nüchtern. Warum sie diesen Weg gehen."
+    },
+    {
+     "title": "Steckt in mir eine Künstlerin? Selbstversuch bei „Drink & Paint“ in der HafenCity",
+     "url": "https://www.abendblatt.de/hamburg/kultur/article413575096/selbstversuch-bei-drink-paint-in-der-hafencity-steckt-in-mir-eine-kuenstlerin.html",
+     "date": "2026-11-04T04:43:00.000Z",
+     "text": "Servietten als Kunstobjekte, Farbe und Wein: Im Restaurant 5Taste entstehen Bilder in geselliger Runde. Spaß Für Paare, Gruppen und Firmen."
+    },
+    {
+     "title": "Sperrungen im Nordosten Hamburgs: Was sich in Bergstedt kommende Woche ändert",
+     "url": "https://www.abendblatt.de/hamburg/wandsbek/article413565060/verkehr-hamburg-sperrungen-im-nordosten-der-stadt-was-sich-in-bergstedt-naechste-woche-aendert.html",
+     "date": "2026-11-04T04:35:00.000Z",
+     "text": "Die neunmonatige Baustelle zwischen Hamburg und Schleswig-Holstein geht in die nächste Bauphase über. Was Anwohner wissen sollten."
+    },
+    {
+     "title": "Tacos, Kaiserschmarrn und Grünkohl: Das bietet der Bergedorfer Weihnachtsmarkt",
+     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413507447/tacos-kaiserschmarrn-und-gruenkohl-das-bietet-der-bergedorfer-weihnachtsmarkt.html",
+     "date": "2026-11-04T04:30:00.000Z",
+     "text": "Der Aufbau hat begonnen: Wann der heimelige Weihnachtsmarkt geöffnet ist, was auf dem Programm steht und wie viel der Glühwein kostet."
+    },
+    {
+     "title": "„Will und werde ich nicht verstehen“: Dressel rügt Bezirk in Karstadt-Drama",
+     "url": "https://www.abendblatt.de/hamburg/harburg/article413576447/will-und-werde-ich-nicht-verstehen-dressel-ruegt-bezirk-in-karstadt-drama.html",
+     "date": "2026-11-04T04:27:00.000Z",
+     "text": "Hamburgs Finanzsenator sieht die Schuld am Leerstand im alten Karstadt-Haus beim Bezirk Harburg. Worum es ihm geht – ein Blick hinter die Kulissen."
+    }
+   ]
+  },
+  {
+   "name": "Handelsblatt",
+   "focus": "Nur Immobilien und Bauzinsen",
+   "ok": true,
+   "items": [
+    {
+     "title": "US-Wahlen: Demokraten siegen in Kalifornien – und die Milliardäre?",
+     "url": "https://www.handelsblatt.com/politik/international/midterms-demokraten-siegen-in-kalifornien-und-die-milliardaere/100267150.html",
+     "date": "2026-11-04T12:06:00.000Z",
+     "text": "Der Staat wählt einen Latino zum Gouverneur. Zugleich stimmten die Kalifornier über die neue Milliardärssteuer ab. Hinter der rekordteuren Abwehrkampagne steht ein Co-Gründer von Google."
+    },
+    {
+     "title": "Sachsen-Anhalt: Von Angern erwägt Kandidatur gegen Siegmund",
+     "url": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-von-angern-erwaegt-kandidatur-gegen-siegmund/100267281.html",
+     "date": "2026-11-04T12:03:01.000Z",
+     "text": "Der AfD-Politiker Ulrich Siegmund will im Dezember Ministerpräsident werden, doch ihm fehlen drei Stimmen für eine Mehrheit. Die Linke prüft, ob sie eine eigene Kandidatin ins Rennen schickt."
+    },
+    {
+     "title": "Mobilitätskosten: Benzinpreis für E10 fällt wieder unter 2 Euro",
+     "url": "https://www.handelsblatt.com/politik/deutschland/mobilitaetskosten-benzinpreis-fuer-e10-faellt-wieder-unter-2-euro/100267251.html",
+     "date": "2026-11-04T12:00:43.000Z",
+     "text": "Günstiger als derzeit war der Kraftstoff zuletzt im Juli. Der Dieselpreis entwickelt sich anders."
+    },
+    {
+     "title": "Märkte Insight: Warum der andere Verlierer der Zwischenwahlen Elon Musk heißt",
+     "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-warum-der-andere-verlierer-der-zwischenwahlen-elon-musk-heisst/100266665.html",
+     "date": "2026-11-04T11:57:30.000Z",
+     "text": "Niemand hat mehr Geld für die Republikaner gespendet als der Multimilliardär. Dass dies verpuffte, könnte enorme Folgen haben. Die Aktienkurse von Tesla und SpaceX spiegeln das Risiko wider."
+    },
+    {
+     "title": "Angeklagter mit Fußfessel: Neuer Prozess gegen Ex-Milliardär René Benko hat begonnen",
+     "url": "https://www.handelsblatt.com/politik/deutschland/angeklagter-mit-fussfessel-neuer-prozess-gegen-ex-milliardaer-rene-benko-hat-begonnen/100267280.html",
+     "date": "2026-11-04T11:57:00.000Z",
+     "text": "Bisher hat der Signa-Gründer 30 Monate Haft zu verbüßen. Jetzt muss er sich einem Betrugsverfahren stellen. Das könnte ihm eine Zusatzstrafe einbringen."
+    },
+    {
+     "title": "Klima: UN-Bericht – Gelder für Klimaanpassungen reichen nicht aus",
+     "url": "https://www.handelsblatt.com/politik/international/klima-un-bericht-gelder-fuer-klimaanpassungen-reichen-nicht-aus/100267270.html",
+     "date": "2026-11-04T11:42:15.000Z",
+     "text": "Klimaziele der internationalen Gemeinschaft drohen zu scheitern. Auch finanziell ist die Weltgemeinschaft schlecht vorbereitet auf die Bewältigung der Folgen des Klimawandels, so die UN."
+    },
+    {
+     "title": "Dax aktuell: Dax steigt nach Midterms auf Zwei-Monatshoch – Heidelberg-Aktie springt nach oben",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-steigt-nach-midterms-auf-zwei-monatshoch/100267175.html",
+     "date": "2026-11-04T11:35:14.000Z",
+     "text": "Der deutliche Wahlsieg der Demokraten in den USA übertrifft die Erwartungen der Anlegerinnen und Anleger. Für Bewegung sorgen zudem Zahlen und Inflationsdaten."
+    },
+    {
+     "title": "US-Midterms: Aus „Inshallah“ wird „Alhamdulillah“ – El-Sayed wird US-Senator",
+     "url": "https://www.handelsblatt.com/politik/international/us-midterms-aus-inshallah-wird-alhamdulillah-el-sayed-wird-us-senator/100267219.html",
+     "date": "2026-11-04T11:32:51.000Z",
+     "text": "Der 42-jährige Mediziner aus Michigan wird der erste Muslim im US-Senat. Damit macht er wahr, was ihm ein früherer US-Präsident schon vor zwei Jahrzehnten riet."
+    },
+    {
+     "title": "Geldpolitik: Inflation erreicht vier Prozent – Weitere Zinserhöhung der EZB wird wahrscheinlicher",
+     "url": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-im-euro-raum-erreicht-die-vier-prozent-marke/100263504.html",
+     "date": "2026-11-04T11:27:25.000Z",
+     "text": "Die Inflation steigt auf ein Drei-Jahres-Hoch. Einzelne EZB-Ratsmitglieder machen deutlich, wie dringlich eine erneute Zinserhöhung ist. Aber wie weit wird die Notenbank gehen?"
+    },
+    {
+     "title": "Tourismus: EU-Kommission will Touristenströme besser verteilen",
+     "url": "https://www.handelsblatt.com/politik/deutschland/tourismus-eu-kommission-will-touristenstroeme-besser-verteilen/100267273.html",
+     "date": "2026-11-04T11:24:31.000Z",
+     "text": "Hunderttausende Touristen zieht es Jahr für Jahr an die gleichen Orte. Die Europäische Kommission will die Länder dabei unterstützen, Folgen auszugleichen - und Europas Tourismus stärken."
+    },
+    {
+     "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+     "url": "https://www.handelsblatt.com/karriere/ki-wo-gibt-es-weiterhin-eine-nachfrage-nach-arbeitskraeften/100235558.html",
+     "date": "2026-11-04T11:24:00.000Z",
+     "text": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten."
+    },
+    {
+     "title": "Kommentar: Volksaufstand gegen den Trumpismus",
+     "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-midterms-volksaufstand-gegen-den-trumpismus/100266488.html",
+     "date": "2026-11-04T11:23:00.000Z",
+     "text": "Mit dem Verlust der Mehrheiten im Kongress und Senat hat der US-Präsident den Zenit seiner Macht überschritten. Doch es ist schwer vorstellbar, dass Trump die Schmach wirklich akzeptiert."
+    },
+    {
+     "title": "Nachfolge bei der Notenbank: Poker um EZB-Spitze: Wer folgt auf Christine Lagarde?",
+     "url": "https://www.handelsblatt.com/politik/deutschland/nachfolge-bei-der-notenbank-poker-um-ezb-spitze-wer-folgt-auf-christine-lagarde/100267145.html",
+     "date": "2026-11-04T11:20:46.000Z",
+     "text": "Die Eurostaaten suchen nach einem neuen Präsidenten für die Europäische Zentralbank. Schon in wenigen Tagen könnte über die Nachfolge von Christine Lagarde entschieden werden. Wer sind die Favoriten?"
+    },
+    {
+     "title": "Notenbank: Niederlande nominieren Ex-Zentralbanker Knot als EZB-Chef",
+     "url": "https://www.handelsblatt.com/politik/deutschland/notenbank-niederlande-nominieren-ex-zentralbanker-knot-als-ezb-chef/100267272.html",
+     "date": "2026-11-04T11:20:17.000Z",
+     "text": "Nach dem angekündigten Rücktritt von Christine Lagarde wird der Chefposten bei der Zentralbank frei. Einer der Favoriten ist der Niederländer."
+    },
+    {
+     "title": "US-Parlamentswahl: Trump abgestraft: Demokraten triumphieren bei Kongresswahl",
+     "url": "https://www.handelsblatt.com/politik/international/us-parlamentswahl-trump-abgestraft-demokraten-triumphieren-bei-kongresswahl/100267117.html",
+     "date": "2026-11-04T11:20:14.000Z",
+     "text": "Donald Trumps Republikaner müssen bei der Kongresswahl eine verheerende Niederlage einstecken. Die US-Wähler rechneten mit der Politik des Präsidenten ab, der nun vor zwei härteren Jahren steht."
+    },
+    {
+     "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
+     "url": "https://www.handelsblatt.com/politik/international/migration-was-macht-polen-fuer-deutsche-auswanderer-so-attraktiv/100249315.html",
+     "date": "2026-11-04T11:18:00.000Z",
+     "text": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?"
+    },
+    {
+     "title": "Gehaltsreport 2026: 1,3 Millionen Gehaltsdaten im Vergleich: Gehören Sie zu den Besserverdienern in Deutschland?",
+     "url": "https://www.handelsblatt.com/karriere/geld-wie-viel-gehalt-in-den-bestbezahlten-berufen-2026-moeglich-ist/100179922.html",
+     "date": "2026-11-04T11:18:00.000Z",
+     "text": "Das Gehalt gehört nach wie vor zu den Tabuthemen in Deutschland. Finden Sie heraus, wie gut Sie im Vergleich in einzelnen Berufen, Branchen und Bundesländern verdienen."
+    },
+    {
+     "title": "Missoirs: Diese Frau will den weiblichen Toilettengang revolutionieren",
+     "url": "https://www.handelsblatt.com/unternehmen/start-ups/start-up-wie-missoirsden-toilettengang-fuer-frauen-veraendern-koennen/100262598.html",
+     "date": "2026-11-04T11:17:00.000Z",
+     "text": "Lena Olvedi hat ein Urinal für Frauen erfunden. Einen berühmten Berliner Club überzeugt das bereits. Können sich die Missoirs in Konzerthallen oder Restaurants flächendeckend durchsetzen?"
+    },
+    {
+     "title": "Hochrechnung: Experten rechnen mit sinkendem Energieverbrauch",
+     "url": "https://www.handelsblatt.com/unternehmen/energie/hochrechnung-experten-rechnen-mit-sinkendem-energieverbrauch/100267260.html",
+     "date": "2026-11-04T11:14:17.000Z",
+     "text": "Die verhaltene Konjunktur und hohe Energiepreise werden wohl dafür sorgen, dass Deutschland in diesem Jahr insgesamt weniger Energie verbraucht. Fossile Energieträger dominieren weiterhin."
+    },
+    {
+     "title": "Leistungsfähigkeit: Warum Firmen ihre Mitarbeiter ausschlafen lassen sollten",
+     "url": "https://www.handelsblatt.com/karriere/arbeitszeit-wie-wirkt-sich-ihr-biorhythmus-auf-ihre-produktivitaet-aus/100231866.html",
+     "date": "2026-11-04T11:14:00.000Z",
+     "text": "Die innere Uhr wirkt sich maßgeblich auf die Produktivität aus. Trotzdem arbeiten viele gegen ihren eigenen Rhythmus. Wie lässt sich das verhindern?"
+    },
+    {
+     "title": "Führungskräfte: Hochqualifiziert, erfolgreich, arbeitssuchend – Vier Betroffene berichten",
+     "url": "https://www.handelsblatt.com/karriere/fuehrungskraefte-warum-auch-high-performer-es-mit-der-jobsuche-nicht-leicht-haben/100228751.html",
+     "date": "2026-11-04T11:13:00.000Z",
+     "text": "In der Krise finden auch Menschen, deren Karrieren bislang steil nach oben gingen, keinen Job mehr. Vier Betroffene erzählen, vor welche Herausforderungen sie das stellt."
+    },
+    {
+     "title": "Krankmeldung: Wie sich Arbeitgeber gegen Blaumacher wehren können",
+     "url": "https://www.handelsblatt.com/karriere/fuehrungskraefte-wie-firmen-rechtlich-gegen-blaumacher-vorgehen-koennen/100180160.html",
+     "date": "2026-11-04T11:13:00.000Z",
+     "text": "Aus dem Handelsblatt-Archiv: Ein Mitarbeiter meldet sich immer an Brückentagen und montags krank? Diese rechtlichen Möglichkeiten haben Firmen bei Verdacht auf Blaumachen."
+    },
+    {
+     "title": "Jürgen Klopp: Sieben Leadership-Lehren, die sich Chefs von ihm abschauen können",
+     "url": "https://www.handelsblatt.com/karriere/fuehrungskraefte-sieben-dinge-die-manager-von-juergen-klopp-lernen-koennen/100242667.html",
+     "date": "2026-11-04T11:11:00.000Z",
+     "text": "Klopp wird neuer Bundestrainer. Der DFB gewinnt einen Motivator. Sein Führungsstil ist so gut, dass auch andere Chefs sich davon etwas abschauen können, sagt ein Forscher – und erklärt, wie."
+    },
+    {
+     "title": "Angespielt: Hey, hör zu!: „Zelda: Ocarina of Time“ ist zurück",
+     "url": "https://www.handelsblatt.com/technik/it-internet/angespielt-hey-hoer-zu-zelda-ocarina-of-time-ist-zurueck/100267266.html",
+     "date": "2026-11-04T11:00:08.000Z",
+     "text": "Hühner als Gleitschirme, ein Dornröschenschlaf und Zeitreisen? Hört sich nach Zelda an - und ist es auch. Das Abenteuer „Ocarina of Time“ kehrt als Remake zurück. Kann es dem Klassiker gerecht werden?"
+    },
+    {
+     "title": "Autobatterie: Was hilft, wenn das Auto im Winter nicht startet?",
+     "url": "https://www.handelsblatt.com/mobilitaet/ratgeber-service/autobatterie-was-hilft-wenn-das-auto-im-winter-nicht-startet-04/29450590.html",
+     "date": "2026-11-04T11:00:00.000Z",
+     "text": "Im Winter verbrauchen Elektroautos und Verbrenner mehr Strom. Mitunter entlädt sich die Autobatterie dann unerwartet. Wie Sie Ihr Auto dann noch starten können."
+    },
+    {
+     "title": "Batterie, Frostschutz & Co.: Tipps für Laternenparker in Herbst und Winter",
+     "url": "https://www.handelsblatt.com/mobilitaet/motor/batterie-frostschutz-co-tipps-fuer-laternenparker-in-herbst-und-winter/100267265.html",
+     "date": "2026-11-04T10:56:09.000Z",
+     "text": "Morgens Scheiben freikratzen, festgefrorene Türen lösen: Wer draußen parkt, sollte sich auf die kalte Jahreszeit vorbereiten. Welche Handgriffe dabei wichtig sind."
+    },
+    {
+     "title": "Einzelhandel: Was Sie zum Black Friday 2026 wissen müssen",
+     "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/black-friday-2026-was-sie-zum-schnaeppchen-tag-wissen-muessen/100178458.html",
+     "date": "2026-11-04T10:56:00.000Z",
+     "text": "Im Einzelhandel gilt der Black Friday als Umsatzbringer. Schnäppchenjäger suchen am Shopping-Tag nach tatsächlich niedrigen Preisen. Worauf Sie beim Einkauf achten sollten."
+    },
+    {
+     "title": "Influenza: Schwanger gegen Grippe impfen lassen? Schützt doppelt!",
+     "url": "https://www.handelsblatt.com/technik/medizin/influenza-schwanger-gegen-grippe-impfen-lassen-schuetzt-doppelt/100267261.html",
+     "date": "2026-11-04T10:51:16.000Z",
+     "text": "Mehr als ein harmloser Schnupfen: Eine Infektion mit Grippeviren kann Schwangere ins Krankenhaus bringen. Eine Impfung schützt - und nützt auch dem Kind. Wissen für werdende Mamas."
+    },
+    {
+     "title": "Stromverbrauch in Deutschland: So viel Strom verbrauchen Haushalte im Schnitt",
+     "url": "https://www.handelsblatt.com/unternehmen/energie/stromverbrauch-in-deutschland-2026-so-viel-strom-verbrauchen-haushalte-im-durchschnitt/29024506.html",
+     "date": "2026-11-04T10:51:00.000Z",
+     "text": "Wie hoch ist der durchschnittliche Stromverbrauch von Privatleuten? Wann ist er zu hoch? Die Durchschnittswerte des Stromspiegels verraten es."
+    },
+    {
+     "title": "Zwischenwahlen in den USA: Lame duck? Was Trumps Wahlpleite für die Wirtschaft bedeutet",
+     "url": "https://www.handelsblatt.com/politik/deutschland/zwischenwahlen-in-den-usa-lame-duck-was-trumps-wahlpleite-fuer-die-wirtschaft-bedeutet/100267256.html",
+     "date": "2026-11-04T10:44:48.000Z",
+     "text": "Bei den US-Kongresswahlen erobern die Demokraten beide Parlamentskammern und können Donald Trump künftig das Regieren erschweren. Das dürfte Folgen bis nach Deutschland haben."
+    }
+   ]
+  },
+  {
+   "name": "Google News: Wohnungsmarkt Hamburg",
+   "ok": true,
+   "items": [
+    {
+     "title": "Hamburg & Schleswig-Holstein: Demonstration gegen Neubau von Drogenhilfeeinrichtung - n-tv.de",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdVRBZXB4ZU8zNEFxbllKcGFYa2RxTUpjWlhRd1FLai00LXh6WUNGaWZ6QlVWaDBZekptUzlsZlVySFRPVlFWd05xcWRxcmdrTmY2UnozTEM5WVg0N2lPYWpsZFlwQ2tRRlBVQ3ZQbk1ibHg0UHdwTG11VW1meVBITUZha3NIV1JFd0duRm5ZOWJRQXZVSWNhbi1HTGlHMGQ1RmRManFBRVFVYXdyQWtqY0RWa05uRmViaWlCa0poa19jbTZHTVNYV2tBYw?oc=5",
+     "date": "2026-11-03T16:35:00.000Z",
+     "text": "Hamburg & Schleswig-Holstein: Demonstration gegen Neubau von Drogenhilfeeinrichtung n-tv.de",
+     "via": "n-tv.de"
+    },
+    {
+     "title": "Drogenhilfe Abrigado: Anwohner in Harburg demonstrieren gegen Neubau - SAT.1 Regional",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0R1YlNraXREaFF4dmVYMmVRUXZWSmp6anBkcG1veXk3OXBEY1V3Qi1BdWM1dnJMcHpvRmtVOTltenJoQWFXOFNFZEpvRXRVdEVLQTVOMkN6aWE1dGstT1JRT1VtTFB0U0FTdThUS0Q4b2JSeEE0VGRVaUtYSUhxSHhqS2NoM3lBVDEtS05sckRfMWZWWDlXcGZWZzhQUVh5S2VRS21n?oc=5",
+     "date": "2026-11-03T16:24:52.000Z",
+     "text": "Drogenhilfe Abrigado: Anwohner in Harburg demonstrieren gegen Neubau SAT.1 Regional",
+     "via": "SAT.1 Regional"
+    },
+    {
+     "title": "Immobilien: Luxuswohnungen und Fitnessstudio: Das bietet der Neubau an der Hoheluftchaussee - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNmZBNWNQOGtTZzF3UmltZ1lxQ2dvSkZDOEh3Z0lLR1J5eW5abXo0Z3k0UzRZLWNrWG9oakZXQ3FUZEJQcXpwWkxlYTNWNXFETTV5UERWZFhzNG5XZnFPdjlIRDRwNm0xbURJZ3dxZ1lsay1pRUZWNGctWHIyZ2FRNDJWazdUblV5YTFhSHF6UmU0TTZxZWZPajBGeWVTakZRa1RHdUhzTjVCaVhvbXJtblNTUFllWVZCU1BMUmFyZ1d5WC1ERi1Ea1BsMWQ3SkdVNURnYTVnR1ZQUGFPVDBoUUdrTHpkR2pwRGlnYW1DeE9SeW5j?oc=5",
+     "date": "2026-11-03T10:26:00.000Z",
+     "text": "Immobilien: Luxuswohnungen und Fitnessstudio: Das bietet der Neubau an der Hoheluftchaussee Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "17:30 SAT.1 Niedersachsen und Bremen - Neubau der Bahntrasse Hannover-Hamburg beschlossen - Joyn",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTVdfSVZnMmJhN2lnTlRsMWdFRWFjU3dvYVd0NmNBYjBVYVpqWHNNYkF3X0FPRTVNdDlXLUhBUzZwSmotS2ZPUHhoWl9xckZkTWNoQ0NCNGhqNjZHQkFMeGxFcVdxaHN2VHJDMHRfTmhYck5mYVZSZ09pYTlPclJFWmFoajdTRm9wZTByTG5vclAtNEQzV2x0NTlOWDU5RGZOd0NiT2NnMHlBZFA0UWh6UjBiODFCVXpyOEY0UGhnTnZ4bTlOZnhOMzBWZEs?oc=5",
+     "date": "2026-11-02T23:32:26.000Z",
+     "text": "17:30 SAT.1 Niedersachsen und Bremen - Neubau der Bahntrasse Hannover-Hamburg beschlossen Joyn",
+     "via": "Joyn"
+    },
+    {
+     "title": "„Hass und Hetze“: SPD-Fraktionschef attackiert Linken-Politiker wegen Insta-Post - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdWFGZVJ2UUtiUjVTdEppaGNiOEJXSGkweEZKNDBuSndqcFNZS0R0UDVJSVZ4SWtnTW1RU1JORXJjUFpTT0VoODF2SlJtNmdKZ05KQlkyajNReEsxM0pZOUJ1MkpROHVqQ3lZVmhGRkZ6dkFNa1Y2RHJNNU53UTVvMVNOdFNVQk5lNDJubGhBQzNBb1YzMnRoUUM5dlB2TU93cGRERmZWQTMwbFdub3BlY3J5Mjh4b3dyOEZEZENMMGZYbVFQNTJib0dCdw?oc=5",
+     "date": "2026-11-03T12:59:00.000Z",
+     "text": "„Hass und Hetze“: SPD-Fraktionschef attackiert Linken-Politiker wegen Insta-Post Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    }
+   ]
+  },
+  {
+   "name": "Google News: Büromarkt Hamburg",
+   "ok": true,
+   "items": []
+  },
+  {
+   "name": "Google News: Immobilienmarkt Deutschland",
+   "ok": true,
+   "items": [
+    {
+     "title": "Family Offices reduzieren den Deutschland-Immobilien-Anteil deutlich - Konii",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNHNCSWMwSENwSy1kX1FGVkE5dDU5SXJZdlNVTHdQYmprUW9Hd1czMThEQ3FKaEVwa1FpRmE1YWFoam9PbmNpZzdUbUZKNHFwdUxTSENZVzNtMFE2VjZkcmRJMUl4TmhMSlZGTG90SXFOVDJqZUpaN3dXR0oxM1ZjRXU5b1lMRDVxQ2tGOHN2QVVMbmNKSE1IZDBkdnRJOFJfM3VzZzI3ZjV0eTF5OWhSSUloZkRLSWFjaE11ZlVWMjRyaGVtZFlWNXFuUWVFRGN5NGlUQ3E0SXZUS2s?oc=5",
+     "date": "2026-11-04T10:38:37.000Z",
+     "text": "Family Offices reduzieren den Deutschland-Immobilien-Anteil deutlich Konii",
+     "via": "Konii"
+    },
+    {
+     "title": "Logistikimmobilien: Sesé Deutschland bezieht Objekt von Garbe in Kamen - Logistik Heute",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV1JrMDJPV0NxWVRTdW9uT05LamdrT1RpQmJzWFhhYzdzSENjS0gzSy1wam9rR09peEc3dGZKZl8yamY0Q2pQVjlFa000WVZncFNsQVRfS015Y01Ba3pJdlFuUk5BZ3RnbXJqWENmbGFaVm5GNzhOenNLazdOZmE2THBzMm5fTmVkOVBwZUc2NUxZMDVtSUhiTGZEOWYtRS1vMmRuZU5YbTA2MlFmYWc?oc=5",
+     "date": "2026-11-02T12:31:00.000Z",
+     "text": "Logistikimmobilien: Sesé Deutschland bezieht Objekt von Garbe in Kamen Logistik Heute",
+     "via": "Logistik Heute"
+    },
+    {
+     "title": "Portugal: Immobilienpreise steigen im Oktober auf Rekordniveau - Euronews.com",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVJmdE01RlplR2tQNGh6MFBJNkhlbHkyTGI3WHowNWtJTzEzajlua1dFaVQ0aXZaTU53UVFJbjVjRTdMYVJfckM0Yjc4cmhXRDRaMU00RTJ4Y0JsRnRNMmNkUV93S0FZY2ktdlQ5dnNMM0tKNjhXNjFhR0kxSWtfb2pfQ191cGVFd0ZRWlZXckEyaktSZEs3OHVfTFo?oc=5",
+     "date": "2026-11-02T12:14:05.000Z",
+     "text": "Portugal: Immobilienpreise steigen im Oktober auf Rekordniveau Euronews.com",
+     "via": "Euronews.com"
+    },
+    {
+     "title": "Immobilienmarkt: Ein Jahr Bau-Turbo: Ministerin sieht erste Effekte - Mitteldeutsche Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFp5Q3RHM2l6cmx3VG5FU1k3WnAzbnc0N2tQYWY3ZzNvMGRuYlBQb01nbDFpZGdaMUJoZ3hldlFMWHYxWS1CMkpITVpHVjJGSW11R2xYbGFzblR4WFFZUTlHeTNZMXZfWXlILW1hdWtBZ2NYczBGSEtTbVVMMm9nU0tvMFhJbUt2YUFqRXlBX3BWOE1YMnhVeXF3MWZSQTZtdEFreVFlTWgwOEk?oc=5",
+     "date": "2026-11-03T11:31:00.000Z",
+     "text": "Immobilienmarkt: Ein Jahr Bau-Turbo: Ministerin sieht erste Effekte Mitteldeutsche Zeitung",
+     "via": "Mitteldeutsche Zeitung"
+    },
+    {
+     "title": "Grenzgänger wollen (zurück) nach Luxemburg - Luxemburger Wort",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzczcWlZdEFWWWxFazZLbVFVTm5DaUd3QU9oaTJMeFJfcVZNN2dnLW9CeVNTU240MGliaWFhaldJa1I4STNPYWROcklFSWdwZXB6MWFBTG9HcTR6eVBWYUZ1aEd4STd0QXNEcURxdnNfLTFEZFBFNTNyS0hpdnQ1OXBWNkp2YkZtZV9jMk5aN0RRUQ?oc=5",
+     "date": "2026-11-02T14:00:00.000Z",
+     "text": "Grenzgänger wollen (zurück) nach Luxemburg Luxemburger Wort",
+     "via": "Luxemburger Wort"
+    }
+   ]
+  }
+ ]
+}
