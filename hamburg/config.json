@@ -1,0 +1,108 @@
+{
+  "order": 3,
+  "icon": "⚓",
+  "title": "Hamburg",
+  "description": "Was in Hamburg passiert: Stadt, Verkehr, Bauen, Wirtschaft und Hafen, jeden Morgen kurz",
+  "leser": "Hamburgerinnen und Hamburger, die schnell wissen wollen, was in ihrer Stadt los ist",
+  "schwerpunkt": "Nur Hamburg und direkte Umgebung. Alltagsrelevantes (Verkehr, Baustellen, Politik, große Projekte) vor Polizeimeldungen. Höchstens zwei Meldungen aus Polizei & Sicherheit, keine Einzelunfälle.",
+  "categories": [
+    "Stadt & Politik",
+    "Verkehr",
+    "Bauen & Wohnen",
+    "Wirtschaft & Hafen",
+    "Kultur & Freizeit",
+    "Sport",
+    "Polizei & Sicherheit"
+  ],
+  "sources": [
+    {
+      "name": "NDR Hamburg",
+      "url": "https://www.ndr.de/nachrichten/hamburg/index-rss.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Hamburger Abendblatt",
+      "url": "https://www.abendblatt.de/hamburg/rss",
+      "type": "rss"
+    },
+    {
+      "name": "Hamburger Morgenpost",
+      "url": "https://www.mopo.de/feed/",
+      "type": "rss",
+      "focus": "Nur Hamburg-Themen"
+    },
+    {
+      "name": "Google News: Hamburg",
+      "url": "https://news.google.com/rss/search?q=Hamburg%20Senat%20OR%20B%C3%BCrgerschaft%20OR%20HVV%20OR%20Hafen%20Hamburg&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss"
+    }
+  ],
+  "entities": [
+    [
+      "Senat",
+      "\\b(Senat|Senatorin|Senator|Bürgermeister)\\w*"
+    ],
+    [
+      "Bürgerschaft",
+      "\\bBürgerschaft\\b"
+    ],
+    [
+      "HVV",
+      "\\b(HVV|Hochbahn|S-Bahn)\\b"
+    ],
+    [
+      "Hafen",
+      "\\bHafen\\b"
+    ],
+    [
+      "Elbtower",
+      "\\bElbtower\\b"
+    ],
+    [
+      "Flughafen",
+      "\\bFlughafen\\b"
+    ],
+    [
+      "Polizei",
+      "\\bPolizei\\b"
+    ],
+    [
+      "HSV",
+      "\\bHSV\\b",
+      ""
+    ],
+    [
+      "FC St. Pauli",
+      "St\\.? Pauli"
+    ],
+    [
+      "Elbphilharmonie",
+      "\\bElbphilharmonie\\b"
+    ],
+    [
+      "Hapag-Lloyd",
+      "\\bHapag-Lloyd\\b"
+    ],
+    [
+      "Airbus",
+      "\\bAirbus\\b"
+    ]
+  ],
+  "entitiesTitle": "Worüber Hamburg spricht",
+  "tiles": [
+    {
+      "stock": "HLAG.DE",
+      "label": "Hapag-Lloyd, 30 Tage"
+    }
+  ],
+  "metrics": {
+    "stocks": {
+      "HLAG.DE": "Hapag-Lloyd",
+      "HHFA.DE": "HHLA",
+      "BEI.DE": "Beiersdorf",
+      "NDA.DE": "Aurubis"
+    },
+    "stocksTitle": "Hamburger Firmen an der Börse"
+  },
+  "kennzahlenQuellen": "eigene Zählung, Yahoo Finance"
+}

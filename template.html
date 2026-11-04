@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{LANG}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{DESCRIPTION}}">
+<meta name="color-scheme" content="light dark">
+<title>{{PAGE_TITLE}}</title>
+<link rel="stylesheet" href="{{ASSETS}}style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kicker">{{SITE_TITLE}}</div>
+    <h1>{{DATE_LONG}}</h1>
+    <div class="sub">{{STATS}}</div>
+    <nav class="nav">{{NAV}}</nav>
+    <div class="vorlesen" id="vorlesen" hidden>
+      <button type="button" data-play>🔊 Vorlesen</button>
+      <button type="button" data-stop hidden>⏹ Stopp</button>
+      <span data-label></span>
+    </div>
+  </header>
+
+  {{KPIS}}
+
+  {{INTRO}}
+
+  <h2>{{TOP_TITLE}}</h2>
+  {{TOP}}
+
+  {{DASHBOARD}}
+
+  {{SECTIONS}}
+
+  {{RUECKBLICK}}
+
+  <footer>
+    Automatisch zusammengefasst mit Claude. Quellen: {{SOURCES}}.
+    Alle Texte sind eigene Kurzfassungen, das Original steht jeweils hinter „Zur Quelle“.
+    Kennzahlen: {{KENNZAHLEN}}.
+  </footer>
+</div>
+<div class="tooltip" id="tooltip" role="status" hidden></div>
+<script src="{{ASSETS}}vorlesen.js"></script>
+<script src="{{ASSETS}}dashboard.js"></script>
+</body>
+</html>

@@ -1,0 +1,179 @@
+{
+  "order": 2,
+  "icon": "📈",
+  "title": "Wirtschaft & Zinsen",
+  "description": "Konjunktur, Geldpolitik, Börse und Unternehmen in Deutschland und Europa, jeden Morgen kurz auf Deutsch",
+  "leser": "Berufstätige, die verstehen wollen, was in der Wirtschaft passiert und was es für Job, Geld und Firma bedeutet",
+  "schwerpunkt": "Deutschland und Eurozone zuerst, Weltwirtschaft nur bei großen Folgen für Deutschland.",
+  "categories": [
+    "Konjunktur",
+    "Zinsen & Geldpolitik",
+    "Börse & Märkte",
+    "Unternehmen",
+    "Arbeit & Soziales",
+    "Politik & Handel",
+    "Energie"
+  ],
+  "sources": [
+    {
+      "name": "tagesschau Wirtschaft",
+      "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Spiegel Wirtschaft",
+      "url": "https://www.spiegel.de/wirtschaft/index.rss",
+      "type": "rss"
+    },
+    {
+      "name": "FAZ Wirtschaft",
+      "url": "https://www.faz.net/rss/aktuell/wirtschaft/",
+      "type": "rss"
+    },
+    {
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+      "type": "rss"
+    },
+    {
+      "name": "EZB",
+      "url": "https://www.ecb.europa.eu/rss/press.html",
+      "type": "rss",
+      "focus": "Nur Zinsentscheidungen und wichtige Berichte"
+    },
+    {
+      "name": "Bundesbank",
+      "url": "https://www.bundesbank.de/service/rss/de/633286/feed.rss",
+      "type": "rss"
+    },
+    {
+      "name": "Google News: Konjunktur",
+      "url": "https://news.google.com/rss/search?q=Konjunktur%20Deutschland%20OR%20ifo%20OR%20Inflation%20Deutschland&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss"
+    }
+  ],
+  "entities": [
+    [
+      "EZB",
+      "\\b(EZB|Lagarde)\\b"
+    ],
+    [
+      "Fed",
+      "\\b(Fed|US-Notenbank)\\b",
+      ""
+    ],
+    [
+      "Bundesregierung",
+      "\\b(Bundesregierung|Kanzler)\\w*"
+    ],
+    [
+      "Bundesbank",
+      "\\bBundesbank\\b"
+    ],
+    [
+      "ifo",
+      "\\bifo\\b"
+    ],
+    [
+      "Volkswagen",
+      "\\b(Volkswagen|VW)\\b"
+    ],
+    [
+      "Siemens",
+      "\\bSiemens\\b"
+    ],
+    [
+      "SAP",
+      "\\bSAP\\b",
+      ""
+    ],
+    [
+      "Deutsche Bank",
+      "\\bDeutsche Bank\\b"
+    ],
+    [
+      "BASF",
+      "\\bBASF\\b",
+      ""
+    ],
+    [
+      "Mercedes",
+      "\\bMercedes\\b"
+    ],
+    [
+      "BMW",
+      "\\bBMW\\b",
+      ""
+    ],
+    [
+      "Allianz",
+      "\\bAllianz\\b"
+    ],
+    [
+      "China",
+      "\\bChina\\b"
+    ],
+    [
+      "USA",
+      "\\b(USA|Trump)\\b",
+      ""
+    ]
+  ],
+  "entitiesTitle": "Wer in den Schlagzeilen steht",
+  "tiles": [
+    {
+      "ecb": "FM.D.U2.EUR.4F.KR.DFR.LEV",
+      "label": "EZB-Einlagenzins",
+      "decimals": 2
+    },
+    {
+      "ecb": "EXR.D.USD.EUR.SP00.A",
+      "label": "Euro in Dollar",
+      "decimals": 3,
+      "unit": "$"
+    },
+    {
+      "stock": "^GDAXI",
+      "label": "DAX, 30 Tage"
+    }
+  ],
+  "metrics": {
+    "ecb": [
+      {
+        "key": "FM.D.U2.EUR.4F.KR.DFR.LEV"
+      },
+      {
+        "key": "FM.M.U2.EUR.RT.MM.EURIBOR3MD_.HSTA"
+      },
+      {
+        "key": "IRS.M.DE.L.L40.CI.0000.EUR.N.Z"
+      },
+      {
+        "key": "EXR.D.USD.EUR.SP00.A"
+      }
+    ],
+    "ecbPanels": [
+      {
+        "title": "Zinsen in Europa",
+        "sub": "Monatswerte, letzte 2 Jahre",
+        "keys": [
+          "FM.D.U2.EUR.4F.KR.DFR.LEV",
+          "FM.M.U2.EUR.RT.MM.EURIBOR3MD_.HSTA",
+          "IRS.M.DE.L.L40.CI.0000.EUR.N.Z"
+        ],
+        "names": [
+          "EZB-Einlagenzins",
+          "Euribor 3 Monate",
+          "Bundesanleihe 10 J."
+        ],
+        "foot": "Der Euribor ist der Zins, zu dem sich Banken untereinander Geld leihen; viele Kredite hängen daran. Quelle: Europäische Zentralbank."
+      }
+    ],
+    "stocks": {
+      "^GDAXI": "DAX",
+      "^MDAXI": "MDAX"
+    },
+    "stocksTitle": "Deutsche Börse"
+  },
+  "kennzahlenQuellen": "eigene Zählung, Europäische Zentralbank, Yahoo Finance"
+}

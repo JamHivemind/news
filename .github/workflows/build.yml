@@ -1,0 +1,45 @@
+name: Seiten bauen
+on:
+  push:
+    paths: ['**/content.json', '**/config.json', 'template.html', 'scripts/**', 'assets/**']
+  schedule:
+    # Kennzahlen auch an Tagen ohne neue Ausgabe nachziehen (09:20 Berlin im Winter)
+    - cron: '20 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Kennzahlen holen (EZB, Börse, KI-News)
+        run: node scripts/metrics.mjs
+
+      - name: Alle Dashboards und Startseite bauen
+        run: node scripts/build.mjs
+
+      - name: Commit und Push
+        run: |
+          git config user.name "news[bot]"
+          git config user.email "news[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "seiten: $(date -u +%Y-%m-%d)"
+          # GitHub lehnt Pushes gelegentlich mit "Internal Server Error" ab: bis zu 4 Versuche
+          for i in 1 2 3 4; do
+            git pull --rebase && git push && exit 0
+            sleep $((i * 15))
+          done
+          exit 1

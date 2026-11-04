@@ -1,0 +1,104 @@
+{
+  "order": 4,
+  "icon": "🚀",
+  "title": "Startups & Deep Tech",
+  "description": "Gründungen, Finanzierungen und Deep Tech in Deutschland und Europa, mit Blick auf Hamburg",
+  "leser": "Gründer, Investoren und Interessierte an der Startup-Szene",
+  "schwerpunkt": "Deutschland und Europa, Hamburg und Norddeutschland besonders beachten. Finanzierungsrunden mit Betrag und Investoren nennen, wenn bekannt.",
+  "categories": [
+    "Finanzierungen",
+    "Gründungen & Produkte",
+    "Deep Tech & Forschung",
+    "Hamburg & Norddeutschland",
+    "Förderung & Politik",
+    "Exits & Übernahmen",
+    "Europa & Welt"
+  ],
+  "sources": [
+    {
+      "name": "deutsche-startups.de",
+      "url": "https://www.deutsche-startups.de/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Gründerszene",
+      "url": "https://www.businessinsider.de/gruenderszene/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "EU-Startups",
+      "url": "https://www.eu-startups.com/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "Sifted",
+      "url": "https://sifted.eu/feed",
+      "type": "rss"
+    },
+    {
+      "name": "TechCrunch Startups",
+      "url": "https://techcrunch.com/category/startups/feed/",
+      "type": "rss",
+      "focus": "Nur Europa-Bezug oder sehr große Runden"
+    },
+    {
+      "name": "Google News: Startups Hamburg",
+      "url": "https://news.google.com/rss/search?q=Hamburg%20Startup%20OR%20Gr%C3%BCndung%20Hamburg%20OR%20Impossible%20Founders&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss"
+    },
+    {
+      "name": "Impossible Founders",
+      "type": "gmail",
+      "query": "from:impossible-founders.com newer_than:3d",
+      "focus": "Deep-Tech-Briefing aus Hamburg (alle zwei Wochen). Link nur auf öffentliche Seiten."
+    }
+  ],
+  "entities": [
+    [
+      "Impossible Founders",
+      "Impossible Founders"
+    ],
+    [
+      "Hamburg",
+      "\\bHamburg\\b"
+    ],
+    [
+      "Berlin",
+      "\\bBerlin\\b"
+    ],
+    [
+      "München",
+      "\\bMünchen\\b"
+    ],
+    [
+      "SPRIND",
+      "\\bSPRIND\\b"
+    ],
+    [
+      "EU",
+      "\\b(EU|EU-Kommission)\\b",
+      ""
+    ],
+    [
+      "KI",
+      "\\b(KI|AI)\\b",
+      ""
+    ],
+    [
+      "Deep Tech",
+      "Deep ?Tech"
+    ],
+    [
+      "Rüstung",
+      "\\b(Rüstung|Defense|Verteidigung)\\w*"
+    ],
+    [
+      "Klima",
+      "\\b(Klima|Climate)\\w*"
+    ]
+  ],
+  "entitiesTitle": "Themen und Orte in den Schlagzeilen",
+  "tiles": [],
+  "metrics": {},
+  "kennzahlenQuellen": "eigene Zählung"
+}

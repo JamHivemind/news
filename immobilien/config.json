@@ -1,0 +1,185 @@
+{
+  "order": 1,
+  "icon": "🏢",
+  "title": "Immobilien Hamburg",
+  "description": "Wohnungsmarkt und Büromarkt in Hamburg, dazu der deutsche Immobilienmarkt, jeden Morgen kurz auf Deutsch",
+  "leser": "Leute aus der Immobilienbranche und Interessierte, die den Hamburger Markt im Blick behalten wollen",
+  "schwerpunkt": "Hamburg zuerst (Mieten, Kaufpreise, Neubau, Büroflächen, Leerstand, große Projekte), danach Deutschland insgesamt. Andere Städte nur, wenn es um den Gesamtmarkt geht.",
+  "categories": [
+    "Wohnungsmarkt Hamburg",
+    "Büromarkt Hamburg",
+    "Bau & Projekte",
+    "Markt Deutschland",
+    "Zinsen & Finanzierung",
+    "Politik & Recht",
+    "Unternehmen & Deals"
+  ],
+  "sources": [
+    {
+      "name": "Immobilien Zeitung",
+      "url": "https://www.iz.de/feed",
+      "type": "rss"
+    },
+    {
+      "name": "Immobilien Manager",
+      "url": "https://www.immobilienmanager.de/rss",
+      "type": "rss"
+    },
+    {
+      "name": "konii",
+      "url": "https://www.konii.de/feed/",
+      "type": "rss",
+      "focus": "Nur Marktdaten und Branchennews, keine Werbung"
+    },
+    {
+      "name": "NDR Hamburg",
+      "url": "https://www.ndr.de/nachrichten/hamburg/index-rss.xml",
+      "type": "rss",
+      "focus": "Nur Wohnen, Mieten, Bauen, Büro, Stadtentwicklung"
+    },
+    {
+      "name": "Hamburger Abendblatt",
+      "url": "https://www.abendblatt.de/hamburg/rss",
+      "type": "rss",
+      "focus": "Nur Wohnen, Mieten, Bauen, Büro, Stadtentwicklung"
+    },
+    {
+      "name": "Handelsblatt",
+      "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+      "type": "rss",
+      "focus": "Nur Immobilien und Bauzinsen"
+    },
+    {
+      "name": "Google News: Wohnungsmarkt Hamburg",
+      "url": "https://news.google.com/rss/search?q=Hamburg%20Wohnungsmarkt%20OR%20Mieten%20OR%20Mietspiegel%20OR%20Neubau&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss"
+    },
+    {
+      "name": "Google News: Büromarkt Hamburg",
+      "url": "https://news.google.com/rss/search?q=B%C3%BCromarkt%20Hamburg%20OR%20B%C3%BCrofl%C3%A4chen%20Hamburg%20OR%20Leerstand%20Hamburg&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss"
+    },
+    {
+      "name": "Google News: Immobilienmarkt Deutschland",
+      "url": "https://news.google.com/rss/search?q=Immobilienmarkt%20Deutschland%20OR%20Immobilienpreise%20OR%20Bauzinsen&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss"
+    }
+  ],
+  "entities": [
+    [
+      "Vonovia",
+      "\\bVonovia\\b"
+    ],
+    [
+      "SAGA",
+      "\\bSAGA\\b",
+      ""
+    ],
+    [
+      "LEG",
+      "\\bLEG\\b",
+      ""
+    ],
+    [
+      "TAG Immobilien",
+      "\\bTAG Immobilien\\b"
+    ],
+    [
+      "Aroundtown",
+      "\\bAroundtown\\b"
+    ],
+    [
+      "Elbtower",
+      "\\bElbtower\\b"
+    ],
+    [
+      "HafenCity",
+      "\\bHafenCity\\b"
+    ],
+    [
+      "JLL",
+      "\\bJLL\\b",
+      ""
+    ],
+    [
+      "CBRE",
+      "\\bCBRE\\b",
+      ""
+    ],
+    [
+      "Colliers",
+      "\\bColliers\\b"
+    ],
+    [
+      "Savills",
+      "\\bSavills\\b"
+    ],
+    [
+      "Grossmann & Berger",
+      "Grossmann (&|und) Berger"
+    ],
+    [
+      "Engel & Völkers",
+      "Engel (&|und) V(ö|oe)lkers"
+    ],
+    [
+      "Senat",
+      "\\b(Senat|Senatorin|Senator)\\b"
+    ]
+  ],
+  "entitiesTitle": "Firmen und Orte in den Schlagzeilen",
+  "tiles": [
+    {
+      "ecb": "MIR.M.DE.B.A2C.A.R.A.2250.EUR.N",
+      "label": "Bauzinsen",
+      "decimals": 2
+    },
+    {
+      "ecb": "IRS.M.DE.L.L40.CI.0000.EUR.N.Z",
+      "label": "Rendite 10 J. Bund",
+      "decimals": 2
+    },
+    {
+      "stock": "VNA.DE",
+      "label": "Vonovia, 30 Tage"
+    }
+  ],
+  "metrics": {
+    "ecb": [
+      {
+        "key": "MIR.M.DE.B.A2C.A.R.A.2250.EUR.N"
+      },
+      {
+        "key": "IRS.M.DE.L.L40.CI.0000.EUR.N.Z"
+      },
+      {
+        "key": "FM.D.U2.EUR.4F.KR.DFR.LEV"
+      }
+    ],
+    "ecbPanels": [
+      {
+        "title": "Zinsen fürs Bauen und Kaufen",
+        "sub": "Monatswerte, letzte 2 Jahre",
+        "keys": [
+          "MIR.M.DE.B.A2C.A.R.A.2250.EUR.N",
+          "IRS.M.DE.L.L40.CI.0000.EUR.N.Z",
+          "FM.D.U2.EUR.4F.KR.DFR.LEV"
+        ],
+        "names": [
+          "Wohnungsbaukredite",
+          "Bundesanleihe 10 J.",
+          "EZB-Einlagenzins"
+        ],
+        "foot": "Wohnungsbaukredite: Effektivzins im Neugeschäft in Deutschland. Quelle: Europäische Zentralbank."
+      }
+    ],
+    "stocks": {
+      "VNA.DE": "Vonovia",
+      "LEG.DE": "LEG",
+      "TEG.DE": "TAG",
+      "AT1.DE": "Aroundtown"
+    },
+    "stocksTitle": "Wohnungskonzerne an der Börse"
+  },
+  "kennzahlenQuellen": "eigene Zählung, Europäische Zentralbank, Yahoo Finance"
+}
