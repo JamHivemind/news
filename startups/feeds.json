@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-04T13:13:12.373Z",
+ "fetched": "2026-11-04T13:14:07.717Z",
  "hours": 48,
  "sources": [
   {
@@ -7,6 +7,20 @@
    "ok": false,
    "error": "HTTP 403",
    "items": []
+  },
+  {
+   "name": "deutsche-startups.de (Google News)",
+   "focus": "Ersatzweg, falls der direkte Feed ausfällt (sperrt GitHub-Server). Doppelte nur einmal nehmen.",
+   "ok": true,
+   "items": [
+    {
+     "title": "Aktuell Archives - Seite 1559 von 1559 - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aNVFkeXpRN3p6OVFpczNYd0t5QUg2TFlpTFJ4bFpwdy1rS3dnYXpzUUUtWk01QzZOd1pxaVFLZXlRbUlJUEFuSG9URkd2azFUeTdDUEtpOHk1aEJtdFFTc0VsTFlrbXlqeHFpR2FSZ3ctTTVTWjVmTg?oc=5",
+     "date": "2026-11-03T13:00:50.000Z",
+     "text": "Aktuell Archives - Seite 1559 von 1559 deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    }
+   ]
   },
   {
    "name": "Gründerszene",
@@ -169,12 +183,6 @@
    "focus": "Nur Europa-Bezug oder sehr große Runden",
    "ok": true,
    "items": [
-    {
-     "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-     "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-     "date": "2026-11-04T13:00:00.000Z",
-     "text": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
-    },
     {
      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
