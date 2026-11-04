@@ -35,6 +35,12 @@
       "name": "Google News: Hamburg",
       "url": "https://news.google.com/rss/search?q=Hamburg%20Senat%20OR%20B%C3%BCrgerschaft%20OR%20HVV%20OR%20Hafen%20Hamburg&hl=de&gl=DE&ceid=DE:de",
       "type": "rss"
+    },
+    {
+      "name": "hamburg.de (Senat & Behörden)",
+      "url": "https://news.google.com/rss/search?q=site%3Ahamburg.de&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Offizielle Mitteilungen von Senat und Behörden: Entscheidungen, Termine, Bauprojekte. Keine Veranstaltungswerbung."
     }
   ],
   "entities": [

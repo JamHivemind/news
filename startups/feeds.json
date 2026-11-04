@@ -1,23 +1,95 @@
 {
- "fetched": "2026-11-04T12:20:51.512Z",
+ "fetched": "2026-11-04T13:12:41.687Z",
  "hours": 48,
  "sources": [
   {
    "name": "deutsche-startups.de",
-   "ok": false,
-   "error": "HTTP 403",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "#Brandneu - 5 neue Startups: Complianty, calliora, xHeron, Lebensstimmen, Amara",
+     "url": "https://www.deutsche-startups.de/2026/11/04/5-neue-startups-complianty-calliora-xheron-lebensstimmen-amara/",
+     "date": "2026-11-04T12:55:00.000Z",
+     "text": "Die Startup-Welt schläft nie! Zeit, einen Blick auf einige brandneue Unternehmen zu werfen, die man unbedingt auf dem Radar haben sollte. Diese Jungfirmen stellen wir euch heute vor: Complianty, calliora, xHeron, Lebensstimmen und Amara."
+    },
+    {
+     "title": "#Gastbeitrag - Wann Durchhalten nicht mehr die beste Strategie ist",
+     "url": "https://www.deutsche-startups.de/2026/11/04/wann-durchhalten-nicht-mehr-die-beste-strategie-ist/",
+     "date": "2026-11-04T10:55:00.000Z",
+     "text": "Die Frage, wann ein Startup aufhören sollte, wird meist als Charakterfrage verhandelt. Sie ist aber eine Rechenaufgabe. Nicolas Barthalon, Partner beim Venture-Capital-Fonds Ventech, beschreibt fünf Größen, die sie beantworten – und warum Boards sie oft zu spät stellen."
+    },
+    {
+     "title": "#StartupTicker - +++ Summersaver +++ Square8 +++ Milano Vice +++ finmid +++ Upwork +++ WorkMotion +++ Hypersonica +++",
+     "url": "https://www.deutsche-startups.de/2026/11/04/summersaver-square8-milano-vice-finmid-upwork-workmotion-hypersonica/",
+     "date": "2026-11-04T06:55:00.000Z",
+     "text": "+++ #StartupTicker +++ Summersaver-Gründerin Denise Hahn kommt ins STARTUPLAND +++ Yokoy-Gründer starten Square8 +++ Milano Vice setzt auf Restaurants +++ StartupsToWatch: finmid +++ Upwork kauft WorkMotion (Kaufpreis: 129,7 Mio.) +++ Hypersonica erhält 100 Mio. +++"
+    },
+    {
+     "title": "#Brandneu - 5 neue Startups: PitchApply, Deutsche Mietkaution, onescreen, Limetax, HeyMagda",
+     "url": "https://www.deutsche-startups.de/2026/11/03/5-neue-startups-pitchapply-deutsche-mietkaution-onescreen-limetax-heymagda/",
+     "date": "2026-11-03T12:55:00.000Z",
+     "text": "Erneut bereichern vielversprechende Neugründungen die Startup-Szene. Im Folgenden stellen wir diese junge Unternehmen vor: PitchApply, Deutsche Mietkaution, onescreen, Limetax und HeyMagda."
+    },
+    {
+     "title": "#Interview - „Ein profitabler Nachtzug ist ein echtes Business“",
+     "url": "https://www.deutsche-startups.de/2026/11/03/ein-profitabler-nachtzug-ist-ein-echtes-business/",
+     "date": "2026-11-03T10:55:00.000Z",
+     "text": "Mit privaten Abteilen möchte Nox Mobility den Nachtzugverkehr in Europa neu denken. Das Startup hat dafür bereits 2 Millionen eingesammelt. Gründer Thibault Constant spricht über skeptische Investoren, seine Leidenschaft für die Bahn und den Betriebsstart 2027."
+    },
+    {
+     "title": "#StartupTicker - +++ Robin Capital +++ Finn +++ Conrad +++ Hivebuy +++ Logicc +++ Yobsti +++",
+     "url": "https://www.deutsche-startups.de/2026/11/03/robin-capital-finn-conrad-hivebuy-logicc-yobsti/",
+     "date": "2026-11-03T06:55:00.000Z",
+     "text": "+++ #StartupTicker +++ STARTUPLAND: Sichere Dir Deine Chance auf der Pitch Stage +++ Der zweite Fonds (15 Millionen) von Robin Capital steht +++ Chefwechsel bei Finn: Maximilian Wühr geht, Patrick Oliver Schmidt übernimmt +++ Conrad Electronic Gruppe kauft Hivebuy +++"
+    }
+   ]
   },
   {
    "name": "Gründerszene",
-   "ok": false,
-   "error": "HTTP 403",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "„Keine Entscheidung gegen Max“: Warum der Finn-Gründer nur vier Monate nach dem Unicorn-Status als CEO gehen musste",
+     "url": "https://www.businessinsider.de/gruenderszene/warum-finn-ceo-maximilian-wuehr-wirklich-seinen-posten-abgibt/",
+     "date": "2026-11-04T10:31:24.000Z",
+     "text": "Trotz Einhorn-Status musste Maximilian Wühr seinen Posten als Finn-Chef abgeben. Gründerszene kennt die Hintergründe."
+    },
+    {
+     "title": "Wenn Teams wachsen: Warum ein einzelnes Konto oft nicht mehr ausreicht",
+     "url": "https://www.businessinsider.de/gruenderszene/sponsored-post/wenn-teams-wachsen-warum-ein-einzelnes-konto-oft-nicht-mehr-ausreicht-holvi/",
+     "date": "2026-11-04T10:15:00.000Z",
+     "text": "Erfahren Sie, wie ein Geschäftskonto von Holvi die Organisation von Unternehmensausgaben für wachsende Teams erleichtert."
+    },
+    {
+     "title": "Für Andreessen Horowitz & Co. investieren: So wird man deutscher Scout bei einem Top-VC",
+     "url": "https://www.businessinsider.de/gruenderszene/fuer-andreessen-horowitz-investieren-so-wird-man-deutscher-scout-beim-top-vc/",
+     "date": "2026-11-03T12:27:30.000Z",
+     "text": "Robert Richarz und Alexander Worbs sind Scouts bei amerikanischen Top-VCs. Gründerszene haben sie verraten, was das genau bedeutet."
+    },
+    {
+     "title": "Das waren die besten DHDL-Deals der neusten Staffel",
+     "url": "https://www.businessinsider.de/gruenderszene/dhdl-die-10-besten-deals-der-neuesten-staffel/",
+     "date": "2026-11-02T18:01:09.000Z",
+     "text": "In der 20. Staffel von „Die Höhle der Löwen“ waren 44 Startups am Start. Diese DHDL-Deals haben nach der Show tatsächlich stattgefunden."
+    }
+   ]
   },
   {
    "name": "EU-Startups",
    "ok": true,
    "items": [
+    {
+     "title": "Exclusive: Top 10 largest investments by EIC in 2026 – so far",
+     "url": "https://www.eu-startups.com/2026/11/exclusive-top-10-largest-investments-by-eic-in-2026-so-far/",
+     "date": "2026-11-04T13:11:00.000Z",
+     "text": "EU-Startups has received exclusive investment data directly from our partners at the European Innovation Council (EIC), revealing the ten companies that secured the largest EIC Fund commitments during the first three quarters of the year. From quantum computing and nuclear fusion to biotechnology and space technology, the total 85 investments made by the EIC in […] The post Exclusive: Top 10 largest investments by EIC in 2026 – so far appeared first on EU-Startups ."
+    },
+    {
+     "title": "Women TechEU Allies: supporting women-led DeepTech startups across Europe",
+     "url": "https://www.eu-startups.com/2026/11/women-techeu-allies-supporting-women-led-deeptech-startups-across-europe/",
+     "date": "2026-11-04T12:50:37.000Z",
+     "text": "Women TechEU is a European Union initiative that supports the growth of women-led DeepTech startups across Europe. Between 2026 and 2028, the programme aims to support 160 startups through grants of €75,000 each, alongside mentoring, training, expert guidance, networking, and opportunities to connect with investors and other European funding programmes. To extend this support beyond […] The post Women TechEU Allies: supporting women-led DeepTech startups across Europe appeared first on EU-Startu"
+    },
     {
      "title": "OPINION: Ireland is losing Irish companies because they can’t scale here",
      "url": "https://www.eu-startups.com/2026/11/opinion-ireland-is-losing-irish-companies-because-they-cant-scale-here/",
@@ -65,18 +137,6 @@
      "url": "https://www.eu-startups.com/2026/11/london-based-tallia-raises-e4-million-to-bring-ai-powered-research-and-review-to-tax-firms/",
      "date": "2026-11-03T16:10:48.000Z",
      "text": "London-based AI startup Tallia, formerly known as Revax, has secured €4 million ($4.5 million) in Seed funding to expand its AI-powered research and drafting platform for tax and accountancy professionals. The round was co-led by Outward VC and the Institute of Chartered Accountants in England and Wales (ICAEW), with participation from Portfolio Ventures, Expedite Capital, […] The post Tallia raises €4 million to bring AI-powered research and review to tax firms appeared first on EU-Startups ."
-    },
-    {
-     "title": "10 European bootstrapped startups who are crushing it in 2026",
-     "url": "https://www.eu-startups.com/2026/11/10-european-bootstrapped-startups-who-are-crushing-it-in-2026/",
-     "date": "2026-11-03T14:31:16.000Z",
-     "text": "Europe’s startup ecosystem is often associated with major funding rounds, venture capital and ambitious expansion plans. However, some of the continent’s most interesting companies are taking a different approach, building their businesses without relying on external investors. From AI-powered software to sustainable mobility solutions, these startups are demonstrating that significant progress doesn’t always require significant […] The post 10 European bootstrapped startups who are crushing it "
-    },
-    {
-     "title": "Turning pollution into everyday products – Southampton’s Virdi raises €2.6 million to transform waste",
-     "url": "https://www.eu-startups.com/2026/11/turning-pollution-into-everyday-products-southamptons-virdi-raises-e2-6-million-to-transform-waste/",
-     "date": "2026-11-03T12:35:55.000Z",
-     "text": "Viridi, a British DeepTech that enables the transformation of waste carbon dioxide into chemical products, has closed a €2.6 million (£2.2 million) round to scale their technology, strengthen its team and support its expansion into Asia and the US. The round was led by Odyssey Ventures, with co-investment from Alphatron Impact Ventures and follow-on commitments […] The post Turning pollution into everyday products – Southampton’s Virdi raises €2.6 million to transform waste appeared first on EU-"
     }
    ]
   },
@@ -145,6 +205,12 @@
    "focus": "Nur Europa-Bezug oder sehr große Runden",
    "ok": true,
    "items": [
+    {
+     "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+     "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+     "date": "2026-11-04T13:00:00.000Z",
+     "text": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
+    },
     {
      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
@@ -215,8 +281,73 @@
   },
   {
    "name": "Google News: Startups Hamburg",
+   "focus": "Nur echte Startup-Meldungen aus Hamburg und Norddeutschland (Gründung, Finanzierung, Produkt). Restaurants, Läden und Nachrufe ignorieren. Reicht 7 Tage zurück.",
    "ok": true,
-   "items": []
+   "items": [
+    {
+     "title": "Star-Club-Gründer Horst Fascher ist tot - FAZ",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3MxT1BVQkY0dDc1UDU3ZFhfWVE1YWh5aG1DYzE2TTNHM0JiTElCUVh6bjlYdFRuMnQ0X3hIa0JQZ2lwYmdwbDdjeV9QX1Y4VXEwQmV3eXNPNDlVZGJuYloxV2paaXlvb2JiWk0wMm5XOHRrUjVyR0NXcUhuTmJOQTBITkx6eDFhaXMtRXNacHVqZzQyNHVyTUVVZHVhZk00SnA1bzZtaGNQV3dja1JBc0Z5ZDE4V0E?oc=5",
+     "date": "2026-11-02T07:12:48.000Z",
+     "text": "Star-Club-Gründer Horst Fascher ist tot FAZ",
+     "via": "FAZ"
+    },
+    {
+     "title": "Horst Fascher im Alter von 90 Jahren gestorben - Radio Hamburg",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWxPWnBjRHZ4amo3cGt0TVhVN2s5REcyanhZZlNqUC1MOU9laXRzQk5lYmVoNzNxYmhoeHMyU1pFdzM5eWY1RkZMRkhEUnlmcERtdlFDdnF4WlNNYlJwVEt5SWV4TVJzNTA5RGdLemFkZmZOaGR1ZlNJRTN6YzJMdG0zdGVNVXZTRVVic2dLRHoxZ0VYZF9tS1dDWVBrdWl5NXpTM0JtdWc2RVk?oc=5",
+     "date": "2026-11-01T18:09:47.000Z",
+     "text": "Horst Fascher im Alter von 90 Jahren gestorben Radio Hamburg",
+     "via": "Radio Hamburg"
+    },
+    {
+     "title": "Nach schwerer Krankheit: Gründer der Poletto Winebar stirbt mit nur 59 Jahren - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbE1LY3lTdllFTC00MFJxcDd5VThQakppcm5TSUhxRUZET1hpMW1IM0dFZEJKU29icllXNmZpN0Fod1J5d251S2djeVozSkFXRlRPZnFHWkYxOGNSRVV6RnFkMVZGc0FLenZaWVB3cy1TRmd4VVNwREJvQURudnIxYmVPNWMxTExNNFVSU0pLeHZYeWZxTXdYT0dMWXdsVU5lbnZsVWZxZi1BazY4ZnFHbVRzTUNTMmFQLUVkUEtpSER4UXdVQ2RRUk1lYVhGUGpXYkNlMUZaUnctVzM4WGptYm1uU1V6MndqQnJWV3FKUjhLTW8?oc=5",
+     "date": "2026-11-03T11:49:00.000Z",
+     "text": "Nach schwerer Krankheit: Gründer der Poletto Winebar stirbt mit nur 59 Jahren Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Er brachte die Beatles nach Hamburg – jetzt ist er tot - t-online – Hamburg",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkxOTVBuMUlYVS1QSDV0Q1MzM1gzTHd4OHA3YzdOalF4VVN0M1k5WFpodHREbGtGQjk0Z3c1UzMydy1SWmRkUUNBa1k4U2dKQkdFc0JFWEUzbkY1RG84ZmZMWGRQNFVZcmlxUkJBR2JoWWRZSm9Ua3lZbmxRclpBbTJ0cE1mSTQ1cVdQMF9HYVFCRmI4NVo4UlktcklMTHVmZVppVGVTdi12TmRkRVIzV3BvNzVQclU3U3VZVTZKUEljbXVUX3c?oc=5",
+     "date": "2026-11-02T00:58:05.000Z",
+     "text": "Er brachte die Beatles nach Hamburg – jetzt ist er tot t-online – Hamburg",
+     "via": "t-online – Hamburg"
+    }
+   ]
+  },
+  {
+   "name": "Google News: Finanzierungsrunden DE",
+   "focus": "Finanzierungsrunden deutscher Startups mit Betrag",
+   "ok": true,
+   "items": [
+    {
+     "title": "Conlio erhält 6,4 Millionen Euro für KI-gestützte Finanzprozesse in der Logistik - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQi1RV1h3YlQ4cVhfM04xVjZMLUY5ZlNWVEZ2MzlZYS1CMGdudVM1RlJWQTh0eFJTbE84Yk5JYTdfcFJlRVdvMVFjZElIaE9sYTJGRHJpN2E5LWpwWFEzTG0wTkh1Qm1Xd3dNcEpEMVNNcDNaWU1zWUZxTmJ3OUM4SGw3eHVYUWs0b0VObHBLV3AzejdwaXMwVWl2Ti15QjFvbGxZRWJ0eG9qRDhnbE1wWkloYw?oc=5",
+     "date": "2026-11-03T08:00:00.000Z",
+     "text": "Conlio erhält 6,4 Millionen Euro für KI-gestützte Finanzprozesse in der Logistik Startbase",
+     "via": "Startbase"
+    },
+    {
+     "title": "Millionen-Finanzierung für Wiener Spacetech-Startup - trend.at",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlVMd0xjWE1Eb21pV0VzT3E4WDdiejVROGtTTHB6ZHNYalNWZVl0Wl9JYmltOTNhQjZoRXE4ZEJRUnVidGZVX2ZjWllUSFgxNFNvWUxYRkNFblRYUk5vSmNwV19TMnBWWkpqcnBVa0U2NlpWc084ZjA1cWpsU2UyM0pIeURiaGtLSUJFeEVSZEtSc0ZHMUljbGp1SWl5TGhZMzYyWmY1Yw?oc=5",
+     "date": "2026-11-03T14:11:00.000Z",
+     "text": "Millionen-Finanzierung für Wiener Spacetech-Startup trend.at",
+     "via": "trend.at"
+    },
+    {
+     "title": "Tumbleweed: Wiener SpaceTech-Startup holt 6,9 Millionen Euro für All-Forschung - MeinBezirk.at",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZHkxRmxONUh0Wk5tRHlHTG5uQURLd2pOaHhzcUlUbGxjWjYxNDZJaEpSYXlFSXdsZ2xzb2ktM04yWjJkLXVsak9UeXFqUEtuZXBnQUZYX1Z2c3VFam9Oc3pDRFBWU2F1eFBsdHRIQjdRTllOR2JLcC00MHAwVjR3bk1sdmtIWXhoTU5UTmd2MU10RHROaDdTS1pFbF9FZ2FUOGtSLTlqM2IxMjlnUVdOZG03VWp6cllXakRr?oc=5",
+     "date": "2026-11-03T11:04:53.000Z",
+     "text": "Tumbleweed: Wiener SpaceTech-Startup holt 6,9 Millionen Euro für All-Forschung MeinBezirk.at",
+     "via": "MeinBezirk.at"
+    },
+    {
+     "title": "100 Millionen € gehen zu Hypersonica - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZUmhDUHJUU2VWc1JxX1dJSUV3ZlE2NHVmd2xFUnYyZlAzczZZMi1ydzE4TWdIOUZhU0FwczRwQlN2aTJDcDlmaU5yWHg4ZS1NRU1PazI1X194T0xzNnZMMXhLS1psdlRwQm84NmJBcXVKV3hDcUE?oc=5",
+     "date": "2026-11-03T15:00:00.000Z",
+     "text": "100 Millionen € gehen zu Hypersonica Startbase",
+     "via": "Startbase"
+    }
+   ]
   }
  ]
 }

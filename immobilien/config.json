@@ -21,6 +21,12 @@
       "type": "rss"
     },
     {
+      "name": "Immobilien Zeitung (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Aiz.de&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Ersatzweg, falls der direkte Feed der Immobilien Zeitung ausfällt. Doppelte mit dem direkten Feed nur einmal nehmen."
+    },
+    {
       "name": "Immobilien Manager",
       "url": "https://www.immobilienmanager.de/rss",
       "type": "rss"
@@ -51,18 +57,27 @@
     },
     {
       "name": "Google News: Wohnungsmarkt Hamburg",
-      "url": "https://news.google.com/rss/search?q=Hamburg%20Wohnungsmarkt%20OR%20Mieten%20OR%20Mietspiegel%20OR%20Neubau&hl=de&gl=DE&ceid=DE:de",
+      "url": "https://news.google.com/rss/search?q=Hamburg%20(Wohnungsmarkt%20OR%20Mieten%20OR%20Mietspiegel%20OR%20Wohnungsbau%20OR%20Neubau%20OR%20Kaufpreise)&hl=de&gl=DE&ceid=DE:de",
       "type": "rss"
     },
     {
       "name": "Google News: Büromarkt Hamburg",
-      "url": "https://news.google.com/rss/search?q=B%C3%BCromarkt%20Hamburg%20OR%20B%C3%BCrofl%C3%A4chen%20Hamburg%20OR%20Leerstand%20Hamburg&hl=de&gl=DE&ceid=DE:de",
-      "type": "rss"
+      "url": "https://news.google.com/rss/search?q=Hamburg%20(B%C3%BCromarkt%20OR%20B%C3%BCrofl%C3%A4chen%20OR%20B%C3%BCrovermietung%20OR%20B%C3%BCroimmobilien%20OR%20Fl%C3%A4chenumsatz%20OR%20B%C3%BCrogeb%C3%A4ude)&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 168,
+      "focus": "Büromarkt Hamburg. Reicht 7 Tage zurück, weil Marktberichte selten erscheinen."
     },
     {
       "name": "Google News: Immobilienmarkt Deutschland",
       "url": "https://news.google.com/rss/search?q=Immobilienmarkt%20Deutschland%20OR%20Immobilienpreise%20OR%20Bauzinsen&hl=de&gl=DE&ceid=DE:de",
       "type": "rss"
+    },
+    {
+      "name": "Google News: Makler-Berichte Hamburg",
+      "url": "https://news.google.com/rss/search?q=Hamburg%20(JLL%20OR%20CBRE%20OR%20Colliers%20OR%20Savills%20OR%20%22Grossmann%20%26%20Berger%22%20OR%20%22Engel%20%26%20V%C3%B6lkers%22)&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 336,
+      "focus": "Marktberichte großer Makler zu Hamburg (Büro, Wohnen, Investment). Reicht 14 Tage zurück; nur Berichte, keine Werbung."
     }
   ],
   "entities": [

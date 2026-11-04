@@ -43,14 +43,22 @@
     },
     {
       "name": "Google News: Startups Hamburg",
-      "url": "https://news.google.com/rss/search?q=Hamburg%20Startup%20OR%20Gr%C3%BCndung%20Hamburg%20OR%20Impossible%20Founders&hl=de&gl=DE&ceid=DE:de",
-      "type": "rss"
+      "url": "https://news.google.com/rss/search?q=Hamburg%20(Startup%20OR%20Start-up%20OR%20Gr%C3%BCnder%20OR%20Finanzierungsrunde)&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 168,
+      "focus": "Nur echte Startup-Meldungen aus Hamburg und Norddeutschland (Gründung, Finanzierung, Produkt). Restaurants, Läden und Nachrufe ignorieren. Reicht 7 Tage zurück."
     },
     {
       "name": "Impossible Founders",
       "type": "gmail",
       "query": "from:impossible-founders.com newer_than:3d",
       "focus": "Deep-Tech-Briefing aus Hamburg (alle zwei Wochen). Link nur auf öffentliche Seiten."
+    },
+    {
+      "name": "Google News: Finanzierungsrunden DE",
+      "url": "https://news.google.com/rss/search?q=Startup%20Finanzierungsrunde%20Millionen&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Finanzierungsrunden deutscher Startups mit Betrag"
     }
   ],
   "entities": [

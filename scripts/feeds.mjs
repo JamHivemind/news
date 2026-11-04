@@ -58,10 +58,11 @@ export function parseFeed(xml) {
 }
 
 export async function fetchSources(sources) {
-  const since = Date.now() - HOURS * 36e5;
   const out = { fetched: new Date().toISOString(), hours: HOURS, sources: [] };
   for (const s of sources) {
     if (s.type !== "rss" || !s.url) continue;
+    // Seltene Themen (z. B. Büromarkt-Berichte) dürfen per "hours" länger zurückreichen; seen.json verhindert Doppelte
+    const since = Date.now() - Math.max(HOURS, Number(s.hours) || 0) * 36e5;
     try {
       const res = await fetch(s.url, { headers: UA, signal: AbortSignal.timeout(25000) });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -78,7 +79,8 @@ export async function fetchSources(sources) {
   return out;
 }
 
-if (import.meta.url === `file://${process.argv[1].replace(/\\/g, "/")}` || process.argv[1].endsWith("feeds.mjs")) {
+// Nur als eigenes Skript laufen, nicht beim Import (z. B. aus einem Test)
+if (/[\\/]feeds\.mjs$/.test(process.argv[1] || "")) {
   const dashboards = readdirSync(ROOT, { withFileTypes: true })
     .filter(d => d.isDirectory() && existsSync(join(ROOT, d.name, "config.json"))).map(d => d.name);
   for (const name of dashboards) {
