@@ -1,48 +1,12 @@
 {
- "fetched": "2026-11-04T12:13:55.314Z",
+ "fetched": "2026-11-04T12:14:27.361Z",
  "hours": 48,
  "sources": [
   {
    "name": "deutsche-startups.de",
-   "ok": true,
-   "items": [
-    {
-     "title": "#Gastbeitrag - Wann Durchhalten nicht mehr die beste Strategie ist",
-     "url": "https://www.deutsche-startups.de/2026/11/04/wann-durchhalten-nicht-mehr-die-beste-strategie-ist/",
-     "date": "2026-11-04T10:55:00.000Z",
-     "text": "Die Frage, wann ein Startup aufhören sollte, wird meist als Charakterfrage verhandelt. Sie ist aber eine Rechenaufgabe. Nicolas Barthalon, Partner beim Venture-Capital-Fonds Ventech, beschreibt fünf Größen, die sie beantworten – und warum Boards sie oft zu spät stellen."
-    },
-    {
-     "title": "#StartupTicker - +++ Summersaver +++ Square8 +++ Milano Vice +++ finmid +++ Upwork +++ WorkMotion +++ Hypersonica +++",
-     "url": "https://www.deutsche-startups.de/2026/11/04/summersaver-square8-milano-vice-finmid-upwork-workmotion-hypersonica/",
-     "date": "2026-11-04T06:55:00.000Z",
-     "text": "+++ #StartupTicker +++ Summersaver-Gründerin Denise Hahn kommt ins STARTUPLAND +++ Yokoy-Gründer starten Square8 +++ Milano Vice setzt auf Restaurants +++ StartupsToWatch: finmid +++ Upwork kauft WorkMotion (Kaufpreis: 129,7 Mio.) +++ Hypersonica erhält 100 Mio. +++"
-    },
-    {
-     "title": "#Brandneu - 5 neue Startups: PitchApply, Deutsche Mietkaution, onescreen, Limetax, HeyMagda",
-     "url": "https://www.deutsche-startups.de/2026/11/03/5-neue-startups-pitchapply-deutsche-mietkaution-onescreen-limetax-heymagda/",
-     "date": "2026-11-03T12:55:00.000Z",
-     "text": "Erneut bereichern vielversprechende Neugründungen die Startup-Szene. Im Folgenden stellen wir diese junge Unternehmen vor: PitchApply, Deutsche Mietkaution, onescreen, Limetax und HeyMagda."
-    },
-    {
-     "title": "#Interview - „Ein profitabler Nachtzug ist ein echtes Business“",
-     "url": "https://www.deutsche-startups.de/2026/11/03/ein-profitabler-nachtzug-ist-ein-echtes-business/",
-     "date": "2026-11-03T10:55:00.000Z",
-     "text": "Mit privaten Abteilen möchte Nox Mobility den Nachtzugverkehr in Europa neu denken. Das Startup hat dafür bereits 2 Millionen eingesammelt. Gründer Thibault Constant spricht über skeptische Investoren, seine Leidenschaft für die Bahn und den Betriebsstart 2027."
-    },
-    {
-     "title": "#StartupTicker - +++ Robin Capital +++ Finn +++ Conrad +++ Hivebuy +++ Logicc +++ Yobsti +++",
-     "url": "https://www.deutsche-startups.de/2026/11/03/robin-capital-finn-conrad-hivebuy-logicc-yobsti/",
-     "date": "2026-11-03T06:55:00.000Z",
-     "text": "+++ #StartupTicker +++ STARTUPLAND: Sichere Dir Deine Chance auf der Pitch Stage +++ Der zweite Fonds (15 Millionen) von Robin Capital steht +++ Chefwechsel bei Finn: Maximilian Wühr geht, Patrick Oliver Schmidt übernimmt +++ Conrad Electronic Gruppe kauft Hivebuy +++"
-    },
-    {
-     "title": "#Brandneu - 5 neue Startups: MeisterPfad, TradeAnyMachine, Clara, Kopplung Systems, StauraumHeld",
-     "url": "https://www.deutsche-startups.de/2026/11/02/5-neue-startups-meisterpfad-tradeanymachine-clara-kopplung-systems-stauraumheld/",
-     "date": "2026-11-02T12:55:00.000Z",
-     "text": "Es ist wieder soweit – neue Startups stehen in den Startlöchern! Hier sind einige spannende junge Unternehmen, die man kennen sollte. Heute werfen wir einen Blick auf diese Neugründungen: MeisterPfad, TradeAnyMachine, Clara, Kopplung Systems und StauraumHeld."
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 403",
+   "items": []
   },
   {
    "name": "Gründerszene",
