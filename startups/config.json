@@ -21,6 +21,12 @@
       "type": "rss"
     },
     {
+      "name": "deutsche-startups.de (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Adeutsche-startups.de&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Ersatzweg, falls der direkte Feed ausfällt (sperrt GitHub-Server). Doppelte nur einmal nehmen."
+    },
+    {
       "name": "Gründerszene",
       "url": "https://www.businessinsider.de/gruenderszene/feed/",
       "type": "rss"
