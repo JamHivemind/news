@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-05T05:17:08.302Z",
+ "fetched": "2026-11-05T05:36:07.383Z",
  "hours": 48,
  "sources": [
   {
@@ -205,6 +205,12 @@
      "text": "Der Flüchtling kam mit 15 Jahren allein aus Afghanistan. Heute hilft der Abiturient aus Bramfeld Mädchen in seiner Heimat. Wie das geht."
     },
     {
+     "title": "Nächtliche Taxi-Abzocke: Kiez-Gastronom schildert „Wildwest-Methoden“",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413528481/taxiabzocke-auf-dem-kiez-treffen-mit-wunderbar-chef-axel-strehlitz.html",
+     "date": "2026-11-05T05:14:00.000Z",
+     "text": "Fahrer, die plötzlich Feierabend machen oder astronomische Preise aufrufen: Axel Strehlitz ärgert sich über schwarze Schafe der Branche."
+    },
+    {
      "title": "Reeder aus Bayern und Hamburg gründen neues Schifffahrtsunternehmen",
      "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413578777/hamburger-hafen-reeder-joint-venture-oskar-wehr-minship-gruenden-bellrock-maritime.html",
      "date": "2026-11-05T05:08:00.000Z",
@@ -365,12 +371,6 @@
      "url": "https://www.abendblatt.de/hamburg/politik/article413519479/christina-block-und-die-kinder-richterin-verlaengert-prozess-um-15-tage.html",
      "date": "2026-11-04T15:25:00.000Z",
      "text": "Ingo Bott nennt Staatsanwaltschaft Hamburg „Hensel-Behörde“. Wird der Prozess gegen Christina Block verschleppt. Richterin macht neue Ansage."
-    },
-    {
-     "title": "Vermisst: Hamburgerin (35) nach Besuch bei Freunden verschwunden",
-     "url": "https://www.abendblatt.de/hamburg/harburg/article413589486/vermisst-hamburgerin-35-nach-besuch-bei-freunden-verschwunden.html",
-     "date": "2026-11-04T15:14:48.000Z",
-     "text": "Seit Montagnachmittag gilt die klein gewachsene Frau aus Hamburg-Wilstorf als vermisst. Sie ist auf Hilfe angewiesen."
     }
    ]
   },
@@ -380,16 +380,52 @@
    "ok": true,
    "items": [
     {
-     "title": "Frau (70) brutal ermordet: Hatte sie mit dem Täter (27) eine Beziehung?",
-     "url": "https://www.mopo.de/hamburg/polizei/frau-70-brutal-ermordet-hatte-sie-mit-dem-taeter-27-eine-beziehung/5070797",
-     "date": "2026-11-04T20:50:07.000Z",
-     "text": "Eine 70-Jährige wird brutal getötet. Nachbarn berichten von auffälligen Beobachtungen. Ging es um Geld?"
+     "title": "Mieterverein empört: Was Hamburger für diese Wohnung leisten sollen",
+     "url": "https://www.mopo.de/hamburg/mieterverein-empoert-was-hamburger-fuer-diese-wohnung-leisten-sollen/5066286",
+     "date": "2026-11-05T05:22:04.000Z",
+     "text": "Eine Wohnung für 980 Euro kalt mit bröckelndem Putz und ohne Küche: Dieses Angebot in Eimsbüttel hat es in sich. Denn die neuen Mieter sollen auch noch umfangreich selbst renovieren."
     },
     {
-     "title": "Kostenloser Pendler-Parkplatz vor den Toren Hamburgs vor dem Aus",
-     "url": "https://www.mopo.de/im-norden/schleswig-holstein/kostenloser-pendler-parkplatz-vor-den-toren-hamburgs-vor-dem-aus/5070945",
-     "date": "2026-11-04T19:37:59.000Z",
-     "text": "In Elmshorn wird Wohnraum gebaut, doch für Pendler ist das eine schlechte Nachricht. Der letzte große kostenlose Parkplatz muss weichen."
+     "title": "S-Bahn-Ausbau für eine Milliarde Euro: Minister gibt Pendlern ein Versprechen",
+     "url": "https://www.mopo.de/im-norden/schleswig-holstein/s-bahn-ausbau-fuer-eine-milliarde-euro-minister-gibt-pendlern-ein-versprechen/5070847",
+     "date": "2026-11-05T05:22:27.000Z",
+     "text": "Die S-Bahn soll künftig bis Elmshorn fahren. Doch bleiben die Regionalzüge nach Hamburg? Verkehrsminister Madsen gibt eine Garantie – mit einem Vorbehalt."
+    },
+    {
+     "title": "Kostenexplosion bei Sportplatz: Wer schließt die Finanzierungslücke?",
+     "url": "https://www.mopo.de/hamburg/kostenexplosion-bei-sportplatz-wer-schliesst-die-finanzierungsluecke/5071262",
+     "date": "2026-11-05T05:22:16.000Z",
+     "text": "Schon 2023 wurden Fördergelder für einen neuen Sportplatz in Kirchdorf-Süd (Wilhelmsburg) bewilligt. Gestiegene Baukosten sorgen für eine Finanzierungslücke."
+    },
+    {
+     "title": "Weihnachtsfeier: Muss ich mich wirklich an den Dresscode halten?",
+     "url": "https://www.mopo.de/ratgeber/weihnachtsfeier-muss-ich-mich-wirklich-an-den-dresscode-halten/5067681",
+     "date": "2026-11-03T16:00:00.000Z",
+     "text": "Die Zeit der Weihnachtsfeiern steht kurz bevor, vielleicht sind sogar schon Einladungen reingeflattert. Immer häufiger kommen diese mit Dresscode-Vorgaben daher. Inwieweit man mitgehen sollte."
+    },
+    {
+     "title": "In Sex-Chats als Minderjährige ausgegeben? Männer wegen Erpressung angeklagt",
+     "url": "https://www.mopo.de/hamburg/gericht/in-sex-chats-als-minderjaehrige-ausgegeben-zwei-maenner-25-und-28-wegen-erpressung-angeklagt/5062865",
+     "date": "2026-11-05T05:23:23.000Z",
+     "text": "Mit Sex-Angeboten einer vermeintlich 14-Jährigen sollen zwei Männer Interessenten in Hamburg in eine Falle gelockt haben. Statt eines Treffens drohten Erpressung und Gewalt."
+    },
+    {
+     "title": "Andere finden ihn potthässlich, ihr geht beim Karstadt-Klotz das Herz auf",
+     "url": "https://www.mopo.de/hamburg/andere-finden-ihn-potthaesslich-ihr-geht-beim-karstadt-klotz-das-herz-auf/5044424",
+     "date": "2026-11-05T05:23:27.000Z",
+     "text": "Franzbrötchen zum Trinken. Ann-Katrin Dallmeyer hat das gemeinsam mit ihrem Bruder erleb- und genießbar gemacht."
+    },
+    {
+     "title": "Kastration von Hamburgs Straßenkatzen plötzlich gestoppt – das steckt dahinter",
+     "url": "https://www.mopo.de/hamburg/kastration-von-hamburgs-strassenkatzen-ploetzlich-gestoppt-das-steckt-dahinter/5071227",
+     "date": "2026-11-05T05:26:56.000Z",
+     "text": "Hamburger Tierschutzverein und Stadt streiten um das Kastrationsprogramm für Straßenkatzen."
+    },
+    {
+     "title": "Heute wäre er 90 Jahre alt geworden: In der HSV-Kabine ist „Uns Uwe“ weiter dabei",
+     "url": "https://www.mopo.de/sport/hsv/heute-waere-seeler-90-jahre-alt-geworden-in-der-hsv-kabine-ist-uns-uwe-weiter-dabei/5070889",
+     "date": "2026-11-05T05:21:55.000Z",
+     "text": "Am 5. November wäre Uwe Seeler 90 Jahre alt geworden. Die HSV-Legende ist weiterhin und rum und im Volkspark präsent."
     },
     {
      "title": "Freie-Wähler-Chef Hubert Aiwanger († 55) tot in Hotelzimmer gefunden",
@@ -398,52 +434,16 @@
      "text": "Hubert Aiwanger, Chef der Freien Wähler in Bayern, ist tot. Er starb im Alter von nur 55 Jahren."
     },
     {
-     "title": "Frohe Weihnachten? So vermeiden Familien Streit an den Feiertagen",
-     "url": "https://www.mopo.de/ratgeber/familie/frohe-weihnachten-so-vermeiden-familien-streit-an-den-feiertagen/5069625",
-     "date": "2026-11-04T18:00:00.000Z",
-     "text": "Wenn die Familie zusammenkommt, geht es nicht immer harmonisch zu. Rund um die Weihnachtsfeiertage prallen Erwartungen und Lebensweisen aufeinander. Lässt sich verhindern, dass es Streit gibt?"
+     "title": "Frau (70) brutal ermordet: Hatte sie mit dem Täter (27) eine Beziehung?",
+     "url": "https://www.mopo.de/hamburg/polizei/frau-70-brutal-ermordet-hatte-sie-mit-dem-taeter-27-eine-beziehung/5070797",
+     "date": "2026-11-04T20:50:07.000Z",
+     "text": "Eine 70-Jährige wird brutal getötet. Nachbarn berichten von auffälligen Beobachtungen. Ging es um Geld?"
     },
     {
-     "title": "Frau (29) in Hamburger Park festgehalten und unsittlich berührt",
-     "url": "https://www.mopo.de/hamburg/polizei/frau-29-in-hamburger-park-festgehalten-und-unsittlich-beruehrt/5071254",
-     "date": "2026-11-04T20:50:15.000Z",
-     "text": "Die Polizei sucht einen Mann mit Bart auf einem Fahrrad – und einen Zeugen mit Hund."
-    },
-    {
-     "title": "Block-Prozess: Warum jetzt ein Ex-Regierungssprecher aussagen soll",
-     "url": "https://www.mopo.de/hamburg/gericht/block-prozess-warum-jetzt-ein-ex-regierungssprecher-aussagen-soll/5070936",
-     "date": "2026-11-04T19:15:33.000Z",
-     "text": "Béla Anda ist Experte für Krisen-PR – und soll nun Auskunft geben über seine Dienste für Christina Block."
-    },
-    {
-     "title": "Warum der Miniaturwunderland-Chef einen Audi fährt, den hier niemand kaufen darf",
-     "url": "https://www.mopo.de/hamburg/warum-der-miniaturwunderland-chef-einen-audi-faehrt-den-hier-niemand-kaufen-darf/5068711",
-     "date": "2026-11-04T14:47:05.000Z",
-     "text": "Gerrit Braun, Mitgründer des Miniatur-Wunderlandes, fährt einen Elektro-Audi aus China. Für den Händler hatte der Import ein juristisches Nachspiel."
-    },
-    {
-     "title": "Kein Geld für lebenswichtige OPs: Ärzte protestieren vor Hamburgs Rathaus",
-     "url": "https://www.mopo.de/hamburg/kein-geld-fuer-lebenswichtige-ops-aerzte-protestieren-vor-hamburgs-rathaus/5069804",
-     "date": "2026-11-04T19:47:28.000Z",
-     "text": "Kein Geld mehr für Menschen ohne Krankenversicherung: Ärzte protestieren gegen ausbleibende Mittel von der Stadt zur Behandlung von Patienten."
-    },
-    {
-     "title": "Fünf Millionen Euro Ablöse: Erfolgs-Trainer wechselt mitten in der Saison den Klub",
-     "url": "https://www.mopo.de/sport/fussball/fuenf-millionen-euro-abloese-erfolgs-trainer-wechselt-mitten-in-der-saison-den-klub/5070507",
-     "date": "2026-11-04T14:46:57.000Z",
-     "text": "Paulo Fonseca wird künftig wieder in Portugal an der Seitenlinie stehen. Der 53-Jährige wechselt von Olympique Lyon zu Sporting Lissabon."
-    },
-    {
-     "title": "„Mag nicht jedem schmecken“: Klare Polzin-Ansagen an die HSV-Kritiker",
-     "url": "https://www.mopo.de/sport/hsv/mag-nicht-jedem-schmecken-klare-polzin-ansagen-an-die-hsv-kritiker/5070694",
-     "date": "2026-11-04T18:02:00.000Z",
-     "text": "Der HSV-Trainer reagiert auf die Systemkritik nach der Niederlage in Frankfurt – und erklärt, warum er an zentralen Prinzipien festhalten wird."
-    },
-    {
-     "title": "Hamburg probt den Ernstfall: Behörden üben Krisenszenario bei Wassermangel",
-     "url": "https://www.mopo.de/hamburg/hamburg-probt-den-ernstfall-behoerden-ueben-krisenszenario-bei-wassermangel/5070280",
-     "date": "2026-11-04T19:38:03.000Z",
-     "text": "Bei einer bundesweiten Großübung trainieren Hamburger Behörden den Umgang mit einer langanhaltenden Dürre und extremen Hitzewellen."
+     "title": "Zehn Jahre nach Paris: Verbände drängen auf mehr Klimaschutz",
+     "url": "https://www.mopo.de/news/politik-wirtschaft/zehn-jahre-nach-paris-verbaende-draengen-auf-mehr-klimaschutz/5070145",
+     "date": "2026-11-05T05:21:51.000Z",
+     "text": "Zehn Jahre nach dem Inkrafttreten des Pariser Klimaabkommens fordern deutsche Umweltverbände einen entschlosseneren Klimaschutz – denn das 1,5-Grad-Ziel droht deutlich verfehlt zu werden."
     },
     {
      "title": "Kreuzworträtsel",
@@ -470,40 +470,46 @@
      "text": ""
     },
     {
+     "title": "Frau (29) in Hamburger Park festgehalten und unsittlich berührt",
+     "url": "https://www.mopo.de/hamburg/polizei/frau-29-in-hamburger-park-festgehalten-und-unsittlich-beruehrt/5071254",
+     "date": "2026-11-04T20:50:15.000Z",
+     "text": "Die Polizei sucht einen Mann mit Bart auf einem Fahrrad – und einen Zeugen mit Hund."
+    },
+    {
+     "title": "Kein Geld für lebenswichtige OPs: Ärzte protestieren vor Hamburgs Rathaus",
+     "url": "https://www.mopo.de/hamburg/kein-geld-fuer-lebenswichtige-ops-aerzte-protestieren-vor-hamburgs-rathaus/5069804",
+     "date": "2026-11-04T19:47:28.000Z",
+     "text": "Kein Geld mehr für Menschen ohne Krankenversicherung: Ärzte protestieren gegen ausbleibende Mittel von der Stadt zur Behandlung von Patienten."
+    },
+    {
+     "title": "Hamburg probt den Ernstfall: Behörden üben Krisenszenario bei Wassermangel",
+     "url": "https://www.mopo.de/hamburg/hamburg-probt-den-ernstfall-behoerden-ueben-krisenszenario-bei-wassermangel/5070280",
+     "date": "2026-11-04T19:38:03.000Z",
+     "text": "Bei einer bundesweiten Großübung trainieren Hamburger Behörden den Umgang mit einer langanhaltenden Dürre und extremen Hitzewellen."
+    },
+    {
      "title": "Frau in hilfloser Lage: 35-jährige Nalian seit Montag vermisst",
      "url": "https://www.mopo.de/hamburg/polizei/frau-in-hilfloser-lage-35-jaehrige-nalian-seit-montag-vermisst/5070859",
      "date": "2026-11-04T19:38:00.000Z",
      "text": "Seit Montag wird eine Frau aus Wilstorf vermisst. Die Polizei geht davon aus, dass sie sich in einer hilflosen Lage befinden könnte."
     },
     {
-     "title": "Großeinsatz: Feuer in Rothenburgsort – Feuerwehr muss Dach öffnen",
-     "url": "https://www.mopo.de/hamburg/polizei/grosseinsatz-feuer-in-rothenburgsort-feuerwehr-muss-dach-oeffnen/5071102",
-     "date": "2026-11-04T17:24:51.000Z",
-     "text": "Feuerwehrkräfte kämpfen gegen einen Brand in einem Autoteilehandel in Rothenburgsort. Auch Teile des Dachs müssen geöffnet werden."
-    },
-    {
-     "title": "Für gesuchten Drogenboss: Kurier versorgte ganz Deutschland mit Kokain",
-     "url": "https://www.mopo.de/hamburg/gericht/fuer-gesuchten-drogenboss-kurier-versorgte-ganz-deutschland-mit-kokain/5070204",
-     "date": "2026-11-04T16:46:38.000Z",
-     "text": "Hunderte Kilometer, hunderte Kilo Kokain – und hunderttausende Euro: Ein Fall zeigt, wie aus dem Hamburger Westen heraus ganz Deutschland mit Kokain versorgt wurde."
-    },
-    {
-     "title": "Längeres Leben? Gute Nachrichten für Männer im Norden – schlechte für Frauen",
-     "url": "https://www.mopo.de/hamburg/laengeres-leben-gute-nachrichten-fuer-maenner-im-norden-schlechte-fuer-frauen/5069913",
-     "date": "2026-11-04T15:46:47.000Z",
-     "text": "Die Lebenserwartung in Hamburg steigt. Doch im Vergleich der Bundesländer schneiden Männer und Frauen unterschiedlich ab. Die neuen Zahlen zeigen, wo Hamburg steht."
-    },
-    {
-     "title": "Porsche in Bahnhofsnähe kontrolliert – Polizei stellt schwer bewaffnetes Trio",
-     "url": "https://www.mopo.de/hamburg/polizei/porsche-in-bahnhofsnaehe-kontrolliert-polizei-stellt-schwer-bewaffnetes-trio/5070669",
-     "date": "2026-11-04T14:47:18.000Z",
-     "text": "Zivilfahnder haben am Montagabend in St. Georg drei Männer in einem Porsche Taycan kontrolliert. Dabei entdeckten die Beamten mehrere Waffen."
+     "title": "Block-Prozess: Warum jetzt ein Ex-Regierungssprecher aussagen soll",
+     "url": "https://www.mopo.de/hamburg/gericht/block-prozess-warum-jetzt-ein-ex-regierungssprecher-aussagen-soll/5070936",
+     "date": "2026-11-04T19:15:33.000Z",
+     "text": "Béla Anda ist Experte für Krisen-PR – und soll nun Auskunft geben über seine Dienste für Christina Block."
     },
     {
      "title": "Mehrere Pferde angegriffen und getötet – einige waren tragend: Polizei ermittelt",
      "url": "https://www.mopo.de/im-norden/meck-pomm/mehrere-pferde-angegriffen-und-getoetet-einige-waren-tragend-polizei-ermittelt/5062875",
      "date": "2026-11-04T19:38:06.000Z",
      "text": "Auf Weiden rund um ein Gestüt bei Neustadt-Glewe wurden mehrere Pferde angegriffen. Drei Tiere starben, drei weitere wurden verletzt."
+    },
+    {
+     "title": "Kostenloser Pendler-Parkplatz vor den Toren Hamburgs vor dem Aus",
+     "url": "https://www.mopo.de/im-norden/schleswig-holstein/kostenloser-pendler-parkplatz-vor-den-toren-hamburgs-vor-dem-aus/5070945",
+     "date": "2026-11-04T19:37:59.000Z",
+     "text": "In Elmshorn wird Wohnraum gebaut, doch für Pendler ist das eine schlechte Nachricht. Der letzte große kostenlose Parkplatz muss weichen."
     },
     {
      "title": "Mähroboter fährt sich auf fremdem Grundstück fest – Polizei sucht Besitzer",
@@ -524,15 +530,15 @@
      "text": "Ein Hustenanfall am Steuer löste im Kreis Rostock für einen schweren Unfall aus: Ein 40-Jähriger verlor die Kontrolle über seinen Lkw – und fuhr mitten in einen Wald."
     },
     {
-     "title": "Bauarbeiten im Norden: Warum Zoo-Gäste jetzt ein Extra-Ticket brauchen",
-     "url": "https://www.mopo.de/im-norden/meck-pomm/bauarbeiten-im-norden-warum-zoo-gaeste-jetzt-ein-extra-ticket-brauchen/5069798",
-     "date": "2026-11-04T13:49:16.000Z",
-     "text": "In Rostock wird eine wichtige Straße für lange Zeit gesperrt. Auch der Zoo ist betroffen: Besucher müssen sich auf Einschränkungen einstellen."
+     "title": "Erneut brennen Schiffe in der Straße von Hormus",
+     "url": "https://www.mopo.de/news/politik-wirtschaft/erneut-brennen-schiffe-in-der-strasse-von-hormus/972893",
+     "date": "2026-11-05T05:20:00.000Z",
+     "text": ""
     },
     {
-     "title": "Trump trotz Wahlniederlage von Entscheidung für Iran-Krieg überzeugt",
-     "url": "https://www.mopo.de/news/politik-wirtschaft/trump-trotz-wahlniederlage-von-entscheidung-fuer-iran-krieg-ueberzeugt/972893",
-     "date": "2026-11-04T21:15:00.000Z",
+     "title": "Ukraine und USA bereiten Treffen mit Russland vor",
+     "url": "https://www.mopo.de/news/politik-wirtschaft/ukraine-und-usa-bereiten-treffen-mit-russland-vor/102860",
+     "date": "2026-11-05T05:20:00.000Z",
      "text": ""
     },
     {
@@ -552,12 +558,6 @@
      "url": "https://www.mopo.de/news/panorama/juengere-sagen-seltener-bitte-sind-aber-nicht-unhoeflich/5070089",
      "date": "2026-11-04T19:39:00.000Z",
      "text": "Junge Menschen sagen seltener „bitte“ und duzen häufiger. Sind sie deshalb unhöflich? Eine neue Studie zeigt, wie sich unsere Sprache verändert."
-    },
-    {
-     "title": "Nach Simon wird auch Garfunkel 85 - aber Sorge um Gesundheit",
-     "url": "https://www.mopo.de/news/promi-show/nach-simon-wird-auch-garfunkel-85-aber-sorge-um-gesundheit/5070168",
-     "date": "2026-11-04T19:38:53.000Z",
-     "text": "Art Garfunkel wird 85 – doch statt auf der Bühne zu stehen, muss sich die Musik-Legende schonen. Auch sein geplantes Konzert in Hamburg fällt aus."
     }
    ]
   },

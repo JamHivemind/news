@@ -1,6 +1,23 @@
 {
   "briefs": [
     {
+      "date": "2026-11-05",
+      "file": "2026-11-05.html",
+      "headline": "Hamburg erwartet bis 2030 mehr Steuereinnahmen",
+      "count": 10,
+      "sources": 4,
+      "cats": {
+        "Stadt & Politik": 4,
+        "Verkehr": 3,
+        "Bauen & Wohnen": 1,
+        "Wirtschaft & Hafen": 2
+      },
+      "ents": {
+        "Senat": 1,
+        "Bürgerschaft": 1
+      }
+    },
+    {
       "date": "2026-11-04",
       "file": "2026-11-04.html",
       "headline": "Hamburg verschickt 26.000 neue Grundsteuerbescheide",

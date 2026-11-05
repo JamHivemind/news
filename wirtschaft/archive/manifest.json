@@ -1,6 +1,27 @@
 {
   "briefs": [
     {
+      "date": "2026-11-05",
+      "file": "2026-11-05.html",
+      "headline": "Inflation im Euroraum steigt auf vier Prozent",
+      "count": 10,
+      "sources": 4,
+      "cats": {
+        "Konjunktur": 1,
+        "Zinsen & Geldpolitik": 1,
+        "Börse & Märkte": 1,
+        "Unternehmen": 2,
+        "Arbeit & Soziales": 1,
+        "Politik & Handel": 1,
+        "Energie": 3
+      },
+      "ents": {
+        "EZB": 1,
+        "BMW": 1,
+        "China": 1
+      }
+    },
+    {
       "date": "2026-11-04",
       "file": "2026-11-04.html",
       "headline": "Inflation im Euroraum steigt auf 4,0 Prozent",
