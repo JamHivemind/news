@@ -1,0 +1,113 @@
+{
+  "order": 5,
+  "icon": "🔷",
+  "theme": "hsv",
+  "title": "HSV-Zentrale",
+  "description": "Alles rund um den Hamburger SV: Spiele, Tabelle, Transfers und Stimmen aus dem Volkspark. Jeden Morgen frisch. Inoffizielle Fanseite.",
+  "leser": "HSV-Fans, die morgens alles Wichtige über ihren Verein wissen wollen",
+  "ton": "Schreib mit Fan-Herz: leidenschaftlich, gern ein bisschen übertrieben und mit Augenzwinkern (\"Rothosen\", \"Volkspark\", \"Nur der HSV\"). Aber Fakten bleiben Fakten: nichts erfinden, Ergebnisse, Namen und Zahlen exakt wie in der Quelle. Niederlagen ehrlich benennen, dann mit Trotz nach vorne schauen. Keine Häme über Spieler, keine Beleidigungen anderer Vereine (Werder darf freundlich gestichelt werden).",
+  "schwerpunkt": "Nur Hamburger SV (Profis, auch Frauen, Nachwuchs und Verein). Spielberichte, Vorberichte zum nächsten Spiel, Verletzungen und Aufstellung, Transfers, Trainer und Vorstand, Fans und Stadion. Gerüchte nur, wenn eine seriöse Quelle (kicker, Abendblatt, NDR) sie meldet, dann als Gerücht kennzeichnen. Liveticker, Bildergalerien und Gewinnspiele ignorieren.",
+  "categories": [
+    "Spieltag",
+    "Mannschaft & Trainer",
+    "Transfers & Gerüchte",
+    "Verein & Vorstand",
+    "Fans & Volkspark",
+    "Frauen & Nachwuchs",
+    "Gegner & Liga"
+  ],
+  "sources": [
+    {
+      "name": "kicker",
+      "url": "https://newsfeed.kicker.de/team/hamburger-sv",
+      "type": "rss"
+    },
+    {
+      "name": "kicker (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Akicker.de%20%22Hamburger%20SV%22&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur HSV-Meldungen. Doppelte mit dem direkten kicker-Feed nur einmal."
+    },
+    {
+      "name": "Hamburger Abendblatt (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Aabendblatt.de%20HSV&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur HSV-Meldungen, keine Liveticker."
+    },
+    {
+      "name": "Hamburger Morgenpost (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Amopo.de%20HSV&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur HSV-Meldungen."
+    },
+    {
+      "name": "hsv.de (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Ahsv.de&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Offizielle Vereinsmeldungen: Spieltag, Personal, Tickets, Verein."
+    },
+    {
+      "name": "NDR Sport",
+      "url": "https://www.ndr.de/sport/fussball/index-rss.xml",
+      "type": "rss",
+      "focus": "Nur Meldungen mit HSV-Bezug."
+    },
+    {
+      "name": "Google News: HSV",
+      "url": "https://news.google.com/rss/search?q=%22Hamburger%20SV%22%20OR%20HSV&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur Meldungen über den Hamburger SV (nicht andere Vereine mit HSV im Namen)."
+    },
+    {
+      "name": "Anstoß – der HSV-Newsletter",
+      "type": "gmail",
+      "query": "from:newsletter@abendblatt.de subject:Anstoß newer_than:3d",
+      "focus": "HSV-Newsletter des Hamburger Abendblatts. Nur zusammenfassen, Link nur auf öffentliche abendblatt.de-Seiten."
+    }
+  ],
+  "entities": [
+    [
+      "Trainer",
+      "\bTrainer"
+    ],
+    [
+      "Bayern",
+      "\bBayern\b"
+    ],
+    [
+      "Werder",
+      "\b(Werder|Bremen)\b"
+    ],
+    [
+      "Gladbach",
+      "Gladbach|Borussia M"
+    ],
+    [
+      "Volksparkstadion",
+      "Volkspark"
+    ],
+    [
+      "Verletzung",
+      "verletz|Ausfall|fällt aus"
+    ],
+    [
+      "Transfer",
+      "Transfer|Wechsel|Vertrag"
+    ],
+    [
+      "Fans",
+      "\bFans?\b"
+    ]
+  ],
+  "entitiesTitle": "Worüber Hamburg redet",
+  "football": {
+    "league": "bl1",
+    "season": 2026,
+    "teamId": 100,
+    "short": "HSV",
+    "founded": "1887-09-29"
+  },
+  "tiles": [],
+  "metrics": {},
+  "kennzahlenQuellen": "Spielplan und Tabelle von OpenLigaDB (Community-Daten), eigene Zählung"
+}

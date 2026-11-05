@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Holt täglich die Kennzahlen jedes Dashboards (Börse über Yahoo Finance, Zinsen und Preise über die EZB)
+// Holt täglich die Kennzahlen jedes Dashboards (Börse über Yahoo Finance, Zinsen und Preise über die EZB, Fußball über OpenLigaDB)
 // und schreibt sie nach <dashboard>/data/metrics.json. Dazu die Kopfdaten der KI-News für die Startseite.
 // Ohne Abhängigkeiten und ohne Schlüssel. Fällt eine Quelle aus, bleibt der alte Wert stehen.
 
@@ -46,6 +46,24 @@ async function ecb(key) {
   return [...byMonth.entries()].sort(([a], [b]) => a.localeCompare(b));
 }
 
+// Fußball über OpenLigaDB (frei, ohne Schlüssel): Spiele des Vereins und Tabelle
+async function football(f) {
+  const all = await get(`https://api.openligadb.de/getmatchdata/${f.league}/${f.season}`);
+  const end = m => (m.matchResults || []).find(r => r.resultTypeID === 2) || null;
+  const matches = all.filter(m => m.team1.teamId === f.teamId || m.team2.teamId === f.teamId).map(m => ({
+    day: m.group.groupOrderID, utc: m.matchDateTimeUTC, done: !!m.matchIsFinished,
+    home: m.team1.teamName, homeShort: m.team1.shortName, homeId: m.team1.teamId,
+    away: m.team2.teamName, awayShort: m.team2.shortName, awayId: m.team2.teamId,
+    g1: end(m)?.pointsTeam1 ?? null, g2: end(m)?.pointsTeam2 ?? null,
+    stadium: m.location?.locationStadium || null,
+  })).sort((a, b) => a.utc.localeCompare(b.utc));
+  if (!matches.length) throw new Error("keine Spiele");
+  const tab = await get(`https://api.openligadb.de/getbltable/${f.league}/${f.season}`);
+  const table = tab.map((t, i) => ({ pos: i + 1, id: t.teamInfoId, team: t.teamName, short: t.shortName,
+    pts: t.points, sp: t.matches, w: t.won, d: t.draw, l: t.lost, g: t.goals, o: t.opponentGoals, diff: t.goalDiff }));
+  return { matches, table, fetched: new Date().toISOString() };
+}
+
 const dashboards = readdirSync(ROOT, { withFileTypes: true })
   .filter(d => d.isDirectory() && existsSync(join(ROOT, d.name, "config.json")))
   .map(d => d.name);
@@ -62,6 +80,10 @@ for (const name of dashboards) {
   for (const s of cfg.metrics?.ecb || []) {
     const v = await attempt(`EZB ${s.key}`, () => ecb(s.key));
     if (v) (m.ecb ??= {})[s.key] = v;
+  }
+  if (cfg.football) {
+    const v = await attempt("Fußball", () => football(cfg.football));
+    if (v) m.football = v;
   }
   m.updated = new Date().toISOString();
   mkdirSync(dirname(file), { recursive: true });

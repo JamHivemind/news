@@ -6,10 +6,10 @@
 <meta name="description" content="{{DESCRIPTION}}">
 <meta name="color-scheme" content="light dark">
 <title>{{PAGE_TITLE}}</title>
-<link rel="stylesheet" href="{{ASSETS}}style.css">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+<link rel="stylesheet" href="{{ASSETS}}style.css">{{THEME_CSS}}
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>{{ICON}}</text></svg>">
 </head>
-<body>
+<body class="{{BODY_CLASS}}">{{BANNER}}
 <div class="wrap">
   <header>
     <div class="kicker">{{SITE_TITLE}}</div>
@@ -22,6 +22,8 @@
       <span data-label></span>
     </div>
   </header>
+
+  {{FAN}}
 
   {{KPIS}}
 
@@ -44,6 +46,6 @@
 </div>
 <div class="tooltip" id="tooltip" role="status" hidden></div>
 <script src="{{ASSETS}}vorlesen.js"></script>
-<script src="{{ASSETS}}dashboard.js"></script>
+<script src="{{ASSETS}}dashboard.js"></script>{{EXTRA_JS}}
 </body>
 </html>

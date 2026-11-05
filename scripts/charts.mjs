@@ -90,7 +90,7 @@ export function lines(series, { base = null, unit = "", label = dayLabel, decima
   for (let i = 1; i < ends.length; i++) if (ends[i].y - ends[i - 1].y < 13) ends[i].y = ends[i - 1].y + 13;
   series.forEach(s => {
     const d = s.points.map((p, i) => `${i ? "L" : "M"}${X(p[0]).toFixed(1)},${Y(p[1]).toFixed(1)}`).join("");
-    g += `<path d="${d}" class="line" style="stroke:${s.color}"/>`;
+    g += `<path d="${d}" class="line" style="stroke:${s.color}${s.dash ? ";stroke-dasharray:5 4" : ""}"/>`;
     const last = s.points.at(-1);
     g += `<circle cx="${X(last[0])}" cy="${Y(last[1])}" r="4" class="dot" style="fill:${s.color}"/>`;
   });

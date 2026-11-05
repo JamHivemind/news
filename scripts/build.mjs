@@ -9,6 +9,7 @@ import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync } from 
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { hBars, columns, lines, legend, fmt } from "./charts.mjs";
+import { renderFootball } from "./football.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const loadJson = (file, fallback) => { try { return JSON.parse(readFileSync(file, "utf8")); } catch { return fallback; } };
@@ -18,7 +19,7 @@ const esc = (s = "") => String(s)
   .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
   .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
 const safeUrl = (u = "") => /^https?:\/\//i.test(u) ? esc(u) : "#";
-const fill = (t, vars) => t.replace(/\{\{(\w+)\}\}/g, (_, k) => vars[k] ?? "");
+const fill = (t, vars) => t.replace(/\{\{(\w+)\}\}/g, (_, k) => vars[k] ?? (k === "ICON" ? "📰" : ""));
 
 const longDate = iso => new Intl.DateTimeFormat("de-DE", { weekday: "long", day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })
   .format(new Date(`${iso}T12:00:00Z`));
@@ -109,8 +110,12 @@ function renderDashboard(cfg, manifest, date, metrics) {
     }
   }
 
+  // Fußball (Vereins-Dashboards)
+  const fb = cfg.football ? renderFootball(cfg, metrics, panel, tile) : { fan: "", tiles: "", panels: "" };
+  kpis = fb.tiles + kpis;
+
   // Diagramme
-  let panels = "";
+  let panels = fb.panels;
   const catItems = order.map(c => ({ label: c, value: cats[c] || 0 })).filter(i => i.value);
   panels += panel("Worüber geredet wird", `Meldungen je Rubrik, ${span}`, hBars(catItems));
   if (cfg.entities?.length) {
@@ -132,7 +137,7 @@ function renderDashboard(cfg, manifest, date, metrics) {
     panels += panel("Meldungen pro Tag", "Anzahl ausgewählter Meldungen je Ausgabe",
       columns(briefs.slice(-14).map(b => ({ date: b.date, value: b.count }))));
 
-  return { kpis: `<div class="tiles">${kpis}</div>`, dashboard: `<div class="dash">${panels}</div>` };
+  return { kpis: `<div class="tiles">${kpis}</div>`, dashboard: `<div class="dash">${panels}</div>`, fan: fb.fan };
 }
 
 // ---------- Ein Dashboard bauen ----------
@@ -147,14 +152,20 @@ function buildDashboard(name, template) {
   const manifest = loadJson(manifestPath, { briefs: [] });
   const base = {
     LANG: "de", DESCRIPTION: esc(cfg.description), SITE_TITLE: esc(cfg.title), HUB: "",
-    KENNZAHLEN: esc(cfg.kennzahlenQuellen || "eigene Zählung"),
+    KENNZAHLEN: esc(cfg.kennzahlenQuellen || "eigene Zählung"), ICON: cfg.icon || "📰",
   };
+  // Eigenes Design je Dashboard (config.json → "theme"): assets/theme-<name>.css und .js
+  const theme = (assets) => cfg.theme ? {
+    THEME_CSS: `<link rel="stylesheet" href="${assets}theme-${cfg.theme}.css">`, BODY_CLASS: `theme-${cfg.theme}`,
+    EXTRA_JS: `<script src="${assets}theme-${cfg.theme}.js"></script>`,
+    BANNER: existsSync(join(ROOT, "assets", `theme-${cfg.theme}.html`)) ? readFileSync(join(ROOT, "assets", `theme-${cfg.theme}.html`), "utf8") : "",
+  } : {};
 
   // Noch keine Ausgabe: nur Platzhalter, kein Archiv-Eintrag
   if (!content?.date) {
-    const { kpis, dashboard } = renderDashboard(cfg, manifest, today(), metrics);
+    const { kpis, dashboard, fan } = renderDashboard(cfg, manifest, today(), metrics);
     writeFileSync(join(dir, "index.html"), fill(template, {
-      ...base, PAGE_TITLE: esc(cfg.title), DATE_LONG: "Erste Ausgabe folgt", ASSETS: "../assets/",
+      ...base, ...theme("../assets/"), FAN: fan, PAGE_TITLE: esc(cfg.title), DATE_LONG: "Erste Ausgabe folgt", ASSETS: "../assets/",
       STATS: "Die erste Ausgabe erscheint mit dem nächsten Morgenlauf.", NAV: `<a href="../">Alle Dashboards</a>`,
       KPIS: kpis, DASHBOARD: dashboard, TOP_TITLE: "", SOURCES: (cfg.sources || []).map(s => esc(s.name)).join(", "),
     }).replace("<h2></h2>", ""));
@@ -175,7 +186,7 @@ function buildDashboard(name, template) {
   manifest.briefs.sort((a, b) => b.date.localeCompare(a.date));
   manifest.site = { title: cfg.title, description: cfg.description };
   const older = manifest.briefs[manifest.briefs.findIndex(b => b.date === date) + 1];
-  const { kpis, dashboard } = renderDashboard(cfg, manifest, date, metrics);
+  const { kpis, dashboard, fan } = renderDashboard(cfg, manifest, date, metrics);
 
   const page = (root, assets, isIndex) => {
     const nav = [`<a href="${root}../">Alle Dashboards</a>`];
@@ -183,7 +194,7 @@ function buildDashboard(name, template) {
     if (older) nav.push(`<a href="${root}archive/${older.file}">← Vortag</a>`);
     nav.push(`<a href="${root}archive/">Archiv</a>`);
     return fill(template, {
-      ...base, PAGE_TITLE: `${esc(cfg.title)} · ${esc(shortDate(date))}`, DATE_LONG: esc(longDate(date)), ASSETS: assets,
+      ...base, ...theme(assets), FAN: fan, PAGE_TITLE: `${esc(cfg.title)} · ${esc(shortDate(date))}`, DATE_LONG: esc(longDate(date)), ASSETS: assets,
       STATS: `${all.length} Meldungen aus ${sources.length} Quellen`, NAV: nav.join(""),
       KPIS: kpis, INTRO: content.intro ? `<div class="intro">${esc(content.intro)}</div>` : "",
       TOP_TITLE: "Top 3 des Tages", TOP: renderTop(top), DASHBOARD: dashboard, SECTIONS: renderSections(entries, cfg.categories),
@@ -197,7 +208,7 @@ function buildDashboard(name, template) {
   const list = manifest.briefs.map(b => `<li><a href="${esc(b.file)}"><span class="d">${esc(longDate(b.date))}</span>` +
     `<span class="h">${esc(b.headline || `${b.count} Meldungen`)}</span></a></li>`).join("");
   writeFileSync(join(dir, "archive", "index.html"), fill(template, {
-    ...base, PAGE_TITLE: `${esc(cfg.title)} · Archiv`, DATE_LONG: "Archiv", ASSETS: "../../assets/",
+    ...base, ...theme("../../assets/"), PAGE_TITLE: `${esc(cfg.title)} · Archiv`, DATE_LONG: "Archiv", ASSETS: "../../assets/",
     STATS: `${manifest.briefs.length} Ausgaben`, NAV: `<a href="../../">Alle Dashboards</a><a href="../">Heute</a>`,
     TOP_TITLE: "Alle Ausgaben", TOP: `<ul class="archive">${list}</ul>`, SOURCES: "siehe einzelne Ausgaben",
   }));
@@ -241,7 +252,7 @@ function buildHub(results, template) {
         : `<div class="hub-meta">Erste Ausgabe folgt</div>`) + `</div></a>`;
   }).join("");
   writeFileSync(join(ROOT, "index.html"), fill(template, {
-    LANG: "de", PAGE_TITLE: "News-Dashboards", DESCRIPTION: "Tägliche News-Dashboards: KI, Immobilien, Wirtschaft, Hamburg, Startups",
+    LANG: "de", PAGE_TITLE: "News-Dashboards", DESCRIPTION: "Tägliche News-Dashboards: KI, Immobilien, Wirtschaft, Hamburg, Startups, HSV",
     SITE_TITLE: "News-Dashboards", DATE_LONG: esc(longDate(today())), ASSETS: "assets/",
     STATS: "Jeden Morgen neu, kurz auf Deutsch zusammengefasst", TOP_TITLE: "Alle Dashboards",
     TOP: `<div class="hub">${html}</div>` + HUB_SCRIPT, SOURCES: "siehe einzelne Dashboards", KENNZAHLEN: "siehe einzelne Dashboards",
