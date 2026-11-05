@@ -212,6 +212,19 @@ function buildDashboard(name, template) {
 
 // ---------- Startseite ----------
 
+// Im Browser: "Heute" nach dem Datum des Lesers setzen und die KI-Kachel live aus dem KI-News-Archiv holen
+// (die KI-News erscheinen nach dem Bau dieser Startseite).
+const HUB_SCRIPT = `<script>(function(){
+var t=new Date(),pad=function(n){return(n<10?"0":"")+n},today=t.getFullYear()+"-"+pad(t.getMonth()+1)+"-"+pad(t.getDate());
+var wd=["So.","Mo.","Di.","Mi.","Do.","Fr.","Sa."];
+function mark(el,d){el.setAttribute("data-date",d);if(d===today){el.textContent="Heute";el.className="fresh";}else{var x=new Date(d+"T12:00:00");el.textContent=wd[x.getDay()]+", "+pad(x.getDate())+"."+pad(x.getMonth()+1)+"."+x.getFullYear();el.className="";}}
+document.querySelectorAll(".hub-meta span[data-date]").forEach(function(el){mark(el,el.getAttribute("data-date"))});
+fetch("https://jamhivemind.github.io/ki-news/archive/manifest.json",{cache:"no-store"}).then(function(r){return r.json()}).then(function(m){
+var b=m.briefs&&m.briefs[0],card=document.getElementById("hub-ki");if(!b||!card)return;
+var top=card.querySelector(".hub-top"),meta=card.querySelector(".hub-meta");if(!top||!meta)return;
+top.textContent=b.headline||"";meta.innerHTML='<span></span> · '+(b.count||0)+" Meldungen";mark(meta.querySelector("span"),b.date);
+}).catch(function(){});})();</script>`;
+
 function buildHub(results, template) {
   const ki = loadJson(join(ROOT, "data", "ki-news.json"), {});
   const cards = [
@@ -221,17 +234,17 @@ function buildHub(results, template) {
   ];
   const html = cards.map(c => {
     const fresh = c.latest && c.latest.date === today();
-    return `<a class="hub-card" href="${esc(c.url)}"><div class="hub-icon">${c.icon}</div><div class="hub-body">` +
+    return `<a class="hub-card" href="${esc(c.url)}"${c.title === "KI-News" ? ' id="hub-ki"' : ""}><div class="hub-icon">${c.icon}</div><div class="hub-body">` +
       `<h3>${esc(c.title)}</h3><p>${esc(c.description)}</p>` +
       (c.latest ? `<div class="hub-top">${esc(c.latest.headline || "")}</div>` +
-        `<div class="hub-meta"><span class="${fresh ? "fresh" : ""}">${fresh ? "Heute" : esc(shortDate(c.latest.date))}</span> · ${fmt(c.latest.count || 0)} Meldungen</div>`
+        `<div class="hub-meta"><span data-date="${esc(c.latest.date)}" class="${fresh ? "fresh" : ""}">${fresh ? "Heute" : esc(shortDate(c.latest.date))}</span> · ${fmt(c.latest.count || 0)} Meldungen</div>`
         : `<div class="hub-meta">Erste Ausgabe folgt</div>`) + `</div></a>`;
   }).join("");
   writeFileSync(join(ROOT, "index.html"), fill(template, {
     LANG: "de", PAGE_TITLE: "News-Dashboards", DESCRIPTION: "Tägliche News-Dashboards: KI, Immobilien, Wirtschaft, Hamburg, Startups",
     SITE_TITLE: "News-Dashboards", DATE_LONG: esc(longDate(today())), ASSETS: "assets/",
     STATS: "Jeden Morgen neu, kurz auf Deutsch zusammengefasst", TOP_TITLE: "Alle Dashboards",
-    TOP: `<div class="hub">${html}</div>`, SOURCES: "siehe einzelne Dashboards", KENNZAHLEN: "siehe einzelne Dashboards",
+    TOP: `<div class="hub">${html}</div>` + HUB_SCRIPT, SOURCES: "siehe einzelne Dashboards", KENNZAHLEN: "siehe einzelne Dashboards",
   }));
   console.log("index.html (Startseite) geschrieben");
 }

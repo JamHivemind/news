@@ -3,11 +3,13 @@ on:
   push:
     paths: ['**/content.json', '**/config.json', 'template.html', 'scripts/**', 'assets/**']
   schedule:
-    # Feeds vor dem Morgenlauf der Routine holen (04:30 Berlin im Winter; Routine 06:15). GitHub startet geplante Läufe oft bis zu 1 Stunde später, daher viel Vorlauf.
-    # Die Cloud-Umgebung der Routine erreicht die Nachrichtenseiten nicht, GitHub schon.
-    - cron: '30 3 * * *'
-    # Kennzahlen auch an Tagen ohne neue Ausgabe nachziehen (09:20 Berlin im Winter)
-    - cron: '20 8 * * *'
+    # Feeds vor dem Morgenlauf der Routine holen (Routine 06:15 Berlin im Winter). GitHub startet geplante Läufe oft 1-2 Stunden später,
+    # daher zwei Läufe mit viel Vorlauf (02:30 und 04:00 Berlin). Die Cloud-Umgebung der Routine erreicht die Nachrichtenseiten nicht, GitHub schon.
+    - cron: '30 1 * * *'
+    - cron: '0 3 * * *'
+    # Kennzahlen und KI-Kachel nachziehen (08:30 und 10:20 Berlin im Winter)
+    - cron: '30 7 * * *'
+    - cron: '20 9 * * *'
   workflow_dispatch:
 
 permissions:
@@ -22,6 +24,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          # immer den neuesten Stand bauen, nicht den Stand beim Auslösen (sonst Konflikte, wenn mehrere Läufe hintereinander warten)
+          ref: main
 
       - uses: actions/setup-node@v5
         with:
@@ -40,12 +45,19 @@ jobs:
         run: |
           git config user.name "news[bot]"
           git config user.email "news[bot]@users.noreply.github.com"
-          git add -A
-          git diff --cached --quiet && exit 0
-          git commit -m "seiten: $(date -u +%Y-%m-%d)"
-          # GitHub lehnt Pushes gelegentlich mit "Internal Server Error" ab: bis zu 4 Versuche
-          for i in 1 2 3 4; do
-            git pull --rebase && git push && exit 0
+          commit() { git add -A; git diff --cached --quiet && return 1; git commit -q -m "seiten: $(date -u +%Y-%m-%d)"; }
+          commit || exit 0
+          # GitHub lehnt Pushes gelegentlich ab (Fehler oder neuer Stand): bis zu 5 Versuche.
+          # Gibt es beim Zusammenführen einen Konflikt in erzeugten Dateien, auf den neuesten Stand setzen und neu bauen.
+          for i in 1 2 3 4 5; do
+            git push origin HEAD:main && exit 0
             sleep $((i * 15))
+            git fetch -q origin main
+            if ! git rebase -q origin/main; then
+              git rebase --abort
+              git reset -q --hard origin/main
+              node scripts/build.mjs
+              commit || exit 0
+            fi
           done
           exit 1
