@@ -1,106 +1,85 @@
 {
-  "intro": "Große Summen fließen in KI: Fal verdoppelt seinen Wert auf 16 Mrd. US-Dollar. In Europa gibt es mehrere kleinere Finanzierungen, darunter eine Biotech-Runde aus Kopenhagen.",
+  "date": "2026-11-05",
+  "intro": "Heute dominieren Förderung und Deep Tech: Die EU zeigt ihre größten Innovationsinvestments des Jahres, dazu kommen mehrere Finanzierungsrunden von Spacetech bis KI.",
   "top": [
     {
-      "title": "KI-Startup Fal wird mit 16 Mrd. Dollar bewertet",
-      "text": "Fal betreibt Rechenleistung, mit der KI-Modelle Antworten liefern (Inferenz). Das fünf Jahre alte Startup hat 1,3 Milliarden Dollar eingesammelt, angeführt von Bessemer. Die Bewertung hat sich damit verdoppelt, weil die Nachfrage stark wächst.",
-      "source": "TechCrunch Startups",
-      "category": "Finanzierungen",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+      "title": "EIC-Fonds: die zehn größten Investments 2026",
+      "text": "Der Europäische Innovationsrat (EIC) hat in den ersten drei Quartalen 85 Investments getätigt. EU-Startups hat die zehn größten exklusiv ausgewertet. Sie reichen von Quantencomputing über Kernfusion bis zu Biotechnologie und Raumfahrt. Die Zahlen zeigen, welche Deep-Tech-Felder Europa gezielt fördert.",
+      "category": "Förderung & Politik",
+      "url": "https://www.eu-startups.com/2026/11/exclusive-top-10-largest-investments-by-eic-in-2026-so-far/",
+      "source": "EU-Startups"
     },
     {
-      "title": "42AI startet mit 62,5 Mio. Dollar und einem „Weltmodell“",
-      "text": "Das Startup 42AI verlässt den Stealth-Modus (bisher nicht öffentlich) mit 62,5 Millionen Dollar. Es entwickelt ein KI-Modell, das menschliches Verhalten auch in neuen Situationen vorhersagen soll.",
-      "source": "TechCrunch Startups",
-      "category": "Deep Tech & Forschung",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+      "title": "Hypersonica erhält 100 Millionen Euro",
+      "text": "Laut Startbase fließen 100 Millionen Euro an das Startup Hypersonica. Mehr steht im öffentlich lesbaren Teil der Meldung nicht. Eine Runde dieser Größe zählt in Europa zu den großen Deep-Tech-Finanzierungen des Jahres.",
+      "category": "Finanzierungen",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZUmhDUHJUU2VWc1JxX1dJSUV3ZlE2NHVmd2xFUnYyZlAzczZZMi1ydzE4TWdIOUZhU0FwczRwQlN2aTJDcDlmaU5yWHg4ZS1NRU1PazI1X194T0xzNnZMMXhLS1psdlRwQm84NmJBcXVKV3hDcUE?oc=5",
+      "source": "Startbase"
     },
     {
-      "title": "Biograil aus Kopenhagen sammelt 20 Mio. Euro ein",
-      "text": "Das Biotech-Startup entwickelt ein Gerät, das Wirkstoffe oral verabreicht, die sonst gespritzt werden müssten. Die Finanzierungsrunde beträgt 20 Millionen Euro. Gelingt der Ansatz, könnten manche Spritzen durch Tabletten-ähnliche Lösungen ersetzt werden.",
-      "source": "EU-Startups",
+      "title": "Tumbleweed: 6,9 Millionen Euro für Weltraumforschung",
+      "text": "Das Wiener Spacetech-Startup Tumbleweed holt 6,9 Millionen Euro ein. Laut Meldung fließt das Geld in Forschung rund um das All. Spacetech ist ein wachsendes Feld für europäische Gründer.",
       "category": "Finanzierungen",
-      "url": "https://www.eu-startups.com/2026/11/copenhagens-biograil-raises-e20-million-for-oral-drug-delivery-device-designed-as-an-alternative-to-injections/"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZHkxRmxONUh0Wk5tRHlHTG5uQURLd2pOaHhzcUlUbGxjWjYxNDZJaEpSYXlFSXdsZ2xzb2ktM04yWjJkLXVsak9UeXFqUEtuZXBnQUZYX1Z2c3VFam9Oc3pDRFBWU2F1eFBsdHRIQjdRTllOR2JLcC00MHAwVjR3bk1sdmtIWXhoTU5UTmd2MU10RHROaDdTS1pFbF9FZ2FUOGtSLTlqM2IxMjlnUVdOZG03VWp6cllXakRr?oc=5",
+      "source": "MeinBezirk.at"
     }
   ],
   "entries": [
     {
-      "title": "Trajectory: 45 Mio. Dollar für KI-Training ohne Programmierkenntnisse",
-      "summary": "Das einjährige Startup will KI-Modelltraining für Fachleute ohne technischen Hintergrund zugänglich machen. Bewertung: 300 Millionen Dollar.",
-      "source": "TechCrunch Startups",
+      "title": "Conlio sammelt 6,4 Millionen Euro ein",
+      "summary": "Das Startup entwickelt KI-gestützte Finanzprozesse für die Logistik und erhält 6,4 Millionen Euro.",
       "category": "Finanzierungen",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQi1RV1h3YlQ4cVhfM04xVjZMLUY5ZlNWVEZ2MzlZYS1CMGdudVM1RlJWQTh0eFJTbE84Yk5JYTdfcFJlRVdvMVFjZElIaE9sYTJGRHJpN2E5LWpwWFEzTG0wTkh1Qm1Xd3dNcEpEMVNNcDNaWU1zWUZxTmJ3OUM4SGw3eHVYUWs0b0VObHBLV3AzejdwaXMwVWl2Ti15QjFvbGxZRWJ0eG9qRDhnbE1wWkloYw?oc=5",
+      "source": "Startbase"
     },
     {
-      "title": "Hardt Hyperloop kehrt nach Insolvenz mit neuem Geld zurück",
-      "summary": "Das Rotterdamer Unternehmen erhält eine Investition in Millionenhöhe, nachdem eine Gesellschaft insolvent war. Es will in Amerika expandieren.",
-      "source": "EU-Startups",
-      "category": "Finanzierungen",
-      "url": "https://www.eu-startups.com/2026/11/rotterdams-hardt-hyperloop-secures-multi-million-euro-funding-to-bounce-back-from-bankruptcy-and-expand-into-the-americas/"
+      "title": "Women TechEU: 75.000 Euro für Gründerinnen",
+      "summary": "Das EU-Programm will bis 2028 insgesamt 160 Deep-Tech-Startups von Frauen mit je 75.000 Euro, Mentoring und Training fördern.",
+      "category": "Förderung & Politik",
+      "url": "https://www.eu-startups.com/2026/11/women-techeu-allies-supporting-women-led-deeptech-startups-across-europe/",
+      "source": "EU-Startups"
     },
     {
-      "title": "JawBuddy aus Leipzig sammelt 818.000 Euro ein",
-      "summary": "Das HealthTech-Startup hilft gegen Kieferschmerzen und Zähneknirschen. Die Pre-Seed-Runde (früheste Finanzierungsphase) wird von einem Gesundheitsinvestor angeführt.",
-      "source": "EU-Startups",
-      "category": "Finanzierungen",
-      "url": "https://www.eu-startups.com/2026/11/leipzig-based-jawbuddy-raises-e818k-to-help-people-reduce-jaw-pain-bruxism-and-tmj-related-tension/"
-    },
-    {
-      "title": "Crediflow AI erhält 1,8 Mio. Euro",
-      "summary": "Das Startup aus Manchester automatisiert die Bearbeitung gewerblicher Kredite.",
-      "source": "EU-Startups",
-      "category": "Finanzierungen",
-      "url": "https://www.eu-startups.com/2026/11/manchester-based-crediflow-ai-secures-e1-8-million-to-automate-commercial-loan-processing/"
-    },
-    {
-      "title": "Tallia: 4 Mio. Euro für KI-Recherche in Steuerkanzleien",
-      "summary": "Das Londoner Startup (früher Revax) baut eine KI-Plattform für Recherche und Entwürfe in Steuerkanzleien.",
-      "source": "EU-Startups",
-      "category": "Finanzierungen",
-      "url": "https://www.eu-startups.com/2026/11/london-based-tallia-raises-e4-million-to-bring-ai-powered-research-and-review-to-tax-firms/"
-    },
-    {
-      "title": "Viridi wandelt CO₂ in Chemieprodukte um und sammelt 2,6 Mio. Euro ein",
-      "summary": "Das britische Deep-Tech-Startup macht aus Abfall-CO₂ chemische Produkte. Die Runde soll die Technik skalieren.",
-      "source": "EU-Startups",
+      "title": "Deep-Tech-Investoren zu vorsichtig bei Ausgründungen",
+      "summary": "Laut Sifted sagen führende Investoren für Uni-Ausgründungen, dass Deep-Tech-Fonds zu risikoscheu sind und dadurch Chancen verpassen.",
       "category": "Deep Tech & Forschung",
-      "url": "https://www.eu-startups.com/2026/11/turning-pollution-into-everyday-products-southamptons-virdi-raises-e2-6-million-to-transform-waste/"
+      "url": "https://sifted.eu/articles/what-spinout-investors-know-that-most-deeptech-vcs-dont/",
+      "source": "Sifted"
     },
     {
-      "title": "Omen AI übernimmt Aquatic Labs für 16 Mio. Dollar",
-      "summary": "Zwei Startups, die sich mit dem Wasserbedarf von Rechenzentren befassen, schließen sich zusammen.",
-      "source": "TechCrunch Startups",
-      "category": "Exits & Übernahmen",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
+      "title": "74 europäische Photonik-Startups im Überblick",
+      "summary": "Sifted listet Startups, die Licht für die Anforderungen der KI-Ära nutzen.",
+      "category": "Deep Tech & Forschung",
+      "url": "https://sifted.eu/articles/photonics-mapped-74-european-startups-using-light-to-power-the-ai-era/",
+      "source": "Sifted"
     },
     {
-      "title": "STATION F: Gründer sammeln Rekordsumme von 2 Mrd. Euro ein",
-      "summary": "Der Pariser Startup-Campus nennt seine Future 40 für 2026. Die dortigen Startups haben so viel Kapital eingesammelt wie nie zuvor.",
-      "source": "EU-Startups",
-      "category": "Europa & Welt",
-      "url": "https://www.eu-startups.com/2026/11/station-f-unveils-2026-future-40-as-its-startups-raise-a-record-e2-billion/"
-    },
-    {
-      "title": "Ex-LocalGlobe-Partner schließt Debütfonds über 17 Mio. Dollar",
-      "summary": "Evertrue Capital hat seinen ersten Fonds geschlossen.",
-      "source": "Sifted",
-      "category": "Finanzierungen",
-      "url": "https://sifted.eu/articles/evertrue-capital-closes-17m-debut-fund/"
-    },
-    {
-      "title": "Finn-Gründer muss vier Monate nach Einhorn-Status als CEO gehen",
-      "summary": "Maximilian Wühr gibt den Chefposten beim Autoabo-Startup Finn ab. Gründerszene berichtet über die Hintergründe.",
-      "source": "Gründerszene",
+      "title": "Lovable-Apps legen sensible Nutzerdaten offen",
+      "summary": "Forscher haben laut Sifted festgestellt, dass mit Lovable gebaute Apps sensible Daten preisgeben.",
       "category": "Gründungen & Produkte",
-      "url": "https://www.businessinsider.de/gruenderszene/warum-finn-ceo-maximilian-wuehr-wirklich-seinen-posten-abgibt/"
+      "url": "https://sifted.eu/articles/lovable-apps-expose-sensitive-user-data-researchers-find/",
+      "source": "Sifted"
     },
     {
-      "title": "Kiewer Startup baut Empfänger für Videobilder russischer Drohnen",
-      "summary": "Das Gerät wiegt etwa 280 Gramm und zeigt Soldaten die Videobilder gegnerischer Drohnen. Der Vorteil könnte schwinden, wenn Russland auf digitale Übertragung und KI-Drohnen umsteigt.",
-      "source": "TechCrunch Startups",
+      "title": "Deutscher Scout bei einem Top-Investor werden",
+      "summary": "Zwei Scouts amerikanischer Top-VCs erklären der Gründerszene, was die Rolle bedeutet.",
       "category": "Europa & Welt",
-      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/"
+      "url": "https://www.businessinsider.de/gruenderszene/fuer-andreessen-horowitz-investieren-so-wird-man-deutscher-scout-beim-top-vc/",
+      "source": "Gründerszene"
+    },
+    {
+      "title": "Welche DHDL-Deals wirklich zustande kamen",
+      "summary": "In Staffel 20 von „Die Höhle der Löwen“ traten 44 Startups an. Gründerszene zeigt, welche Deals nach der Show tatsächlich abgeschlossen wurden.",
+      "category": "Gründungen & Produkte",
+      "url": "https://www.businessinsider.de/gruenderszene/dhdl-die-10-besten-deals-der-neuesten-staffel/",
+      "source": "Gründerszene"
+    },
+    {
+      "title": "Glovo-Alumni gründeten Firmen im Wert von 461 Millionen Euro",
+      "summary": "Beim vierten Startup Campus in Barcelona zeigte Glovo Forschung zum Gründungseffekt ehemaliger Mitarbeiter.",
+      "category": "Europa & Welt",
+      "url": "https://www.eu-startups.com/2026/11/glovos-e461-million-startup-multiplier-effect-showcased-at-annual-startup-campus/",
+      "source": "EU-Startups"
     }
-  ],
-  "date": "2026-11-04"
+  ]
 }
