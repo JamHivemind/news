@@ -59,6 +59,37 @@
       "focus": "Nur Meldungen über den Hamburger SV (nicht andere Vereine mit HSV im Namen)."
     },
     {
+      "name": "NDR (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Andr.de%20HSV&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur HSV-Meldungen."
+    },
+    {
+      "name": "Sportschau (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Asportschau.de%20HSV&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur HSV-Meldungen."
+    },
+    {
+      "name": "SPORT1 (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Asport1.de%20%22Hamburger%20SV%22&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur HSV-Meldungen, keine Gerüchte ohne Quelle."
+    },
+    {
+      "name": "Sportschau Bundesliga",
+      "url": "https://www.sportschau.de/fussball/bundesliga/index~rss2.xml",
+      "type": "rss",
+      "focus": "Nur HSV-Bezug oder Meldungen über die nächsten Gegner."
+    },
+    {
+      "name": "Google News: HSV Frauen & Nachwuchs",
+      "url": "https://news.google.com/rss/search?q=%22HSV%20Frauen%22%20OR%20%22HSV%20II%22%20OR%20%22HSV%20U19%22&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 168,
+      "focus": "Frauen, zweite Mannschaft, Nachwuchs. Reicht 7 Tage zurück."
+    },
+    {
       "name": "Anstoß – der HSV-Newsletter",
       "type": "gmail",
       "query": "from:newsletter@abendblatt.de subject:Anstoß newer_than:3d",
