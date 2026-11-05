@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-05T15:09:54.025Z",
+ "fetched": "2026-11-05T19:03:52.270Z",
  "hours": 48,
  "sources": [
   {
@@ -31,14 +31,56 @@
   },
   {
    "name": "Gründerszene",
-   "ok": false,
-   "error": "HTTP 403",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "„Keine Entscheidung gegen Max“: Warum der Finn-Gründer nur vier Monate nach dem Unicorn-Status als CEO gehen musste",
+     "url": "https://www.businessinsider.de/gruenderszene/finn-warum-der-gruender-nach-nur-4-monate-gehen-musste/",
+     "date": "2026-11-05T15:05:01.000Z",
+     "text": "Trotz Einhorn-Status musste Maximilian Wühr seinen Posten als Finn-Chef abgeben. Gründerszene kennt die Hintergründe."
+    },
+    {
+     "title": "Ehepaar gründet mit Freunden eine Bagel-Kette – und will jetzt 50 Stores eröffnen",
+     "url": "https://www.businessinsider.de/gruenderszene/ehepaar-gruendet-mit-freunden-eine-bagel-kette-und-will-50-stores-eroeffnen/",
+     "date": "2026-11-05T10:34:16.000Z",
+     "text": "Pia und René Westphal haben gemeinsam mit zwei Freunden die New York Bagel Bar gegründet. In den nächsten fünf Jahren wollen sie 50 Läden eröffnen."
+    },
+    {
+     "title": "Sequoia schließt Londoner Büro, will weniger Meetings und Hierarchie",
+     "url": "https://www.businessinsider.de/gruenderszene/sequoia-schliesst-londoner-buero-will-weniger-meetings-und-hierarchie/",
+     "date": "2026-11-05T10:32:12.000Z",
+     "text": "Sequoia Capital schließt seine Niederlassung in London. Zudem wird die Führungshierarchie abgeflacht."
+    },
+    {
+     "title": "Europas größtes Business-Angel-Netzwerk bringt Gründergeist ins Klassenzimmer",
+     "url": "https://www.businessinsider.de/gruenderszene/sponsored-post/companisto-europas-groesstes-business-angel-netzwerk-foerdert-gruendergeist/",
+     "date": "2026-11-05T10:20:00.000Z",
+     "text": "Companisto ist das investmentstärkste Business-Angel-Netzwerk der EU – mit über 6500 Investoren und einer Mission: Gründungsgeist fördern."
+    },
+    {
+     "title": "Das waren die besten DHDL-Deals der neusten Staffel",
+     "url": "https://www.businessinsider.de/gruenderszene/dhdl-die-top-10-besten-deals-der-neuesten-staffel/",
+     "date": "2026-11-05T07:09:55.000Z",
+     "text": "In der 20. Staffel von „Die Höhle der Löwen“ waren 44 Startups am Start. Diese DHDL-Deals haben nach der Show tatsächlich stattgefunden."
+    },
+    {
+     "title": "Wenn Teams wachsen: Warum ein einzelnes Konto oft nicht mehr ausreicht",
+     "url": "https://www.businessinsider.de/gruenderszene/sponsored-post/wenn-teams-wachsen-warum-ein-einzelnes-konto-oft-nicht-mehr-ausreicht-holvi/",
+     "date": "2026-11-04T10:15:00.000Z",
+     "text": "Erfahren Sie, wie ein Geschäftskonto von Holvi die Organisation von Unternehmensausgaben für wachsende Teams erleichtert."
+    }
+   ]
   },
   {
    "name": "EU-Startups",
    "ok": true,
    "items": [
+    {
+     "title": "The EIC confirms €1.8 billion for startups in 2027, with expanded defence and women-led startup support",
+     "url": "https://www.eu-startups.com/2026/11/the-eic-confirms-e1-8-billion-for-startups-and-deeptech-in-2027-with-expanded-defence-and-women-led-startup-support/",
+     "date": "2026-11-05T15:47:02.000Z",
+     "text": "The European Commission has adopted the 2027 European Innovation Council (EIC) Work Programme, allocating €1.8 billion to support DeepTech startups, scale-ups and researchers across Europe. The funding package aims to help promising technologies move from early-stage research to commercialisation, while improving access to investment for women-led and DefenceTech companies. Ekaterina Zaharieva, Commissioner for Startups, Research […] The post The EIC confirms €1.8 billion for startups in 2027, w"
+    },
     {
      "title": "Germany’s VÆRIDION raises €124 million to bring electric regional flights closer to reality",
      "url": "https://www.eu-startups.com/2026/11/germanys-vaeridion-raises-e124-million-to-bring-electric-regional-flights-closer-to-reality/",
@@ -92,12 +134,6 @@
      "url": "https://www.eu-startups.com/2026/11/tired-of-roku-and-the-like-spains-titan-os-just-raised-e40-million-to-provide-you-with-an-alternative/",
      "date": "2026-11-04T15:57:43.000Z",
      "text": "Titan OS, a Barcelona-based technology, entertainment and advertising company, today announced a €40 million ($46 million) financing round to further develop their smart TV Operating System. The round saw participation from existing investors Highland Europe and Mangrove Capital Partners as well as a credit facility from funds and accounts managed by BlackRock. This follows their […] The post Tired of Roku and the like? Spain’s Titan OS just raised €40 million to provide you with an alternative."
-    },
-    {
-     "title": "Return secures €835 million financing to expand battery storage capacity in Germany",
-     "url": "https://www.eu-startups.com/2026/11/return-secures-e835-million-financing-to-expand-battery-storage-capacity-in-germany/",
-     "date": "2026-11-04T15:22:31.000Z",
-     "text": "Amsterdam-based Return, an energy storage startup specialising in large-scale battery systems and energy flexibility services, has secured €835 million in portfolio financing underwritten by Deutsche Bank and Rabobank. The financing will support the company’s expansion in Germany, where it aims to install at least 1 GW of battery storage capacity annually from 2027 onwards. This […] The post Return secures €835 million financing to expand battery storage capacity in Germany appeared first on EU-"
     }
    ]
   },
@@ -179,6 +215,42 @@
    "ok": true,
    "items": [
     {
+     "title": "Harbinger raises $240M after expanding into defense",
+     "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+     "date": "2026-11-05T17:52:44.000Z",
+     "text": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military."
+    },
+    {
+     "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+     "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+     "date": "2026-11-05T17:11:48.000Z",
+     "text": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company."
+    },
+    {
+     "title": "Axiom Math wants to keep AI slop out of mathematics",
+     "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+     "date": "2026-11-05T16:16:45.000Z",
+     "text": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries."
+    },
+    {
+     "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+     "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+     "date": "2026-11-05T15:40:34.000Z",
+     "text": "Zipline raised $1.5 billion and ramped up its partnership with Walmart."
+    },
+    {
+     "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+     "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+     "date": "2026-11-05T14:42:00.000Z",
+     "text": "Aina's ring can also take calls and help you dictate notes on your Mac."
+    },
+    {
+     "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+     "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+     "date": "2026-11-05T13:00:00.000Z",
+     "text": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials."
+    },
+    {
      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
      "date": "2026-11-04T22:13:16.000Z",
@@ -207,12 +279,6 @@
      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
      "date": "2026-11-03T19:34:43.000Z",
      "text": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
-    },
-    {
-     "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-     "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
-     "date": "2026-11-03T16:49:09.000Z",
-     "text": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles."
     }
    ]
   },
@@ -227,6 +293,13 @@
      "date": "2026-11-05T08:00:00.000Z",
      "text": "IFB Innovationsstarter steuern auf Rekordjahr zu Hamburg.de",
      "via": "Hamburg.de"
+    },
+    {
+     "title": "Hamburg: Ärger um E-Audi: Miniatur-Wunderland-Gründer fährt Auto, das hier niemand kaufen darf - GA online",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMTU2eXBzYWZrdDVpYm5mR3VuekNjTVpIUkFfcW1lUjI5cnNiTklEeDZEb21XUzFHNHJTelg2cTJ0dDZEdHZUMk1JZkFnMFA4OENzVEJtVUhSYUZyaDUxN1cwenR6bDVYZ0ZZa3dNNEpOSGRoTGpCVWZiYzhxUk9TM19EVUl0Rk5zNXcyUUpfV2VzSWlhMUdMbkJLWXNFRTRLdllnWDNSOWlQY3RGeDE0WHRKMDlMcVFkSnUxb2tqNGFqa09NMmc?oc=5",
+     "date": "2026-11-05T16:30:00.000Z",
+     "text": "Hamburg: Ärger um E-Audi: Miniatur-Wunderland-Gründer fährt Auto, das hier niemand kaufen darf GA online",
+     "via": "GA online"
     },
     {
      "title": "Star-Club-Gründer Horst Fascher ist tot - FAZ",
@@ -255,13 +328,6 @@
      "date": "2026-11-02T00:58:05.000Z",
      "text": "Er brachte die Beatles nach Hamburg – jetzt ist er tot t-online – Hamburg",
      "via": "t-online – Hamburg"
-    },
-    {
-     "title": "Miniaturwelten-Chef Gerrit Braun fährt China-AUDI: Ist er zufrieden? - Auto Bild",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2hWZEpsN1dkWDdvZG50MFdYd3F1ZkZ4UXpYNE5DWjIzbVlicUp1UFVTMVowek5qdUNwS1BNN0cybXVUbnBXYWIwNmtPb05WUExtRmk2R3pnUDZ2aVA3T3RzUXM1YnVuSTNhZm5RaGctYi1pQ2hCZzQ1cWxCVG5NMzdPc2lGaE0wT2wwN2E4aWcyVDFMWmpkZWFTcmFLd0owS0prWG9R?oc=5",
-     "date": "2026-11-02T14:23:00.000Z",
-     "text": "Miniaturwelten-Chef Gerrit Braun fährt China-AUDI: Ist er zufrieden? Auto Bild",
-     "via": "Auto Bild"
     }
    ]
   },
@@ -271,24 +337,31 @@
    "ok": true,
    "items": [
     {
-     "title": "30 Millionen Dollar für FluoRok - Startbase",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xV2YwY0lLLXYxMnJ6X210V0JoMnZEcFdhWHNUNjFhNTlqUGIxbE1CRUNLb1pjUTdIMjBxU0F5a3E1X0Z3ekY3Y1Q5UTllaU1jQ1gxTWFWd01xc0pvZmxHMjFOemVCRC1Ua2UxUFVCWXA?oc=5",
-     "date": "2026-11-05T10:59:00.000Z",
-     "text": "30 Millionen Dollar für FluoRok Startbase",
-     "via": "Startbase"
-    },
-    {
-     "title": "Elektrisch in die Luft: EU-Millionen und Kaufzusagen für Flugzeug-Startup Vaeridion - Tagesspiegel",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN1cwRVN4WVhyUnFZamU0ejJ6MmZoUjZqcmxJTUxWeksyWEcwYmx1RS1ndHBndnhIZXFId21OSm1YNDJkTkV3ZGNOZFh6aGp2bnctRk1TYVVsX1NSX1Rna0hIZ0pSbEhodk5nYktIYlg2dVNmMGFJRUVlY2hPVzVYZnZBV2dmQ0l5NjNNbVR4VmdIYWN3UWxKTlJpcGI1UEVzNXZOdVlGVzNabVh2ZmhyY2VJZEhmR3luaHlWRDMydmprc0ZLZzlWUVBQWU5nQXFZeDZodWtB?oc=5",
-     "date": "2026-11-05T08:11:04.000Z",
-     "text": "Elektrisch in die Luft: EU-Millionen und Kaufzusagen für Flugzeug-Startup Vaeridion Tagesspiegel",
-     "via": "Tagesspiegel"
-    },
-    {
      "title": "Green Voltis erhält 13,5 Millionen Euro für KI-gesteuerte Batteriespeicher und Rechenzentren - Startbase",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXNLc2VNSGplM0l1LTBpelNxMHYtLWVZLTlHNm5qb1BaMnRURmRlanc0TktyVG91QWxGeFlsRUdJSDlRZmNMdTB1d3BPRlEwX2x0Sk1wTW5pSkI4S05IZWhoaHNXbXJaOENqNWkySTdva0ZDWnlyLXQ5bFBQM1lDN3AwdmZmQzhXTFJlRGY0by14RVZ4dnIzNUlLblJvUkttTXFQRjNVWXFEejd3N3RJc3NJTmotNzhHZmN3QmhkOUZ6dw?oc=5",
      "date": "2026-11-05T09:24:46.000Z",
      "text": "Green Voltis erhält 13,5 Millionen Euro für KI-gesteuerte Batteriespeicher und Rechenzentren Startbase",
+     "via": "Startbase"
+    },
+    {
+     "title": "EU-Millionen und Kaufzusagen für Flugzeug-Startup Vaeridion - aero.de",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1MwdmRjRHRjTWxGaXpkc1VBQ0FheFhzY2ZpcFltN24ta21XcFBKZkszMVgyZ2FUYXpXLXJYZkNMbFJ3WkNfYkdkOHh6ZE5sOGZhYUhFenU5TTc4Q0JmQnBURVBqeFRYVzEwbGZsUThnZ3E3ZzZZRjBMZG8xNFYydERGenRIbnl5c191NnhiTXVYNDV0NnpFcGhBbjA?oc=5",
+     "date": "2026-11-05T08:26:42.000Z",
+     "text": "EU-Millionen und Kaufzusagen für Flugzeug-Startup Vaeridion aero.de",
+     "via": "aero.de"
+    },
+    {
+     "title": "Vaeridion sichert sich 124 Millionen Euro für Elektroflugzeug - FAZ",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2U2ZHZhMEIxWGNMdlM0d2pGQjRvcXdNRmxQMlZlcWQ1alcwdkgtS2x4N3F6d1JNVTJfdnJBck1LYl9HOVZpYy1qYlRfTnB4aXNuWHpDOHp2VXE3THFsSGZ0R2g1Zndza2ZfZ2xMWjB4dm1WLTZwMk44MlVPSTFVTHl3ektWSHhVaExtc3piRnZhUWpjRmpfTlVVNm1rRkdfU0h6VnkySy1kbTZjNUhtVkJKUU1zNENGZG9Ib09iMXZKN0VmMmhGbFUyRTBQUQ?oc=5",
+     "date": "2026-11-05T08:01:31.000Z",
+     "text": "Vaeridion sichert sich 124 Millionen Euro für Elektroflugzeug FAZ",
+     "via": "FAZ"
+    },
+    {
+     "title": "30 Millionen Dollar für FluoRok - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xV2YwY0lLLXYxMnJ6X210V0JoMnZEcFdhWHNUNjFhNTlqUGIxbE1CRUNLb1pjUTdIMjBxU0F5a3E1X0Z3ekY3Y1Q5UTllaU1jQ1gxTWFWd01xc0pvZmxHMjFOemVCRC1Ua2UxUFVCWXA?oc=5",
+     "date": "2026-11-05T10:59:00.000Z",
+     "text": "30 Millionen Dollar für FluoRok Startbase",
      "via": "Startbase"
     },
     {
