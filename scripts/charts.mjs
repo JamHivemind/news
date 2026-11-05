@@ -22,7 +22,7 @@ function barPath(x, y, w, h, r = 4) {
 }
 
 // Waagerechte Balken, eine Reihe. items: [{label, value, tip?}]
-export function hBars(items, { color = "var(--s1)", unit = "", max: forceMax } = {}) {
+export function hBars(items, { color = "var(--s1)", unit = "", max: forceMax, decimals = 0 } = {}) {
   if (!items.length) return `<div class="chart-empty">Noch keine Daten</div>`;
   const rowH = 30, labelW = 168, valueW = 44, W = 520, plotW = W - labelW - valueW;
   const max = forceMax || Math.max(...items.map(i => i.value)) || 1;
@@ -30,13 +30,13 @@ export function hBars(items, { color = "var(--s1)", unit = "", max: forceMax } =
   let g = "";
   items.forEach((it, i) => {
     const y = i * rowH + 7, w = Math.max(2, (it.value / max) * plotW), h = rowH - 14;
-    const tip = it.tip || `${it.label}: ${fmt(it.value)}${unit}`;
+    const tip = it.tip || `${it.label}: ${fmt(it.value, decimals)}${unit}`;
     g += `<text x="${labelW - 10}" y="${y + h / 2}" class="lab" text-anchor="end" dominant-baseline="central">${esc(it.label)}</text>`;
     g += `<rect x="${labelW}" y="${i * rowH}" width="${plotW + valueW}" height="${rowH}" class="hit" data-tip="${esc(tip)}"/>`;
     // rechts gerundet: als gedrehter Balken zeichnen
     const r = Math.min(4, h / 2, w);
     g += `<path d="M${labelW},${y}H${labelW + w - r}Q${labelW + w},${y} ${labelW + w},${y + r}V${y + h - r}Q${labelW + w},${y + h} ${labelW + w - r},${y + h}H${labelW}Z" style="fill:${color}" pointer-events="none"/>`;
-    g += `<text x="${labelW + w + 6}" y="${y + h / 2}" class="val" dominant-baseline="central">${fmt(it.value)}${unit}</text>`;
+    g += `<text x="${labelW + w + 6}" y="${y + h / 2}" class="val" dominant-baseline="central">${fmt(it.value, decimals)}${unit}</text>`;
   });
   return `<svg viewBox="0 0 ${W} ${H}" class="chart" role="img" aria-label="Balkendiagramm">${g}</svg>`;
 }

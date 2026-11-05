@@ -1,0 +1,43 @@
+{
+  "order": 3,
+  "icon": "🧾",
+  "title": "Steuern & Standorte",
+  "description": "Erbschaft, Grundsteuer, Grunderwerbsteuer, Gewerbesteuer-Oasen und Sonderwirtschaftszonen in Deutschland: was sich ändert und wo, mit Karte",
+  "leser": "Leute aus Immobilienwirtschaft und Projektentwicklung, die wissen wollen, welche Steueränderungen Kauf, Bestand, Erbe und Standortwahl betreffen",
+  "schwerpunkt": "Nur deutsches Steuerrecht mit Bezug zu Immobilien, Erbschaft/Schenkung und Standorten: Erbschaft- und Schenkungsteuer (v. a. BVerfG-Verfahren und Reform), Grundsteuer (Modelle der Länder, BFH-Urteile, Hebesätze), Grunderwerbsteuer (Sätze der Länder, Share Deals), Gewerbesteuer-Hebesätze und Steueroasen, Sonderwirtschaftszonen, Freizonen, Fördergebiete, Jahressteuergesetz und Abschreibungen (AfA, Restnutzungsdauer). Einkommensteuer-Tipps für Privatleute, Lohnsteuer und Steuer-Werbung ignorieren. Immer sagen, ob etwas beschlossen, geplant oder nur gefordert ist. Keine Steuerberatung, Praxis-Tipps nur allgemein. PFLEGE: Meldet eine Quelle eine Änderung bei Sätzen, Modellen, Zonen oder Verfahrensterminen, zusätzlich steuern/data/zonen.json anpassen (Wert, quelle, quelleUrl, stand). Ist die Quelle unsicher, nur in 'offen' eintragen, Werte nicht ändern.",
+  "categories": [
+    "Erbschaft & Schenkung",
+    "Grundsteuer",
+    "Grunderwerbsteuer",
+    "Gewerbesteuer & Standorte",
+    "Sonderzonen & Förderung",
+    "Gesetzgebung & Urteile"
+  ],
+  "sources": [
+    { "name": "Google News: Erbschaftsteuer", "url": "https://news.google.com/rss/search?q=Erbschaftsteuer%20OR%20Schenkungsteuer&hl=de&gl=DE&ceid=DE:de", "type": "rss" },
+    { "name": "Google News: Grundsteuer", "url": "https://news.google.com/rss/search?q=Grundsteuer%20Hebesatz%20OR%20Grundsteuermodell%20OR%20%22Grundsteuer%20Urteil%22&hl=de&gl=DE&ceid=DE:de", "type": "rss", "focus": "Länder- und bundesweite Meldungen, keine Einzelfall-Ratgeber" },
+    { "name": "Google News: Grunderwerbsteuer", "url": "https://news.google.com/rss/search?q=Grunderwerbsteuer&hl=de&gl=DE&ceid=DE:de", "type": "rss" },
+    { "name": "Google News: Gewerbesteuer", "url": "https://news.google.com/rss/search?q=%22Gewerbesteuer%22%20Hebesatz%20OR%20Steueroase&hl=de&gl=DE&ceid=DE:de", "type": "rss" },
+    { "name": "Google News: Sonderwirtschaftszonen", "url": "https://news.google.com/rss/search?q=Sonderwirtschaftszone%20OR%20Freizone%20OR%20Freihafen%20Bremerhaven%20OR%20F%C3%B6rdergebiet%20Steuer&hl=de&gl=DE&ceid=DE:de", "type": "rss" },
+    { "name": "Google News: BFH und BVerfG", "url": "https://news.google.com/rss/search?q=Bundesfinanzhof%20OR%20%22BFH%22%20Urteil%20Steuer%20OR%20Bundesverfassungsgericht%20Erbschaftsteuer&hl=de&gl=DE&ceid=DE:de", "type": "rss" },
+    { "name": "Google News: Steuergesetze", "url": "https://news.google.com/rss/search?q=Jahressteuergesetz%20OR%20Steuerreform%20Bundestag%20OR%20Bundesfinanzministerium%20Steuer&hl=de&gl=DE&ceid=DE:de", "type": "rss" },
+    { "name": "LTO (Google News)", "url": "https://news.google.com/rss/search?q=site%3Alto.de%20Steuer&hl=de&gl=DE&ceid=DE:de", "type": "rss" },
+    { "name": "Haufe Steuern (Google News)", "url": "https://news.google.com/rss/search?q=site%3Ahaufe.de%20Grundsteuer%20OR%20Erbschaftsteuer%20OR%20Grunderwerbsteuer&hl=de&gl=DE&ceid=DE:de", "type": "rss" }
+  ],
+  "entities": [
+    ["Bundesverfassungsgericht", "\\b(Bundesverfassungsgericht|BVerfG|Karlsruhe)\\b"],
+    ["Bundesfinanzhof", "\\b(Bundesfinanzhof|BFH)\\b", ""],
+    ["Bundesfinanzministerium", "\\b(Bundesfinanzminister\\w*|BMF|Klingbeil)\\b"],
+    ["Bayern", "\\b(Bayern|bayerisch\\w*|Söder|Füracker)\\b"],
+    ["Hamburg", "\\bHamburg\\w*"],
+    ["NRW", "\\b(NRW|Nordrhein-Westfalen)\\b"],
+    ["Hessen", "\\bHessen\\b"],
+    ["Baden-Württemberg", "\\bBaden-Württemberg\\b"],
+    ["Haus & Grund", "\\bHaus (&|und) Grund\\b"],
+    ["Steuerzahlerbund", "\\b(Steuerzahlerbund|Bund der Steuerzahler)\\b"],
+    ["Monheim", "\\bMonheim\\b"]
+  ],
+  "entitiesTitle": "Wer in den Meldungen vorkommt",
+  "zonen": { "heimatLand": "HH" },
+  "kennzahlenQuellen": "eigene Zählung; Steuersätze, Modelle und Termine aus steuern/data/zonen.json mit Quelle und Stand je Wert"
+}

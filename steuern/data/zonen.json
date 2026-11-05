@@ -1,0 +1,96 @@
+{
+  "_hinweis": "Von Hand bzw. von der Routine gepflegt. Jede Zahl braucht quelle + stand. Ändert eine Meldung einen Wert, hier nachziehen und stand anpassen. Fehlt eine sichere Quelle, Wert NICHT ändern, sondern in offen eintragen.",
+  "stand": "2026-11-05",
+  "grunderwerbsteuer": {
+    "stand": "2026-11-05",
+    "quelle": "Landesgesetze, Abgleich mehrerer Übersichten (u. a. mehrwertsteuerrechner.de, rechenbar.de); vor Entscheidungen beim Landesfinanzministerium prüfen",
+    "quelleUrl": "https://www.mehrwertsteuerrechner.de/grunderwerbsteuer/",
+    "saetze": {
+      "BW": 5.0, "BY": 3.5, "BE": 6.0, "BB": 6.5, "HB": 5.5, "HH": 5.5, "HE": 6.0, "MV": 6.0,
+      "NI": 5.0, "NW": 6.5, "RP": 5.0, "SL": 6.5, "SN": 5.5, "ST": 5.0, "SH": 6.5, "TH": 5.0
+    },
+    "letzteAenderungen": [
+      { "land": "HB", "text": "Bremen 5,0 → 5,5 % seit 01.07.2025" },
+      { "land": "TH", "text": "Thüringen 6,5 → 5,0 % seit 01.01.2024" },
+      { "land": "SN", "text": "Sachsen 3,5 → 5,5 % seit 01.01.2023" },
+      { "land": "HH", "text": "Hamburg 4,5 → 5,5 % seit 01.01.2023" }
+    ]
+  },
+  "grundsteuer": {
+    "stand": "2026-11-05",
+    "quelle": "Landesgrundsteuergesetze; BFH-Urteile zu Bundesmodell und BW-Modell",
+    "quelleUrl": "https://www.bundesfinanzhof.de/de/entscheidungen/entscheidungen-online/",
+    "modelle": {
+      "bund": { "label": "Bundesmodell", "farbe": "var(--z1)" },
+      "bund+": { "label": "Bundesmodell, eigene Messzahlen", "farbe": "var(--z2)" },
+      "boden": { "label": "Bodenwertmodell", "farbe": "var(--z3)" },
+      "flaeche": { "label": "Flächenmodell", "farbe": "var(--z4)" },
+      "flaeche+lage": { "label": "Fläche + Lage", "farbe": "var(--z5)" }
+    },
+    "laender": {
+      "BW": ["boden", "Modifiziertes Bodenwertmodell. BFH hat es im April 2026 bestätigt (II R 26/24)."],
+      "BY": ["flaeche", "Reines Flächenmodell, Wert des Grundstücks spielt keine Rolle."],
+      "BE": ["bund", "Bundesmodell."],
+      "BB": ["bund", "Bundesmodell."],
+      "HB": ["bund", "Bundesmodell."],
+      "HH": ["flaeche+lage", "Wohnlagemodell (Fläche + gute/normale Wohnlage). BFH verhandelt am 11.11.2026 (II R 15/25)."],
+      "HE": ["flaeche+lage", "Flächen-Faktor-Verfahren. BFH verhandelt am 11.11.2026 (II R 12/25)."],
+      "MV": ["bund", "Bundesmodell."],
+      "NI": ["flaeche+lage", "Flächen-Lage-Modell."],
+      "NW": ["bund", "Bundesmodell. Gemeinden dürfen getrennte Hebesätze für Wohnen und Gewerbe festlegen, rechtlich umstritten."],
+      "RP": ["bund", "Bundesmodell."],
+      "SL": ["bund+", "Bundesmodell mit eigenen Steuermesszahlen."],
+      "SN": ["bund+", "Bundesmodell mit eigenen Steuermesszahlen."],
+      "ST": ["bund", "Bundesmodell."],
+      "SH": ["bund", "Bundesmodell."],
+      "TH": ["bund", "Bundesmodell."]
+    }
+  },
+  "gewerbesteuer": {
+    "durchschnitt": { "wert": 410, "jahr": 2025, "quelle": "Destatis", "quelleUrl": "https://www.destatis.de/DE/Themen/Staat/Steuern/Steuereinnahmen/_inhalt.html" },
+    "minimum": { "wert": 200, "quelle": "§ 16 Abs. 4 GewStG" },
+    "oasen": [
+      { "name": "Langenwolschendorf", "land": "TH", "hebesatz": 200, "jahr": 2025, "lat": 50.70, "lon": 11.90, "quelle": "Handelsblatt/Empirica-Erhebung 2025" },
+      { "name": "Giersleben", "land": "ST", "hebesatz": 200, "jahr": 2024, "lat": 51.77, "lon": 11.56, "quelle": "Destatis-Regionaldatenbank, Berichtsjahr 2024" },
+      { "name": "Schönefeld", "land": "BB", "hebesatz": 240, "jahr": 2025, "lat": 52.39, "lon": 13.50, "quelle": "Handelsblatt/Empirica-Erhebung 2025" },
+      { "name": "Monheim am Rhein", "land": "NW", "hebesatz": 250, "jahr": 2025, "lat": 51.09, "lon": 6.89, "quelle": "DIHK-Hebesatzumfrage 2025" },
+      { "name": "Leverkusen", "land": "NW", "hebesatz": 250, "jahr": 2025, "lat": 51.03, "lon": 7.00, "quelle": "DIHK-Hebesatzumfrage 2025" },
+      { "name": "Hamburg (zum Vergleich)", "land": "HH", "hebesatz": 470, "jahr": 2025, "lat": 53.55, "lon": 10.00, "quelle": "Freie und Hansestadt Hamburg", "vergleich": true }
+    ]
+  },
+  "zonen": [
+    { "name": "Freizone Bremerhaven", "art": "freizone", "status": "aktiv", "lat": 53.57, "lon": 8.56,
+      "text": "Letzte Freizone Deutschlands (Zoll). Erweiterung um BLG-Gelände im Kaiserhafen beantragt, liegt beim BMF.",
+      "quelle": "Senat Bremen, Vorlage 16.06.2026", "quelleUrl": "https://www.rathaus.bremen.de/sixcms/media.php/13/20260616_top_15_Freihafenzone_Bremerhaven.pdf" },
+    { "name": "Freizone Cuxhaven", "art": "freizone", "status": "endet", "lat": 53.87, "lon": 8.70,
+      "text": "Per Gesetz zum 01.01.2027 aufgehoben (Bundesrat 19.12.2025). Grund: EU-Zollrecht macht Freizonen kaum noch vorteilhaft.",
+      "quelle": "KPMG, Gesetz zur Aufhebung der Freizone Cuxhaven", "quelleUrl": "https://kpmg.com/de/de/home/themen/2025/11/freizone-cuxhaven-aufhebung.html" },
+    { "name": "Ehem. Intel-Gelände Magdeburg", "art": "vorschlag", "status": "Vorschlag", "lat": 52.07, "lon": 11.62,
+      "text": "FDP Sachsen-Anhalt schlägt eine Sonderwirtschaftszone mit Steuervorteilen und schnellen Genehmigungen vor. Kein Gesetzentwurf.",
+      "quelle": "Volksstimme/dpa, 01.09.2026", "quelleUrl": "https://www.volksstimme.de/panorama/umfrage-ergibt-zuspruch-fur-sonderwirtschaftszonen-4311396" },
+    { "name": "Chemiestandort Leuna", "art": "vorschlag", "status": "Vorschlag", "lat": 51.32, "lon": 12.02,
+      "text": "Zweite von der FDP Sachsen-Anhalt vorgeschlagene Sonderwirtschaftszone. Kein Gesetzentwurf.",
+      "quelle": "Volksstimme/dpa, 01.09.2026", "quelleUrl": "https://www.volksstimme.de/panorama/umfrage-ergibt-zuspruch-fur-sonderwirtschaftszonen-4311396" }
+  ],
+  "tracker": [
+    { "thema": "Erbschaftsteuer", "titel": "BVerfG: Bayern will eigene Länderregeln (1 BvF 1/23)", "status": "verhandelt",
+      "stand": "Mündliche Verhandlung 12.10.2026. Senat wirkte skeptisch, eigene Länderregeln gelten als unwahrscheinlich.", "naechstes": "Urteil, eher 2027", "datum": "2027",
+      "quelleUrl": "https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/erbschaftsteuer-bverfg-bayern-klage-verhandlung-bund-laender-2026-10-12" },
+    { "thema": "Erbschaftsteuer", "titel": "BVerfG: Verschonung von Betriebsvermögen (1 BvR 804/22)", "status": "verhandelt",
+      "stand": "Mündliche Verhandlung 13.10.2026. Ob die Steuervorteile für große Firmenerbschaften fallen, ist offen.", "naechstes": "Urteil, eher 2027", "datum": "2027",
+      "quelleUrl": "https://www.mpg.de/26894289/erbschaftsteuer-bundesverfassungsgericht-entscheidet" },
+    { "thema": "Erbschaftsteuer", "titel": "Reform der Bundesregierung", "status": "wartet",
+      "stand": "Bundesregierung will nach dem Urteil reformieren. Kanzler Merz lehnt eigene Länderregeln ab.", "naechstes": "Gesetzentwurf nach dem Urteil", "datum": "",
+      "quelleUrl": "https://taz.de/Erbschaftsteuer-vor-Gericht/!6220802/" },
+    { "thema": "Grundsteuer", "titel": "BFH: Hessen- und Hamburg-Modell (II R 12/25, II R 15/25)", "status": "termin",
+      "stand": "Bundesmodell (2025/26) und BW-Bodenwertmodell (April 2026) hat der BFH schon bestätigt.", "naechstes": "Mündliche Verhandlung", "datum": "2026-11-11",
+      "quelleUrl": "https://www.roedl.com/insights/ausgabe-3-2026-grundsteuer-verfassungsmaessigkeit-bundesmodell-fondsetablierungskosten/" },
+    { "thema": "Gesetzgebung", "titel": "Jahressteuergesetz 2026", "status": "im Bundestag",
+      "stand": "Bundesrat hat am 25.09.2026 Stellung genommen (u. a. Restnutzungsdauer bei Immobilien einschränken).", "naechstes": "2./3. Lesung Bundestag (geplant), danach Bundesrat", "datum": "2026-11-13",
+      "quelleUrl": "https://www.pkf.de/artikel/jahressteuergesetz-2026-aktueller-stand-und-weitere-entwicklungen-im-gesetzgebungsverfahren" },
+    { "thema": "Zonen", "titel": "Freizone Cuxhaven wird aufgehoben", "status": "beschlossen",
+      "stand": "Gesetz verabschiedet, Bundesrat 19.12.2025.", "naechstes": "Freizone endet", "datum": "2027-01-01",
+      "quelleUrl": "https://kpmg.com/de/de/home/themen/2025/11/freizone-cuxhaven-aufhebung.html" }
+  ],
+  "offen": []
+}

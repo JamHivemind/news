@@ -10,6 +10,7 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { hBars, columns, lines, legend, fmt } from "./charts.mjs";
 import { renderFootball } from "./football.mjs";
+import { renderZonen } from "./zonen.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const loadJson = (file, fallback) => { try { return JSON.parse(readFileSync(file, "utf8")); } catch { return fallback; } };
@@ -75,7 +76,7 @@ function entitiesOf(e, entities) {
   return entities.filter(([, re, fl]) => new RegExp(re, fl ?? "i").test(t)).map(([n]) => n);
 }
 
-function renderDashboard(cfg, manifest, date, metrics) {
+function renderDashboard(cfg, manifest, date, metrics, dir) {
   const order = cfg.categories;
   const briefs = manifest.briefs.filter(b => b.date <= date).sort((a, b) => a.date.localeCompare(b.date));
   const cur = briefs.at(-1), last7 = briefs.slice(-7), prev = briefs.slice(-8, -1);
@@ -114,8 +115,13 @@ function renderDashboard(cfg, manifest, date, metrics) {
   const fb = cfg.football ? renderFootball(cfg, metrics, panel, tile) : { fan: "", tiles: "", panels: "" };
   kpis = fb.tiles + kpis;
 
+  // Steuern & Standorte: Karte, Tracker, Vergleiche (data/zonen.json)
+  const zn = cfg.zonen && dir ? renderZonen(cfg, loadJson(join(dir, "data", "zonen.json"), null), loadJson(join(dir, "data", "laender.json"), null), date, panel, tile)
+    : { fan: "", tiles: "", panels: "" };
+  kpis = zn.tiles + kpis;
+
   // Diagramme
-  let panels = fb.panels;
+  let panels = fb.panels + zn.panels;
   const catItems = order.map(c => ({ label: c, value: cats[c] || 0 })).filter(i => i.value);
   panels += panel("Worüber geredet wird", `Meldungen je Rubrik, ${span}`, hBars(catItems));
   if (cfg.entities?.length) {
@@ -137,7 +143,7 @@ function renderDashboard(cfg, manifest, date, metrics) {
     panels += panel("Meldungen pro Tag", "Anzahl ausgewählter Meldungen je Ausgabe",
       columns(briefs.slice(-14).map(b => ({ date: b.date, value: b.count }))));
 
-  return { kpis: `<div class="tiles">${kpis}</div>`, dashboard: `<div class="dash">${panels}</div>`, fan: fb.fan };
+  return { kpis: `<div class="tiles">${kpis}</div>`, dashboard: `<div class="dash">${panels}</div>`, fan: fb.fan + zn.fan };
 }
 
 // ---------- Ein Dashboard bauen ----------
@@ -163,7 +169,7 @@ function buildDashboard(name, template) {
 
   // Noch keine Ausgabe: nur Platzhalter, kein Archiv-Eintrag
   if (!content?.date) {
-    const { kpis, dashboard, fan } = renderDashboard(cfg, manifest, today(), metrics);
+    const { kpis, dashboard, fan } = renderDashboard(cfg, manifest, today(), metrics, dir);
     writeFileSync(join(dir, "index.html"), fill(template, {
       ...base, ...theme("../assets/"), FAN: fan, PAGE_TITLE: esc(cfg.title), DATE_LONG: "Erste Ausgabe folgt", ASSETS: "../assets/",
       STATS: "Die erste Ausgabe erscheint mit dem nächsten Morgenlauf.", NAV: `<a href="../">Alle Dashboards</a>`,
@@ -186,7 +192,7 @@ function buildDashboard(name, template) {
   manifest.briefs.sort((a, b) => b.date.localeCompare(a.date));
   manifest.site = { title: cfg.title, description: cfg.description };
   const older = manifest.briefs[manifest.briefs.findIndex(b => b.date === date) + 1];
-  const { kpis, dashboard, fan } = renderDashboard(cfg, manifest, date, metrics);
+  const { kpis, dashboard, fan } = renderDashboard(cfg, manifest, date, metrics, dir);
 
   const page = (root, assets, isIndex) => {
     const nav = [`<a href="${root}../">Alle Dashboards</a>`];
@@ -252,7 +258,7 @@ function buildHub(results, template) {
         : `<div class="hub-meta">Erste Ausgabe folgt</div>`) + `</div></a>`;
   }).join("");
   writeFileSync(join(ROOT, "index.html"), fill(template, {
-    LANG: "de", PAGE_TITLE: "News-Dashboards", DESCRIPTION: "Tägliche News-Dashboards: KI, Immobilien, Wirtschaft, Hamburg, Startups, HSV",
+    LANG: "de", PAGE_TITLE: "News-Dashboards", DESCRIPTION: "Tägliche News-Dashboards: KI, Immobilien, Wirtschaft, Steuern, Hamburg, Startups, HSV",
     SITE_TITLE: "News-Dashboards", DATE_LONG: esc(longDate(today())), ASSETS: "assets/",
     STATS: "Jeden Morgen neu, kurz auf Deutsch zusammengefasst", TOP_TITLE: "Alle Dashboards",
     TOP: `<div class="hub">${html}</div>` + HUB_SCRIPT, SOURCES: "siehe einzelne Dashboards", KENNZAHLEN: "siehe einzelne Dashboards",

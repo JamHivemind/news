@@ -1,7 +1,7 @@
 name: Seiten bauen
 on:
   push:
-    paths: ['**/content.json', '**/config.json', 'template.html', 'scripts/**', 'assets/**']
+    paths: ['**/content.json', '**/config.json', '**/data/zonen.json', 'template.html', 'scripts/**', 'assets/**']
   schedule:
     # Feeds vor dem Morgenlauf der Routine holen (Routine 06:15 Berlin im Winter). GitHub startet geplante Läufe oft 1-2 Stunden später,
     # daher zwei Läufe mit viel Vorlauf (02:30 und 04:00 Berlin). Die Cloud-Umgebung der Routine erreicht die Nachrichtenseiten nicht, GitHub schon.
