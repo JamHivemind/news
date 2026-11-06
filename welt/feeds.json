@@ -1,11 +1,17 @@
 {
- "fetched": "2026-11-06T15:01:32.235Z",
+ "fetched": "2026-11-06T15:12:21.694Z",
  "hours": 48,
  "sources": [
   {
    "name": "taz",
    "ok": true,
    "items": [
+    {
+     "title": "EU bei Ukraine-Verhandlungen: Der Frust der Giorgia Meloni",
+     "url": "https://taz.de/EU-bei-Ukraine-Verhandlungen/!6228180/",
+     "date": "2026-11-06T15:09:00.000Z",
+     "text": "Die EU will bei Friedensverhandlungen zum Ukraine-Krieg dabei sein. Doch eine gemeinsame Stimme gibt es nicht. Italiens Ministerpräsidentin hat einen Wutbrief geschrieben. mehr..."
+    },
     {
      "title": "Nithya Raman wird Bürgermeisterin: Eine Sozialistin für Los Angeles",
      "url": "https://taz.de/Nithya-Raman-wird-Buergermeisterin/!6228227/",
@@ -47,6 +53,12 @@
      "url": "https://taz.de/Berliner-Linken-Abgeordnete-Emde/!6224135/",
      "date": "2026-11-06T12:48:00.000Z",
      "text": "Das Berliner Linksbündnis könnte an der Abgeordneten Vanessa Emde scheitern. Die SPD dringt auf ihren Ausschluss aus der Fraktion. mehr..."
+    },
+    {
+     "title": "Boykottdebatte bei Eishockey-WM: Wie die Russen vom Eis holen?",
+     "url": "https://taz.de/Boykottdebatte-bei-Eishockey-WM/!6224259/",
+     "date": "2026-11-06T15:00:00.000Z",
+     "text": "Bei der WM in Deutschland soll Russland mitspielen dürfen. Das Sportgerichtsurteil führt zu immensen Verwerfungen in der Sportwelt und darüber hinaus. mehr..."
     },
     {
      "title": "Todesstrafe in den USA: Kalifornien wandelt alle Todesurteile in Haftstrafen um",
@@ -173,18 +185,6 @@
      "url": "https://taz.de/Staatskrise-in-Paraguay/!6228141/",
      "date": "2026-11-06T10:12:00.000Z",
      "text": "Wegen der Krise der Digitalbank Ueno wollte Paraguays Präsident Peña zurücktreten, um einem Amtsenthebungsverfahren zuvorzukommen – doch er war nicht schnell genug. mehr..."
-    },
-    {
-     "title": "Gen-Z-Proteste: Halbstarke in Turnschuhen",
-     "url": "https://taz.de/Gen-Z-Proteste/!6227856/",
-     "date": "2026-11-06T08:25:00.000Z",
-     "text": "Politiker von Union bis AfD betonen die Herkunft der Krawallmacher vom Wochenende. Viel wichtiger scheint das Geschlecht der Randalierer zu sein. mehr..."
-    },
-    {
-     "title": "Sozialproteste in Frankreich: Wohin trägt die gemeinsame Wut?",
-     "url": "https://taz.de/Sozialproteste-in-Frankreich/!6227721/",
-     "date": "2026-11-05T18:57:00.000Z",
-     "text": "Erneut protestieren Hunderttausende in Frankreich. Doch der Zusammenschluss der verschiedenen Anliegen klappt noch nicht überall. mehr..."
     }
    ]
   },
@@ -416,6 +416,12 @@
    "ok": true,
    "items": [
     {
+     "title": "EU-Staatsanwaltschaft ermittelt nach Zugunglück in Spanien",
+     "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
+     "date": "2026-11-06T15:01:09.000Z",
+     "text": "Nach dem schweren Zugunglück in Spanien mit 69 Toten ermittelt die EU-Staatsanwaltschaft wegen möglichen Subventionsbetrugs. Im Fokus stehen Gelder für die Bahnsicherheit. Bereits nach einem Unglück im Januar gab es Ermittlungen."
+    },
+    {
      "title": "Bombendrohungen auch gegen irische Medien",
      "url": "https://www.tagesschau.de/ausland/europa/bombendrohung-oeffentlich-rechtlicher-sender-irland-100.html",
      "date": "2026-11-06T13:49:52.000Z",
@@ -438,12 +444,6 @@
      "url": "https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html",
      "date": "2026-11-06T08:25:15.000Z",
      "text": "Am Sonntag entscheidet Israels Staatspräsident Herzog, wem er den Regierungsauftrag gibt. Die Konsultationen verliefen bisher allerdings wenig konstruktiv. Von Julio Segador."
-    },
-    {
-     "title": "Los Angeles bekommt linke Bürgermeisterin",
-     "url": "https://www.tagesschau.de/ausland/amerika/los-angeles-buergermeisterin-100.html",
-     "date": "2026-11-06T07:32:23.000Z",
-     "text": "Die künftige Bürgermeisterin von Los Angeles heißt Nithya Raman. Sie gehört dem linken Flügel der Demokraten an - genau wie New Yorks Bürgermeister. Dezidiert linke Politik scheint Wähler in den Großstädten nicht mehr zu verprellen. Von G. Biesinger."
     },
     {
      "title": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
@@ -486,6 +486,12 @@
      "url": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html",
      "date": "2026-11-05T01:52:28.000Z",
      "text": "Die wichtigsten Gewerkschaften in Frankreich haben für heute zu Streiks und landesweiten Protesten aufgerufen. Auch die Proteste der Schüler und Studierenden schließen sich an. Kann das funktionieren? Von C. Dylla."
+    },
+    {
+     "title": "Los Angeles bekommt linke Bürgermeisterin",
+     "url": "https://www.tagesschau.de/ausland/amerika/los-angeles-buergermeisterin-100.html",
+     "date": "2026-11-06T07:32:23.000Z",
+     "text": "Die künftige Bürgermeisterin von Los Angeles heißt Nithya Raman. Sie gehört dem linken Flügel der Demokraten an - genau wie New Yorks Bürgermeister. Dezidiert linke Politik scheint Wähler in den Großstädten nicht mehr zu verprellen. Von G. Biesinger."
     },
     {
      "title": "Richtungsstreit bei US-Republikanern: Was kommt nach der Trump-Ära?",
@@ -536,12 +542,6 @@
      "text": "Zum ersten Mal seit 1988 schickt Texas mit James Talarico wieder einen Demokraten in den US-Senat. Auch das Gouverneursamt und andere Spitzenpositionen gehen an die Demokraten. Wie ist ihnen das in diesem Bundesstaat gelungen? Von Sandra Ratzow."
     },
     {
-     "title": "US-Demokraten: Der gemäßigte Kurs verspricht weitere Erfolge",
-     "url": "https://www.tagesschau.de/ausland/amerika/midterms-demokraten-100.html",
-     "date": "2026-11-05T05:57:08.000Z",
-     "text": "Nach den Midterms sieht sich der linke Parteiflügel der Demokraten gestärkt, doch Top-Demokraten im Kongress setzen auf einen gemäßigten Kurs. Auch Experten sagen: Das hilft in einem \"Mitte-Rechts-Land\". Von C. Kühntopp."
-    },
-    {
      "title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
      "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html",
      "date": "2026-11-05T00:10:07.000Z",
@@ -567,183 +567,183 @@
    "ok": true,
    "items": [
     {
-     "title": "Nach CAS-Urteil - Bund sucht nach Lösungen für Eishockey-WM 2027",
-     "url": "https://www.deutschlandfunk.de/bund-sucht-nach-loesungen-fuer-eishockey-wm-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
-     "text": "Die Bundesregierung sucht im Konflikt um die geplante Eishockey-Weltmeisterschaft in Deutschland im kommenden Jahr nach Lösungen."
-    },
-    {
      "title": "Europäisches Asylsystem - Migrationskommissar Brunner legt Analyse vor - Deutschland muss keine zusätzlichen Flüchtlinge aufnehmen",
      "url": "https://www.deutschlandfunk.de/migrationskommissar-brunner-legt-analyse-vor-deutschland-muss-keine-zusaetzlichen-fluechtlinge-aufne-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Deutschland kann auch für das kommende Jahr fordern, keine zusätzlichen Flüchtlinge aus anderen EU-Staaten aufnehmen oder anderweitige Zusatzbeiträge leisten zu müssen. Das geht aus einer Analyse des EU-Migrationskommissars Brunner hervor, die als Verhandlungsgrundlage für die Verteilung der Lasten im europäischen Asylsystem dient."
     },
     {
      "title": "Wärmster Oktober der Messgeschichte - Copernicus: 1,5-Grad-Marke wird 2026 wohl erneut überschritten",
      "url": "https://www.deutschlandfunk.de/copernicus-1-5-grad-marke-wird-2026-wohl-erneut-ueberschritten-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Die weltweite Durchschnittstemperatur wird in diesem Jahr voraussichtlich zum zweiten Mal nach 2024 mehr als 1,5 Grad über dem vorindustriellen Niveau liegen. Das erwartet der EU-Klimadienst Copernicus. Auch der Oktober war weltweit so warm wie nie zuvor seit Beginn der Wetteraufzeichnungen."
     },
     {
      "title": "Weltklimakonferenz ab Montag - Bundesregierung unterstützt Elektrifizierungs-Ziel - Merz begründet Abwesenheit mit \"vollem Terminkalender\"",
      "url": "https://www.deutschlandfunk.de/bundesregierung-unterstuetzt-elektrifizierungs-ziel-merz-begruendet-abwesenheit-mit-vollem-terminkal-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Die Bundesregierung will sich auf der Weltklimakonferenz im türkischen Antalya für eine stärkere Nutzung von Strom als Energieträger einsetzen. Bundesumweltminister Schneider sagte in Berlin, Deutschland werde sich der Initiative des Gastgebers sowie Australiens anschließen."
     },
     {
      "title": "Wegen Suchtgefahr - EU-Kommission fordert Tiktok zu Änderungen bei schädlichem Algorithmus auf",
      "url": "https://www.deutschlandfunk.de/eu-kommission-fordert-tiktok-zu-aenderungen-bei-schaedlichem-algorithmus-auf-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Die EU-Kommission hat der Videoplattform Tiktok vorgeworfen, mit ihrem Algorithmus Suchtgefahren, Ess- und Angststörungen zu befeuern. Die Brüsseler Behörde wies Tiktok an, die Funktionsweise der \"schädlichen\" App zu ändern. Zur Begründung hieß es, dadurch solle die psychische Gesundheit der Nutzerinnen und Nutzer geschützt werden."
+    },
+    {
+     "title": "Nach CAS-Urteil - Bund sucht nach Lösungen für Eishockey-WM 2027",
+     "url": "https://www.deutschlandfunk.de/bund-sucht-nach-loesungen-fuer-eishockey-wm-100.html",
+     "date": "2026-11-06T15:01:01.000Z",
+     "text": "Die Bundesregierung sucht im Konflikt um die geplante Eishockey-Weltmeisterschaft in Deutschland im kommenden Jahr nach Lösungen."
     },
     {
      "title": "Ukraine-Krieg - Schon über 50 Tote nach russischem Luftangriff auf Komyschuwacha",
      "url": "https://www.deutschlandfunk.de/schon-ueber-50-tote-nach-russischem-luftangriff-auf-komyschuwacha-102.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Die Zahl der Todesopfer nach einem russischen Luftangriff auf den frontnahen ukrainischen Ort Komyschuwacha steigt immer weiter."
     },
     {
      "title": "Nach Trump-Äußerung - Wadephul: \"Europa muss zentrale Rolle bei Ukraine-Lösung spielen\"",
      "url": "https://www.deutschlandfunk.de/wadephul-europa-muss-zentrale-rolle-bei-ukraine-loesung-spielen-102.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Nach Äußerungen von US-Präsident Trump pocht Bundesaußenminister Wadephul auf eine zentrale Rolle Europas bei der Suche ‌nach einer Friedenslösung ⁠für die ⁠Ukraine. Über die Zukunft des Landes dürfe nicht ohne Kiew entschieden werden und über die Sicherheit Europas ⁠nicht ⁠ohne Europa. ⁠Dies sei der Maßstab für alle Bemühungen um ⁠ein Ende des russischen Angriffskriegs."
     },
     {
      "title": "Neuer Manteltarifvertrag - Zwei Jahre Tariffrieden bei Condor: Einigung auch mit Kabinenpersonal",
      "url": "https://www.deutschlandfunk.de/zwei-jahre-tariffrieden-bei-condor-einigung-auch-mit-kabinenpersonal-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Die Flugbegleiter-Gewerkschaft UFO hat mit der Fluggesellschaft Condor einen neuen Manteltarifvertrag für das Kabinenpersonal geschlossen."
     },
     {
      "title": "Bedrohung - USA warnen vor Hackerangriffen auf industrielle Kühlsysteme",
      "url": "https://www.deutschlandfunk.de/usa-warnen-vor-hackerangriffen-auf-industrielle-kuehlsysteme-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Die US-Behörden haben vor einer anhaltenden Cyberbedrohung für industrielle Kühlsysteme gewarnt. In einer gemeinsamen Erklärung der Bundespolizei FBI, der Cybersicherheitsbehörde CISA sowie der Ministerien für Gesundheit, Verkehr und Landwirtschaft heißt es, unbekannte ‌Hacker hätten ⁠es auf Schwachstellen in Temperaturreglern abgesehen, die mit dem Internet verbunden seien."
     },
     {
      "title": "Bundestagsbeschluss - K.o.-Tropfen werden künftig ähnlich wie Waffen eingestuft: Was die neue Strafverschärfung bedeutet",
      "url": "https://www.deutschlandfunk.de/k-o-tropfen-werden-kuenftig-aehnlich-wie-waffen-eingestuft-was-die-neue-strafverschaerfung-bedeutet-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Wer sogenannte K.o.-Mittel einsetzt, um eine Vergewaltigung oder einen Raub zu begehen, muss künftig mit mindestens fünf Jahren Haft rechnen. Der Bundestag hat das Strafrecht entsprechend verschärft. Was sich ändert, wie K.o.-Mittel wirken und warum die Dunkelziffer hoch sein dürfte. Die wichtigsten Fragen und Antworten im Überblick."
     },
     {
      "title": "Gerichtsentscheidung - Beschluss rechtskräftig: NSU-Terroristin Zschäpe bleibt mindestens bis zum Jahr 2035 im Gefängnis",
      "url": "https://www.deutschlandfunk.de/beschluss-rechtskraeftig-nsu-terroristin-zschaepe-bleibt-mindestens-bis-zum-jahr-2035-im-gefaengnis-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Die NSU-Terroristin Zschäpe bleibt mindestens bis zum Jahr 2035 im Gefängnis."
     },
     {
      "title": "Bildung - Grüne für verpflichtendes Kita-Jahr vor der Einschulung",
      "url": "https://www.deutschlandfunk.de/gruene-fuer-verpflichtendes-kita-jahr-vor-der-einschulung-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Die Grünen wollen für alle Kinder in Deutschland ein verpflichtendes Kita-Jahr vor der Einschulung einführen."
     },
     {
      "title": "Haushaltsstreit - Belgiens König Philippe lehnt Rücktritt von Ministerpräsident De Wever ab",
      "url": "https://www.deutschlandfunk.de/belgiens-koenig-philippe-lehnt-ruecktritt-von-ministerpraesident-de-wever-ab-102.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "In Belgien hat König Philippe das Rücktrittsgesuch von Regierungschef De Wever abgelehnt."
     },
     {
      "title": "USA - Demokratische designierte Texas-Gouverneurin Hinojosa will Bau von Rechenzentren für KI eindämmen",
      "url": "https://www.deutschlandfunk.de/demokratische-designierte-texas-gouverneurin-hinojosa-will-bau-von-rechenzentren-fuer-ki-eindaemmen-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Nach den Wahlen in den USA hat die designierte neue Gouverneurin des Bundesstaats Texas, Hinojosa, angekündigt, den Bau neuer Rechenzentren für Künstliche Intelligenz vorerst zu stoppen."
     },
     {
      "title": "Öko-Institut - Studie warnt vor Wasserstress durch neue Mega-Rechenzentren in Deutschland",
      "url": "https://www.deutschlandfunk.de/studie-warnt-vor-wasserstress-durch-neue-mega-rechenzentren-in-deutschland-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Der Wasserbedarf von Rechenzentren in Deutschland könnte sich bis 2030 mehr als verdoppeln."
     },
     {
      "title": "Bundestag - Verkehrsminister Bilger: \"Reform soll Unterhalt der Autobahnen stärken\"",
      "url": "https://www.deutschlandfunk.de/verkehrsminister-bilger-reform-soll-unterhalt-der-autobahnen-staerken-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Der Bundestag hat in erster Lesung über eine Reform der Finanzierung von Autobahnen beraten."
     },
     {
      "title": "\"Reichsbürger\" - Auftakt zum Prozess gegen mutmaßliche Rädelsführer des \"Königreichs Deutschland\"",
      "url": "https://www.deutschlandfunk.de/auftakt-zum-prozess-gegen-mutmassliche-raedelsfuehrer-des-koenigreichs-deutschland-102.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Vor dem Oberlandesgericht Düsseldorf hat der Prozess gegen vier mutmaßliche Hauptverantwortliche der später verbotenen Organisation \"Königreich Deutschland\" begonnen."
     },
     {
      "title": "\"Spiegel\"-Bericht - Berliner Linke-Politikerin bei Gerichtstermin von polizeibekannten Palästinensern",
      "url": "https://www.deutschlandfunk.de/berliner-linke-politikerin-bei-gerichtstermin-von-polizeibekannten-palaestinensern-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Eine Berliner Linken-Politikerin hat nach Presseinformationen an Gerichtsterminen zu Abschiebegewahrsam für zwei Männer aus Gaza teilgenommen."
     },
     {
      "title": "Justiz - Mehr als 1.100 Klagen wegen Corona-Impfschäden anhängig",
      "url": "https://www.deutschlandfunk.de/mehr-als-1-100-klagen-wegen-corona-impfschaeden-anhaengig-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "An deutschen Sozialgerichten sind derzeit fast 1.160 Klagen wegen möglicher Corona-Impfschäden anhängig."
     },
     {
      "title": "Kirche - Papst Leo zu elftägiger Südamerika-Reise aufgebrochen",
      "url": "https://www.deutschlandfunk.de/papst-leo-zu-elftaegiger-suedamerika-reise-aufgebrochen-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Papst Leo der Vierzehnte ist zu einer elftägigen Reise nach Südamerika aufgebrochen."
     },
     {
      "title": "Protestbewegung - \"Gelbwesten\" rufen zu neuen Kundgebungen in Frankreich auf",
      "url": "https://www.deutschlandfunk.de/gelbwesten-rufen-zu-neuen-kundgebungen-in-frankreich-auf-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "In Frankreich sind für heute weitere Proteste gegen die Sozial- und Bildungspolitik der Regierung angekündigt."
     },
     {
      "title": "Finanzskandal in der Türkei - Ehemalige AKP-Vize Kaya verhaftet",
      "url": "https://www.deutschlandfunk.de/ehemalige-akp-vize-kaya-verhaftet-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Im Zuge eines Finanzskandals in der Türkei ist die ehemalige stellvertretende AKP-Vorsitzende Kaya verhaftet worden."
     },
     {
      "title": "Afrika - Sektenführer in Kenia zu 200 Jahren Haft verurteilt",
      "url": "https://www.deutschlandfunk.de/sektenfuehrer-in-kenia-zu-200-jahren-haft-verurteilt-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Der kenianische Sektenführer Mackenzie ist zu insgesamt 200 Jahren Gefängnis verurteilt worden."
     },
     {
      "title": "Tarifstreit - Warnstreiks in der Metall- und Elektroindustrie werden fortgesetzt",
      "url": "https://www.deutschlandfunk.de/warnstreiks-in-der-metall-und-elektroindustrie-werden-fortgesetzt-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Im Tarifstreit der Metall- und Elektroindustrie werden die Warnstreiks und Kundgebungen in etlichen Bundesländern fortgesetzt."
     },
     {
      "title": "Videoüberwachung in Schlachthöfen - Tierrechtsorganisation kritisiert beschlossene Regelung",
      "url": "https://www.deutschlandfunk.de/tierrechtsorganisation-kritisiert-beschlossene-regelung-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Größere Schlachthöfe in Deutschland müssen künftig ihre Betriebe mit Kameras überwachen. So hat es der Bundestag am Donnerstagabend beschlossen. Tierrechtsaktivisten halten die Regelung allerdings für unzureichend, um Tierleid zu verhindern."
     },
     {
      "title": "Autobranche - Daimler Truck mit Gewinnplus von 73 Prozent - Erholung in Nordamerika",
      "url": "https://www.deutschlandfunk.de/daimler-truck-mit-gewinnplus-von-73-prozent-erholung-in-nordamerika-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Nutzfahrzeughersteller Daimler Truck hat seinen Gewinn im dritten Quartal deutlich gesteigert."
     },
     {
      "title": "Verkehrsinfrastruktur - Bilger (CDU) bekräftigt Ziel von 70 Prozent Pünktlichkeit bei der Bahn bis 2029",
      "url": "https://www.deutschlandfunk.de/bilger-cdu-bekraeftigt-ziel-von-70-prozent-puenktlichkeit-bei-der-bahn-bis-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Bundesverkehrsminister Bilger sieht die Voraussetzungen dafür gegeben, dass Bahn- und Straßen-Projekte zügig vorankommen werden."
     },
     {
      "title": "Verkehrsunfall - Gefahr durch ausgelaufene Salpetersäure eingedämmt - Bahnstrecke Krefeld-Duisburg wieder freigegeben",
      "url": "https://www.deutschlandfunk.de/gefahr-durch-ausgelaufene-salpetersaeure-eingedaemmt-bahnstrecke-krefeld-duisburg-wieder-freigegeben-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "In Krefeld hat die Feuerwehr die Gefahr durch ausgelaufene Salpetersäure nach einem Unfall eingedämmt."
     },
     {
-     "title": "Südamerika - Bankenaffäre: Parlament Paraguays beharrt trotz Rücktrittsankündigung von Präsident Peña auf Amtsenthebungsverfahren",
-     "url": "https://www.deutschlandfunk.de/bankenaffaere-parlament-paraguays-beharrt-trotz-ruecktrittsankuendigung-von-praesident-pe-a-auf-amts-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
-     "text": "In Paraguay beharrt das Parlament trotz einer Rücktrittsankündigung von Präsident Peña im Zuge einer Bankenaffäre auf einem Amtenthebungsverfahren gegen ihn."
+     "title": "Regierungskrise in Paraguay - Senat entscheidet über Amtsenthebung von Präsident Peña",
+     "url": "https://www.deutschlandfunk.de/senat-entscheidet-ueber-amtsenthebung-von-praesident-pe-a-102.html",
+     "date": "2026-11-06T15:01:01.000Z",
+     "text": "Ein Bankenskandal hat Paraguay in eine Regierungskrise gestürzt."
     },
     {
      "title": "Campact - Mehr als eine Million Unterschriften für Prüfung von AfD-Verbot",
      "url": "https://www.deutschlandfunk.de/mehr-als-eine-million-unterschriften-fuer-pruefung-von-afd-verbot-100.html",
-     "date": "2026-11-06T14:27:17.000Z",
+     "date": "2026-11-06T15:01:01.000Z",
      "text": "Mehr als eine Million Menschen haben nach Angaben des Kampagnennetzwerks Campact einen Appell für die Prüfung eines AfD-Verbotsverfahrens unterzeichnet."
     }
    ]
@@ -970,17 +970,17 @@
      "via": "Reuters"
     },
     {
-     "title": "Zverev falls in first match as world number one; Djokovic's ATP Finals hopes over - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1ZTeW1hbkNiZGRRRG1tZVFBb1JGQUV2TTN4bXNOSk5QN0t5dENudm0tc1d1LUlVdUhCV3V5aWE5YUNjTkVna1FyeVdpY0w0cGx2eHkxVGQxay0zdlRTc2NITWhkNWg2VVFXNGx5VTR1aUx3SmQwWXRCelYwSVJRMUR0OXpCUHdndUppb1F4SmZabUtrUm5MU0poRkdkam9SdzVaYXprUHV5UmxIQUE?oc=5",
-     "date": "2026-11-04T18:37:45.000Z",
-     "text": "Zverev falls in first match as world number one; Djokovic's ATP Finals hopes over Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "Portugal's Ronaldo announces international retirement - Reuters",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5",
      "date": "2026-11-05T20:46:41.000Z",
      "text": "Portugal's Ronaldo announces international retirement Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Zverev falls in first match as world number one; Djokovic's ATP Finals hopes over - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1ZTeW1hbkNiZGRRRG1tZVFBb1JGQUV2TTN4bXNOSk5QN0t5dENudm0tc1d1LUlVdUhCV3V5aWE5YUNjTkVna1FyeVdpY0w0cGx2eHkxVGQxay0zdlRTc2NITWhkNWg2VVFXNGx5VTR1aUx3SmQwWXRCelYwSVJRMUR0OXpCUHdndUppb1F4SmZabUtrUm5MU0poRkdkam9SdzVaYXprUHV5UmxIQUE?oc=5",
+     "date": "2026-11-04T18:37:45.000Z",
+     "text": "Zverev falls in first match as world number one; Djokovic's ATP Finals hopes over Reuters",
      "via": "Reuters"
     },
     {
@@ -995,13 +995,6 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5",
      "date": "2026-11-04T21:49:49.000Z",
      "text": "As Americans vote, Trump says US will stop $4 billion in aid to Israel Reuters",
-     "via": "Reuters"
-    },
-    {
-     "title": "South Africa says US midterm results usher in new era - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYldVVWZMVFEwSkw0RXVnZFhkTGpRUl9rNVpMR25KUW5kaTJLZlVjUjgyZURaUW9XMzdxaVRLNmRsbV9VeERTcjJ6MmhwMDVRdGsxZW9mSnRWNk9DRVYyWVN1Yi1qTVNlTW90M3ZmWi1nQi1KVHBtRmV6QVRmeUNOUmVVNXA0aHRlX0k2anZNX2dGYXBuZjMw?oc=5",
-     "date": "2026-11-04T15:07:41.000Z",
-     "text": "South Africa says US midterm results usher in new era Reuters",
      "via": "Reuters"
     },
     {
@@ -1124,10 +1117,17 @@
      "via": "Reuters"
     },
     {
-     "title": "US judge temporarily blocks Trump’s Washington arch - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlhvZGtKal8wM0d0dVZKaENBa2tkS1VZY0RTV1A3TzNkSTFCOU9aMWFaQ0JfWG9xVDMyRExlc0tYRXVsZ3RBbllwNHQ0a2FGOXhhNUhobzUwOWw5Mkh3bGYzZWtpWkFxMVNhRzhFMFk3QzdyNkI1VXcyMDgwaHJfS2lNZFZpRTM3VXZ5cV9XRVVpVzB2eW1FR1o4WDFZTWNCUFlzbVQwX09zdU1BdExpcjhTWDdqeGtXSXh3?oc=5",
-     "date": "2026-11-05T11:02:00.000Z",
-     "text": "US judge temporarily blocks Trump’s Washington arch Reuters",
+     "title": "EXCLUSIVE: China's top flash memory chipmaker targets more homegrown tools for new factory, sources say - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2pDd1BuOVZzeGl6Q0RiSzR3MzVBTnhnQUJOMXRUZk1PSF9HZTk5YVhzVjJZVVpaMFlKV0hhMVZNeXpOTHpxZkxvSVZKclYtMWwzUGc5N0dxQlZuS0NURFJBcUloOU9rVGJQbmprb2E4N1JRaGpjNi04OFgxUTdXVFY4OGFBWVQ4OHVkOFpoY1B4ZmhoNFJySWhfdXFBYTZSUGlVeG1KWW1XVUI3c3FfMjF0bXlNVUZNdHlSdktSaw?oc=5",
+     "date": "2026-11-06T04:03:00.000Z",
+     "text": "EXCLUSIVE: China's top flash memory chipmaker targets more homegrown tools for new factory, sources say Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Paraguay's Peña resigns as bank collapse triggers political crisis - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGc3WWZCT3BZUUFMY3E0VW43Z244SWNKVUk4NS1RZ1RHVGVSdG1RSVNKVjFaZGdlQjktT2JvcElpNEVvMllaNTdIbWRMdmdQZ1F3RjZwMThjcVU5X1pYY20wajc0MzIyenBHX3MtaEVRRnpRTC16TWdITnA4QWZxcFhtNHh0UlR0YlZ2UkVqUmF4YXZWejdWY2xsZ0c2bm5oWUNiczZnWms4NHo2eHctcHJKSHJEMmNDQmtZ?oc=5",
+     "date": "2026-11-05T16:22:00.000Z",
+     "text": "Paraguay's Peña resigns as bank collapse triggers political crisis Reuters",
      "via": "Reuters"
     }
    ]
@@ -2031,13 +2031,6 @@
      "via": "t-online – Hamburg"
     },
     {
-     "title": "Seehäfen für neue Aufgaben rüsten - THB - Täglicher Hafenbericht",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3dpTjJfM2ZOM3J1Wm5lTnZpcFM1UjZRQXNwVGZKcUNrQ0ZlNUVYa2UzN3BEZTBSTFVxcU50RUhoQk9IZkdSbVVjSFhYcGhUcU1hZGpLZnBxOVFud1hGSnFVWUlXRThFY1ZOVE1rZGMzOWtqcURYR3ljYjQyQmNMTzRIUktQLVdSS3Y1d3lkbTlISkY4OFdNNC0ya3JuVVFFQk5tTE13?oc=5",
-     "date": "2026-11-06T13:24:13.000Z",
-     "text": "Seehäfen für neue Aufgaben rüsten THB - Täglicher Hafenbericht",
-     "via": "THB - Täglicher Hafenbericht"
-    },
-    {
      "title": "Wie Hamburg seinen Hafen im Umbau am Laufen hält - DVZ - Deutsche Verkehrs-Zeitung",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDFkVHJvVTQxOFEwQTV0UDJIaUZzYkVwNzhqZVpRYWluSnVFOE1FOWRKX003RkhJSENDUkxXUVVlOWNWTEM1STNmendtR3NJSXg5VjR0dFNFVmVBM3ItaFFXOWVVVzNtSjFvdVREMlpUMWRsbnNwdEx3aHJ1WFlNSmlpMXBraFNJVFRwdXpJOFlNSWFrVHEtVG4xeGpjcGRMRkxhYUUtUHE?oc=5",
      "date": "2026-11-03T13:19:40.000Z",
@@ -2045,10 +2038,17 @@
      "via": "DVZ - Deutsche Verkehrs-Zeitung"
     },
     {
-     "title": "Auf dem Weg zum Deutschen Hafenmuseum: Diese Ausstellung macht Appetit auf mehr - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY1paZlkxOUxZbVBTdmdXVXdvSnZ0Qll4S1NOUTJUaHNibHJwOGY5NUJ4Q3NSaFdYeGhsX01QNDV4cTZjb0RMUDJ4UktubGM2RDRTWkcwelYweGdqSVA0LU9XN1U5QTJDdV9XM2RWTlFTcjJKZHVmZVB6MEFob3dxdFllSldtUDhoUzhIOEg4YkZYTWpyT1BwX3RSVnl6bXlWZEdLUGgzbms2YjlfRXJKV052TkV4N0xRVlltWFE1U3lWcnZ0dFByTmR0UXpVSFRCVG9fdlM4eFE?oc=5",
-     "date": "2026-11-04T11:00:00.000Z",
-     "text": "Auf dem Weg zum Deutschen Hafenmuseum: Diese Ausstellung macht Appetit auf mehr Hamburger Abendblatt",
+     "title": "Seehäfen für neue Aufgaben rüsten - THB - Täglicher Hafenbericht",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3dpTjJfM2ZOM3J1Wm5lTnZpcFM1UjZRQXNwVGZKcUNrQ0ZlNUVYa2UzN3BEZTBSTFVxcU50RUhoQk9IZkdSbVVjSFhYcGhUcU1hZGpLZnBxOVFud1hGSnFVWUlXRThFY1ZOVE1rZGMzOWtqcURYR3ljYjQyQmNMTzRIUktQLVdSS3Y1d3lkbTlISkY4OFdNNC0ya3JuVVFFQk5tTE13?oc=5",
+     "date": "2026-11-06T13:24:13.000Z",
+     "text": "Seehäfen für neue Aufgaben rüsten THB - Täglicher Hafenbericht",
+     "via": "THB - Täglicher Hafenbericht"
+    },
+    {
+     "title": "Bund startet neuen Anlauf zum Bau der Autobahn A26-Ost – droht nächste Klage? - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWGRVMjNuU25VYkJFdXZFMUp2QzVxLUk0bjFZaWdqcHBfSmNWTlVsOEpaUF81NWxxY0hjSzNrX1FoUDBQZWcxUlpFbC04ZkJ5aFVDdE5yVjFSMTY1QVBUekc4aF9VYktXX2lLOU13ZEF0bjZmNGJhTUR5RnRZQ0h1MnJiSUNVNnJHQjExYmVReHhnZThNdk41YVA4ZHF4aVJpTjg5TzdpSWZjUy0wV3R3MGw1aV96WUthTHFEdHkzeWNVX0I5S3NWcHA1YUxFTDhBUWQxbzF0Y2tUV1k4OWtQeVZVQ0o5Zw?oc=5",
+     "date": "2026-11-05T12:00:00.000Z",
+     "text": "Bund startet neuen Anlauf zum Bau der Autobahn A26-Ost – droht nächste Klage? Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
@@ -2087,17 +2087,17 @@
      "via": "t-online – Hamburg"
     },
     {
+     "title": "Auf dem Weg zum Deutschen Hafenmuseum: Diese Ausstellung macht Appetit auf mehr - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY1paZlkxOUxZbVBTdmdXVXdvSnZ0Qll4S1NOUTJUaHNibHJwOGY5NUJ4Q3NSaFdYeGhsX01QNDV4cTZjb0RMUDJ4UktubGM2RDRTWkcwelYweGdqSVA0LU9XN1U5QTJDdV9XM2RWTlFTcjJKZHVmZVB6MEFob3dxdFllSldtUDhoUzhIOEg4YkZYTWpyT1BwX3RSVnl6bXlWZEdLUGgzbms2YjlfRXJKV052TkV4N0xRVlltWFE1U3lWcnZ0dFByTmR0UXpVSFRCVG9fdlM4eFE?oc=5",
+     "date": "2026-11-04T11:00:00.000Z",
+     "text": "Auf dem Weg zum Deutschen Hafenmuseum: Diese Ausstellung macht Appetit auf mehr Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
      "title": "Reeder aus Bayern und Hamburg gründen neues Schifffahrtsunternehmen - Hamburger Abendblatt",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaXloUUdMY0I1amJZamh1V19EYXJjcEdVck93aGxnVXF1ektxcDNRTnNpNW50NDIzT1JYS3NDOGdUV3BEeU5BNE9ibmlDY3ZucXFiTjRYbTc0SzFHQnZuLW1XbHppTk1jTWN2TkwyOXJvWmxKRkFjTWEtZFVfMGowSzNqMGM5bUJmMFYycVBtaFc2clJ4dHZQOHpoMGUyMHg3N29EN2dKRmdfbEk5dEh2TW1nRV9xSk1xMVNvSnlOUmpNbFpTaG40UV82RWFqUHNqYlhXYjZuZWJscU9MdGlBaFlYVQ?oc=5",
      "date": "2026-11-05T05:08:00.000Z",
      "text": "Reeder aus Bayern und Hamburg gründen neues Schifffahrtsunternehmen Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "Bund startet neuen Anlauf zum Bau der Autobahn A26-Ost – droht nächste Klage? - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWGRVMjNuU25VYkJFdXZFMUp2QzVxLUk0bjFZaWdqcHBfSmNWTlVsOEpaUF81NWxxY0hjSzNrX1FoUDBQZWcxUlpFbC04ZkJ5aFVDdE5yVjFSMTY1QVBUekc4aF9VYktXX2lLOU13ZEF0bjZmNGJhTUR5RnRZQ0h1MnJiSUNVNnJHQjExYmVReHhnZThNdk41YVA4ZHF4aVJpTjg5TzdpSWZjUy0wV3R3MGw1aV96WUthTHFEdHkzeWNVX0I5S3NWcHA1YUxFTDhBUWQxbzF0Y2tUV1k4OWtQeVZVQ0o5Zw?oc=5",
-     "date": "2026-11-05T12:00:00.000Z",
-     "text": "Bund startet neuen Anlauf zum Bau der Autobahn A26-Ost – droht nächste Klage? Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
