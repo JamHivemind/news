@@ -1,79 +1,100 @@
 {
-  "date": "2026-11-05",
-  "intro": "Die Inflation im Euroraum steigt auf vier Prozent, die EZB sucht eine neue Spitze und der Dax profitiert von den US-Zwischenwahlen. Bei BMW belastet das schwache China-Geschäft.",
+  "date": "2026-11-06",
+  "intro": "Der DAX hat nach den US-Zwischenwahlen ein Rekordhoch erreicht, während im Inland Stellenabbau und steigende Sozialausgaben Schlagzeilen machen. Der Bund wird Miteigentümer beim Panzerbauer KNDS.",
   "top": [
     {
-      "title": "Inflation im Euroraum steigt auf vier Prozent",
-      "text": "Im Oktober stiegen die Preise in der Eurozone um vier Prozent im Vergleich zum Vorjahr. Das ist der höchste Wert seit mehr als drei Jahren. Grund sind laut Spiegel teurere Energiepreise infolge des Irankriegs. Für Verbraucher heißt das: Der Alltag bleibt teuer, und die Notenbank hat wenig Spielraum für Zinssenkungen.",
-      "category": "Konjunktur",
-      "tipp": "Laufende Energieverträge prüfen: Ein Wechsel des Anbieters kann bei Gas und Strom Geld sparen.",
-      "url": "https://www.spiegel.de/wirtschaft/hohe-energiepreise-inflation-im-euroraum-steigt-auf-vier-prozent-a-6aa49e04-4639-4134-acf6-08d84917b500#ref=rss",
-      "source": "Spiegel Wirtschaft"
+      "title": "Bund steigt beim Panzerbauer KNDS ein",
+      "text": "Die Bundesregierung und die Eigentümerfamilien haben sich auf den Einstieg des Bundes bei KNDS geeinigt. Der Kaufvertrag soll in den kommenden Wochen unterschrieben werden. Der Staat sichert sich damit Einfluss auf eine Schlüsseltechnologie. Der Kaufpreis wirft noch Fragen auf.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Unternehmen"
     },
     {
-      "title": "Niederlande schlagen Klaas Knot als EZB-Chef vor",
-      "text": "Nach dem angekündigten Rücktritt von Christine Lagarde wird der Chefposten der Europäischen Zentralbank frei. Die Niederlande nominieren den früheren Notenbankchef Knot und gelten als Favorit. Laut Handelsblatt könnten die Eurostaaten schon in wenigen Tagen entscheiden. Die EZB legt die Leitzinsen fest und beeinflusst so Kredite und Sparzinsen.",
-      "category": "Zinsen & Geldpolitik",
-      "url": "https://www.handelsblatt.com/politik/deutschland/notenbank-niederlande-nominieren-ex-zentralbanker-knot-als-ezb-chef/100267272.html",
-      "source": "Handelsblatt"
+      "title": "Bundesagentur für Arbeit braucht 5 Milliarden Euro Notkredit",
+      "text": "Die Ausgaben für das Arbeitslosengeld steigen. Deshalb bekommt die Bundesagentur für Arbeit ein zusätzliches Darlehen über fünf Milliarden Euro. Auch Jobcenter und Rentenkasse sind laut FAZ betroffen. Das zeigt, wie sehr der schwache Arbeitsmarkt die Sozialkassen belastet.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/milliardenluecke-bundesagentur-fuer-arbeit-braucht-5-milliarden-euro-notkredit-201654491.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Arbeit & Soziales"
     },
     {
-      "title": "Dax steigt auf Zwei-Monatshoch",
-      "text": "Der deutliche Sieg der Demokraten bei den US-Zwischenwahlen hat die Erwartungen der Anleger übertroffen. Der Dax erreichte ein Zwei-Monatshoch. Tagesschau berichtet allerdings, dass Tech-Aktien unter Druck geraten sind und der Dax vorbörsliche Verluste wieder aufholte. Anleger gehen demnach schnell zur Tagesordnung über.",
-      "category": "Börse & Märkte",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-steigt-nach-midterms-auf-zwei-monatshoch/100267175.html",
-      "source": "Handelsblatt"
+      "title": "DAX springt nach US-Wahlen auf Rekordhoch",
+      "text": "Der deutsche Leitindex DAX hat im frühen Handel ein neues Rekordhoch erreicht. Gründe sind laut tagesschau günstigere Ölpreise und positive Signale aus der Industrie. Für Sparer mit Aktienfonds oder ETFs bedeutet das zunächst Kursgewinne, Kurse können aber schnell wieder schwanken.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Börse & Märkte"
     }
   ],
   "entries": [
     {
-      "title": "BMW: 15 Prozent weniger Gewinn",
-      "summary": "Der Autobauer verdient im dritten Quartal 15 Prozent weniger, vor allem wegen des schwachen Geschäfts in China. Laut Spiegel dürfte es noch schlechter werden.",
-      "category": "Unternehmen",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-macht-15-prozent-weniger-gewinn-und-es-duerfte-noch-schlimmer-werden-a-c122d2d7-a0c6-48a1-97ca-043d5fef46cd#ref=rss",
-      "source": "Spiegel Wirtschaft"
+      "title": "Niederlande nominieren Knot für den EZB-Chefposten",
+      "summary": "Der frühere niederländische Zentralbankchef Knot ist offiziell als Nachfolger von EZB-Präsidentin Christine Lagarde nominiert. Er gilt als aussichtsreicher Kandidat.",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Zinsen & Geldpolitik"
     },
     {
-      "title": "Gesamtmetall: weitere 300.000 Jobs in Gefahr",
-      "summary": "Laut FAZ-Ticker sieht der Arbeitgeberverband der Metall- und Elektroindustrie weitere 300.000 Arbeitsplätze gefährdet.",
-      "category": "Arbeit & Soziales",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-cyberangriff-auf-kuehlhaeuser-von-metzgerei-hoher-schaden-faz-200452404.html",
-      "source": "FAZ Wirtschaft"
+      "title": "EZB-Lohnindikator: Löhne könnten 2027 etwas stärker steigen",
+      "summary": "Der Wage Tracker der EZB deutet auf ein leicht höheres Lohnwachstum in den ersten drei Quartalen 2027 hin als im Gesamtjahr 2026. Der Tracker bündelt Daten zu Tarifabschlüssen.",
+      "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/wage-tracker-der-ezb-deutet-auf-leicht-hoeheres-lohnwachstum-in-den-ersten-drei-quartalen-des-jahres-2027-verglichen-mit-dem-gesamtjahr-2026-hin-1014310",
+      "source": "Bundesbank",
+      "category": "Arbeit & Soziales"
     },
     {
-      "title": "Airlines streichen Flüge in Deutschland",
-      "summary": "Fluggesellschaften klagen über zu hohe Steuern und Abgaben und haben zuletzt etliche Verbindungen gestrichen. Die Tagesschau fragt, ob Deutschland den Anschluss verliert.",
+      "title": "Deutsche verbrauchen 2026 weniger Energie",
+      "summary": "Der Energieverbrauch sinkt laut Experten in diesem Jahr, vor allem beim Heizöl. Zugleich wächst der Anteil erneuerbarer Energien.",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/energiebilanz-heizoel-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Energie"
+    },
+    {
+      "title": "Bosch streicht in Abstatt weitere 750 Stellen",
+      "summary": "Sparzwang in der Autoindustrie und Konkurrenz aus Asien belasten die Mobilitätssparte von Bosch. Betroffen ist die Entwicklung von Bremssystemen. Der konzernweite Abbau summiert sich laut FAZ auf mehr als 30.000 Stellen.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bosch-streicht-in-abstatt-weitere-750-arbeitsplaetze-a-bf826fae-4ad6-4e20-9577-f6f6065346b3#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "Rheinmetall senkt Prognose, Aktie fällt um 17 Prozent",
+      "summary": "Rheinmetall wächst kräftig, aber schwächer als angekündigt. Der Konzern senkt deshalb zum zweiten Mal seine Prognose, die Aktionäre reagieren mit deutlichen Verkäufen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-senkt-prognose-erneut-aktie-bricht-um-17-prozent-ein-201654721.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Hochtief profitiert vom KI-Boom",
+      "summary": "Der Baukonzern meldet Rekordaufträge und einen um 40 Prozent höheren Gewinn. Treiber sind Rechenzentren für KI in Asien, den USA und Europa.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/hochtief-baukonzern-profitiert-von-ki-boom-gewinn-um-40-prozent-gesteigert-a-6d8bc614-f07c-41c3-b81b-6234a608f913#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Deutsche Firmen bei US-Investoren so gefragt wie lange nicht",
+      "summary": "Ausländische Firmen kaufen immer mehr deutsche Unternehmen, besonders US-Investoren mit Milliardendeals. So beliebt waren deutsche Firmen seit fast 20 Jahren nicht.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-deutsche-firmen-bei-us-investoren-so-beliebt-wie-seit-fast-20-jahren-nicht-mehr-a-1479c9f8-52b1-4d4b-8da4-7c18fa2c4aff#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "SPD setzt Wirtschaftsministerin Frist beim Spritpreisdeckel",
+      "summary": "Wirtschaftsministerin Reiche hat nur einen zurückhaltenden Gesetzentwurf zu einer Obergrenze für Spritpreise vorgelegt. Die SPD setzt ihr nun eine Frist; auch Finanzminister Klingbeil will einen spürbaren Deckel.",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spd-setzt-wirtschaftsministerin-frist-bei-spritpreisdeckel-a-3798c7f9-3ff9-4f47-a946-ab6fdfa06371#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "Pakete aus Drittstaaten werden teurer",
+      "summary": "Für Bestellungen aus Nicht-EU-Ländern kommen künftig zwei Euro Bearbeitungsgebühr dazu. Bei günstigen Waren frisst das den Preisvorteil schnell auf.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/neue-eu-gebuehr-wie-teuer-wird-shopping-bei-temu-und-shein-201655162.html",
+      "source": "FAZ Wirtschaft",
       "category": "Politik & Handel",
-      "url": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html",
-      "source": "tagesschau Wirtschaft"
+      "tipp": "Bei Bestellungen aus Nicht-EU-Ländern die zusätzlichen zwei Euro je Paket einrechnen."
     },
     {
-      "title": "Deutsche kaufen 38 Prozent weniger Heizöl",
-      "summary": "Deutschland verbraucht dieses Jahr wohl weniger Energie, auch Privathaushalte sparen. Manche fossile Energieträger finden trotzdem mehr Absatz.",
-      "category": "Energie",
-      "url": "https://www.spiegel.de/wirtschaft/energiepreise-deutsche-kaufen-38-prozent-weniger-heizoel-a-0eef58fb-5baa-4c21-8938-98aca25e9769#ref=rss",
-      "source": "Spiegel Wirtschaft"
-    },
-    {
-      "title": "Leag gewinnt Ausschreibung für neue Gaskraftwerke",
-      "summary": "Der ostdeutsche Stromerzeuger Leag setzt sich bei der Ausschreibung neuer Kraftwerkskapazitäten durch. Davon profitiert die Lausitz.",
-      "category": "Energie",
-      "url": "https://www.faz.net/aktuell/wirtschaft/leag-raeumt-bei-kraftwerksausschreibung-ab-lausitz-profitiert-accg-201647105.html",
-      "source": "FAZ Wirtschaft"
-    },
-    {
-      "title": "E10 kostet wieder weniger als 2 Euro",
-      "summary": "Der Preis für E10 fällt unter 2 Euro je Liter, so günstig war Sprit zuletzt im Juli. Diesel entwickelt sich anders.",
-      "category": "Energie",
-      "url": "https://www.handelsblatt.com/politik/deutschland/mobilitaetskosten-benzinpreis-fuer-e10-faellt-wieder-unter-2-euro/100267251.html",
-      "source": "Handelsblatt"
-    },
-    {
-      "title": "DB-Cargo-Sanierung stockt",
-      "summary": "Die Gewerkschaft erwartet weitere Probleme. Abschreibungen auf die britische Tochter gefährden die schwarze Null, Brüssel verlangt bis Ende 2026 Gewinne, sonst droht die Abwicklung.",
-      "category": "Unternehmen",
-      "url": "https://www.handelsblatt.com/unternehmen/dienstleister/eisenbahn-gewerkschaft-erwartet-weitere-probleme-bei-db-cargo-sanierung/100267284.html",
-      "source": "Handelsblatt"
+      "title": "EU-Umweltausschuss lockert das Verbrenner-Aus",
+      "summary": "Der Umweltausschuss des Europaparlaments will, dass neue Verbrenner auch nach 2035 zugelassen werden können. Auch die Elektro-Quote für Firmenflotten fällt.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/verbrennerverbot-eu-parlament-besiegelt-aus-201650057.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Politik & Handel"
     }
   ]
 }
