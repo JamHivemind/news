@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-06T02:30:20.863Z",
+ "fetched": "2026-11-06T03:47:13.123Z",
  "hours": 48,
  "sources": [
   {
@@ -13,6 +13,13 @@
    "focus": "Ersatzweg, falls der direkte Feed ausfällt (sperrt GitHub-Server). Doppelte nur einmal nehmen.",
    "ok": true,
    "items": [
+    {
+     "title": "CO3 - Alle Nachrichten und Informationen, News, Tipps und Infos zu CO3 - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tdURublBtNG1vMjZ4eng2WjVlZHB6M2VQZFdfalVYUXJmUGhQYl92QTlDR2VVZUtLZlJkbDkyV3pRYnBMaDVmSlM0SDJRR0xvUGxJ?oc=5",
+     "date": "2026-11-06T02:46:29.000Z",
+     "text": "CO3 - Alle Nachrichten und Informationen, News, Tipps und Infos zu CO3 deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    },
     {
      "title": "CoTrainer – und KI bringt Ordnung ins Vereinsleben - deutsche-startups.de",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdHdTY2hTOUdtak9JVXhJT2J6ZU1OU2VOOWNLZkxLOTBDcUZ1Q0FOSElHWnRMQWZvbkVlVmJxNGdWUl96U09yMjB3NFVtZklIRVVoaTdadG9ydEk4Zk9BcEg1cl9QZmYyb3JKUXRSZ3Vya0djcmhDS0lBcldHZDhtM1hFUU9Qa2gwb1UzeUJzeG9FRms5S0RJbA?oc=5",
@@ -31,45 +38,9 @@
   },
   {
    "name": "Gründerszene",
-   "ok": true,
-   "items": [
-    {
-     "title": "„Keine Entscheidung gegen Max“: Warum der Finn-Gründer nur vier Monate nach dem Unicorn-Status als CEO gehen musste",
-     "url": "https://www.businessinsider.de/gruenderszene/finn-warum-der-gruender-nach-nur-4-monate-gehen-musste/",
-     "date": "2026-11-05T15:05:01.000Z",
-     "text": "Trotz Einhorn-Status musste Maximilian Wühr seinen Posten als Finn-Chef abgeben. Gründerszene kennt die Hintergründe."
-    },
-    {
-     "title": "Ehepaar gründet mit Freunden eine Bagel-Kette – und will jetzt 50 Stores eröffnen",
-     "url": "https://www.businessinsider.de/gruenderszene/ehepaar-gruendet-mit-freunden-eine-bagel-kette-und-will-50-stores-eroeffnen/",
-     "date": "2026-11-05T10:34:16.000Z",
-     "text": "Pia und René Westphal haben gemeinsam mit zwei Freunden die New York Bagel Bar gegründet. In den nächsten fünf Jahren wollen sie 50 Läden eröffnen."
-    },
-    {
-     "title": "Sequoia schließt Londoner Büro, will weniger Meetings und Hierarchie",
-     "url": "https://www.businessinsider.de/gruenderszene/sequoia-schliesst-londoner-buero-will-weniger-meetings-und-hierarchie/",
-     "date": "2026-11-05T10:32:12.000Z",
-     "text": "Sequoia Capital schließt seine Niederlassung in London. Zudem wird die Führungshierarchie abgeflacht."
-    },
-    {
-     "title": "Europas größtes Business-Angel-Netzwerk bringt Gründergeist ins Klassenzimmer",
-     "url": "https://www.businessinsider.de/gruenderszene/sponsored-post/companisto-europas-groesstes-business-angel-netzwerk-foerdert-gruendergeist/",
-     "date": "2026-11-05T10:20:00.000Z",
-     "text": "Companisto ist das investmentstärkste Business-Angel-Netzwerk der EU – mit über 6500 Investoren und einer Mission: Gründungsgeist fördern."
-    },
-    {
-     "title": "Das waren die besten DHDL-Deals der neusten Staffel",
-     "url": "https://www.businessinsider.de/gruenderszene/dhdl-die-top-10-besten-deals-der-neuesten-staffel/",
-     "date": "2026-11-05T07:09:55.000Z",
-     "text": "In der 20. Staffel von „Die Höhle der Löwen“ waren 44 Startups am Start. Diese DHDL-Deals haben nach der Show tatsächlich stattgefunden."
-    },
-    {
-     "title": "Wenn Teams wachsen: Warum ein einzelnes Konto oft nicht mehr ausreicht",
-     "url": "https://www.businessinsider.de/gruenderszene/sponsored-post/wenn-teams-wachsen-warum-ein-einzelnes-konto-oft-nicht-mehr-ausreicht-holvi/",
-     "date": "2026-11-04T10:15:00.000Z",
-     "text": "Erfahren Sie, wie ein Geschäftskonto von Holvi die Organisation von Unternehmensausgaben für wachsende Teams erleichtert."
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 403",
+   "items": []
   },
   {
    "name": "EU-Startups",
@@ -236,27 +207,6 @@
      "via": "GA online"
     },
     {
-     "title": "Star-Club-Gründer Horst Fascher ist tot - FAZ",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3MxT1BVQkY0dDc1UDU3ZFhfWVE1YWh5aG1DYzE2TTNHM0JiTElCUVh6bjlYdFRuMnQ0X3hIa0JQZ2lwYmdwbDdjeV9QX1Y4VXEwQmV3eXNPNDlVZGJuYloxV2paaXlvb2JiWk0wMm5XOHRrUjVyR0NXcUhuTmJOQTBITkx6eDFhaXMtRXNacHVqZzQyNHVyTUVVZHVhZk00SnA1bzZtaGNQV3dja1JBc0Z5ZDE4V0E?oc=5",
-     "date": "2026-11-02T07:12:48.000Z",
-     "text": "Star-Club-Gründer Horst Fascher ist tot FAZ",
-     "via": "FAZ"
-    },
-    {
-     "title": "Horst Fascher im Alter von 90 Jahren gestorben - Radio Hamburg",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWxPWnBjRHZ4amo3cGt0TVhVN2s5REcyanhZZlNqUC1MOU9laXRzQk5lYmVoNzNxYmhoeHMyU1pFdzM5eWY1RkZMRkhEUnlmcERtdlFDdnF4WlNNYlJwVEt5SWV4TVJzNTA5RGdLemFkZmZOaGR1ZlNJRTN6YzJMdG0zdGVNVXZTRVVic2dLRHoxZ0VYZF9tS1dDWVBrdWl5NXpTM0JtdWc2RVk?oc=5",
-     "date": "2026-11-01T18:09:47.000Z",
-     "text": "Horst Fascher im Alter von 90 Jahren gestorben Radio Hamburg",
-     "via": "Radio Hamburg"
-    },
-    {
-     "title": "Er brachte die Beatles nach Hamburg – jetzt ist er tot - t-online – Hamburg",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkxOTVBuMUlYVS1QSDV0Q1MzM1gzTHd4OHA3YzdOalF4VVN0M1k5WFpodHREbGtGQjk0Z3c1UzMydy1SWmRkUUNBa1k4U2dKQkdFc0JFWEUzbkY1RG84ZmZMWGRQNFVZcmlxUkJBR2JoWWRZSm9Ua3lZbmxRclpBbTJ0cE1mSTQ1cVdQMF9HYVFCRmI4NVo4UlktcklMTHVmZVppVGVTdi12TmRkRVIzV3BvNzVQclU3U3VZVTZKUEljbXVUX3c?oc=5",
-     "date": "2026-11-02T00:58:05.000Z",
-     "text": "Er brachte die Beatles nach Hamburg – jetzt ist er tot t-online – Hamburg",
-     "via": "t-online – Hamburg"
-    },
-    {
      "title": "Nach schwerer Krankheit: Gründer der Poletto Winebar stirbt mit nur 59 Jahren - Hamburger Abendblatt",
      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbE1LY3lTdllFTC00MFJxcDd5VThQakppcm5TSUhxRUZET1hpMW1IM0dFZEJKU29icllXNmZpN0Fod1J5d251S2djeVozSkFXRlRPZnFHWkYxOGNSRVV6RnFkMVZGc0FLenZaWVB3cy1TRmd4VVNwREJvQURudnIxYmVPNWMxTExNNFVSU0pLeHZYeWZxTXdYT0dMWXdsVU5lbnZsVWZxZi1BazY4ZnFHbVRzTUNTMmFQLUVkUEtpSER4UXdVQ2RRUk1lYVhGUGpXYkNlMUZaUnctVzM4WGptYm1uU1V6MndqQnJWV3FKUjhLTW8?oc=5",
      "date": "2026-11-03T11:49:00.000Z",
@@ -285,11 +235,11 @@
      "via": "aero.de"
     },
     {
-     "title": "Elektrisch in die Luft: EU-Millionen und Kaufzusagen für Flugzeug-Startup Vaeridion - Tagesspiegel",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN1cwRVN4WVhyUnFZamU0ejJ6MmZoUjZqcmxJTUxWeksyWEcwYmx1RS1ndHBndnhIZXFId21OSm1YNDJkTkV3ZGNOZFh6aGp2bnctRk1TYVVsX1NSX1Rna0hIZ0pSbEhodk5nYktIYlg2dVNmMGFJRUVlY2hPVzVYZnZBV2dmQ0l5NjNNbVR4VmdIYWN3UWxKTlJpcGI1UEVzNXZOdVlGVzNabVh2ZmhyY2VJZEhmR3luaHlWRDMydmprc0ZLZzlWUVBQWU5nQXFZeDZodWtB?oc=5",
-     "date": "2026-11-05T08:11:04.000Z",
-     "text": "Elektrisch in die Luft: EU-Millionen und Kaufzusagen für Flugzeug-Startup Vaeridion Tagesspiegel",
-     "via": "Tagesspiegel"
+     "title": "120 Millionen Euro: E-Flieger Vaeridion trotzt dem Pleite-Trend - CIO DE",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVdtaHk0R1J1azR6a2hUa2VuSk90NzNWbGVRUlRfenBTN0NwRFZDVk53bnZwYXphaXNmTGxsdndDMTV5M3AyUXptQk1jYUpDLUYxSnBEZUlUZmw3ZHZWUnBnYjhLY3JWa3FsbUQwREdJY0RMUUhELTJtVEg1cWVud0lGal9LTDJBZHA5N2N6QkF6QjQ1T0V2aFFJNWMyVlp4LVBGMQ?oc=5",
+     "date": "2026-11-05T18:05:21.000Z",
+     "text": "120 Millionen Euro: E-Flieger Vaeridion trotzt dem Pleite-Trend CIO DE",
+     "via": "CIO DE"
     },
     {
      "title": "Vaeridion sichert sich 124 Millionen Euro für Elektroflugzeug - FAZ",
