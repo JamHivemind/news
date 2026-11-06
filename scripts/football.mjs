@@ -30,10 +30,11 @@ export function renderFootball(cfg, metrics, panel, tile) {
   let fan = `<section class="fan-stage">`;
   if (next) {
     const o = opp(next), op = posOf(o.id);
-    fan += `<div class="fan-next" data-kickoff="${esc(next.utc)}">
+    fan += `<div class="fan-next" data-kickoff="${esc(next.utc)}" data-league="${esc(f.league)}" data-season="${esc(f.season)}" data-day="${next.day}" data-team="${id}">
       <div class="fan-flag" data-flag>Nächstes Spiel</div>
       <div class="fan-match"><span class="fan-us">${esc(o.home ? short : o.short)}</span><span class="fan-vs">vs</span><span class="fan-them">${esc(o.home ? o.short : short)}</span></div>
       <div class="fan-when">${esc(when(next.utc))} · ${next.day}. Spieltag · ${o.home ? "Heimspiel im Volkspark 🏟️" : `auswärts bei ${esc(o.name)}`}${op ? ` · Gegner auf Platz ${op}` : ""}</div>
+      <div class="fan-live" data-live hidden aria-live="polite"></div>
       <div class="fan-count" data-count aria-live="off"><div><b data-d>–</b><span>Tage</span></div><div><b data-h>–</b><span>Std</span></div><div><b data-m>–</b><span>Min</span></div><div><b data-s>–</b><span>Sek</span></div></div>
     </div>`;
   } else {
