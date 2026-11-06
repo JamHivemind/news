@@ -65,14 +65,16 @@ export function columns(points, { color = "var(--s1)", unit = "", label = dayLab
 }
 
 // Linien, mehrere Reihen auf einer gemeinsamen Achse. series: [{name, color, points:[[date, y]]}]
-export function lines(series, { base = null, unit = "", label = dayLabel, decimals = 0 } = {}) {
+// Optional: min (feste Untergrenze, z. B. 0 bei Punkten) und step (fester Achsenschritt)
+export function lines(series, { base = null, unit = "", label = dayLabel, decimals = 0, min = null, step: fixStep = null } = {}) {
   const dates = [...new Set(series.flatMap(s => s.points.map(p => p[0])))].sort();
   if (dates.length < 2) return `<div class="chart-empty">Noch zu wenig Daten</div>`;
   const W = 520, H = 200, padL = 36, padR = 86, padB = 22, padT = 10, plotW = W - padL - padR, plotH = H - padB - padT;
   const ys = series.flatMap(s => s.points.map(p => p[1]));
   let lo = Math.min(...ys), hi = Math.max(...ys);
   const span = hi - lo || 1; lo -= span * 0.08; hi += span * 0.08;
-  const step = niceMax(hi - lo, 4).step;
+  if (min !== null) lo = Math.max(lo, min);
+  const step = fixStep || niceMax(hi - lo, 4).step;
   lo = Math.floor(lo / step) * step; hi = Math.ceil(hi / step) * step;
   const X = d => padL + (dates.indexOf(d) / (dates.length - 1)) * plotW;
   const Y = v => padT + plotH - ((v - lo) / (hi - lo)) * plotH;
@@ -86,13 +88,14 @@ export function lines(series, { base = null, unit = "", label = dayLabel, decima
     if (i % every === 0) g += `<text x="${X(d)}" y="${H - 6}" class="ax" text-anchor="middle">${label(d)}</text>`;
   });
   // Endbeschriftungen ohne Überlappung
-  const ends = series.map(s => ({ s, y: Y(s.points.at(-1)[1]) })).sort((a, b) => a.y - b.y);
+  // Reihen mit end: false bekommen keinen Endpunkt und keine Endbeschriftung (z. B. Hilfslinien)
+  const ends = series.filter(s => s.end !== false).map(s => ({ s, y: Y(s.points.at(-1)[1]) })).sort((a, b) => a.y - b.y);
   for (let i = 1; i < ends.length; i++) if (ends[i].y - ends[i - 1].y < 13) ends[i].y = ends[i - 1].y + 13;
   series.forEach(s => {
     const d = s.points.map((p, i) => `${i ? "L" : "M"}${X(p[0]).toFixed(1)},${Y(p[1]).toFixed(1)}`).join("");
     g += `<path d="${d}" class="line" style="stroke:${s.color}${s.dash ? ";stroke-dasharray:5 4" : ""}"/>`;
     const last = s.points.at(-1);
-    g += `<circle cx="${X(last[0])}" cy="${Y(last[1])}" r="4" class="dot" style="fill:${s.color}"/>`;
+    if (s.end !== false) g += `<circle cx="${X(last[0])}" cy="${Y(last[1])}" r="4" class="dot" style="fill:${s.color}"/>`;
   });
   ends.forEach(({ s, y }) => {
     // Lange Namen stehen in der Legende, am Linienende dann nur der Wert

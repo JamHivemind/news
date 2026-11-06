@@ -61,7 +61,16 @@ async function football(f) {
   const tab = await get(`https://api.openligadb.de/getbltable/${f.league}/${f.season}`);
   const table = tab.map((t, i) => ({ pos: i + 1, id: t.teamInfoId, team: t.teamName, short: t.shortName,
     pts: t.points, sp: t.matches, w: t.won, d: t.draw, l: t.lost, g: t.goals, o: t.opponentGoals, diff: t.goalDiff }));
-  return { matches, table, fetched: new Date().toISOString() };
+  // Punkteverlauf aller Vereine: { teamId: [[Spieltag, Punkte gesamt], …] } für den Vergleich mit der Spitze
+  const progress = {};
+  for (const m of all.filter(m => m.matchIsFinished && end(m)).sort((a, b) => a.group.groupOrderID - b.group.groupOrderID)) {
+    const r = end(m), day = m.group.groupOrderID;
+    for (const [id, own, opp] of [[m.team1.teamId, r.pointsTeam1, r.pointsTeam2], [m.team2.teamId, r.pointsTeam2, r.pointsTeam1]]) {
+      const list = (progress[id] ??= []), before = list.at(-1)?.[1] ?? 0;
+      list.push([day, before + (own > opp ? 3 : own === opp ? 1 : 0)]);
+    }
+  }
+  return { matches, table, progress, fetched: new Date().toISOString() };
 }
 
 const dashboards = readdirSync(ROOT, { withFileTypes: true })

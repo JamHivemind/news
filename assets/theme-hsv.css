@@ -126,3 +126,7 @@
 @media (prefers-reduced-motion:reduce){
   .fan-ticker div,.fan-flag.hot{animation:none}
 }
+
+/* Rechenhilfe über den Diagrammen (Klassenerhalt, Aufholjagd) */
+.fan-calc{font-size:.86rem;line-height:1.5;margin:0 0 10px;padding:8px 12px;border-left:3px solid var(--hsv);background:var(--accent-soft);border-radius:6px}
+.fan-calc b{color:#fff}.fan-calc .ok{color:var(--win);font-weight:700}.fan-calc .bad{color:var(--loss);font-weight:700}

@@ -75,13 +75,51 @@ export function renderFootball(cfg, metrics, panel, tile) {
       "Farben: Champions League, Europa League, Relegation, Abstieg.");
   }
   if (played.length > 1) {
+    // Ganze Saison auf der Achse (34 Spieltage bei 18 Vereinen), damit man sieht, was noch kommt
+    const N = F.table?.length ? 2 * (F.table.length - 1) : F.matches.length, GOAL = f.goal || 40;
+    const dd = d => String(d).padStart(2, "0"), days = Array.from({ length: N }, (_, i) => i + 1);
     let sum = 0;
-    const pts = played.map(m => { const r = result(m, id).r; sum += r === "S" ? 3 : r === "U" ? 1 : 0; return [String(m.day).padStart(2, "0"), sum]; });
-    const pace = played.map((m, i) => [String(m.day).padStart(2, "0"), Math.round((i + 1) * (40 / 34) * 10) / 10]);
-    panels += panel("Punkte-Jagd", "Punkte nach jedem Spieltag, gestrichelt: Kurs auf 40 Punkte (gilt als sicher)",
-      legend([{ name: short, color: "var(--s1)" }, { name: "40-Punkte-Kurs", color: "var(--s4)" }]) +
-      lines([{ name: short, color: "var(--s1)", points: pts }, { name: "40-Punkte-Kurs", color: "var(--s4)", points: pace, dash: true }],
-        { label: d => `${Number(d)}.`, decimals: 0 }), "Eigene Rechnung aus den Ergebnissen.");
+    const pts = played.map(m => { const r = result(m, id).r; sum += r === "S" ? 3 : r === "U" ? 1 : 0; return [dd(m.day), sum]; });
+    const pace = days.map(d => [dd(d), Math.round(d * (GOAL / N) * 10) / 10]);
+    // Letzte Chance: so viele Punkte braucht man nach Spieltag d mindestens, sonst sind 40 nicht mehr zu schaffen
+    const must = days.filter(d => GOAL - 3 * (N - d) >= 0).map(d => [dd(d), GOAL - 3 * (N - d)]);
+    const rest = F.matches.length - played.length, max = sum + 3 * rest, need = GOAL - sum;
+    let calc;
+    if (need <= 0) calc = `<span class="ok">✔ ${GOAL} Punkte geschafft</span>, der Klassenerhalt ist so gut wie sicher.`;
+    else if (max < GOAL) calc = `<span class="bad">✘ ${GOAL} Punkte sind rechnerisch nicht mehr möglich</span> (höchstens noch ${max}). Jetzt zählt nur der Abstand zu Platz 16.`;
+    else {
+      const wins = Math.ceil(need / 3), free = Math.floor(N - need / 3);
+      calc = `Noch <b>${need} Punkte</b> bis ${GOAL}, das sind mindestens <b>${wins} Siege</b> aus ${rest} Spielen.<br>` +
+        `Selbst ohne weiteren Punkt bleiben die ${GOAL} rechnerisch erreichbar bis zum <b>${free}. Spieltag</b>. Wo die Punkte mindestens stehen müssen, zeigt die rote Linie.`;
+    }
+    panels += panel("Punkte-Jagd", `Punkte nach jedem Spieltag. Gelb: Kurs auf ${GOAL} Punkte (gilt als sicher). Rot: letzte Chance, darunter sind ${GOAL} nicht mehr drin.`,
+      `<div class="fan-calc">${calc}</div>` +
+      legend([{ name: short, color: "var(--s1)" }, { name: `${GOAL}-Punkte-Kurs`, color: "var(--s4)" }, { name: "Letzte Chance", color: "var(--loss)" }]) +
+      lines([{ name: short, color: "var(--s1)", points: pts },
+        { name: `${GOAL}-Punkte-Kurs`, color: "var(--s4)", points: pace, dash: true },
+        { name: "Letzte Chance (mind.)", color: "var(--loss)", points: must, dash: true, end: false }],
+        { label: d => `${Number(d)}.`, decimals: 0, base: GOAL, min: 0, step: 10 }),
+      `Eigene Rechnung: Rote Linie = ${GOAL} minus 3 Punkte je Spiel, das danach noch übrig ist.`);
+
+    // Aus Spaß: Aufholjagd auf Platz 1
+    const top = F.table?.[0], prog = F.progress?.[top?.id];
+    if (top && me && prog?.length > 1) {
+      const lead = prog.map(([d, p]) => [dd(d), p]);
+      const gap = top.pts - me.pts, myMax = me.pts + 3 * (N - me.sp), room = myMax - top.pts - 1;
+      const perGame = (p, n) => n ? (p / n).toLocaleString("de-DE", { maximumFractionDigits: 2 }) : "0";
+      const proj = t => Math.round(t.pts / (t.sp || 1) * N);
+      let txt;
+      if (top.id === id) txt = `<span class="ok">🏆 Wir sind Tabellenführer!</span> ${me.pts - (F.table[1]?.pts ?? me.pts)} Punkte vor ${esc(F.table[1]?.short || "Platz 2")}.`;
+      else if (room < 0) txt = `<span class="bad">Rechnerisch ist ${esc(top.short || top.team)} nicht mehr einzuholen.</span> ${gap} Punkte Rückstand.`;
+      else txt = `<b>${gap} Punkte</b> Rückstand auf ${esc(top.short || top.team)}. Rechnerisch noch drin: Wenn wir alle ${N - me.sp} Spiele gewinnen (${myMax} Punkte), ` +
+        `darf ${esc(top.short || top.team)} höchstens noch <b>${room} Punkte</b> holen.<br>` +
+        `Schnitt pro Spiel: ${esc(short)} ${perGame(me.pts, me.sp)}, ${esc(top.short || top.team)} ${perGame(top.pts, top.sp)}. Hochgerechnet aufs Saisonende: ${proj(me)} zu ${proj(top)} Punkte.`;
+      panels += panel("Aufholjagd auf Platz 1", "Nicht ganz ernst gemeint: unser Punkteverlauf gegen den Tabellenführer",
+        `<div class="fan-calc">${txt}</div>` +
+        legend([{ name: short, color: "var(--s1)" }, { name: top.short || top.team, color: "var(--s2)" }]) +
+        lines([{ name: short, color: "var(--s1)", points: pts }, { name: top.short || top.team, color: "var(--s2)", points: lead }],
+          { label: d => `${Number(d)}.`, decimals: 0, min: 0 }), "Eigene Rechnung aus allen Ergebnissen der Liga (OpenLigaDB).");
+    }
   }
   if (played.length) {
     const li = played.slice().reverse().map(m => { const x = result(m, id), o = opp(m);
