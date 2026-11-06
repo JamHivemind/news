@@ -123,8 +123,8 @@
     "away": "Borussia Mönchengladbach",
     "awayShort": "Gladbach",
     "awayId": 87,
-    "g1": null,
-    "g2": null,
+    "g1": 0,
+    "g2": 0,
     "stadium": null
    },
    {
@@ -607,6 +607,20 @@
    },
    {
     "pos": 10,
+    "id": 100,
+    "team": "Hamburger SV",
+    "short": "HSV",
+    "pts": 10,
+    "sp": 9,
+    "w": 3,
+    "d": 1,
+    "l": 5,
+    "g": 7,
+    "o": 19,
+    "diff": -12
+   },
+   {
+    "pos": 11,
     "id": 95,
     "team": "FC Augsburg",
     "short": "Augsburg",
@@ -620,7 +634,7 @@
     "diff": 3
    },
    {
-    "pos": 11,
+    "pos": 12,
     "id": 16,
     "team": "VfB Stuttgart",
     "short": "Stuttgart",
@@ -634,7 +648,7 @@
     "diff": -1
    },
    {
-    "pos": 12,
+    "pos": 13,
     "id": 175,
     "team": "TSG Hoffenheim",
     "short": "Hoffenheim",
@@ -648,7 +662,7 @@
     "diff": -2
    },
    {
-    "pos": 13,
+    "pos": 14,
     "id": 65,
     "team": "1. FC Köln",
     "short": "Köln",
@@ -662,7 +676,7 @@
     "diff": -3
    },
    {
-    "pos": 14,
+    "pos": 15,
     "id": 31,
     "team": "SC Paderborn 07",
     "short": "Paderborn",
@@ -674,20 +688,6 @@
     "g": 6,
     "o": 9,
     "diff": -3
-   },
-   {
-    "pos": 15,
-    "id": 100,
-    "team": "Hamburger SV",
-    "short": "HSV",
-    "pts": 9,
-    "sp": 8,
-    "w": 3,
-    "d": 0,
-    "l": 5,
-    "g": 7,
-    "o": 19,
-    "diff": -12
    },
    {
     "pos": 16,
@@ -722,10 +722,10 @@
     "id": 87,
     "team": "Borussia Mönchengladbach",
     "short": "Gladbach",
-    "pts": 4,
-    "sp": 8,
+    "pts": 5,
+    "sp": 9,
     "w": 1,
-    "d": 1,
+    "d": 2,
     "l": 6,
     "g": 11,
     "o": 22,
@@ -1346,7 +1346,7 @@
     ]
    ]
   },
-  "fetched": "2026-11-06T18:26:09.441Z"
+  "fetched": "2026-11-06T19:36:49.206Z"
  },
- "updated": "2026-11-06T18:26:09.441Z"
+ "updated": "2026-11-06T19:36:49.206Z"
 }

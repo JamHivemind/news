@@ -280,7 +280,7 @@
    ],
    [
     "2026-11-06",
-    186.02
+    187.11
    ]
   ],
   "MSFT": [
@@ -546,7 +546,7 @@
    ],
    [
     "2026-11-06",
-    532.43
+    533.13
    ]
   ],
   "GOOGL": [
@@ -812,7 +812,7 @@
    ],
    [
     "2026-11-06",
-    285.43
+    285.88
    ]
   ],
   "META": [
@@ -1078,7 +1078,7 @@
    ],
    [
     "2026-11-06",
-    616.92
+    616.89
    ]
   ]
  },
@@ -1091,25 +1091,25 @@
  "hf": [
   {
    "id": "moonshotai/Kimi-K3.1-Pro",
-   "likes": 1428,
+   "likes": 1442,
    "downloads": 18432,
    "task": "image-text-to-text"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 905,
+   "likes": 914,
    "downloads": 19139,
    "task": "image-to-3d"
   },
   {
    "id": "ccore/Qwen3.5-4B-3D-Coder",
-   "likes": 769,
+   "likes": 773,
    "downloads": 190243,
    "task": ""
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 10829,
+   "likes": 10841,
    "downloads": 2607491,
    "task": "image-to-video"
   },
@@ -1126,6 +1126,6 @@
    "task": ""
   }
  ],
- "updated": "2026-11-06T18:26:11.726Z",
+ "updated": "2026-11-06T19:36:52.415Z",
  "updatedDay": "2026-11-06"
 }
