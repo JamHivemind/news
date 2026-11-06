@@ -41,6 +41,12 @@
       "url": "https://news.google.com/rss/search?q=site%3Ahamburg.de&hl=de&gl=DE&ceid=DE:de",
       "type": "rss",
       "focus": "Offizielle Mitteilungen von Senat und Behörden: Entscheidungen, Termine, Bauprojekte. Keine Veranstaltungswerbung."
+    },
+    {
+      "name": "NIUS (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Anius.de%20Hamburg&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur Meldungen mit Hamburg-Bezug. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen."
     }
   ],
   "entities": [

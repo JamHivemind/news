@@ -22,7 +22,8 @@
     { "name": "Google News: BFH und BVerfG", "url": "https://news.google.com/rss/search?q=Bundesfinanzhof%20OR%20%22BFH%22%20Urteil%20Steuer%20OR%20Bundesverfassungsgericht%20Erbschaftsteuer&hl=de&gl=DE&ceid=DE:de", "type": "rss" },
     { "name": "Google News: Steuergesetze", "url": "https://news.google.com/rss/search?q=Jahressteuergesetz%20OR%20Steuerreform%20Bundestag%20OR%20Bundesfinanzministerium%20Steuer&hl=de&gl=DE&ceid=DE:de", "type": "rss" },
     { "name": "LTO (Google News)", "url": "https://news.google.com/rss/search?q=site%3Alto.de%20Steuer&hl=de&gl=DE&ceid=DE:de", "type": "rss" },
-    { "name": "Haufe Steuern (Google News)", "url": "https://news.google.com/rss/search?q=site%3Ahaufe.de%20Grundsteuer%20OR%20Erbschaftsteuer%20OR%20Grunderwerbsteuer&hl=de&gl=DE&ceid=DE:de", "type": "rss" }
+    { "name": "Haufe Steuern (Google News)", "url": "https://news.google.com/rss/search?q=site%3Ahaufe.de%20Grundsteuer%20OR%20Erbschaftsteuer%20OR%20Grunderwerbsteuer&hl=de&gl=DE&ceid=DE:de", "type": "rss" },
+    { "name": "NIUS", "url": "https://nius.de/rss", "type": "rss", "focus": "Nur Steuern, Grundsteuer, Erbschaft, Abgaben und Standortfragen. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen." }
   ],
   "entities": [
     ["Bundesverfassungsgericht", "\\b(Bundesverfassungsgericht|BVerfG|Karlsruhe)\\b"],

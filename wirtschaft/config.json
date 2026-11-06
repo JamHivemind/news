@@ -50,6 +50,12 @@
       "name": "Google News: Konjunktur",
       "url": "https://news.google.com/rss/search?q=Konjunktur%20Deutschland%20OR%20ifo%20OR%20Inflation%20Deutschland&hl=de&gl=DE&ceid=DE:de",
       "type": "rss"
+    },
+    {
+      "name": "NIUS",
+      "url": "https://nius.de/rss",
+      "type": "rss",
+      "focus": "Nur Wirtschaft, Arbeitsmarkt, Energie- und Strompreise, Haushalt. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen."
     }
   ],
   "entities": [
