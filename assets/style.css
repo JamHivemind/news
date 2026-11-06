@@ -196,3 +196,16 @@ footer a{color:var(--muted)}
 .ztime .zd{font-weight:700;font-variant-numeric:tabular-nums}
 .ztime .zin{color:var(--muted);font-size:.8rem;white-space:nowrap}
 @media (max-width:520px){.ztime li{grid-template-columns:1fr auto}.ztime .zx{grid-column:1/-1;grid-row:2}}
+
+/* Richtung der Quelle, Hamburg-Bezug, weitere Stimmen (Welt-Monitor, nutzbar in jedem Dashboard) */
+.ri{display:inline-block;font-size:.68rem;font-weight:600;padding:0 6px;border-radius:999px;margin-left:5px;vertical-align:1px;border:1px solid var(--border);color:var(--muted)}
+.ri-links{color:#b42318;border-color:rgba(180,35,24,.35)}
+.ri-mitte{color:var(--muted)}
+.ri-rechts{color:#1d4ed8;border-color:rgba(29,78,216,.35)}
+@media (prefers-color-scheme: dark){.ri-links{color:#f97066}.ri-rechts{color:#7aa2f7}}
+.tipp.hh{background:var(--accent-soft);color:var(--text)}
+.tipp.hh b{color:var(--accent)}
+.stimmen{font-size:.82rem;color:var(--muted);margin-top:8px;display:flex;flex-wrap:wrap;gap:4px 12px;align-items:baseline}
+.stimmen b{color:var(--text);font-weight:600}
+.stimmen a{text-decoration:none}
+.stimmen a:hover{text-decoration:underline}

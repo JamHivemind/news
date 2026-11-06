@@ -1,0 +1,32 @@
+{
+  "briefs": [
+    {
+      "date": "2026-11-06",
+      "file": "2026-11-06.html",
+      "headline": "Trump verspricht „großen Deal“ zur Ukraine, Kreml bremst",
+      "count": 17,
+      "sources": 10,
+      "cats": {
+        "Krieg & Konflikte": 4,
+        "Weltpolitik": 4,
+        "Europa": 3,
+        "Katastrophen & Klima": 2,
+        "Wirtschaft & Handel": 3,
+        "Hafen & Schifffahrt": 1
+      },
+      "ents": {
+        "Ukraine": 2,
+        "Russland": 4,
+        "USA": 5,
+        "Iran": 2,
+        "Israel": 1,
+        "EU": 2,
+        "China": 1
+      }
+    }
+  ],
+  "site": {
+    "title": "Welt-Monitor",
+    "description": "Was auf der Welt passiert: Konflikte, Katastrophen, Weltpolitik und Weltwirtschaft, mit dem Blick, was es für Deutschland und Hamburg heißt"
+  }
+}

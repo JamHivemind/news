@@ -94,6 +94,28 @@ async function hf() {
   return j.map(m => ({ id: m.id, likes: m.likes, downloads: m.downloads, task: m.pipeline_tag || "" }));
 }
 
+// Starke Erdbeben der letzten 7 Tage (USGS), ab Magnitude minMag
+async function usgs(minMag) {
+  const j = await get("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson");
+  return j.features.filter(f => f.properties.mag >= minMag)
+    .map(f => ({ mag: f.properties.mag, place: f.properties.place, time: new Date(f.properties.time).toISOString(),
+      lon: f.geometry.coordinates[0], lat: f.geometry.coordinates[1], url: f.properties.url }))
+    .sort((a, b) => b.mag - a.mag).slice(0, 12);
+}
+
+// Laufende Katastrophen (GDACS, UN/EU): orange und rot, in den letzten 14 Tagen aktiv. Dürren nur bei Rot.
+const GDACS_TYPES = { EQ: "Erdbeben", TC: "Wirbelsturm", FL: "Überschwemmung", VO: "Vulkan", WF: "Waldbrand", DR: "Dürre" };
+async function gdacs() {
+  const j = await get("https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?alertlevel=Orange;Red&eventlist=EQ;TC;FL;VO;WF;DR");
+  const since = new Date(Date.now() - 14 * 864e5).toISOString().slice(0, 10);
+  return j.features.map(f => ({ p: f.properties, c: f.geometry.coordinates }))
+    .filter(({ p }) => (p.todate || "").slice(0, 10) >= since && (p.eventtype !== "DR" || p.alertlevel === "Red"))
+    .map(({ p, c }) => ({ type: p.eventtype, art: GDACS_TYPES[p.eventtype] || p.eventtype, level: p.alertlevel,
+      name: p.name, country: (p.country || "").split(",").slice(0, 3).join(",").trim(),
+      from: (p.fromdate || "").slice(0, 10), to: (p.todate || "").slice(0, 10), lon: c[0], lat: c[1], url: p.url?.report || "" }))
+    .sort((a, b) => (a.level === b.level ? b.to.localeCompare(a.to) : a.level === "Red" ? -1 : 1)).slice(0, 12);
+}
+
 const dashboards = readdirSync(ROOT, { withFileTypes: true })
   .filter(d => d.isDirectory() && existsSync(join(ROOT, d.name, "config.json")))
   .map(d => d.name);
@@ -118,6 +140,14 @@ for (const name of dashboards) {
   if (cfg.metrics?.hf) {
     const v = await attempt("Hugging Face", hf);
     if (v) m.hf = v;
+  }
+  if (cfg.metrics?.usgs) {
+    const v = await attempt("USGS", () => usgs(cfg.metrics.usgs));
+    if (v) m.quakes = v;
+  }
+  if (cfg.metrics?.gdacs) {
+    const v = await attempt("GDACS", gdacs);
+    if (v) m.gdacs = v;
   }
   if (cfg.football) {
     const v = await attempt("Fußball", () => football(cfg.football));

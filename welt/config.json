@@ -1,0 +1,63 @@
+{
+  "order": 7,
+  "icon": "🌍",
+  "title": "Welt-Monitor",
+  "description": "Was auf der Welt passiert: Konflikte, Katastrophen, Weltpolitik und Weltwirtschaft, mit dem Blick, was es für Deutschland und Hamburg heißt",
+  "leser": "Leute aus Hamburg, die morgens in fünf Minuten wissen wollen, was in der Welt los ist und was davon bei ihnen ankommt",
+  "schwerpunkt": "Weltlage zuerst: Kriege und Konflikte, Naturkatastrophen, Weltpolitik (Wahlen, Gipfel, Sanktionen), Handel und Rohstoffe. Innenpolitik nur, wenn sie international wirkt. Jede Meldung bekommt, wenn es einen gibt, im Feld \"hamburg\" einen Satz, was sie für Deutschland oder Hamburg bedeutet (Hafen, Energie- und Spritpreise, Airbus, Zinsen, Sicherheit, Geflüchtete, Wetter). Keinen Bezug erfinden; gibt es keinen, Feld weglassen. Ausgewogen: Für Top-Meldungen nach Möglichkeit Stimmen aus allen drei Richtungen der Quellen (Feld \"stimmen\"). Meinungsstücke, Kommentare und Talk-Formate nie als Nachricht.",
+  "theme": "welt",
+  "globus": true,
+  "categories": [
+    "Krieg & Konflikte",
+    "Weltpolitik",
+    "Katastrophen & Klima",
+    "Wirtschaft & Handel",
+    "Europa",
+    "Hafen & Schifffahrt"
+  ],
+  "regionen": ["Europa", "Nahost", "Asien", "Amerika", "Afrika"],
+  "sources": [
+    { "name": "taz", "url": "https://taz.de/!p4608;rss/", "type": "rss", "richtung": "links" },
+    { "name": "Spiegel", "url": "https://www.spiegel.de/ausland/index.rss", "type": "rss", "richtung": "links" },
+    { "name": "Süddeutsche Zeitung", "url": "https://rss.sueddeutsche.de/rss/Politik", "type": "rss", "richtung": "links", "focus": "Nur Ausland und internationale Politik" },
+    { "name": "tagesschau", "url": "https://www.tagesschau.de/ausland/index~rss2.xml", "type": "rss", "richtung": "mitte" },
+    { "name": "Deutschlandfunk", "url": "https://www.deutschlandfunk.de/nachrichten-100.rss", "type": "rss", "richtung": "mitte", "focus": "Nur Ausland und internationale Politik" },
+    { "name": "BBC", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "type": "rss", "richtung": "mitte" },
+    { "name": "Reuters", "url": "https://news.google.com/rss/search?q=site%3Areuters.com%20world&hl=en-US&gl=US&ceid=US:en", "type": "rss", "richtung": "mitte" },
+    { "name": "WELT", "url": "https://www.welt.de/feeds/section/politik/ausland.rss", "type": "rss", "richtung": "rechts" },
+    { "name": "FAZ", "url": "https://www.faz.net/rss/aktuell/politik/ausland/", "type": "rss", "richtung": "rechts" },
+    { "name": "NZZ", "url": "https://www.nzz.ch/international.rss", "type": "rss", "richtung": "rechts" },
+    { "name": "NIUS", "url": "https://nius.de/rss", "type": "rss", "richtung": "rechts", "focus": "Nur Ausland, Weltpolitik, Migration mit internationalem Bezug. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht." },
+    { "name": "GDACS", "url": "https://www.gdacs.org/xml/rss.xml", "type": "rss", "focus": "Katastrophen-Warnsystem von UN und EU. Nur orange und rote Warnungen." },
+    { "name": "Hafen Hamburg (Google News)", "url": "https://news.google.com/rss/search?q=Hafen+Hamburg+OR+HHLA+OR+Containerschiff&hl=de&gl=DE&ceid=DE:de", "type": "rss", "hours": 96, "focus": "Nur Meldungen, die mit Weltlage, Handel oder Lieferketten zu tun haben" }
+  ],
+  "entities": [
+    ["Ukraine", "\\b(Ukrain\\w*|Kiew|Selenskyj)\\b"],
+    ["Russland", "\\b(Russland|russisch\\w*|Putin|Kreml)\\b"],
+    ["Israel", "\\b(Israel\\w*|Netanjahu)\\b"],
+    ["Gaza", "\\b(Gaza|Hamas)\\b"],
+    ["Iran", "\\b(Iran\\w*|Teheran)\\b"],
+    ["USA", "\\b(USA|US-\\w+|Trump|Washington)\\b", ""],
+    ["China", "\\b(China|chinesisch\\w*|Peking|Xi)\\b", ""],
+    ["EU", "\\b(EU|Brüssel|von der Leyen)\\b", ""],
+    ["NATO", "\\bNATO\\b"],
+    ["Taiwan", "\\bTaiwan\\b"],
+    ["Sudan", "\\bSudan\\b"]
+  ],
+  "entitiesTitle": "Länder in den Schlagzeilen",
+  "tiles": [
+    { "stock": "BZ=F", "label": "Ölpreis Brent, 30 Tage" },
+    { "stock": "^GDAXI", "label": "DAX, 30 Tage" },
+    { "stock": "GC=F", "label": "Gold, 30 Tage" },
+    { "ecb": "EXR.D.USD.EUR.SP00.A", "label": "Euro in Dollar", "decimals": 3, "unit": "$" }
+  ],
+  "metrics": {
+    "stocks": { "BZ=F": "Öl (Brent)", "GC=F": "Gold", "^GDAXI": "DAX" },
+    "stocksTitle": "Rohstoffe und Börse",
+    "stocksSub": "Preis, letzte 30 Handelstage, Start = 100",
+    "ecb": [{ "key": "EXR.D.USD.EUR.SP00.A" }],
+    "usgs": 6,
+    "gdacs": true
+  },
+  "kennzahlenQuellen": "eigene Zählung, Yahoo Finance, Europäische Zentralbank, USGS, GDACS"
+}

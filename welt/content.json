@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-06",
+  "intro": "Die Welt sortiert sich nach den US-Zwischenwahlen neu: Trump verspricht einen Ukraine-Deal, Europa will mitreden. In Frankreich wachsen die Proteste, in Paraguay stürzt ein Präsident über eine Bankenpleite.",
+  "top": [
+    {
+      "title": "Trump verspricht „großen Deal“ zur Ukraine, Kreml bremst",
+      "text": "Nach einem Treffen mit dem russischen Unterhändler Dmitriew stellt US-Präsident Trump ein Abkommen „für ganz Europa“ in Aussicht. Moskau dämpft die Erwartungen, Kanzler Merz telefonierte mit Trump, und Außenminister Wadephul verlangt, dass Europa mitverhandelt. Nächste Woche sollen Vertreter der Ukraine, Russlands und der USA in Abu Dhabi zusammenkommen.",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
+      "source": "tagesschau",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
+      "ort": {
+        "name": "Ukraine",
+        "lat": 50.45,
+        "lon": 30.52
+      },
+      "hamburg": "Wie der Krieg endet, entscheidet mit über Energiepreise, Rüstungsausgaben und die Zahl der Geflüchteten, auch in Hamburg.",
+      "stimmen": [
+        {
+          "source": "Spiegel",
+          "richtung": "links",
+          "url": "https://www.spiegel.de/ausland/ukrainekrieg-russland-will-ordnung-in-europa-mitbestimmen-und-sieht-wenig-bereitschaft-a-dfcd9c16-4324-4952-bed1-ca8cd4983a46#ref=rss"
+        },
+        {
+          "source": "Süddeutsche Zeitung",
+          "richtung": "links",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-trump-dmitrijew-abkommen-li.3571967"
+        },
+        {
+          "source": "WELT",
+          "richtung": "rechts",
+          "url": "https://www.welt.de/politik/ausland/plus6aed981847b5fce02f879d6e/neue-sicherheitsarchitektur-ein-grosses-wunderschoenes-abkommen-mit-einem-einzigen-satz-versetzt-trump-europa-in-panik.html"
+        }
+      ]
+    },
+    {
+      "title": "Nach den Midterms: Demokraten holen beide Kammern",
+      "text": "Die Demokraten gewinnen bei den US-Zwischenwahlen die Mehrheit in Senat und Repräsentantenhaus. Bei den Republikanern beginnt die Suche nach Schuldigen, Verteidigungsminister Hegseth gerät unter Druck. Die Außenpolitik bleibt aber weitgehend in Trumps Hand.",
+      "url": "https://www.nzz.ch/international/midterms-2026-die-resultate-der-us-wahlen-im-ueberblick-ld.10047365",
+      "source": "NZZ",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "USA",
+        "lat": 38.9,
+        "lon": -77.04
+      },
+      "hamburg": "Für Exporteure und den Hafen zählt, ob Washington bei den Strafzöllen einlenkt. Die NZZ rechnet eher nicht damit.",
+      "stimmen": [
+        {
+          "source": "Spiegel",
+          "richtung": "links",
+          "url": "https://www.spiegel.de/ausland/donald-trump-nach-den-midterms-in-den-usa-wird-er-jetzt-auf-die-demokraten-zugehen-a-1a0f3963-b289-4c5d-8409-32a8b0eba64d#ref=rss"
+        },
+        {
+          "source": "Reuters",
+          "richtung": "mitte",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaFdhWXVRZDFtNThlVzMtcUs4eU9nTlVZZHJHZzAxbUhKNVBYN3FoR0lSMHJNSzVkQVJQdXlaWTZQZXNwUzEwSkhxRjBwQ1dRZzIyMFV5QkhTaWRmWHVKWEdSQmhyR1NHaUhyMlpnV09GVkxPbmh5MTlUZEphbVE1OENqSXlNTmdEejZPbUlNdmdzRTBiRnVYTHNuWHVQUEo0VXFvODJTaElxQQ?oc=5"
+        },
+        {
+          "source": "WELT",
+          "richtung": "rechts",
+          "url": "https://www.welt.de/politik/ausland/video6aede2a2320931eb80f5c689/civey-umfrage-glauben-sie-dass-trump-nach-den-midterms-kompromissbereiter-oder-konfrontativer-auftreten-wird.html"
+        }
+      ]
+    },
+    {
+      "title": "Frankreich: Hunderttausende gegen hohe Lebenskosten",
+      "text": "Rund 600.000 Menschen sind in Frankreich auf die Straße gegangen, nun streiken neben Schülern auch die Gewerkschaften. Sie fordern höhere Löhne, mehr Steuergerechtigkeit und mehr Geld für Bildung. Am Rand gab es Ausschreitungen und 448 Festnahmen.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "category": "Europa",
+      "art": "politik",
+      "ort": {
+        "name": "Frankreich",
+        "lat": 48.86,
+        "lon": 2.35
+      },
+      "stimmen": [
+        {
+          "source": "Spiegel",
+          "richtung": "links",
+          "url": "https://www.spiegel.de/ausland/frankreich-rund-600-000-menschen-gehen-auf-die-strasse-a-2619f68b-6061-40c5-969d-3ec16f0bd6a1#ref=rss"
+        },
+        {
+          "source": "WELT",
+          "richtung": "rechts",
+          "url": "https://www.welt.de/politik/ausland/video6aed609ba389bc337cfc7662/streik-und-protesttag-448-festnahmen-in-frankreich-schueler-errichten-blockaden-polizei-setzt-traenengas-ein.html"
+        },
+        {
+          "source": "NIUS",
+          "richtung": "rechts",
+          "url": "https://nius.de/ausland/frankreich-krawalle-linksextremisten-polizei-festnahmen"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "title": "Über 50 Tote nach russischem Luftangriff auf Komyschuwacha",
+      "summary": "Die Zahl der Opfer nach dem Angriff auf den frontnahen Ort in der Ukraine ist auf mehr als 50 gestiegen.",
+      "url": "https://www.deutschlandfunk.de/schon-ueber-50-tote-nach-russischem-luftangriff-auf-komyschuwacha-102.html",
+      "source": "Deutschlandfunk",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
+      "ort": {
+        "name": "Komyschuwacha",
+        "lat": 47.77,
+        "lon": 35.53
+      }
+    },
+    {
+      "title": "Iran: Satellitenbilder zeigen Bauarbeiten an Raketenbasen",
+      "summary": "Aufnahmen vom November zeigen Grabungen und neue Gebäude nahe iranischer Raketenstützpunkte. USA und Iran sind seit Februar im Kriegszustand.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
+      "ort": {
+        "name": "Iran",
+        "lat": 35.7,
+        "lon": 51.4
+      }
+    },
+    {
+      "title": "Jemen: Erste Hilfsgüter seit Wochen für belagertes Taizz",
+      "summary": "Das Rote Kreuz konnte wieder Hilfe in die von den Huthis belagerte Großstadt bringen. Hunderttausenden fehlt es an Wasser und Medikamenten.",
+      "url": "https://www.spiegel.de/ausland/jemen-rotes-kreuz-kann-erstmals-seit-wochen-hilfsgueter-in-belagerte-stadt-taizz-liefern-a-67edf712-0efc-4af6-bb11-397a4dc8e449#ref=rss",
+      "source": "Spiegel",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
+      "ort": {
+        "name": "Jemen",
+        "lat": 13.58,
+        "lon": 44.02
+      }
+    },
+    {
+      "title": "Israel: Eisenkot hat Mehrheit für den Regierungsauftrag",
+      "summary": "Die meisten Knesset-Abgeordneten empfehlen Oppositionsführer Gadi Eisenkot. Präsident Herzog entscheidet am Sonntag, wer die Regierung bilden soll.",
+      "url": "https://www.spiegel.de/ausland/israel-praesident-will-am-sonntag-auftrag-zur-regierungsbildung-erteilen-wird-es-gadi-eisenkot-a-2ac376b1-2234-4f70-a487-65eca678f94a#ref=rss",
+      "source": "Spiegel",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Israel",
+        "lat": 31.77,
+        "lon": 35.21
+      }
+    },
+    {
+      "title": "Paraguay: Präsident Peña tritt nach Bankenpleite zurück",
+      "summary": "Der Zusammenbruch der Digitalbank Ueno wird zur Staatskrise. Der Kongress lehnt den Rücktritt ab und strebt stattdessen eine Absetzung an, die Staatsanwaltschaft ermittelt.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/santiago-pena-bleibt-vorerst-im-amt-paraguays-staatskrise-spitzt-sich-zu-accg-201657210.html",
+      "source": "FAZ",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Paraguay",
+        "lat": -25.26,
+        "lon": -57.58
+      }
+    },
+    {
+      "title": "Südafrika: Historische Schlappe für den ANC",
+      "summary": "Bei den Kommunalwahlen schrumpft die frühere Befreiungsbewegung auf etwa ein Drittel der Stimmen.",
+      "url": "https://taz.de/Kommunalwahlen-in-Suedafrika/!6228188/",
+      "source": "taz",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Südafrika",
+        "lat": -25.75,
+        "lon": 28.19
+      }
+    },
+    {
+      "title": "Indien: Rote Warnung für Wirbelsturm Murasu",
+      "summary": "Das Warnsystem GDACS stufte den Wirbelsturm an der Ostküste Indiens in die höchste Stufe ein (aktiv bis 03.11.).",
+      "url": "https://www.gdacs.org/report.aspx?eventid=1001346&episodeid=10&eventtype=TC",
+      "source": "GDACS",
+      "category": "Katastrophen & Klima",
+      "art": "katastrophe",
+      "ort": {
+        "name": "Indien",
+        "lat": 15.8,
+        "lon": 80.2
+      }
+    },
+    {
+      "title": "Wärmster Oktober seit Messbeginn",
+      "summary": "Laut dem EU-Klimadienst Copernicus wird die Welt 2026 wohl erneut die 1,5-Grad-Marke reißen. Ab Montag beginnt die Weltklimakonferenz im türkischen Antalya.",
+      "url": "https://www.deutschlandfunk.de/copernicus-1-5-grad-marke-wird-2026-wohl-erneut-ueberschritten-100.html",
+      "source": "Deutschlandfunk",
+      "category": "Katastrophen & Klima",
+      "art": "katastrophe",
+      "ort": {
+        "name": "Klimakonferenz Antalya",
+        "lat": 36.9,
+        "lon": 30.7
+      }
+    },
+    {
+      "title": "Bombendrohungen gegen Flüge in ganz Europa",
+      "summary": "Zum zweiten Mal in einer Woche gingen gegen mindestens 21 Flüge Drohungen ein, Sprengstoff wurde nicht gefunden. Eine russische Extremistengruppe bestreitet, dahinterzustecken.",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "category": "Europa"
+    },
+    {
+      "title": "EU wirft TikTok Suchtgefahr durch Algorithmus vor",
+      "summary": "Die EU-Kommission verlangt Änderungen, weil der Algorithmus Nutzer in schädliche Endlosschleifen ziehe.",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html",
+      "source": "tagesschau",
+      "category": "Europa",
+      "art": "politik",
+      "ort": {
+        "name": "Brüssel",
+        "lat": 50.85,
+        "lon": 4.35
+      }
+    },
+    {
+      "title": "USA sanktionieren erstmals chinesische Firmen wegen Kuba",
+      "summary": "Washington verschärft den Druck auf Havanna und trifft dabei nun auch Unternehmen aus China.",
+      "url": "https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b#ref=rss",
+      "source": "Spiegel",
+      "category": "Wirtschaft & Handel",
+      "art": "wirtschaft",
+      "ort": {
+        "name": "Kuba",
+        "lat": 23.11,
+        "lon": -82.37
+      }
+    },
+    {
+      "title": "Russland und Iran sprechen über Gaspipeline",
+      "summary": "Kremlchef Putin hat mit Irans Sicherheitsrat über den Bau einer Pipeline gesprochen, die Allianz der beiden Länder gilt als stabil.",
+      "url": "https://www.spiegel.de/ausland/russland-wladimir-putin-hat-mit-iran-ueber-bau-einer-gaspipeline-gesprochen-a-0886923d-f1a9-496d-865d-748abf75d6e8#ref=rss",
+      "source": "Spiegel",
+      "category": "Wirtschaft & Handel",
+      "art": "wirtschaft",
+      "ort": {
+        "name": "Russland",
+        "lat": 55.75,
+        "lon": 37.62
+      }
+    },
+    {
+      "title": "Brasilien: Lulas Sieg bremst US-Zugriff auf Seltene Erden",
+      "summary": "Nach der Wiederwahl von Präsident Lula rücken amerikanische Hoffnungen auf schnellen Zugang zu Brasiliens Rohstoffen in die Ferne.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbnhUT0ZFTnpsamNBblowSmJHVXhjMEhiRzZCWVRLVk95TXFFcVAxSkxBRXhxZHJaVWdERTdTOTVtcEZTRl9mYi1wSE90Q2hqZGVHSGUzdkxLa3R6SWxHbXlBa3ktdEhGRXhra1lIaG54ZUhFQWQ3TW5XUUdVVnBhcVptaFlVdUY2b3dIMHotRFh0T1pVTGpMTmNyU3R1UUlnakRaQWVPOVpTTUp2ZkxhMk9IMWFYZw?oc=5",
+      "source": "Reuters",
+      "category": "Wirtschaft & Handel",
+      "art": "wirtschaft",
+      "ort": {
+        "name": "Brasilien",
+        "lat": -15.8,
+        "lon": -47.9
+      }
+    },
+    {
+      "title": "Hamburg will 500 Millionen Euro mehr vom Bund für den Hafen",
+      "summary": "Brücken, Kaimauern und Schienen im Hafen müssen saniert werden, der Ausbau stockt. Hamburg fordert deshalb mehr Geld aus Berlin.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRXY4SUhDdlQweGdOcHFKVmU5cVY1dzBBSmpnZHd1cTlqMHFaa0U3djdmeXBZSzMzNlloNWNRVk03UXNRUkRnRklrZndGalNScHRaQmVoeDFWdnNzaE9hNmJxS3RYdlRwaXVHYlJIQU1UNk1zYkgwSXhvLXlYZElKZjFjU2JTQlRScHFUUjk1RVpoS1FNRVN4SXJvNnFrdEo1Nkg0TGhCdE1oSlVjMFM5Tw?oc=5",
+      "source": "NDR",
+      "category": "Hafen & Schifffahrt",
+      "art": "wirtschaft",
+      "ort": {
+        "name": "Hamburger Hafen",
+        "lat": 53.54,
+        "lon": 9.97
+      },
+      "hamburg": "Ohne das Geld vom Bund verzögern sich Sanierung und Ausbau weiter, und das betrifft Arbeitsplätze und Umschlag direkt in der Stadt."
+    }
+  ],
+  "regionen": {
+    "Europa": "Ukraine-Gespräche ohne Europa am Tisch, Massenproteste in Frankreich, Bombendrohungen gegen Flüge.",
+    "Nahost": "Israel vor der Regierungsbildung, Iran rüstet an Raketenbasen nach, Hilfe für das belagerte Taizz im Jemen.",
+    "Asien": "Rote Sturmwarnung in Indien, Erdbeben der Stärke 6,1 vor Japan, vom Warnsystem als gering eingestuft.",
+    "Amerika": "Demokraten siegen bei den Midterms, Paraguays Präsident tritt zurück, neue US-Sanktionen gegen Kuba.",
+    "Afrika": "Der ANC verliert in Südafrika massiv an Rückhalt."
+  }
+}

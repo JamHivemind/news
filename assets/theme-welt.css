@@ -1,0 +1,34 @@
+/* Welt-Monitor: Brennpunkte, Globus, Regionen */
+.welt-kopf{margin:6px 0 18px}
+.welt-h{font-size:.8rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+.chips{display:flex;gap:6px;overflow-x:auto;padding-bottom:4px;scrollbar-width:thin;-webkit-overflow-scrolling:touch}
+.chip{flex:0 0 auto;font-size:.85rem;font-weight:600;text-decoration:none;padding:5px 12px;border-radius:999px;background:var(--surface);border:1px solid var(--border);white-space:nowrap}
+.chip::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;vertical-align:1px;background:var(--c)}
+.chip:hover{border-color:var(--muted)}
+.chip-konflikt,.l-konflikt{--c:#e24b4a}.chip-katastrophe,.l-katastrophe{--c:#ef9f27}.chip-politik,.l-politik{--c:#7f77dd}
+.chip-wirtschaft,.l-wirtschaft{--c:#378add}.l-hamburg{--c:#1d9e75}
+.globus{margin-top:10px;background:var(--surface);border:1px solid var(--border);border-radius:12px}
+.globus summary{cursor:pointer;padding:10px 14px;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.globus summary::-webkit-details-marker{display:none}
+.globus summary::after{content:"▾";color:var(--muted)}
+.globus[open] summary::after{content:"▴"}
+.globus summary span{font-weight:400;font-size:.82rem;color:var(--muted);margin-left:auto;margin-right:8px}
+.globus-inner{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:16px;padding:0 14px 10px;align-items:center}
+@media (max-width:700px){.globus-inner{grid-template-columns:minmax(0,1fr)}}
+.globus-svg{width:100%;max-width:420px;margin:0 auto;display:block;cursor:grab;touch-action:none}
+.globus-svg:active{cursor:grabbing}
+.globus-svg .meer{fill:var(--surface2);stroke:var(--border)}
+.globus-svg .land{fill:var(--axis);stroke:var(--surface);stroke-width:.4}
+.globus-svg .netz{fill:none;stroke:var(--grid);stroke-width:.5}
+.globus-svg .pkt{stroke:var(--surface);stroke-width:1.5;cursor:pointer}
+.globus-svg .pkt.on{stroke:var(--text);stroke-width:2.5}
+.globus-info{font-size:.9rem;background:var(--surface2);border-radius:10px;padding:12px 14px;min-height:90px}
+.globus-info .art{font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.04em}
+.globus-info .t{font-weight:600;margin:2px 0 6px}
+.globus-info a{font-weight:600;color:var(--accent)}
+.globus-legende{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:.78rem;color:var(--muted);padding:0 14px 12px}
+.globus-legende i{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;background:var(--c)}
+.regionen{list-style:none}
+.regionen li{display:grid;grid-template-columns:84px 1fr;gap:8px;padding:7px 0;border-bottom:1px solid var(--border);font-size:.9rem}
+.regionen li:last-child{border-bottom:0}
+.regionen b{font-size:.82rem}

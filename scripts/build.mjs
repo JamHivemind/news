@@ -11,6 +11,7 @@ import { fileURLToPath } from "node:url";
 import { hBars, columns, lines, legend, fmt } from "./charts.mjs";
 import { renderFootball } from "./football.mjs";
 import { renderZonen } from "./zonen.mjs";
+import { renderWelt } from "./welt.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const loadJson = (file, fallback) => { try { return JSON.parse(readFileSync(file, "utf8")); } catch { return fallback; } };
@@ -32,18 +33,27 @@ const today = () => new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Berlin"
 
 // ---------- Bausteine ----------
 
+// Richtung der Quellen (config.json → sources[].richtung: links | mitte | rechts), je Dashboard gesetzt
+let RICHTUNG = {};
+const RL = { links: "links", mitte: "Mitte", rechts: "rechts" };
+const richtungTag = r => RL[r] ? `<span class="ri ri-${r}" title="Richtung der Quelle">${RL[r]}</span>` : "";
+
 function metaLine(e) {
   const bits = [];
   if (e.category) bits.push(`<span class="tag">${esc(e.category)}</span>`);
-  if (e.source) bits.push(`<span>${esc(e.source)}</span>`);
+  if (e.source) bits.push(`<span>${esc(e.source)}</span>${richtungTag(RICHTUNG[e.source])}`);
   bits.push(`<a href="${safeUrl(e.url)}" target="_blank" rel="noopener">Zur Quelle →</a>`);
   return `<div class="meta">${bits.join("")}</div>`;
 }
-const tippHtml = e => e.tipp ? `<div class="tipp"><b>Praxis-Tipp:</b> ${esc(e.tipp)}</div>` : "";
+const tippHtml = e => (e.tipp ? `<div class="tipp"><b>Praxis-Tipp:</b> ${esc(e.tipp)}</div>` : "") +
+  (e.hamburg ? `<div class="tipp hh"><b>Für Hamburg:</b> ${esc(e.hamburg)}</div>` : "") +
+  (e.stimmen?.length ? `<div class="stimmen"><b>Andere Stimmen:</b> ${e.stimmen.map(s =>
+    `<a href="${safeUrl(s.url)}" target="_blank" rel="noopener">${esc(s.source)}${richtungTag(s.richtung)}</a>`).join("")}</div>` : "");
+const idAttr = e => Number.isInteger(e._k) ? ` id="m-${e._k}"` : "";
 
 const renderTop = top => !top.length ? `<div class="empty">Heute keine großen Meldungen.</div>` :
   `<div class="top">${top.map((t, i) =>
-    `<article class="top-card"><div class="num">${i + 1}</div><h3>${esc(t.title)}</h3><p>${esc(t.text || t.summary)}</p>` +
+    `<article class="top-card"${idAttr(t)}><div class="num">${i + 1}</div><h3>${esc(t.title)}</h3><p>${esc(t.text || t.summary)}</p>` +
     `${tippHtml(t)}${metaLine(t)}</article>`).join("")}</div>`;
 
 function renderSections(entries, order) {
@@ -57,7 +67,7 @@ function renderSections(entries, order) {
   for (const [cat, list] of groups) {
     if (!list.length) continue;
     html += `<section class="rubrik"><h2>${esc(cat)} <span class="n">${list.length}</span></h2>`;
-    for (const e of list) html += `<article class="item"><h3>${esc(e.title)}</h3><p>${esc(e.summary)}</p>${tippHtml(e)}${metaLine({ ...e, category: "" })}</article>`;
+    for (const e of list) html += `<article class="item"${idAttr(e)}><h3>${esc(e.title)}</h3><p>${esc(e.summary)}</p>${tippHtml(e)}${metaLine({ ...e, category: "" })}</article>`;
     html += `</section>`;
   }
   return html ? `<h2 class="alle">Alle Meldungen</h2><div class="rubriken">${html}</div>` : "";
@@ -127,8 +137,11 @@ function renderDashboard(cfg, manifest, date, metrics, dir) {
     : { fan: "", tiles: "", panels: "" };
   kpis = zn.tiles + kpis;
 
+  // Welt-Monitor: Brennpunkte, Globus, Regionen, Katastrophen, Quellen-Mix
+  const wl = cfg.globus && dir ? renderWelt(cfg, loadJson(join(dir, "content.json"), {}), metrics, panel, tile) : { fan: "", panels: "" };
+
   // Diagramme
-  let panels = fb.panels + zn.panels;
+  let panels = wl.panels + fb.panels + zn.panels;
   const catItems = order.map(c => ({ label: c, value: cats[c] || 0 })).filter(i => i.value);
   panels += panel("Worüber geredet wird", `Meldungen je Rubrik, ${span}`, hBars(catItems));
   if (cfg.entities?.length) {
@@ -164,7 +177,7 @@ function renderDashboard(cfg, manifest, date, metrics, dir) {
     panels += panel("Meldungen pro Tag", "Anzahl ausgewählter Meldungen je Ausgabe",
       columns(briefs.slice(-14).map(b => ({ date: b.date, value: b.count }))));
 
-  return { kpis: `<div class="tiles">${kpis}</div>`, dashboard: `<div class="dash">${panels}</div>`, fan: fb.fan + zn.fan };
+  return { kpis: `<div class="tiles">${kpis}</div>`, dashboard: `<div class="dash">${panels}</div>`, fan: wl.fan + fb.fan + zn.fan };
 }
 
 // ---------- Ein Dashboard bauen ----------
@@ -177,6 +190,7 @@ function buildDashboard(name, template) {
   const manifestPath = join(dir, "archive", "manifest.json");
   mkdirSync(join(dir, "archive"), { recursive: true });
   const manifest = loadJson(manifestPath, { briefs: [] });
+  RICHTUNG = Object.fromEntries((cfg.sources || []).filter(s => s.richtung).map(s => [s.name, s.richtung]));
   const base = {
     LANG: "de", DESCRIPTION: esc(cfg.description), SITE_TITLE: esc(cfg.title), HUB: "",
     KENNZAHLEN: esc(cfg.kennzahlenQuellen || "eigene Zählung"), ICON: cfg.icon || "📰",
@@ -202,6 +216,7 @@ function buildDashboard(name, template) {
 
   const date = content.date;
   const top = (content.top || []).slice(0, 3), entries = content.entries || [], all = [...top, ...entries];
+  all.forEach((e, k) => { e._k = k; }); // Sprungmarken m-0, m-1, … (Globus und Brennpunkte verlinken darauf)
   const sources = [...new Set(all.map(e => e.source).filter(Boolean))];
   const cats = {}, ents = {};
   for (const e of all) {

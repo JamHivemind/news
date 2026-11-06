@@ -2,7 +2,7 @@
 
 Tägliche News-Dashboards, jeden Morgen kurz auf Deutsch zusammengefasst:
 Immobilien Hamburg, Wirtschaft & Zinsen, Hamburg, Startups & Deep Tech.
-Die KI-News liegen seit 06.11.2026 ebenfalls hier (Ordner `ki/`); die alte Adresse jamhivemind.github.io/ki-news/ leitet weiter.
+Seit 06.11.2026 gibt es auch den Welt-Monitor (Ordner `welt/`: Globus, Brennpunkte, Hamburg-Bezug, Quellen von links bis rechts). Die KI-News liegen seit 06.11.2026 ebenfalls hier (Ordner `ki/`); die alte Adresse jamhivemind.github.io/ki-news/ leitet weiter.
 
 **Lesen:** https://jamhivemind.github.io/news/
 
