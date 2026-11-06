@@ -4,6 +4,8 @@
 
 import { hBars, fmt } from "./charts.mjs";
 
+// Links aus fremden Feeds (GDACS, USGS) nur mit http(s) übernehmen, sonst kein Link (kein javascript: o. Ä.)
+const extUrl = (u = "") => /^https?:\/\//i.test(u) ? u : "";
 const esc = (s = "") => String(s)
   .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
 const ARTEN = { konflikt: "Konflikt", katastrophe: "Katastrophe", politik: "Weltpolitik", wirtschaft: "Wirtschaft" };
@@ -21,10 +23,10 @@ export function renderWelt(cfg, content, metrics, panel, tile) {
   });
   for (const g of metrics.gdacs || [])
     marks.push({ n: `${g.art}: ${g.country || g.name}`, t: "katastrophe", lat: g.lat, lon: g.lon,
-      title: `${g.name} (Warnstufe ${g.level === "Red" ? "rot" : "orange"}, bis ${dm(g.to)})`, hh: "", href: g.url, ext: 1 });
+      title: `${g.name} (Warnstufe ${g.level === "Red" ? "rot" : "orange"}, bis ${dm(g.to)})`, hh: "", href: extUrl(g.url), ext: 1 });
   for (const q of metrics.quakes || [])
     marks.push({ n: `Erdbeben M${fmt(q.mag, 1)}`, t: "katastrophe", lat: q.lat, lon: q.lon,
-      title: `Erdbeben der Stärke ${fmt(q.mag, 1)}, ${q.place} (${dm(q.time)})`, hh: "", href: q.url, ext: 1 });
+      title: `Erdbeben der Stärke ${fmt(q.mag, 1)}, ${q.place} (${dm(q.time)})`, hh: "", href: extUrl(q.url), ext: 1 });
   marks.push({ n: "Hamburg", t: "hamburg", lat: 53.55, lon: 10, title: "Hier laufen die Folgen zusammen: Hafen, Energie, Airbus, Zinsen.", hh: "", href: "" });
 
   // Brennpunkte: ein Chip je Ort aus den Meldungen, Reihenfolge wie auf der Seite
@@ -52,12 +54,12 @@ export function renderWelt(cfg, content, metrics, panel, tile) {
     const rows = order.filter(r => content.regionen[r]).map(r => `<li><b>${esc(r)}</b><span>${esc(content.regionen[r])}</span></li>`).join("");
     panels += panel("Ein Satz pro Weltregion", "Die Lage heute in Kürze", `<ul class="regionen">${rows}</ul>`);
   }
-  const kat = [...(metrics.gdacs || []).map(g => ({ k: `${g.level === "Red" ? "🔴" : "🟠"} ${g.art}`, w: g.country || g.name, d: g.to, u: g.url })),
-    ...(metrics.quakes || []).map(q => ({ k: `Erdbeben M${fmt(q.mag, 1)}`, w: q.place, d: q.time.slice(0, 10), u: q.url }))]
+  const kat = [...(metrics.gdacs || []).map(g => ({ k: `${g.level === "Red" ? "🔴" : "🟠"} ${g.art}`, w: g.country || g.name, d: g.to, u: extUrl(g.url) })),
+    ...(metrics.quakes || []).map(q => ({ k: `Erdbeben M${fmt(q.mag, 1)}`, w: q.place, d: q.time.slice(0, 10), u: extUrl(q.url) }))]
     .sort((a, b) => b.d.localeCompare(a.d)).slice(0, 8);
   if (kat.length)
     panels += panel("Katastrophen-Lage", "Laufende Warnungen (orange und rot) und starke Erdbeben der letzten 7 Tage",
-      `<ol class="ranklist">${kat.map(x => `<li><a href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.k)}</a><span>${esc(x.w)}</span><b>${dm(x.d)}</b></li>`).join("")}</ol>`,
+      `<ol class="ranklist">${kat.map(x => `<li>${x.u ? `<a href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.k)}</a>` : esc(x.k)}<span>${esc(x.w)}</span><b>${dm(x.d)}</b></li>`).join("")}</ol>`,
       "Quellen: GDACS (Warnsystem von UN und EU), USGS (US-Erdbebendienst).");
 
   // Quellen-Mix: Meldungen je Richtung der Quelle
