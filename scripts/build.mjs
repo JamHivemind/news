@@ -31,6 +31,15 @@ const MONTHS = ["Jan", "Feb", "Mär", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", 
 const monthLabel = ym => { const [y, m] = ym.split("-"); return `${MONTHS[Number(m) - 1]} ${y.slice(2)}`; };
 const today = () => new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Berlin" }).format(new Date());
 
+// Feedback: Link zum Google-Formular aus site.json. Leer → kein Kasten. "DASHBOARD" im Link wird durch den Seitennamen ersetzt
+// (vorausgefüllter Link aus Google Forms, damit man sieht, von welchem Dashboard das Feedback kommt).
+const SITE = loadJson(join(ROOT, "site.json"), {});
+const feedbackUrl = title => SITE.feedback ? SITE.feedback.replace("DASHBOARD", encodeURIComponent(title)) : "";
+const feedbackHtml = title => !feedbackUrl(title) ? "" :
+  `<section class="feedback" id="feedback"><p><b>Was würdest du verbessern?</b>Fehlt ein Thema, eine Quelle oder stört etwas? Sag es mir, dauert eine Minute.</p>` +
+  `<a class="btn" href="${esc(feedbackUrl(title))}" target="_blank" rel="noopener">Feedback geben →</a></section>`;
+const feedbackNav = () => SITE.feedback ? `<a href="#feedback">Feedback</a>` : "";
+
 // ---------- Bausteine ----------
 
 // Richtung der Quellen (config.json → sources[].richtung: links | mitte | rechts), je Dashboard gesetzt
@@ -194,6 +203,7 @@ function buildDashboard(name, template) {
   const base = {
     LANG: "de", DESCRIPTION: esc(cfg.description), SITE_TITLE: esc(cfg.title), HUB: "",
     KENNZAHLEN: esc(cfg.kennzahlenQuellen || "eigene Zählung"), ICON: cfg.icon || "📰",
+    FEEDBACK: feedbackHtml(cfg.title),
   };
   // Eigenes Design je Dashboard (config.json → "theme"): assets/theme-<name>.css und .js
   const theme = (assets) => cfg.theme ? {
@@ -235,6 +245,7 @@ function buildDashboard(name, template) {
     if (!isIndex) nav.push(`<a href="${root}">Heute</a>`);
     if (older) nav.push(`<a href="${root}archive/${older.file}">← Vortag</a>`);
     nav.push(`<a href="${root}archive/">Archiv</a>`);
+    if (SITE.feedback) nav.push(feedbackNav());
     return fill(template, {
       ...base, ...theme(assets), FAN: fan, PAGE_TITLE: `${esc(cfg.title)} · ${esc(shortDate(date))}`, DATE_LONG: esc(longDate(date)), ASSETS: assets,
       STATS: `${all.length} Meldungen aus ${sources.length} Quellen`, NAV: nav.join(""),
@@ -286,6 +297,7 @@ function buildHub(results, template) {
     LANG: "de", PAGE_TITLE: "News-Dashboards", DESCRIPTION: "Tägliche News-Dashboards: KI, Immobilien, Wirtschaft, Steuern, Hamburg, Startups, HSV",
     SITE_TITLE: "News-Dashboards", DATE_LONG: esc(longDate(today())), ASSETS: "assets/",
     STATS: "Jeden Morgen neu, kurz auf Deutsch zusammengefasst", TOP_TITLE: "Alle Dashboards",
+    NAV: feedbackNav(), FEEDBACK: feedbackHtml("Startseite"),
     TOP: `<div class="hub">${html}</div>` + HUB_SCRIPT, SOURCES: "siehe einzelne Dashboards", KENNZAHLEN: "siehe einzelne Dashboards",
   }));
   console.log("index.html (Startseite) geschrieben");

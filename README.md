@@ -36,3 +36,7 @@ Keine Abhängigkeiten, Node 18 oder neuer.
 
 Aufbau nach [junjzhang/daily-brief](https://github.com/junjzhang/daily-brief) (MIT-Lizenz), erweitert auf
 mehrere Dashboards mit Kennzahlen.
+
+## Feedback
+`site.json` → `feedback`: Link zum Google-Formular. Leer = kein Feedback-Kasten. Steht im Link das Wort `DASHBOARD`
+(vorausgefüllter Link aus Google Forms), wird es durch den Namen des Dashboards ersetzt.

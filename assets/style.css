@@ -209,3 +209,10 @@ footer a{color:var(--muted)}
 .stimmen b{color:var(--text);font-weight:600}
 .stimmen a{text-decoration:none}
 .stimmen a:hover{text-decoration:underline}
+
+/* Feedback-Kasten (Link zum Google-Formular aus site.json) */
+.feedback{margin:36px 0 0;background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px 18px;display:flex;gap:14px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.feedback p{margin:0;font-size:.92rem}
+.feedback p b{display:block;font-size:1rem;margin-bottom:2px}
+.feedback a.btn{flex:0 0 auto;background:var(--accent);color:#fff;text-decoration:none;font-weight:600;font-size:.9rem;padding:8px 16px;border-radius:999px}
+.feedback a.btn:hover{opacity:.9}
