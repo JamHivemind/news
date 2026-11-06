@@ -280,7 +280,7 @@
    ],
    [
     "2026-11-06",
-    192.14
+    186.02
    ]
   ],
   "MSFT": [
@@ -546,7 +546,7 @@
    ],
    [
     "2026-11-06",
-    532.84
+    532.43
    ]
   ],
   "GOOGL": [
@@ -812,7 +812,7 @@
    ],
    [
     "2026-11-06",
-    288.39
+    285.43
    ]
   ],
   "META": [
@@ -1078,7 +1078,7 @@
    ],
    [
     "2026-11-06",
-    618.66
+    616.92
    ]
   ]
  },
@@ -1091,41 +1091,41 @@
  "hf": [
   {
    "id": "moonshotai/Kimi-K3.1-Pro",
-   "likes": 1389,
+   "likes": 1428,
    "downloads": 18432,
    "task": "image-text-to-text"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 878,
+   "likes": 905,
    "downloads": 19139,
    "task": "image-to-3d"
   },
   {
    "id": "ccore/Qwen3.5-4B-3D-Coder",
-   "likes": 758,
+   "likes": 769,
    "downloads": 190243,
    "task": ""
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 10813,
+   "likes": 10829,
    "downloads": 2607491,
    "task": "image-to-video"
   },
   {
    "id": "burner22/numbat",
-   "likes": 364,
+   "likes": 368,
    "downloads": 9066,
    "task": ""
   },
   {
    "id": "FusionCow/Sulphur-3",
-   "likes": 389,
+   "likes": 391,
    "downloads": 950,
    "task": ""
   }
  ],
- "updated": "2026-11-06T15:12:40.741Z",
+ "updated": "2026-11-06T18:26:11.726Z",
  "updatedDay": "2026-11-06"
 }
