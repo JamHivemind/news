@@ -1,85 +1,92 @@
 {
-  "date": "2026-11-05",
-  "intro": "Heute dominieren Förderung und Deep Tech: Die EU zeigt ihre größten Innovationsinvestments des Jahres, dazu kommen mehrere Finanzierungsrunden von Spacetech bis KI.",
+  "date": "2026-11-06",
+  "intro": "Gleich mehrere deutsche Deeptech-Startups melden Millionenrunden, allen voran der Elektroflieger Vaeridion. In Europa gerät der Geldgeber Sequoia unter Spardruck.",
   "top": [
     {
-      "title": "EIC-Fonds: die zehn größten Investments 2026",
-      "text": "Der Europäische Innovationsrat (EIC) hat in den ersten drei Quartalen 85 Investments getätigt. EU-Startups hat die zehn größten exklusiv ausgewertet. Sie reichen von Quantencomputing über Kernfusion bis zu Biotechnologie und Raumfahrt. Die Zahlen zeigen, welche Deep-Tech-Felder Europa gezielt fördert.",
-      "category": "Förderung & Politik",
-      "url": "https://www.eu-startups.com/2026/11/exclusive-top-10-largest-investments-by-eic-in-2026-so-far/",
-      "source": "EU-Startups"
+      "title": "Vaeridion sichert sich 124 Millionen Euro für Elektroflugzeug",
+      "text": "Das Flugzeug-Startup Vaeridion hat laut FAZ 124 Millionen Euro eingesammelt, andere Medien sprechen von rund 120 Millionen Euro. Dazu kommen laut aero.de EU-Mittel und Kaufzusagen von Kunden. Damit hält das junge Unternehmen dem allgemeinen Pleite-Trend in der Branche stand.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2U2ZHZhMEIxWGNMdlM0d2pGQjRvcXdNRmxQMlZlcWQ1alcwdkgtS2x4N3F6d1JNVTJfdnJBck1LYl9HOVZpYy1qYlRfTnB4aXNuWHpDOHp2VXE3THFsSGZ0R2g1Zndza2ZfZ2xMWjB4dm1WLTZwMk44MlVPSTFVTHl3ektWSHhVaExtc3piRnZhUWpjRmpfTlVVNm1rRkdfU0h6VnkySy1kbTZjNUhtVkJKUU1zNENGZG9Ib09iMXZKN0VmMmhGbFUyRTBQUQ?oc=5",
+      "source": "FAZ",
+      "category": "Finanzierungen"
     },
     {
-      "title": "Hypersonica erhält 100 Millionen Euro",
-      "text": "Laut Startbase fließen 100 Millionen Euro an das Startup Hypersonica. Mehr steht im öffentlich lesbaren Teil der Meldung nicht. Eine Runde dieser Größe zählt in Europa zu den großen Deep-Tech-Finanzierungen des Jahres.",
-      "category": "Finanzierungen",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZUmhDUHJUU2VWc1JxX1dJSUV3ZlE2NHVmd2xFUnYyZlAzczZZMi1ydzE4TWdIOUZhU0FwczRwQlN2aTJDcDlmaU5yWHg4ZS1NRU1PazI1X194T0xzNnZMMXhLS1psdlRwQm84NmJBcXVKV3hDcUE?oc=5",
-      "source": "Startbase"
+      "title": "Sequoia schließt Londoner Büro und baut Europa-Team ab",
+      "text": "Der große Risikokapitalgeber Sequoia schließt laut Sifted sein Büro in London und streicht Stellen im Europa-Team. Für europäische Gründer kann das bedeuten, dass ein bekannter Geldgeber weniger vor Ort ansprechbar ist.",
+      "url": "https://sifted.eu/articles/sequoia-closes-london-office/",
+      "source": "Sifted",
+      "category": "Europa & Welt"
     },
     {
-      "title": "Tumbleweed: 6,9 Millionen Euro für Weltraumforschung",
-      "text": "Das Wiener Spacetech-Startup Tumbleweed holt 6,9 Millionen Euro ein. Laut Meldung fließt das Geld in Forschung rund um das All. Spacetech ist ein wachsendes Feld für europäische Gründer.",
-      "category": "Finanzierungen",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZHkxRmxONUh0Wk5tRHlHTG5uQURLd2pOaHhzcUlUbGxjWjYxNDZJaEpSYXlFSXdsZ2xzb2ktM04yWjJkLXVsak9UeXFqUEtuZXBnQUZYX1Z2c3VFam9Oc3pDRFBWU2F1eFBsdHRIQjdRTllOR2JLcC00MHAwVjR3bk1sdmtIWXhoTU5UTmd2MU10RHROaDdTS1pFbF9FZ2FUOGtSLTlqM2IxMjlnUVdOZG03VWp6cllXakRr?oc=5",
-      "source": "MeinBezirk.at"
+      "title": "Drohnenlieferdienst Zipline wird mit 21,5 Milliarden Dollar bewertet",
+      "text": "Zipline hat 1,5 Milliarden Dollar eingesammelt und kommt damit auf eine Bewertung von 21,5 Milliarden Dollar. Der Partner Walmart baut die Zusammenarbeit bei Drohnenlieferungen aus.",
+      "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "source": "TechCrunch Startups",
+      "category": "Finanzierungen"
     }
   ],
   "entries": [
     {
-      "title": "Conlio sammelt 6,4 Millionen Euro ein",
-      "summary": "Das Startup entwickelt KI-gestützte Finanzprozesse für die Logistik und erhält 6,4 Millionen Euro.",
-      "category": "Finanzierungen",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQi1RV1h3YlQ4cVhfM04xVjZMLUY5ZlNWVEZ2MzlZYS1CMGdudVM1RlJWQTh0eFJTbE84Yk5JYTdfcFJlRVdvMVFjZElIaE9sYTJGRHJpN2E5LWpwWFEzTG0wTkh1Qm1Xd3dNcEpEMVNNcDNaWU1zWUZxTmJ3OUM4SGw3eHVYUWs0b0VObHBLV3AzejdwaXMwVWl2Ti15QjFvbGxZRWJ0eG9qRDhnbE1wWkloYw?oc=5",
-      "source": "Startbase"
+      "title": "Quint Computing sammelt 9,1 Millionen Euro für Quantencomputer ein",
+      "summary": "Das Startup will skalierbare Quantencomputer bauen. Die Runde über 9,1 Millionen Euro meldet Startbase.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzNrd3Y2Z1ZrVzdNMzJveGpxdjN2b2U5Y2NWbnNWV2xhU3lDVUthejFUdW9SMEhvX2VXeTVkZUl1blVqUEdiR3RvZ250eXdKWW5CVndrMktUY0NpMDNzOFR1al9TaEJLblk5UkxtN1diZ2xwNDl0R3lTWlNvaTd4eVJGNlNEVzFjV1plZnoyVFFMVkJmYnpWVzk3VjByZDg0UGtUX1lwT3pLTWlEaEE?oc=5",
+      "source": "Startbase",
+      "category": "Deep Tech & Forschung"
     },
     {
-      "title": "Women TechEU: 75.000 Euro für Gründerinnen",
-      "summary": "Das EU-Programm will bis 2028 insgesamt 160 Deep-Tech-Startups von Frauen mit je 75.000 Euro, Mentoring und Training fördern.",
-      "category": "Förderung & Politik",
-      "url": "https://www.eu-startups.com/2026/11/women-techeu-allies-supporting-women-led-deeptech-startups-across-europe/",
-      "source": "EU-Startups"
+      "title": "Green Voltis erhält 13,5 Millionen Euro",
+      "summary": "Das Startup entwickelt KI-gesteuerte Batteriespeicher und Lösungen für Rechenzentren und bekommt dafür 13,5 Millionen Euro.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXNLc2VNSGplM0l1LTBpelNxMHYtLWVZLTlHNm5qb1BaMnRURmRlanc0TktyVG91QWxGeFlsRUdJSDlRZmNMdTB1d3BPRlEwX2x0Sk1wTW5pSkI4S05IZWhoaHNXbXJaOENqNWkySTdva0ZDWnlyLXQ5bFBQM1lDN3AwdmZmQzhXTFJlRGY0by14RVZ4dnIzNUlLblJvUkttTXFQRjNVWXFEejd3N3RJc3NJTmotNzhHZmN3QmhkOUZ6dw?oc=5",
+      "source": "Startbase",
+      "category": "Finanzierungen"
     },
     {
-      "title": "Deep-Tech-Investoren zu vorsichtig bei Ausgründungen",
-      "summary": "Laut Sifted sagen führende Investoren für Uni-Ausgründungen, dass Deep-Tech-Fonds zu risikoscheu sind und dadurch Chancen verpassen.",
-      "category": "Deep Tech & Forschung",
-      "url": "https://sifted.eu/articles/what-spinout-investors-know-that-most-deeptech-vcs-dont/",
-      "source": "Sifted"
+      "title": "30 Millionen Dollar für FluoRok",
+      "summary": "Startbase meldet eine Finanzierung über 30 Millionen Dollar für FluoRok. Weitere Angaben stehen in der Vorschau nicht.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xV2YwY0lLLXYxMnJ6X210V0JoMnZEcFdhWHNUNjFhNTlqUGIxbE1CRUNLb1pjUTdIMjBxU0F5a3E1X0Z3ekY3Y1Q5UTllaU1jQ1gxTWFWd01xc0pvZmxHMjFOemVCRC1Ua2UxUFVCWXA?oc=5",
+      "source": "Startbase",
+      "category": "Finanzierungen"
     },
     {
-      "title": "74 europäische Photonik-Startups im Überblick",
-      "summary": "Sifted listet Startups, die Licht für die Anforderungen der KI-Ära nutzen.",
-      "category": "Deep Tech & Forschung",
-      "url": "https://sifted.eu/articles/photonics-mapped-74-european-startups-using-light-to-power-the-ai-era/",
-      "source": "Sifted"
+      "title": "KI-Chip-Startup Tenspresso peilt 500 Millionen Dollar Bewertung an",
+      "summary": "Laut Bloomberg strebt das Startup eine Bewertung von 500 Millionen Dollar an. Das ist eine Meldung unter Berufung auf Bloomberg, bestätigt ist sie nicht.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMF91T29xOHpaNFAzdWdUekpuZmphNlJWUGl1cW0xMGhISkFNWktIeS1YYi05azVmeUZhRHR5NEw1UU1rN191eVhnQzJkVVJtRjh0TzhrcjdtRHpNSG9vNG00VFEtOEZaemg3SXRXV3hST0xKUnpfcFI5NHpmc1FNa0VxZUgzbUl6ZFg5XzlUNHRzLUVMSndNLXcxWVFLX09zOXNoZ1hOZnRTQkI4NVI1UzZyaHZYcnFPLWY3eDN4MkhnU2s3bVY0QnpBYjdwMU1wZHNhQXdwVQ?oc=5",
+      "source": "Investing.com Deutsch",
+      "category": "Finanzierungen"
     },
     {
-      "title": "Lovable-Apps legen sensible Nutzerdaten offen",
-      "summary": "Forscher haben laut Sifted festgestellt, dass mit Lovable gebaute Apps sensible Daten preisgeben.",
-      "category": "Gründungen & Produkte",
-      "url": "https://sifted.eu/articles/lovable-apps-expose-sensitive-user-data-researchers-find/",
-      "source": "Sifted"
+      "title": "IFB Innovationsstarter steuern auf Rekordjahr zu",
+      "summary": "Das Hamburger Förderprogramm für Innovationsstarter meldet laut der Stadt ein Rekordjahr.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTV81OTV6NmJyMVJYZlNtV0o3OXRPc0xKb1VCNDJCekZORktCRGJ1YndXQ0s1SGFMeEU2aDlQTnJ4TzRiek0yZWRLLTlzZnpQNmhOVW9icDBRVlJOWGE5RjEwbmFzM2tIM3JYRi1ORktER0lqUGktMWdrbEhrM0FnMnlUR2FxdDVaN0diUlNQZFd3MjB3RmdXaWpjU1hCVElfSG05Q3J4aUVtYk50Y3k0R3R4UlVfd3ROclgwYUtiaTM5OEM3STlMWUJjUUtCVUxP?oc=5",
+      "source": "Hamburg.de",
+      "category": "Hamburg & Norddeutschland"
     },
     {
-      "title": "Deutscher Scout bei einem Top-Investor werden",
-      "summary": "Zwei Scouts amerikanischer Top-VCs erklären der Gründerszene, was die Rolle bedeutet.",
-      "category": "Europa & Welt",
-      "url": "https://www.businessinsider.de/gruenderszene/fuer-andreessen-horowitz-investieren-so-wird-man-deutscher-scout-beim-top-vc/",
-      "source": "Gründerszene"
+      "title": "Harbinger sammelt 240 Millionen Dollar nach Schritt in die Rüstung",
+      "summary": "Das US-Startup baut Elektro-Lkw, Einsatzfahrzeuge und eine fahrerlose Plattform fürs Militär. Insgesamt hat es über 650 Millionen Dollar eingesammelt.",
+      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "source": "TechCrunch Startups",
+      "category": "Finanzierungen"
     },
     {
-      "title": "Welche DHDL-Deals wirklich zustande kamen",
-      "summary": "In Staffel 20 von „Die Höhle der Löwen“ traten 44 Startups an. Gründerszene zeigt, welche Deals nach der Show tatsächlich abgeschlossen wurden.",
-      "category": "Gründungen & Produkte",
-      "url": "https://www.businessinsider.de/gruenderszene/dhdl-die-10-besten-deals-der-neuesten-staffel/",
-      "source": "Gründerszene"
+      "title": "Lieferdienst Wonder beantragt Börsengang",
+      "summary": "Das Essenslieferstartup Wonder rückt nach Jahren mit Finanzierungsrunden und Zukäufen an die Börse.",
+      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "source": "TechCrunch Startups",
+      "category": "Exits & Übernahmen"
     },
     {
-      "title": "Glovo-Alumni gründeten Firmen im Wert von 461 Millionen Euro",
-      "summary": "Beim vierten Startup Campus in Barcelona zeigte Glovo Forschung zum Gründungseffekt ehemaliger Mitarbeiter.",
-      "category": "Europa & Welt",
-      "url": "https://www.eu-startups.com/2026/11/glovos-e461-million-startup-multiplier-effect-showcased-at-annual-startup-campus/",
-      "source": "EU-Startups"
+      "title": "Helsing-Chef unterstützt KI-Lernstartup Mindmax",
+      "summary": "Das Startup Mindmax sammelt 2,5 Millionen Pfund ein. Laut Sifted unterstützt der Chef des Rüstungs-KI-Unternehmens Helsing die Runde.",
+      "url": "https://sifted.eu/articles/memrise-mindmax-helsing-funding-round-memory/",
+      "source": "Sifted",
+      "category": "Finanzierungen"
+    },
+    {
+      "title": "Der Wettlauf um europäische Hardware ohne China",
+      "summary": "Sifted beleuchtet, wie europäische Firmen Hardware ohne Zulieferer aus China bauen wollen.",
+      "url": "https://sifted.eu/articles/inside-the-race-to-build-european-hardware-without-china/",
+      "source": "Sifted",
+      "category": "Europa & Welt"
     }
   ]
 }
