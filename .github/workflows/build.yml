@@ -7,7 +7,7 @@ on:
     # daher zwei Läufe mit viel Vorlauf (02:30 und 04:00 Berlin). Die Cloud-Umgebung der Routine erreicht die Nachrichtenseiten nicht, GitHub schon.
     - cron: '30 1 * * *'
     - cron: '0 3 * * *'
-    # Kennzahlen und KI-Kachel nachziehen (08:30 und 10:20 Berlin im Winter)
+    # Kennzahlen nachziehen (08:30 und 10:20 Berlin im Winter)
     - cron: '30 7 * * *'
     - cron: '20 9 * * *'
   workflow_dispatch:
@@ -35,7 +35,7 @@ jobs:
       - name: Feeds holen (für die Routine)
         run: node scripts/feeds.mjs
 
-      - name: Kennzahlen holen (EZB, Börse, KI-News)
+      - name: Kennzahlen holen (EZB, Börse, arXiv, Hugging Face, Fußball)
         run: node scripts/metrics.mjs
 
       - name: Alle Dashboards und Startseite bauen

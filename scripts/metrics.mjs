@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Holt täglich die Kennzahlen jedes Dashboards (Börse über Yahoo Finance, Zinsen und Preise über die EZB, Fußball über OpenLigaDB)
-// und schreibt sie nach <dashboard>/data/metrics.json. Dazu die Kopfdaten der KI-News für die Startseite.
+// und schreibt sie nach <dashboard>/data/metrics.json. Für KI-Dashboards zusätzlich arXiv und Hugging Face.
 // Ohne Abhängigkeiten und ohne Schlüssel. Fällt eine Quelle aus, bleibt der alte Wert stehen.
 
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync } from "node:fs";
@@ -73,6 +73,27 @@ async function football(f) {
   return { matches, table, progress, fetched: new Date().toISOString() };
 }
 
+// Neue Einreichungen auf arXiv in KI-Kategorien, laut Tagesliste: { day, "cs.AI": n, … }
+async function arxiv(cats) {
+  const out = {};
+  let day = null;
+  for (const cat of cats) {
+    const html = await get(`https://arxiv.org/list/${cat}/new`, "text");
+    const n = html.match(/New submissions \(showing \d+ of (\d+) entries\)/);
+    const d = html.match(/new listings for \w+, (\d{1,2} \w+ \d{4})/);
+    if (!n || !d) throw new Error(`Format ${cat} unbekannt`);
+    out[cat] = Number(n[1]);
+    day = new Date(`${d[1]} 12:00 UTC`).toISOString().slice(0, 10);
+  }
+  return { day, counts: out };
+}
+
+// Meistbeachtete offene Modelle auf Hugging Face gerade
+async function hf() {
+  const j = await get("https://huggingface.co/api/models?sort=trendingScore&direction=-1&limit=6");
+  return j.map(m => ({ id: m.id, likes: m.likes, downloads: m.downloads, task: m.pipeline_tag || "" }));
+}
+
 const dashboards = readdirSync(ROOT, { withFileTypes: true })
   .filter(d => d.isDirectory() && existsSync(join(ROOT, d.name, "config.json")))
   .map(d => d.name);
@@ -90,6 +111,14 @@ for (const name of dashboards) {
     const v = await attempt(`EZB ${s.key}`, () => ecb(s.key));
     if (v) (m.ecb ??= {})[s.key] = v;
   }
+  if (cfg.metrics?.arxiv?.length) {
+    const v = await attempt("arXiv", () => arxiv(cfg.metrics.arxiv));
+    if (v) (m.arxiv ??= {})[v.day] = v.counts;
+  }
+  if (cfg.metrics?.hf) {
+    const v = await attempt("Hugging Face", hf);
+    if (v) m.hf = v;
+  }
   if (cfg.football) {
     const v = await attempt("Fußball", () => football(cfg.football));
     if (v) m.football = v;
@@ -98,11 +127,4 @@ for (const name of dashboards) {
   mkdirSync(dirname(file), { recursive: true });
   writeFileSync(file, JSON.stringify(m, null, 1) + "\n");
   console.log(`  Aktien ${Object.keys(m.stocks || {}).length}, EZB-Reihen ${Object.keys(m.ecb || {}).length}`);
-}
-
-// KI-News (eigenes Repo) für die Startseite
-const ki = await attempt("KI-News", () => get("https://jamhivemind.github.io/ki-news/archive/manifest.json"));
-if (ki) {
-  mkdirSync(join(ROOT, "data"), { recursive: true });
-  writeFileSync(join(ROOT, "data", "ki-news.json"), JSON.stringify(ki.briefs?.[0] || {}, null, 1) + "\n");
 }

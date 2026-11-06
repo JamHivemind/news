@@ -1,0 +1,188 @@
+{
+  "order": 0,
+  "icon": "🤖",
+  "title": "KI-News",
+  "description": "Die wichtigsten Neuigkeiten aus der KI-Welt, jeden Morgen kurz auf Deutsch",
+  "leser": "Berufstätige, die KI nutzen oder verstehen wollen, aber keine Entwickler oder Forscher sind",
+  "ton": "Fachbegriffe wie Modellnamen, \"Agent\" oder \"Open Source\" bleiben englisch, werden beim ersten Auftreten aber in wenigen Wörtern erklärt (z. B. \"Benchmark (ein Leistungstest)\"). Keine Zahlenkolonnen: Benchmark-Werte, Parameterzahlen und Preise nur mit Einordnung.",
+  "schwerpunkt": "Nur echte Neuigkeiten: neue Modelle, Funktionen, Tools, große Deals, Gesetze, wichtige Studien, spürbare Folgen für Arbeit und Alltag. Keine reinen Entwickler-Details. Meldungen aus mindestens 6 verschiedenen Quellen. Bei Doppelten den Hersteller-Blog vor der Nachrichtenseite vor dem Digest verlinken, deutsche Quelle bevorzugen, wenn gleichwertig. Bei Google-News-Einträgen von anthropic.com als Quelle \"Anthropic News\" angeben. Praxis-Tipps hier bis zu 3 am Tag, nur wenn es wirklich etwas zum Ausprobieren gibt.",
+  "categories": [
+    "Modelle & Releases",
+    "Claude & Anthropic",
+    "Tools & Agenten",
+    "KI im Alltag & Beruf",
+    "Business & Funding",
+    "Regulierung & Politik",
+    "Forschung & Deep Tech"
+  ],
+  "sources": [
+    {
+      "name": "Anthropic (Google News)",
+      "url": "https://news.google.com/rss/search?q=Anthropic+OR+%22Claude+Code%22+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "type": "rss",
+      "focus": "Neue Claude-Modelle, Funktionen, Claude Code, Produkt-Updates. Bevorzugt Einträge von anthropic.com"
+    },
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/rss.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/rss/",
+      "type": "rss"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "type": "rss",
+      "focus": "Nur wichtige offene Modelle und Werkzeuge, keine Tutorials"
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "type": "rss",
+      "focus": "Finanzierungen, Übernahmen, Produktstarts"
+    },
+    {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "type": "rss",
+      "focus": "KI in Alltagsprodukten (Handy, Suche, Assistenten)"
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "type": "rss",
+      "focus": "Einordnung, Gesellschaft, Forschung"
+    },
+    {
+      "name": "heise online",
+      "url": "https://www.heise.de/rss/heise-Rubrik-IT-atom.xml",
+      "type": "rss",
+      "focus": "Nur Meldungen mit KI-Bezug. Datenschutz, EU, deutsche Unternehmen"
+    },
+    {
+      "name": "t3n",
+      "url": "https://t3n.de/tag/kuenstliche-intelligenz/rss.xml",
+      "type": "rss",
+      "focus": "KI im Beruf, Tools für den Arbeitsalltag"
+    },
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.de/feed/",
+      "type": "rss"
+    },
+    {
+      "name": "AINews (Latent Space)",
+      "url": "https://www.latent.space/feed",
+      "type": "rss",
+      "focus": "Nur die neueste AINews-Ausgabe. Daraus die echten Neuigkeiten ziehen, als Link die verlinkte Original-Ankündigung nehmen."
+    },
+    {
+      "name": "Ben's Bites",
+      "url": "https://www.bensbites.com/feed",
+      "type": "rss",
+      "focus": "Praxisnahe Tools und Anwendungen"
+    },
+    {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/atom/everything/",
+      "type": "rss",
+      "focus": "Nur wenn es ein neues Modell oder Werkzeug konkret einordnet"
+    },
+    {
+      "name": "Impossible Founders",
+      "type": "gmail",
+      "query": "from:impossible-founders.com newer_than:3d",
+      "focus": "Deep-Tech-Briefing aus Hamburg (alle zwei Wochen). Nur Inhalte mit KI- oder Deep-Tech-Bezug, Rubrik Forschung & Deep Tech. Link nur auf öffentliche Seiten, nie auf Links aus der Mail."
+    }
+  ],
+  "entities": [
+    [
+      "Anthropic",
+      "\\b(Anthropic|Claude)\\b"
+    ],
+    [
+      "OpenAI",
+      "\\b(OpenAI|ChatGPT|GPT-\\d|Codex|Sora)\\b"
+    ],
+    [
+      "Google",
+      "\\b(Google|Gemini|DeepMind|Alphabet)\\b"
+    ],
+    [
+      "Meta",
+      "\\b(Meta|Llama|Zuckerberg)\\b",
+      ""
+    ],
+    [
+      "Microsoft",
+      "\\b(Microsoft|Copilot)\\b"
+    ],
+    [
+      "Nvidia",
+      "\\bNvidia\\b"
+    ],
+    [
+      "Apple",
+      "\\bApple\\b",
+      ""
+    ],
+    [
+      "Amazon",
+      "\\b(Amazon|AWS)\\b",
+      ""
+    ],
+    [
+      "DeepSeek",
+      "\\bDeepSeek\\b"
+    ],
+    [
+      "Mistral",
+      "\\bMistral\\b"
+    ],
+    [
+      "xAI",
+      "\\b(xAI|Grok)\\b",
+      ""
+    ],
+    [
+      "Alibaba/Qwen",
+      "\\b(Alibaba|Qwen)\\b"
+    ]
+  ],
+  "entitiesTitle": "Firmen in den Schlagzeilen",
+  "tiles": [
+    {
+      "arxiv": true,
+      "label": "Neue KI-Paper"
+    },
+    {
+      "stock": "NVDA",
+      "label": "NVIDIA, 30 Tage"
+    }
+  ],
+  "metrics": {
+    "arxiv": [
+      "cs.AI",
+      "cs.LG",
+      "cs.CL"
+    ],
+    "hf": true,
+    "stocks": {
+      "NVDA": "NVIDIA",
+      "MSFT": "Microsoft",
+      "GOOGL": "Alphabet",
+      "META": "Meta"
+    },
+    "stocksTitle": "KI-Firmen an der Börse",
+    "stocksSub": "Aktienkurs, letzte 30 Handelstage, Start = 100"
+  },
+  "kennzahlenQuellen": "eigene Zählung, arXiv, Yahoo Finance, Hugging Face"
+}

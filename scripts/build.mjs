@@ -92,6 +92,10 @@ function renderDashboard(cfg, manifest, date, metrics, dir) {
     return { sym, name, color: `var(--s${i + 1})`, points: s.map(([d, c]) => [d, Math.round((c / b) * 1000) / 10]) };
   }).filter(s => s.points.length > 1);
   const ecbSeries = key => metrics.ecb?.[key] || [];
+  // arXiv: Summe der KI-Kategorien je Tag, letzte 30 Tage
+  const dm = iso => iso.split("-").reverse().slice(0, 2).join(".") + ".";
+  const arxivDays = Object.entries(metrics.arxiv || {}).sort(([a], [b]) => a.localeCompare(b)).slice(-30)
+    .map(([d, v]) => ({ date: d, value: Object.values(v).reduce((s, n) => s + n, 0), v }));
 
   // Kacheln
   let kpis = "";
@@ -105,6 +109,9 @@ function renderDashboard(cfg, manifest, date, metrics, dir) {
       const [ym, v] = s.at(-1), before = s.at(-13);
       kpis += tile(t.label, `${fmt(v, t.decimals ?? 2)} ${t.unit || "%"}`,
         `${monthLabel(ym)}${before ? `, vor 12 Monaten ${fmt(before[1], t.decimals ?? 2)} ${t.unit || "%"}` : ""}`);
+    } else if (t.arxiv) {
+      const a = arxivDays.at(-1); if (!a) continue;
+      kpis += tile(t.label, fmt(a.value), `arXiv, ${dm(a.date)}`);
     } else if (t.stock) {
       const s = stockSeries.find(x => x.sym === t.stock); if (!s) continue;
       kpis += tile(t.label, signed(s.points.at(-1)[1] - 100, 1, " %"), "im Vergleich zu vor 30 Handelstagen");
@@ -139,6 +146,20 @@ function renderDashboard(cfg, manifest, date, metrics, dir) {
   if (stockSeries.length)
     panels += panel(M.stocksTitle || "An der Börse", M.stocksSub || "Kurs, letzte 30 Handelstage, Start = 100",
       legend(stockSeries) + lines(stockSeries, { base: 100 }), "Quelle: Yahoo Finance. Nur zur Einordnung, keine Anlageberatung.");
+  if (M.arxiv && arxivDays.length) {
+    const short = { "cs.AI": "KI", "cs.LG": "ML", "cs.CL": "Sprache" };
+    panels += panel("Wie viel zu KI geforscht wird", "Neue Fachartikel pro Tag auf arXiv (KI, maschinelles Lernen, Sprache)",
+      columns(arxivDays.map(d => ({ date: d.date, value: d.value,
+        tip: `${dm(d.date)}: ${fmt(d.value)} (${Object.entries(d.v).map(([k, n]) => `${short[k] || k} ${n}`).join(", ")})` }))),
+      arxivDays.length < 3 ? "Die Reihe wächst jeden Tag um einen Wert." : "");
+  }
+  if (M.hf && metrics.hf?.length) {
+    const rows = metrics.hf.slice(0, 6).map(m =>
+      `<li><a href="https://huggingface.co/${esc(m.id)}" target="_blank" rel="noopener">${esc(m.id.split("/")[1] || m.id)}</a>` +
+      `<span>${esc(m.id.split("/")[0])}</span><b>${fmt(m.likes)} ♥</b></li>`).join("");
+    panels += panel("Gefragte offene Modelle", "Gerade am meisten beachtet auf Hugging Face", `<ol class="ranklist">${rows}</ol>`,
+      "Offene Modelle kann jeder herunterladen und selbst betreiben.");
+  }
   if (briefs.length > 1)
     panels += panel("Meldungen pro Tag", "Anzahl ausgewählter Meldungen je Ausgabe",
       columns(briefs.slice(-14).map(b => ({ date: b.date, value: b.count }))));
@@ -229,29 +250,18 @@ function buildDashboard(name, template) {
 
 // ---------- Startseite ----------
 
-// Im Browser: "Heute" nach dem Datum des Lesers setzen und die KI-Kachel live aus dem KI-News-Archiv holen
-// (die KI-News erscheinen nach dem Bau dieser Startseite).
+// Im Browser: "Heute" nach dem Datum des Lesers setzen (die Seite kann von gestern sein)
 const HUB_SCRIPT = `<script>(function(){
 var t=new Date(),pad=function(n){return(n<10?"0":"")+n},today=t.getFullYear()+"-"+pad(t.getMonth()+1)+"-"+pad(t.getDate());
 var wd=["So.","Mo.","Di.","Mi.","Do.","Fr.","Sa."];
-function mark(el,d){el.setAttribute("data-date",d);if(d===today){el.textContent="Heute";el.className="fresh";}else{var x=new Date(d+"T12:00:00");el.textContent=wd[x.getDay()]+", "+pad(x.getDate())+"."+pad(x.getMonth()+1)+"."+x.getFullYear();el.className="";}}
-document.querySelectorAll(".hub-meta span[data-date]").forEach(function(el){mark(el,el.getAttribute("data-date"))});
-fetch("https://jamhivemind.github.io/ki-news/archive/manifest.json",{cache:"no-store"}).then(function(r){return r.json()}).then(function(m){
-var b=m.briefs&&m.briefs[0],card=document.getElementById("hub-ki");if(!b||!card)return;
-var top=card.querySelector(".hub-top"),meta=card.querySelector(".hub-meta");if(!top||!meta)return;
-top.textContent=b.headline||"";meta.innerHTML='<span></span> · '+(b.count||0)+" Meldungen";mark(meta.querySelector("span"),b.date);
-}).catch(function(){});})();</script>`;
+function mark(el,d){if(d===today){el.textContent="Heute";el.className="fresh";}else{var x=new Date(d+"T12:00:00");el.textContent=wd[x.getDay()]+", "+pad(x.getDate())+"."+pad(x.getMonth()+1)+"."+x.getFullYear();el.className="";}}
+document.querySelectorAll(".hub-meta span[data-date]").forEach(function(el){mark(el,el.getAttribute("data-date"))});})();</script>`;
 
 function buildHub(results, template) {
-  const ki = loadJson(join(ROOT, "data", "ki-news.json"), {});
-  const cards = [
-    { url: "https://jamhivemind.github.io/ki-news/", title: "KI-News", icon: "🤖",
-      description: "Die wichtigsten Neuigkeiten aus der KI-Welt", latest: ki.date ? ki : null },
-    ...results.map(r => ({ url: `${r.name}/`, title: r.cfg.title, icon: r.cfg.icon || "📰", description: r.cfg.description, latest: r.latest })),
-  ];
+  const cards = results.map(r => ({ url: `${r.name}/`, title: r.cfg.title, icon: r.cfg.icon || "📰", description: r.cfg.description, latest: r.latest }));
   const html = cards.map(c => {
     const fresh = c.latest && c.latest.date === today();
-    return `<a class="hub-card" href="${esc(c.url)}"${c.title === "KI-News" ? ' id="hub-ki"' : ""}><div class="hub-icon">${c.icon}</div><div class="hub-body">` +
+    return `<a class="hub-card" href="${esc(c.url)}"><div class="hub-icon">${c.icon}</div><div class="hub-body">` +
       `<h3>${esc(c.title)}</h3><p>${esc(c.description)}</p>` +
       (c.latest ? `<div class="hub-top">${esc(c.latest.headline || "")}</div>` +
         `<div class="hub-meta"><span data-date="${esc(c.latest.date)}" class="${fresh ? "fresh" : ""}">${fresh ? "Heute" : esc(shortDate(c.latest.date))}</span> · ${fmt(c.latest.count || 0)} Meldungen</div>`

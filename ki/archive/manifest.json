@@ -1,0 +1,79 @@
+{
+  "briefs": [
+    {
+      "date": "2026-11-06",
+      "file": "2026-11-06.html",
+      "headline": "Claude kann jetzt Ihre Finanzen analysieren",
+      "count": 17,
+      "sources": 9,
+      "cats": {
+        "Claude & Anthropic": 3,
+        "Modelle & Releases": 4,
+        "Regulierung & Politik": 2,
+        "Tools & Agenten": 1,
+        "KI im Alltag & Beruf": 2,
+        "Business & Funding": 5
+      },
+      "ents": {
+        "Anthropic": 6,
+        "OpenAI": 4,
+        "Google": 1,
+        "Meta": 2,
+        "Microsoft": 1,
+        "Amazon": 1
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "file": "2026-11-05.html",
+      "headline": "Claude zeigt Chefs, wie Mitarbeiter die KI nutzen",
+      "count": 18,
+      "sources": 7,
+      "cats": {
+        "Claude & Anthropic": 3,
+        "Modelle & Releases": 1,
+        "Regulierung & Politik": 3,
+        "Business & Funding": 4,
+        "Tools & Agenten": 2,
+        "Forschung & Deep Tech": 3,
+        "KI im Alltag & Beruf": 2
+      },
+      "ents": {
+        "Anthropic": 3,
+        "OpenAI": 3,
+        "Google": 2,
+        "Alibaba/Qwen": 1,
+        "Meta": 1,
+        "Nvidia": 1
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "file": "2026-11-04.html",
+      "headline": "Claude Code verweigert jetzt den Nachbau bekannter Spiele",
+      "count": 14,
+      "sources": 3,
+      "cats": {
+        "Claude & Anthropic": 2,
+        "Modelle & Releases": 2,
+        "Tools & Agenten": 3,
+        "Business & Funding": 2,
+        "Regulierung & Politik": 2,
+        "Forschung & Deep Tech": 3
+      },
+      "ents": {
+        "Anthropic": 4,
+        "Google": 1,
+        "Alibaba/Qwen": 1,
+        "DeepSeek": 1,
+        "Microsoft": 1,
+        "OpenAI": 2,
+        "Nvidia": 1
+      }
+    }
+  ],
+  "site": {
+    "title": "KI-News",
+    "description": "Die wichtigsten Neuigkeiten aus der KI-Welt, jeden Morgen kurz auf Deutsch"
+  }
+}
