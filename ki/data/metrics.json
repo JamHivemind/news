@@ -1059,6 +1059,10 @@
    [
     "2026-11-05",
     605.08
+   ],
+   [
+    "2026-11-06",
+    610.15
    ]
   ]
  },
@@ -1071,41 +1075,41 @@
  "hf": [
   {
    "id": "moonshotai/Kimi-K3.1-Pro",
-   "likes": 1509,
+   "likes": 1529,
    "downloads": 18432,
    "task": "image-text-to-text"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 948,
+   "likes": 959,
    "downloads": 19139,
    "task": "image-to-3d"
   },
   {
    "id": "ccore/Qwen3.5-4B-3D-Coder",
-   "likes": 793,
+   "likes": 794,
    "downloads": 190243,
    "task": ""
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 10872,
+   "likes": 10881,
    "downloads": 2607491,
    "task": "image-to-video"
   },
   {
    "id": "burner22/numbat",
-   "likes": 372,
+   "likes": 373,
    "downloads": 9066,
    "task": ""
   },
   {
    "id": "FusionCow/Sulphur-3",
-   "likes": 396,
+   "likes": 397,
    "downloads": 950,
    "task": ""
   }
  ],
- "updated": "2026-11-07T02:20:30.704Z",
+ "updated": "2026-11-07T03:43:59.794Z",
  "updatedDay": "2026-11-06"
 }
