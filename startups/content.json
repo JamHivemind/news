@@ -1,92 +1,107 @@
 {
-  "date": "2026-11-06",
-  "intro": "Gleich mehrere deutsche Deeptech-Startups melden Millionenrunden, allen voran der Elektroflieger Vaeridion. In Europa gerät der Geldgeber Sequoia unter Spardruck.",
+  "date": "2026-11-07",
+  "intro": "Sequoia Capital, einer der bekanntesten Geldgeber für Start-ups, schließt sein Büro in London. In Deutschland sorgt der Chefwechsel beim Fintech Finn für Gesprächsstoff.",
   "top": [
     {
-      "title": "Vaeridion sichert sich 124 Millionen Euro für Elektroflugzeug",
-      "text": "Das Flugzeug-Startup Vaeridion hat laut FAZ 124 Millionen Euro eingesammelt, andere Medien sprechen von rund 120 Millionen Euro. Dazu kommen laut aero.de EU-Mittel und Kaufzusagen von Kunden. Damit hält das junge Unternehmen dem allgemeinen Pleite-Trend in der Branche stand.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2U2ZHZhMEIxWGNMdlM0d2pGQjRvcXdNRmxQMlZlcWQ1alcwdkgtS2x4N3F6d1JNVTJfdnJBck1LYl9HOVZpYy1qYlRfTnB4aXNuWHpDOHp2VXE3THFsSGZ0R2g1Zndza2ZfZ2xMWjB4dm1WLTZwMk44MlVPSTFVTHl3ektWSHhVaExtc3piRnZhUWpjRmpfTlVVNm1rRkdfU0h6VnkySy1kbTZjNUhtVkJKUU1zNENGZG9Ib09iMXZKN0VmMmhGbFUyRTBQUQ?oc=5",
-      "source": "FAZ",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Sequoia schließt Londoner Büro und baut Europa-Team ab",
-      "text": "Der große Risikokapitalgeber Sequoia schließt laut Sifted sein Büro in London und streicht Stellen im Europa-Team. Für europäische Gründer kann das bedeuten, dass ein bekannter Geldgeber weniger vor Ort ansprechbar ist.",
-      "url": "https://sifted.eu/articles/sequoia-closes-london-office/",
-      "source": "Sifted",
+      "title": "Sequoia schließt Londoner Büro",
+      "text": "Der Risikokapitalgeber Sequoia Capital schließt seine Niederlassung in London. Außerdem will die Firma weniger Meetings und eine flachere Führungsstruktur. Sifted fragt, ob das für Europas Start-up-Szene ein schlechtes Zeichen ist: Wer in Europa Geld sucht, hat dort künftig einen Ansprechpartner weniger.",
+      "url": "https://www.businessinsider.de/gruenderszene/sequoia-schliesst-londoner-buero-will-weniger-meetings-und-hierarchie/",
+      "source": "Gründerszene",
       "category": "Europa & Welt"
     },
     {
-      "title": "Drohnenlieferdienst Zipline wird mit 21,5 Milliarden Dollar bewertet",
-      "text": "Zipline hat 1,5 Milliarden Dollar eingesammelt und kommt damit auf eine Bewertung von 21,5 Milliarden Dollar. Der Partner Walmart baut die Zusammenarbeit bei Drohnenlieferungen aus.",
-      "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-      "source": "TechCrunch Startups",
-      "category": "Finanzierungen"
+      "title": "Flugzeug-Start-up Vaeridion bekommt EU-Geld und Kaufzusagen",
+      "text": "Das Start-up Vaeridion, das elektrische Flugzeuge entwickeln will, erhält laut Tagesspiegel EU-Millionen und Kaufzusagen von Kunden. Kaufzusagen helfen jungen Firmen, weil sie zeigen, dass es Nachfrage gibt, und sie Geldgebern Sicherheit geben.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN1cwRVN4WVhyUnFZamU0ejJ6MmZoUjZqcmxJTUxWeksyWEcwYmx1RS1ndHBndnhIZXFId21OSm1YNDJkTkV3ZGNOZFh6aGp2bnctRk1TYVVsX1NSX1Rna0hIZ0pSbEhodk5nYktIYlg2dVNmMGFJRUVlY2hPVzVYZnZBV2dmQ0l5NjNNbVR4VmdIYWN3UWxKTlJpcGI1UEVzNXZOdVlGVzNabVh2ZmhyY2VJZEhmR3luaHlWRDMydmprc0ZLZzlWUVBQWU5nQXFZeDZodWtB?oc=5",
+      "source": "Tagesspiegel",
+      "category": "Förderung & Politik"
+    },
+    {
+      "title": "Finn: Gründer muss CEO-Posten räumen",
+      "text": "Maximilian Wühr gibt seinen Posten als Chef von Finn ab, nur vier Monate nach dem Einhorn-Status (Bewertung von über einer Milliarde Dollar). Gründerszene berichtet über die Hintergründe und zitiert: Es sei „keine Entscheidung gegen Max“.",
+      "url": "https://www.businessinsider.de/gruenderszene/finn-warum-der-gruender-gehen-musste/",
+      "source": "Gründerszene",
+      "category": "Gründungen & Produkte"
     }
   ],
   "entries": [
     {
-      "title": "Quint Computing sammelt 9,1 Millionen Euro für Quantencomputer ein",
-      "summary": "Das Startup will skalierbare Quantencomputer bauen. Die Runde über 9,1 Millionen Euro meldet Startbase.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzNrd3Y2Z1ZrVzdNMzJveGpxdjN2b2U5Y2NWbnNWV2xhU3lDVUthejFUdW9SMEhvX2VXeTVkZUl1blVqUEdiR3RvZ250eXdKWW5CVndrMktUY0NpMDNzOFR1al9TaEJLblk5UkxtN1diZ2xwNDl0R3lTWlNvaTd4eVJGNlNEVzFjV1plZnoyVFFMVkJmYnpWVzk3VjByZDg0UGtUX1lwT3pLTWlEaEE?oc=5",
-      "source": "Startbase",
+      "title": "51 Millionen Dollar für autonome Lkw",
+      "summary": "Ein Start-up für selbstfahrende Lastwagen sammelt laut Business Insider 51 Millionen Dollar ein.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGVWcURZM1FmTlIyVUFKYlBxMHp3TDdVS3VlQUZUUXJZdENDT0ZubnA4ZDhYV0lNMzlPaWNwTjYzNVRGeS10Y3k0MTlrdzlvbUlZMVQxb1pBY3Z5cURTLUJkZUd3MGNZdEh3ZTl3WG9EMGlZM2VMempUVVlyZ1ltNWpJYUlidjRDTVU0WVhpVXlsUU15TlNZSnhYWVVoMG5pYkFGWVB3OWo0aWZVYndaMkFLRzV6bE51U1hiZUxHNmNCTlFhbnFjT0hSV1VKUWR5UzBiUDlZOElPdw?oc=5",
+      "source": "Business Insider Deutschland",
+      "category": "Finanzierungen"
+    },
+    {
+      "title": "Green Voltis holt 13,5 Millionen Euro für KI-Energienetze",
+      "summary": "Das Start-up will mit KI Stromnetze steuern und hat 13,5 Millionen Euro eingesammelt.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0I4UkI3VnFid2xHeTJoQmZFc3RsUnUwQU1ydkZRMkQyNWdvRlZmalNMb0Jid3ZIRldKRVVpMzFxM2tsUWxCQzBGS3RoQ1dMVTgwYVJia3hGTHUxLXNZVENvZXk0OGd5eVpwQk1FV0dkTUZ4T01fRV83M19EbjB5T1M2dkFHaWxxcFo2Y0M3eUpMOTFsQW9tMnRn?oc=5",
+      "source": "n24.com.tr",
+      "category": "Finanzierungen"
+    },
+    {
+      "title": "Stage Two: Über 300 Millionen Euro für Hochschul-Start-ups",
+      "summary": "Der Fonds zieht Bilanz: Mehr als 300 Millionen Euro flossen an Ausgründungen europäischer Hochschulen.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeUFpMzlfdzN5OTlKQ25POXlaQ2d0NUEya2IzQk9VZGtXVWp5TUwwTHZaXzBxU01yamdzRWVaZWRMc3hZblhTeGttWkRDa2JnVFdOSnJlZURVV3R1a1E5bmxmWnJGM1ItcXpVQldGLUV1dmZsTDFYUWk1WFM5VXdfWUVEQWNEb1FtMF9za0NvQUhyTDZvakRYdDd4V1dpMjRISzh4dVdySW12b2lMbGFwam1NbFkzNWdjbk1vNmFMeGNFLWM1eXlza09mc0w0Z1pObUR3OHlxcno1T0VBUXYwcm9jc3hYZllsaEE?oc=5",
+      "source": "Mynewsdesk",
+      "category": "Finanzierungen"
+    },
+    {
+      "title": "Verpasster Anthropic-Einstieg: Aus 500.000 Euro wären 167 Millionen geworden",
+      "summary": "Ein deutscher Investor sagte früh Nein zu einem Einstieg bei Anthropic. Er erzählt, was er daraus gelernt hat.",
+      "url": "https://www.businessinsider.de/gruenderszene/anthropic-deal-verpasst-aus-500-000-euro-waeren-167-millionen-geworden/",
+      "source": "Gründerszene",
+      "category": "Finanzierungen"
+    },
+    {
+      "title": "Rollups für Rüstung: Skepsis bei manchen VCs",
+      "summary": "Europäische Start-ups kaufen sich mit Rollup-Strategien (Zukäufe kleiner Firmen) in die Rüstung ein. Manche Geldgeber sind skeptisch.",
+      "url": "https://sifted.eu/articles/european-startups-defence-rollups-vc-sceptical/",
+      "source": "Sifted",
+      "category": "Europa & Welt"
+    },
+    {
+      "title": "Frühe Revolut-Mitarbeiter starten KI-Vermögensapp Haido",
+      "summary": "Ehemalige Revolut-Mitarbeiter treten mit dem KI-Start-up Haido aus dem Stealth-Modus (nicht öffentlich) an die Öffentlichkeit.",
+      "url": "https://sifted.eu/articles/haido-emerges-from-stealth/",
+      "source": "Sifted",
+      "category": "Gründungen & Produkte"
+    },
+    {
+      "title": "Axiom Math prüft KI-Beweise",
+      "summary": "Das Start-up setzt auf Verifikation und hat mit KI-Agenten das Stacks Project formal geprüft, eine große mathematische Sammlung.",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "source": "TechCrunch",
       "category": "Deep Tech & Forschung"
     },
     {
-      "title": "Green Voltis erhält 13,5 Millionen Euro",
-      "summary": "Das Startup entwickelt KI-gesteuerte Batteriespeicher und Lösungen für Rechenzentren und bekommt dafür 13,5 Millionen Euro.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcXNLc2VNSGplM0l1LTBpelNxMHYtLWVZLTlHNm5qb1BaMnRURmRlanc0TktyVG91QWxGeFlsRUdJSDlRZmNMdTB1d3BPRlEwX2x0Sk1wTW5pSkI4S05IZWhoaHNXbXJaOENqNWkySTdva0ZDWnlyLXQ5bFBQM1lDN3AwdmZmQzhXTFJlRGY0by14RVZ4dnIzNUlLblJvUkttTXFQRjNVWXFEejd3N3RJc3NJTmotNzhHZmN3QmhkOUZ6dw?oc=5",
-      "source": "Startbase",
-      "category": "Finanzierungen"
+      "title": "YC-Start-up lobt 1 Million Dollar für Materialforschung mit KI aus",
+      "summary": "Es geht um fünf ungelöste Probleme der Materialwissenschaft, an denen KI-Modelle sich versuchen sollen.",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "source": "TechCrunch",
+      "category": "Deep Tech & Forschung"
     },
     {
-      "title": "30 Millionen Dollar für FluoRok",
-      "summary": "Startbase meldet eine Finanzierung über 30 Millionen Dollar für FluoRok. Weitere Angaben stehen in der Vorschau nicht.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xV2YwY0lLLXYxMnJ6X210V0JoMnZEcFdhWHNUNjFhNTlqUGIxbE1CRUNLb1pjUTdIMjBxU0F5a3E1X0Z3ekY3Y1Q5UTllaU1jQ1gxTWFWd01xc0pvZmxHMjFOemVCRC1Ua2UxUFVCWXA?oc=5",
-      "source": "Startbase",
-      "category": "Finanzierungen"
+      "title": "David Reger will Robotik zur deutschen Schlüsselbranche machen",
+      "summary": "Der Modellbauer und Gründer verfolgt das Ziel, dass Robotik so wichtig wird wie einst die Autoindustrie.",
+      "url": "https://www.businessinsider.de/gruenderszene/10-geschwister-kein-studium-so-wurde-er-deutschlands-roboter-koenig/",
+      "source": "Gründerszene",
+      "category": "Deep Tech & Forschung"
     },
     {
-      "title": "KI-Chip-Startup Tenspresso peilt 500 Millionen Dollar Bewertung an",
-      "summary": "Laut Bloomberg strebt das Startup eine Bewertung von 500 Millionen Dollar an. Das ist eine Meldung unter Berufung auf Bloomberg, bestätigt ist sie nicht.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMF91T29xOHpaNFAzdWdUekpuZmphNlJWUGl1cW0xMGhISkFNWktIeS1YYi05azVmeUZhRHR5NEw1UU1rN191eVhnQzJkVVJtRjh0TzhrcjdtRHpNSG9vNG00VFEtOEZaemg3SXRXV3hST0xKUnpfcFI5NHpmc1FNa0VxZUgzbUl6ZFg5XzlUNHRzLUVMSndNLXcxWVFLX09zOXNoZ1hOZnRTQkI4NVI1UzZyaHZYcnFPLWY3eDN4MkhnU2s3bVY0QnpBYjdwMU1wZHNhQXdwVQ?oc=5",
-      "source": "Investing.com Deutsch",
-      "category": "Finanzierungen"
+      "title": "New York Bagel Bar will 50 Läden eröffnen",
+      "summary": "Ein Ehepaar und zwei Freunde haben die Kette gegründet und wollen in fünf Jahren 50 Filialen aufmachen.",
+      "url": "https://www.businessinsider.de/gruenderszene/ehepaar-gruendet-mit-freunden-eine-bagel-kette-und-will-jetzt-50-stores-eroeffnen/",
+      "source": "Gründerszene",
+      "category": "Gründungen & Produkte"
     },
     {
-      "title": "IFB Innovationsstarter steuern auf Rekordjahr zu",
-      "summary": "Das Hamburger Förderprogramm für Innovationsstarter meldet laut der Stadt ein Rekordjahr.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTV81OTV6NmJyMVJYZlNtV0o3OXRPc0xKb1VCNDJCekZORktCRGJ1YndXQ0s1SGFMeEU2aDlQTnJ4TzRiek0yZWRLLTlzZnpQNmhOVW9icDBRVlJOWGE5RjEwbmFzM2tIM3JYRi1ORktER0lqUGktMWdrbEhrM0FnMnlUR2FxdDVaN0diUlNQZFd3MjB3RmdXaWpjU1hCVElfSG05Q3J4aUVtYk50Y3k0R3R4UlVfd3ROclgwYUtiaTM5OEM3STlMWUJjUUtCVUxP?oc=5",
-      "source": "Hamburg.de",
-      "category": "Hamburg & Norddeutschland"
-    },
-    {
-      "title": "Harbinger sammelt 240 Millionen Dollar nach Schritt in die Rüstung",
-      "summary": "Das US-Startup baut Elektro-Lkw, Einsatzfahrzeuge und eine fahrerlose Plattform fürs Militär. Insgesamt hat es über 650 Millionen Dollar eingesammelt.",
-      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-      "source": "TechCrunch Startups",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Lieferdienst Wonder beantragt Börsengang",
-      "summary": "Das Essenslieferstartup Wonder rückt nach Jahren mit Finanzierungsrunden und Zukäufen an die Börse.",
-      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-      "source": "TechCrunch Startups",
-      "category": "Exits & Übernahmen"
-    },
-    {
-      "title": "Helsing-Chef unterstützt KI-Lernstartup Mindmax",
-      "summary": "Das Startup Mindmax sammelt 2,5 Millionen Pfund ein. Laut Sifted unterstützt der Chef des Rüstungs-KI-Unternehmens Helsing die Runde.",
-      "url": "https://sifted.eu/articles/memrise-mindmax-helsing-funding-round-memory/",
-      "source": "Sifted",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Der Wettlauf um europäische Hardware ohne China",
-      "summary": "Sifted beleuchtet, wie europäische Firmen Hardware ohne Zulieferer aus China bauen wollen.",
-      "url": "https://sifted.eu/articles/inside-the-race-to-build-european-hardware-without-china/",
-      "source": "Sifted",
-      "category": "Europa & Welt"
+      "title": "Startup Match in Hamburg am 19. November",
+      "summary": "Die Uni Hamburg lädt ein, Start-ups als Arbeitgeber kennenzulernen.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcW9GOWFkZVN6bURJWU90LXZFS1QwRFdHdnlsUmFsRE1qNkFjeElsZXZKcE1lZnVVcXR4Zkw3aW9QQVFpT05vYkRTM3dmaWxSUFAyRF9fYVd1d0hHSzNua25iX0ZYSXJ2SHN4ZXFnbHNabjN5Y3hJV2tpLTJDX0hQUg?oc=5",
+      "source": "Universität Hamburg",
+      "category": "Hamburg & Norddeutschland",
+      "tipp": "Wer einen Start-up-Job sucht: Am 19. November gibt es in Hamburg das Startup Match der Uni."
     }
   ]
 }
