@@ -1,100 +1,120 @@
 {
-  "date": "2026-11-06",
-  "intro": "Der DAX hat nach den US-Zwischenwahlen ein Rekordhoch erreicht, während im Inland Stellenabbau und steigende Sozialausgaben Schlagzeilen machen. Der Bund wird Miteigentümer beim Panzerbauer KNDS.",
+  "date": "2026-11-07",
+  "intro": "Ein weltweiter Ausverkauf bei KI- und Chipaktien hat auch den DAX unter Druck gesetzt. Dagegen produzierte die deutsche Industrie im September überraschend mehr.",
   "top": [
     {
-      "title": "Bund steigt beim Panzerbauer KNDS ein",
-      "text": "Die Bundesregierung und die Eigentümerfamilien haben sich auf den Einstieg des Bundes bei KNDS geeinigt. Der Kaufvertrag soll in den kommenden Wochen unterschrieben werden. Der Staat sichert sich damit Einfluss auf eine Schlüsseltechnologie. Der Kaufpreis wirft noch Fragen auf.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Bundesagentur für Arbeit braucht 5 Milliarden Euro Notkredit",
-      "text": "Die Ausgaben für das Arbeitslosengeld steigen. Deshalb bekommt die Bundesagentur für Arbeit ein zusätzliches Darlehen über fünf Milliarden Euro. Auch Jobcenter und Rentenkasse sind laut FAZ betroffen. Das zeigt, wie sehr der schwache Arbeitsmarkt die Sozialkassen belastet.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/milliardenluecke-bundesagentur-fuer-arbeit-braucht-5-milliarden-euro-notkredit-201654491.html",
-      "source": "FAZ Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "DAX springt nach US-Wahlen auf Rekordhoch",
-      "text": "Der deutsche Leitindex DAX hat im frühen Handel ein neues Rekordhoch erreicht. Gründe sind laut tagesschau günstigere Ölpreise und positive Signale aus der Industrie. Für Sparer mit Aktienfonds oder ETFs bedeutet das zunächst Kursgewinne, Kurse können aber schnell wieder schwanken.",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
-      "source": "tagesschau Wirtschaft",
+      "title": "KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
+      "text": "Sorgen um KI- und Halbleiteraktien haben weltweit Verkäufe ausgelöst. Auch der deutsche Aktienmarkt, der kurz zuvor ein Rekordhoch erreicht hatte, geriet unter Druck. Die US-Börsen erholten sich inzwischen wieder. Wer Fonds oder ETFs (börsengehandelte Indexfonds) besitzt, sieht kurzfristig Schwankungen.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+      "source": "tagesschau",
       "category": "Börse & Märkte"
+    },
+    {
+      "title": "Industrie produziert im September überraschend mehr",
+      "text": "Deutsche Industriebetriebe haben im September mehr hergestellt als im Vormonat. Vor allem die Autobranche sorgte für das Plus. Die Risiken für eine Erholung bleiben laut Bericht bestehen, es ist also noch keine Trendwende.",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html",
+      "source": "tagesschau",
+      "category": "Konjunktur"
+    },
+    {
+      "title": "Tarifstreit: Über 400.000 bei IG-Metall-Warnstreiks",
+      "text": "Die IG Metall fordert fünf Prozent mehr Lohn. Nach eigener Zählung beteiligten sich mehr als 400.000 Beschäftigte an Warnstreiks. Vor den Verhandlungen am Montag droht die Gewerkschaft mit schärferen Aktionen, falls die Arbeitgeber nicht nachbessern.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/tarifstreit-ig-metall-zaehlt-mehr-als-400.000-teilnehmer-an-warnstreiks/100267972.html",
+      "source": "Handelsblatt",
+      "category": "Arbeit & Soziales"
     }
   ],
   "entries": [
     {
-      "title": "Niederlande nominieren Knot für den EZB-Chefposten",
-      "summary": "Der frühere niederländische Zentralbankchef Knot ist offiziell als Nachfolger von EZB-Präsidentin Christine Lagarde nominiert. Er gilt als aussichtsreicher Kandidat.",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
-      "source": "tagesschau Wirtschaft",
+      "title": "Midterms: Was der Machtwechsel in den USA für Deutschland heißt",
+      "summary": "Der Wechsel im US-Kongress könnte Firmen mehr Planbarkeit bringen. Ökonomen fürchten aber, dass der Zollstreit weitergeht.",
+      "url": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html",
+      "source": "tagesschau",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "Daimler Truck: Gewinnsprung dank US-Geschäft",
+      "summary": "Der Lkw-Hersteller verbucht einen Milliardengewinn, weil das US-Geschäft wieder anzieht.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
+      "source": "tagesschau",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "E-Autos: Mehr Vorteile im Stadtverkehr möglich",
+      "summary": "Der Bundestag hat das Elektromobilitätsgesetz reformiert: günstigeres Parken und keine Pflicht zum E-Kennzeichen. Bisher nutzen aber nur wenige Kommunen den Spielraum.",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
+      "source": "tagesschau",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "EZB-Spitze: Deutschland geht bei Lagarde-Nachfolge leer aus",
+      "summary": "Ein Spanier oder ein Niederländer wird wohl neuer EZB-Präsident. Deutschland streitet mit Frankreich um weitere Topjobs bei der Bank.",
+      "url": "https://www.spiegel.de/wirtschaft/ezb-welche-chancen-deutschland-bei-der-nachfolge-von-christine-lagarde-hat-a-ddb505b8-589a-42ba-b36a-41a19ce63a68#ref=rss",
+      "source": "Spiegel Wirtschaft",
       "category": "Zinsen & Geldpolitik"
     },
     {
-      "title": "EZB-Lohnindikator: Löhne könnten 2027 etwas stärker steigen",
-      "summary": "Der Wage Tracker der EZB deutet auf ein leicht höheres Lohnwachstum in den ersten drei Quartalen 2027 hin als im Gesamtjahr 2026. Der Tracker bündelt Daten zu Tarifabschlüssen.",
-      "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/wage-tracker-der-ezb-deutet-auf-leicht-hoeheres-lohnwachstum-in-den-ersten-drei-quartalen-des-jahres-2027-verglichen-mit-dem-gesamtjahr-2026-hin-1014310",
-      "source": "Bundesbank",
+      "title": "VW schwächt Lohnstopp-Pläne ab",
+      "summary": "Volkswagen wollte weltweit Nullrunden aushandeln und rückt laut Spiegel davon ab. In Deutschland droht trotzdem eine harte Tarifrunde.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-macht-rueckzieher-bei-lohnstopp-plaenen-bis-2030-a-cc8efb62-b1b2-44a3-a60b-46c412c24cfd#ref=rss",
+      "source": "Spiegel Wirtschaft",
       "category": "Arbeit & Soziales"
     },
     {
-      "title": "Deutsche verbrauchen 2026 weniger Energie",
-      "summary": "Der Energieverbrauch sinkt laut Experten in diesem Jahr, vor allem beim Heizöl. Zugleich wächst der Anteil erneuerbarer Energien.",
-      "url": "https://www.tagesschau.de/wirtschaft/energie/energiebilanz-heizoel-100.html",
-      "source": "tagesschau Wirtschaft",
+      "title": "Mäc Geiz plant Schrumpfkur",
+      "summary": "Der insolvente Discounter will mit einem Sanierungsprogramm überleben. Etliche Filialen müssen schließen, laut FAZ rund 60.",
+      "url": "https://www.spiegel.de/wirtschaft/maec-geiz-insolventer-discounter-plant-harte-schrumpfkur-60-filialen-vor-der-schliessung-a-55e5a7aa-c9c7-434c-a08d-53b178b06540#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Klingbeil will schärferen Spritpreisdeckel",
+      "summary": "Wie stark der Staat bei Tankstellenpreisen eingreifen soll, spaltet die Koalition. Das Finanzministerium dringt auf eine „spürbare“ Grenze.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/spritpreisdeckel-klingbeil-ist-unzufrieden-mit-reiches-entwurf-201655524.html",
+      "source": "FAZ Wirtschaft",
       "category": "Energie"
     },
     {
-      "title": "Bosch streicht in Abstatt weitere 750 Stellen",
-      "summary": "Sparzwang in der Autoindustrie und Konkurrenz aus Asien belasten die Mobilitätssparte von Bosch. Betroffen ist die Entwicklung von Bremssystemen. Der konzernweite Abbau summiert sich laut FAZ auf mehr als 30.000 Stellen.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bosch-streicht-in-abstatt-weitere-750-arbeitsplaetze-a-bf826fae-4ad6-4e20-9577-f6f6065346b3#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Rheinmetall senkt Prognose, Aktie fällt um 17 Prozent",
-      "summary": "Rheinmetall wächst kräftig, aber schwächer als angekündigt. Der Konzern senkt deshalb zum zweiten Mal seine Prognose, die Aktionäre reagieren mit deutlichen Verkäufen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-senkt-prognose-erneut-aktie-bricht-um-17-prozent-ein-201654721.html",
+      "title": "Trumpf schafft über 200 Stellen für Chipgeschäft",
+      "summary": "Der FAZ-Ticker meldet neue Stellen bei Trumpf. Außerdem schließt Mäc Geiz rund 60 Filialen und Condor sichert Tariffrieden.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trumpf-schafft-ueber-200-stellen-fuer-chipgeschaeft-faz-200452404.html",
       "source": "FAZ Wirtschaft",
       "category": "Unternehmen"
     },
     {
-      "title": "Hochtief profitiert vom KI-Boom",
-      "summary": "Der Baukonzern meldet Rekordaufträge und einen um 40 Prozent höheren Gewinn. Treiber sind Rechenzentren für KI in Asien, den USA und Europa.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/hochtief-baukonzern-profitiert-von-ki-boom-gewinn-um-40-prozent-gesteigert-a-6d8bc614-f07c-41c3-b81b-6234a608f913#ref=rss",
-      "source": "Spiegel Wirtschaft",
+      "title": "Modulbauer Gropyus beantragt Insolvenz für Töchter",
+      "summary": "Das Unternehmen wollte mit modularem Bauen günstige Wohnungen schaffen. Zu den Investoren zählt Vonovia.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/gropyus-beantragt-insolvenz-fuer-deutsche-tochtergesellschaften-201651630.html",
+      "source": "FAZ Wirtschaft",
       "category": "Unternehmen"
     },
     {
-      "title": "Deutsche Firmen bei US-Investoren so gefragt wie lange nicht",
-      "summary": "Ausländische Firmen kaufen immer mehr deutsche Unternehmen, besonders US-Investoren mit Milliardendeals. So beliebt waren deutsche Firmen seit fast 20 Jahren nicht.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-deutsche-firmen-bei-us-investoren-so-beliebt-wie-seit-fast-20-jahren-nicht-mehr-a-1479c9f8-52b1-4d4b-8da4-7c18fa2c4aff#ref=rss",
-      "source": "Spiegel Wirtschaft",
+      "title": "Stromreserve: Chaos bei Ausschreibung für Backup-Kraftwerke",
+      "summary": "Das Wirtschaftsministerium nennt die erste Ausschreibung einen Erfolg, hinter den Kulissen gibt es laut Handelsblatt Chaos. Es wird ein Neustart gefordert.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/energie-fehler-im-system-wie-teuer-wird-deutschlands-stromreserve/100267669.html",
+      "source": "Handelsblatt",
+      "category": "Energie"
+    },
+    {
+      "title": "Microsoft beendet KI-Vertrag mit Oracle",
+      "summary": "Laut Bloomberg genügten ältere Nvidia-Chips den Ansprüchen nicht mehr. Microsoft prüft auch andere Cloud-Partnerschaften.",
+      "url": "https://www.handelsblatt.com/technik/ki/cloud-microsoft-beendet-laut-einem-bericht-den-ki-vertrag-mit-oracle/100268017.html",
+      "source": "Handelsblatt",
       "category": "Unternehmen"
     },
     {
-      "title": "SPD setzt Wirtschaftsministerin Frist beim Spritpreisdeckel",
-      "summary": "Wirtschaftsministerin Reiche hat nur einen zurückhaltenden Gesetzentwurf zu einer Obergrenze für Spritpreise vorgelegt. Die SPD setzt ihr nun eine Frist; auch Finanzminister Klingbeil will einen spürbaren Deckel.",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spd-setzt-wirtschaftsministerin-frist-bei-spritpreisdeckel-a-3798c7f9-3ff9-4f47-a946-ab6fdfa06371#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Politik & Handel"
+      "title": "US-Investoren mögen deutsche Firmen so sehr wie lange nicht",
+      "summary": "Unternehmen aus Deutschland sind bei US-Investoren so beliebt wie seit fast 20 Jahren nicht mehr.",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORGg2ejFSNE9NSkd3UmlsMmFzdFJfcWtkWTlxUC1TZXI2RW5xemJwRGpRdmphM3J6bjVrVGpIdDNUNUpOLVpYSkdYdnYwWkpuUFNMRWw5aExQTUJwemlYd2VmNHJ5dEZFLVU5NmRobjJYZ3ZjNUNaTF94eFJ3WGVrc2YtQnRRQ0lRS0t4Z1hrZFhabmg4ZzRZcUk4UEVrbXJyU3pUeTlXTzV2aDluakItanUzTUo4SGhfY1lkYUxZQzVuU1R3M0JhSl9Zb3kwaUtpSFBabUVmX3Bick5hVHRxVzRDeXd4WXBwVGZLTk16MnNWUFJHSExTb2l6d2MzRTFjWGMzTmZ3MEhPdmFMbUVmNDk2ZG1ZVmNheGc?oc=5",
+      "source": "Spiegel",
+      "category": "Börse & Märkte"
     },
     {
-      "title": "Pakete aus Drittstaaten werden teurer",
-      "summary": "Für Bestellungen aus Nicht-EU-Ländern kommen künftig zwei Euro Bearbeitungsgebühr dazu. Bei günstigen Waren frisst das den Preisvorteil schnell auf.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/neue-eu-gebuehr-wie-teuer-wird-shopping-bei-temu-und-shein-201655162.html",
-      "source": "FAZ Wirtschaft",
-      "category": "Politik & Handel",
-      "tipp": "Bei Bestellungen aus Nicht-EU-Ländern die zusätzlichen zwei Euro je Paket einrechnen."
-    },
-    {
-      "title": "EU-Umweltausschuss lockert das Verbrenner-Aus",
-      "summary": "Der Umweltausschuss des Europaparlaments will, dass neue Verbrenner auch nach 2035 zugelassen werden können. Auch die Elektro-Quote für Firmenflotten fällt.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/verbrennerverbot-eu-parlament-besiegelt-aus-201650057.html",
-      "source": "FAZ Wirtschaft",
-      "category": "Politik & Handel"
+      "title": "Rheinmetall: Mehr Geschäft, aber niedrigere Prognose",
+      "summary": "Der Rüstungskonzern steigert das Geschäft deutlich, senkt aber seine Prognose.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGVBS0ZNZ1BONGdrczlPcExyZENRcnZ4NnQ0T1ZvMUh1TnlhSHl3U3NQU3ZydmhoYWVaTFpiMG4tTlhUQnNtcHJub19IZEF2ODNrQ21SU3VVTDhROVR0SUh4U2IyekxMRlhfUTZSMkptWWt0T3JaaW9yWmdrcU5LRlg2bHRuaU4zN0UwYXQxOGVCT3k0WGI2QUhoOU9wVHZNRWotUFpHekFxZDBCTnFyVFRTcHMya0plUkY2dEFFZTJlMW1uYV91TDI5cmJiUQ?oc=5",
+      "source": "Allgemeine Zeitung",
+      "category": "Unternehmen"
     }
   ]
 }
