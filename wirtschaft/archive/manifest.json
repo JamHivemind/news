@@ -1,6 +1,27 @@
 {
   "briefs": [
     {
+      "date": "2026-11-07",
+      "file": "2026-11-07.html",
+      "headline": "KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
+      "count": 16,
+      "sources": 6,
+      "cats": {
+        "Börse & Märkte": 2,
+        "Konjunktur": 1,
+        "Arbeit & Soziales": 2,
+        "Politik & Handel": 2,
+        "Unternehmen": 6,
+        "Zinsen & Geldpolitik": 1,
+        "Energie": 2
+      },
+      "ents": {
+        "USA": 1,
+        "EZB": 1,
+        "Volkswagen": 1
+      }
+    },
+    {
       "date": "2026-11-06",
       "file": "2026-11-06.html",
       "headline": "Bund steigt beim Panzerbauer KNDS ein",
