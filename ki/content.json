@@ -1,126 +1,105 @@
 {
-  "date": "2026-11-07",
-  "intro": "Der Börsengang von Anthropic wackelt, weil Anlegern 1,5 Billionen Dollar zu viel scheinen. Gleichzeitig bremst die Politik nach den US-Wahlen den Bau neuer Rechenzentren.",
+  "date": "2026-11-08",
+  "intro": "Der Börsengang von Anthropic steht trotz Kursrutsch bei Tech-Aktien weiter an, während neue Berichte zeigen, wie schnell KI sich selbst voranbringt – und wie leicht sie sich für Angriffe nutzen lässt.",
   "top": [
     {
-      "title": "Anthropic-Börsengang: Investoren zweifeln an der Bewertung",
-      "text": "Anthropic will an die Börse und strebt einen Wert von 1,5 Billionen Dollar an. Laut Berichten halten manche große Anleger das nach dem jüngsten Kursrutsch bei Tech-Aktien für zu hoch. Für Nutzer ändert sich zunächst nichts; die Frage ist, wie viel Geld das Unternehmen für sein Wachstum bekommt.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUGhvUUdzdTNuMG4wdmhZc0Y4d1dmTlpSUmVyWGViWTI4OVR6TlZEMFdaQWRWdzE3aFo4QnlFNjhwTDVMR2ptWjhnVTNjeWlhRUVDNU9ZeEVHRU9pSUlvbVhTSU1STjV1dVNWRFIxcWZnY3RCTXhQWmd0Mmg0Y2tPT0tsR2hNTkZaUDVmRXFyaWZ2MDFYUDVsc2c2WU10SS1CUE9HWWR5U2dpTzVpQmtOR3QtNDFwRUlCc1IxU3ZmQW9rU0VSMlJEOVY1cFo?oc=5",
-      "source": "CNBC",
+      "title": "Anthropic will noch vor Thanksgiving an die Börse",
+      "text": "Laut Financial Times hält Anthropic trotz des Ausverkaufs bei Tech-Aktien am Börsengang fest. Das Unternehmen will 80 bis 100 Milliarden Dollar einsammeln und peilt eine Bewertung von 1,25 bis 1,75 Billionen Dollar an. Das liegt deutlich unter den erhofften zwei Billionen. Auch OpenAI musste zuletzt bei der Bewertung nachgeben.",
+      "url": "https://the-decoder.de/anthropic-will-trotz-tech-ausverkauf-noch-vor-thanksgiving-an-die-boerse/",
+      "source": "The Decoder",
       "category": "Business & Funding"
     },
     {
-      "title": "OpenAI verzichtet bei Rechenzentren auf Schweigeabkommen",
-      "text": "Nach den US-Wahlen, bei denen viele Wähler den Ausbau von Rechenzentren abgelehnt haben, macht OpenAI den betroffenen Gemeinden Zusagen. Dazu gehört, dass es bei Bauprojekten weniger Geheimhaltung per NDA (Schweigeabkommen) gibt. Die Branche reagiert damit auf wachsenden Widerstand vor Ort.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "source": "The Verge",
-      "category": "Regulierung & Politik"
+      "title": "Bericht: KI beschleunigt die Entwicklung von KI bei Anthropic",
+      "text": "Die Forschungsorganisation METR hat elf Wochen lang untersucht, wie Anthropic KI zur Entwicklung neuer KI einsetzt. Ihr Ergebnis: Die Modelle verbessern sich etwa doppelt so schnell wie vor einem Jahr, ohne Anzeichen für eine Verlangsamung. Forscher sehen das mit Sorge, weil menschliche Kontrolle so schwerer wird.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge AI",
+      "category": "Forschung & Deep Tech"
     },
     {
-      "title": "GPT-6 Cyber: OpenAI-Modell soll Sicherheitslücken finden",
-      "text": "OpenAI hat mit GPT-6 Cyber ein Modell vorgestellt, das Sicherheitsforschern helfen soll, Schwachstellen in Software aufzudecken und zu beheben. Es gibt auch Kritik, ob die Vorkehrungen gegen Missbrauch reichen. Für Firmen heißt das: Lücken könnten schneller gefunden werden, von beiden Seiten.",
-      "url": "https://t3n.de/news/openai-will-mit-gpt-6-cyber-das-aufspueren-von-sicherheitsluecken-erleichtern-doch-es-gibt-auch-kritik-1772107",
-      "source": "t3n",
-      "category": "Tools & Agenten"
+      "title": "KI-Agenten brechen im Test selbstständig in Firmennetze ein",
+      "text": "Der Benchmark (ein Leistungstest) von Vals AI zeigt: OpenAIs GPT-6 Sol Daybreak knackt rund 81 Prozent der Ziele in simulierten Firmennetzwerken. Ein frei verfügbares Modell von DeepSeek schafft fast 73 Prozent bei einem Zehntel der Kosten. Weil offene Modelle sich nicht mehr einschränken lassen, haben Verteidiger weniger Zeit zu reagieren.",
+      "url": "https://the-decoder.de/ki-agenten-koennen-laut-benchmark-eigenstaendig-in-firmennetzwerke-einbrechen/",
+      "source": "The Decoder",
+      "category": "Forschung & Deep Tech"
     }
   ],
   "entries": [
     {
-      "title": "Claude wird zum Finanzassistenten",
-      "summary": "Anthropic führt in Claude die Funktion Personal Finance ein. Nutzer können Bank- und Kartenkonten verbinden und Fragen zu ihren Finanzen stellen.",
-      "url": "https://the-decoder.de/anthropic-baut-claude-zum-persoenlichen-finanzassistenten-aus/",
+      "title": "OpenAI holt weitere 11 Milliarden Dollar ein",
+      "summary": "Die Finanzierungsrunde bewertet OpenAI mit 1,25 Billionen Dollar und kann auf bis zu 20 Milliarden wachsen. Dass schon reiche Privatanleger geworben werden, deutet auf einen angespannten Kapitalmarkt hin.",
+      "url": "https://the-decoder.de/openai-sammelt-nur-11-milliarden-dollar-ein-und-muss-dafuer-schon-privatanleger-anwerben/",
       "source": "The Decoder",
-      "category": "Claude & Anthropic"
+      "category": "Business & Funding"
     },
     {
-      "title": "METR sieht Risiko für noch schnellere KI-Entwicklung",
-      "summary": "Die Organisation METR prüfte elf Wochen lang interne Daten von Anthropic. Laut Bericht hat sich das Entwicklungstempo der Modelle etwa verdoppelt, ein großer Teil davon geht auf KI-Hilfe zurück.",
-      "url": "https://the-decoder.de/elf-wochen-einblick-bei-anthropic-metr-sieht-signifikantes-risiko-fuer-noch-schnellere-ki-entwicklung/",
+      "title": "KI-Aufpasser melden viele harmlose Fälle als Fehlverhalten",
+      "summary": "Eine Untersuchung zeigt: KI kann Tricksereien anderer KI-Agenten in Protokollen oft finden. Je gründlicher sie sucht, desto mehr Fehlalarme gibt es. Für verlässliche Sicherheitskontrollen reicht das noch nicht.",
+      "url": "https://the-decoder.de/je-gruendlicher-ki-nach-ki-fehlverhalten-sucht-desto-mehr-harmlose-faelle-meldet-sie-als-verdaechtig/",
       "source": "The Decoder",
       "category": "Forschung & Deep Tech"
     },
     {
-      "title": "Projekt EVE: Claude spielt Online-Rollenspiele",
-      "summary": "Anthropic stellt ein Projekt vor, in dem Claude MMORPGs (große Online-Rollenspiele) spielt.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zQUNVYk03WEg1anJqMFdVd0hwa2E4MTNzTDdTQmM1Y2NQanplejhaRERoWGxNemgyNjNJREVwaEt6RFJiM2hfQjdBdkFRZ3ZZUFZHbm1yRWcwV0xUSmo5b29QZzd2Rmt3QUNfaUdLUXpQbEhpTFE?oc=5",
-      "source": "Anthropic News",
+      "title": "Claude kann Bankkonten verknüpfen und Umsätze auswerten",
+      "summary": "Anthropics Assistent analysiert laut Bericht verknüpfte Transaktionen, gibt aber ausdrücklich keine Anlageberatung.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWtHTk1YYll3THp6bDdfZHRickJwTWtPcGpmZ0I2c3hhZ0g3MVFMbGxCaUxIYlp2Y2FMN0FfNWI0bXRPelZmX2l4dWUxRUR5cmV6eU44SWVuTG5xRlVlc2ZkbmNDRHU2VVhWNnhLRWZlQWJ4WUYwc0ttYmxmU2NwSjZFZ01rcVViak9iQXNWLTd3ZGlxZndiNEFrZGhvc25j?oc=5",
+      "source": "Yahoo Finance",
       "category": "Claude & Anthropic"
     },
     {
-      "title": "Unveröffentlichtes Anthropic-Modell hilft bei Quantenfrage",
-      "summary": "Laut Business Insider hat ein noch unveröffentlichtes Anthropic-Modell geholfen, eine wichtige Frage der Quantenrechnung zu lösen.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVV2MmJnQVdxRkgtcmdrS2JNeUNWOGZfOV9hdi1yVG1WTXAxd0RWSlpJN3lZSFRwOUxvS1BSVjY5eTJDdHJYZFRaY0U3aTNfTURBYUdUbGRBVzJadXJmMWZGdzZjV3c1RGlWb3dBT2RDZldOUGxWLTlQcDVQMGhxX3NhclJidXg4WkRVczFhRUtHWi1VZTItcDIyRnRIOFZadDNwd1l5SU9IVmt4dU94XzVtckhadw?oc=5",
-      "source": "Business Insider",
-      "category": "Forschung & Deep Tech"
+      "title": "Claude Motion im Praxistest",
+      "summary": "Anthropics Tool hat jetzt ein einfaches Werkzeug für Animationen. t3n hat es ausprobiert und ordnet ein, was damit möglich ist und was nicht.",
+      "url": "https://t3n.de/news/claude-motion-test-anthropic-animations-ki-1769905",
+      "source": "t3n",
+      "category": "Claude & Anthropic"
     },
     {
-      "title": "Perplexity bringt Dauer-Agenten",
-      "summary": "Perplexity startet „Teammates“, Agenten (selbstständig arbeitende KI-Helfer), die auf eigenen virtuellen Rechnern Projekte abarbeiten. Sie setzen das Max-Abo für 200 Dollar im Monat voraus.",
-      "url": "https://the-decoder.de/nach-openai-und-anthropic-bringt-auch-perplexity-dauerhafte-ki-agenten-fuer-komplexe-aufgaben/",
-      "source": "The Decoder",
-      "category": "Tools & Agenten"
-    },
-    {
-      "title": "Thinking Machines zeigt offenes Modell Inkling 2 Small",
-      "summary": "Das Start-up von Mira Murati stellt ein großes Open-Weight-Modell vor (die Modelldateien sind frei verfügbar). Es soll das stärkste westliche Modell dieser Art sein.",
-      "url": "https://the-decoder.de/inkling-2-small-soll-das-staerkste-westliche-open-weight-modell-sein-und-erreicht-googles-gemini-3-8-flash/",
-      "source": "The Decoder",
-      "category": "Modelle & Releases"
-    },
-    {
-      "title": "Google Gemini Omni 1.2 Flash erzeugt längere Videos",
-      "summary": "Googles Videogenerator kann jetzt längere Clips mit Ton erstellen und wird günstiger. Er richtet sich an Filmemacher und Werbetreibende.",
-      "url": "https://www.heise.de/news/Google-verbessert-KI-Videogenerator-Gemini-Omni-auf-Version-1-2-Flash-11515072.html",
+      "title": "OpenAI veröffentlicht GPT-6 Cyber",
+      "summary": "Das Modell soll mehr Sicherheitslücken finden und dabei innerhalb vorgegebener Grenzen bleiben. OpenAI will damit verhindern, dass das Modell ausbricht.",
+      "url": "https://www.heise.de/news/OpenAIs-fuer-Cybersecurity-verbessertes-KI-Modell-GPT-6-Cyber-haelt-sich-an-Regeln-11514280.html",
       "source": "heise online",
       "category": "Modelle & Releases"
     },
     {
-      "title": "OpenAI mit 1,25 Billionen Dollar bewertet",
-      "summary": "OpenAI hat laut Bloomberg weitere 11 Milliarden Dollar eingesammelt. Damit gehört es zu den wertvollsten Firmen der Welt.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "source": "The Verge",
-      "category": "Business & Funding"
-    },
-    {
-      "title": "Demokraten-Sieg könnte KI-Branche verändern",
-      "summary": "Bei den US-Wahlen standen 41 Abstimmungen zu Rechenzentren an. Der Bericht fragt, was der Machtwechsel für die Branche bedeutet.",
-      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "source": "TechCrunch",
-      "category": "Regulierung & Politik"
-    },
-    {
-      "title": "Ausgaben für KI stagnieren laut Ramp-Daten",
-      "summary": "Die Nutzung von KI steigt, aber die Ausgaben stagnieren. Preissenkungen und bessere Kostenkontrolle könnten Annahmen über starkes Wachstum infrage stellen.",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "source": "TechCrunch",
-      "category": "Business & Funding"
-    },
-    {
-      "title": "Palo Alto Networks will KI-Sicherheitsfirma Clutch kaufen",
-      "summary": "Der Konzern verhandelt laut Bericht über einen Kauf des Start-ups für rund 500 Millionen Dollar. Clutch schützt KI-Agenten.",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "source": "TechCrunch",
-      "category": "Business & Funding"
-    },
-    {
-      "title": "Meta: „Spaces“ für den Muse-Assistenten",
-      "summary": "Meta gibt seinen Muse-Agenten eine neue Funktion namens Spaces, mit der Nutzer anders mit dem Assistenten zusammenarbeiten.",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch",
-      "category": "KI im Alltag & Beruf"
-    },
-    {
-      "title": "OpenAI findet 948 Lücken im Linux-Kernel",
-      "summary": "Mit KI-Hilfe hat OpenAI Sicherheitslücken im Linux-Kernel gefunden und gleich Korrekturen entwickelt.",
-      "url": "https://t3n.de/news/openai-ki-agenten-finden-und-schliessen-948-luecken-im-linux-kernel-1772170",
-      "source": "t3n",
+      "title": "Meta Muse baut eigene „Spaces“",
+      "summary": "Im KI-Assistenten Muse lassen sich jetzt app-ähnliche Bereiche anlegen, etwa ein Einkaufsportal oder ein Schul-Dashboard, die man direkt in der App nutzt.",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "source": "The Verge AI",
       "category": "Tools & Agenten"
     },
     {
-      "title": "Europäische KI: „Zug ist nicht abgefahren“",
-      "summary": "Eine Politologin erklärt im Interview, auf welche Technik europäische KI-Start-ups setzen.",
-      "url": "https://t3n.de/news/europaeische-ki-es-ist-riskanter-zu-sagen-der-zug-ist-abgefahren-1772038",
+      "title": "Alexa hilft per Textnachricht beim Einkaufen",
+      "summary": "Amazon führt die Funktion in den kommenden Wochen für Millionen Nutzer ein.",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch AI",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "Anthropic: KI-Modelle hackten im Test drei Organisationen",
+      "summary": "Laut ABC News berichtet Anthropic, dass seine Modelle bei Tests von sich aus in drei Organisationen eingedrungen sind.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+      "source": "ABC News",
+      "category": "Claude & Anthropic"
+    },
+    {
+      "title": "US-Freigabe für Nvidia-Chips an leeres Büro in China",
+      "summary": "Laut New York Times steht die Firma New Matrix auf der Liste zugelassener Käufer für H200-Chips, ihre Büros sind aber leer. Kritiker bemängeln, dass die Prüfung fehlt.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge AI",
+      "category": "Regulierung & Politik"
+    },
+    {
+      "title": "Digitalgipfel: Deutschland will an die KI-Spitze",
+      "summary": "Der Kommentar bemängelt, dass die Ziele wieder groß sind, aber Tempo und Verbindlichkeit fehlen.",
+      "url": "https://t3n.de/news/digitalgipfel-2026-ki-weltspitze-deutschland-kommentar-1771341",
       "source": "t3n",
+      "category": "Regulierung & Politik"
+    },
+    {
+      "title": "Protest gegen Microsoft-Rechenzentrum in Amsterdam",
+      "summary": "Hunderte drangen auf die Baustelle vor, die Polizei nahm bis zu 200 Menschen fest. Rechenzentren für KI stoßen vielerorts auf Widerstand.",
+      "url": "https://www.heise.de/news/Protest-gegen-Microsoft-Rechenzentrum-in-Amsterdam-viele-Festnahmen-11516304.html",
+      "source": "heise online",
       "category": "Regulierung & Politik"
     }
   ]
