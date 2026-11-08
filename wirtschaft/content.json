@@ -1,120 +1,92 @@
 {
-  "date": "2026-11-07",
-  "intro": "Ein weltweiter Ausverkauf bei KI- und Chipaktien hat auch den DAX unter Druck gesetzt. Dagegen produzierte die deutsche Industrie im September überraschend mehr.",
+  "date": "2026-11-08",
+  "intro": "Der weltweite Kursrutsch bei Chip- und Tech-Aktien belastet die Börsen, während die deutsche Industrie im September überraschend mehr produziert hat.",
   "top": [
     {
-      "title": "KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
-      "text": "Sorgen um KI- und Halbleiteraktien haben weltweit Verkäufe ausgelöst. Auch der deutsche Aktienmarkt, der kurz zuvor ein Rekordhoch erreicht hatte, geriet unter Druck. Die US-Börsen erholten sich inzwischen wieder. Wer Fonds oder ETFs (börsengehandelte Indexfonds) besitzt, sieht kurzfristig Schwankungen.",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
-      "source": "tagesschau",
-      "category": "Börse & Märkte"
+      "title": "Chipaktien weltweit im freien Fall",
+      "text": "Ein globaler Abverkauf bei Chip- und Techaktien hat wichtige Börsenindizes nach unten gezogen. In Seoul wurde der Handel zeitweise ausgesetzt, in den USA war es laut tagesschau der schlimmste Einbruch seit 2020. Auslöser sind Zweifel, ob sich die hohen Investitionen in Künstliche Intelligenz auszahlen. Wer breit gestreute Fonds besitzt, spürt das, weil Tech-Firmen dort stark gewichtet sind.",
+      "source": "tagesschau Wirtschaft",
+      "category": "Börse & Märkte",
+      "url": "https://www.tagesschau.de/wirtschaft/boerse/tech-einbruch-ki-100.html"
     },
     {
-      "title": "Industrie produziert im September überraschend mehr",
-      "text": "Deutsche Industriebetriebe haben im September mehr hergestellt als im Vormonat. Vor allem die Autobranche sorgte für das Plus. Die Risiken für eine Erholung bleiben laut Bericht bestehen, es ist also noch keine Trendwende.",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html",
-      "source": "tagesschau",
-      "category": "Konjunktur"
+      "title": "Industrie in Deutschland produziert im September überraschend mehr",
+      "text": "Die Industrieproduktion ist im September überraschend stark gewachsen. Experten warnen allerdings vor überzogenen Erwartungen: Ein einzelner Monat macht noch keine Trendwende. Für Beschäftigte in der Industrie ist es ein vorsichtig gutes Signal.",
+      "source": "Spiegel Wirtschaft",
+      "category": "Konjunktur",
+      "url": "https://www.spiegel.de/wirtschaft/konjunktur-industrieproduktion-in-deutschland-waechst-im-september-ueberraschend-a-8d411263-f61e-4531-84b8-20b764fe2ec3#ref=rss"
     },
     {
-      "title": "Tarifstreit: Über 400.000 bei IG-Metall-Warnstreiks",
-      "text": "Die IG Metall fordert fünf Prozent mehr Lohn. Nach eigener Zählung beteiligten sich mehr als 400.000 Beschäftigte an Warnstreiks. Vor den Verhandlungen am Montag droht die Gewerkschaft mit schärferen Aktionen, falls die Arbeitgeber nicht nachbessern.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/tarifstreit-ig-metall-zaehlt-mehr-als-400.000-teilnehmer-an-warnstreiks/100267972.html",
-      "source": "Handelsblatt",
-      "category": "Arbeit & Soziales"
+      "title": "Millionen junge Erwachsene ohne Berufsabschluss",
+      "text": "Die Zahl junger Menschen ohne Berufsausbildung in Deutschland ist laut tagesschau alarmierend hoch. Sie haben schlechtere Chancen am Jobmarkt und verdienen weniger. Gleichzeitig suchen viele Firmen Fachkräfte.",
+      "source": "tagesschau Wirtschaft",
+      "category": "Arbeit & Soziales",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/junge-menschen-keine-berufsausbildung-100.html"
     }
   ],
   "entries": [
     {
-      "title": "Midterms: Was der Machtwechsel in den USA für Deutschland heißt",
-      "summary": "Der Wechsel im US-Kongress könnte Firmen mehr Planbarkeit bringen. Ökonomen fürchten aber, dass der Zollstreit weitergeht.",
-      "url": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html",
-      "source": "tagesschau",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "Daimler Truck: Gewinnsprung dank US-Geschäft",
-      "summary": "Der Lkw-Hersteller verbucht einen Milliardengewinn, weil das US-Geschäft wieder anzieht.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
-      "source": "tagesschau",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "E-Autos: Mehr Vorteile im Stadtverkehr möglich",
-      "summary": "Der Bundestag hat das Elektromobilitätsgesetz reformiert: günstigeres Parken und keine Pflicht zum E-Kennzeichen. Bisher nutzen aber nur wenige Kommunen den Spielraum.",
-      "url": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
-      "source": "tagesschau",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "EZB-Spitze: Deutschland geht bei Lagarde-Nachfolge leer aus",
-      "summary": "Ein Spanier oder ein Niederländer wird wohl neuer EZB-Präsident. Deutschland streitet mit Frankreich um weitere Topjobs bei der Bank.",
-      "url": "https://www.spiegel.de/wirtschaft/ezb-welche-chancen-deutschland-bei-der-nachfolge-von-christine-lagarde-hat-a-ddb505b8-589a-42ba-b36a-41a19ce63a68#ref=rss",
+      "title": "Beben an der Wall Street: Ist das der KI-Crash?",
+      "summary": "Nach dem Sieg der Demokraten bei den US-Zwischenwahlen brechen KI- und Chipwerte ein und ziehen die Weltbörsen ins Minus. Der Spiegel erklärt, was das für einen MSCI-World-ETF bedeutet.",
       "source": "Spiegel Wirtschaft",
-      "category": "Zinsen & Geldpolitik"
+      "category": "Börse & Märkte",
+      "url": "https://www.spiegel.de/wirtschaft/service/boerse-beben-an-der-wall-street-ist-das-jetzt-der-ki-crash-a-0317ec61-e5b3-4fcc-8613-ec7f576866ae#ref=rss"
     },
     {
-      "title": "VW schwächt Lohnstopp-Pläne ab",
-      "summary": "Volkswagen wollte weltweit Nullrunden aushandeln und rückt laut Spiegel davon ab. In Deutschland droht trotzdem eine harte Tarifrunde.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-macht-rueckzieher-bei-lohnstopp-plaenen-bis-2030-a-cc8efb62-b1b2-44a3-a60b-46c412c24cfd#ref=rss",
+      "title": "Tesla will Cybertruck-Produktion in Texas beenden",
+      "summary": "Der Elektro-Pickup blieb hinter den Erwartungen zurück. Elon Musk will im Werk Platz für ein anderes Produkt schaffen.",
+      "source": "tagesschau Wirtschaft",
+      "category": "Unternehmen",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html"
+    },
+    {
+      "title": "Rechenzentren verschweigen oft ihren Strom- und Wasserverbrauch",
+      "summary": "Betreiber müssen ihren Verbrauch gesetzlich veröffentlichen. Anfragen des SWR an über 30 Firmen zeigen, dass viele es damit nicht genau nehmen.",
+      "source": "tagesschau Wirtschaft",
+      "category": "Energie",
+      "url": "https://www.tagesschau.de/investigativ/swr/rechenzentren-transparenz-wasserverbrauch-stromverbrauch-100.html"
+    },
+    {
+      "title": "SPD plant Eisenbahn-Fonds nach österreichischem Vorbild",
+      "summary": "Ein Sondervermögen soll die langfristige Finanzierung des deutschen Bahnnetzes sichern. Die SPD-Fraktion legt dazu Pläne vor.",
       "source": "Spiegel Wirtschaft",
-      "category": "Arbeit & Soziales"
+      "category": "Politik & Handel",
+      "url": "https://www.spiegel.de/wirtschaft/service/deutsche-bahn-spd-plant-eisenbahn-fonds-wie-in-oesterreich-a-31e85ae9-3305-4023-a9dc-84671fd009b2#ref=rss"
     },
     {
-      "title": "Mäc Geiz plant Schrumpfkur",
-      "summary": "Der insolvente Discounter will mit einem Sanierungsprogramm überleben. Etliche Filialen müssen schließen, laut FAZ rund 60.",
-      "url": "https://www.spiegel.de/wirtschaft/maec-geiz-insolventer-discounter-plant-harte-schrumpfkur-60-filialen-vor-der-schliessung-a-55e5a7aa-c9c7-434c-a08d-53b178b06540#ref=rss",
+      "title": "Online-Betrug trifft jeden Neunten",
+      "summary": "Der Spiegel schildert, wie eine Werbeanzeige auf Facebook zum Betrugsfall wurde, und ordnet ein, wie verbreitet Internetbetrug inzwischen ist.",
       "source": "Spiegel Wirtschaft",
-      "category": "Unternehmen"
+      "category": "Arbeit & Soziales",
+      "url": "https://www.spiegel.de/wirtschaft/service/online-betrug-jeder-neunte-betroffen-ein-fall-zeigt-die-neue-dimension-a-43ec84c1-0400-4864-9027-4d18cfb7f594#ref=rss"
     },
     {
-      "title": "Klingbeil will schärferen Spritpreisdeckel",
-      "summary": "Wie stark der Staat bei Tankstellenpreisen eingreifen soll, spaltet die Koalition. Das Finanzministerium dringt auf eine „spürbare“ Grenze.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/spritpreisdeckel-klingbeil-ist-unzufrieden-mit-reiches-entwurf-201655524.html",
+      "title": "Mercedes gibt eigenes Schnellladenetz weitgehend auf",
+      "summary": "Der Autobauer verkauft sein selbst aufgebautes Netz an Electra, statt weiter allein zu investieren.",
       "source": "FAZ Wirtschaft",
-      "category": "Energie"
+      "category": "Unternehmen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-verkauft-ladeparks-in-europa-an-electra-accg-201658444.html"
     },
     {
-      "title": "Trumpf schafft über 200 Stellen für Chipgeschäft",
-      "summary": "Der FAZ-Ticker meldet neue Stellen bei Trumpf. Außerdem schließt Mäc Geiz rund 60 Filialen und Condor sichert Tariffrieden.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trumpf-schafft-ueber-200-stellen-fuer-chipgeschaeft-faz-200452404.html",
+      "title": "Chemiechefs fordern Nachbesserungen beim Emissionshandel",
+      "summary": "Die Chefs von BASF und Covestro schreiben dem Kanzler, die Abwanderung der Industrie müsse gestoppt werden. Sie wollen Änderungen beim Handel mit CO2-Zertifikaten.",
       "source": "FAZ Wirtschaft",
-      "category": "Unternehmen"
+      "category": "Energie",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/emissionshandel-chemieindustrie-ruft-nach-dem-kanzler-accg-201659408.html"
     },
     {
-      "title": "Modulbauer Gropyus beantragt Insolvenz für Töchter",
-      "summary": "Das Unternehmen wollte mit modularem Bauen günstige Wohnungen schaffen. Zu den Investoren zählt Vonovia.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/gropyus-beantragt-insolvenz-fuer-deutsche-tochtergesellschaften-201651630.html",
+      "title": "Crédit Agricole kauft die deutsche IKB",
+      "summary": "Die französische Großbank übernimmt die IKB. Die FAZ ordnet ein, warum Anleger französische Bankaktien derzeit meiden.",
       "source": "FAZ Wirtschaft",
-      "category": "Unternehmen"
+      "category": "Unternehmen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/franzoesische-bankaktien-unter-druck-warum-anleger-credit-agricole-meiden-accg-201647826.html"
     },
     {
-      "title": "Stromreserve: Chaos bei Ausschreibung für Backup-Kraftwerke",
-      "summary": "Das Wirtschaftsministerium nennt die erste Ausschreibung einen Erfolg, hinter den Kulissen gibt es laut Handelsblatt Chaos. Es wird ein Neustart gefordert.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/energie-fehler-im-system-wie-teuer-wird-deutschlands-stromreserve/100267669.html",
+      "title": "Berkshire Hathaway: Gewinn sinkt, Aktie steigt",
+      "summary": "Der Konzern kaufte im dritten Quartal eigene Aktien für 9,6 Milliarden Dollar. Nachfolger Greg Abel profitiert auch von der KI-Angst an der Wall Street.",
       "source": "Handelsblatt",
-      "category": "Energie"
-    },
-    {
-      "title": "Microsoft beendet KI-Vertrag mit Oracle",
-      "summary": "Laut Bloomberg genügten ältere Nvidia-Chips den Ansprüchen nicht mehr. Microsoft prüft auch andere Cloud-Partnerschaften.",
-      "url": "https://www.handelsblatt.com/technik/ki/cloud-microsoft-beendet-laut-einem-bericht-den-ki-vertrag-mit-oracle/100268017.html",
-      "source": "Handelsblatt",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "US-Investoren mögen deutsche Firmen so sehr wie lange nicht",
-      "summary": "Unternehmen aus Deutschland sind bei US-Investoren so beliebt wie seit fast 20 Jahren nicht mehr.",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORGg2ejFSNE9NSkd3UmlsMmFzdFJfcWtkWTlxUC1TZXI2RW5xemJwRGpRdmphM3J6bjVrVGpIdDNUNUpOLVpYSkdYdnYwWkpuUFNMRWw5aExQTUJwemlYd2VmNHJ5dEZFLVU5NmRobjJYZ3ZjNUNaTF94eFJ3WGVrc2YtQnRRQ0lRS0t4Z1hrZFhabmg4ZzRZcUk4UEVrbXJyU3pUeTlXTzV2aDluakItanUzTUo4SGhfY1lkYUxZQzVuU1R3M0JhSl9Zb3kwaUtpSFBabUVmX3Bick5hVHRxVzRDeXd4WXBwVGZLTk16MnNWUFJHSExTb2l6d2MzRTFjWGMzTmZ3MEhPdmFMbUVmNDk2ZG1ZVmNheGc?oc=5",
-      "source": "Spiegel",
-      "category": "Börse & Märkte"
-    },
-    {
-      "title": "Rheinmetall: Mehr Geschäft, aber niedrigere Prognose",
-      "summary": "Der Rüstungskonzern steigert das Geschäft deutlich, senkt aber seine Prognose.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGVBS0ZNZ1BONGdrczlPcExyZENRcnZ4NnQ0T1ZvMUh1TnlhSHl3U3NQU3ZydmhoYWVaTFpiMG4tTlhUQnNtcHJub19IZEF2ODNrQ21SU3VVTDhROVR0SUh4U2IyekxMRlhfUTZSMkptWWt0T3JaaW9yWmdrcU5LRlg2bHRuaU4zN0UwYXQxOGVCT3k0WGI2QUhoOU9wVHZNRWotUFpHekFxZDBCTnFyVFRTcHMya0plUkY2dEFFZTJlMW1uYV91TDI5cmJiUQ?oc=5",
-      "source": "Allgemeine Zeitung",
-      "category": "Unternehmen"
+      "category": "Unternehmen",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/quartalszahlen-berkshire-meldet-gewinnrueckgang-doch-die-aktie-profitiert/100268115.html"
     }
   ]
 }
