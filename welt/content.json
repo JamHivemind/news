@@ -1,275 +1,289 @@
 {
-  "date": "2026-11-07",
-  "intro": "In Paraguay stürzt der Präsident über einen Bankenskandal, in den USA holt Trump nach der Wahlniederlage einen Hardliner als Stabschef. In Europa beunruhigen zahlreiche Bombendrohungen den Flugverkehr.",
+  "date": "2026-11-08",
+  "intro": "Im Persischen Golf brennen zwei Öltanker nach Minentreffern, in Krakau hat ein Schütze sechs Menschen getötet, und in Israel beginnt die Suche nach einer neuen Regierung ohne Netanjahu an der Spitze.",
   "regionen": {
-    "Europa": "Hunderttausende demonstrieren in Frankreich, Bombendrohungen gegen Flüge und Medien setzen mehrere Länder unter Druck, und der Kreml dämpft die Erwartungen an ein Ukraine-Abkommen.",
-    "Nahost": "In Israel gilt Gadi Eisenkot als Favorit für den Regierungsauftrag, im Jemen werden bei einem Angriff auf einen Markt viele Menschen getötet.",
-    "Amerika": "Paraguay setzt seinen Präsidenten ab, in den USA ersetzt Trump seine Stabschefin Wiles durch Stephen Miller.",
-    "Afrika": "In Tansania wird Oppositionsführer Tundu Lissu zu vier Jahren Haft verurteilt."
+    "Europa": "Krakau steht nach den tödlichen Schüssen unter Schock, Frankreich erlebt das vierte Protestwochenende in Folge, und Russland greift in der Ukraine wieder Strom und Wasser an.",
+    "Nahost": "In der Straße von Hormus brennen zwei Tanker, in Israel soll Eisenkot eine Regierung bilden, und im Jemen gibt es neue Luftangriffe.",
+    "Asien": "Ein Erdbeben in Zentraljapan verletzt mindestens 22 Menschen, Delhi hat vor Diwali die schlechteste Luft aller großen Städte.",
+    "Amerika": "Nach der Wahlniederlage der Republikaner macht Trump den Hardliner Stephen Miller zum Stabschef; in Paraguay steht der abgesetzte Präsident unter Anklage.",
+    "Afrika": "In Südafrika erleidet der ANC bei den Kommunalwahlen eine historische Niederlage."
   },
   "top": [
     {
-      "title": "Paraguay: Präsident Peña abgesetzt und unter Hausarrest",
-      "text": "Nach einer Bankenkrise hat das Parlament Paraguays Präsident Santiago Peña des Amtes enthoben. Kurz darauf stand er unter Hausarrest, ein Nachfolger ist bereits vereidigt. Hintergrund ist der Zusammenbruch der Digitalbank Ueno, bei dem Kunden zeitweise nicht an ihr Geld kamen. Laut Berichten wurde auch ein Haftbefehl angeordnet.",
-      "url": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
-      "source": "tagesschau",
-      "category": "Weltpolitik",
-      "art": "politik",
+      "title": "Zwei Öltanker in der Straße von Hormus brennen",
+      "text": "Nach Angaben Irans sind zwei Öltanker in der Straße von Hormus auf Minen gelaufen und brennen. Laut WELT hatten sie eine „nicht genehmigte Route“ genommen, ein Massengutfrachter geriet in Not. Es gab Zusammenstöße zwischen Schiffen und dem iranischen Militär. Die Meerenge ist einer der wichtigsten Seewege für Öl. Die NZZ berichtet, dass sich die USA und Iran seit Februar 2026 im Kriegszustand befinden.",
+      "source": "WELT",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
       "ort": {
-        "name": "Paraguay",
-        "lat": -25.26,
-        "lon": -57.58
+        "name": "Straße von Hormus",
+        "lat": 26.57,
+        "lon": 56.25
       },
+      "hamburg": "Störungen auf diesem Seeweg können Öl- und Spritpreise sowie die Schifffahrt weltweit beeinflussen, auch für den Hamburger Hafen.",
       "stimmen": [
         {
-          "source": "Süddeutsche Zeitung",
-          "richtung": "links",
-          "url": "https://www.sueddeutsche.de/politik/amerika-trump-banken-krise-kollaps-li.3575682"
-        },
-        {
-          "source": "BBC",
-          "richtung": "mitte",
-          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "WELT",
+          "source": "FAZ",
           "richtung": "rechts",
-          "url": "https://www.welt.de/politik/ausland/article6aeea4c8a389bc337cfc8a65/staatskrise-paraguays-ex-praesident-pena-nach-bankenpleite-unter-hausarrest.html"
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-laut-iran-brennen-zwei-oeltanker-in-der-strasse-von-hormus-faz-200583539.html"
+        },
+        {
+          "source": "NZZ",
+          "richtung": "rechts",
+          "url": "https://www.nzz.ch/international/iran-krieg-jd-vance-soll-mit-iran-chance-auf-verhandlungen-ausloten-kaempfe-in-jemen-vertreiben-immer-mehr-menschen-ld.10021246"
         }
-      ]
+      ],
+      "url": "https://www.welt.de/politik/ausland/article6aefa95780d3a1c6aa66ca52/iran-meldet-zwei-oeltanker-laufen-auf-minen-und-brennen-explosionen-in-der-strasse-von-hormus.html"
     },
     {
-      "title": "Trump holt Hardliner Miller als Stabschef",
-      "text": "Nach der Wahlniederlage bei den US-Zwischenwahlen verlässt Stabschefin Susie Wiles das Weiße Haus. Ihr bisheriger Stellvertreter Stephen Miller, ein loyaler Hardliner, übernimmt. Das deutet auf Streit mit dem Kongress hin, in dem die Demokraten die Mehrheit haben. Die tagesschau nennt die Wahl einen „Warnschuss“ in Richtung des Kongresses.",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "category": "Weltpolitik",
-      "art": "politik",
+      "title": "Krakau: Schütze tötet sechs Menschen",
+      "text": "Ein 24-jähriger Pole hat in Krakau aus einem Auto auf Passanten geschossen und sechs Menschen getötet, rund 15 wurden verletzt. Im Haus des Täters fanden Ermittler drei weitere Leichen. Laut dem polnischen Innenminister stand der Mann unter rechtsextremem Einfluss. Die Polizei hat ihn gefasst.",
+      "source": "tagesschau",
+      "category": "Europa",
+      "art": "konflikt",
       "ort": {
-        "name": "USA",
-        "lat": 38.9,
-        "lon": -77.04
+        "name": "Krakau",
+        "lat": 50.06,
+        "lon": 19.94
       },
-      "hamburg": "Ökonomen fürchten laut tagesschau, dass der Zollstreit mit den USA weitergeht. Das würde auch deutsche Exportfirmen treffen.",
+      "hamburg": "Unter den Verletzten ist laut Spiegel auch eine Person aus Deutschland.",
       "stimmen": [
         {
           "source": "Spiegel",
           "richtung": "links",
-          "url": "https://www.spiegel.de/ausland/personalie-stephen-miller-donald-trump-setzt-auf-angst-a-e8532d64-f89b-4945-a825-d20f03e0d8fe#ref=rss"
+          "url": "https://www.spiegel.de/ausland/krakau-polen-was-ueber-die-todesschuesse-bekannt-ist-a-6e500316-9e7e-4af2-988a-b86fa65a7801#ref=rss"
         },
-        {
-          "source": "tagesschau",
-          "richtung": "mitte",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html"
-        },
-        {
-          "source": "NZZ",
-          "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/kurz-nach-den-midterms-ernennt-trump-einen-neuen-stabschef-die-personalie-ist-ein-signal-an-freund-und-feind-ld.10056838"
-        }
-      ]
-    },
-    {
-      "title": "Bombendrohungen in Europa: Hinweise auf koordinierten Angriff",
-      "text": "In ganz Europa gab es erneut zahlreiche Bombendrohungen gegen Flugzeuge und Medienhäuser. Spanien spricht von einem hybriden Angriff, der „kein Zufall“ sei, Irland von einer „koordinierten Kampagne“. Wer dahintersteckt, ist unklar. Flüge mussten umgeleitet werden. Eine russische Extremistengruppe bestreitet laut BBC, die Drohungen verschickt zu haben.",
-      "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
-      "source": "tagesschau",
-      "category": "Europa",
-      "art": "konflikt",
-      "ort": {
-        "name": "Irland",
-        "lat": 53.35,
-        "lon": -6.26
-      },
-      "stimmen": [
         {
           "source": "BBC",
           "richtung": "mitte",
-          "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "NZZ",
+          "source": "NIUS",
           "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/berichte-ueber-mehrere-bombendrohungen-gegen-passagierfluege-in-europa-ld.10055153"
+          "url": "https://nius.de/ausland/polen-schuesse-krakau-tote-verletzte"
         }
-      ]
+      ],
+      "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html"
+    },
+    {
+      "title": "Eisenkot soll in Israel die Regierung bilden",
+      "text": "Nach der knappen Wahl hat Präsident Herzog den Oppositionspolitiker Gadi Eisenkot mit der Regierungsbildung beauftragt. Er hat 28 Tage Zeit, eine Koalition zu schmieden. Weder das Lager von Regierungschef Netanjahu noch das seines Rivalen hat eine Mehrheit. Laut WELT könnten ausgerechnet bisherige Verbündete Netanjahus den Ausschlag geben.",
+      "source": "tagesschau",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Jerusalem",
+        "lat": 31.77,
+        "lon": 35.21
+      },
+      "stimmen": [
+        {
+          "source": "Spiegel",
+          "richtung": "links",
+          "url": "https://www.spiegel.de/ausland/israel-netanjahu-rivale-gadi-einsenkot-mit-regierungsbildung-beauftragt-a-309f7855-3a51-4503-a6e8-2ead13f9dfe8#ref=rss"
+        },
+        {
+          "source": "BBC",
+          "richtung": "mitte",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "WELT",
+          "richtung": "rechts",
+          "url": "https://www.welt.de/politik/ausland/article6aef8f989ba8c65625d69f5c/netanjahu-unter-druck-israels-praesident-herzog-beauftragt-oppositionspolitiker-eisenkot-mit-regierungsbildung.html"
+        }
+      ],
+      "url": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html"
     }
   ],
   "entries": [
     {
-      "title": "Frankreich: Rund 600.000 Menschen gehen auf die Straße",
-      "summary": "Die Proteste werden größer, auch viele Lehrkräfte streiken. Premier Lecornu kündigt für Montag eine „Sozialkonferenz“ an.",
-      "url": "https://www.spiegel.de/ausland/frankreich-rund-600-000-menschen-gehen-auf-die-strasse-a-2619f68b-6061-40c5-969d-3ec16f0bd6a1#ref=rss",
-      "source": "Spiegel",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Frankreich",
-        "lat": 48.86,
-        "lon": 2.35
-      }
-    },
-    {
-      "title": "Kreml dämpft Erwartungen an Ukraine-Abkommen",
-      "summary": "Trump hatte nach einem Treffen mit dem russischen Unterhändler eine Einigung in Aussicht gestellt. Moskau sagt, es fehle die Bereitschaft der Europäer.",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-trump-dmitrijew-abkommen-li.3571967",
-      "source": "Süddeutsche Zeitung",
+      "title": "Russland greift Kiews Strom und Wasser an",
+      "summary": "Kurz vor dem Winter fielen in Teilen der Ukraine Strom und Wasser aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung. Nächste Woche sind Gespräche in Abu Dhabi geplant.",
+      "source": "tagesschau",
       "category": "Krieg & Konflikte",
       "art": "konflikt",
       "ort": {
-        "name": "Russland",
-        "lat": 55.75,
-        "lon": 37.62
-      },
-      "hamburg": "Die Europäer dürfen bei den Verhandlungen laut Spiegel nicht mitreden, die Folgen für Sicherheit in Deutschland bleiben also offen."
-    },
-    {
-      "title": "Kyjiw: Streit über die Stromausfälle",
-      "summary": "Seit Wochen greift Russland das Energienetz an. Präsident Selenskyj macht Bürgermeister Klitschko für die Stromausfälle in Kyjiw verantwortlich.",
-      "url": "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-macht-vitali-klitschko-fuer-stromausfaelle-in-kyjiw-verantwortlich-a-2e10ce20-7817-46f2-89f1-34bb45cb346f#ref=rss",
-      "source": "Spiegel",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Ukraine",
+        "name": "Kiew",
         "lat": 50.45,
         "lon": 30.52
-      }
+      },
+      "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html"
     },
     {
-      "title": "Jemen: Viele Tote bei Angriff auf Markt in Taiz",
-      "summary": "Bei Luftangriffen auf einen Markt in der Provinz Taiz sind laut Deutschlandfunk zahlreiche Menschen getötet worden.",
-      "url": "https://www.deutschlandfunk.de/viele-tote-nach-angriffen-auf-markt-im-jemen-102.html",
+      "title": "Selenskyj warnt vor „zweitem Jalta“",
+      "summary": "Der ukrainische Präsident fürchtet, dass Russland, China und die USA eine Friedensregelung auf Kosten Europas und der Ukraine vereinbaren.",
+      "source": "Süddeutsche Zeitung",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Kiew",
+        "lat": 50.45,
+        "lon": 30.52
+      },
+      "hamburg": "Europa soll bei Verhandlungen laut Berichten nur am Rande beteiligt werden, was auch deutsche Sicherheitsinteressen berührt.",
+      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-klitschko-li.3571967"
+    },
+    {
+      "title": "US-Militär setzt Handelsschiff im Golf von Oman außer Gefecht",
+      "summary": "Das US-Militär hat auf ein Handelsschiff geschossen und es manövrierunfähig gemacht. Näheres nennt der Bericht nicht.",
+      "source": "Deutschlandfunk",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
+      "ort": {
+        "name": "Golf von Oman",
+        "lat": 24.5,
+        "lon": 58.5
+      },
+      "url": "https://www.deutschlandfunk.de/us-militaer-beschiesst-handelsschiff-104.html"
+    },
+    {
+      "title": "Huthis melden Tote nach Luftangriffen im Jemen",
+      "summary": "Die Huthi-Miliz spricht von 27 Toten und 36 Verletzten in einem Dorf und macht die von Saudi-Arabien geführte Koalition verantwortlich. Die BBC nennt 33 Tote nach Huthi-Angaben. Saudi-Arabien äußert sich nicht.",
       "source": "Deutschlandfunk",
       "category": "Krieg & Konflikte",
       "art": "konflikt",
       "ort": {
         "name": "Jemen",
-        "lat": 13.58,
-        "lon": 44.02
-      }
-    },
-    {
-      "title": "Israel: Eisenkot Favorit für Regierungsbildung",
-      "summary": "Der FAZ-Liveblog meldet, Oppositionsmann Lieberman wolle eine Koalition ohne arabische Parteien ermöglichen. Gadi Eisenkot gilt als Favorit für den Regierungsauftrag.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-lieberman-will-koalition-ohne-arabische-parteien-ermoeglichen-faz-200583539.html",
-      "source": "FAZ",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Israel",
-        "lat": 31.77,
-        "lon": 35.22
-      }
-    },
-    {
-      "title": "Tansania: Oppositionsführer Lissu zu vier Jahren Haft verurteilt",
-      "summary": "Tundu Lissu wurde wegen „Aufwiegelung“ verurteilt. Er sieht die Vorwürfe politisch motiviert.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/tundu-lissu-zu-vier-jahren-haft-verurteilt-201657987.html",
-      "source": "FAZ",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Tansania",
-        "lat": -6.79,
-        "lon": 39.21
-      }
-    },
-    {
-      "title": "Papst Leo XIV. beginnt Südamerika-Reise",
-      "summary": "In elf Tagen besucht der Papst drei Länder, die Reise beginnt in Uruguay. Laut BBC wurde ihm im Oktober ein Teil der Lunge entfernt.",
-      "url": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
-      "source": "tagesschau",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Uruguay",
-        "lat": -34.9,
-        "lon": -56.16
-      }
-    },
-    {
-      "title": "Zugunglück in Spanien: EU ermittelt wegen möglichen Subventionsbetrugs",
-      "summary": "Nach dem Unglück mit 69 Toten prüft die EU-Staatsanwaltschaft Gelder für die Bahnsicherheit.",
-      "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
-      "source": "tagesschau",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Spanien",
-        "lat": 40.42,
-        "lon": -3.7
-      }
-    },
-    {
-      "title": "Amsterdam: Aktivisten besetzen Baustelle von Microsoft-Rechenzentrum",
-      "summary": "Hunderte drangen auf die Baustelle vor, die Polizei nahm bis zu 200 Menschen fest. Der Protest richtet sich gegen hohen Energieverbrauch.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/protest-gegen-microsoft-rechenzentrum-200-festnahmen-in-amsterdam-accg-201660756.html",
-      "source": "FAZ",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Niederlande",
-        "lat": 52.37,
-        "lon": 4.9
+        "lat": 15.37,
+        "lon": 44.21
       },
-      "hamburg": "Auch in Deutschland sind Rechenzentren umstritten: Laut Greenpeace könnten einige geplante so viel Wasser wie eine Kleinstadt verbrauchen."
+      "url": "https://www.deutschlandfunk.de/huthis-melden-27-tote-und-36-verletzte-nach-luftangriffen-auf-dorf-im-jemen-104.html"
     },
     {
-      "title": "EU-Migrationsbericht: Deutschland muss keine zusätzlichen Flüchtlinge aufnehmen",
-      "summary": "Die Kommission sieht weiter die Gefahr hohen Migrationsdrucks auf Deutschland und befreit es deshalb von zusätzlichen Aufnahmen.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/deutschland-muss-keine-fluechtlinge-aus-italien-oder-griechenland-aufnehmen-201658458.html",
-      "source": "FAZ",
-      "category": "Europa",
+      "title": "Trump macht Stephen Miller zum Stabschef",
+      "summary": "Nach der Wahlniederlage der Republikaner ersetzt Trump Stabschefin Susie Wiles durch den Hardliner Miller, den Kopf hinter der strikten Einwanderungspolitik.",
+      "source": "Reuters",
+      "category": "Weltpolitik",
       "art": "politik",
       "ort": {
-        "name": "Belgien",
-        "lat": 50.85,
-        "lon": 4.35
+        "name": "Washington",
+        "lat": 38.9,
+        "lon": -77.04
       },
-      "hamburg": "Für Hamburg und andere Städte heißt das: Es kommen keine zusätzlichen Verteilungen aus dem EU-Mechanismus."
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW9VOFJHVC05elRKeHJYaUVfalhSNTJYS0dhNkJobGVIaGU1ZVlLaUNlakI2SURhTHNqc2c2ODFYcWpVaE5uUXpoNEI1d1h3MjFxbTlqNHQwVVJmNEFyUl9uRWktTWdRMGs1Z05GUXRxU2FwVC0wV19JSExCbi1DM1pPNHZVUzFZcVB3ak93TWM4MUk?oc=5"
     },
     {
-      "title": "KI-Aktien erholen sich nach Kurssturz",
-      "summary": "Anleger hatten Tech-Aktien verkauft, auch aus Sorge, die Demokraten könnten KI stärker regulieren. Nun steigen die Kurse laut BBC wieder.",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "title": "Paraguays Ex-Präsident Peña angeklagt",
+      "summary": "Einen Tag nach seiner Amtsenthebung muss sich Santiago Peña wegen des Bankenskandals verantworten. Die Staatsanwaltschaft fordert U-Haft. Millionen Menschen kamen zeitweise nicht an ihr Geld.",
       "source": "BBC",
-      "category": "Wirtschaft & Handel",
-      "art": "wirtschaft",
+      "category": "Weltpolitik",
+      "art": "politik",
       "ort": {
-        "name": "USA",
-        "lat": 40.71,
-        "lon": -74.01
+        "name": "Asunción",
+        "lat": -25.26,
+        "lon": -57.58
       },
-      "hamburg": "Auch der DAX rutschte laut tagesschau ab. Das spüren Anleger mit Fonds und ETFs."
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Hamburg ringt um die Sanierung des Hafens",
-      "summary": "Brücken, Kaimauern, Schienen und Straßen im Hafen müssen saniert werden.",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS09xTXJESnpVU1VJY1UwbWNyN0Uybzlzc0FCRUJBNERGNll0SmY3bm1TVUk1WUp4eW9yUHYzc0dWN2VzZ180SUxyRkhjVktmU2Y5T29qMnczOHFjaC13bDZKVlA4MDE5d2UyS2xXR3EzdDFBc2luem1PbG5NeGJDaUQtWmlWYjA5M1RTNUFIUjJ5MFM5YUUwREtySzEyRVo0OFRzMUdjbjJscnlRVjFFcDZMWkdIZEdZMERHdHRRVlFYT2puUTJZSHNrVFI5WjJnT3BVckdRdDlRN0RoT3AxR2V2YTYyQldET3lkUFVLQQ?oc=5",
-      "source": "WELT",
-      "category": "Hafen & Schifffahrt",
-      "art": "wirtschaft",
+      "title": "Vierte Protestwoche in Frankreich, weniger Teilnehmer",
+      "summary": "Gegen hohe Lebenskosten gingen 146.000 Menschen auf die Straße, weniger als eine Woche zuvor. In mehreren Städten kam es wieder zu Ausschreitungen. Am Dienstag sind neue Proteste geplant.",
+      "source": "Deutschlandfunk",
+      "category": "Europa",
+      "art": "politik",
       "ort": {
-        "name": "Hamburg",
-        "lat": 53.55,
-        "lon": 9.99
+        "name": "Paris",
+        "lat": 48.86,
+        "lon": 2.35
       },
-      "hamburg": "Der Hafen ist Hamburgs wichtigster Wirtschaftsmotor, marode Infrastruktur betrifft Firmen und Arbeitsplätze."
+      "url": "https://www.deutschlandfunk.de/frankreich-erneut-ausschreitungen-und-gewalt-bei-protesten-102.html"
     },
     {
-      "title": "Hitze-Tote: „Dieser Sommer war nur ein Vorgeschmack“",
-      "summary": "Die SZ berichtet von 16.000 Hitzetoten in Deutschland in diesem Sommer und warnt vor mehr.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/hitzetote-klimawandel-el-ni-o-biodiversitaet-e874669/",
-      "source": "Süddeutsche Zeitung",
+      "title": "Knappes Rennen bei der Wahl in Neuseeland",
+      "summary": "Nach Auszählung von 90 Prozent der Stimmen liegen die großen Parteien fast gleichauf. Wochenlange Koalitionsgespräche sind möglich.",
+      "source": "BBC",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Wellington",
+        "lat": -41.29,
+        "lon": 174.78
+      },
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Bombendrohungen gegen Fluglinien und Medien in Europa",
+      "summary": "Flüge wurden umgeleitet, in Irland und Bulgarien stellten Sender kurzzeitig den Betrieb ein. Ein Zusammenhang ist laut BBC nicht belegt.",
+      "source": "BBC",
+      "category": "Europa",
+      "art": "politik",
+      "ort": {
+        "name": "Irland",
+        "lat": 53.35,
+        "lon": -6.26
+      },
+      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Erdbeben in Zentraljapan",
+      "summary": "Nach dem Beben gibt es laut Deutschlandfunk mindestens 22 Verletzte. Das Warnsystem GDACS stufte zwei Beben der Stärke 5,5 als grün (geringe Gefahr) ein.",
+      "source": "Deutschlandfunk",
       "category": "Katastrophen & Klima",
       "art": "katastrophe",
       "ort": {
-        "name": "Deutschland",
-        "lat": 52.52,
-        "lon": 13.4
+        "name": "Japan",
+        "lat": 36.2,
+        "lon": 138.25
       },
-      "hamburg": "Die Zahl gilt für ganz Deutschland, Hitzewellen treffen auch Hamburg."
+      "url": "https://www.deutschlandfunk.de/erdbeben-in-japan-berichte-ueber-mindestens-22-verletzte-nach-100.html"
+    },
+    {
+      "title": "Delhi hat die schlechteste Luft aller Millionenstädte",
+      "summary": "Vor dem Lichterfest Diwali meldet eine Schweizer Organisation für Delhi die höchste Luftverschmutzung unter den großen Städten der Welt.",
+      "source": "Reuters",
+      "category": "Katastrophen & Klima",
+      "art": "katastrophe",
+      "ort": {
+        "name": "Delhi",
+        "lat": 28.61,
+        "lon": 77.21
+      },
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5"
+    },
+    {
+      "title": "Größter Masernausbruch in den USA seit 1991",
+      "summary": "Die Gesundheitsbehörde CDC zählt dieses Jahr 5.182 Fälle. In Wisconsin starb erstmals seit über 35 Jahren ein Baby an Masern.",
+      "source": "tagesschau",
+      "category": "Katastrophen & Klima",
+      "art": "katastrophe",
+      "ort": {
+        "name": "USA",
+        "lat": 38.9,
+        "lon": -77.04
+      },
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html"
+    },
+    {
+      "title": "Weltweite Lebensmittelpreise sinken im Oktober leicht",
+      "summary": "Reuters meldet einen Rückgang, die Preise liegen aber noch über dem Vorjahr.",
+      "source": "Reuters",
+      "category": "Wirtschaft & Handel",
+      "art": "wirtschaft",
+      "hamburg": "Weltmarktpreise wirken mit Verzögerung auch auf Lebensmittelpreise in Deutschland.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG4zT2RHOEFkTEs3NjhFak40Y0pkaE91RFNlRWJwQzdEVy0yLTlCbkpSUnBhU3Y4MFNPelZ4dEQwbEtiSmZfblNENUduTVBlcHFtVmNxbWlfS2dLSm1hTHJCd2c1bkVPVFZDakhNRlVrYzM4cjdTYVAzVk5Bdmt1ZXpIMHRQbG9HT1NQUVluNmtvTno5ZTZOVm16U2dJdjRPdjRiYU5nZw?oc=5"
+    },
+    {
+      "title": "ANC erleidet historische Niederlage in Südafrika",
+      "summary": "Bei den Kommunalwahlen verliert die Partei von Nelson Mandela weiter an Rückhalt.",
+      "source": "Spiegel",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Pretoria",
+        "lat": -25.75,
+        "lon": 28.19
+      },
+      "url": "https://www.spiegel.de/ausland/suedafrika-anc-erleidet-historische-niederlage-bei-kommunalwahlen-a-0a77243d-6573-4bd6-a37f-fb4a45f06e20#ref=rss"
+    },
+    {
+      "title": "AIDAluna und AIDAnova starten ab Hamburg in die Wintersaison",
+      "summary": "Die beiden Kreuzfahrtschiffe laufen ab Hamburg aus, auch AIDAperla verlässt den Hafen Richtung Karibik.",
+      "source": "Schiffe und Kreuzfahrten",
+      "category": "Hafen & Schifffahrt",
+      "hamburg": "Für den Hamburger Hafen und die Kreuzfahrtbranche beginnt die Wintersaison.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVl9icDZoVExBQ1pTTHhXX2QxVVRVN2U3T3N0Wng3N2hDSmxlZmVRclNld21pVDVxVGQ5cUQ5ZWxsYUlQcHFRckRyajQ2RW80ZmFPaHpnLXNhdkMxbXllRTdkNWF6MzV3SHV1czdsZmdiVnctMWJOTnNpUFhLanAwRXdWc1Q3TlhsUVhSSWRTQXVBa0xCcG53SUFNUnhUckNGZ3FDbUhtU1lFajBOeGhraDhydw?oc=5"
     }
   ]
 }
