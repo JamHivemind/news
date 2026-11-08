@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-08T03:46:24.761Z",
+ "fetched": "2026-11-08T05:17:46.341Z",
  "hours": 48,
  "sources": [
   {
@@ -35,12 +35,6 @@
      "url": "https://www.tagesschau.de/wirtschaft/boerse/tech-einbruch-ki-100.html",
      "date": "2026-11-06T09:21:42.000Z",
      "text": "Ein weltweiter Abverkauf von Chip- und Techaktien schickt wichtige Aktienindizes auf Talfahrt. In Seoul wurde der Handel zeitweise ausgesetzt. In den USA war es der schlimmste Einbruch seit 2020. Von Constantin Röse."
-    },
-    {
-     "title": "Ressourcenverbrauch vieler Rechenzentren nicht öffentlich einsehbar",
-     "url": "https://www.tagesschau.de/investigativ/swr/rechenzentren-transparenz-wasserverbrauch-stromverbrauch-100.html",
-     "date": "2026-11-06T05:04:19.000Z",
-     "text": "Rechenzentren verbrauchen enorme Mengen Strom und Wasser. Betreiber sind gesetzlich verpflichtet, ihren Verbrauch zu veröffentlichen. Doch Anfragen des SWR an mehr als 30 Unternehmen zeigen: Viele nehmen es mit der Transparenz nicht so ernst."
     },
     {
      "title": "Tesla will Cybertruck-Produktion in Texas einstellen",
@@ -173,12 +167,6 @@
      "url": "https://www.spiegel.de/wirtschaft/fleisch-siegel-koalition-verschiebt-staatliches-tierhaltungslogo-erneut-a-c8dfe463-defa-4c73-80e8-60e1e76ff0db#ref=rss",
      "date": "2026-11-06T05:58:00.000Z",
      "text": "Seit Jahren ringt die Politik um ein amtliches Fleisch-Siegel, das über die Haltungsbedingungen in Ställen informiert. Nun kippt der nächste Termin."
-    },
-    {
-     "title": "Deutsche Bahn: SPD plant Eisenbahn-Fonds wie in Österreich",
-     "url": "https://www.spiegel.de/wirtschaft/service/deutsche-bahn-spd-plant-eisenbahn-fonds-wie-in-oesterreich-a-31e85ae9-3305-4023-a9dc-84671fd009b2#ref=rss",
-     "date": "2026-11-06T05:00:00.000Z",
-     "text": "Ein eigenes Sondervermögen soll die langfristige Finanzierung des deutschen Bahnnetzes sichern. Die SPD-Fraktion legt dafür nun Pläne vor und kommt damit dem Verkehrsminister zuvor."
     }
    ]
   },
@@ -186,6 +174,12 @@
    "name": "FAZ Wirtschaft",
    "ok": true,
    "items": [
+    {
+     "title": "Digitalbranche: Preisschock zu Weihnachten: KI-Chips verteuern Elektronik",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/vor-weihnachten-ki-chips-verteuern-elektronik-deutlich-accg-201662259.html",
+     "date": "2026-11-08T04:22:12.000Z",
+     "text": "Teure Speicherchips trüben das Festgeschäft: Weil gedrosselte Produktion auf den weltweiten KI-Boom trifft, steigen die Preise für Laptops, Handys und Hardware deutlich an – teils schon um bis zu 40 Prozent."
+    },
     {
      "title": "Energieversorgung: Deutschlands riskante Erdgas-Wette",
      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/katherina-reiche-und-die-leeren-gasspeicher-deutschlands-riskante-wette-201646419.html",
@@ -199,16 +193,16 @@
      "text": "Der Unmut in Frankreich beschränkt sich nicht auf die Städte. Während Paris Zentrum von Wirtschaft, Politik und Gesellschaft ist, ringen ländliche Regionen mit Abwanderung und dünner Daseinsvorsorge."
     },
     {
-     "title": "Land der Revolten: Eine Tradition des Aufruhrs",
-     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/frankreichs-tradition-des-aufruhrs-warum-der-staat-instabil-bleibt-accg-201655651.html",
-     "date": "2026-11-07T16:42:22.000Z",
-     "text": "Frankreichs ausgeprägte, teils gewaltsame Protestkultur ist berüchtigt. Das Land wurde lange durch wichtige Stabilisatoren zusammengehalten – nicht zuletzt durch den teuren Wohlfahrtsstaat. Doch der steht unter Druck."
-    },
-    {
      "title": "Business-Ticker: Trumpf schafft über 200 Stellen für Chipgeschäft",
      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trumpf-schafft-ueber-200-stellen-fuer-chipgeschaeft-faz-200452404.html",
      "date": "2026-11-06T18:46:00.000Z",
      "text": "Laut Bericht will die CDU Klaus Müller für zweite Amtszeit als Netzagenturchef nominieren +++ Razzia bei der Bayerischen Versorgungskammer wegen US-Geschäft +++ Condor sichert Tariffrieden an Bord +++ alle Neuigkeiten im Unternehmen-Liveblog"
+    },
+    {
+     "title": "Land der Revolten: Eine Tradition des Aufruhrs",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/frankreichs-tradition-des-aufruhrs-warum-der-staat-instabil-bleibt-accg-201655651.html",
+     "date": "2026-11-07T16:42:22.000Z",
+     "text": "Frankreichs ausgeprägte, teils gewaltsame Protestkultur ist berüchtigt. Das Land wurde lange durch wichtige Stabilisatoren zusammengehalten – nicht zuletzt durch den teuren Wohlfahrtsstaat. Doch der steht unter Druck."
     },
     {
      "title": "Grand Theft Auto: Das Spiel, das alle verrückt macht",
@@ -221,12 +215,6 @@
      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-verkauft-ladeparks-in-europa-an-electra-accg-201658444.html",
      "date": "2026-11-07T16:25:34.000Z",
      "text": "Der Stuttgarter Autohersteller wollte nicht warten, bis andere ein globales Schnellladenetz bauen, und errichtete es selbst. Jetzt gibt Mercedes das Projekt weitgehend wieder auf."
-    },
-    {
-     "title": "Parfümblüten aus Grasse: Der Duft, aus dem die Träume sind",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/parfuemherstellung-in-grasse-wie-dior-das-erbe-rettet-accg-201655022.html",
-     "date": "2026-11-07T15:53:17.000Z",
-     "text": "Das Ende der natürlichen Parfümherstellung schien im Hochlohnland Frankreich besiegelt. Heute gibt es im Umland von Grasse wieder Zuversicht."
     },
     {
      "title": "Krise in Paris: Frankreichs Echtzeitdrama",
@@ -259,16 +247,16 @@
      "text": "Der Erdrutschsieg der Demokraten in den USA ist auch ein deutliches Zeichen gegen die Zollpolitik des Präsidenten. Am Ende könnte Donald Trump eine neue Ära des freien Handels auslösen."
     },
     {
+     "title": "Parfümblüten aus Grasse: Der Duft, aus dem die Träume sind",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/parfuemherstellung-in-grasse-wie-dior-das-erbe-rettet-accg-201655022.html",
+     "date": "2026-11-07T15:53:17.000Z",
+     "text": "Das Ende der natürlichen Parfümherstellung schien im Hochlohnland Frankreich besiegelt. Heute gibt es im Umland von Grasse wieder Zuversicht."
+    },
+    {
      "title": "Crédit Agricole kauft IKB: Das Land der großen Banken",
      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/franzoesische-bankaktien-unter-druck-warum-anleger-credit-agricole-meiden-accg-201647826.html",
      "date": "2026-11-07T14:55:40.000Z",
      "text": "Frankreichs Banken sind größer als die deutschen. Vor allem in der Niedrigzinsphase haben sie noch gut verdient. Doch jetzt meiden Anleger französische Bankaktien. Was steckt dahinter?"
-    },
-    {
-     "title": "Schneller Schlau: Die geschwächte Autonation Frankreich",
-     "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/die-geschwaechte-autonation-frankreich-201651012.html",
-     "date": "2026-11-07T14:32:55.000Z",
-     "text": "Die französische Autobranche kann eine stolze Historie vorweisen. Doch Stellantis und Renault stehen unter Druck. Die Hoffnung ruht auch auf staatlicher Industriepolitik – und Regulierung der EU."
     },
     {
      "title": "Nobelpreisträger Acemoglu: „Wo es Groll gibt, hat die Identitätspolitik die Spaltung vertieft“",
@@ -325,6 +313,12 @@
      "text": "Gemeinsam sind wir stark. Nach dem Motto werben Plattformen Gelder von Kleinanlegern für Bauprojekte ein. Was kann schon schiefgehen? Eine Menge, wie sich herausstellt."
     },
     {
+     "title": "Schneller Schlau: Die geschwächte Autonation Frankreich",
+     "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/die-geschwaechte-autonation-frankreich-201651012.html",
+     "date": "2026-11-07T14:32:55.000Z",
+     "text": "Die französische Autobranche kann eine stolze Historie vorweisen. Doch Stellantis und Renault stehen unter Druck. Die Hoffnung ruht auch auf staatlicher Industriepolitik – und Regulierung der EU."
+    },
+    {
      "title": "Deutsche Autohersteller: Kein Plan für China",
      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/vw-mercedes-und-bmw-wie-die-deutsche-autoindustrie-in-china-scheitert-201647881.html",
      "date": "2026-11-06T21:23:32.000Z",
@@ -342,6 +336,48 @@
    "name": "Handelsblatt",
    "ok": true,
    "items": [
+    {
+     "title": "Städtereisen: London im Advent: Wenn die Stadt zum Festsaal wird",
+     "url": "https://www.handelsblatt.com/unternehmen/dienstleister/staedtereisen-london-im-advent-wenn-die-stadt-zum-festsaal-wird/100268171.html",
+     "date": "2026-11-08T04:39:07.000Z",
+     "text": "London kann Weihnachten! Mit glitzernden Straßen, singenden Chören, „Carols at the Hall“ und festlich geschmückten Kaufhäusern erstrahlt die britische Hauptstadt im Lichterglanz wie kaum eine andere."
+    },
+    {
+     "title": "Ungewöhnlich großes Parlament: Neuseeland steht nach Wahl vor wochenlangem Machtpoker",
+     "url": "https://www.handelsblatt.com/politik/international/ungewoehnlich-grosses-parlament-neuseeland-steht-nach-wahl-vor-wochenlangem-machtpoker/100268169.html",
+     "date": "2026-11-08T04:25:00.000Z",
+     "text": "Nur ein Sitz trennt das Lager von Ministerpräsident Luxon von der Mehrheit. Doch kleinere Parteien und noch nicht ausgezählte Stimmen könnten die Regierungsbildung auf den Kopf stellen."
+    },
+    {
+     "title": "Aigner vor der Nominierung: Was die Entscheidung in der P-Frage bedeutet",
+     "url": "https://www.handelsblatt.com/politik/deutschland/aigner-vor-der-nominierung-was-die-entscheidung-in-der-p-frage-bedeutet/100268162.html",
+     "date": "2026-11-08T04:00:13.000Z",
+     "text": "Die CSU hat sich schon lange auf Ilse Aigner als nächste Bundespräsidentin festgelegt. Die SPD hat ihre Unterstützung zugesichert. Jetzt fehlt noch das offizielle Votum der CDU."
+    },
+    {
+     "title": "Prozessbeginn in Aachen: Prozess nach Sprengsatz-Angriff im ICE beginnt",
+     "url": "https://www.handelsblatt.com/politik/deutschland/prozessbeginn-in-aachen-prozess-nach-sprengsatz-angriff-im-ice-beginnt/100268161.html",
+     "date": "2026-11-08T04:00:12.000Z",
+     "text": "Ein Mann soll im April bei Siegburg in einem Zug Sprengkörper geworfen und zehn Passagiere verletzt haben. Zwei Männer verhinderten damals, dass Schlimmeres passiert. Das Motiv des Täters? Unklar."
+    },
+    {
+     "title": "Handel: Preisschock zu Weihnachten: KI-Chips verteuern Elektronik",
+     "url": "https://www.handelsblatt.com/technik/it-internet/handel-preisschock-zu-weihnachten-ki-chips-verteuern-elektronik/100268159.html",
+     "date": "2026-11-08T04:00:09.000Z",
+     "text": "Teure Speicherchips trüben das Festgeschäft: Weil gedrosselte Produktion auf den weltweiten KI-Boom trifft, sind die Preise für Laptops, Handys und Hardware vor Weihnachten spürbar gestiegen."
+    },
+    {
+     "title": "Weltklimakonferenz COP31: Klimagipfel in der Türkei – Worum es geht und woran es hakt",
+     "url": "https://www.handelsblatt.com/politik/international/weltklimakonferenz-cop31-klimagipfel-in-der-tuerkei-worum-es-geht-und-woran-es-hakt/100268163.html",
+     "date": "2026-11-08T04:00:08.000Z",
+     "text": "Die Klimakrise spitzt sich zu – doch die Welt ist durch Kriege und Konflikte abgelenkt. Bei der Weltklimakonferenz in Antalya wird sich zeigen, ob die Staaten doch noch in den Notfallmodus schalten."
+    },
+    {
+     "title": "Nach der Parlamentswahl: Israels Präsident beauftragt Eisenkot mit Regierungsbildung",
+     "url": "https://www.handelsblatt.com/politik/international/nach-der-parlamentswahl-israels-praesident-beauftragt-eisenkot-mit-regierungsbildung/100268160.html",
+     "date": "2026-11-08T03:58:05.000Z",
+     "text": "Dem Oppositionspolitiker Eisenkot fehlen 13 Mandate für eine eigene Regierungsmehrheit. Arabische oder ultraorthodoxe Parteien könnten ihm helfen. Doch beide Optionen bergen großes Konfliktpotenzial."
+    },
     {
      "title": "+++ US-Midterms +++: Trump will Ermittlungen gegen Demokraten – „bedrohen viele Menschen“",
      "url": "https://www.handelsblatt.com/politik/international/nach-us-midterms-trump-will-ermittlungen-gegen-demokraten-bedrohen-viele-menschen/29669594.html",
@@ -479,48 +515,6 @@
      "url": "https://www.handelsblatt.com/politik/deutschland/klingbeil-bei-ruhr-spd-klingbeil-an-der-basis-im-ruhrgebiet-kritik-und-impulse/100268082.html",
      "date": "2026-11-07T14:39:09.000Z",
      "text": "Die SPD im Ruhrgebiet wirft der Bundesregierung bei einem Konvent in Bochum Streit statt Lösungen vor. Parteichef Klingbeil bekommt eine To-Do-Liste mit. Er äußert sich auch vage zu seiner Zukunft."
-    },
-    {
-     "title": "Angriffe auf Bahnprojekte: Cyberattacke auf Brennerbasistunnel-Firma",
-     "url": "https://www.handelsblatt.com/politik/deutschland/angriffe-auf-bahnprojekte-cyberattacke-auf-brennerbasistunnel-firma/100268113.html",
-     "date": "2026-11-07T14:10:55.000Z",
-     "text": "Unbekannte Täter greifen auf Daten der österreichisch-italienischen Baugesellschaft zu. Auch ein wichtiges Tunnelprojekt zwischen Deutschland und Dänemark war zuletzt von einer IT-Attacke betroffen."
-    },
-    {
-     "title": "Klingbeil bei Ruhr-SPD: Frage um SPD-Vorsitz - Klingbeil: Klebe nicht am Stuhl",
-     "url": "https://www.handelsblatt.com/politik/deutschland/klingbeil-bei-ruhr-spd-frage-um-spd-vorsitz-klingbeil-klebe-nicht-am-stuhl/100268108.html",
-     "date": "2026-11-07T14:01:58.000Z",
-     "text": "Im Januar wählt die SPD ihre Bundesspitze neu. Bärbel Bas war im Oktober als Co-Vorsitzende zurückgetreten. Was lässt sich Parteichef und Finanzminister Lars Klingbeil entlocken?"
-    },
-    {
-     "title": "Infektionswelle in den USA: Drei Menschen in einer Woche in den USA an Masern gestorben",
-     "url": "https://www.handelsblatt.com/technik/forschung-innovation/infektionswelle-in-den-usa-drei-menschen-in-einer-woche-in-den-usa-an-masern-gestorben/100268107.html",
-     "date": "2026-11-07T13:59:27.000Z",
-     "text": "Die Masernwelle breitet sich in den USA weiter aus. Nun starben in unterschiedlichen Bundesstaaten gleich drei Menschen innerhalb einer Woche."
-    },
-    {
-     "title": "Bundespräsidentenwahl: Die „Nachbarin von nebenan“ - Besuch in Aigners Heimatort",
-     "url": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-die-nachbarin-von-nebenan-besuch-in-aigners-heimatort/100268104.html",
-     "date": "2026-11-07T13:45:22.000Z",
-     "text": "Ilse Aigner soll als Kandidatin für das Amt des Staatsoberhaupts nominiert werden. In ihrem Heimatort ist die Freude groß. Was die Menschen dort an ihr schätzen."
-    },
-    {
-     "title": "Schulbildung: Auf britischen Internaten können deutsche Schüler lernen wie der künftige König von England",
-     "url": "https://www.handelsblatt.com/politik/international/internate-hier-lernen-deutsche-kinder-wie-der-kuenftige-koenig-von-england/100266254.html",
-     "date": "2026-11-07T13:35:59.000Z",
-     "text": "Internate in Großbritannien genießen einen elitären Ruf. Sie bieten kleine Lerngruppen und ein großes Freizeitangebot. Was sie deutschen Schülern bieten – und wie man einen Platz ergattert."
-    },
-    {
-     "title": "Europas Rolle: Auch Laschet fordert EU-Unterhändler für Ukraine-Gespräche",
-     "url": "https://www.handelsblatt.com/politik/international/europas-rolle-auch-laschet-fordert-eu-unterhaendler-fuer-ukraine-gespraeche/100268100.html",
-     "date": "2026-11-07T13:23:35.000Z",
-     "text": "Armin Laschet unterstützt Giorgia Melonis Ruf nach einer gemeinsamen europäischen Stimme in den Ukraine-Verhandlungen. Wer für die EU sprechen soll, ist allerdings noch offen."
-    },
-    {
-     "title": "The Spark - Der Technologiepreis: Diese deutsche Firma will Europas erstes Fusionskraftwerk bauen",
-     "url": "https://www.handelsblatt.com/unternehmen/start-ups/the-spark-diese-deutsche-firma-will-europas-erstes-fusionskraftwerk-bauen/100266593.html",
-     "date": "2026-11-07T13:14:43.000Z",
-     "text": "Zweiter bei „The Spark – Der Technologiepreis“: Proxima Fusion aus München. Das Start-up für Fusionstechnologie könnte die Energiebranche revolutionieren."
     }
    ]
   },
@@ -654,6 +648,20 @@
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaU9VRHB4VDA2QVJhQ05VOEVYR2hrZFdOUkFDQ2JIcHN6RE5GT3JSTXRpbnpoUEhhQmF3N0tuQTIyYlRITDdER2NSRkFWT01fOTVuWDJGeXNNZmRsNEpkMWU2OFNGbXpHeXdxSFR1dXdWRnZfRW5pbWJrNlhXd0xjd0JoVWoyV0xqbFN3S21Jbzd0SkpFQXZBR0pOMzQ3YlRIclZrUHJfR0VjSWFGbDIySmZCYm5xMlNsaHV4R2RPVUxobzhBR1h0RGZtS0Nzdw?oc=5",
      "date": "2026-11-06T12:31:00.000Z",
      "text": "Haftbefehl gegen Angeklagten im VW-Dieselprozess erlassen Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Gericht: VW muss Ex-Manager rund 300.000 Euro nachzahlen - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb0QzQkZyYkxCUVJYaGpYN0I1WU1OV3h1SldPNkZYVzNKRU1XdTllOXFiaVdMMjkxMWUzRFdoYlAxdTk4V0RaYzhTc3ZpNlhOM2pwNXNjMDJWLXNFX3RESFM5cGUtTlZteE1kSFZwR2x3ZTN2NDF6YzRrZmVBUnR5ZHNRN1IwZGFxMEllVk1yU2dRYVBLSmxhWGtKZEMyNEZidWF6ZnV1VDJVTFJOMktoSklVdC1qaWlpTkhEZy1MeW5RdW9xR0ZVOWpB?oc=5",
+     "date": "2026-11-06T14:25:00.000Z",
+     "text": "Gericht: VW muss Ex-Manager rund 300.000 Euro nachzahlen Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Etwa 60 Filialen von Mäc Geiz schließen, 123 bleiben - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM0xicFh4WHpsdV9Hc3dKZllXcEFiRHFrUk1xVGx6LXVvV3E1OHJIYlo4RnByRUpnLVVXTWJXal9hZzFXQm1JRXRNN09xT09OU1NtVWRMbjRMZW45S0lnMXVWem5YWnNiVXhxYlpxcm9WQkZwTEFhakdCa1JjOXBpQVowUGxLYTFZeG1OYVRYa1BaWDhFV0k0TTBJeHRPSXNNSktPUFZ5azMwcGJCSXlKTUtMdUx3QmUzUW04RlZtUGVNSU1May1mQg?oc=5",
+     "date": "2026-11-06T11:21:00.000Z",
+     "text": "Etwa 60 Filialen von Mäc Geiz schließen, 123 bleiben Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     }
    ]
