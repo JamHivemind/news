@@ -484,31 +484,45 @@
     "id": 40,
     "team": "FC Bayern München",
     "short": "Bayern",
-    "pts": 18,
-    "sp": 8,
-    "w": 5,
+    "pts": 21,
+    "sp": 9,
+    "w": 6,
     "d": 3,
     "l": 0,
-    "g": 27,
-    "o": 8,
-    "diff": 19
+    "g": 29,
+    "o": 9,
+    "diff": 20
    },
    {
     "pos": 2,
     "id": 7,
     "team": "Borussia Dortmund",
     "short": "Dortmund",
-    "pts": 18,
-    "sp": 8,
-    "w": 5,
+    "pts": 21,
+    "sp": 9,
+    "w": 6,
     "d": 3,
     "l": 0,
-    "g": 14,
-    "o": 6,
-    "diff": 8
+    "g": 16,
+    "o": 7,
+    "diff": 9
    },
    {
     "pos": 3,
+    "id": 1635,
+    "team": "RB Leipzig",
+    "short": "Leipzig",
+    "pts": 18,
+    "sp": 9,
+    "w": 6,
+    "d": 0,
+    "l": 3,
+    "g": 27,
+    "o": 13,
+    "diff": 14
+   },
+   {
+    "pos": 4,
     "id": 112,
     "team": "SC Freiburg",
     "short": "Freiburg",
@@ -522,32 +536,18 @@
     "diff": 8
    },
    {
-    "pos": 4,
-    "id": 1635,
-    "team": "RB Leipzig",
-    "short": "Leipzig",
-    "pts": 15,
-    "sp": 8,
-    "w": 5,
-    "d": 0,
-    "l": 3,
-    "g": 22,
-    "o": 11,
-    "diff": 11
-   },
-   {
     "pos": 5,
     "id": 134,
     "team": "SV Werder Bremen",
     "short": "Bremen",
     "pts": 15,
-    "sp": 8,
+    "sp": 9,
     "w": 4,
     "d": 3,
-    "l": 1,
+    "l": 2,
     "g": 17,
-    "o": 14,
-    "diff": 3
+    "o": 15,
+    "diff": 2
    },
    {
     "pos": 6,
@@ -569,16 +569,44 @@
     "team": "SV 07 Elversberg",
     "short": "Elversberg",
     "pts": 13,
-    "sp": 8,
+    "sp": 9,
     "w": 4,
     "d": 1,
-    "l": 3,
-    "g": 16,
-    "o": 16,
-    "diff": 0
+    "l": 4,
+    "g": 17,
+    "o": 18,
+    "diff": -1
    },
    {
     "pos": 8,
+    "id": 16,
+    "team": "VfB Stuttgart",
+    "short": "Stuttgart",
+    "pts": 12,
+    "sp": 9,
+    "w": 4,
+    "d": 0,
+    "l": 5,
+    "g": 15,
+    "o": 15,
+    "diff": 0
+   },
+   {
+    "pos": 9,
+    "id": 91,
+    "team": "Eintracht Frankfurt",
+    "short": "Frankfurt",
+    "pts": 12,
+    "sp": 9,
+    "w": 3,
+    "d": 3,
+    "l": 3,
+    "g": 15,
+    "o": 20,
+    "diff": -5
+   },
+   {
+    "pos": 10,
     "id": 100,
     "team": "Hamburger SV",
     "short": "HSV",
@@ -592,63 +620,49 @@
     "diff": -10
    },
    {
-    "pos": 9,
-    "id": 91,
-    "team": "Eintracht Frankfurt",
-    "short": "Frankfurt",
-    "pts": 11,
-    "sp": 8,
-    "w": 3,
-    "d": 2,
-    "l": 3,
-    "g": 13,
-    "o": 18,
-    "diff": -5
-   },
-   {
-    "pos": 10,
+    "pos": 11,
     "id": 81,
     "team": "1. FSV Mainz 05",
     "short": "Mainz",
     "pts": 10,
-    "sp": 8,
+    "sp": 9,
     "w": 3,
     "d": 1,
-    "l": 4,
-    "g": 17,
-    "o": 17,
-    "diff": 0
+    "l": 5,
+    "g": 18,
+    "o": 19,
+    "diff": -1
    },
    {
-    "pos": 11,
+    "pos": 12,
+    "id": 31,
+    "team": "SC Paderborn 07",
+    "short": "Paderborn",
+    "pts": 10,
+    "sp": 9,
+    "w": 2,
+    "d": 4,
+    "l": 3,
+    "g": 8,
+    "o": 11,
+    "diff": -3
+   },
+   {
+    "pos": 13,
     "id": 95,
     "team": "FC Augsburg",
     "short": "Augsburg",
     "pts": 9,
-    "sp": 8,
+    "sp": 9,
     "w": 2,
     "d": 3,
-    "l": 3,
-    "g": 18,
-    "o": 15,
-    "diff": 3
+    "l": 4,
+    "g": 20,
+    "o": 20,
+    "diff": 0
    },
    {
-    "pos": 12,
-    "id": 16,
-    "team": "VfB Stuttgart",
-    "short": "Stuttgart",
-    "pts": 9,
-    "sp": 8,
-    "w": 3,
-    "d": 0,
-    "l": 5,
-    "g": 14,
-    "o": 15,
-    "diff": -1
-   },
-   {
-    "pos": 13,
+    "pos": 14,
     "id": 175,
     "team": "TSG Hoffenheim",
     "short": "Hoffenheim",
@@ -662,7 +676,7 @@
     "diff": -2
    },
    {
-    "pos": 14,
+    "pos": 15,
     "id": 65,
     "team": "1. FC Köln",
     "short": "Köln",
@@ -673,20 +687,6 @@
     "l": 3,
     "g": 9,
     "o": 12,
-    "diff": -3
-   },
-   {
-    "pos": 15,
-    "id": 31,
-    "team": "SC Paderborn 07",
-    "short": "Paderborn",
-    "pts": 9,
-    "sp": 8,
-    "w": 2,
-    "d": 3,
-    "l": 3,
-    "g": 6,
-    "o": 9,
     "diff": -3
    },
    {
@@ -799,6 +799,10 @@
     [
      8,
      18
+    ],
+    [
+     9,
+     21
     ]
    ],
    "9": [
@@ -867,6 +871,10 @@
     [
      8,
      9
+    ],
+    [
+     9,
+     12
     ]
    ],
    "31": [
@@ -901,6 +909,10 @@
     [
      8,
      9
+    ],
+    [
+     9,
+     10
     ]
    ],
    "40": [
@@ -935,6 +947,10 @@
     [
      8,
      18
+    ],
+    [
+     9,
+     21
     ]
    ],
    "65": [
@@ -1037,6 +1053,10 @@
     [
      8,
      10
+    ],
+    [
+     9,
+     10
     ]
    ],
    "87": [
@@ -1109,6 +1129,10 @@
     [
      8,
      11
+    ],
+    [
+     9,
+     12
     ]
    ],
    "95": [
@@ -1142,6 +1166,10 @@
     ],
     [
      8,
+     9
+    ],
+    [
+     9,
      9
     ]
    ],
@@ -1249,6 +1277,10 @@
     [
      8,
      15
+    ],
+    [
+     9,
+     15
     ]
    ],
    "175": [
@@ -1317,6 +1349,10 @@
     [
      8,
      13
+    ],
+    [
+     9,
+     13
     ]
    ],
    "1635": [
@@ -1351,10 +1387,14 @@
     [
      8,
      15
+    ],
+    [
+     9,
+     18
     ]
    ]
   },
-  "fetched": "2026-11-07T09:55:53.059Z"
+  "fetched": "2026-11-08T02:26:11.146Z"
  },
- "updated": "2026-11-07T09:55:53.059Z"
+ "updated": "2026-11-08T02:26:11.146Z"
 }
