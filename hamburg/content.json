@@ -1,129 +1,100 @@
 {
-  "date": "2026-11-07",
-  "intro": "In Hamburg wächst der Streit um Kürzungen an Schulen, die Schüler planen im Dezember einen Aktionstag. Außerdem fordert der Hafen mehr Geld vom Bund, und für die A26-Ost gibt es einen neuen Beschluss.",
+  "date": "2026-11-08",
+  "intro": "Der HVV testet eine Sprachassistentin für Fahrkarten, in Hamburg gibt es zwei Tage lang Impfungen ohne Termin, und Schüler kündigen Proteste gegen geplante Kürzungen an.",
   "top": [
     {
-      "title": "Schüler kündigen Protest gegen Kürzungen an",
-      "text": "Die Schüler:innenkammer Hamburg will im Dezember einen Aktionstag unter dem Motto „Eure Kürzungen – unser Aufstand“ veranstalten. Anlass sind geplante Einsparungen in der Hamburger Schulpolitik. Am Freitag blockierten Demonstranten bereits Zugänge zu mehreren Schulen, in Altona rückte die Polizei mit einem Großaufgebot an.",
-      "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/kuerzungen-in-schulen-schueler-kuendigen-proteste-an,hamj-16268.html",
+      "title": "HVV testet Sprachassistentin „MIA“",
+      "text": "Der HVV probiert eine KI-Assistentin aus, die per Sprache Fahrten plant und Tickets besorgt. Bei Störungen soll sie Alternativen vorschlagen. Laut NDR antwortet sie sogar in Gebärdensprache. Wann sie für alle Fahrgäste verfügbar ist, geht aus dem Feed nicht hervor.",
       "source": "NDR Hamburg",
-      "category": "Stadt & Politik"
+      "category": "Verkehr",
+      "url": "https://www.ndr.de/nachrichten/hamburg/fahrkarten-per-sprachbefehl-hvv-testet-intelligente-sprachassistentin-mia,mia-118.html"
     },
     {
-      "title": "Hafen-Ausbau stockt: Hamburg will 500 Millionen Euro mehr vom Bund",
-      "text": "Beim „Hamburg Port Summit“ forderten Vertreter aus Politik und Wirtschaft mehr Geld vom Bund für die Hafen-Infrastruktur. Laut NDR geht es um 500 Millionen Euro zusätzlich. Ohne Geld für Brücken, Kaimauern und Schienen kommt der Ausbau langsamer voran.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRXY4SUhDdlQweGdOcHFKVmU5cVY1dzBBSmpnZHd1cTlqMHFaa0U3djdmeXBZSzMzNlloNWNRVk03UXNRUkRnRklrZndGalNScHRaQmVoeDFWdnNzaE9hNmJxS3RYdlRwaXVHYlJIQU1UNk1zYkgwSXhvLXlYZElKZjFjU2JTQlRScHFUUjk1RVpoS1FNRVN4SXJvNnFrdEo1Nkg0TGhCdE1oSlVjMFM5Tw?oc=5",
-      "source": "NDR.de",
-      "category": "Wirtschaft & Hafen"
-    },
-    {
-      "title": "A26-Ost: Neuer Beschluss nach dem Baustopp",
-      "text": "Vor einem Jahr stoppte das Bundesverwaltungsgericht den Bau der A26-Ost im Süden Hamburgs. Jetzt gibt es einen neuen Beschluss der Planfeststellung (die Genehmigung für den Bau). Umweltverbände prüfen nach Berichten eine neue Klage.",
-      "url": "https://www.mopo.de/hamburg/geplante-a26-ost-neuer-beschluss-nach-baustopp/5074897",
+      "title": "Impfungen für alle: Grippe, Covid-19 und mehr ohne Termin",
+      "text": "Hamburg bietet an zwei Tagen Impfungen gegen Grippe, Covid-19 und weitere Erreger an. Es gibt Termine für alle, man kann auch ohne Termin kommen. Wer sich schützen will, sollte die genauen Orte und Zeiten vorab prüfen.",
+      "tipp": "Genaue Impfstellen und Zeiten vorher nachschauen und den Impfpass mitnehmen.",
       "source": "Hamburger Morgenpost",
-      "category": "Verkehr"
+      "category": "Stadt & Politik",
+      "url": "https://www.mopo.de/hamburg/impfen-klar-doch-hamburg-bietet-termine-fuer-alle-was-man-jetzt-wissen-muss/5076052"
+    },
+    {
+      "title": "Schüler kündigen Proteste gegen Kürzungen an",
+      "text": "Die Schüler:innenkammer Hamburg hat Proteste gegen die Schulpolitik der Stadt angekündigt. Anlass sind geplante Einsparungen an den Schulen. Wann und wo protestiert wird, stand im Feed nicht.",
+      "source": "NDR Hamburg",
+      "category": "Stadt & Politik",
+      "url": "https://www.ndr.de/nachrichten/hamburg/kuerzungen-in-hamburger-schulen-schueler-kuendigen-proteste-an,schuelerinnenkammer-100.html"
     }
   ],
   "entries": [
     {
-      "title": "„Hamburg Standard“: 90 Wohnungen in Rekordzeit",
-      "summary": "In Marienthal im Bezirk Wandsbek entstehen 90 Mietwohnungen im seriellen Bauverfahren. Es soll Zeit und Kosten sparen.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/bauen-nach-hamburg-standard-90-wohnungen-entstehen-in-rekordzeit,hamburgstandard-100.html",
+      "title": "Stadt kauft Problemhaus in Harburg",
+      "summary": "Im Phoenix-Viertel hatten Drogenabhängige ein leeres Haus besetzt. Die Stadt kauft es, nächstes Jahr soll es abgerissen werden. Danach entstehen dort Sozialwohnungen.",
       "source": "NDR Hamburg",
-      "category": "Bauen & Wohnen"
+      "category": "Bauen & Wohnen",
+      "url": "https://www.ndr.de/nachrichten/hamburg/drogenabhaengige-im-phoenix-viertel-stadt-kauft-problem-immobilie,phoenix-200.html"
     },
     {
-      "title": "Tempo 30 rund um zwei Weihnachtsmärkte",
-      "summary": "Auf dem Winterzauber in Wandsbek und bald am „Santa Pauli“ auf St. Pauli gilt Tempo 30 als Teil des Sicherheitskonzepts.",
-      "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/tempo-30-rund-um-zwei-weihnachtsmaerkte,hamj-16264.html",
+      "title": "Tempolimits an Weihnachtsmärkten",
+      "summary": "Der Bezirk Wandsbek hat in der Nähe der Weihnachtsmärkte Tempolimits eingerichtet, auf St. Pauli folgt das bald.",
       "source": "NDR Hamburg",
       "category": "Verkehr",
-      "tipp": "Wer zu den Weihnachtsmärkten fährt, plant in Wandsbek und bald auf St. Pauli langsameres Fahren ein."
+      "url": "https://www.ndr.de/nachrichten/hamburg/bezirk-richtet-tempo-limits-an-weihnachtsmaerkten-ein,weihnachtsmaerkte-246.html"
     },
     {
-      "title": "„Lighthouse Zero“ in der Hafencity wird abgerissen",
-      "summary": "Der Abriss des auffälligen Gebäudes am Baakenhöft hat begonnen. Laut NDR macht es Platz für die neue Staatsoper.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkFQTG9yd1Y4UTFtNWh3SGVjMVNPWFBuN0hVN1paR3dqcjRYTV9waWJ1MzV3b2RpY2xUS01FMHZXNEZBZ0NucldJcEJ1N2pJTnJ5YUJHWUtGUU9kbk5kUXJQNVJTNWZIQW4zRjBzNDRJUTRtdkFuaHA3TWRyNm5wTVhRckxldFBSdFY3bm50RHFFVmlvVlE2VkNuSzBreEdPMG5FSThJVQ?oc=5",
-      "source": "NDR.de",
-      "category": "Bauen & Wohnen"
-    },
-    {
-      "title": "Riesiger Wasserspeicher unter dem Grasbrook",
-      "summary": "Unter dem neuen Stadtteil entsteht ein unterirdisches System, das Millionen Liter Regenwasser auffangen soll.",
-      "url": "https://www.mopo.de/hamburg/hamburg-baut-riesigen-wasserspeicher-unter-neuen-stadtteil/5073761",
+      "title": "A20 soll bis nach Niedersachsen weitergebaut werden",
+      "summary": "Die Autobahn soll perspektivisch mit einem neuen Elbtunnel verlängert werden. Autofahrer sollen so deutlich Zeit sparen.",
       "source": "Hamburger Morgenpost",
-      "category": "Bauen & Wohnen"
+      "category": "Verkehr",
+      "url": "https://www.mopo.de/im-norden/schleswig-holstein/ein-echter-neuer-elbtunnel-fuer-den-norden-zeitersparnis-wird-enorm/5076003"
     },
     {
-      "title": "Wohnungsverband fordert Airbnb-Verbot",
-      "summary": "VNW-Chef Andreas Breitner will nicht länger dulden, dass normaler Wohnraum an Touristen untervermietet wird.",
-      "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413593561/kampf-um-wohnraum-in-hamburg-und-kiel-verbot-von-airbnb-kann-helfen-01.html",
+      "title": "A26-Ost: Trasse bleibt trotz Gerichtsstopp bestehen",
+      "summary": "Nach dem Stopp durch das Gericht wird die geplante Trasse der A26-Ost nicht aufgegeben.",
+      "source": "MOPO",
+      "category": "Verkehr",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmVjbjVWbXJNX1BGcF8taklvVlNmOGxtb212c2hjRjdlaDJMYnJKQWZ0UkhOeXVqcTNES1IybTNVd0RqZlVUSjB6ZF93RUFuaFo2ZnhSc0Z5TjRCOG5hYmdHM3RJa0pvbHlSWjhnbUd0OFB3WW92ZktHUi1sVlhhQXhRVDBiMWZmeVE?oc=5"
+    },
+    {
+      "title": "Hauptbahnhof: Ausbau stockt, Andrang wächst",
+      "summary": "Der Hauptbahnhof soll noch mehr Fahrgäste aufnehmen, der geplante Ausbau kommt aber nicht voran. Das Abendblatt hat sich einen Freitagabend am Gleis 13/14 angesehen.",
       "source": "Hamburger Abendblatt",
-      "category": "Bauen & Wohnen"
+      "category": "Verkehr",
+      "url": "https://www.abendblatt.de/hamburg/politik/article413537558/ein-freitagabend-am-hamburger-hauptbahnhof-chaos-pur-an-bahnsteig-1314.html"
     },
     {
-      "title": "Elbwald: Petition erfolgreich, trotzdem wird gerodet",
-      "summary": "Die Initiative hat 10.000 gültige Unterschriften erreicht, die Bürgerschaft muss sich damit befassen. Die Bäume fallen aber schon.",
-      "url": "https://www.abendblatt.de/hamburg/altona/article413605312/grotesk-elbwald-retter-mit-petition-erfolgreich-trotzdem-wird-gerodet.html",
+      "title": "Betrugsmasche mit der Nummer 116117",
+      "summary": "Kriminelle nutzen das Vertrauen in den ärztlichen Notdienst aus. Die Verbraucherzentrale Hamburg rät zur Vorsicht bei Anrufen von dieser Nummer.",
       "source": "Hamburger Abendblatt",
-      "category": "Stadt & Politik"
+      "category": "Polizei & Sicherheit",
+      "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413602658/besonders-perfide-verbraucherschutz-warnt-vor-neuer-betrugsmasche-per-telefon.html"
     },
     {
-      "title": "Skandalprojekt ZRE: Streit um Schriftverkehr",
-      "summary": "Laut einem Geheimprotokoll wurde mit der Kostenexplosion besonders umgegangen. Die Bürgerschaftspräsidentin rügt den Senat.",
-      "url": "https://www.abendblatt.de/hamburg/politik/article413598897/skandalprojekt-zre-umweltsenatorin-fegebank-untersagte-schriftverkehr.html",
+      "title": "Weihnachtsgans bleibt teuer",
+      "summary": "Die Preise sind laut Abendblatt stabil, aber hoch: bis zu 352 Euro. Es gibt eine günstigere Alternative.",
       "source": "Hamburger Abendblatt",
-      "category": "Stadt & Politik"
+      "category": "Wirtschaft & Hafen",
+      "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413594615/bis-zu-352-euro-weihnachtsgans-wird-in-hamburgs-restaurant-wieder-ein-teures-vergnuegen.html"
     },
     {
-      "title": "Tote Obdachlose: Senat will Zahlen künftig filtern",
-      "summary": "Laut taz soll der rot-grüne Senat die Zahlen zu toten Obdachlosen künftig filtern.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mNWJFdHg5Rm9oREdKSFpxOTdxVkZrTFY1NS01M0RVOFZ1aFFiNGQ4dDFicWdfYjkxWE1SWjRrZGxrRnRVTkJIQ1hBNkhSNFdvVG5wcXFCSXRBODRvM1R5dA?oc=5",
-      "source": "taz",
-      "category": "Stadt & Politik"
-    },
-    {
-      "title": "Neue HVV-Livekarte von einem Physiker",
-      "summary": "Ein Physiker entwickelt eine neue Karte, die zeigt, wo gerade welcher Zug fährt.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTmhnSDUxTEVfNF9VbWcxOHFBQ015VnRpcVgxTURlaVRSRVpqRDFFaW5kcGJtdVhsT0M1YWNlUENKWVpIaUxhSU9CNXNiNV9JWFpsMnBRV1lGdWY4cks2V1RJY0xaaXlSOHRoZHM5LXJKOUY2X3YyUDlrNmpPMnA1akhmeGp1aFNPS0E4SldNdk1aXzZCSWE1UzZid3hTODNsclJUcTVuTk82S1BtbFVxVUN2VmF1TENuVnFxSQ?oc=5",
-      "source": "NAHVERKEHR HAMBURG",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Hafen: Sanierung von Brücken, Kaimauern und Schienen",
-      "summary": "Hamburg ringt um die Sanierung der Hafen-Infrastruktur, schreibt die WELT.",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS09xTXJESnpVU1VJY1UwbWNyN0Uybzlzc0FCRUJBNERGNll0SmY3bm1TVUk1WUp4eW9yUHYzc0dWN2VzZ180SUxyRkhjVktmU2Y5T29qMnczOHFjaC13bDZKVlA4MDE5d2UyS2xXR3EzdDFBc2luem1PbG5NeGJDaUQtWmlWYjA5M1RTNUFIUjJ5MFM5YUUwREtySzEyRVo0OFRzMUdjbjJscnlRVjFFcDZMWkdIZEdZMERHdHRRVlFYT2puUTJZSHNrVFI5WjJnT3BVckdRdDlRN0RoT3AxR2V2YTYyQldET3lkUFVLQQ?oc=5",
-      "source": "WELT",
-      "category": "Wirtschaft & Hafen"
-    },
-    {
-      "title": "Kiez: Größte 3D-LED-Installation Europas am Klubhaus",
-      "summary": "Am Spielbudenplatz leuchtet jetzt eine riesige LED-Fassade für Nachrichten und Kiez-Kultur.",
-      "url": "https://www.mopo.de/hamburg/mega-auf-dem-kiez-siehts-jetzt-aus-wie-am-time-square/5074927",
-      "source": "Hamburger Morgenpost",
-      "category": "Kultur & Freizeit"
-    },
-    {
-      "title": "Winterdom startet mit drei Neuheiten",
-      "summary": "Das Volksfest auf St. Pauli läuft bis 6. Dezember, mit neuen Fahrgeschäften.",
-      "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413570301/winterdom-hamburg-2026-neues-virtual-reality-fahrgeschaeft-so-etwas-gab-es-noch-nie-1.html",
+      "title": "Elbwald wird trotz erfolgreicher Petition gerodet",
+      "summary": "Die Petition der Elbwald-Retter war erfolgreich, trotzdem wird gerodet. Das Abendblatt nennt das „grotesk“.",
       "source": "Hamburger Abendblatt",
+      "category": "Stadt & Politik",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnJfLVZ4NnNtUGNYM3duT1NOY3F4YkVHQzFER19Sd0g3MU1GX24yR1JLeTNtUlM5QWlYMEpkMktuTl9IYXlsbm5HUlpSQ2s0aldjdnBOQnJyRXVjNXh5VWhyR3RnWkdoWXdsUTNUb1hESHR2YnhhNVV1MmFBbVhOdkl2R3prR1c5Y2w0ZnZ6NkxHakdKQWJOdU94RWhQQ3hfR0cwZUY4Sjk3RndDOWk2bDNBaXBwSXN6Z1FldERieC1TeWJDRWYxTTZMcmQ?oc=5"
+    },
+    {
+      "title": "Selbst reparieren bei stadtweiten Mitmachaktionen",
+      "summary": "Hamburg lädt zu Aktionen ein, bei denen man defekte Dinge selbst repariert.",
+      "source": "hamburg.de",
       "category": "Kultur & Freizeit",
-      "tipp": "Der Winterdom auf dem Heiligengeistfeld läuft noch bis 6. Dezember."
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcktDZWhScmlQRHFFVlg0NFVBMENtT0U4WHd1Z1FEQ095OUsyRG9mWUw3c0dDd3N3Z3FZTGJ0MldVUmVLMk1RZG9fNzF4aW50bnNPQUN0alRQZjhxS3BzbHJBUmZKMGt1czdtb3ZDd1YzN3FXMmVGcUVJOUgyZGJzUGY4Mm9Zdnc5V2cyZkowdjlxZ2pMRm1JbV9WWUUwZ1VONW1pRTZVT1duVkljMXltN3dzUFpwWTZjTUFLR0FsVTN2OXlNX2x4SlZR?oc=5"
     },
     {
-      "title": "HSV schlägt Gladbach 3:1",
-      "summary": "Nach drei Pleiten in Folge gewinnt der HSV zu Hause mit tollen Fernschüssen.",
-      "url": "https://www.mopo.de/sport/hsv/schoenster-abend-meines-lebens-hsv-besiegt-gladbach-und-feiert-ein-teenie-maerchen/5075161",
-      "source": "Hamburger Morgenpost",
-      "category": "Sport"
-    },
-    {
-      "title": "Ermittlungen im Denkmalschutzamt",
-      "summary": "Die Staatsanwaltschaft ermittelt gegen einen Mitarbeiter, der im Raum Altona Gefälligkeitsgutachten gegen Geld erstellt haben soll.",
-      "url": "https://www.mopo.de/hamburg/liess-denkmalschuetzer-sich-bestechen-staatsanwaltschaft-ermittelt-in-der-behoerde/5074267",
-      "source": "Hamburger Morgenpost",
-      "category": "Polizei & Sicherheit"
+      "title": "Soko nimmt führenden Hells Angel fest",
+      "summary": "Die Schusswaffen-Soko hat in der Nacht zum Samstag mehrere Männer festgenommen, darunter ein führendes Mitglied der Rockergruppe. Bei einem fanden Beamte eine scharfe Waffe und rund 23.000 Euro.",
+      "source": "NDR Hamburg",
+      "category": "Polizei & Sicherheit",
+      "url": "https://www.ndr.de/nachrichten/hamburg/hamburger-schusswaffen-soko-nimmt-fuehrenden-hells-angel-fest,soko-100.html"
     }
   ]
 }
