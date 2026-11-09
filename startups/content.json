@@ -1,85 +1,15 @@
 {
-  "date": "2026-11-08",
-  "intro": "Europas Start-up-Szene hat eine ruhige Woche hinter sich: große Defence-Tech-Runde bei TEKEVER, mehrere Finanzierungen in Biotech und Energie und Sequoias Rückzug aus London als Gesprächsthema.",
-  "top": [
-    {
-      "title": "TEKEVER sammelt 520 Millionen Euro ein",
-      "text": "Das portugiesische Rüstungstechnik-Start-up (Defence Tech) hat in einer Series-D-Runde 520 Millionen Euro eingesammelt, bewertet mit 5,7 Milliarden Euro. Aus dem dänischen Staatsfonds EIFO kommen 13 Millionen. Das Geld soll die Expansion in Nordeuropa stützen.",
-      "source": "EU-Startups",
-      "category": "Finanzierungen",
-      "url": "https://www.eu-startups.com/2026/11/defencetech-unicorn-tekever-strengthens-nordic-ambitions-amid-e520-million-funding-round/"
-    },
-    {
-      "title": "Sequoia verlässt London – ein Warnsignal für Europa?",
-      "text": "Der Wagniskapitalgeber Sequoia Capital zieht sich aus London zurück. Sifted fragt, ob Europa sich Sorgen machen muss, und ordnet ein, was der Schritt für die europäische Start-up-Szene bedeutet. Mehr als die Überschriften waren im Feed nicht lesbar.",
-      "source": "Sifted",
-      "category": "Europa & Welt",
-      "url": "https://sifted.eu/articles/sequoia-is-leaving-london-should-europe-be-worried/"
-    },
-    {
-      "title": "Alethio Therapeutics: 80 Millionen Euro für Blutkrebs-Therapien",
-      "text": "Das Oxford-Ausgründungsunternehmen Alethio hat eine überzeichnete Series-A-Runde über 80,46 Millionen Euro abgeschlossen. Es entwickelt gezielte Therapien gegen bestimmte Blutkrebsformen (MPN).",
-      "source": "EU-Startups",
-      "category": "Deep Tech & Forschung",
-      "url": "https://www.eu-startups.com/2026/11/oxford-spin-out-alethio-therapeutics-raises-e80-46-million-series-a-to-advance-targeted-blood-cancer-therapies/"
-    }
-  ],
-  "entries": [
-    {
-      "title": "Candi Solar sichert 44 Millionen Euro für Solarprojekte in Indien",
-      "summary": "Das Schweizer Unternehmen finanziert damit Dach- und Freiflächenanlagen, kombiniert mit Batteriespeichern. Eine neue Eigenkapitalrunde steht bevor.",
-      "source": "EU-Startups",
-      "category": "Finanzierungen",
-      "url": "https://www.eu-startups.com/2026/11/with-a-new-equity-round-in-sight-candi-solar-secures-e44-million-for-solar-projects-in-india/"
-    },
-    {
-      "title": "Vensum Power holt 9 Millionen Euro",
-      "summary": "Das Helsinkier Start-up entwickelt softwaregesteuerte Stromwandler. Die Series-A-Runde führte Lifeline Ventures mit an.",
-      "source": "EU-Startups",
-      "category": "Deep Tech & Forschung",
-      "url": "https://www.eu-startups.com/2026/11/helsinkis-vensum-power-secures-e9-million-to-scale-its-software-defined-power-conversion-platform/"
-    },
-    {
-      "title": "Bioliberty: KI-Reha für zu Hause",
-      "summary": "Das Start-up aus Edinburgh und Boston erhält 2,95 Millionen Euro in einer Series-A-Verlängerung. Insgesamt hat es damit 12 Millionen Euro eingesammelt.",
-      "source": "EU-Startups",
-      "category": "Gründungen & Produkte",
-      "url": "https://www.eu-startups.com/2026/11/bioliberty-raises-e2-95-million-to-bring-its-ai-powered-rehabilitation-technology-into-the-home/"
-    },
-    {
-      "title": "AutoStore übernimmt Logiqs",
-      "summary": "Der norwegische Lagerautomatisierer kauft die niederländische Firma für bis zu 30 Millionen Euro.",
-      "source": "EU-Startups",
-      "category": "Exits & Übernahmen",
-      "url": "https://www.eu-startups.com/2026/11/autostore-to-acquire-dutch-warehouse-and-horticulture-automation-firm-logiqs-for-up-to-e30-million/"
-    },
-    {
-      "title": "Novus sammelt Millionen für ein elektrisches Lightbike",
-      "summary": "Laut Business Punk erhält das Start-up Geld für sein elektrisches Leichtfahrzeug. Die Höhe stand im Feed nicht.",
-      "source": "Business Punk",
-      "category": "Finanzierungen",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdXN3elBFOTV3ZVVNU2NpYktJTFRMMko2X3kxdFpOQ2JzSGZ0V3RNMkNtV3Zza2JwQ1QycU4yeFpGMVhsaFpfUk5IRXlwQjFyQmtuSUJ3eTdxUDlLX3RSUmtKbEdWWXBqTkxDVmxnMmF5TkpfOTh1WDl5MFU0bFE4Y29B?oc=5"
-    },
-    {
-      "title": "Die besten DHDL-Deals der 20. Staffel",
-      "summary": "In der Staffel waren 44 Start-ups dabei. Gründerszene zeigt, welche Deals nach der Show tatsächlich zustande kamen.",
-      "source": "Gründerszene",
-      "category": "Gründungen & Produkte",
-      "url": "https://www.businessinsider.de/gruenderszene/dhdl-diese-deals-stachen-in-der-neuesten-staffel-besonders-hervor/"
-    },
-    {
-      "title": "Quanten-Start-ups brauchen mehr als Forschungsgeld",
-      "summary": "Laut McKinsey flossen 2025 rund 11 Milliarden Euro in Quanten-Start-ups, nur 3 Prozent aus öffentlichen Quellen. Ein Gastbeitrag fordert mehr als reine Forschungsförderung.",
-      "source": "EU-Startups",
-      "category": "Förderung & Politik",
-      "url": "https://www.eu-startups.com/2026/11/opinion-europes-quantum-startups-need-more-than-research-funding/"
-    },
-    {
-      "title": "Female Entrepreneurship Week an der Uni Hamburg",
-      "summary": "Die Universität Hamburg veranstaltet eine Woche rund um Gründerinnen.",
-      "source": "Universität Hamburg",
-      "category": "Hamburg & Norddeutschland",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ280ckdQQVpyTXRIazRyTGNBdlZMbl9YcXdnQ1kyTUp5ZGJKaGFaQlV3MG9WaUNhc3BRdlhxVHR2cHpOZG5Kc1ZCQTJvNlBjSFQ2R29GZ0VTZWZaY2N1d3pKWUROa2Y0TTkyNlI0TS1JOEpoTkhkU2hCRFprLU90T3pUSVJWSW5XeGNSampGcjVsRDhj?oc=5"
-    }
-  ]
+ "date":"2026-11-09",
+ "intro":"Nachrichtenarme Woche zum Start: Sequoia zieht sich aus London zurück, und die US-Wahlen könnten die Rahmenbedingungen für KI-Startups verändern.",
+ "rueckblick":"Die Startup-Szene bewegte sich in der vergangenen Woche zwischen Kapitalfragen und KI-Politik. Investoren blicken genauer auf Bewertungen, und in Europa wurden wie jede Woche zahlreiche Finanzierungsrunden gezählt. Für Gründer bleibt wichtig, wie leicht frisches Geld zu bekommen ist.",
+ "top":[
+  {"title":"Sequoia verlässt London: Was das für Europa bedeutet","text":"Sifted analysiert den Rückzug des bekannten Risikokapitalgebers Sequoia aus London. Für europäische Gründer ist das ein Signal, weil sie damit einen prominenten Geldgeber vor Ort verlieren. Wie es mit dem Europa-Geschäft weitergeht, steht in der Analyse.","url":"https://sifted.eu/articles/what-sequoia-london-exit-means-europe/","source":"Sifted","category":"Europa & Welt"},
+  {"title":"US-Wahl: Was die „Blue Wave“ für KI-Startups heißen kann","text":"Die Demokraten haben bei den US-Zwischenwahlen historisch gewonnen. TechCrunch fragt, wie das die KI-Branche verändert. Die Wähler stimmten auch über 41 Maßnahmen zu Rechenzentren ab. Für KI-Gründer können daraus neue Regeln und höhere Hürden beim Bau von Rechenzentren folgen.","url":"https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/","source":"TechCrunch Startups","category":"Förderung & Politik"},
+  {"title":"Verpasster Anthropic-Deal: Aus 500.000 Euro wären 167 Millionen geworden","text":"Business Insider Deutschland rechnet vor, was eine frühe Beteiligung an Anthropic heute wert wäre. Das zeigt, wie stark Frühphaseninvestments in KI im Wert gestiegen sind, aber auch, wie selten solche Treffer sind.","url":"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSUQtWjgyZEcwaDRHR013dHl2Y091SjZUY3Y5X3EwcDFCUlAyTG5uRnFBR044V20yS2lrTVBkSzBwYkt0RzM2MXoyLWk3TFlfS0FOTlpxNlUyRXVjVm5KQ0Zib1RpVHhkMmxHQk1uS0NDUjVRM3JuYmN2ang4dDU1RkFrUVI0a0Zmd1A2SHg2aWdTMzlZU1NweE5ueHBOb0dnVE9OdHZfU0xLenl1Wm91TlowMDVTTVE?oc=5","source":"Business Insider Deutschland","category":"Finanzierungen"}
+ ],
+ "entries":[
+  {"title":"Die 12 gefragtesten Startups aus Onstages W26-Programm","summary":"Sifted stellt zwölf Startups vor, die bei Investoren besonders gefragt sind.","url":"https://sifted.eu/articles/onstage-w26-cohort/","source":"Sifted","category":"Gründungen & Produkte"},
+  {"title":"Wöchentliche Übersicht europäischer Finanzierungsrunden","summary":"EU-Startups fasst die Runden der Woche vom 2. bis 6. November zusammen. Der Text ist nur für zahlende Mitglieder lesbar.","url":"https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-02-nov-06/","source":"EU-Startups","category":"Finanzierungen"},
+  {"title":"70 % der Gründer kämpfen mit der Work-Life-Balance","summary":"Laut einer Auswertung ringt eine deutliche Mehrheit der Gründer um ein ausgewogenes Verhältnis von Arbeit und Privatleben.","url":"https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGU2S0FzM1dWN01XZHVPUERCTlFFT0lKeFNGMGstWTFteWptY0tHY3BWcDIwdFcxNUVmd0hTNk0yT05NSW1WWUlmT1lVSVpMeDlkWHhNLTE0aHBOOGJ6ZjA1ZzNRUjRxQmtmVFZ5NjVweTJabTlPa3VHSFFITDZMeHVqc0xpRURGYWUtc2tEY1ZhRUxRakYwRk1GU0NLR214VnVGZg?oc=5","source":"deutsche-startups.de","category":"Gründungen & Produkte"}
+ ]
 }
