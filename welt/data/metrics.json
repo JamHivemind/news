@@ -256,6 +256,10 @@
    [
     "2026-11-06",
     98.32
+   ],
+   [
+    "2026-11-09",
+    97.64
    ]
   ],
   "GC=F": [
@@ -514,6 +518,10 @@
    [
     "2026-11-06",
     4074.9
+   ],
+   [
+    "2026-11-09",
+    4135.9
    ]
   ],
   "^GDAXI": [
@@ -955,14 +963,6 @@
    "lon": -178.7145,
    "lat": -21.1984,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r"
-  },
-  {
-   "mag": 6,
-   "place": "165 km NW of Port-Olry, Vanuatu",
-   "time": "2026-11-01T11:47:03.778Z",
-   "lon": 165.8242,
-   "lat": -14.1689,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl"
   }
  ],
  "gdacs": [
@@ -989,19 +989,7 @@
    "lon": 81.8,
    "lat": 16.4,
    "url": "https://www.gdacs.org/report.aspx?eventid=1001345&episodeid=10&eventtype=TC"
-  },
-  {
-   "type": "TC",
-   "art": "Wirbelsturm",
-   "level": "Red",
-   "name": "Tropical Cyclone CHAMPI-26",
-   "country": "Philippines, Guam, Northern Mariana Islands",
-   "from": "2026-10-14",
-   "to": "2026-10-25",
-   "lon": 127.4,
-   "lat": 31.2,
-   "url": "https://www.gdacs.org/report.aspx?eventid=1001338&episodeid=46&eventtype=TC"
   }
  ],
- "updated": "2026-11-08T09:56:14.171Z"
+ "updated": "2026-11-09T02:31:30.002Z"
 }
