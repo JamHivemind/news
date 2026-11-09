@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-09T08:44:26.414Z",
+ "fetched": "2026-11-09T10:09:36.676Z",
  "hours": 80,
  "sources": [
   {
@@ -13,13 +13,6 @@
    "focus": "Ersatzweg, falls der direkte Feed ausfällt (sperrt GitHub-Server). Doppelte nur einmal nehmen.",
    "ok": true,
    "items": [
-    {
-     "title": "+++ Exit-Illusion +++ GoStudent +++ Sequoia Capital +++ Langdock +++ Vaeridion +++ Pliant +++ - deutsche-startups.de",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTZFZDkxbzhIcGNZckFZQ2xYM2Y2VXNGd01vT0NJRHpqNzZpbWRhRm1Cb0lYcFJXTmlJaHB5WG82TGlTc0dkbWpxY1I4WHp0aWZtYXhwSl9Tb1NUWmVRc2pBQnNCNF91QjdjMnp2VHd2SGhTUVY4aUxBeHl2Z181R2s2WW5zcWx2TDA5Rml2R000aXdzVjhtcW50X3NybFRNYkZ4U3hMeHNSRkhVUEdB?oc=5",
-     "date": "2026-11-06T06:57:49.000Z",
-     "text": "+++ Exit-Illusion +++ GoStudent +++ Sequoia Capital +++ Langdock +++ Vaeridion +++ Pliant +++ deutsche-startups.de",
-     "via": "deutsche-startups.de"
-    },
     {
      "title": "+++ Formove +++ Venture Capital +++ Xentral +++ Halbleiter-Boom +++ living brain +++ - deutsche-startups.de",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWFXY2dhNVRIaFd1MGk0NkJteFo2NXVYWnl2TEJkMFBZNmRybldVU2lhLUNkWlRqWlhXYkkyQUFOWHJxQWhnNDdwYzhvaDNCSU1vazV0UW1VbXJyWUJabFB0cHo0MkRjZ3F4NU05Qmw1T3dsVkFmNDFkcUpNTTZLazdPcWl4YkVJdDgtQ0NDZDZ2bVJvbDZra1JHRUVGakFYb1o5Tnp6Q0I?oc=5",
@@ -38,9 +31,39 @@
   },
   {
    "name": "Gründerszene",
-   "ok": false,
-   "error": "HTTP 403",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "10 Geschwister, kein Studium: Wie David Reger Deutschlands Roboter-König wurde",
+     "url": "https://www.businessinsider.de/gruenderszene/10-geschwister-kein-studium-so-wurde-david-reger-deutschlands-roboter-koenig/",
+     "date": "2026-11-09T08:48:57.000Z",
+     "text": "Modellbauer David Reger verfolgt ein Ziel: Robotik soll für Deutschland so bedeutend werden wie einst die Autoindustrie. Wir haben ihn getroffen."
+    },
+    {
+     "title": "„Keine Entscheidung gegen Max“: Warum der Finn-Gründer nur vier Monate nach dem Unicorn-Status als CEO gehen musste",
+     "url": "https://www.businessinsider.de/gruenderszene/finn-gruender-warum-er-4-monate-nach-dem-unicorn-status-gehen-musste/",
+     "date": "2026-11-09T07:34:17.000Z",
+     "text": "Trotz Einhorn-Status musste Maximilian Wühr seinen Posten als Finn-Chef abgeben. Gründerszene kennt die Hintergründe."
+    },
+    {
+     "title": "Aus 500.000 Euro hätten 167 Millionen werden können – doch dieser deutsche Investor ließ Anthropic sausen",
+     "url": "https://www.businessinsider.de/gruenderszene/anthropic-deal-verpasst-aus-500-000-euro-waeren-167-millionen-geworden/",
+     "date": "2026-11-06T14:41:58.000Z",
+     "text": "Für 500.000 Euro hätte ein deutscher Investor früh bei Anthropic einsteigen können. Warum er damals Nein sagte – und was er daraus gelernt hat."
+    },
+    {
+     "title": "Ehepaar gründet mit Freunden eine Bagel-Kette – und will jetzt 50 Stores eröffnen",
+     "url": "https://www.businessinsider.de/gruenderszene/ehepaar-gruendet-mit-freunden-eine-bagel-kette-und-will-jetzt-50-stores-eroeffnen/",
+     "date": "2026-11-06T08:15:31.000Z",
+     "text": "Pia und René Westphal haben gemeinsam mit zwei Freunden die New York Bagel Bar gegründet. In den nächsten fünf Jahren wollen sie 50 Läden eröffnen."
+    },
+    {
+     "title": "Das waren die besten DHDL-Deals der neusten Staffel",
+     "url": "https://www.businessinsider.de/gruenderszene/dhdl-diese-deals-stachen-in-der-neuesten-staffel-besonders-hervor/",
+     "date": "2026-11-06T07:31:19.000Z",
+     "text": "In der 20. Staffel von „Die Höhle der Löwen“ waren 44 Startups am Start. Diese DHDL-Deals haben nach der Show tatsächlich stattgefunden."
+    }
+   ]
   },
   {
    "name": "EU-Startups",
@@ -52,6 +75,12 @@
    "name": "Sifted",
    "ok": true,
    "items": [
+    {
+     "title": "The realities of scaling AI agents: ‘You don't have an AI problem, you have a content problem’",
+     "url": "https://sifted.eu/articles/the-realities-of-scaling-ai-agents-brnd/",
+     "date": "2026-11-09T09:23:09.000Z",
+     "text": ""
+    },
     {
      "title": "The winners and losers of Europe's fintech growth funding drought",
      "url": "https://sifted.eu/articles/fintech-growth-drought/",
@@ -122,13 +151,6 @@
      "via": "Universität Hamburg"
     },
     {
-     "title": "Mit KIMMA ohne Reue Musik in Kitas streamen - Hamburg Startups",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmFfUElJeEt4S2JYMW0xMWRqY3NkbU1mQXZRdWo0aDA1aWJxcGlOb3ExLUUzbVU2T0JqeE5vLUE4YmJDa3NIMUtwMW9TOEZ0aWs3UGw4RS1oVnNCb1FJeTRoRFVXRUtBTGpVNEJ3dFI0U2h2dTZtUl90TDByZW1qVldqYw?oc=5",
-     "date": "2026-11-09T07:46:00.000Z",
-     "text": "Mit KIMMA ohne Reue Musik in Kitas streamen Hamburg Startups",
-     "via": "Hamburg Startups"
-    },
-    {
      "title": "Female Entrepreneurship Week 2026 : UHH - Universität Hamburg",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ280ckdQQVpyTXRIazRyTGNBdlZMbl9YcXdnQ1kyTUp5ZGJKaGFaQlV3MG9WaUNhc3BRdlhxVHR2cHpOZG5Kc1ZCQTJvNlBjSFQ2R29GZ0VTZWZaY2N1d3pKWUROa2Y0TTkyNlI0TS1JOEpoTkhkU2hCRFprLU90T3pUSVJWSW5XeGNSampGcjVsRDhj?oc=5",
      "date": "2026-11-06T16:57:46.000Z",
@@ -141,13 +163,6 @@
      "date": "2026-11-05T16:30:00.000Z",
      "text": "Hamburg: Ärger um E-Audi: Miniatur-Wunderland-Gründer fährt Auto, das hier niemand kaufen darf OZ online",
      "via": "OZ online"
-    },
-    {
-     "title": "Dieser China-Audi kostet in Hamburg plötzlich mehr als doppelt so viel - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUkhKMVEyNEtPeVVSUzBOb0pKeXdRZG5WaFhUNDN2X3YyZE1DSm1pdU81WnJGVFlJbWlyeUxEY3o3alE2bEJmQ3NSbEJVTXNIZ0Uxalpic3lMcnp6eEw5RGdFeWd5aVQ4ZUo4dUN3QWNtbUU2X3dpN0pMcWxyM2xsNzNsNXpWQmc4X2s2RGhoNXVwbDg4aE9XODROUHZQUGdibjRORg?oc=5",
-     "date": "2026-11-05T12:00:00.000Z",
-     "text": "Dieser China-Audi kostet in Hamburg plötzlich mehr als doppelt so viel MOPO",
-     "via": "MOPO"
     }
    ]
   },
@@ -162,6 +177,20 @@
      "date": "2026-11-09T08:25:42.000Z",
      "text": "Onodrim Industries erhält 300 Millionen Dollar und steigt zum Unicorn auf Startbase",
      "via": "Startbase"
+    },
+    {
+     "title": "Vaeridion bekommt 124 Mio. Euro für ein Elektroflugzeug mit neun Sitzen - Trending Topics",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQUQ2VnVISnNfc3huRU9RelctU1NsaTd0U1oxUXJaZmpUd1RVNFBtTC1YYUN6NDhXeGtJbkdfSUFsak9Zanp3Q3B3bVVxU21sTWFTZUQ5YlFYQnVOZ2JLVDU1YXl1Mzg0a0Q1RVNfU2ZhTFBVSGRiMHJyNTFsbmh5TjBtUXA3cENsdC1FTHE1TQ?oc=5",
+     "date": "2026-11-09T09:21:39.000Z",
+     "text": "Vaeridion bekommt 124 Mio. Euro für ein Elektroflugzeug mit neun Sitzen Trending Topics",
+     "via": "Trending Topics"
+    },
+    {
+     "title": "SolidUltra sichert sich 3 Millionen Euro für modulare Leistungstransformatoren für KI-Rechenzentren - Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYU1KNmQ1bnRZNzFZdThlZ3lxMGs1NXJzQmxFRHYzc2dMOEtwZktaTDRXd1EwdUhLZTNkNjVBYVN0RTc1enV0OVQtM0VQVm82VHNxOUFiUDVQdllFbWhiVjdNaDMzMjZHSFFXQXFYd1ozZk1taE1ZdDloN3FBLUp0QW5RVHdoR1E1RjNGLVZ3TnYtUQ?oc=5",
+     "date": "2026-11-09T05:00:00.000Z",
+     "text": "SolidUltra sichert sich 3 Millionen Euro für modulare Leistungstransformatoren für KI-Rechenzentren Unite.AI",
+     "via": "Unite.AI"
     },
     {
      "title": "Startup Novus: Kampfansage an die Autogiganten NOVUS: Millionen für das elektrische Lightbike - Business Punk",
