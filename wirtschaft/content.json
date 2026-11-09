@@ -1,92 +1,26 @@
 {
-  "date": "2026-11-08",
-  "intro": "Der weltweite Kursrutsch bei Chip- und Tech-Aktien belastet die Börsen, während die deutsche Industrie im September überraschend mehr produziert hat.",
-  "top": [
-    {
-      "title": "Chipaktien weltweit im freien Fall",
-      "text": "Ein globaler Abverkauf bei Chip- und Techaktien hat wichtige Börsenindizes nach unten gezogen. In Seoul wurde der Handel zeitweise ausgesetzt, in den USA war es laut tagesschau der schlimmste Einbruch seit 2020. Auslöser sind Zweifel, ob sich die hohen Investitionen in Künstliche Intelligenz auszahlen. Wer breit gestreute Fonds besitzt, spürt das, weil Tech-Firmen dort stark gewichtet sind.",
-      "source": "tagesschau Wirtschaft",
-      "category": "Börse & Märkte",
-      "url": "https://www.tagesschau.de/wirtschaft/boerse/tech-einbruch-ki-100.html"
-    },
-    {
-      "title": "Industrie in Deutschland produziert im September überraschend mehr",
-      "text": "Die Industrieproduktion ist im September überraschend stark gewachsen. Experten warnen allerdings vor überzogenen Erwartungen: Ein einzelner Monat macht noch keine Trendwende. Für Beschäftigte in der Industrie ist es ein vorsichtig gutes Signal.",
-      "source": "Spiegel Wirtschaft",
-      "category": "Konjunktur",
-      "url": "https://www.spiegel.de/wirtschaft/konjunktur-industrieproduktion-in-deutschland-waechst-im-september-ueberraschend-a-8d411263-f61e-4531-84b8-20b764fe2ec3#ref=rss"
-    },
-    {
-      "title": "Millionen junge Erwachsene ohne Berufsabschluss",
-      "text": "Die Zahl junger Menschen ohne Berufsausbildung in Deutschland ist laut tagesschau alarmierend hoch. Sie haben schlechtere Chancen am Jobmarkt und verdienen weniger. Gleichzeitig suchen viele Firmen Fachkräfte.",
-      "source": "tagesschau Wirtschaft",
-      "category": "Arbeit & Soziales",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/junge-menschen-keine-berufsausbildung-100.html"
-    }
-  ],
-  "entries": [
-    {
-      "title": "Beben an der Wall Street: Ist das der KI-Crash?",
-      "summary": "Nach dem Sieg der Demokraten bei den US-Zwischenwahlen brechen KI- und Chipwerte ein und ziehen die Weltbörsen ins Minus. Der Spiegel erklärt, was das für einen MSCI-World-ETF bedeutet.",
-      "source": "Spiegel Wirtschaft",
-      "category": "Börse & Märkte",
-      "url": "https://www.spiegel.de/wirtschaft/service/boerse-beben-an-der-wall-street-ist-das-jetzt-der-ki-crash-a-0317ec61-e5b3-4fcc-8613-ec7f576866ae#ref=rss"
-    },
-    {
-      "title": "Tesla will Cybertruck-Produktion in Texas beenden",
-      "summary": "Der Elektro-Pickup blieb hinter den Erwartungen zurück. Elon Musk will im Werk Platz für ein anderes Produkt schaffen.",
-      "source": "tagesschau Wirtschaft",
-      "category": "Unternehmen",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html"
-    },
-    {
-      "title": "Rechenzentren verschweigen oft ihren Strom- und Wasserverbrauch",
-      "summary": "Betreiber müssen ihren Verbrauch gesetzlich veröffentlichen. Anfragen des SWR an über 30 Firmen zeigen, dass viele es damit nicht genau nehmen.",
-      "source": "tagesschau Wirtschaft",
-      "category": "Energie",
-      "url": "https://www.tagesschau.de/investigativ/swr/rechenzentren-transparenz-wasserverbrauch-stromverbrauch-100.html"
-    },
-    {
-      "title": "SPD plant Eisenbahn-Fonds nach österreichischem Vorbild",
-      "summary": "Ein Sondervermögen soll die langfristige Finanzierung des deutschen Bahnnetzes sichern. Die SPD-Fraktion legt dazu Pläne vor.",
-      "source": "Spiegel Wirtschaft",
-      "category": "Politik & Handel",
-      "url": "https://www.spiegel.de/wirtschaft/service/deutsche-bahn-spd-plant-eisenbahn-fonds-wie-in-oesterreich-a-31e85ae9-3305-4023-a9dc-84671fd009b2#ref=rss"
-    },
-    {
-      "title": "Online-Betrug trifft jeden Neunten",
-      "summary": "Der Spiegel schildert, wie eine Werbeanzeige auf Facebook zum Betrugsfall wurde, und ordnet ein, wie verbreitet Internetbetrug inzwischen ist.",
-      "source": "Spiegel Wirtschaft",
-      "category": "Arbeit & Soziales",
-      "url": "https://www.spiegel.de/wirtschaft/service/online-betrug-jeder-neunte-betroffen-ein-fall-zeigt-die-neue-dimension-a-43ec84c1-0400-4864-9027-4d18cfb7f594#ref=rss"
-    },
-    {
-      "title": "Mercedes gibt eigenes Schnellladenetz weitgehend auf",
-      "summary": "Der Autobauer verkauft sein selbst aufgebautes Netz an Electra, statt weiter allein zu investieren.",
-      "source": "FAZ Wirtschaft",
-      "category": "Unternehmen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-verkauft-ladeparks-in-europa-an-electra-accg-201658444.html"
-    },
-    {
-      "title": "Chemiechefs fordern Nachbesserungen beim Emissionshandel",
-      "summary": "Die Chefs von BASF und Covestro schreiben dem Kanzler, die Abwanderung der Industrie müsse gestoppt werden. Sie wollen Änderungen beim Handel mit CO2-Zertifikaten.",
-      "source": "FAZ Wirtschaft",
-      "category": "Energie",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/emissionshandel-chemieindustrie-ruft-nach-dem-kanzler-accg-201659408.html"
-    },
-    {
-      "title": "Crédit Agricole kauft die deutsche IKB",
-      "summary": "Die französische Großbank übernimmt die IKB. Die FAZ ordnet ein, warum Anleger französische Bankaktien derzeit meiden.",
-      "source": "FAZ Wirtschaft",
-      "category": "Unternehmen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/franzoesische-bankaktien-unter-druck-warum-anleger-credit-agricole-meiden-accg-201647826.html"
-    },
-    {
-      "title": "Berkshire Hathaway: Gewinn sinkt, Aktie steigt",
-      "summary": "Der Konzern kaufte im dritten Quartal eigene Aktien für 9,6 Milliarden Dollar. Nachfolger Greg Abel profitiert auch von der KI-Angst an der Wall Street.",
-      "source": "Handelsblatt",
-      "category": "Unternehmen",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/quartalszahlen-berkshire-meldet-gewinnrueckgang-doch-die-aktie-profitiert/100268115.html"
-    }
-  ]
+ "date":"2026-11-09",
+ "intro":"Nach den US-Zwischenwahlen sind Tech-Aktien weltweit unter Druck, weil Anleger mehr Regulierung für KI fürchten. In Deutschland überrascht dagegen die Industrie mit einem Plus.",
+ "rueckblick":"Die vergangene Woche war von der Börse und von Politik bestimmt: Zweifel am KI-Geschäft belasteten Tech- und Chipwerte, in den USA stellten die Wahlen den Kurs des Präsidenten infrage. In Deutschland ging es um Tarifstreit, Rente und Energie. Für Berufstätige sind besonders die Lohnrunde der Metallbranche und die steigenden Preise für Elektronik spürbar.",
+ "top":[
+  {"title":"Tech-Aktien brechen nach US-Wahlen ein","text":"Nach den Siegen der Demokraten bei den US-Zwischenwahlen müssen sich KI-Konzerne auf mehr politischen Gegenwind einstellen. Anleger verkaufen deshalb Tech-Werte, die Welle erfasste auch Europa und Asien. Zu Wochenbeginn starteten die Börsen in Ostasien allerdings mit Gewinnen. Wer Aktien oder Fonds mit vielen Tech-Werten hält, muss mit stärkeren Schwankungen rechnen.","url":"https://www.spiegel.de/wirtschaft/unternehmen/midterms-siege-der-demokraten-furcht-vor-ki-regulierung-laesst-us-tech-aktien-einbrechen-a-c9e7a367-2287-429f-95d3-b3651ecdbb04#ref=rss","source":"Spiegel Wirtschaft","category":"Börse & Märkte"},
+  {"title":"Industrieproduktion wächst im September überraschend","text":"Die deutsche Industrie hat im September mehr produziert als erwartet. Mehrere Zeitungen melden das übereinstimmend. Das ist ein gutes Zeichen für die Konjunktur. Ob daraus ein Trend wird, zeigen erst die nächsten Monate.","url":"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdVgyUEhvNzhnU3c3UUtEejk1VGdWM0pBRldIVWloSWtqQ3FoYVpGeTIxLUkzazgxUXphS0FMY0lHQ0pFTlVaQ3NJUUNRLUtiSUtVbzhuRmVsNkFWTDFzWmhuNlVrb3NoME9OZlhhMkN3ZUl6NWt3ZEs0b0tWUzRWREQ4ekZMYWViVkFMeTJlRmlGNDF1WDNwclVFbEtLRGJKNU1rVzNQNm1HQU5qUVdBTXg4Vy1tZU5SWEhPMlhtTmxyS2F5QTNPRmdpUDRWWWQxd2twY0hKYmVrUlM0WDRWRG5sZ2RMQy1L?oc=5","source":"Spiegel","category":"Konjunktur"},
+  {"title":"Tarifstreit der Metaller geht in kritische Phase","text":"Die IG Metall hat das Lohnangebot der Arbeitgeber empört zurückgewiesen. Kurz darauf brachte sie eigene Lösungsvorschläge ein. Für Beschäftigte der Metall- und Elektroindustrie geht es um ihr Gehalt in den kommenden Monaten.","url":"https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ig-metall-vorentscheidung-im-tarifstreit-faellt-in-duesseldorf-201663094.html","source":"FAZ Wirtschaft","category":"Arbeit & Soziales","tipp":"Beschäftigte in der Metallbranche sollten die Verhandlungen verfolgen und bei Fragen zur Lohnerhöhung ihren Betriebsrat oder die Gewerkschaft ansprechen."}
+ ],
+ "entries":[
+  {"title":"Zweifel am KI-Geschäft belasten die Branche","summary":"Der weltweite Kursrutsch bei Tech- und Chipwerten schürt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Zugleich wächst die Unruhe vor einem geplanten Börsengang.","url":"https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html","source":"tagesschau Wirtschaft","category":"Börse & Märkte"},
+  {"title":"Aktienhandel rund um die Uhr","summary":"Die Deutsche Börse ermöglicht ab sofort den Handel mit DAX-Werten auch nachts und am Wochenende. Laut tagesschau gibt es dafür noch eine wichtige Hürde.","url":"https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html","source":"tagesschau Wirtschaft","category":"Börse & Märkte"},
+  {"title":"Viele Gebäude ohne Elementarschadenversicherung","summary":"Starkregen und Überschwemmungen verursachen immer häufiger teure Schäden. Nur gut die Hälfte der Gebäude in Deutschland ist dagegen versichert.","url":"https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html","source":"tagesschau Wirtschaft","category":"Unternehmen","tipp":"Prüfen, ob die eigene Gebäudeversicherung Schäden durch Starkregen und Hochwasser (Elementarschäden) abdeckt."},
+  {"title":"Bahnstrecke Berlin–Hannover: Probleme für Pendler","summary":"Die Generalsanierung bringt erwartbar Verspätungen. Nun zeigt sich, dass auch die Pünktlichkeit auf der Ausweichstrecke leidet.","url":"https://www.tagesschau.de/wirtschaft/verbraucher/bahn-berlin-hannover-bauarbeiten-pendler-100.html","source":"tagesschau Wirtschaft","category":"Unternehmen"},
+  {"title":"Audi erwägt größeres Werk in Georgia","summary":"Während in Deutschland eine Werkschließung droht, prüft Audi in den USA eine milliardenschwere Erweiterung der Neubaupläne.","url":"https://www.spiegel.de/wirtschaft/audi-will-geplantes-werk-in-georgia-offenbar-noch-vergroessern-a-c0397e01-6083-4731-91a4-be07bd6714ce#ref=rss","source":"Spiegel Wirtschaft","category":"Unternehmen"},
+  {"title":"VW muss Ex-Manager rund 300.000 Euro nachzahlen","summary":"Volkswagen hatte den Manager entlassen, weil er interne Unterlagen weitergegeben haben soll. Er klagte erfolgreich.","url":"https://www.spiegel.de/wirtschaft/unternehmen/braunschweig-vw-muss-ex-manager-rund-300-000-euro-nachzahlen-a-dc3eb412-a0e6-46c0-9f23-38516e88ccb1#ref=rss","source":"Spiegel Wirtschaft","category":"Unternehmen"},
+  {"title":"„Rente ab 63“: Sozialpartner bewegen sich","summary":"Die Gewerkschaft IG BCE lehnt eine Beschränkung der abschlagsfreien Frührente nicht mehr kategorisch ab. Sie macht gemeinsam mit den Arbeitgebern einen eigenen Vorschlag.","url":"https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/rentenreform-ig-bce-signalisiert-kompromissbereitschaft-bei-rente-ab-63-accg-201662599.html","source":"FAZ Wirtschaft","category":"Arbeit & Soziales"},
+  {"title":"Bessere Regeln für neue Gaskraftwerke","summary":"Nach Kritik an der ersten Ausschreibung, bei der auch Kohlestandorte zum Zuge kamen, sollen jetzt echte Neuinvestitionen im Vordergrund stehen. Die Kraftwerke sollen Flauten bei Wind und Sonne abdecken.","url":"https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/katherina-reiche-verschaerft-kriterien-fuer-gaskraftwerk-ausschreibung-accg-201663255.html","source":"FAZ Wirtschaft","category":"Energie"},
+  {"title":"KI-Chips verteuern Elektronik zu Weihnachten","summary":"Gedrosselte Produktion trifft auf den KI-Boom, Speicherchips werden knapp und teuer. Laptops, Handys und andere Geräte werden teurer.","url":"https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/vor-weihnachten-ki-chips-verteuern-elektronik-deutlich-accg-201662259.html","source":"FAZ Wirtschaft","category":"Konjunktur","tipp":"Wer ein Gerät kaufen will, sollte Preise vergleichen und nicht zu lange warten."},
+  {"title":"Zigaretten aus dem EU-Ausland: Freimenge könnte sinken","summary":"Wer hinter der Grenze Tabak kauft, dürfte künftig deutlich weniger mitbringen. Die Änderung ist noch nicht beschlossen.","url":"https://www.handelsblatt.com/politik/deutschland/tabakwaren-zigaretten-freimenge-aus-eu-ausland-koennte-deutlich-sinken/100268307.html","source":"Handelsblatt","category":"Politik & Handel"},
+  {"title":"Klaus Müller soll Bundesnetzagentur weiter leiten","summary":"Der Beirat will ihn am 23. November wählen, die Zustimmung der Bundesregierung gilt als sicher. Die Behörde überwacht unter anderem den Strom- und Gasmarkt.","url":"https://www.handelsblatt.com/politik/deutschland/regulierung-klaus-mueller-soll-bundesnetzagentur-auch-kuenftig-fuehren/100267984.html","source":"Handelsblatt","category":"Energie"},
+  {"title":"ABB und Softbank prüfen Abspaltung des China-Geschäfts","summary":"China hat den Verkauf der ABB-Robotiksparte an Softbank untersagt. Nun prüfen beide Konzerne laut Bloomberg, das China-Geschäft herauszulösen.","url":"https://www.handelsblatt.com/unternehmen/industrie/robotik-abb-und-softbank-erwaegen-fuer-robotik-abspaltung-des-china-geschaefts/100268252.html","source":"Handelsblatt","category":"Politik & Handel"},
+  {"title":"Firmen in Deutschland kürzen Forschungsausgaben","summary":"Eine Studie zeigt, dass Unternehmen weniger in Forschung und Entwicklung investieren.","url":"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzhqdGxXOVl5cDMwaDI2TE82SEx4UDNqSmUxWWExcFdJYVo5aVozSkdvLWdfSUxrVHhiNzlNQXhBbi1KbU9lX2ZKNmtaQXZ6dDJuT3p0ejdaTWNIaU5zbFRFY1M4S2NfckpCdk8teXlRamlGTXVndFg2cW5xcURQUXB2Ml9hYVZDekwzMXpsZzJyZ3VGTmVJNFVuSFByal82U3pJRnZUMmRJcGZ4aktHeElFcEpnNDR6SEtrUWtTUGVQRU1ORkhxTHNiM3VRd2VHaFE?oc=5","source":"Mittelstand Nachrichten","category":"Unternehmen"},
+  {"title":"Mäc Geiz: Etwa 60 Filialen schließen","summary":"123 Filialen der Drogeriekette bleiben erhalten.","url":"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM0xicFh4WHpsdV9Hc3dKZllXcEFiRHFrUk1xVGx6LXVvV3E1OHJIYlo4RnByRUpnLVVXTWJXal9hZzFXQm1JRXRNN09xT09OU1NtVWRMbjRMZW45S0lnMXVWem5YWnNiVXhxYlpxcm9WQkZwTEFhakdCa1JjOXBpQVowUGxLYTFZeG1OYVRYa1BaWDhFV0k0TTBJeHRPSXNNSktPUFZ5azMwcGJCSXlKTUtMdUx3QmUzUW04RlZtUGVNSU1May1mQg?oc=5","source":"Allgemeine Zeitung","category":"Unternehmen"}
+ ]
 }
