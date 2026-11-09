@@ -1,289 +1,33 @@
 {
-  "date": "2026-11-08",
-  "intro": "Im Persischen Golf brennen zwei Öltanker nach Minentreffern, in Krakau hat ein Schütze sechs Menschen getötet, und in Israel beginnt die Suche nach einer neuen Regierung ohne Netanjahu an der Spitze.",
-  "regionen": {
-    "Europa": "Krakau steht nach den tödlichen Schüssen unter Schock, Frankreich erlebt das vierte Protestwochenende in Folge, und Russland greift in der Ukraine wieder Strom und Wasser an.",
-    "Nahost": "In der Straße von Hormus brennen zwei Tanker, in Israel soll Eisenkot eine Regierung bilden, und im Jemen gibt es neue Luftangriffe.",
-    "Asien": "Ein Erdbeben in Zentraljapan verletzt mindestens 22 Menschen, Delhi hat vor Diwali die schlechteste Luft aller großen Städte.",
-    "Amerika": "Nach der Wahlniederlage der Republikaner macht Trump den Hardliner Stephen Miller zum Stabschef; in Paraguay steht der abgesetzte Präsident unter Anklage.",
-    "Afrika": "In Südafrika erleidet der ANC bei den Kommunalwahlen eine historische Niederlage."
-  },
-  "top": [
-    {
-      "title": "Zwei Öltanker in der Straße von Hormus brennen",
-      "text": "Nach Angaben Irans sind zwei Öltanker in der Straße von Hormus auf Minen gelaufen und brennen. Laut WELT hatten sie eine „nicht genehmigte Route“ genommen, ein Massengutfrachter geriet in Not. Es gab Zusammenstöße zwischen Schiffen und dem iranischen Militär. Die Meerenge ist einer der wichtigsten Seewege für Öl. Die NZZ berichtet, dass sich die USA und Iran seit Februar 2026 im Kriegszustand befinden.",
-      "source": "WELT",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Straße von Hormus",
-        "lat": 26.57,
-        "lon": 56.25
-      },
-      "hamburg": "Störungen auf diesem Seeweg können Öl- und Spritpreise sowie die Schifffahrt weltweit beeinflussen, auch für den Hamburger Hafen.",
-      "stimmen": [
-        {
-          "source": "FAZ",
-          "richtung": "rechts",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-laut-iran-brennen-zwei-oeltanker-in-der-strasse-von-hormus-faz-200583539.html"
-        },
-        {
-          "source": "NZZ",
-          "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/iran-krieg-jd-vance-soll-mit-iran-chance-auf-verhandlungen-ausloten-kaempfe-in-jemen-vertreiben-immer-mehr-menschen-ld.10021246"
-        }
-      ],
-      "url": "https://www.welt.de/politik/ausland/article6aefa95780d3a1c6aa66ca52/iran-meldet-zwei-oeltanker-laufen-auf-minen-und-brennen-explosionen-in-der-strasse-von-hormus.html"
-    },
-    {
-      "title": "Krakau: Schütze tötet sechs Menschen",
-      "text": "Ein 24-jähriger Pole hat in Krakau aus einem Auto auf Passanten geschossen und sechs Menschen getötet, rund 15 wurden verletzt. Im Haus des Täters fanden Ermittler drei weitere Leichen. Laut dem polnischen Innenminister stand der Mann unter rechtsextremem Einfluss. Die Polizei hat ihn gefasst.",
-      "source": "tagesschau",
-      "category": "Europa",
-      "art": "konflikt",
-      "ort": {
-        "name": "Krakau",
-        "lat": 50.06,
-        "lon": 19.94
-      },
-      "hamburg": "Unter den Verletzten ist laut Spiegel auch eine Person aus Deutschland.",
-      "stimmen": [
-        {
-          "source": "Spiegel",
-          "richtung": "links",
-          "url": "https://www.spiegel.de/ausland/krakau-polen-was-ueber-die-todesschuesse-bekannt-ist-a-6e500316-9e7e-4af2-988a-b86fa65a7801#ref=rss"
-        },
-        {
-          "source": "BBC",
-          "richtung": "mitte",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "NIUS",
-          "richtung": "rechts",
-          "url": "https://nius.de/ausland/polen-schuesse-krakau-tote-verletzte"
-        }
-      ],
-      "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html"
-    },
-    {
-      "title": "Eisenkot soll in Israel die Regierung bilden",
-      "text": "Nach der knappen Wahl hat Präsident Herzog den Oppositionspolitiker Gadi Eisenkot mit der Regierungsbildung beauftragt. Er hat 28 Tage Zeit, eine Koalition zu schmieden. Weder das Lager von Regierungschef Netanjahu noch das seines Rivalen hat eine Mehrheit. Laut WELT könnten ausgerechnet bisherige Verbündete Netanjahus den Ausschlag geben.",
-      "source": "tagesschau",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Jerusalem",
-        "lat": 31.77,
-        "lon": 35.21
-      },
-      "stimmen": [
-        {
-          "source": "Spiegel",
-          "richtung": "links",
-          "url": "https://www.spiegel.de/ausland/israel-netanjahu-rivale-gadi-einsenkot-mit-regierungsbildung-beauftragt-a-309f7855-3a51-4503-a6e8-2ead13f9dfe8#ref=rss"
-        },
-        {
-          "source": "BBC",
-          "richtung": "mitte",
-          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "WELT",
-          "richtung": "rechts",
-          "url": "https://www.welt.de/politik/ausland/article6aef8f989ba8c65625d69f5c/netanjahu-unter-druck-israels-praesident-herzog-beauftragt-oppositionspolitiker-eisenkot-mit-regierungsbildung.html"
-        }
-      ],
-      "url": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html"
-    }
-  ],
-  "entries": [
-    {
-      "title": "Russland greift Kiews Strom und Wasser an",
-      "summary": "Kurz vor dem Winter fielen in Teilen der Ukraine Strom und Wasser aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung. Nächste Woche sind Gespräche in Abu Dhabi geplant.",
-      "source": "tagesschau",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Kiew",
-        "lat": 50.45,
-        "lon": 30.52
-      },
-      "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html"
-    },
-    {
-      "title": "Selenskyj warnt vor „zweitem Jalta“",
-      "summary": "Der ukrainische Präsident fürchtet, dass Russland, China und die USA eine Friedensregelung auf Kosten Europas und der Ukraine vereinbaren.",
-      "source": "Süddeutsche Zeitung",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Kiew",
-        "lat": 50.45,
-        "lon": 30.52
-      },
-      "hamburg": "Europa soll bei Verhandlungen laut Berichten nur am Rande beteiligt werden, was auch deutsche Sicherheitsinteressen berührt.",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-klitschko-li.3571967"
-    },
-    {
-      "title": "US-Militär setzt Handelsschiff im Golf von Oman außer Gefecht",
-      "summary": "Das US-Militär hat auf ein Handelsschiff geschossen und es manövrierunfähig gemacht. Näheres nennt der Bericht nicht.",
-      "source": "Deutschlandfunk",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Golf von Oman",
-        "lat": 24.5,
-        "lon": 58.5
-      },
-      "url": "https://www.deutschlandfunk.de/us-militaer-beschiesst-handelsschiff-104.html"
-    },
-    {
-      "title": "Huthis melden Tote nach Luftangriffen im Jemen",
-      "summary": "Die Huthi-Miliz spricht von 27 Toten und 36 Verletzten in einem Dorf und macht die von Saudi-Arabien geführte Koalition verantwortlich. Die BBC nennt 33 Tote nach Huthi-Angaben. Saudi-Arabien äußert sich nicht.",
-      "source": "Deutschlandfunk",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Jemen",
-        "lat": 15.37,
-        "lon": 44.21
-      },
-      "url": "https://www.deutschlandfunk.de/huthis-melden-27-tote-und-36-verletzte-nach-luftangriffen-auf-dorf-im-jemen-104.html"
-    },
-    {
-      "title": "Trump macht Stephen Miller zum Stabschef",
-      "summary": "Nach der Wahlniederlage der Republikaner ersetzt Trump Stabschefin Susie Wiles durch den Hardliner Miller, den Kopf hinter der strikten Einwanderungspolitik.",
-      "source": "Reuters",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Washington",
-        "lat": 38.9,
-        "lon": -77.04
-      },
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW9VOFJHVC05elRKeHJYaUVfalhSNTJYS0dhNkJobGVIaGU1ZVlLaUNlakI2SURhTHNqc2c2ODFYcWpVaE5uUXpoNEI1d1h3MjFxbTlqNHQwVVJmNEFyUl9uRWktTWdRMGs1Z05GUXRxU2FwVC0wV19JSExCbi1DM1pPNHZVUzFZcVB3ak93TWM4MUk?oc=5"
-    },
-    {
-      "title": "Paraguays Ex-Präsident Peña angeklagt",
-      "summary": "Einen Tag nach seiner Amtsenthebung muss sich Santiago Peña wegen des Bankenskandals verantworten. Die Staatsanwaltschaft fordert U-Haft. Millionen Menschen kamen zeitweise nicht an ihr Geld.",
-      "source": "BBC",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Asunción",
-        "lat": -25.26,
-        "lon": -57.58
-      },
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Vierte Protestwoche in Frankreich, weniger Teilnehmer",
-      "summary": "Gegen hohe Lebenskosten gingen 146.000 Menschen auf die Straße, weniger als eine Woche zuvor. In mehreren Städten kam es wieder zu Ausschreitungen. Am Dienstag sind neue Proteste geplant.",
-      "source": "Deutschlandfunk",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Paris",
-        "lat": 48.86,
-        "lon": 2.35
-      },
-      "url": "https://www.deutschlandfunk.de/frankreich-erneut-ausschreitungen-und-gewalt-bei-protesten-102.html"
-    },
-    {
-      "title": "Knappes Rennen bei der Wahl in Neuseeland",
-      "summary": "Nach Auszählung von 90 Prozent der Stimmen liegen die großen Parteien fast gleichauf. Wochenlange Koalitionsgespräche sind möglich.",
-      "source": "BBC",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Wellington",
-        "lat": -41.29,
-        "lon": 174.78
-      },
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Bombendrohungen gegen Fluglinien und Medien in Europa",
-      "summary": "Flüge wurden umgeleitet, in Irland und Bulgarien stellten Sender kurzzeitig den Betrieb ein. Ein Zusammenhang ist laut BBC nicht belegt.",
-      "source": "BBC",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Irland",
-        "lat": 53.35,
-        "lon": -6.26
-      },
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Erdbeben in Zentraljapan",
-      "summary": "Nach dem Beben gibt es laut Deutschlandfunk mindestens 22 Verletzte. Das Warnsystem GDACS stufte zwei Beben der Stärke 5,5 als grün (geringe Gefahr) ein.",
-      "source": "Deutschlandfunk",
-      "category": "Katastrophen & Klima",
-      "art": "katastrophe",
-      "ort": {
-        "name": "Japan",
-        "lat": 36.2,
-        "lon": 138.25
-      },
-      "url": "https://www.deutschlandfunk.de/erdbeben-in-japan-berichte-ueber-mindestens-22-verletzte-nach-100.html"
-    },
-    {
-      "title": "Delhi hat die schlechteste Luft aller Millionenstädte",
-      "summary": "Vor dem Lichterfest Diwali meldet eine Schweizer Organisation für Delhi die höchste Luftverschmutzung unter den großen Städten der Welt.",
-      "source": "Reuters",
-      "category": "Katastrophen & Klima",
-      "art": "katastrophe",
-      "ort": {
-        "name": "Delhi",
-        "lat": 28.61,
-        "lon": 77.21
-      },
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5"
-    },
-    {
-      "title": "Größter Masernausbruch in den USA seit 1991",
-      "summary": "Die Gesundheitsbehörde CDC zählt dieses Jahr 5.182 Fälle. In Wisconsin starb erstmals seit über 35 Jahren ein Baby an Masern.",
-      "source": "tagesschau",
-      "category": "Katastrophen & Klima",
-      "art": "katastrophe",
-      "ort": {
-        "name": "USA",
-        "lat": 38.9,
-        "lon": -77.04
-      },
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html"
-    },
-    {
-      "title": "Weltweite Lebensmittelpreise sinken im Oktober leicht",
-      "summary": "Reuters meldet einen Rückgang, die Preise liegen aber noch über dem Vorjahr.",
-      "source": "Reuters",
-      "category": "Wirtschaft & Handel",
-      "art": "wirtschaft",
-      "hamburg": "Weltmarktpreise wirken mit Verzögerung auch auf Lebensmittelpreise in Deutschland.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG4zT2RHOEFkTEs3NjhFak40Y0pkaE91RFNlRWJwQzdEVy0yLTlCbkpSUnBhU3Y4MFNPelZ4dEQwbEtiSmZfblNENUduTVBlcHFtVmNxbWlfS2dLSm1hTHJCd2c1bkVPVFZDakhNRlVrYzM4cjdTYVAzVk5Bdmt1ZXpIMHRQbG9HT1NQUVluNmtvTno5ZTZOVm16U2dJdjRPdjRiYU5nZw?oc=5"
-    },
-    {
-      "title": "ANC erleidet historische Niederlage in Südafrika",
-      "summary": "Bei den Kommunalwahlen verliert die Partei von Nelson Mandela weiter an Rückhalt.",
-      "source": "Spiegel",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Pretoria",
-        "lat": -25.75,
-        "lon": 28.19
-      },
-      "url": "https://www.spiegel.de/ausland/suedafrika-anc-erleidet-historische-niederlage-bei-kommunalwahlen-a-0a77243d-6573-4bd6-a37f-fb4a45f06e20#ref=rss"
-    },
-    {
-      "title": "AIDAluna und AIDAnova starten ab Hamburg in die Wintersaison",
-      "summary": "Die beiden Kreuzfahrtschiffe laufen ab Hamburg aus, auch AIDAperla verlässt den Hafen Richtung Karibik.",
-      "source": "Schiffe und Kreuzfahrten",
-      "category": "Hafen & Schifffahrt",
-      "hamburg": "Für den Hamburger Hafen und die Kreuzfahrtbranche beginnt die Wintersaison.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVl9icDZoVExBQ1pTTHhXX2QxVVRVN2U3T3N0Wng3N2hDSmxlZmVRclNld21pVDVxVGQ5cUQ5ZWxsYUlQcHFRckRyajQ2RW80ZmFPaHpnLXNhdkMxbXllRTdkNWF6MzV3SHV1czdsZmdiVnctMWJOTnNpUFhLanAwRXdWc1Q3TlhsUVhSSWRTQXVBa0xCcG53SUFNUnhUckNGZ3FDbUhtU1lFajBOeGhraDhydw?oc=5"
-    }
-  ]
+ "date":"2026-11-09",
+ "intro":"Vor den Ukraine-Gesprächen in Abu Dhabi greift Russland weiter die Energieversorgung an, in den USA beginnt nach der Zwischenwahl die Abrechnung mit Trump, und Polen trauert nach den tödlichen Schüssen von Krakau.",
+ "rueckblick":"Die Woche stand im Zeichen von Krieg und Verhandlungen: Im Golf brannten Öltanker, Trump sprach von einem „großen Deal“ zur Ukraine, während der Kreml bremste. In Paraguay wurde Präsident Peña wegen einer Bankenaffäre abgesetzt. Dazu kamen die US-Zwischenwahlen mit klaren Siegen der Demokraten, die Schüsse von Krakau und Israels Auftrag an Oppositionsführer Eisenkot, eine Regierung zu bilden. Für Hamburg zählen vor allem die Energiepreise und die Sicherheit der Seewege.",
+ "regionen":{
+  "Europa":"Krakau trauert um sechs Todesopfer. Vor den Ukraine-Gesprächen in Abu Dhabi trifft Russland weiter die Energieversorgung der Ukraine. In Frankreich gehen die Proteste weiter.",
+  "Nahost":"Israels Präsident beauftragt Oppositionsführer Eisenkot mit der Regierungsbildung. Die Huthi greifen erneut Riad an, im Gazastreifen versinken Zelte im Regen, und die USA setzen ihre Blockade gegen Iran fort.",
+  "Asien":"Aus Asien gibt es heute nur wenige Meldungen. In Macau wurde ein früherer Abgeordneter zu zwölfeinhalb Jahren Haft verurteilt.",
+  "Amerika":"Nach der Zwischenwahl droht Trump den Demokraten mit Ermittlungen und nennt seine Abschiebepolitik „zu hart“. In Paraguay ist der Präsident abgesetzt worden.",
+  "Afrika":"In Südafrika fährt der ANC bei den Kommunalwahlen sein schlechtestes Ergebnis ein. Vor Senegal kentert ein Migrantenboot mit Dutzenden Toten, und im Sudan sammeln sich Truppen im Westen Äthiopiens."
+ },
+ "top":[
+  {"title":"Ukraine-Gespräche in Abu Dhabi: Europa pocht auf einen Platz","text":"Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden verhandelt werden. Frankreich sagt, Europa sei dort gut vertreten, der Kreml wirft den Europäern vor, sich nicht auf einen Sprecher einigen zu können. Zugleich hat Russland erneut Energieanlagen angegriffen, Hunderttausende Ukrainer sind ohne Strom. US-Präsident Trump stimmt die Ukraine auf Gebietsverluste ein.","url":"https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html","source":"tagesschau","category":"Krieg & Konflikte","art":"konflikt","ort":{"name":"Ukraine","lat":50.45,"lon":30.52},"hamburg":"Bei der ersten Übung der Ukraine-Unterstützer in Polen ist auch die Bundeswehr beteiligt.","stimmen":[{"source":"Süddeutsche Zeitung","richtung":"links","url":"https://www.sueddeutsche.de/politik/treffen-in-abu-dhabi-paris-pocht-auf-europas-beteiligung-an-ukraine-gespraechen-li.3577077"},{"source":"BBC","richtung":"mitte","url":"https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"},{"source":"WELT","richtung":"rechts","url":"https://www.welt.de/politik/ausland/article6af11eef80d3a1c6aa66dbe9/ukraine-krieg-trump-verkuendet-baldiges-kriegsende-und-stellt-ukraine-auf-gebietsabtretungen-ein.html"}]},
+  {"title":"Nach der US-Wahl: Trump droht Demokraten mit Ermittlungen","text":"Die Demokraten haben bei den Zwischenwahlen klar gewonnen. Trump nennt seine Abschiebepolitik nun „zu hart“, will aber zugleich Ermittlungen gegen Demokraten. Im Gegenzug kündigen die Demokraten Untersuchungen im Umfeld des Präsidenten an. Seit Freitag hat Trump mit Stephen Miller einen neuen Stabschef.","url":"https://www.deutschlandfunk.de/trump-abschiebepolitik-war-zu-hart-100.html","source":"Deutschlandfunk","category":"Weltpolitik","art":"politik","ort":{"name":"USA","lat":38.9,"lon":-77.04},"stimmen":[{"source":"taz","richtung":"links","url":"https://taz.de/Politikwissenschaftler-zu-US-Midterms/!6224152/"},{"source":"Reuters","richtung":"mitte","url":"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTdYU2RDRkZwOVM0SXV4d2VCdExubk1wWngyTG5LOFNRVC1MWUU5NnVkS1FseU0zTlhwRXBRdW1OR2haNHNZcFM5cmVzNWI4cEhadmpDVzdVM2h4YmtuTU1TWFdtRTNMbjdnWGRQaGh2QTZrcnd6U0phWENkTVVNbFJUSWhEZXV2WVU4RWMtV0Vwc2dzQy05Ylp1cjFTZkhoZFVtY3pSTms?oc=5"},{"source":"WELT","richtung":"rechts","url":"https://www.welt.de/politik/ausland/article6af0a0a4a389bc337cfca4d7/nach-wahlschlappe-trump-droht-demokraten-mit-ermittlungen-und-spricht-von-riesigem-schritt-zurueck-fuer-amerika.html"}]},
+  {"title":"Krakau: Sechs Tote bei Schüssen auf dem Hauptmarkt","text":"Ein 24-jähriger Pole hat im Zentrum von Krakau aus einem Auto geschossen und sechs Menschen getötet. Die Staatsanwaltschaft ermittelt auch wegen Terrorismusverdachts. In seinem Elternhaus wurden weitere Tote gefunden. Zwei Polizisten stellten den Täter. Polen gilt als eines der sichersten Länder Europas, entsprechend groß ist der Schock.","url":"https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html","source":"tagesschau","category":"Europa","art":"konflikt","ort":{"name":"Krakau, Polen","lat":50.06,"lon":19.94},"stimmen":[{"source":"Spiegel","richtung":"links","url":"https://www.spiegel.de/ausland/krakau-was-ueber-die-todesschuesse-in-polen-bekannt-ist-a-6e500316-9e7e-4af2-988a-b86fa65a7801#ref=rss"},{"source":"BBC","richtung":"mitte","url":"https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss"},{"source":"FAZ","richtung":"rechts","url":"https://www.faz.net/aktuell/politik/ausland/anschlag-in-krakau-erschuettert-polen-und-offenbart-tiefe-spaltung-201663093.html"}]}
+ ],
+ "entries":[
+  {"title":"Trump rechnet derzeit nicht mit neuen Angriffen auf Iran","summary":"Die USA und Iran sind seit Februar im Kriegszustand. Laut NZZ weiten die USA ihre Seeblockade auf Landwege aus. Trump sagt, bei laufenden Gesprächen seien neue Angriffe unwahrscheinlich.","url":"https://www.deutschlandfunk.de/trump-rechnet-aktuell-nicht-mit-neuen-angriffen-auf-iran-106.html","source":"Deutschlandfunk","category":"Krieg & Konflikte","art":"konflikt","ort":{"name":"Iran","lat":35.69,"lon":51.39},"hamburg":"Der Krieg in Nahost hält die Energiepreise hoch, in Berlin wird deshalb über einen Preisdeckel für Kraftstoff gestritten."},
+  {"title":"Huthi greifen erneut Riad an","summary":"BBC-Aufnahmen zeigen Schäden am Aramco-Turm im Zentrum der saudischen Hauptstadt. Saudi-Arabien meldet, es habe zwei Raketen abgewehrt.","url":"https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss","source":"BBC","category":"Krieg & Konflikte","art":"konflikt","ort":{"name":"Riad, Saudi-Arabien","lat":24.71,"lon":46.68}},
+  {"title":"Seemann bei Raketenangriff auf Tanker im Golf getötet","summary":"Bei einem mutmaßlichen Raketenangriff auf einen Tanker im Golf kam ein Besatzungsmitglied ums Leben.","url":"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQlB2Sm9vTXA4Rlp1QWxROTNzaUJ5TG0teEFKRWs1cmY3VFZkZXd6RlVzQmxNTGcxcmwyMG9SOUZlRVdKS0o2V08xbzdaRW5sbGNBTDdpRUduU0xsQUV3czAybnlIU0FPQUs1ZFR1RE41U3BpZXhIeHFYeEI1b2RRamRWQnhpOUVESHM2TENjNS1XUQ?oc=5","source":"Reuters","category":"Hafen & Schifffahrt","art":"konflikt","ort":{"name":"Persischer Golf","lat":26.5,"lon":52.0},"hamburg":"Angriffe auf Schiffe betreffen die Seewege des Welthandels, von dem auch der Hamburger Hafen lebt."},
+  {"title":"Israel: Eisenkot soll Regierung bilden","summary":"Präsident Herzog beauftragt den Rivalen von Netanjahu nach der knappen Wahl. Der Spiegel nennt die Aufgabe fast unlösbar.","url":"https://www.spiegel.de/ausland/israel-gadi-eisenkot-erhaelt-auftrag-zur-regierungsbildung-eine-fast-unloesbare-aufgabe-a-690ef9df-db7a-46cf-9f31-b149c6523e4a#ref=rss","source":"Spiegel","category":"Weltpolitik","art":"politik","ort":{"name":"Jerusalem, Israel","lat":31.77,"lon":35.22}},
+  {"title":"Gazastreifen: Zelte versinken im Regen","summary":"Winterstürme bringen schwere Regenfälle. Vertriebene in Zelten haben kaum Schutz.","url":"https://www.spiegel.de/ausland/gazastreifen-zelte-versinken-im-wasser-vertriebene-ohne-schutz-a-ba82bba1-4889-4798-b986-f87037618676#ref=rss","source":"Spiegel","category":"Katastrophen & Klima","art":"katastrophe","ort":{"name":"Gazastreifen","lat":31.5,"lon":34.47}},
+  {"title":"ANC erleidet historische Niederlage bei Kommunalwahlen","summary":"Die Regierungspartei Südafrikas fährt laut tagesschau das schlechteste Ergebnis ihrer Geschichte ein.","url":"https://www.tagesschau.de/ausland/amerika/wahlen-suedafrika-102.html","source":"tagesschau","category":"Weltpolitik","art":"politik","ort":{"name":"Südafrika","lat":-25.75,"lon":28.19}},
+  {"title":"Bootsunglück vor Senegal: Dutzende Tote","summary":"Vor der Küste Senegals kenterte ein Boot mit Migranten. Die Zahl der bestätigten Toten stieg laut Deutschlandfunk auf mindestens 34.","url":"https://www.deutschlandfunk.de/mindestens-34-migranten-bei-bootsunglueck-vor-der-kueste-des-senegal-gestorben-100.html","source":"Deutschlandfunk","category":"Katastrophen & Klima","art":"katastrophe","ort":{"name":"Senegal","lat":14.69,"lon":-17.45}},
+  {"title":"Paraguay: Präsident Peña abgesetzt","summary":"Der Präsident verlor wegen einer Bankenaffäre sein Amt. Die Staatsanwaltschaft hat Anklage gegen ihn erhoben.","url":"https://www.faz.net/aktuell/politik/ausland/santiago-pena-paraguays-abgesetzter-praesident-festgenommen-201660662.html","source":"FAZ","category":"Weltpolitik","art":"politik","ort":{"name":"Paraguay","lat":-25.26,"lon":-57.58}},
+  {"title":"Papst Leo XIV. mahnt Milei zu mehr Rücksicht auf Schwache","summary":"Zum Auftakt seines Besuchs in Argentinien kritisiert der Papst die Politik des Präsidenten. Milei empfängt ihn herzlich.","url":"https://www.deutschlandfunk.de/papst-mahnt-argentiniens-praesident-milei-zu-sozialer-verantwortung-100.html","source":"Deutschlandfunk","category":"Weltpolitik","art":"politik","ort":{"name":"Buenos Aires, Argentinien","lat":-34.6,"lon":-58.38}},
+  {"title":"Weltklimakonferenz in Antalya beginnt","summary":"Im türkischen Antalya startet die COP31.","url":"https://www.deutschlandfunk.de/weltklimakonferenz-in-antalya-beginnt-100.html","source":"Deutschlandfunk","category":"Katastrophen & Klima","art":"politik","ort":{"name":"Antalya, Türkei","lat":36.9,"lon":30.7}},
+  {"title":"Frankreich: Proteste gehen weiter","summary":"Behörden sprechen von fast 150.000 Demonstranten am Samstag. Es sind die landesweiten Proteste des vierten Wochenendes in Folge.","url":"https://www.spiegel.de/ausland/frankreich-behoerden-sprechen-von-fast-150-000-demonstranten-a-94b546d9-8726-43e2-a6ba-8f3bf5fbda00#ref=rss","source":"Spiegel","category":"Europa","art":"politik","ort":{"name":"Paris, Frankreich","lat":48.86,"lon":2.35}},
+  {"title":"Neuseeland: Wahl ohne klaren Sieger","summary":"Regierungspartei und Labour liegen nahezu gleichauf. Die Regierungsbildung wird schwierig.","url":"https://www.spiegel.de/ausland/neuseeland-regierungspartei-und-labour-liegen-bei-parlamentswahl-nahezu-gleichauf-a-5d58b83d-0fc2-4370-9644-d5ace66c2c3e#ref=rss","source":"Spiegel","category":"Weltpolitik","art":"politik","ort":{"name":"Neuseeland","lat":-41.29,"lon":174.78}},
+  {"title":"Macau: Zwölfeinhalb Jahre Haft für früheren Abgeordneten","summary":"Die FAZ sieht darin den langen Arm Pekings. Betroffen ist der Aktivist Au Kam San.","url":"https://www.faz.net/aktuell/politik/ausland/demokratieaktivist-au-kam-san-in-macau-zu-haftstrafe-verurteilt-accg-201658240.html","source":"FAZ","category":"Weltpolitik","art":"politik","ort":{"name":"Macau","lat":22.2,"lon":113.55}},
+  {"title":"Tui streicht weitere Fahrten der „Mein Schiff 3“","summary":"Das Abendblatt berichtet über neue Absagen von Kreuzfahrten. Gäste reagieren laut Bericht empört.","url":"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFlhcVZCV0NqZ2Z2ZG5lSU5TZjE3TWRzTFZ2Z0dvNEJldWoxWTUteVc4WGRUQ2RTcmdWbkZoR21zTkl0cDJBUzRDRFk3bjhnNmhFMkNxMDFiQTktWFJEcV85RG9wOFNkTmlTQlVnbWZUTE5XazA1UmxvbTIwNnFPTjlULXJKOXJUMWNFWW1hY3BtbzRnSEJ1MjVtQVlYdFNKamxUdQ?oc=5","source":"Hamburger Abendblatt","category":"Hafen & Schifffahrt","art":"wirtschaft"}
+ ]
 }
