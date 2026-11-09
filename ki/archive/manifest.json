@@ -1,6 +1,28 @@
 {
   "briefs": [
     {
+      "date": "2026-11-09",
+      "file": "2026-11-09.html",
+      "headline": "Anthropic kauft Strom für Rechenzentren",
+      "count": 15,
+      "sources": 8,
+      "cats": {
+        "Business & Funding": 3,
+        "Regulierung & Politik": 4,
+        "Claude & Anthropic": 2,
+        "KI im Alltag & Beruf": 2,
+        "Tools & Agenten": 2,
+        "Forschung & Deep Tech": 2
+      },
+      "ents": {
+        "Anthropic": 5,
+        "Nvidia": 1,
+        "OpenAI": 2,
+        "Apple": 1,
+        "Alibaba/Qwen": 1
+      }
+    },
+    {
       "date": "2026-11-08",
       "file": "2026-11-08.html",
       "headline": "Anthropic will noch vor Thanksgiving an die Börse",

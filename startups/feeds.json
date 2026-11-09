@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-09T03:50:25.417Z",
+ "fetched": "2026-11-09T05:17:29.268Z",
  "hours": 80,
  "sources": [
   {
@@ -31,33 +31,9 @@
   },
   {
    "name": "Gründerszene",
-   "ok": true,
-   "items": [
-    {
-     "title": "Aus 500.000 Euro hätten 167 Millionen werden können – doch dieser deutsche Investor ließ Anthropic sausen",
-     "url": "https://www.businessinsider.de/gruenderszene/anthropic-deal-verpasst-aus-500-000-euro-waeren-167-millionen-geworden/",
-     "date": "2026-11-06T14:41:58.000Z",
-     "text": "Für 500.000 Euro hätte ein deutscher Investor früh bei Anthropic einsteigen können. Warum er damals Nein sagte – und was er daraus gelernt hat."
-    },
-    {
-     "title": "Ehepaar gründet mit Freunden eine Bagel-Kette – und will jetzt 50 Stores eröffnen",
-     "url": "https://www.businessinsider.de/gruenderszene/ehepaar-gruendet-mit-freunden-eine-bagel-kette-und-will-jetzt-50-stores-eroeffnen/",
-     "date": "2026-11-06T08:15:31.000Z",
-     "text": "Pia und René Westphal haben gemeinsam mit zwei Freunden die New York Bagel Bar gegründet. In den nächsten fünf Jahren wollen sie 50 Läden eröffnen."
-    },
-    {
-     "title": "Das waren die besten DHDL-Deals der neusten Staffel",
-     "url": "https://www.businessinsider.de/gruenderszene/dhdl-diese-deals-stachen-in-der-neuesten-staffel-besonders-hervor/",
-     "date": "2026-11-06T07:31:19.000Z",
-     "text": "In der 20. Staffel von „Die Höhle der Löwen“ waren 44 Startups am Start. Diese DHDL-Deals haben nach der Show tatsächlich stattgefunden."
-    },
-    {
-     "title": "10 Geschwister, kein Studium: Wie David Reger Deutschlands Roboter-König wurde",
-     "url": "https://www.businessinsider.de/gruenderszene/10-geschwister-kein-studium-so-wurde-er-deutschlands-roboter-koenig/",
-     "date": "2026-11-06T07:08:23.000Z",
-     "text": "Modellbauer David Reger verfolgt ein Ziel: Robotik soll für Deutschland so bedeutend werden wie einst die Autoindustrie. Wir haben ihn getroffen."
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 403",
+   "items": []
   },
   {
    "name": "EU-Startups",
@@ -117,6 +93,24 @@
    "name": "Sifted",
    "ok": true,
    "items": [
+    {
+     "title": "The winners and losers of Europe's fintech growth funding drought",
+     "url": "https://sifted.eu/articles/fintech-growth-drought/",
+     "date": "2026-11-09T05:00:32.000Z",
+     "text": ""
+    },
+    {
+     "title": "SF confidence, reality checks and AI bubble anxiety come to the Rise venture salon in the Alps",
+     "url": "https://sifted.eu/articles/sf-confidence-reality-checks-and-ai-bubble-anxiety-come-to-the-rise-venture-salon-in-the-alps/",
+     "date": "2026-11-09T05:00:20.000Z",
+     "text": ""
+    },
+    {
+     "title": "UCL spinouts looking to raise",
+     "url": "https://sifted.eu/articles/ucl-spinouts-looking-to-raise/",
+     "date": "2026-11-09T05:00:20.000Z",
+     "text": ""
+    },
     {
      "title": "Sequoia is leaving London. Should Europe be worried?",
      "url": "https://sifted.eu/articles/sequoia-is-leaving-london-should-europe-be-worried/",
@@ -188,6 +182,13 @@
      "date": "2026-11-03T11:49:00.000Z",
      "text": "Nach schwerer Krankheit: Gründer der Poletto Winebar stirbt mit nur 59 Jahren Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Dieser China-Audi kostet in Hamburg plötzlich mehr als doppelt so viel - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUkhKMVEyNEtPeVVSUzBOb0pKeXdRZG5WaFhUNDN2X3YyZE1DSm1pdU81WnJGVFlJbWlyeUxEY3o3alE2bEJmQ3NSbEJVTXNIZ0Uxalpic3lMcnp6eEw5RGdFeWd5aVQ4ZUo4dUN3QWNtbUU2X3dpN0pMcWxyM2xsNzNsNXpWQmc4X2s2RGhoNXVwbDg4aE9XODROUHZQUGdibjRORg?oc=5",
+     "date": "2026-11-05T12:00:00.000Z",
+     "text": "Dieser China-Audi kostet in Hamburg plötzlich mehr als doppelt so viel MOPO",
+     "via": "MOPO"
     }
    ]
   },
