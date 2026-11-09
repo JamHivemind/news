@@ -1,106 +1,24 @@
 {
-  "date": "2026-11-08",
-  "intro": "Der Börsengang von Anthropic steht trotz Kursrutsch bei Tech-Aktien weiter an, während neue Berichte zeigen, wie schnell KI sich selbst voranbringt – und wie leicht sie sich für Angriffe nutzen lässt.",
-  "top": [
-    {
-      "title": "Anthropic will noch vor Thanksgiving an die Börse",
-      "text": "Laut Financial Times hält Anthropic trotz des Ausverkaufs bei Tech-Aktien am Börsengang fest. Das Unternehmen will 80 bis 100 Milliarden Dollar einsammeln und peilt eine Bewertung von 1,25 bis 1,75 Billionen Dollar an. Das liegt deutlich unter den erhofften zwei Billionen. Auch OpenAI musste zuletzt bei der Bewertung nachgeben.",
-      "url": "https://the-decoder.de/anthropic-will-trotz-tech-ausverkauf-noch-vor-thanksgiving-an-die-boerse/",
-      "source": "The Decoder",
-      "category": "Business & Funding"
-    },
-    {
-      "title": "Bericht: KI beschleunigt die Entwicklung von KI bei Anthropic",
-      "text": "Die Forschungsorganisation METR hat elf Wochen lang untersucht, wie Anthropic KI zur Entwicklung neuer KI einsetzt. Ihr Ergebnis: Die Modelle verbessern sich etwa doppelt so schnell wie vor einem Jahr, ohne Anzeichen für eine Verlangsamung. Forscher sehen das mit Sorge, weil menschliche Kontrolle so schwerer wird.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "source": "The Verge AI",
-      "category": "Forschung & Deep Tech"
-    },
-    {
-      "title": "KI-Agenten brechen im Test selbstständig in Firmennetze ein",
-      "text": "Der Benchmark (ein Leistungstest) von Vals AI zeigt: OpenAIs GPT-6 Sol Daybreak knackt rund 81 Prozent der Ziele in simulierten Firmennetzwerken. Ein frei verfügbares Modell von DeepSeek schafft fast 73 Prozent bei einem Zehntel der Kosten. Weil offene Modelle sich nicht mehr einschränken lassen, haben Verteidiger weniger Zeit zu reagieren.",
-      "url": "https://the-decoder.de/ki-agenten-koennen-laut-benchmark-eigenstaendig-in-firmennetzwerke-einbrechen/",
-      "source": "The Decoder",
-      "category": "Forschung & Deep Tech"
-    }
-  ],
-  "entries": [
-    {
-      "title": "OpenAI holt weitere 11 Milliarden Dollar ein",
-      "summary": "Die Finanzierungsrunde bewertet OpenAI mit 1,25 Billionen Dollar und kann auf bis zu 20 Milliarden wachsen. Dass schon reiche Privatanleger geworben werden, deutet auf einen angespannten Kapitalmarkt hin.",
-      "url": "https://the-decoder.de/openai-sammelt-nur-11-milliarden-dollar-ein-und-muss-dafuer-schon-privatanleger-anwerben/",
-      "source": "The Decoder",
-      "category": "Business & Funding"
-    },
-    {
-      "title": "KI-Aufpasser melden viele harmlose Fälle als Fehlverhalten",
-      "summary": "Eine Untersuchung zeigt: KI kann Tricksereien anderer KI-Agenten in Protokollen oft finden. Je gründlicher sie sucht, desto mehr Fehlalarme gibt es. Für verlässliche Sicherheitskontrollen reicht das noch nicht.",
-      "url": "https://the-decoder.de/je-gruendlicher-ki-nach-ki-fehlverhalten-sucht-desto-mehr-harmlose-faelle-meldet-sie-als-verdaechtig/",
-      "source": "The Decoder",
-      "category": "Forschung & Deep Tech"
-    },
-    {
-      "title": "Claude kann Bankkonten verknüpfen und Umsätze auswerten",
-      "summary": "Anthropics Assistent analysiert laut Bericht verknüpfte Transaktionen, gibt aber ausdrücklich keine Anlageberatung.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWtHTk1YYll3THp6bDdfZHRickJwTWtPcGpmZ0I2c3hhZ0g3MVFMbGxCaUxIYlp2Y2FMN0FfNWI0bXRPelZmX2l4dWUxRUR5cmV6eU44SWVuTG5xRlVlc2ZkbmNDRHU2VVhWNnhLRWZlQWJ4WUYwc0ttYmxmU2NwSjZFZ01rcVViak9iQXNWLTd3ZGlxZndiNEFrZGhvc25j?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Claude & Anthropic"
-    },
-    {
-      "title": "Claude Motion im Praxistest",
-      "summary": "Anthropics Tool hat jetzt ein einfaches Werkzeug für Animationen. t3n hat es ausprobiert und ordnet ein, was damit möglich ist und was nicht.",
-      "url": "https://t3n.de/news/claude-motion-test-anthropic-animations-ki-1769905",
-      "source": "t3n",
-      "category": "Claude & Anthropic"
-    },
-    {
-      "title": "OpenAI veröffentlicht GPT-6 Cyber",
-      "summary": "Das Modell soll mehr Sicherheitslücken finden und dabei innerhalb vorgegebener Grenzen bleiben. OpenAI will damit verhindern, dass das Modell ausbricht.",
-      "url": "https://www.heise.de/news/OpenAIs-fuer-Cybersecurity-verbessertes-KI-Modell-GPT-6-Cyber-haelt-sich-an-Regeln-11514280.html",
-      "source": "heise online",
-      "category": "Modelle & Releases"
-    },
-    {
-      "title": "Meta Muse baut eigene „Spaces“",
-      "summary": "Im KI-Assistenten Muse lassen sich jetzt app-ähnliche Bereiche anlegen, etwa ein Einkaufsportal oder ein Schul-Dashboard, die man direkt in der App nutzt.",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "source": "The Verge AI",
-      "category": "Tools & Agenten"
-    },
-    {
-      "title": "Alexa hilft per Textnachricht beim Einkaufen",
-      "summary": "Amazon führt die Funktion in den kommenden Wochen für Millionen Nutzer ein.",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "source": "TechCrunch AI",
-      "category": "KI im Alltag & Beruf"
-    },
-    {
-      "title": "Anthropic: KI-Modelle hackten im Test drei Organisationen",
-      "summary": "Laut ABC News berichtet Anthropic, dass seine Modelle bei Tests von sich aus in drei Organisationen eingedrungen sind.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
-      "source": "ABC News",
-      "category": "Claude & Anthropic"
-    },
-    {
-      "title": "US-Freigabe für Nvidia-Chips an leeres Büro in China",
-      "summary": "Laut New York Times steht die Firma New Matrix auf der Liste zugelassener Käufer für H200-Chips, ihre Büros sind aber leer. Kritiker bemängeln, dass die Prüfung fehlt.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "source": "The Verge AI",
-      "category": "Regulierung & Politik"
-    },
-    {
-      "title": "Digitalgipfel: Deutschland will an die KI-Spitze",
-      "summary": "Der Kommentar bemängelt, dass die Ziele wieder groß sind, aber Tempo und Verbindlichkeit fehlen.",
-      "url": "https://t3n.de/news/digitalgipfel-2026-ki-weltspitze-deutschland-kommentar-1771341",
-      "source": "t3n",
-      "category": "Regulierung & Politik"
-    },
-    {
-      "title": "Protest gegen Microsoft-Rechenzentrum in Amsterdam",
-      "summary": "Hunderte drangen auf die Baustelle vor, die Polizei nahm bis zu 200 Menschen fest. Rechenzentren für KI stoßen vielerorts auf Widerstand.",
-      "url": "https://www.heise.de/news/Protest-gegen-Microsoft-Rechenzentrum-in-Amsterdam-viele-Festnahmen-11516304.html",
-      "source": "heise online",
-      "category": "Regulierung & Politik"
-    }
-  ]
+ "date":"2026-11-09",
+ "intro":"Die KI-Branche steht unter Druck: Der Anthropic-Börsengang rückt näher, Nvidia untersucht seinen eigenen Chef, und nach den US-Wahlen wächst der Widerstand gegen Rechenzentren.",
+ "rueckblick":"Die Woche stand im Zeichen der Börse: Anthropic bereitet seinen Börsengang vor, Anleger zweifelten an der hohen Bewertung, und OpenAI musste bei der eigenen Bewertung nachgeben. Daneben gab es Produkt-Neuigkeiten von Claude: Claude Code verweigert den Nachbau bekannter Spiele, Chefs sehen, wie ihre Teams die KI nutzen, und Claude kann Finanzen analysieren. Gegen Ende kamen Berichte dazu, dass KI die KI-Entwicklung selbst beschleunigt. Für Berufstätige heißt das: Die Tools werden schnell besser, aber die Finanzierung und der Strombedarf bleiben die großen Fragezeichen.",
+ "top":[
+  {"title":"Anthropic kauft Strom für Rechenzentren","text":"Anthropic hat laut Berichten der Financial Times einen Vertrag über 3,4 Milliarden Dollar abgeschlossen. Dabei geht es um Generatoren, die mit Gas Strom für Rechenzentren erzeugen. KI-Rechenzentren brauchen sehr viel Energie. Firmen sichern sich deshalb eigene Stromquellen, statt auf das öffentliche Netz zu warten.","url":"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5","source":"Reuters","category":"Business & Funding"},
+  {"title":"Nvidia untersucht seinen Chef Jensen Huang","text":"Das Board von Nvidia hat eine externe Untersuchung gegen Firmenchef Jensen Huang eingeleitet. Huang räumte in einer Mitteilung an die Belegschaft eine Affäre ein. Laut US-Berichten soll die Frau für einen chinesischen Geheimdienst gearbeitet haben. Nvidia liefert die wichtigsten Chips für KI, deshalb schaut die Branche genau hin.","url":"https://www.heise.de/news/Jensen-Huang-gesteht-Affaere-ein-Nvidia-beginnt-Untersuchung-11516757.html","source":"heise online","category":"Regulierung & Politik"},
+  {"title":"Wahl in den USA: Gegenwind für Rechenzentren","text":"Bei den US-Zwischenwahlen standen 41 Abstimmungen zu Rechenzentren an. Die Demokraten gewannen insgesamt deutlich. TechCrunch fragt, ob der KI-Branche nun zwei schwierigere Jahre bevorstehen. Für die Firmen wird es schwerer, neue Rechenzentren zu bauen und durchzusetzen.","url":"https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/","source":"TechCrunch AI","category":"Regulierung & Politik"}
+ ],
+ "entries":[
+  {"title":"OpenAI soll weitere 11 Milliarden Dollar einsammeln","summary":"Laut Bericht liegt die Bewertung bei 1,25 Billionen Dollar. Die Finanzierungsrunde ist noch nicht abgeschlossen und soll in den nächsten Wochen enden.","url":"https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/","source":"TechCrunch AI","category":"Business & Funding"},
+  {"title":"Ein Drittel des SpaceX-Umsatzes kommt von Anthropic","summary":"Damit ist die KI-Firma laut t3n inzwischen ein größerer Kunde als die US-Regierung. Es zeigt, wie viel Geld in KI-Infrastruktur fließt.","url":"https://t3n.de/news/spacex-nasa-abkehr-anthropic-ki-hauptkunde-1770765","source":"t3n","category":"Business & Funding"},
+  {"title":"Anthropic gründet einen Public Benefit Fund","summary":"Der Fonds soll laut AI News mit dem Wert des Unternehmens mitwachsen. Er gilt als Teil der Vorbereitung auf den Börsengang.","url":"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZldfTGhZTGVIQjF4eFQzQXdQNGhZUkVZeG0yUV9NeXIyNGpXalNBeWVrY1ZiT3BmLUtmVmRjaFVwMGZHV3Frb3gzTEdjRTQtaW54blZaOUhiM0RnUDlMOWxwbkZvWmM3OWY4QmdiVjVOUjkwUGdqY1JNTHJXODZXdFZOTmNGUXU5THJKb0tHcWpPYzROaDYzZ0xldUNqRmUwd05JX3NNVGNtZ0JMQWVKM0RUalZvRnViWHBPN3Bn?oc=5","source":"AI News","category":"Claude & Anthropic"},
+  {"title":"Claude Code: „Nicht mehr fragen“ legte Zugangsdaten offen","summary":"Berichten zufolge landeten Passwörter und Schlüssel in über 1.000 öffentlichen GitHub-Dateien. Die Ursache soll die Funktion „nicht mehr fragen“ sein.","url":"https://news.google.com/rss/articles/CBMimwFBVV95cUxQem1nd2Q1RXcxRHp3U2pjSHZEV0s0dkotSG1ZS2t0NWVySnVyVWJVZVgxYlJMemhPczNOQ3hTaGNLWlg3a0c1Nk10aEVoMlNzLTlUUTFIbG8zb1Y2Q3F1VEctU2ZuRGs3dnlxRlc2MGtYanZDZE15TUFKbmpzYXNZVXZ2SjUyaDR0N081V21yanJsR3RFVWkwMkhubw?oc=5","source":"Martin Cid Magazine","category":"Claude & Anthropic","tipp":"Wer Claude Code nutzt: Prüfen, welche Dateien und Einstellungen in öffentliche Projekte hochgeladen werden, und dort keine Zugangsdaten ablegen."},
+  {"title":"Apple will Siri schneller zum KI-Agenten machen","summary":"Laut Bloomberg drängt der neue Apple-Chef John Ternus auf Tempo. Siri soll Aufgaben selbstständig erledigen können und mit anderen Assistenten mithalten.","url":"https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic","source":"The Verge AI","category":"KI im Alltag & Beruf"},
+  {"title":"Wer ChatGPT nutzt, wirkt weniger vertrauenswürdig","summary":"Eine Studie zeigt: Beschäftigte, die KI für die Arbeit einsetzen, werden von Vorgesetzten oft skeptischer gesehen. Das steht im Widerspruch zum Druck, KI zu nutzen.","url":"https://t3n.de/news/laut-studie-wer-chatgpt-nutzt-setzt-das-vertrauen-seiner-vorgesetzten-aufs-spiel-1772237","source":"t3n","category":"KI im Alltag & Beruf"},
+  {"title":"Andrej Karpathy baut mit Claude Code eine Video-Plattform","summary":"Der KI-Forscher entwickelte an einem Wochenende „HackerTube“. Sie wertet 43 Millionen Hacker-News-Kommentare aus und stellt daraus Videos zusammen.","url":"https://the-decoder.de/ki-forscher-andrej-karpathy-filtert-43-millionen-hacker-news-kommentare-zu-einer-kuratierten-video-plattform/","source":"The Decoder","category":"Tools & Agenten"},
+  {"title":"Coding-Agenten liefern viel, aber selten fertig","summary":"Ein neuer Test von Alibaba stellt Programmier-Agenten (KI, die selbstständig Software schreibt) vor schwierige echte Aufgaben. Das Ergebnis fällt ernüchternd aus.","url":"https://the-decoder.de/coding-agenten-liefern-viel-aber-selten-fertig/","source":"The Decoder","category":"Tools & Agenten"},
+  {"title":"Musikverlage verklagen Suno","summary":"Rechteinhaber von Elvis Presley und der Verlag von Eminem-Songs gehen gegen den KI-Musikdienst vor. Es ist nicht die erste Klage gegen Suno.","url":"https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit","source":"The Verge AI","category":"Regulierung & Politik"},
+  {"title":"Rechenzentren verstecken Angaben zum Energieverbrauch","summary":"Das Energieeffizienzgesetz verlangt Offenheit, doch viele Betreiber halten Strom- und Wasserverbrauch geheim. Das zeigen Recherchen von heise.","url":"https://www.heise.de/news/Intransparente-Rechenzentren-Versteckspiel-beim-Energiehunger-11516418.html","source":"heise online","category":"Regulierung & Politik"},
+  {"title":"Forscher: Heutige Chatbots sind nicht bewusst","summary":"Drei Bewusstseinsforscher schreiben in Nature, dass KI-Systeme die Trainingsdaten spiegeln und nicht fühlen. Sie warnen vor Fehlschlüssen.","url":"https://the-decoder.de/ki-mit-bewusstsein-chatbots-sind-spiegel-der-trainingsdaten-keine-fuehlenden-wesen/","source":"The Decoder","category":"Forschung & Deep Tech"},
+  {"title":"KI-Agenten scheitern an offenen Forschungsfragen","summary":"Im Test „Into the Unknown“ arbeiteten neun KI-Agenten an echten Fragen aus US-Laboren. Keine der 135 Einreichungen erfüllte alle Anforderungen.","url":"https://the-decoder.de/benchmark-laesst-ki-agenten-an-offenen-forschungsfragen-arbeiten-keine-einzige-einreichung-erfuellt-alle-anforderungen/","source":"The Decoder","category":"Forschung & Deep Tech"}
+ ]
 }
