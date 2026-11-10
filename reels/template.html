@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<style>
+  :root {
+    --bg: #07080d; --card: rgba(20,22,32,.82); --txt: #f5f5f7; --dim: #9aa0b4;
+    --yellow: #f7d046; --font: "Inter Display", "Inter", "Arial Black", "Helvetica Neue", Arial, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1080px; height: 1920px; overflow: hidden; background: var(--bg); }
+  body { font-family: var(--font); color: var(--txt); position: relative; }
+  .glow { position: absolute; border-radius: 50%; filter: blur(140px); opacity: .55; }
+  #g1 { width: 700px; height: 700px; left: -200px; top: 300px; background: #2f8f5b; }
+  #g2 { width: 700px; height: 700px; right: -220px; top: 520px; background: #2a4fd6; }
+  #g3 { width: 600px; height: 500px; left: 240px; top: 80px; background: #b8892a; opacity: .35; }
+  #skyline { position: absolute; left: 0; bottom: 0; width: 1080px; opacity: .16; }
+  .layer { position: absolute; inset: 0; }
+  #title { position: absolute; top: 210px; width: 100%; text-align: center; font-weight: 900; letter-spacing: -2px; line-height: .98; }
+  #title div { font-size: 118px; text-shadow: 0 8px 30px rgba(0,0,0,.6); }
+  #title .l2 { color: var(--yellow); }
+  #cards { position: absolute; top: 560px; left: 40px; right: 40px; display: flex; gap: 28px; }
+  .card { flex: 1; height: 900px; border-radius: 36px; background: var(--card); border: 5px solid; padding: 40px 18px 30px; display: flex; flex-direction: column; align-items: center; }
+  .card .lbl { font-weight: 900; font-size: 44px; letter-spacing: 1px; }
+  .card .val { font-weight: 900; font-size: 74px; margin-top: 18px; font-variant-numeric: tabular-nums; }
+  .card .unit { font-size: 30px; color: var(--dim); margin-top: 4px; font-weight: 600; }
+  .track { margin-top: auto; width: 120px; height: 560px; border-radius: 22px; background: rgba(255,255,255,.06); position: relative; overflow: hidden; }
+  .bar { position: absolute; left: 0; right: 0; bottom: 0; border-radius: 22px; }
+  #badges { position: absolute; top: 1470px; width: 100%; display: flex; flex-direction: column; align-items: center; gap: 18px; }
+  .badge { font-weight: 800; font-size: 54px; padding: 18px 46px; border-radius: 28px; background: rgba(10,11,18,.9); border: 4px solid; }
+  #compare { position: absolute; top: 620px; left: 60px; right: 60px; }
+  #compare h2 { font-size: 76px; font-weight: 900; text-align: center; color: var(--yellow); letter-spacing: -1px; line-height: 1.05; margin-bottom: 90px; }
+  .row { margin-bottom: 80px; }
+  .row .rl { font-size: 42px; font-weight: 900; margin-bottom: 18px; display: flex; justify-content: space-between; }
+  .row .rl span:last-child { font-variant-numeric: tabular-nums; }
+  .htrack { height: 120px; border-radius: 24px; background: rgba(255,255,255,.06); overflow: hidden; display: flex; }
+  .seg { height: 100%; }
+  #outro { position: absolute; top: 0; width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+  #outro .o1 { font-size: 200px; font-weight: 900; letter-spacing: -6px; }
+  #outro .o2 { font-size: 58px; font-weight: 800; color: var(--yellow); margin-top: 20px; padding: 0 60px; }
+  #handle { position: absolute; bottom: 70px; width: 100%; text-align: center; font-size: 40px; font-weight: 800; color: var(--dim); letter-spacing: 1px; }
+  #source { position: absolute; bottom: 128px; left: 60px; right: 60px; text-align: center; font-size: 26px; color: var(--dim); }
+</style>
+</head>
+<body>
+  <div class="glow" id="g1"></div><div class="glow" id="g2"></div><div class="glow" id="g3"></div>
+  <svg id="skyline" viewBox="0 0 1080 420" preserveAspectRatio="none">
+    <!-- generische Hafen-Silhouette: Kräne, Speicher, Wellen-Dach, Turm -->
+    <path fill="#ffffff" d="M0 420V330h60v-40h40v40h30V250h14v-60h6v60h14v80h50v-30l80-70 80 70v30h40V170l10-60 10 60v160h40v-60h120v60h30
+      c20-50 60-80 90-80s50 20 70 10 40-30 70-30 50 30 50 30v70h40V200h8L866 60h8v60h90v10h-90v70h10v130h196v90z"/>
+  </svg>
+
+  <div class="layer" id="scene1">
+    <div id="title"><div class="l1"></div><div class="l2"></div></div>
+    <div id="cards"></div>
+    <div id="badges"></div>
+  </div>
+  <div class="layer" id="scene2"><div id="compare"><h2></h2><div id="rows"></div></div></div>
+  <div class="layer" id="scene3"><div id="outro"><div class="o1"></div><div class="o2"></div></div></div>
+  <div id="source"></div>
+  <div id="handle"></div>
+
+<script>
+// Zeitplan in Sekunden. renderAt(t) ist deterministisch: gleiche Zeit, gleiches Bild.
+const T = { title: 0.2, cards: 1.2, bars: 2.0, barDur: 2.6, badge: 5.6, s2: 9.0, s2bars: 10.2, s3: 14.2, end: 16.5 };
+window.DURATION = T.end;
+
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
+const prog = (t, start, dur) => clamp((t - start) / dur);
+const easeOut = x => 1 - Math.pow(1 - x, 3);
+const back = x => { const c = 1.70158; return 1 + (c + 1) * Math.pow(x - 1, 3) + c * Math.pow(x - 1, 2); };
+const fmt = n => Math.round(n).toLocaleString("de-DE");
+const $ = s => document.querySelector(s);
+
+function setup(spec) {
+  window.SPEC = spec;
+  $("#title .l1").textContent = spec.title[0];
+  $("#title .l2").textContent = spec.title[1] || "";
+  const max = Math.max(...spec.items.map(i => i.value));
+  $("#cards").innerHTML = spec.items.map(i => `
+    <div class="card" style="border-color:${i.color}${i.highlight ? "" : "88"}">
+      <div class="lbl" style="color:${i.color}">${i.label}</div>
+      <div class="val">0</div><div class="unit">${spec.unit}</div>
+      <div class="track"><div class="bar" style="background:${i.color};height:0"></div></div>
+    </div>`).join("");
+  spec._max = max;
+  const hl = spec.items.find(i => i.highlight) || spec.items[0];
+  $("#badges").innerHTML = (spec.badges || []).map((b, k) =>
+    `<div class="badge" style="border-color:${k ? "#e5484d" : hl.color}">${b}</div>`).join("");
+  if (spec.compare) {
+    const c = spec.compare;
+    $("#compare h2").textContent = c.headline;
+    const sum = side => side.parts.reduce((s, p) => s + spec.items[p].value, 0);
+    spec._cmpMax = Math.max(sum(c.left), sum(c.right));
+    $("#rows").innerHTML = [c.left, c.right].map(side => `
+      <div class="row"><div class="rl"><span>${side.label}</span><span class="rv">0</span></div>
+      <div class="htrack">${side.parts.map(p => `<div class="seg" data-v="${spec.items[p].value}" style="background:${spec.items[p].color};width:0"></div>`).join("")}</div></div>`).join("");
+  }
+  $(".o1").textContent = spec.outro[0];
+  $(".o2").textContent = spec.outro[1] || "";
+  $("#handle").textContent = spec.handle || "";
+  $("#source").textContent = spec.source || "";
+}
+
+function renderAt(t) {
+  const spec = window.SPEC;
+  const hasCmp = !!spec.compare;
+  const s2 = hasCmp ? T.s2 : T.s3;
+  // Szene 1
+  const out1 = prog(t, s2 - 0.4, 0.4);
+  $("#scene1").style.opacity = 1 - out1;
+  [".l1", ".l2"].forEach((sel, k) => {
+    const p = easeOut(prog(t, T.title + k * 0.35, 0.6));
+    const el = $("#title " + sel);
+    el.style.opacity = p; el.style.transform = `translateY(${(1 - p) * 60}px) scale(${0.9 + 0.1 * p})`;
+  });
+  document.querySelectorAll(".card").forEach((card, k) => {
+    const p = easeOut(prog(t, T.cards + k * 0.15, 0.5));
+    card.style.opacity = p; card.style.transform = `translateY(${(1 - p) * 80}px)`;
+    const item = spec.items[k];
+    const b = easeOut(prog(t, T.bars + k * 0.25, T.barDur));
+    card.querySelector(".bar").style.height = (b * item.value / spec._max * 100) + "%";
+    card.querySelector(".val").textContent = fmt(b * item.value);
+  });
+  document.querySelectorAll(".badge").forEach((el, k) => {
+    const p = prog(t, T.badge + k * 0.5, 0.45);
+    el.style.opacity = clamp(p * 2); el.style.transform = `scale(${p ? back(p) : 0.5})`;
+  });
+  // Szene 2
+  if (hasCmp) {
+    const in2 = prog(t, T.s2, 0.5), out2 = prog(t, T.s3 - 0.4, 0.4);
+    $("#scene2").style.opacity = in2 * (1 - out2);
+    const h = easeOut(prog(t, T.s2 + 0.1, 0.6));
+    $("#compare h2").style.transform = `translateY(${(1 - h) * 50}px)`;
+    document.querySelectorAll(".row").forEach((row, k) => {
+      const p = easeOut(prog(t, T.s2bars + k * 0.4, 2.2));
+      let total = 0;
+      row.querySelectorAll(".seg").forEach(seg => {
+        const v = +seg.dataset.v; total += v;
+        seg.style.width = (p * v / spec._cmpMax * 100) + "%";
+      });
+      row.querySelector(".rv").textContent = fmt(p * total);
+    });
+  } else $("#scene2").style.opacity = 0;
+  // Szene 3
+  const in3 = easeOut(prog(t, T.s3, 0.6));
+  $("#scene3").style.opacity = in3;
+  $(".o1").style.transform = `scale(${0.8 + 0.2 * in3})`;
+  const o2 = easeOut(prog(t, T.s3 + 0.5, 0.6));
+  $(".o2").style.opacity = o2; $(".o2").style.transform = `translateY(${(1 - o2) * 40}px)`;
+  $("#source").style.opacity = clamp(prog(t, T.bars, 0.5)) * (1 - in3);
+  const sky = 0.16 + 0.04 * Math.sin(t * 0.8);
+  $("#skyline").style.opacity = sky;
+  $("#g1").style.transform = `translate(${Math.sin(t * .5) * 40}px, ${Math.cos(t * .4) * 30}px)`;
+  $("#g2").style.transform = `translate(${Math.cos(t * .45) * 40}px, ${Math.sin(t * .35) * 30}px)`;
+}
+</script>
+</body>
+</html>

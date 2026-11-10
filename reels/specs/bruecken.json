@@ -1,0 +1,20 @@
+{
+  "slug": "bruecken",
+  "title": ["MEHR BRÜCKEN", "ALS VENEDIG?"],
+  "unit": "Brücken",
+  "items": [
+    { "label": "HAMBURG", "value": 2500, "color": "#5ad1f0", "highlight": true },
+    { "label": "AMSTERDAM", "value": 1281, "color": "#f2c94c" },
+    { "label": "VENEDIG", "value": 400, "color": "#f07a4f" }
+  ],
+  "badges": ["~2.500 Brücken", "Platz 1 in Europa"],
+  "compare": {
+    "headline": "MEHR ALS BEIDE ZUSAMMEN",
+    "left": { "label": "HAMBURG", "parts": [0] },
+    "right": { "label": "AMSTERDAM + VENEDIG", "parts": [1, 2] }
+  },
+  "source": "Quelle: Statista (Stand 2021). Zählweisen schwanken je nach Quelle.",
+  "handle": "@moinfakten",
+  "outro": ["Moin.", "Mehr Hamburg-Fakten? Folgen."],
+  "caption": "Hamburg hat mehr Brücken als Venedig und Amsterdam zusammen. Rund 2.500 laut Statista. #hamburg #moin #fakten #wusstestdu"
+}
