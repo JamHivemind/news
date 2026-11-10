@@ -1,6 +1,30 @@
 {
   "briefs": [
     {
+      "date": "2026-11-10",
+      "file": "2026-11-10.html",
+      "headline": "Elbtower: Baufirma droht mit Abzug des Krans",
+      "count": 15,
+      "sources": 3,
+      "cats": {
+        "Bauen & Wohnen": 2,
+        "Stadt & Politik": 4,
+        "Verkehr": 3,
+        "Wirtschaft & Hafen": 3,
+        "Kultur & Freizeit": 1,
+        "Sport": 1,
+        "Polizei & Sicherheit": 1
+      },
+      "ents": {
+        "Elbtower": 1,
+        "Hafen": 1,
+        "HVV": 1,
+        "Senat": 1,
+        "FC St. Pauli": 1,
+        "Polizei": 1
+      }
+    },
+    {
       "date": "2026-11-09",
       "file": "2026-11-09.html",
       "headline": "Hamburgs Schulen wollen weg von Microsoft und Google",

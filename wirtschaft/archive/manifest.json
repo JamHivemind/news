@@ -1,6 +1,27 @@
 {
   "briefs": [
     {
+      "date": "2026-11-10",
+      "file": "2026-11-10.html",
+      "headline": "Ölpreise fallen, Sprit wird billiger",
+      "count": 16,
+      "sources": 4,
+      "cats": {
+        "Energie": 3,
+        "Börse & Märkte": 2,
+        "Arbeit & Soziales": 4,
+        "Konjunktur": 2,
+        "Politik & Handel": 2,
+        "Unternehmen": 3
+      },
+      "ents": {
+        "USA": 1,
+        "Bundesregierung": 1,
+        "BMW": 1,
+        "ifo": 1
+      }
+    },
+    {
       "date": "2026-11-09",
       "file": "2026-11-09.html",
       "headline": "Tech-Aktien brechen nach US-Wahlen ein",
