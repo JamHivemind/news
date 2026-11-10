@@ -24,10 +24,6 @@
  "stocks": {
   "NVDA": [
    [
-    "2026-08-07",
-    223.96
-   ],
-   [
     "2026-08-10",
     217.55
    ],
@@ -285,10 +281,6 @@
    ]
   ],
   "MSFT": [
-   [
-    "2026-08-07",
-    499.99
-   ],
    [
     "2026-08-10",
     506.06
@@ -548,10 +540,6 @@
   ],
   "GOOGL": [
    [
-    "2026-08-07",
-    354.3
-   ],
-   [
     "2026-08-10",
     357.52
    ],
@@ -809,10 +797,6 @@
    ]
   ],
   "META": [
-   [
-    "2026-08-07",
-    592.1
-   ],
    [
     "2026-08-10",
     594.92
@@ -1080,41 +1064,41 @@
  "hf": [
   {
    "id": "speridlabs/idol",
-   "likes": 1470,
+   "likes": 1642,
    "downloads": 24747,
    "task": "image-to-3d"
   },
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 954,
+   "likes": 1055,
    "downloads": 11755,
    "task": "text-generation"
   },
   {
    "id": "moonshotai/Kimi-K3.1-Pro",
-   "likes": 1759,
+   "likes": 1800,
    "downloads": 27926,
    "task": "image-text-to-text"
   },
   {
    "id": "ricursiveAI/Ripple-65B-Preview",
-   "likes": 423,
-   "downloads": 5087,
+   "likes": 455,
+   "downloads": 5835,
    "task": ""
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 11164,
+   "likes": 11270,
    "downloads": 2720096,
    "task": "image-to-video"
   },
   {
-   "id": "ccore/Qwen3.5-4B-3D-Coder",
-   "likes": 933,
-   "downloads": 289466,
-   "task": ""
+   "id": "NousResearch/Arete-27B",
+   "likes": 366,
+   "downloads": 2407,
+   "task": "text-generation"
   }
  ],
- "updated": "2026-11-09T10:10:26.165Z",
+ "updated": "2026-11-10T02:27:30.605Z",
  "updatedDay": "2026-11-06"
 }
