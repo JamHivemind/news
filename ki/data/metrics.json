@@ -278,6 +278,10 @@
    [
     "2026-11-06",
     186.64
+   ],
+   [
+    "2026-11-09",
+    178.67
    ]
   ],
   "MSFT": [
@@ -536,6 +540,10 @@
    [
     "2026-11-06",
     530.61
+   ],
+   [
+    "2026-11-09",
+    545.18
    ]
   ],
   "GOOGL": [
@@ -794,6 +802,10 @@
    [
     "2026-11-06",
     284.78
+   ],
+   [
+    "2026-11-09",
+    288.15
    ]
   ],
   "META": [
@@ -1052,6 +1064,10 @@
    [
     "2026-11-06",
     610.15
+   ],
+   [
+    "2026-11-09",
+    641.37
    ]
   ]
  },
@@ -1064,19 +1080,19 @@
  "hf": [
   {
    "id": "speridlabs/idol",
-   "likes": 1642,
+   "likes": 1657,
    "downloads": 24747,
    "task": "image-to-3d"
   },
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 1055,
+   "likes": 1065,
    "downloads": 11755,
    "task": "text-generation"
   },
   {
    "id": "moonshotai/Kimi-K3.1-Pro",
-   "likes": 1800,
+   "likes": 1802,
    "downloads": 27926,
    "task": "image-text-to-text"
   },
@@ -1088,17 +1104,17 @@
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 11270,
+   "likes": 11276,
    "downloads": 2720096,
    "task": "image-to-video"
   },
   {
    "id": "NousResearch/Arete-27B",
-   "likes": 366,
+   "likes": 369,
    "downloads": 2407,
    "task": "text-generation"
   }
  ],
- "updated": "2026-11-10T02:27:30.605Z",
+ "updated": "2026-11-10T03:45:44.037Z",
  "updatedDay": "2026-11-06"
 }
