@@ -1,24 +1,114 @@
 {
- "date":"2026-11-09",
- "intro":"Moin! Zum Wochenstart geht es um Digitales im HVV, um die Schulen und um Baustellen: Auf der Amsinckstraße rollt der Verkehr wieder, in Bergstedt beginnt die nächste Bauphase.",
- "rueckblick":"Die Woche in Hamburg: Der letzte verkaufsoffene Sonntag des Jahres lockte viele in die City, beim HVV ging es um Digitalisierung und um Sicherheit in Bussen und Bahnen. Der FC St. Pauli verlor am Sonntag in Magdeburg. Dazu kamen Baustellen und Streit um die Fernwärme und die A26-Ost.",
- "top":[
-  {"title":"Hamburgs Schulen wollen weg von Microsoft und Google","text":"Die Software der US-Konzerne soll an Hamburgs Schulen durch Nextcloud ersetzt werden. Nextcloud ist eine Software, die Dateien, Kalender und Kommunikation auf eigenen Servern bereitstellt. Ziel sind mehr Datenschutz und mehr Unabhängigkeit von den großen Anbietern.","url":"https://www.ndr.de/nachrichten/hamburg/hamburgs-schulen-wollen-weg-von-microsoft-und-google,schulehh-100.html","source":"NDR Hamburg","category":"Stadt & Politik"},
-  {"title":"HVV testet Sprachassistentin MIA","text":"Die Assistentin soll Fahrten organisieren, Tickets besorgen und bei Störungen Alternativen vorschlagen. Laut NDR antwortet sie sogar in Gebärdensprache. Es ist bisher ein Test.","url":"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1VubXFjTDlkTU9LUU5pY2Z3NTRfdG5Ja0N5ckg2QkxkYzZjQTlFWnZDVm1BWFNneVJnMnF2NUt4ekpvbkIxS09Bc09nT0F0LVd5R190cTVWWFc5clNzc3h5a1FGM0Jta180bHJQZ1o5d0hfejM5N3RPTkhnNnQ4dFdnTG51WTdWNUdiaEJ6bmtFbzRRQkQzOGNrTGgzTlhzUG1qOUpLa1ZRb3ZXQXlWRGxmcDN1NC1rNEl5eVk3MHRRRVE?oc=5","source":"NDR Hamburg","category":"Verkehr"},
-  {"title":"HVV zieht nach App-Chaos die Reißleine","text":"Nach Problemen rund um eine App trennt sich der HVV laut Abendblatt von einem Dienstleister. 48 Beschäftigte der Firma verlieren dadurch ihren Job. Wie es mit der App weitergeht, steht im Artikel.","url":"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcklCNFhvdEFkMVIwVm1YUnpVUnZubEh4WngxZlNrak0yTGJScVJUZUxhZzFqeWN1ZDJMWWMyWkg0dU1pQVFfZFA4NndvanFwYWJhdVJMMzExblotQUllOThEc3llamUyTWcyOU45QXlPMGlWbGxnZGVwYWtjcW1vTjB3eGdjMWJieXkxRUp5ZVhIUU9DRXJQZTV3YVllOGw3Rmk0TmZEaVpiMXQzcDdFbXFRVGNvTXU3VVBfekhrNVJUUTNfUTljaWN5X0RfQkRQV1lJNQ?oc=5","source":"Hamburger Abendblatt","category":"Verkehr"}
+ "date": "2026-11-10",
+ "intro": "Am Elbtower eskaliert der Streit um die Baustelle, das neue Fernwärme-Kraftwerk im Hafen steht kurz vor dem Start, und am Hauptbahnhof ist es zu voll.",
+ "top": [
+  {
+   "title": "Elbtower: Baufirma droht mit Abzug des Krans",
+   "text": "Nach monatelangem Stillstand verliert das Bauunternehmen Lupp die Geduld. Es fordert von der Stadt Bewegung und droht, seinen Hochkran abzuziehen. Für den Elbtower wäre das ein weiterer Rückschlag, denn ohne Kran geht es auf der Baustelle nicht weiter.",
+   "url": "https://www.ndr.de/nachrichten/hamburg/elbtower-baufirma-droht-mit-kran-abbau,kurzehh-4852.html",
+   "source": "NDR Hamburg",
+   "category": "Bauen & Wohnen"
+  },
+  {
+   "title": "Neues Fernwärme-Kraftwerk im Hafen löst Wedel ab, Heizen wird teurer",
+   "text": "Beim neuen Energiepark Hafen an der A7 ist Endspurt. Er soll bald das Kohlekraftwerk Wedel ersetzen, das noch über den Winter läuft. Das ist besser fürs Klima. Laut Abendblatt wird die Fernwärme aber teurer, das spüren Haushalte mit Fernwärme bei den Heizkosten.",
+   "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413590037/hamburgs-neues-kraftwerk-an-der-a7-fast-fertig-aber-fernwaerme-wird-teuer.html",
+   "source": "Hamburger Abendblatt",
+   "category": "Stadt & Politik"
+  },
+  {
+   "title": "Hauptbahnhof überfüllt: Fahrgäste sollen ausweichen",
+   "text": "Laufende Bauarbeiten verschärfen das Gedränge am Hauptbahnhof. Die Bahn sagt auf den Bahnsteigen an, dass Fahrgäste den Bahnhof meiden sollen. Wer kann, sollte für Umstiege auf andere Stationen ausweichen.",
+   "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ueberfuellte-bahnsteige-fahrgaeste-sollen-hauptbahnhof-meiden,hamj-16354.html",
+   "source": "NDR Hamburg",
+   "category": "Verkehr",
+   "tipp": "Wer kann, steigt zu Stoßzeiten nicht am Hauptbahnhof um, sondern an einer anderen Station."
+  }
  ],
- "entries":[
-  {"title":"Amsinckstraße: Wieder sechs Fahrstreifen frei","summary":"Nach einem Rohrbruch rollt der Verkehr ab Montag wieder fast normal. Das dürfte auch Musicalbesucher freuen.","url":"https://www.abendblatt.de/hamburg/hamburg-mitte/article413598119/verkehr-hamburg-bald-wieder-6-fahrstreifen-auf-der-amsinckstrasse-ende-der-baustelle-in-sicht-1.html","source":"Hamburger Abendblatt","category":"Verkehr"},
-  {"title":"Bergstedter Chaussee: Nächste Bauphase startet","summary":"Die Bauphase beginnt früher als gedacht, ab Montag gibt es neue Sperrungen. Anwohner müssen sich umstellen.","url":"https://www.abendblatt.de/hamburg/wandsbek/article413565060/verkehr-hamburg-sperrungen-im-nordosten-der-stadt-was-sich-in-bergstedt-naechste-woche-aendert-1.html","source":"Hamburger Abendblatt","category":"Verkehr"},
-  {"title":"Hauptbahnhof platzt aus allen Nähten","summary":"Die Bahn will den Andrang mit einem ungewöhnlichen Schritt bremsen. Worum es geht, steht im Artikel.","url":"https://www.mopo.de/hamburg/chaos-am-hauptbahnhof-bahn-greift-durch-mit-ungewoehnlicher-massnahme/5076531","source":"Hamburger Morgenpost","category":"Verkehr"},
-  {"title":"Fernwärme-Baustelle sorgt für Frust","summary":"Anwohner der Bellealliancestraße unterstützen die Fernwärme. Probleme mit Müllentsorgung und Erreichbarkeit ärgern sie aber.","url":"https://www.ndr.de/fernsehen/sendungen/hamburg_journal/fernwaerme-baustelle-sorgt-fuer-frustbellealliancestrasse,hamj-16320.html","source":"NDR Hamburg","category":"Bauen & Wohnen"},
-  {"title":"Colonnaden: Neue Läden gegen Leerstand","summary":"Die Straße kämpft mit leeren Ladenflächen und erfindet sich neu. Auch Händler aus der Schanze ziehen in die City.","url":"https://www.abendblatt.de/hamburg/wirtschaft/article413551089/neustart-an-den-colonnaden-warum-laeden-aus-der-schanze-jetzt-in-die-city-ziehen-1.html","source":"Hamburger Abendblatt","category":"Wirtschaft & Hafen"},
-  {"title":"A26-Ost bleibt auf geplanter Trasse","summary":"Die Autobahn soll weiter auf der bisher vorgesehenen Strecke gebaut werden. Naturschützer fordern zugleich einen Stopp der Rodungen unter einem Seeadlerhorst.","url":"https://news.google.com/rss/articles/CBMie0FVX3lxTE41QWdkZjJxTlZ6SDYyRUoxVjFBa0VmLTIyZEVoVC1CXzBtSnJfME5yUXg1ZzVHREhIWWYyVUN0QmFlUDZyMGNyZnpieTNNZnZqMkNxdDhGajRlYlRJUXV5UWttNXU0M0lsQXJMMGtwVTRPeEE0VS1JemloUQ?oc=5","source":"SAT.1 Regional","category":"Bauen & Wohnen"},
-  {"title":"Hamburgs UFO-Turm verschwindet aus dem Hafen","summary":"Das auffällige Bauwerk wird laut Überschrift aus dem Hafen entfernt.","url":"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3RESEV0dTRVbVNNWmt3WXFYNEVjSm00S0hCNmE3c3E2WGRrWlExX083TDNDbG1ROUZaTnpNa2lzWVlDNFJYc3M1eGpHRE80ZzlWckpVSlZfWGRsNEM1LXVNYlM1SVRiaGg4Zl9EMjB4eTNoM2ZhcDBacGdLMS1KaGpGYVNzVkNOWFE2am12Qi1qX1JXYnNnSGJGUXNZWFVTMmtn?oc=5","source":"Hamburger Morgenpost","category":"Wirtschaft & Hafen"},
-  {"title":"Eltern-Kind-Zentrum in Osdorf bleibt bestehen","summary":"Die Einrichtung wird weiter betrieben, meldet hamburg.de.","url":"https://news.google.com/rss/articles/CBMitAFBVV95cUxQby0wZi13T2xFY3ViXzZ6X3hPOUJtbURaZ2U2UXctRUN6OU1Uam5qZnlJMWhEWGVfOFR2UkpjMTlwYUdJdTdaZXNXY3JPZFdqeVYyYkc2Y2dmcDIwUWhtUzJyRkJtNzNMMEdxeXlCNWhsU0R1NG5SUFBFNXhTNUtHRkdMQnd1X1dWMGdaQWJETldjQ2hNSW5TNkZQV0ZRSnFxNm1SU1liREpCZW16RUlDUDM2LUM?oc=5","source":"hamburg.de","category":"Stadt & Politik"},
-  {"title":"Mit dem Advents-Express zu den Weihnachtsmärkten","summary":"Hamburg.de stellt Fahrten mit einem Sonderzug zu den Weihnachtsmärkten vor.","url":"https://news.google.com/rss/articles/CBMipAFBVV95cUxPUDZNQ3lTUDRVQkk1eUhpZnl4X0poTlFQRG1GV1R0Mk9EeTM5RVhoaEtncGRDalI1LWFMZ3JPN0UxV0dIWnYtXzNxck5tZ3B1ckZDT3BwOUh3Vmw3NUlCUUFwYkpmczM1MGRsQVBwNjRXVFJPTWN0Y3RKcXB6UjJveFN2NVZGa2g5aG13MGNMZmdYRmJQTUdmVGh1bUY1MkZ1X3JaRA?oc=5","source":"hamburg.de","category":"Kultur & Freizeit","tipp":"Wer Weihnachtsmärkte besuchen will, findet Infos zum Advents-Express bei hamburg.de."},
-  {"title":"Letzter verkaufsoffener Sonntag des Jahres","summary":"Viele Geschäfte hatten geöffnet, dazu gab es Kulturprogramm. Der Handel hofft auf einen Schub fürs Weihnachtsgeschäft.","url":"https://news.google.com/rss/articles/CBMirAFBVV95cUxNT21KaUd4Uk9NZ2pNdFNkZTFFNzRMMlh2NkhNcURaaEwwQnNSckFjUm9kRTVMSVlLaV9qY2s4UC02TWZrUWQ5TEJrVEhMRVQ3RzlLZC0wRnJzMFFnckN4RVExZmVDc0FJYUhOT1JTOThKb1dvakh0T19hVHBQbWtraTdOVm52RTdLUGpvYzB2VTY4ajlkSHhGaXF1VjYyRE0yWmtBZG5nODRCdnlY?oc=5","source":"Hamburger Morgenpost","category":"Kultur & Freizeit"},
-  {"title":"Grauer November: Nebel, Frost und Regen","summary":"Die Morgenpost erklärt, wann es Auflockerungen gibt und wann Regen aufzieht.","url":"https://www.mopo.de/hamburg/nebel-frost-und-regen-was-uns-in-den-naechsten-tagen-erwartet/5076587","source":"Hamburger Morgenpost","category":"Stadt & Politik"},
-  {"title":"St. Pauli verliert 1:4 in Magdeburg","summary":"Es ist die erste Auswärtsniederlage der Saison. Zuvor gab es fünf Remis in Folge in der Fremde.","url":"https://www.ndr.de/sport/fussball/erste-auswaertspleite-fc-st-pauli-verliert-in-magdeburg,pauli-704.html","source":"NDR Hamburg","category":"Sport"}
+ "entries": [
+  {
+   "title": "HVV-Apps: Firma Jakala darf doch weiterarbeiten",
+   "summary": "Der Vertrag sollte zum Jahresende auslaufen. Jetzt gibt es eine Wende, die Hochbahn erklärt, wie es mit den Apps weitergeht.",
+   "url": "https://www.abendblatt.de/hamburg/politik/article413626084/app-chaos-nun-darf-firma-jakala-doch-weiter-fuer-hochbahn-und-hvv-programmieren.html",
+   "source": "Hamburger Abendblatt",
+   "category": "Verkehr"
+  },
+  {
+   "title": "Amsinckstraße noch nicht komplett frei",
+   "summary": "Fast sechs Wochen nach einem Wasserrohrbruch sollte der Stau ein Ende haben. Die Straße ist laut Morgenpost aber noch nicht wieder dreispurig.",
+   "url": "https://www.ndr.de/nachrichten/hamburg/amsinckstrasse-in-hamburg-noch-nicht-alle-spuren-wieder-frei,amsinckstrasse-108.html",
+   "source": "NDR Hamburg",
+   "category": "Verkehr"
+  },
+  {
+   "title": "Hamburg prüft Dokumentenboxen für Pässe und Ausweise",
+   "summary": "Der Senat will die Abholung beantragter Dokumente vereinfachen. Eine Box könnte Wartezeiten bei den Behörden verkürzen. Beschlossen ist noch nichts.",
+   "url": "https://www.ndr.de/nachrichten/hamburg/hamburger-senat-prueft-einfuehrung-von-dokumentenboxen,dokumentenbox-100.html",
+   "source": "NDR Hamburg",
+   "category": "Stadt & Politik"
+  },
+  {
+   "title": "Fitch bestätigt Bestnote für Hamburg",
+   "summary": "Die Ratingagentur bewertet die Kreditwürdigkeit der Stadt erneut mit AAA.",
+   "url": "https://www.ndr.de/nachrichten/hamburg/ratingagentur-fitch-vergibt-bestnoten-an-hamburg,kurzehh-4844.html",
+   "source": "NDR Hamburg",
+   "category": "Wirtschaft & Hafen"
+  },
+  {
+   "title": "Otto streicht weitere Stellen",
+   "summary": "Der Hamburger Konzern muss weiter Kosten senken. Diesmal sind die zentralen Bereiche dran, der Betriebsrat hat sich geäußert.",
+   "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413631041/hamburger-otto-konzern-streicht-weitere-stellen-wer-beim-amazon-konkurrenten-betroffen-ist.html",
+   "source": "Hamburger Abendblatt",
+   "category": "Wirtschaft & Hafen"
+  },
+  {
+   "title": "300 neue Wohnungen in Lokstedt geplant",
+   "summary": "Das rund 12.000 Quadratmeter große DRK-Areal am Behrmannplatz soll umgestaltet werden. Es sind bisher Pläne.",
+   "url": "https://www.abendblatt.de/hamburg/eimsbuettel/article413575298/immobilien-hamburg-300-neue-wohnungen-in-lokstedt-das-sind-die-spektakulaeren-plaene-1.html",
+   "source": "Hamburger Abendblatt",
+   "category": "Bauen & Wohnen"
+  },
+  {
+   "title": "Weg an der Elbe: Streit um die Sanierung",
+   "summary": "Aus Kostengründen soll auf zwei Abschnitten an der Ringelnatztreppe und am Hirschpark der Sand weg. Bürgervereine protestieren.",
+   "url": "https://www.abendblatt.de/hamburg/altona/article413625517/sanierung-von-beliebtem-weg-an-elbe-sorgt-fuer-aerger-seelenlose-asphaltpiste.html",
+   "source": "Hamburger Abendblatt",
+   "category": "Stadt & Politik"
+  },
+  {
+   "title": "Harburger Tafel gibt zwei Ausgabestellen auf",
+   "summary": "Für Hunderte Bedürftige im Hamburger Süden wird der Weg zu kostenlosen Lebensmitteln bald deutlich länger.",
+   "url": "https://www.mopo.de/hamburg/aus-fuer-zwei-lebensmittel-ausgaben-in-hamburgs-sueden-tafel-erklaert-die-gruende/5078556",
+   "source": "Hamburger Morgenpost",
+   "category": "Stadt & Politik"
+  },
+  {
+   "title": "Neuer Abschnitt im Miniatur Wunderland eröffnet",
+   "summary": "Nach fast vier Jahren Bauzeit ist der Regenwald-Abschnitt mit den Naturwelten Südamerikas fertig, der bislang aufwendigste und teuerste.",
+   "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/neuer-abschnitt-regenwald-im-miniatur-wunderland-eroeffnet,hamj-16348.html",
+   "source": "NDR Hamburg",
+   "category": "Kultur & Freizeit"
+  },
+  {
+   "title": "St. Pauli verliert 1:4 in Magdeburg",
+   "summary": "Es ist die höchste Saisonniederlage. Nach einem Drittel der Saison liegt St. Pauli hinter den eigenen Ansprüchen.",
+   "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/fc-st-pauli-verliert-mit-14-in-magdeburg,hamj-16356.html",
+   "source": "NDR Hamburg",
+   "category": "Sport"
+  },
+  {
+   "title": "Privatjets: mehr Flüge nach Sylt als nach Mallorca",
+   "summary": "Eine neue Studie zeigt das für Flüge ab Hamburg. Umweltschützer fordern ein Verbot, Flughafenchef Stephan Haake sieht das anders.",
+   "url": "https://www.mopo.de/im-norden/schleswig-holstein/privatjet-boom-zwischen-hamburg-und-sylt-umweltschuetzer-fordern-drastische-massnahme/5078518",
+   "source": "Hamburger Morgenpost",
+   "category": "Wirtschaft & Hafen"
+  },
+  {
+   "title": "Polizei kündigt nach neuen Schüssen harte Linie an",
+   "summary": "Der Polizeipräsident plant weitere Razzien gegen illegale Waffen. Eine 60-köpfige Soko gegen Schutzgelderpressung und Drogendeals hat erste Erfolge.",
+   "url": "https://www.abendblatt.de/hamburg/politik/article413627867/nach-erneuten-schuessen-polizeipraesident-kuendigt-kompromisslose-linie-an.html",
+   "source": "Hamburger Abendblatt",
+   "category": "Polizei & Sicherheit"
+  }
  ]
 }
