@@ -1,11 +1,17 @@
 {
- "fetched": "2026-11-10T03:44:52.472Z",
+ "fetched": "2026-11-10T05:17:04.984Z",
  "hours": 48,
  "sources": [
   {
    "name": "NDR Hamburg",
    "ok": true,
    "items": [
+    {
+     "title": "Falklandinseln-Streit: In Hamburg startet Prozess um Öl",
+     "url": "https://www.ndr.de/nachrichten/hamburg/falklandinseln-streit-in-hamburg-startet-prozess-um-oel,seegerichtshof-122.html",
+     "date": "2026-11-10T04:30:26.000Z",
+     "text": "Argentinien zieht gegen Großbritannien vor den Seegerichtshof. In Nienstedten geht es um ein umstrittenes Öl-Förderprojekt im Atlantik."
+    },
     {
      "title": "Ansagen an Hamburger Bahnsteigen: Fahrgäste sollen Hauptbahnhof meiden",
      "url": "https://www.ndr.de/nachrichten/hamburg/ansagen-an-hamburger-bahnsteigen-fahrgaeste-sollen-hauptbahnhof-meiden,bahn-1460.html",
@@ -19,22 +25,16 @@
      "text": "Im Prozess in Hamburg um die Sprengung der Nord-Stream-Pipelines hat ein Sprengstoffexperte seine Einschätzung vorgetragen."
     },
     {
+     "title": "Hamburg Towers siegen im Kellerduell bei Science City Jena",
+     "url": "https://www.ndr.de/sport/mehr_sport/sieg-in-jena-hamburg-towers-gelingt-befreiungsschlag,towers-164.html",
+     "date": "2026-11-09T21:30:50.000Z",
+     "text": "Nach zuvor fünf Niederlagen in Folge gewinnen die \"Türme\" das Kellerduell der Basketball-Bundesliga und verlassen die Abstiegsplätze."
+    },
+    {
      "title": "Impftage in Hamburger Gesundheitsämtern",
      "url": "https://www.ndr.de/nachrichten/hamburg/Grippe-Impftage-in-Hamburger-Gesundheitsaemtern-,impfen-300.html",
      "date": "2026-11-09T10:01:31.000Z",
      "text": "Die Erkältungszeit ist da und mit ihr auch die Grippe-Saison. In dieser Woche gibt es in den Gesundheitsämtern der Hamburger Bezirken deshalb Impfangebote."
-    },
-    {
-     "title": "Miniatur Wunderland wächst bis zum Amazonas-Regenwald",
-     "url": "https://www.ndr.de/ratgeber/reise/hamburg/miniatur-wunderland-waechst-bis-zum-amazonas-regenwald,miniaturwunderland105.html",
-     "date": "2026-11-09T15:30:51.000Z",
-     "text": "Die riesige Modelleisenbahn-Anlage hat einen neuen Abschnitt eröffnet. Es geht in den Regenwald, die Anden und bis nach Chile."
-    },
-    {
-     "title": "Erinnerung an Reichspogromnacht: Gedenken in Hamburg",
-     "url": "https://www.ndr.de/nachrichten/hamburg/gedenken-an-reichspogromnacht-im-hamburger-grindelviertel,gedenken-pogromnacht-106.html",
-     "date": "2026-11-09T19:34:23.000Z",
-     "text": "Auch in diesem Jahr wurde in Hamburg wieder an die Pogromnacht erinnert. Mit einer Gedenkfeier im Grindelviertel, aber auch mit einer Aktion am Rathaus."
     },
     {
      "title": "Unfall in Allermöhe erst nach Stunden entdeckt",
@@ -53,24 +53,6 @@
      "url": "https://www.ndr.de/nachrichten/hamburg/unbekannter-schiesst-auf-bar-in-wihelmsburg,kurzehh-4850.html",
      "date": "2026-11-09T16:04:48.000Z",
      "text": "Ein Gast entdeckte ein Einschussloch und rief die Polizei. Die Gäste der Bar blieben unverletzt."
-    },
-    {
-     "title": "Hunderte fordern bei Demo Nachbesserungen der Pflegereform",
-     "url": "https://www.ndr.de/nachrichten/hamburg/hunderte-fordern-bei-demo-nachbesserungen-der-pflegereform,kurzehh-4848.html",
-     "date": "2026-11-09T19:35:37.000Z",
-     "text": "Wohlfahrts- und Pflegeverbände protestierten in der Hamburger Innenstadt gegen das Vorhaben der Bundesregierung."
-    },
-    {
-     "title": "Hamburger Schulmuseum geht mit Kriegsausstellung auf Tour",
-     "url": "https://www.ndr.de/nachrichten/hamburg/hamburger-schulmuseum-geht-mit-kriegsausstellung-auf-tour,kurzehh-4846.html",
-     "date": "2026-11-09T13:38:08.000Z",
-     "text": "Während das Schulmuseum auf St. Pauli saniert wird, können Schulen eine Ausstellung zur Schulzeit im Zweiten Weltkrieg ausleihen."
-    },
-    {
-     "title": "Ratingagentur Fitch vergibt Bestnoten an Hamburg",
-     "url": "https://www.ndr.de/nachrichten/hamburg/ratingagentur-fitch-vergibt-bestnoten-an-hamburg,kurzehh-4844.html",
-     "date": "2026-11-09T10:07:00.000Z",
-     "text": "Verlässlich und kreditwürdig: Die Ratingagentur Fitch hat die hohe Bonität der Hansestadt Hamburg erneut mit der Bestnote \"AAA\" bestätigt."
     },
     {
      "title": "Neuer Abschnitt \"Regenwald\" im Miniatur Wunderland eröffnet",
@@ -127,6 +109,24 @@
      "text": "Bi \"Wi snackt Platt\" sünd wi dütmal op de Plattdüütsche Bökermess in'n Lichtwarksaal vun'e Carl-Toepfer-Stiften ünnerwegens, de dat düt Wekenenn (7. un 8. November) to beleven gifft. Dorto besinnt wi uns op Starclub-Legenn un Plattsnacker Horst Fascher, un wi vertellt Jo mehr över de ne'e Ohnsorg-Kumedie \"Wellness is keen Zuckerslicken - Köche, Kekse, Katastrophen\"."
     },
     {
+     "title": "Erinnerung an Reichspogromnacht: Gedenken in Hamburg",
+     "url": "https://www.ndr.de/nachrichten/hamburg/gedenken-an-reichspogromnacht-im-hamburger-grindelviertel,gedenken-pogromnacht-106.html",
+     "date": "2026-11-09T19:34:23.000Z",
+     "text": "Auch in diesem Jahr wurde in Hamburg wieder an die Pogromnacht erinnert. Mit einer Gedenkfeier im Grindelviertel, aber auch mit einer Aktion am Rathaus."
+    },
+    {
+     "title": "Zerstörung und Neuanfang: 70 Jahre St. Nikolai in Harvestehude",
+     "url": "https://www.ndr.de/geschichte/schauplaetze/st-nikolai-gemeinde-findet-1956-neue-heimat-am-klosterstern,sanktnikolai-100.html",
+     "date": "2026-11-10T04:00:00.000Z",
+     "text": "Weil die Hamburger Hauptkirche im Krieg zerstört wird, muss die Gemeinde umziehen. Am 6. November 1956 öffnet der Kirchsaal in Harvestehude."
+    },
+    {
+     "title": "Miniatur Wunderland wächst bis zum Amazonas-Regenwald",
+     "url": "https://www.ndr.de/ratgeber/reise/hamburg/miniatur-wunderland-waechst-bis-zum-amazonas-regenwald,miniaturwunderland105.html",
+     "date": "2026-11-09T15:30:51.000Z",
+     "text": "Die riesige Modelleisenbahn-Anlage hat einen neuen Abschnitt eröffnet. Es geht in den Regenwald, die Anden und bis nach Chile."
+    },
+    {
      "title": "Neue Fernwärme für Hamburg: Wedel soll bald vom Netz",
      "url": "https://www.ndr.de/nachrichten/hamburg/neue-fernwaerme-fuer-hamburg-wedel-soll-bald-vom-netz,gasturbine-102.html",
      "date": "2026-11-09T17:24:40.000Z",
@@ -151,24 +151,6 @@
      "text": "An der Hamburgischen Staatsoper war am Wochenende eine \"Dornröschen\"-Inszenierung mit viel Spektakel, Popmusik und Operngesang zu sehen."
     },
     {
-     "title": "Umfrage: Mehrheit im Norden unzufrieden, wie Demokratie funktioniert",
-     "url": "https://www.ndr.de/nachrichten/info/umfrage-mehrheit-im-norden-unzufrieden-wie-demokratie-funktioniert,demokratie-172.html",
-     "date": "2026-11-09T05:00:00.000Z",
-     "text": "Eine klare Mehrheit spricht sich für Volksentscheide aus. Das zeigt eine Umfrage von Infratest dimap im Auftrag der ARD."
-    },
-    {
-     "title": "Umfrage: Mehrheit glaubt nicht an Erfolg von Klimakonferenz",
-     "url": "https://www.ndr.de/ndrfragt/umfrage-mehrheit-glaubt-nicht-an-erfolg-von-klimakonferenz,klima-360.html",
-     "date": "2026-11-08T19:00:00.000Z",
-     "text": "Klimaschutz bleibt den Befragten laut #NDRfragt wichtig. Denn die Folgen des Klimawandels spüren viele inzwischen ganz konkret."
-    },
-    {
-     "title": "Vertrag in Flensburg aufgelöst - HC Hamburg verpflichtet Luca Witzke",
-     "url": "https://www.ndr.de/sport/handball/bundesliga/vertrag-in-flensburg-aufgeloest-hc-hamburg-verpflichtet-luca-witzke,handball-1076.html",
-     "date": "2026-11-09T06:57:26.000Z",
-     "text": "Handball-Bundesligist HC Hamburg hat einen Ersatz für den noch lange ausfallenden Spielmacher Moritz Sauter gefunden. Luca Witzke erhält einen Vertrag bis Saisonende."
-    },
-    {
      "title": "Bewegender Film über \"Bataclan\"-Massaker im NDR",
      "url": "https://www.ndr.de/kultur/film/tipps/meinen-hass-bekommt-ihr-nicht-drama-ueber-bataclan-massaker-im-ndr,meinenhass-106.html",
      "date": "2026-11-10T00:00:00.000Z",
@@ -185,6 +167,12 @@
      "url": "https://www.ndr.de/903/das-grosse-weihnachtssingen-im-volksparkstadion-von-ndr-903-und-hsv,dasgrosseweihnachtssingen-100.html",
      "date": "2026-11-08T09:50:07.000Z",
      "text": "NDR 90,3 und der Hamburger SV laden am 6. Dezember zum großen Weihnachtssingen mit prominenten Künstlern ins Volksparkstadion ein."
+    },
+    {
+     "title": "Achtung Möwe: Freche Vögel im Großstadtrevier",
+     "url": "https://www.ardmediathek.de/video/Y3JpZDovL25kci5kZS9jZDlhOGIyZC05ZTZkLTRmNjItYWI2MC01MDk4ODY1NGFhYmU",
+     "date": "2026-11-09T10:55:47.000Z",
+     "text": "Möwen gehören zu Hamburg wie der Hafen, doch manchmal können sie ganz schön nerven. An den Landungsbrücken lauern die Seevögel auf Fischbrötchen und Pommes."
     }
    ]
   },
@@ -197,6 +185,90 @@
      "url": "https://www.abendblatt.de/hamburg/altona/article413625517/sanierung-von-beliebtem-weg-an-elbe-sorgt-fuer-aerger-seelenlose-asphaltpiste.html",
      "date": "2026-11-09T18:22:00.000Z",
      "text": "Aus Kostengründen soll der Sand weg. Zwei Abschnitte an der Ringelnatztreppe und dem Hirschpark betroffen. Bürgervereine sind entsetzt."
+    },
+    {
+     "title": "Katharina Fegebank wird in der Thai Oase zur Karaoke-Queen – alle Songs im Video",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413627500/katharina-fegebank-wird-in-der-thai-oase-zur-karaoke-queen-alle-songs-im-video.html",
+     "date": "2026-11-10T05:10:00.000Z",
+     "text": "Beim Abendblatt-Event spricht Hamburgs Zweite Bürgermeisterin über wilde Nächte, Sehnsucht nach Stille und ein Duett mit Friedrich Merz."
+    },
+    {
+     "title": "„Alles nur ’ne Phase“: „Eltern“ veranstaltet Chorkonzert in der Christianskirche",
+     "url": "https://www.abendblatt.de/hamburg/altona/article413628797/alles-nur-ne-phase-eltern-veranstaltet-chorkonzert-in-der-christianskirche.html",
+     "date": "2026-11-10T05:05:00.000Z",
+     "text": "„Eltern“ bringt Familien mit Musik zusammen. Bei einem besonderen Chorkonzert in Hamburg steht der Alltag von Eltern im Fokus."
+    },
+    {
+     "title": "Sieben Filialen, etwa 100 Mitarbeiter: Bäckerei Michely in der Insolvenz",
+     "url": "https://www.abendblatt.de/schleswig-holstein/norderstedt/article413626744/etwa-100-mitarbeiter-und-gut-50-glaeubiger-baeckerei-michely-in-der-insolvenz.html",
+     "date": "2026-11-10T04:59:00.000Z",
+     "text": "Zwei Filialen in Hamburg und Neumünster geschlossen. Insolvenzverwalter sieht dennoch Chancen für den Erhalt des Unternehmens."
+    },
+    {
+     "title": "Ist mein Kind fit für das Gymnasium? Das rät eine Hamburger Schulleiterin Eltern",
+     "url": "https://www.abendblatt.de/hamburg/politik/article413618439/ist-mein-kind-fit-fuer-das-gymnasium-das-raet-eine-hamburger-schulleiterin-eltern.html",
+     "date": "2026-11-10T04:55:00.000Z",
+     "text": "Entscheidung über Wahl der Schule: Welche fünf Eigenschaften ein Kind mitbringen sollte und welches Risiko vielen Eltern nicht bewusst ist."
+    },
+    {
+     "title": "Klimabeirat warnt: Wer jetzt neue Gasheizung einbaut, zahlt teuer drauf",
+     "url": "https://www.abendblatt.de/hamburg/politik/article413625970/klimabeirat-warnt-wer-jetzt-neue-gasheizung-einbaut-zahlt-teuer-drauf.html",
+     "date": "2026-11-10T04:50:00.000Z",
+     "text": "Dringender Appell: Hamburg dürfe ehrgeizige Klimaziele nicht aufgeben. Zuletzt wuchsen Zweifel, ob die Stadt 2040 klimaneutral werden kann."
+    },
+    {
+     "title": "Stress reduzieren: Longevity-Expertin Nina Ruge (70) verrät ihre Tipps",
+     "url": "https://www.abendblatt.de/hamburg/eimsbuettel/article413597822/stress-reduzieren-longevity-expertin-nina-ruge-70-verraet-in-hamburg-ihre-tipps.html",
+     "date": "2026-11-10T04:48:00.000Z",
+     "text": "Die Moderatorin beschäftigt sich schon lange mit gesundem Altern, auch in ihrem aktuellen Buch. Gesunde Ernährung ist nur ein Baustein."
+    },
+    {
+     "title": "Größere Klassen, weniger Angebote: Was dem Hansa-Gymnasium droht",
+     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413632990/groessere-klassen-weniger-angebote-was-dem-hansa-gymnasium-droht.html",
+     "date": "2026-11-10T04:45:00.000Z",
+     "text": "Der geplante Sparkurs der Stadt Hamburg trifft auch Bergedorfs Schulen. Schulleiter Lars Bodenstein spielt bereits Szenarien durch."
+    },
+    {
+     "title": "Gibt es einen Zusammenhang zwischen Intelligenz und Musikalität?",
+     "url": "https://www.abendblatt.de/ratgeber-wissen/article413626077/gibt-es-einen-zusammenhang-zwischen-intelligenz-und-musikalitaet.html",
+     "date": "2026-11-10T04:43:00.000Z",
+     "text": "Daniel Müllensiefen erklärt den Einfluss von musikalischer Erziehung in der Jugend auf das spätere Leben – der ist beträchtlich."
+    },
+    {
+     "title": "Mutter und Töchter schließen nach 14 Jahren ihre Boutique – „sehr traurig“",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article413625009/mutter-und-toechter-schliessen-nach-14-jahren-ihre-boutique-mili-in-hamburg-sehr-traurig.html",
+     "date": "2026-11-10T04:40:00.000Z",
+     "text": "Fríða Tomasdottir und ihre Töchter geben ihren Laden Mili in Hoheluft-Ost schweren Herzens auf. So reagieren die Kundinnen."
+    },
+    {
+     "title": "Lighthouse in der HafenCity: Kran trägt Hamburgs wohl auffälligste Wohnung ab",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413536617/lighthouse-in-der-hafencity-kran-traegt-hamburgs-wohl-auffaelligste-wohnung-ab.html",
+     "date": "2026-11-10T04:38:00.000Z",
+     "text": "Der Abriss des markanten Bauwerks auf dem Baakenhöft läuft bereits. Verantwortliche schildern das Vorgehen, Hamburger äußern Bedauern."
+    },
+    {
+     "title": "Hamburg hat jetzt einen „Blood Club“: Macher verraten die Idee dahinter",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article413580613/hamburg-hat-jetzt-einen-blood-club-macher-verraten-die-idee-dahinter.html",
+     "date": "2026-11-10T04:35:00.000Z",
+     "text": "Das Prinzip „gemeinsam statt einsam“ kennt man aus Running- oder Spazier-Clubs. Dieses neue Gruppenerlebnis hilft aber auch noch anderen."
+    },
+    {
+     "title": "Cluster-Wohnen in Bergedorf: Pläne für 32 Wohnungen werden konkret",
+     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413631535/cluster-wohnen-in-bergedorf-plaene-fuer-32-wohnungen-werden-konkret.html",
+     "date": "2026-11-10T04:30:00.000Z",
+     "text": "Bei einer Begehung im Oktober wurden Erscheinungsbild und Grundrisse vorgestellt. Ziel: Baustart spätestens bis Sommer 2027."
+    },
+    {
+     "title": "„Strebergarten“, „Nur der HVV“: Die lustigsten Namen für die Haltestellen der U5",
+     "url": "https://www.abendblatt.de/hamburg/politik/article413631869/strebergarten-nur-der-hvv-die-lustigsten-namen-fuer-die-haltestellen-der-u5.html",
+     "date": "2026-11-10T04:20:00.000Z",
+     "text": "Die Hochbahn sucht Namen für die U-Bahn-Stationen an der Uni Hamburg, an der Jarrestraße und an den Arenen. Eine Auswahl der kreativsten Ideen."
+    },
+    {
+     "title": "Vom Praktikanten zum Chef: Generationswechsel bei Fahrrad Marcks",
+     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413628482/vom-praktikanten-zum-chef-generationswechsel-bei-fahrrad-marcks.html",
+     "date": "2026-11-10T04:10:00.000Z",
+     "text": "Nach mehr als 23 Jahren im Unternehmen rückt André Gleiche an die Spitze von Fahrrad Marcks. Tina Hansmann zieht sich aus der Geschäftsführung zurück."
     },
     {
      "title": "Hunderte gedenken in Hamburg der Opfer der Novemberpogrome und der Schoah",
@@ -259,12 +331,6 @@
      "text": "Seit Oktober muss sich der ukrainische Ex-Offizier in Hamburg vor Gericht verantworten. Dabei wird ein detailliertes Bild des Mannes gezeichnet."
     },
     {
-     "title": "Neues Flugzeug von Airbus schafft es ins Guinnessbuch der Rekorde",
-     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413632412/airbus-a350-1000-ulr-qantas-guiness-weltrekord-laengster-flug.html",
-     "date": "2026-11-09T17:32:00.000Z",
-     "text": "A350-1000 ULR flog mehr als 24 Stunden nonstop. Nun erhielt Airbus die Auszeichnung für den längsten Flug eines Verkehrsjets. Die Route."
-    },
-    {
      "title": "Warnstreik bei Neumann Kaffee: Gewerkschaft fordert Haustarifvertrag",
      "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413628741/warnstreik-bei-neumann-kaffee-gewerkschaft-fordert-haustarifvertrag.html",
      "date": "2026-11-09T17:23:00.000Z",
@@ -275,12 +341,6 @@
      "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413598773/steuerhinterziehung-in-hamburg-mit-steuergeld-soll-unternehmer-luxusleben-finanziert-haben.html",
      "date": "2026-11-09T17:11:00.000Z",
      "text": "Als Chef einer Bergedorfer Firma soll er das Finanzamt jahrelang um Millionen betrogen haben. Er sagt: „Hätte eigentlich auffliegen müssen.“"
-    },
-    {
-     "title": "Hamburger Otto-Konzern streicht weitere Stellen – wer jetzt betroffen ist",
-     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413631041/hamburger-otto-konzern-streicht-weitere-stellen-wer-beim-amazon-konkurrenten-betroffen-ist.html",
-     "date": "2026-11-09T17:00:00.000Z",
-     "text": "Der Amazon-Konkurrent muss weiter Kosten senken. Jetzt sind die zentralen Bereiche dran. Worum es im Detail geht. Was der Betriebsrat sagt."
     },
     {
      "title": "Kirche wird zur Kükenstube: Neue Kita eröffnet in der Harburger City",
@@ -299,78 +359,6 @@
      "url": "https://www.abendblatt.de/hamburg/politik/article413633682/hamburg-beweg-dich-selbst-kranfirma-hat-jetzt-genug-vom-elbtower-chaos.html",
      "date": "2026-11-09T16:18:46.000Z",
      "text": "Beim Bau des Hamburger Elbtowers verschärft sich die Lage: Nach monatelangem Stillstand droht das Bauunternehmen Lupp mit Abzug der Technik."
-    },
-    {
-     "title": "Scholz & Friends: Langjähriger CEO verlässt Hamburger Werbeagentur",
-     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413632179/scholz-friends-langjaehriger-ceo-frank-michael-schmidt-verlaesst-hamburger-werbeagentur.html",
-     "date": "2026-11-09T16:14:00.000Z",
-     "text": "Frank-Michael Schmidt zieht sich zurück, der britische Mutterkonzern WPP baut um. Hamburgs Rolle als Werbehauptstadt hat sich verändert."
-    },
-    {
-     "title": "45-Jähriger schnorrt Mann um Zigarette an – dann stößt er ihn ins Gleisbett",
-     "url": "https://www.abendblatt.de/hamburg/harburg/article413596005/s-bahn-hamburg-45-jaehriger-schnorrt-mann-um-zigarette-an-dann-stoesst-er-ihn-ins-gleisbett-1.html",
-     "date": "2026-11-09T15:59:00.000Z",
-     "text": "Ein alkoholisierter 45-Jähriger bettelt am S-Bahnhof Neugraben einen zehn Jahre älteren Mann an. Als der nicht liefern kann, eskaliert es."
-    },
-    {
-     "title": "300 neue Wohnungen in Lokstedt: Zentrales DRK-Areal soll umgestaltet werden",
-     "url": "https://www.abendblatt.de/hamburg/eimsbuettel/article413575298/immobilien-hamburg-300-neue-wohnungen-in-lokstedt-das-sind-die-spektakulaeren-plaene-1.html",
-     "date": "2026-11-09T15:56:00.000Z",
-     "text": "Spektakuläre Pläne für das rund 12.000 Quadratmeter große Grundstück am Behrmannplatz. Hier könnte „lebendiger Mittelpunkt“ entstehen."
-    },
-    {
-     "title": "Großeinsatz: Polizei sucht Patienten aus der Psychiatrie des Bethesda",
-     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413632843/grosseinsatz-polizei-sucht-patienten-aus-der-psychiatrie-des-bethesda.html",
-     "date": "2026-11-09T15:45:00.000Z",
-     "text": "Der Mann war im geschlossenen Teil der Klinik untergebracht und hatte randaliert. Um 15.30 Uhr gelang es ihm, das Krankenhaus zu verlassen."
-    },
-    {
-     "title": "Überraschend: Elbfähre Zollenspieker-Hoopte geht vorzeitig in die Winterpause",
-     "url": "https://www.abendblatt.de/hamburg/harburg/article413626941/elbe-faehre-zollenspieker-hoopte-geht-vorzeitig-in-winterpause.html",
-     "date": "2026-11-09T15:44:00.000Z",
-     "text": "„Betriebliche Gründe“ führen zu vorzeitigem Ende der Fährsaison zwischen Hamburg und Niedersachsen. Was bedeutet das für die Erlebnisfahrten?"
-    },
-    {
-     "title": "Drohnen-Fund an Bundeswehr-Akademie: Spionageangriff oder Ordnungswidrigkeit?",
-     "url": "https://www.abendblatt.de/hamburg/altona/article413632267/drohnen-fund-an-bundeswehr-akademie-spionageangriff-oder-ordnungswidrigkeit.html",
-     "date": "2026-11-09T15:22:00.000Z",
-     "text": "Die Polizei ermittelt gegen einen bisher unbekannten Piloten. Bisher wird von einem misslungenen Flug ohne Spionage-Absichten ausgegangen."
-    },
-    {
-     "title": "Hamburgs neues „Kraftwerk“ an der A7 fast fertig – aber Fernwärme wird teuer",
-     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413590037/hamburgs-neues-kraftwerk-an-der-a7-fast-fertig-aber-fernwaerme-wird-teuer.html",
-     "date": "2026-11-09T14:44:00.000Z",
-     "text": "Der ungewöhnliche Energiepark Hafen löst schon bald das Kohlekraftwerk Wedel ab: gut für die Umwelt, aber schlecht für die Heizkosten."
-    },
-    {
-     "title": "Miniatur Wunderland eröffnet neue Sechs-Millionen-Euro-Welt – „magisch“",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413628110/miniatur-wunderland-eroeffnet-neue-sechs-millionen-euro-welt-magisch.html",
-     "date": "2026-11-09T14:39:00.000Z",
-     "text": "Nach vier Jahren Bauzeit ist der neue Abschnitt fertig. Peter Tschentscher (SPD) adelt Braun-Brüder und stellt besondere Ehre in Aussicht."
-    },
-    {
-     "title": "Influencer-Werbung: Viele Versprechen bei Nahrungsergänzung sind unzulässig",
-     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413631244/influencer-werbung-nahrungsergaenzung-viele-versprechen-sind-unzulaessig.html",
-     "date": "2026-11-09T14:30:00.000Z",
-     "text": "Verbraucherzentralen untersuchen mehr als 800 Beiträge auf Instagram und TikTok – und finden oft verbotene Angaben sowie verdeckte Werbung."
-    },
-    {
-     "title": "Erinnerung an 56 tote Kinder: Sorge um Bergedorfs wichtigstes Mahnmal",
-     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413610300/neue-stolpersteine-mahnmal-fuer-junge-ns-opfer-im-landgebiet.html",
-     "date": "2026-11-09T14:27:00.000Z",
-     "text": "56 weiße Rosen vor Obi-Baumarkt abgelegt. Die AG Gedenken wünscht sich mehr Sichtbarkeit für Gedenkstätten der Zwangsarbeiter-Kinder."
-    },
-    {
-     "title": "Nach Aus von beliebtem Eisladen Schlecks: Betreiber haben überraschende Nachricht",
-     "url": "https://www.abendblatt.de/hamburg/altona/article413626828/nach-aus-von-beliebtem-eisladen-schlecks-betreiber-haben-ueberraschende-nachricht.html",
-     "date": "2026-11-09T14:22:00.000Z",
-     "text": "Eiscrememischung von frostiger Granitplatte – mit diesem Konzept hatte der Laden in Ottensen 10 Jahre lang Erfolg. Was nun folgt."
-    },
-    {
-     "title": "Hamburger soll Videos mit sexuellem Missbrauch verschickt haben – auch von Babys",
-     "url": "https://www.abendblatt.de/hamburg/politik/article413625672/er-wandte-sich-an-gleichgesinnte-fuer-den-missbrauch-von-kindern.html",
-     "date": "2026-11-09T14:21:00.000Z",
-     "text": "Menschliche Abgründe im Prozess um fast 200 Fälle von Kinderpornografie. Andere Filme zeigen laut Anklage Kinder im Kita- und Grundschulalter."
     }
    ]
   },
@@ -608,10 +596,10 @@
      "via": "Hamburg.de"
     },
     {
-     "title": "App-Chaos: Nun darf Firma Jakala doch weiter für Hochbahn und HVV programmieren - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYnAzVV9jalVEbkdyVUd1dHdlbFFXUHlkb1dmRHBBMk1mZF9xMVRwSElKd25DUk95NHR1eHVGa1lrWnNRVE0tUW9pb3VlRHBqc1ZBWTQ5ZmkyaUtmRUd0UklIT2pQMWxlY0MyamhCZ3ZTNTZsaFJEX0pVU2lCb3dFenRzUWJBYTZ1ZUh2SFhPRTIxQlR1RTQ5NFhNREdXRUZ1b3BiNGJhQkRKRUZSLUpWYnNrNjlzX00waUo3QkRWVmU5czc1b2dYVDhKbHRBRzZucGpxbjJqaW8yQkU?oc=5",
-     "date": "2026-11-09T17:52:00.000Z",
-     "text": "App-Chaos: Nun darf Firma Jakala doch weiter für Hochbahn und HVV programmieren Hamburger Abendblatt",
+     "title": "„Strebergarten“, „Nur der HVV“: Die lustigsten Namen für die Haltestellen der U5 - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZXdZajU1NzhlUDNvNzl0RlFoUzNIZGFzOHRoTGYxWlFIc0NoNlhlcUhwNzF1ZXpSVG5WeHRPSVZ2V1RRcjJKMEMzRm9fOW43TVJONTBvMnhpN0ZIbm9nY1NuclVkMFBTclFiYnJjZDJMUnBqTmlSai1EOHFydWRZQ2hRaFV6a3E5QVJGVWRmZ0dtQmVyRjdudmxqU3dwUVFuV1Z0blBvOFJKMkt6MEctYmpFUTRSNHRHUWpCMThZUmZRMjgzUFJDQlc0cVBud0NIZktZVzJ3?oc=5",
+     "date": "2026-11-10T04:20:00.000Z",
+     "text": "„Strebergarten“, „Nur der HVV“: Die lustigsten Namen für die Haltestellen der U5 Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
@@ -620,6 +608,13 @@
      "date": "2026-11-09T12:01:03.000Z",
      "text": "Hamburgs neues Fernwärme-Kraftwerk geht ans Netz - und Wedel bald vom Netz NDR.de",
      "via": "NDR.de"
+    },
+    {
+     "title": "App-Chaos: Nun darf Firma Jakala doch weiter für Hochbahn und HVV programmieren - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYnAzVV9jalVEbkdyVUd1dHdlbFFXUHlkb1dmRHBBMk1mZF9xMVRwSElKd25DUk95NHR1eHVGa1lrWnNRVE0tUW9pb3VlRHBqc1ZBWTQ5ZmkyaUtmRUd0UklIT2pQMWxlY0MyamhCZ3ZTNTZsaFJEX0pVU2lCb3dFenRzUWJBYTZ1ZUh2SFhPRTIxQlR1RTQ5NFhNREdXRUZ1b3BiNGJhQkRKRUZSLUpWYnNrNjlzX00waUo3QkRWVmU5czc1b2dYVDhKbHRBRzZucGpxbjJqaW8yQkU?oc=5",
+     "date": "2026-11-09T17:52:00.000Z",
+     "text": "App-Chaos: Nun darf Firma Jakala doch weiter für Hochbahn und HVV programmieren Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
     },
     {
      "title": "U5 in Alsterdorf: Hochbahn muss Nachbarn der Mega-Baustelle entschädigen - Hamburger Abendblatt",
@@ -648,13 +643,6 @@
      "date": "2026-11-09T05:57:41.000Z",
      "text": "Hamburg: Vermarktungsstart von PortOne in Steinwerder Süd Österreichische Verkehrszeitung -",
      "via": "Österreichische Verkehrszeitung -"
-    },
-    {
-     "title": "Hafenreport: Nord-Stream, Neuwerk und 40 Jahre Cap San Diego - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXFPRE5SQnQxejcyd1FISU9WTTZnM2VocFZPS3lPUy1zcWZVeUlhMi14TWswd3pYd2VUdUxqQTE5ZEdSVFBJdDhGUVZ4VEQ1TldWN2R3RTR0czF4THhOMzlNaEtjM1I5aHNXekdkSDh4QnAzeXEza0Z4dUhMMjZPcy0tZmp5SkN6MmlMY0pQZk5Bc21fZG15V0RiNEhZZXpzdFE?oc=5",
-     "date": "2026-11-08T05:00:00.000Z",
-     "text": "Hafenreport: Nord-Stream, Neuwerk und 40 Jahre Cap San Diego NDR.de",
-     "via": "NDR.de"
     },
     {
      "title": "Starke Winde: \"Aida Perla\" muss Hafen streichen – neuer Kurs - t-online – Hamburg",
@@ -720,17 +708,17 @@
      "via": "Hamburg.de"
     },
     {
-     "title": "Hamburger Gesundheitsämter bieten am 10. und 11. November Impftage gegen Grippe und weitere Atemwegserreger an - hamburg.de - Hamburg.de",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY2Z1SEtTaHNURlFOa0RPdHRrNU80LXRfdjV0UHdxWXpYdVlxR3VFRW95YndSM0ZDZFFuUVAzMnNsemh3T2N3bnZqb0R0VTBsb1J3UERvSFczMlpMWDcyTExuWS1jSmZPcjAtaV9wejU3NndmUzhya2pHRm91b3htMFZfOFpNeDVfdEpXdDRBVHYxVGw0MEM0Qm5VWGpzN1VfN01rUXdmWEhaWXM2LUUtWFcyVUI5ZU9GaVE?oc=5",
-     "date": "2026-11-09T09:15:00.000Z",
-     "text": "Hamburger Gesundheitsämter bieten am 10. und 11. November Impftage gegen Grippe und weitere Atemwegserreger an - hamburg.de Hamburg.de",
-     "via": "Hamburg.de"
-    },
-    {
      "title": "Grundschule Adolph-Schönfelder-Schule (AS Brucknerstraße) wird Schulstraße - Hamburg.de",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbDFxVjVZVkdWdllUQ29fN0dhU0tjWWF5RGY2T1hVY0hIM0VpYzAxdEp5QzR4dWs5cXE3X3JtVHZKY0VndUVQUm54R2I2YVdHdmxwTWRfM2IwNDFHR0ZxaDlzclVMZkk0U1lLeEVtSTlpMTE5dXNZSi1qSUdEX3RpTFJaUTYyY2hiSlp1SThtQzlQYXlDWmJzMlRwYXViMjM0WmNOSDNmWWlDSWRYbkpUZWNJUmI0aFItMTFsc0tZLXFxM2c2ZlMtaDlxQkZCSTdXMUljdDgzem5lY0JLY0xtVU5fSDZHdw?oc=5",
      "date": "2026-11-09T13:47:09.000Z",
      "text": "Grundschule Adolph-Schönfelder-Schule (AS Brucknerstraße) wird Schulstraße Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Hamburger Gesundheitsämter bieten am 10. und 11. November Impftage gegen Grippe und weitere Atemwegserreger an - hamburg.de - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY2Z1SEtTaHNURlFOa0RPdHRrNU80LXRfdjV0UHdxWXpYdVlxR3VFRW95YndSM0ZDZFFuUVAzMnNsemh3T2N3bnZqb0R0VTBsb1J3UERvSFczMlpMWDcyTExuWS1jSmZPcjAtaV9wejU3NndmUzhya2pHRm91b3htMFZfOFpNeDVfdEpXdDRBVHYxVGw0MEM0Qm5VWGpzN1VfN01rUXdmWEhaWXM2LUUtWFcyVUI5ZU9GaVE?oc=5",
+     "date": "2026-11-09T09:15:00.000Z",
+     "text": "Hamburger Gesundheitsämter bieten am 10. und 11. November Impftage gegen Grippe und weitere Atemwegserreger an - hamburg.de Hamburg.de",
      "via": "Hamburg.de"
     },
     {
@@ -741,17 +729,17 @@
      "via": "Hamburg.de"
     },
     {
-     "title": "Stolpersteine in Hamburg: Neue Website macht Biografien digital zugänglich - Hamburg.de",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeXRWUmV2cS04YmRJRExrellPV0dWa3JXR1VZcW83YUtkekVoVjNydU93TzZYcHR3VjJ2M1JmRzV3c1R3MUJuem9JTjdJNk1BLVduTm1RaWlqV2JYWW1EdlBFWF8xR0ZiLUp5YkJqR2hIaXI3ek45elBYeTVjOUxZZ0w0N2swQlpBcWp4djdTTHdNZGoyVHNMOG1xR0RRTGFpNVdlWnpGVkdHNWtYSjYtbkRSdE9IdUI2QVMtUG9HcGdybzFuOHJaN182WmMzS2VCSnVzMTA3SUU5SXBIWkwyaW1sV1RSX2E4SEJUM3ZzLVRscVN5UG5SdjZXWGM0TXZvQzNLM2pVV01uUDQ?oc=5",
-     "date": "2026-11-09T08:30:00.000Z",
-     "text": "Stolpersteine in Hamburg: Neue Website macht Biografien digital zugänglich Hamburg.de",
-     "via": "Hamburg.de"
-    },
-    {
      "title": "Bildungssenatorin Bekeris eröffnet mobile Ausstellung \"Schule 1939 - 1945: Erinnern. Verstehen. Weiterdenken.\" - Hamburg.de",
      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPTXFxOFN0MmRJS1BfLXR6ZFAzNGJiYklxVzFlNmphVEMzTktyeUsybjREaWtBb2hwT0YxYjM5RUZ1aEo4LXRPZUhGa2dqam9JMkgzUXc2Y0UwQzdTQlVDNHU1dUh4bDNONlRmWW1kaTBQb1JjZnR4LVlYUGl4U08tNnNfTFlhb3BUMjdHblI2MlFBeXJ5NnR5YVdUVnMtRXpTeFFxQVVwazRXLVNuYlVLajFrbEFiV29ZSDdIRGt5ZWd5WE05S05vNW5nbmlhTE1jd3JxOG5nampQamVpX2RwM0RmbEo3bkVkRkpNbE9Pc0pfXzBuMFdMZFdCOGJhY3QtMmdFNXFuUW5tVGJtY0xJOVZvSi1yemZJMk9iQkNxNDdxRFUwbHFqd25lWDY0THBMc1E?oc=5",
      "date": "2026-11-09T10:30:00.000Z",
      "text": "Bildungssenatorin Bekeris eröffnet mobile Ausstellung \"Schule 1939 - 1945: Erinnern. Verstehen. Weiterdenken.\" Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Stolpersteine in Hamburg: Neue Website macht Biografien digital zugänglich - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeXRWUmV2cS04YmRJRExrellPV0dWa3JXR1VZcW83YUtkekVoVjNydU93TzZYcHR3VjJ2M1JmRzV3c1R3MUJuem9JTjdJNk1BLVduTm1RaWlqV2JYWW1EdlBFWF8xR0ZiLUp5YkJqR2hIaXI3ek45elBYeTVjOUxZZ0w0N2swQlpBcWp4djdTTHdNZGoyVHNMOG1xR0RRTGFpNVdlWnpGVkdHNWtYSjYtbkRSdE9IdUI2QVMtUG9HcGdybzFuOHJaN182WmMzS2VCSnVzMTA3SUU5SXBIWkwyaW1sV1RSX2E4SEJUM3ZzLVRscVN5UG5SdjZXWGM0TXZvQzNLM2pVV01uUDQ?oc=5",
+     "date": "2026-11-09T08:30:00.000Z",
+     "text": "Stolpersteine in Hamburg: Neue Website macht Biografien digital zugänglich Hamburg.de",
      "via": "Hamburg.de"
     },
     {

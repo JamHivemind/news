@@ -1,6 +1,31 @@
 {
   "briefs": [
     {
+      "date": "2026-11-10",
+      "file": "2026-11-10.html",
+      "headline": "Anthropic stellt Claude Fable 5.2 und Mythos 5.2 vor",
+      "count": 18,
+      "sources": 8,
+      "cats": {
+        "Modelle & Releases": 3,
+        "Business & Funding": 5,
+        "Claude & Anthropic": 2,
+        "Tools & Agenten": 1,
+        "Forschung & Deep Tech": 2,
+        "KI im Alltag & Beruf": 3,
+        "Regulierung & Politik": 2
+      },
+      "ents": {
+        "Anthropic": 4,
+        "Nvidia": 2,
+        "Meta": 1,
+        "OpenAI": 2,
+        "Amazon": 1,
+        "Microsoft": 1,
+        "Google": 1
+      }
+    },
+    {
       "date": "2026-11-09",
       "file": "2026-11-09.html",
       "headline": "Anthropic kauft Strom für Rechenzentren",
