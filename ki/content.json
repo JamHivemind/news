@@ -1,24 +1,135 @@
 {
- "date":"2026-11-09",
- "intro":"Die KI-Branche steht unter Druck: Der Anthropic-Börsengang rückt näher, Nvidia untersucht seinen eigenen Chef, und nach den US-Wahlen wächst der Widerstand gegen Rechenzentren.",
- "rueckblick":"Die Woche stand im Zeichen der Börse: Anthropic bereitet seinen Börsengang vor, Anleger zweifelten an der hohen Bewertung, und OpenAI musste bei der eigenen Bewertung nachgeben. Daneben gab es Produkt-Neuigkeiten von Claude: Claude Code verweigert den Nachbau bekannter Spiele, Chefs sehen, wie ihre Teams die KI nutzen, und Claude kann Finanzen analysieren. Gegen Ende kamen Berichte dazu, dass KI die KI-Entwicklung selbst beschleunigt. Für Berufstätige heißt das: Die Tools werden schnell besser, aber die Finanzierung und der Strombedarf bleiben die großen Fragezeichen.",
- "top":[
-  {"title":"Anthropic kauft Strom für Rechenzentren","text":"Anthropic hat laut Berichten der Financial Times einen Vertrag über 3,4 Milliarden Dollar abgeschlossen. Dabei geht es um Generatoren, die mit Gas Strom für Rechenzentren erzeugen. KI-Rechenzentren brauchen sehr viel Energie. Firmen sichern sich deshalb eigene Stromquellen, statt auf das öffentliche Netz zu warten.","url":"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5","source":"Reuters","category":"Business & Funding"},
-  {"title":"Nvidia untersucht seinen Chef Jensen Huang","text":"Das Board von Nvidia hat eine externe Untersuchung gegen Firmenchef Jensen Huang eingeleitet. Huang räumte in einer Mitteilung an die Belegschaft eine Affäre ein. Laut US-Berichten soll die Frau für einen chinesischen Geheimdienst gearbeitet haben. Nvidia liefert die wichtigsten Chips für KI, deshalb schaut die Branche genau hin.","url":"https://www.heise.de/news/Jensen-Huang-gesteht-Affaere-ein-Nvidia-beginnt-Untersuchung-11516757.html","source":"heise online","category":"Regulierung & Politik"},
-  {"title":"Wahl in den USA: Gegenwind für Rechenzentren","text":"Bei den US-Zwischenwahlen standen 41 Abstimmungen zu Rechenzentren an. Die Demokraten gewannen insgesamt deutlich. TechCrunch fragt, ob der KI-Branche nun zwei schwierigere Jahre bevorstehen. Für die Firmen wird es schwerer, neue Rechenzentren zu bauen und durchzusetzen.","url":"https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/","source":"TechCrunch AI","category":"Regulierung & Politik"}
+ "date": "2026-11-10",
+ "intro": "Anthropic hat zwei neue Claude-Modelle vorgestellt und steuert auf den Börsengang zu. Bei Nvidia sorgt eine Untersuchung gegen Konzernchef Jensen Huang für Unruhe.",
+ "top": [
+  {
+   "title": "Anthropic stellt Claude Fable 5.2 und Mythos 5.2 vor",
+   "text": "Anthropic hat zwei neue Modelle veröffentlicht. Fable 5.2 ist frei verfügbar, Mythos 5.2 nur für geprüfte Organisationen. Laut Anthropic sind beide besser beim Programmieren, Schlussfolgern und Verstehen von Bildern. Für Nutzer heißt das: Claude dürfte bei schwierigen Aufgaben im Arbeitsalltag spürbar stärker werden.",
+   "url": "https://the-decoder.de/zurueck-an-die-ki-spitze-anthropic-stellt-claude-fable-5-2-und-mythos-5-2-vor/",
+   "source": "The Decoder",
+   "category": "Modelle & Releases"
+  },
+  {
+   "title": "Anthropic hält am Börsengang fest",
+   "text": "Anthropic will nach Berichten trotz nervöser Märkte an die Börse gehen. Die Preisspanne für die Aktie soll diese Woche feststehen, der Start an der Nasdaq wird für Dienstag erwartet. Wer Claude beruflich nutzt, sollte das im Blick behalten: Mit dem Geld aus der Börse kann das Unternehmen sein Angebot ausbauen, steht aber auch unter mehr Erfolgsdruck.",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "source": "TechCrunch AI",
+   "category": "Business & Funding"
+  },
+  {
+   "title": "Nvidia untersucht den eigenen Chef Jensen Huang",
+   "text": "Der Verwaltungsrat von Nvidia prüft die Beziehung von Konzernchef Jensen Huang zu einer mutmaßlichen chinesischen Spionin. Huang hat in einer Mitteilung an die Belegschaft eine Affäre eingeräumt. Die Aktie fiel um mehr als 4 Prozent. Das ist wichtig, weil Nvidia die Chips liefert, auf denen fast alle großen KI-Systeme laufen.",
+   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "source": "TechCrunch AI",
+   "category": "Business & Funding",
+   "tipp": "Wer KI-Coding-Agenten nutzt, sollte prüfen, ob Zugangsdaten in öffentlichen Repositories gelandet sind (siehe Meldung unten)."
+  }
  ],
- "entries":[
-  {"title":"OpenAI soll weitere 11 Milliarden Dollar einsammeln","summary":"Laut Bericht liegt die Bewertung bei 1,25 Billionen Dollar. Die Finanzierungsrunde ist noch nicht abgeschlossen und soll in den nächsten Wochen enden.","url":"https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/","source":"TechCrunch AI","category":"Business & Funding"},
-  {"title":"Ein Drittel des SpaceX-Umsatzes kommt von Anthropic","summary":"Damit ist die KI-Firma laut t3n inzwischen ein größerer Kunde als die US-Regierung. Es zeigt, wie viel Geld in KI-Infrastruktur fließt.","url":"https://t3n.de/news/spacex-nasa-abkehr-anthropic-ki-hauptkunde-1770765","source":"t3n","category":"Business & Funding"},
-  {"title":"Anthropic gründet einen Public Benefit Fund","summary":"Der Fonds soll laut AI News mit dem Wert des Unternehmens mitwachsen. Er gilt als Teil der Vorbereitung auf den Börsengang.","url":"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZldfTGhZTGVIQjF4eFQzQXdQNGhZUkVZeG0yUV9NeXIyNGpXalNBeWVrY1ZiT3BmLUtmVmRjaFVwMGZHV3Frb3gzTEdjRTQtaW54blZaOUhiM0RnUDlMOWxwbkZvWmM3OWY4QmdiVjVOUjkwUGdqY1JNTHJXODZXdFZOTmNGUXU5THJKb0tHcWpPYzROaDYzZ0xldUNqRmUwd05JX3NNVGNtZ0JMQWVKM0RUalZvRnViWHBPN3Bn?oc=5","source":"AI News","category":"Claude & Anthropic"},
-  {"title":"Claude Code: „Nicht mehr fragen“ legte Zugangsdaten offen","summary":"Berichten zufolge landeten Passwörter und Schlüssel in über 1.000 öffentlichen GitHub-Dateien. Die Ursache soll die Funktion „nicht mehr fragen“ sein.","url":"https://news.google.com/rss/articles/CBMimwFBVV95cUxQem1nd2Q1RXcxRHp3U2pjSHZEV0s0dkotSG1ZS2t0NWVySnVyVWJVZVgxYlJMemhPczNOQ3hTaGNLWlg3a0c1Nk10aEVoMlNzLTlUUTFIbG8zb1Y2Q3F1VEctU2ZuRGs3dnlxRlc2MGtYanZDZE15TUFKbmpzYXNZVXZ2SjUyaDR0N081V21yanJsR3RFVWkwMkhubw?oc=5","source":"Martin Cid Magazine","category":"Claude & Anthropic","tipp":"Wer Claude Code nutzt: Prüfen, welche Dateien und Einstellungen in öffentliche Projekte hochgeladen werden, und dort keine Zugangsdaten ablegen."},
-  {"title":"Apple will Siri schneller zum KI-Agenten machen","summary":"Laut Bloomberg drängt der neue Apple-Chef John Ternus auf Tempo. Siri soll Aufgaben selbstständig erledigen können und mit anderen Assistenten mithalten.","url":"https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic","source":"The Verge AI","category":"KI im Alltag & Beruf"},
-  {"title":"Wer ChatGPT nutzt, wirkt weniger vertrauenswürdig","summary":"Eine Studie zeigt: Beschäftigte, die KI für die Arbeit einsetzen, werden von Vorgesetzten oft skeptischer gesehen. Das steht im Widerspruch zum Druck, KI zu nutzen.","url":"https://t3n.de/news/laut-studie-wer-chatgpt-nutzt-setzt-das-vertrauen-seiner-vorgesetzten-aufs-spiel-1772237","source":"t3n","category":"KI im Alltag & Beruf"},
-  {"title":"Andrej Karpathy baut mit Claude Code eine Video-Plattform","summary":"Der KI-Forscher entwickelte an einem Wochenende „HackerTube“. Sie wertet 43 Millionen Hacker-News-Kommentare aus und stellt daraus Videos zusammen.","url":"https://the-decoder.de/ki-forscher-andrej-karpathy-filtert-43-millionen-hacker-news-kommentare-zu-einer-kuratierten-video-plattform/","source":"The Decoder","category":"Tools & Agenten"},
-  {"title":"Coding-Agenten liefern viel, aber selten fertig","summary":"Ein neuer Test von Alibaba stellt Programmier-Agenten (KI, die selbstständig Software schreibt) vor schwierige echte Aufgaben. Das Ergebnis fällt ernüchternd aus.","url":"https://the-decoder.de/coding-agenten-liefern-viel-aber-selten-fertig/","source":"The Decoder","category":"Tools & Agenten"},
-  {"title":"Musikverlage verklagen Suno","summary":"Rechteinhaber von Elvis Presley und der Verlag von Eminem-Songs gehen gegen den KI-Musikdienst vor. Es ist nicht die erste Klage gegen Suno.","url":"https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit","source":"The Verge AI","category":"Regulierung & Politik"},
-  {"title":"Rechenzentren verstecken Angaben zum Energieverbrauch","summary":"Das Energieeffizienzgesetz verlangt Offenheit, doch viele Betreiber halten Strom- und Wasserverbrauch geheim. Das zeigen Recherchen von heise.","url":"https://www.heise.de/news/Intransparente-Rechenzentren-Versteckspiel-beim-Energiehunger-11516418.html","source":"heise online","category":"Regulierung & Politik"},
-  {"title":"Forscher: Heutige Chatbots sind nicht bewusst","summary":"Drei Bewusstseinsforscher schreiben in Nature, dass KI-Systeme die Trainingsdaten spiegeln und nicht fühlen. Sie warnen vor Fehlschlüssen.","url":"https://the-decoder.de/ki-mit-bewusstsein-chatbots-sind-spiegel-der-trainingsdaten-keine-fuehlenden-wesen/","source":"The Decoder","category":"Forschung & Deep Tech"},
-  {"title":"KI-Agenten scheitern an offenen Forschungsfragen","summary":"Im Test „Into the Unknown“ arbeiteten neun KI-Agenten an echten Fragen aus US-Laboren. Keine der 135 Einreichungen erfüllte alle Anforderungen.","url":"https://the-decoder.de/benchmark-laesst-ki-agenten-an-offenen-forschungsfragen-arbeiten-keine-einzige-einreichung-erfuellt-alle-anforderungen/","source":"The Decoder","category":"Forschung & Deep Tech"}
+ "entries": [
+  {
+   "title": "Meta bringt das kleine Modell Muse Ember",
+   "summary": "Muse Ember ist Metas kleinstes Modell und für wiederkehrende Agenten-Aufgaben gedacht, etwa Werkzeuge aufrufen oder Daten herausziehen. Es kostet laut TechCrunch 10 Cent je Million Eingabe-Tokens (Texteinheiten) und ist damit deutlich günstiger als große Konkurrenten.",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "source": "TechCrunch AI",
+   "category": "Modelle & Releases"
+  },
+  {
+   "title": "Anthropic kauft Gasturbinen für 3,4 Milliarden Dollar",
+   "summary": "Der Claude-Entwickler investiert erstmals direkt in Anlagen zur Stromerzeugung. Hintergrund ist der stark steigende Energiebedarf für KI-Rechenzentren.",
+   "url": "https://www.heise.de/news/Milliarden-Deal-fuer-Gasturbinen-Anthropic-sichert-sich-Energiekapazitaeten-11518056.html",
+   "source": "heise online",
+   "category": "Claude & Anthropic"
+  },
+  {
+   "title": "Claude soll elektronische Prototypen entwerfen",
+   "summary": "Anthropic zeigt, dass Claude Elektronik-Prototypen von Anfang bis Ende entwerfen kann. Details nennt die Überschrift nicht; ein Blick in die Ankündigung lohnt sich.",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmk0c0tyNmVjUlFGNGlCZUtLSkxDQS13Unc1LUVXanhOVmt2a2xTLUQ2Vm5LZ2RLQnMzVUhUQXFLTVBfd1VQZi01V0ppVkZLU0VIcXNJT3V3Ul9ZSEFUS3l6S2ZLY0tHOVgxNw?oc=5",
+   "source": "Anthropic News",
+   "category": "Claude & Anthropic"
+  },
+  {
+   "title": "KI-Coding-Agenten leiten Zugangsdaten in öffentliche Repositories",
+   "summary": "Wer mit KI-Programmierhelfern arbeitet, kann dadurch Passwörter und Schlüssel versehentlich öffentlich machen. Schuld ist laut heise eine Komfortfunktion.",
+   "url": "https://www.heise.de/news/KI-Coding-Agenten-verfrachten-Zugangsdaten-in-oeffentliche-Repositories-11517278.html",
+   "source": "heise online",
+   "category": "Tools & Agenten"
+  },
+  {
+   "title": "OpenAI zeigt „Control Room“ für Rechenlasten",
+   "summary": "Mit dem System verfolgt OpenAI, welche KI-Rechenaufträge in der Forschung laufen, und kann sie bei Sicherheitsbedenken schnell stoppen.",
+   "url": "https://openai.com/index/control-room",
+   "source": "OpenAI News",
+   "category": "Forschung & Deep Tech"
+  },
+  {
+   "title": "ChatGPT Enterprise gibt es jetzt im AWS Marketplace",
+   "summary": "Firmen können ChatGPT Enterprise über ihren bestehenden Amazon-Einkaufsvertrag buchen. Das soll die Beschaffung vereinfachen.",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "source": "OpenAI News",
+   "category": "Business & Funding"
+  },
+  {
+   "title": "Microsoft lässt Rechenzentrumsverträge auslaufen",
+   "summary": "Nach Insiderinformationen verlängert Microsoft einige Verträge nicht, darunter einen Mietvertrag mit Oracle. Das ist ein Signal, dass der Ausbau nicht überall ungebremst weitergeht.",
+   "url": "https://www.heise.de/news/Microsoft-laesst-Rechenzentrumsvertrag-mit-Oracle-auslaufen-11517608.html",
+   "source": "heise online",
+   "category": "Business & Funding"
+  },
+  {
+   "title": "Telekom startet „KI-Fabrik 2.0“ in München",
+   "summary": "Die Telekom hat ihr aufgerüstetes KI-Rechenzentrum in Betrieb genommen. Ob eine noch größere „Gigafactory“ folgt, ließ Konzernchef Tim Höttges offen.",
+   "url": "https://www.heise.de/news/Telekom-ruestet-KI-Fabrik-in-Muenchen-nach-Gigafactory-bleibt-Option-11517926.html",
+   "source": "heise online",
+   "category": "Business & Funding"
+  },
+  {
+   "title": "Disney und Adobe entwickeln gemeinsam KI-Modelle",
+   "summary": "Die Partnerschaft soll eigene, von Künstlern mitgestaltete Modelle für die Produktion von Filmen, Parks und Sport liefern. Angekündigt wurde sie auf Adobes Messe MAX.",
+   "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+   "source": "The Verge AI",
+   "category": "KI im Alltag & Beruf"
+  },
+  {
+   "title": "Berufseinsteiger spüren die Folgen von KI zuerst",
+   "summary": "Laut Ifo zeigt sich der Einfluss von KI auf dem Arbeitsmarkt vor allem bei Menschen am Karrierebeginn.",
+   "url": "https://t3n.de/news/auswirkungen-von-ki-auf-den-arbeitsmarkt-berufseinsteiger-spueren-die-veraenderung-als-erstes-1772398",
+   "source": "t3n",
+   "category": "KI im Alltag & Beruf"
+  },
+  {
+   "title": "Samsung testet ein Bezahlmodell für Galaxy AI",
+   "summary": "Bisher sind die KI-Funktionen auf Samsung-Handys gratis. Einem Bericht zufolge prüft der Hersteller ein Abo mit Grenzen für die kostenlose Nutzung.",
+   "url": "https://t3n.de/news/galaxy-ai-samsung-will-fuer-ki-funktionen-offenbar-geld-sehen-das-steckt-im-geplanten-abo-1772363",
+   "source": "t3n",
+   "category": "KI im Alltag & Beruf"
+  },
+  {
+   "title": "Google baut sein TPU-Angebot aus",
+   "summary": "Googles TPUs sind eigene KI-Chips. Zwei neue Varianten sollen sensible Daten auch bei der Verarbeitung schützen und mehr Leistung bringen. Damit greift Google Nvidia stärker an.",
+   "url": "https://the-decoder.de/google-erweitert-tpu-portfolio-um-vier-systeme-in-einem-jahr-und-nimmt-nvidia-staerker-ins-visier/",
+   "source": "The Decoder",
+   "category": "Forschung & Deep Tech"
+  },
+  {
+   "title": "Rechenzentren-Streit dreht sich um Strom",
+   "summary": "Nach den US-Wahlen zeigt sich laut MIT Technology Review: Der Widerstand gegen KI-Rechenzentren entzündet sich vor allem an den Stromkosten.",
+   "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+   "source": "MIT Technology Review",
+   "category": "Regulierung & Politik"
+  },
+  {
+   "title": "Scott Wiener zieht in den US-Kongress und will KI regulieren",
+   "summary": "Der kalifornische Senator, der Gesetze gegen KI-Risiken geschrieben hat, gewann den Sitz von Nancy Pelosi. Er könnte nun auf Bundesebene Regeln mitgestalten.",
+   "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+   "source": "MIT Technology Review",
+   "category": "Regulierung & Politik"
+  },
+  {
+   "title": "Bytedance stellt Bildmodell Seedream 5.5 vor",
+   "summary": "Das Modell zielt auf professionelle Abläufe und soll mehrere Bearbeitungsschritte stabil umsetzen, auch mit Transparenz.",
+   "url": "https://the-decoder.de/seedream-5-5-bytedance-will-mit-stabilem-multi-edit-und-transparenz-professionelle-workflows-bedienen/",
+   "source": "The Decoder",
+   "category": "Modelle & Releases"
+  }
  ]
 }
