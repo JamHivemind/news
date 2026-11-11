@@ -1,6 +1,30 @@
 {
   "briefs": [
     {
+      "date": "2026-11-11",
+      "file": "2026-11-11.html",
+      "headline": "Tausende demonstrieren in Eimsbüttel gegen Kürzungen an Schulen",
+      "count": 15,
+      "sources": 3,
+      "cats": {
+        "Stadt & Politik": 4,
+        "Bauen & Wohnen": 2,
+        "Verkehr": 3,
+        "Wirtschaft & Hafen": 3,
+        "Polizei & Sicherheit": 1,
+        "Kultur & Freizeit": 1,
+        "Sport": 1
+      },
+      "ents": {
+        "Senat": 1,
+        "Bürgerschaft": 1,
+        "Elbtower": 1,
+        "Hafen": 1,
+        "Elbphilharmonie": 1,
+        "HSV": 1
+      }
+    },
+    {
       "date": "2026-11-10",
       "file": "2026-11-10.html",
       "headline": "Elbtower: Baufirma droht mit Abzug des Krans",
