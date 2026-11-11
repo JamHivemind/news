@@ -24,6 +24,11 @@
    "cs.AI": 166,
    "cs.LG": 295,
    "cs.CL": 127
+  },
+  "2026-11-11": {
+   "cs.AI": 105,
+   "cs.LG": 134,
+   "cs.CL": 63
   }
  },
  "stocks": {
@@ -1085,41 +1090,41 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 1223,
+   "likes": 1237,
    "downloads": 14378,
    "task": "text-generation"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 1884,
+   "likes": 1892,
    "downloads": 26470,
    "task": "image-to-3d"
   },
   {
    "id": "moonshotai/Kimi-K3.1-Pro",
-   "likes": 1871,
+   "likes": 1876,
    "downloads": 30721,
    "task": "image-text-to-text"
   },
   {
-   "id": "ricursiveAI/Ripple-65B-Preview",
-   "likes": 489,
-   "downloads": 6480,
-   "task": ""
-  },
-  {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 456,
+   "likes": 476,
    "downloads": 667,
    "task": "text-to-image"
   },
   {
+   "id": "ricursiveAI/Ripple-65B-Preview",
+   "likes": 490,
+   "downloads": 6480,
+   "task": ""
+  },
+  {
    "id": "Lightricks/LTX-2.5",
-   "likes": 11392,
+   "likes": 11402,
    "downloads": 2791606,
    "task": "image-to-video"
   }
  ],
- "updated": "2026-11-11T03:48:57.183Z",
+ "updated": "2026-11-11T05:18:13.679Z",
  "updatedDay": "2026-11-06"
 }

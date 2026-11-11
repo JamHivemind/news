@@ -1,6 +1,30 @@
 {
   "briefs": [
     {
+      "date": "2026-11-11",
+      "file": "2026-11-11.html",
+      "headline": "Anthropic nennt Preisspanne und Termin für den Börsengang",
+      "count": 16,
+      "sources": 9,
+      "cats": {
+        "Business & Funding": 2,
+        "Claude & Anthropic": 1,
+        "Modelle & Releases": 3,
+        "Regulierung & Politik": 2,
+        "Tools & Agenten": 1,
+        "KI im Alltag & Beruf": 4,
+        "Forschung & Deep Tech": 3
+      },
+      "ents": {
+        "Anthropic": 7,
+        "Google": 4,
+        "OpenAI": 5,
+        "Microsoft": 1,
+        "Mistral": 1,
+        "Meta": 1
+      }
+    },
+    {
       "date": "2026-11-10",
       "file": "2026-11-10.html",
       "headline": "Anthropic stellt Claude Fable 5.2 und Mythos 5.2 vor",
