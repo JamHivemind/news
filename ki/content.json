@@ -1,135 +1,121 @@
 {
- "date": "2026-11-10",
- "intro": "Anthropic hat zwei neue Claude-Modelle vorgestellt und steuert auf den Börsengang zu. Bei Nvidia sorgt eine Untersuchung gegen Konzernchef Jensen Huang für Unruhe.",
- "top": [
-  {
-   "title": "Anthropic stellt Claude Fable 5.2 und Mythos 5.2 vor",
-   "text": "Anthropic hat zwei neue Modelle veröffentlicht. Fable 5.2 ist frei verfügbar, Mythos 5.2 nur für geprüfte Organisationen. Laut Anthropic sind beide besser beim Programmieren, Schlussfolgern und Verstehen von Bildern. Für Nutzer heißt das: Claude dürfte bei schwierigen Aufgaben im Arbeitsalltag spürbar stärker werden.",
-   "url": "https://the-decoder.de/zurueck-an-die-ki-spitze-anthropic-stellt-claude-fable-5-2-und-mythos-5-2-vor/",
-   "source": "The Decoder",
-   "category": "Modelle & Releases"
-  },
-  {
-   "title": "Anthropic hält am Börsengang fest",
-   "text": "Anthropic will nach Berichten trotz nervöser Märkte an die Börse gehen. Die Preisspanne für die Aktie soll diese Woche feststehen, der Start an der Nasdaq wird für Dienstag erwartet. Wer Claude beruflich nutzt, sollte das im Blick behalten: Mit dem Geld aus der Börse kann das Unternehmen sein Angebot ausbauen, steht aber auch unter mehr Erfolgsdruck.",
-   "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-   "source": "TechCrunch AI",
-   "category": "Business & Funding"
-  },
-  {
-   "title": "Nvidia untersucht den eigenen Chef Jensen Huang",
-   "text": "Der Verwaltungsrat von Nvidia prüft die Beziehung von Konzernchef Jensen Huang zu einer mutmaßlichen chinesischen Spionin. Huang hat in einer Mitteilung an die Belegschaft eine Affäre eingeräumt. Die Aktie fiel um mehr als 4 Prozent. Das ist wichtig, weil Nvidia die Chips liefert, auf denen fast alle großen KI-Systeme laufen.",
-   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-   "source": "TechCrunch AI",
-   "category": "Business & Funding",
-   "tipp": "Wer KI-Coding-Agenten nutzt, sollte prüfen, ob Zugangsdaten in öffentlichen Repositories gelandet sind (siehe Meldung unten)."
-  }
- ],
- "entries": [
-  {
-   "title": "Meta bringt das kleine Modell Muse Ember",
-   "summary": "Muse Ember ist Metas kleinstes Modell und für wiederkehrende Agenten-Aufgaben gedacht, etwa Werkzeuge aufrufen oder Daten herausziehen. Es kostet laut TechCrunch 10 Cent je Million Eingabe-Tokens (Texteinheiten) und ist damit deutlich günstiger als große Konkurrenten.",
-   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-   "source": "TechCrunch AI",
-   "category": "Modelle & Releases"
-  },
-  {
-   "title": "Anthropic kauft Gasturbinen für 3,4 Milliarden Dollar",
-   "summary": "Der Claude-Entwickler investiert erstmals direkt in Anlagen zur Stromerzeugung. Hintergrund ist der stark steigende Energiebedarf für KI-Rechenzentren.",
-   "url": "https://www.heise.de/news/Milliarden-Deal-fuer-Gasturbinen-Anthropic-sichert-sich-Energiekapazitaeten-11518056.html",
-   "source": "heise online",
-   "category": "Claude & Anthropic"
-  },
-  {
-   "title": "Claude soll elektronische Prototypen entwerfen",
-   "summary": "Anthropic zeigt, dass Claude Elektronik-Prototypen von Anfang bis Ende entwerfen kann. Details nennt die Überschrift nicht; ein Blick in die Ankündigung lohnt sich.",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmk0c0tyNmVjUlFGNGlCZUtLSkxDQS13Unc1LUVXanhOVmt2a2xTLUQ2Vm5LZ2RLQnMzVUhUQXFLTVBfd1VQZi01V0ppVkZLU0VIcXNJT3V3Ul9ZSEFUS3l6S2ZLY0tHOVgxNw?oc=5",
-   "source": "Anthropic News",
-   "category": "Claude & Anthropic"
-  },
-  {
-   "title": "KI-Coding-Agenten leiten Zugangsdaten in öffentliche Repositories",
-   "summary": "Wer mit KI-Programmierhelfern arbeitet, kann dadurch Passwörter und Schlüssel versehentlich öffentlich machen. Schuld ist laut heise eine Komfortfunktion.",
-   "url": "https://www.heise.de/news/KI-Coding-Agenten-verfrachten-Zugangsdaten-in-oeffentliche-Repositories-11517278.html",
-   "source": "heise online",
-   "category": "Tools & Agenten"
-  },
-  {
-   "title": "OpenAI zeigt „Control Room“ für Rechenlasten",
-   "summary": "Mit dem System verfolgt OpenAI, welche KI-Rechenaufträge in der Forschung laufen, und kann sie bei Sicherheitsbedenken schnell stoppen.",
-   "url": "https://openai.com/index/control-room",
-   "source": "OpenAI News",
-   "category": "Forschung & Deep Tech"
-  },
-  {
-   "title": "ChatGPT Enterprise gibt es jetzt im AWS Marketplace",
-   "summary": "Firmen können ChatGPT Enterprise über ihren bestehenden Amazon-Einkaufsvertrag buchen. Das soll die Beschaffung vereinfachen.",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "source": "OpenAI News",
-   "category": "Business & Funding"
-  },
-  {
-   "title": "Microsoft lässt Rechenzentrumsverträge auslaufen",
-   "summary": "Nach Insiderinformationen verlängert Microsoft einige Verträge nicht, darunter einen Mietvertrag mit Oracle. Das ist ein Signal, dass der Ausbau nicht überall ungebremst weitergeht.",
-   "url": "https://www.heise.de/news/Microsoft-laesst-Rechenzentrumsvertrag-mit-Oracle-auslaufen-11517608.html",
-   "source": "heise online",
-   "category": "Business & Funding"
-  },
-  {
-   "title": "Telekom startet „KI-Fabrik 2.0“ in München",
-   "summary": "Die Telekom hat ihr aufgerüstetes KI-Rechenzentrum in Betrieb genommen. Ob eine noch größere „Gigafactory“ folgt, ließ Konzernchef Tim Höttges offen.",
-   "url": "https://www.heise.de/news/Telekom-ruestet-KI-Fabrik-in-Muenchen-nach-Gigafactory-bleibt-Option-11517926.html",
-   "source": "heise online",
-   "category": "Business & Funding"
-  },
-  {
-   "title": "Disney und Adobe entwickeln gemeinsam KI-Modelle",
-   "summary": "Die Partnerschaft soll eigene, von Künstlern mitgestaltete Modelle für die Produktion von Filmen, Parks und Sport liefern. Angekündigt wurde sie auf Adobes Messe MAX.",
-   "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-   "source": "The Verge AI",
-   "category": "KI im Alltag & Beruf"
-  },
-  {
-   "title": "Berufseinsteiger spüren die Folgen von KI zuerst",
-   "summary": "Laut Ifo zeigt sich der Einfluss von KI auf dem Arbeitsmarkt vor allem bei Menschen am Karrierebeginn.",
-   "url": "https://t3n.de/news/auswirkungen-von-ki-auf-den-arbeitsmarkt-berufseinsteiger-spueren-die-veraenderung-als-erstes-1772398",
-   "source": "t3n",
-   "category": "KI im Alltag & Beruf"
-  },
-  {
-   "title": "Samsung testet ein Bezahlmodell für Galaxy AI",
-   "summary": "Bisher sind die KI-Funktionen auf Samsung-Handys gratis. Einem Bericht zufolge prüft der Hersteller ein Abo mit Grenzen für die kostenlose Nutzung.",
-   "url": "https://t3n.de/news/galaxy-ai-samsung-will-fuer-ki-funktionen-offenbar-geld-sehen-das-steckt-im-geplanten-abo-1772363",
-   "source": "t3n",
-   "category": "KI im Alltag & Beruf"
-  },
-  {
-   "title": "Google baut sein TPU-Angebot aus",
-   "summary": "Googles TPUs sind eigene KI-Chips. Zwei neue Varianten sollen sensible Daten auch bei der Verarbeitung schützen und mehr Leistung bringen. Damit greift Google Nvidia stärker an.",
-   "url": "https://the-decoder.de/google-erweitert-tpu-portfolio-um-vier-systeme-in-einem-jahr-und-nimmt-nvidia-staerker-ins-visier/",
-   "source": "The Decoder",
-   "category": "Forschung & Deep Tech"
-  },
-  {
-   "title": "Rechenzentren-Streit dreht sich um Strom",
-   "summary": "Nach den US-Wahlen zeigt sich laut MIT Technology Review: Der Widerstand gegen KI-Rechenzentren entzündet sich vor allem an den Stromkosten.",
-   "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-   "source": "MIT Technology Review",
-   "category": "Regulierung & Politik"
-  },
-  {
-   "title": "Scott Wiener zieht in den US-Kongress und will KI regulieren",
-   "summary": "Der kalifornische Senator, der Gesetze gegen KI-Risiken geschrieben hat, gewann den Sitz von Nancy Pelosi. Er könnte nun auf Bundesebene Regeln mitgestalten.",
-   "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-   "source": "MIT Technology Review",
-   "category": "Regulierung & Politik"
-  },
-  {
-   "title": "Bytedance stellt Bildmodell Seedream 5.5 vor",
-   "summary": "Das Modell zielt auf professionelle Abläufe und soll mehrere Bearbeitungsschritte stabil umsetzen, auch mit Transparenz.",
-   "url": "https://the-decoder.de/seedream-5-5-bytedance-will-mit-stabilem-multi-edit-und-transparenz-professionelle-workflows-bedienen/",
-   "source": "The Decoder",
-   "category": "Modelle & Releases"
-  }
- ]
+  "date": "2026-11-11",
+  "intro": "Anthropic ist drei Tage vor dem Börsengang das Thema des Tages: neue Büro-Funktionen für Claude, Preisspanne und Starttermin stehen. Google zieht mit dem breit verfügbaren Modell Gemini 4 Carbon nach.",
+  "top": [
+    {
+      "title": "Anthropic nennt Preisspanne und Termin für den Börsengang",
+      "text": "Der Claude-Hersteller will an der US-Börse Nasdaq bis zu 100 Milliarden US-Dollar einsammeln. Medien berichten über eine angestrebte Bewertung von rund 1,3 bis 1,4 Billionen Dollar und einen Handelsstart um den 19. November. Für Anleger ist es einer der größten Börsengänge überhaupt; für Nutzer ändert sich zunächst nichts, der Konzern muss künftig aber offener über Zahlen berichten.",
+      "url": "https://t3n.de/news/boersengang-anthropic-preisspanne-1772810",
+      "source": "t3n",
+      "category": "Business & Funding"
+    },
+    {
+      "title": "Claude bekommt Tabellen, Whiteboards und eingebettete Partner-Apps",
+      "text": "Anthropic erweitert die Claude-App um Tabellen (Sheets) und digitale Whiteboards. Über „Interactive Connectors“ können Partner wie Adobe und Atlassian ihre Programme direkt im Chat anzeigen. Ein Update für Meeting-Protokolle soll bald folgen. Claude wird damit zu einer Art Büro-Paket, das Programmen wie Excel Konkurrenz machen will.",
+      "url": "https://the-decoder.de/claude-app-bekommt-tabellen-whiteboards-und-eingebettete-partner-apps/",
+      "source": "The Decoder",
+      "category": "Claude & Anthropic",
+      "tipp": "Wer Claude nutzt, kann in den nächsten Tagen prüfen, ob Tabellen und Whiteboards im eigenen Konto schon auftauchen."
+    },
+    {
+      "title": "Google startet Gemini 4 Carbon für alle",
+      "text": "Google macht sein neues Modell Gemini 4 Carbon nach zwei Wochen Test mit ausgewählten Sicherheitsexperten allgemein verfügbar. Neu ist eine „Schwarm“-Funktion: Mehrere KI-Agenten (Programme, die Aufgaben selbstständig abarbeiten) arbeiten gemeinsam an einer Aufgabe. In mehreren Leistungstests liegt es laut Bericht vorn, teils vor Anthropics Fable 5.2, und ist günstiger.",
+      "url": "https://the-decoder.de/google-startet-gemini-4-carbon-mit-neuer-agenten-schwarm-funktion/",
+      "source": "The Decoder",
+      "category": "Modelle & Releases"
+    }
+  ],
+  "entries": [
+    {
+      "title": "Fable 5.2 und Mythos 5.2: Anthropic startet neue Modelle",
+      "summary": "Anthropic hat zwei neue Modelle veröffentlicht. Fable 5.2 führt laut Artificial Analysis (einem unabhängigen Vergleichsportal) derzeit die Rangliste an.",
+      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
+      "source": "AINews (Latent Space)",
+      "category": "Modelle & Releases"
+    },
+    {
+      "title": "Strom für die KI: Anthropic kauft eigene Gasturbinen",
+      "summary": "Anthropic investiert 3,4 Milliarden Dollar in eigene Erdgasturbinen. Bisher mietete die Firma ihre Stromversorgung für die Rechenzentren.",
+      "url": "https://t3n.de/news/strom-fuer-die-ki-anthropic-sichert-sich-eigene-erdgasturbinen-fuer-34-milliarden-dollar-1772744",
+      "source": "t3n",
+      "category": "Business & Funding"
+    },
+    {
+      "title": "New Yorker KI-Sicherheitsgesetz tritt in Kraft",
+      "summary": "Große KI-Entwickler wie OpenAI und Anthropic müssen sich in New York registrieren, Sicherheitsvorkehrungen offenlegen und schwere Vorfälle melden. Sonst drohen Strafen.",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "source": "TechCrunch AI",
+      "category": "Regulierung & Politik"
+    },
+    {
+      "title": "„Pariser Aufruf zur KI-Sicherheit“ unterzeichnet",
+      "summary": "Acht Staaten sowie OpenAI, Anthropic, Microsoft und Mistral unterschreiben auf Initiative Macrons eine Selbstverpflichtung zur KI-Sicherheit. Die Firmen sagen unter anderem Abschaltmechanismen zu.",
+      "url": "https://the-decoder.de/acht-staaten-sowie-openai-anthropic-und-mistral-unterzeichnen-pariser-aufruf-zur-ki-sicherheit/",
+      "source": "The Decoder",
+      "category": "Regulierung & Politik"
+    },
+    {
+      "title": "ChatGPT bekommt Geschäftsprofile und „Business Agents“",
+      "summary": "Firmen können in ChatGPT ein Profil anlegen und Produktdaten pflegen. Verifizierte KI-Agenten sprechen dann im Namen der Marke mit Kunden, etwa beim Preisvergleich. Zunächst gilt das für ausgewählte Online-Händler und Dienstleister.",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI News",
+      "category": "Tools & Agenten"
+    },
+    {
+      "title": "eBay sperrt offenbar fremde KI-Agenten aus",
+      "summary": "Laut einem Leserbericht blockiert eBay KI-Agenten wie Metas Muse beim Stöbern. Damit gibt es eine Hürde mehr für Assistenten, die für Nutzer einkaufen.",
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "source": "The Verge AI",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "Gemini Robotics 2.5 testet bei Mercedes-Benz",
+      "summary": "Google Deepmind hat ein neues Steuerungsmodell für Roboter vorgestellt. Zusammen mit Apptronik lief es in Testbetrieb auf Produktionslinien von Mercedes-Benz in Ungarn und Deutschland.",
+      "url": "https://the-decoder.de/google-deepmind-schickt-neues-robotik-modell-auf-die-mercedes-benz-produktionslinie/",
+      "source": "The Decoder",
+      "category": "Forschung & Deep Tech"
+    },
+    {
+      "title": "AlphaProof Code prüft Verschlüsselung von Signal",
+      "summary": "KI-Agenten von Deepmind schrieben drei Millionen Zeilen Beweise, um die Kernverschlüsselung des Messengers Signal mathematisch zu prüfen. Solche Beweise zeigen, dass Software fehlerfrei arbeitet.",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Google DeepMind",
+      "category": "Forschung & Deep Tech"
+    },
+    {
+      "title": "Nvidias GR00T 2 lernt aus Videos",
+      "summary": "Das neue Robotermodell überträgt menschliche Handbewegungen aus Videos auf Roboterarme. Aufwendiges Fernsteuern zum Anlernen entfällt weitgehend.",
+      "url": "https://the-decoder.de/gr00t-2-zeigt-nvidias-neuen-kurs-bei-ki-modellen-fuer-roboter/",
+      "source": "The Decoder",
+      "category": "Forschung & Deep Tech"
+    },
+    {
+      "title": "Meta bringt kleines Modell Muse Ember",
+      "summary": "Meta stellt sein kleinstes und sparsamstes Modell vor. Es zielt auf dieselbe Klasse wie Claude Haiku und GPT Luna, also schnelle, günstige Modelle für einfache Aufgaben.",
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "source": "Simon Willison",
+      "category": "Modelle & Releases"
+    },
+    {
+      "title": "Gemini Intelligence kommt auf mehr Geräte",
+      "summary": "Googles KI-Funktionen für Android werden auf weitere Geräte ausgeweitet.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "source": "Google AI Blog",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "Neuer KI-Detektor für Gmail-Postfächer",
+      "summary": "Das Tool Pangram erkennt jetzt in Gmail, ob eine E-Mail mit Hilfe von ChatGPT und ähnlichen Programmen geschrieben wurde. Solche Detektoren liegen aber nicht immer richtig.",
+      "url": "https://t3n.de/news/wer-schickt-dir-ki-generierte-e-mails-mit-diesem-neuen-pangram-detektor-findest-du-es-heraus-1772654",
+      "source": "t3n",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "OpenAI und Upwork: KI verändert Freelance-Arbeit",
+      "summary": "Eine neue Studie zeigt veränderte Nachfrage bei Freelancern, neue Fähigkeiten-Kombinationen sowie größere Budgets und mehr Stunden bei KI-Projekten.",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source": "OpenAI News",
+      "category": "KI im Alltag & Beruf"
+    }
+  ]
 }
