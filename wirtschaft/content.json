@@ -1,120 +1,113 @@
 {
- "date": "2026-11-10",
- "intro": "Hoffnung auf ein Ende des Iran-Kriegs drückt die Ölpreise und damit auch die Spritpreise. An den Börsen belastet der Skandal um Nvidia-Chef Jensen Huang die gesamte KI-Branche.",
- "top": [
-  {
-   "title": "Ölpreise fallen, Sprit wird billiger",
-   "text": "Anleger setzen darauf, dass der US-Iran-Krieg endet, auch wenn noch kein Abkommen unterzeichnet ist. Das senkt die Ölpreise. Laut Spiegel kostet ein Liter E10 im Tagesschnitt nun unter 2 Euro, auch Diesel wird günstiger. Autofahrer und Firmen mit vielen Fahrten spüren das direkt.",
-   "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html",
-   "source": "tagesschau Wirtschaft",
-   "category": "Energie"
-  },
-  {
-   "title": "Nvidia-Aktie bricht nach Affäre des Chefs ein",
-   "text": "Nvidia ermittelt gegen den eigenen Chef Jensen Huang, der eine Affäre mit einer mutmaßlichen chinesischen Spionin zugegeben hat. Die Aktie verlor deutlich. Laut tagesschau trifft das die gesamte KI-Branche zu einem ungünstigen Zeitpunkt. Wer Fonds oder ETFs mit Technologiewerten hält, kann das in seinem Depot merken.",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-ki-huang-100.html",
-   "source": "tagesschau Wirtschaft",
-   "category": "Börse & Märkte"
-  },
-  {
-   "title": "Vodafone streicht jede fünfte Stelle in Deutschland",
-   "text": "Der Telekommunikationskonzern will in Deutschland rund 2.300 Stellen abbauen. Er hat zuletzt Marktanteile verloren und setzt künftig stärker auf KI. Die Stellen sollen wegfallen oder verlagert werden. Das zeigt: Auch in großen Konzernen werden Aufgaben zunehmend durch KI ersetzt.",
-   "url": "https://www.spiegel.de/wirtschaft/unternehmen/vodafone-streicht-jede-fuenfte-stelle-setzt-vermehrt-auf-ki-a-9315dbd7-1f5b-4b54-bcba-94003a64bb91#ref=rss",
-   "source": "Spiegel Wirtschaft",
-   "category": "Arbeit & Soziales"
-  }
- ],
- "entries": [
-  {
-   "title": "Deutsche Exporte legen im September überraschend zu",
-   "summary": "Die Lieferungen ins Ausland stiegen im Vergleich zum Vorjahr um fast 8 Prozent. Besonders wichtig bleiben die USA. Das übertrifft die Erwartungen.",
-   "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutsche-exporte-steigen-ueberraschend-stark-usa-bleiben-hauptabnehmer-accg-201665199.html",
-   "source": "FAZ Wirtschaft",
-   "category": "Konjunktur"
-  },
-  {
-   "title": "DAX erholt sich kräftig",
-   "summary": "Der deutsche Aktienmarkt ist stark in die Woche gestartet. Fragezeichen bei der Technologiebranche bleiben, Entlastung kam aber von anderer Seite.",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
-   "source": "tagesschau Wirtschaft",
-   "category": "Börse & Märkte"
-  },
-  {
-   "title": "Bundesregierung braucht 2027 mehr Geld",
-   "summary": "Der Haushalt für das kommende Jahr bekommt milliardenschwere Mehrausgaben, unter anderem für Elektroautoprämien. Die Bundesagentur für Arbeit erhält laut Handelsblatt zusätzlich drei Milliarden Euro als neuen Kredit.",
-   "url": "https://www.spiegel.de/wirtschaft/soziales/bundesregierung-meldet-milliardenschwere-mehrausgaben-fuer-den-haushalt-2027-a-b3c6d481-3700-4ddb-886c-2d0adeb6e46b#ref=rss",
-   "source": "Spiegel Wirtschaft",
-   "category": "Politik & Handel"
-  },
-  {
-   "title": "Union will Plastiksteuer kippen",
-   "summary": "Die Steuer sollte neue Einnahmen bringen. Die Union lehnt sie ab, die SPD verweist auf das Haushaltsloch und fordert andere Finanzquellen.",
-   "url": "https://www.spiegel.de/wirtschaft/haushalt-union-will-plastiksteuer-kippen-spd-fordert-neue-finanzquellen-a-b73a7ec0-0dc2-4d86-b9b1-e78693a66c0b#ref=rss",
-   "source": "Spiegel Wirtschaft",
-   "category": "Politik & Handel"
-  },
-  {
-   "title": "UniCredit-Übernahme der Commerzbank soll Anfang 2027 durch sein",
-   "summary": "Schon diesen Monat könnte die italienische Bank die letzten Genehmigungen bekommen. Danach will sie ihre Strategie bei der Commerzbank umsetzen.",
-   "url": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html",
-   "source": "tagesschau Wirtschaft",
-   "category": "Unternehmen"
-  },
-  {
-   "title": "Warnstreiks in Bayerns Metallindustrie",
-   "summary": "Zum Start der dritten Verhandlungsrunde rief die IG Metall in Ingolstadt zu einer großen Kundgebung auf. Erwartet wurden mehr als 15.000 Teilnehmer.",
-   "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/streiks-tarifgespraeche-ig-metall-100.html",
-   "source": "tagesschau Wirtschaft",
-   "category": "Arbeit & Soziales"
-  },
-  {
-   "title": "BMW lässt wegen fehlender Teile Schichten ausfallen",
-   "summary": "Laut Handelsblatt sind drei Werke betroffen. Es geht um einzelne Schichten, doch jede davon betrifft wohl Hunderte Autos.",
-   "url": "https://www.handelsblatt.com/mobilitaet/motor/automobilindustrie-fehlende-teile-bmw-laesst-schichten-ausfallen/100268597.html",
-   "source": "Handelsblatt",
-   "category": "Unternehmen"
-  },
-  {
-   "title": "Aldi Süd erhöht Mindestlohn",
-   "summary": "Ab Dezember steigt der Mindestlohn bei Aldi Süd von 15 auf 16 Euro, meldet der FAZ-Ticker.",
-   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-fable-und-mythos-vor-dem-boersengang-verbessert-faz-200452404.html",
-   "source": "FAZ Wirtschaft",
-   "category": "Arbeit & Soziales"
-  },
-  {
-   "title": "KI erschwert Berufsanfängern den Einstieg",
-   "summary": "Laut Ifo spüren Berufseinsteiger den KI-Effekt am Arbeitsmarkt zuerst. Bundesagentur-Chefin Andrea Nahles rechnet laut Handelsblatt mit dem Wegfall von 800.000 Jobs durch KI.",
-   "url": "https://www.faz.net/aktuell/wirtschaft/die-ki-macht-anfaengern-den-berufseinstieg-schwer-201666471.html",
-   "source": "FAZ Wirtschaft",
-   "category": "Arbeit & Soziales"
-  },
-  {
-   "title": "Correctiv: Deutschland verliert an Kaufkraft bei Lebensmitteln",
-   "summary": "Eine Auswertung vergleicht, wie erschwinglich Grundnahrungsmittel in Europa sind. Im Zehn-Jahres-Vergleich schneidet Deutschland nach Handelsblatt schlecht ab.",
-   "url": "https://www.handelsblatt.com/politik/deutschland/teure-grundnahrungsmittel-correctiv-deutschland-verliert-stark-an-kaufkraft/100268590.html",
-   "source": "Handelsblatt",
-   "category": "Konjunktur"
-  },
-  {
-   "title": "Gaskraftwerke: Ministerium ändert die Ausschreibung",
-   "summary": "Nach dem Sieg des Energiekonzerns LEAG in der ersten Runde ändert das Wirtschaftsministerium die Regeln. Die Umrüstung alter Kohlekraftwerke könnte möglich bleiben.",
-   "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/umruestung-alter-kohlemeiler-koennte-moeglich-bleiben-201666527.html",
-   "source": "FAZ Wirtschaft",
-   "category": "Energie"
-  },
-  {
-   "title": "Fliegen wird im nächsten Jahr noch teurer",
-   "summary": "Zwar kommen wieder mehr Öltanker durch die Straße von Hormus, Kerosin bleibt aber teuer. Erste Manager warnen die Branche, bei den Preisen nicht zu übertreiben.",
-   "url": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-warum-fliegen-im-kommenden-jahr-noch-teurer-wird/100265035.html",
-   "source": "Handelsblatt",
-   "category": "Energie"
-  },
-  {
-   "title": "Telekom baut KI-Fabrik in München aus",
-   "summary": "Die Telekom verdoppelt laut Allgemeiner Zeitung ihre KI-Rechenleistung in München. Politiker fordern mehr Tempo beim Ausbau in Deutschland.",
-   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/telekom-erweitert-ki-fabrik-fuer-mehr-digitale-souveraenitaet-201660064.html",
-   "source": "FAZ Wirtschaft",
-   "category": "Unternehmen"
-  }
- ]
+  "date": "2026-11-11",
+  "intro": "Der Maschinenbau schlägt Alarm, die Bundesregierung feilt am Haushalt 2027 und an Steuerreformen. An der Börse belastet die Affäre um Nvidia-Chef Jensen Huang die Stimmung.",
+  "top": [
+    {
+      "title": "Maschinenbau im vierten Krisenjahr: Branche setzt auf KI",
+      "text": "Der deutsche Maschinenbau leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Branchengipfel fordern die Firmen Reformen von der Bundesregierung, der Verband spricht von Fassungslosigkeit. Auch Wirtschaftsministerin Reiche kritisiert laut Spiegel die eigene Regierung. Die Branche hofft, mit Künstlicher Intelligenz effizienter zu werden. Für Beschäftigte heißt das: Die Lage bleibt unsicher.",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
+      "source": "tagesschau",
+      "category": "Konjunktur"
+    },
+    {
+      "title": "Klingbeil will Steuerklassen III und V abschaffen",
+      "text": "Das Bundesfinanzministerium plant Änderungen bei der Steuer, die noch bis Jahresende in Kraft treten sollen. Eine davon ist die Abschaffung der Steuerklassen III und V. Sie werden bisher von vielen Ehepaaren genutzt, um die monatliche Lohnsteuer zu verteilen. Was an ihre Stelle tritt, steht im Teaser nicht.",
+      "url": "https://www.spiegel.de/wirtschaft/lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v-a-4022a7cf-5aac-4d8e-a708-de7811a7c183#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "Nvidia-Aktie fällt wegen Spionage-Affäre um den Firmenchef",
+      "text": "Nvidia-Chef Jensen Huang hat eine Affäre mit einer Frau eingeräumt, die unter Spionageverdacht für China steht. Das Unternehmen ermittelt, will aber an ihm festhalten. Die Aktie fiel auf den tiefsten Stand seit März, der Börsenwert sank laut FAZ binnen weniger Tage um rund eine Billion Dollar. Der DAX konnte seine Verluste nach dem KI-Absturz vom Freitag deshalb nicht ganz ausgleichen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-auf-tiefstem-stand-seit-maerz-jensen-huang-affaere-kostet-billion-dollar-accg-201671288.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Börse & Märkte"
+    }
+  ],
+  "entries": [
+    {
+      "title": "Stromsteuer: Union will Gegenfinanzierung gefunden haben",
+      "summary": "Der Kanzler will die Stromsteuer senken. In den Verhandlungen zum Bundeshaushalt 2027 sieht die Union nun eine Möglichkeit, das gegenzufinanzieren.",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-2027-union-gegenfinanzierung-fuer-die-stromsteuersenkung-gefunden-haben-a-84521b50-da4c-471c-b043-a833f3d85180#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "Rentenkasse: Defizit wächst rapide",
+      "summary": "Die Rentenkasse muss 2027 voraussichtlich rund 20 Milliarden Euro mehr auszahlen, als sie einnimmt. Die Reserve reicht dafür noch aus.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/rentenkasse-droht-2027-eine-beitragserhoehung-201669168.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "Vodafone will 2.300 Stellen in Deutschland streichen",
+      "summary": "Rund jeder fünfte Job beim Mobilfunkkonzern soll wegfallen. Der Konzern muss sparen.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
+      "source": "tagesschau",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Infineon wächst dank KI-Boom weiter zweistellig",
+      "summary": "Der Chipkonzern meldet Rekordumsatz durch den Ausbau von KI-Rechenzentren und ein besseres Autogeschäft. Er sieht noch kein Ende des Booms.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
+      "source": "tagesschau",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "BMW streicht wegen fehlender Teile Schichten",
+      "summary": "In bis zu drei Werken fallen einzelne Schichten aus, weil Zulieferteile fehlen.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Bund will E-Auto-Prämie um 917 Millionen Euro aufstocken",
+      "summary": "Die Prämie für Menschen mit niedrigem und mittlerem Einkommen ist laut Bericht ein Erfolg. Deshalb soll mehr Geld in den Topf.",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html",
+      "source": "tagesschau",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "Gasspeicher: Betreiber warnen vor Engpässen bei extremer Kälte",
+      "summary": "Die Speicher waren zuletzt auf einem historisch niedrigen Füllstand. Bei einem harten Winter müssten Menschen womöglich Gas sparen. Uniper sieht sich dagegen gut gerüstet.",
+      "url": "https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Energie"
+    },
+    {
+      "title": "Nahles: KI könnte 800.000 Jobs kosten",
+      "summary": "Die Chefin der Bundesagentur für Arbeit rechnet mit dem Verlust vieler Arbeitsplätze durch KI. Sie setzt trotzdem auf eine neue Agenda.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-andrea-nahles-rechnet-mit-verlust-von-800-000-jobs-a-64556960-bdcf-4d85-becc-93ef14bb937e#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "IW-Umfrage: Jedes dritte Unternehmen plant 2027 Stellenabbau",
+      "summary": "Laut dem Institut der deutschen Wirtschaft erwarten die Firmen im nächsten Jahr keinen Aufschwung.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTlhSnVVeDNvZmphbEdDVW1CWmJfenQ0WkZyYzliVnpzN0h4b2lZNXc3cXhTaDlsNlZ3RmFLNXBIUThvc1EzWWdsRGdXTVZZYmpPUUV5Z1lqb2hBcnVNWWdaNFp6UTNhYXl4c3ZQa3VBQ3M0QWtFQzAtOEwyWlBiRXlESXFZZkxkWW85ZklWMnJ2RWtKZWFfdzJUdW9hQTFERVptOG9mZ2hGdw?oc=5",
+      "source": "n-tv.de",
+      "category": "Konjunktur"
+    },
+    {
+      "title": "Deutsche Exporte steigen trotz Trumps Zöllen",
+      "summary": "Die Ausfuhren legen trotz der US-Zollpolitik zu, berichtet die WirtschaftsWoche.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1llRmp3SThQR3ZIdlNwN3dneHVCUjJPYTVVNERyMktXOHNXYTdhNWNGaHVJYlhmUXBUME8tSlUzUDU4SkxOTDlGTFQ5U0NpVkRBWGNvaklmcFVUZE00ZVFpaTZONDFQNTlST21ITFRVcDFEWFJvc1F5WXgwdWF4dUhYTmRNTVF1QlUySGtEUnNrWXdlNDVDQ0hhZTJHWkRRdEVjQ0NWN1VEMFFpVENBcXFvUkRTb0ZDMWFHRFA4amk?oc=5",
+      "source": "WirtschaftsWoche",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "Chinesische Firmen halten an Deutschland fest",
+      "summary": "Chinesische Unternehmen wollen hier weiter investieren, sorgen sich aber wegen hoher Arbeits- und Energiekosten.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/asien-chinesische-firmen-halten-an-deutschland-fest/100268923.html",
+      "source": "Handelsblatt",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Mieten bei Neuverträgen steigen deutlich",
+      "summary": "Wer einen neuen Mietvertrag abschließt, zahlt laut Pfandbriefbanken immer mehr.",
+      "url": "https://www.spiegel.de/wirtschaft/service/immobilien-mieten-ziehen-deutlich-an-lage-spitzt-sich-laut-banken-zu-a-e867587b-e01c-4898-94e4-81961204d4d4#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Konjunktur"
+    }
+  ]
 }
