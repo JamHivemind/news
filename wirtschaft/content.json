@@ -1,113 +1,99 @@
 {
-  "date": "2026-11-11",
-  "intro": "Der Maschinenbau schlägt Alarm, die Bundesregierung feilt am Haushalt 2027 und an Steuerreformen. An der Börse belastet die Affäre um Nvidia-Chef Jensen Huang die Stimmung.",
+  "date": "2026-11-12",
+  "intro": "Die Wirtschaft in Deutschland wächst wieder stärker und die Inflation ist gesunken. Gleichzeitig mahnen Experten zu strengerem Sparen, und ein Tarifstreit in der Metallindustrie spitzt sich zu.",
   "top": [
     {
-      "title": "Maschinenbau im vierten Krisenjahr: Branche setzt auf KI",
-      "text": "Der deutsche Maschinenbau leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Branchengipfel fordern die Firmen Reformen von der Bundesregierung, der Verband spricht von Fassungslosigkeit. Auch Wirtschaftsministerin Reiche kritisiert laut Spiegel die eigene Regierung. Die Branche hofft, mit Künstlicher Intelligenz effizienter zu werden. Für Beschäftigte heißt das: Die Lage bleibt unsicher.",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
-      "source": "tagesschau",
+      "title": "Wirtschaftsweise heben Wachstumsprognose deutlich an",
+      "text": "Der Sachverständigenrat, die „Wirtschaftsweisen“, erwartet in seinem Jahresgutachten wieder mehr Wachstum. Er fordert aber harte Sparmaßnahmen im Bundeshaushalt und bringt eine Art Soli für Verteidigungsausgaben ins Spiel. Für Beschäftigte und Steuerzahler heißt das: Die Lage bessert sich, doch Belastungen sind politisch nicht vom Tisch.",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
+      "source": "tagesschau Wirtschaft",
       "category": "Konjunktur"
     },
     {
-      "title": "Klingbeil will Steuerklassen III und V abschaffen",
-      "text": "Das Bundesfinanzministerium plant Änderungen bei der Steuer, die noch bis Jahresende in Kraft treten sollen. Eine davon ist die Abschaffung der Steuerklassen III und V. Sie werden bisher von vielen Ehepaaren genutzt, um die monatliche Lohnsteuer zu verteilen. Was an ihre Stelle tritt, steht im Teaser nicht.",
-      "url": "https://www.spiegel.de/wirtschaft/lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v-a-4022a7cf-5aac-4d8e-a708-de7811a7c183#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Politik & Handel"
+      "title": "Inflation sinkt im Oktober, Tankrabatt wirkt",
+      "text": "Die Teuerungsrate in Deutschland ist im Oktober zurückgegangen. Der Tankrabatt, also die staatliche Entlastung beim Sprit, zeigt offenbar Wirkung. Energie, vor allem Heizöl, bleibt aber teuer, und einige Lebensmittel kosten wieder mehr. Wer mit Öl heizt, spürt die Entlastung daher kaum.",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Konjunktur"
     },
     {
-      "title": "Nvidia-Aktie fällt wegen Spionage-Affäre um den Firmenchef",
-      "text": "Nvidia-Chef Jensen Huang hat eine Affäre mit einer Frau eingeräumt, die unter Spionageverdacht für China steht. Das Unternehmen ermittelt, will aber an ihm festhalten. Die Aktie fiel auf den tiefsten Stand seit März, der Börsenwert sank laut FAZ binnen weniger Tage um rund eine Billion Dollar. Der DAX konnte seine Verluste nach dem KI-Absturz vom Freitag deshalb nicht ganz ausgleichen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-auf-tiefstem-stand-seit-maerz-jensen-huang-affaere-kostet-billion-dollar-accg-201671288.html",
-      "source": "FAZ Wirtschaft",
-      "category": "Börse & Märkte"
+      "title": "Kabinett beschließt strategische Gasreserve, Verbraucher zahlen",
+      "text": "Die Bundesregierung will eine strategische Gasreserve aufbauen, also einen staatlichen Notvorrat. Allein der Aufbau soll 1,2 bis 1,8 Milliarden Euro kosten. Laut Gesetzentwurf sollen die Verbraucher das bezahlen. Auf Gaskunden könnten damit höhere Kosten zukommen.",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/gas-bundeskabinett-beschliesst-strategische-gasreserve-a-34fe2f8d-246c-404c-aad4-5c48b79618bd#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Energie"
     }
   ],
   "entries": [
     {
-      "title": "Stromsteuer: Union will Gegenfinanzierung gefunden haben",
-      "summary": "Der Kanzler will die Stromsteuer senken. In den Verhandlungen zum Bundeshaushalt 2027 sieht die Union nun eine Möglichkeit, das gegenzufinanzieren.",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-2027-union-gegenfinanzierung-fuer-die-stromsteuersenkung-gefunden-haben-a-84521b50-da4c-471c-b043-a833f3d85180#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "Rentenkasse: Defizit wächst rapide",
-      "summary": "Die Rentenkasse muss 2027 voraussichtlich rund 20 Milliarden Euro mehr auszahlen, als sie einnimmt. Die Reserve reicht dafür noch aus.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/rentenkasse-droht-2027-eine-beitragserhoehung-201669168.html",
-      "source": "FAZ Wirtschaft",
+      "title": "IG Metall: 24-Stunden-Streiks rücken näher",
+      "summary": "Die IG-Metall-Bezirke sprechen sich im Tarifstreit der Metall- und Elektroindustrie für ganztägige Warnstreiks aus. Das gab es bisher erst einmal; die Positionen liegen weit auseinander.",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-122.html",
+      "source": "tagesschau Wirtschaft",
       "category": "Arbeit & Soziales"
     },
     {
-      "title": "Vodafone will 2.300 Stellen in Deutschland streichen",
-      "summary": "Rund jeder fünfte Job beim Mobilfunkkonzern soll wegfallen. Der Konzern muss sparen.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
-      "source": "tagesschau",
-      "category": "Unternehmen"
+      "title": "DAX schließt nahe am Rekordhoch",
+      "summary": "Nach schwachem Verlauf endete der Handel mit einem Index nahe dem Höchststand. Die Aussagen der Wirtschaftsweisen schürten Optimismus, die KI-Sorgen traten in den Hintergrund.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Börse & Märkte"
     },
     {
-      "title": "Infineon wächst dank KI-Boom weiter zweistellig",
-      "summary": "Der Chipkonzern meldet Rekordumsatz durch den Ausbau von KI-Rechenzentren und ein besseres Autogeschäft. Er sieht noch kein Ende des Booms.",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
-      "source": "tagesschau",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "BMW streicht wegen fehlender Teile Schichten",
-      "summary": "In bis zu drei Werken fallen einzelne Schichten aus, weil Zulieferteile fehlen.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035#ref=rss",
+      "title": "Nvidia-Aktie fällt auf tiefsten Stand seit März",
+      "summary": "Berichte über eine Affäre von Konzernchef Jensen Huang belasten den Chiphersteller. Der Börsenwert ist bereits deutlich gesunken.",
+      "url": "https://www.spiegel.de/wirtschaft/nvidia-aktie-faellt-auf-tiefsten-stand-seit-maerz-a-27332fd1-f19b-4a4f-a0d3-5f1012e4bf5d#ref=rss",
       "source": "Spiegel Wirtschaft",
-      "category": "Unternehmen"
+      "category": "Börse & Märkte"
     },
     {
-      "title": "Bund will E-Auto-Prämie um 917 Millionen Euro aufstocken",
-      "summary": "Die Prämie für Menschen mit niedrigem und mittlerem Einkommen ist laut Bericht ein Erfolg. Deshalb soll mehr Geld in den Topf.",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html",
-      "source": "tagesschau",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "Gasspeicher: Betreiber warnen vor Engpässen bei extremer Kälte",
-      "summary": "Die Speicher waren zuletzt auf einem historisch niedrigen Füllstand. Bei einem harten Winter müssten Menschen womöglich Gas sparen. Uniper sieht sich dagegen gut gerüstet.",
-      "url": "https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Energie"
-    },
-    {
-      "title": "Nahles: KI könnte 800.000 Jobs kosten",
-      "summary": "Die Chefin der Bundesagentur für Arbeit rechnet mit dem Verlust vieler Arbeitsplätze durch KI. Sie setzt trotzdem auf eine neue Agenda.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-andrea-nahles-rechnet-mit-verlust-von-800-000-jobs-a-64556960-bdcf-4d85-becc-93ef14bb937e#ref=rss",
+      "title": "Klingbeil will Steuerklassen III und V abschaffen",
+      "summary": "Der Finanzminister will das Steuersystem für Paare vereinfachen. In der Union stößt das auf Widerstand. Offen ist, ob es für Steuerzahler teurer würde.",
+      "url": "https://www.spiegel.de/wirtschaft/service/steuern-ende-der-steuerklassen-iii-und-v-was-wuerde-das-bedeuten-a-d47c216b-b9a2-4af3-8854-fd60150d7302#ref=rss",
       "source": "Spiegel Wirtschaft",
       "category": "Arbeit & Soziales"
     },
     {
-      "title": "IW-Umfrage: Jedes dritte Unternehmen plant 2027 Stellenabbau",
-      "summary": "Laut dem Institut der deutschen Wirtschaft erwarten die Firmen im nächsten Jahr keinen Aufschwung.",
+      "title": "Koalition: Stromsteuer wird vorerst nicht gesenkt, Zuckersteuer verschoben",
+      "summary": "Union und SPD haben sich bei den Haushaltsberatungen teilweise geeinigt. Die Stromsteuer für alle bleibt vorerst, wie sie ist; die Zuckersteuer soll später kommen, laut Bericht erst 2028.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/haushalt-stromsteuer-wird-vorerst-nicht-gesenkt-zuckersteuer-verschoben/100267083.html",
+      "source": "Handelsblatt",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "Jedes dritte Unternehmen plant 2027 Stellenabbau",
+      "summary": "Das zeigt laut n-tv eine Umfrage des Instituts der deutschen Wirtschaft (IW). Für Beschäftigte ist das ein Warnsignal trotz besserer Wachstumsprognosen.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTlhSnVVeDNvZmphbEdDVW1CWmJfenQ0WkZyYzliVnpzN0h4b2lZNXc3cXhTaDlsNlZ3RmFLNXBIUThvc1EzWWdsRGdXTVZZYmpPUUV5Z1lqb2hBcnVNWWdaNFp6UTNhYXl4c3ZQa3VBQ3M0QWtFQzAtOEwyWlBiRXlESXFZZkxkWW85ZklWMnJ2RWtKZWFfdzJUdW9hQTFERVptOG9mZ2hGdw?oc=5",
       "source": "n-tv.de",
-      "category": "Konjunktur"
+      "category": "Arbeit & Soziales"
     },
     {
-      "title": "Deutsche Exporte steigen trotz Trumps Zöllen",
-      "summary": "Die Ausfuhren legen trotz der US-Zollpolitik zu, berichtet die WirtschaftsWoche.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1llRmp3SThQR3ZIdlNwN3dneHVCUjJPYTVVNERyMktXOHNXYTdhNWNGaHVJYlhmUXBUME8tSlUzUDU4SkxOTDlGTFQ5U0NpVkRBWGNvaklmcFVUZE00ZVFpaTZONDFQNTlST21ITFRVcDFEWFJvc1F5WXgwdWF4dUhYTmRNTVF1QlUySGtEUnNrWXdlNDVDQ0hhZTJHWkRRdEVjQ0NWN1VEMFFpVENBcXFvUkRTb0ZDMWFHRFA4amk?oc=5",
-      "source": "WirtschaftsWoche",
-      "category": "Politik & Handel"
+      "title": "Mercedes-Chef fordert Zugeständnisse von den Gewerkschaften",
+      "summary": "Konzernchef Ola Källenius will die Arbeitskosten in Deutschland spürbar senken. Er zeigt sich kompromissbereit, aber nur bis zu einer klaren Grenze.",
+      "url": "https://www.spiegel.de/wirtschaft/mercedes-chef-ola-kaellenius-fordert-deutliche-zugestaendnisse-von-gewerkschaften-a-d04b053c-3e0d-4c70-90b1-ff2df11b3358#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Unternehmen"
     },
     {
-      "title": "Chinesische Firmen halten an Deutschland fest",
-      "summary": "Chinesische Unternehmen wollen hier weiter investieren, sorgen sich aber wegen hoher Arbeits- und Energiekosten.",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/asien-chinesische-firmen-halten-an-deutschland-fest/100268923.html",
+      "title": "Ukraine-Angriffe: BMW fehlen wieder Kabelbäume",
+      "summary": "Russische Angriffe haben Werke eines deutschen Zulieferers getroffen und die Lieferkette unterbrochen. BMW muss Schichten ausfallen lassen.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/bmw-skoda-nach-angriffen-in-der-ukraine-autoindustrie-fehlen-kabelbaeume/100268739.html",
       "source": "Handelsblatt",
       "category": "Unternehmen"
     },
     {
-      "title": "Mieten bei Neuverträgen steigen deutlich",
-      "summary": "Wer einen neuen Mietvertrag abschließt, zahlt laut Pfandbriefbanken immer mehr.",
-      "url": "https://www.spiegel.de/wirtschaft/service/immobilien-mieten-ziehen-deutlich-an-lage-spitzt-sich-laut-banken-zu-a-e867587b-e01c-4898-94e4-81961204d4d4#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Konjunktur"
+      "title": "Allianz erhöht Gewinnprognose",
+      "summary": "Der Versicherer hat in den ersten neun Monaten mehr als 14 Milliarden Euro verdient. Das ist ein Rekord, und der Ausblick wurde angehoben.",
+      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherung-allianz-erhoeht-gewinnprognose-rekordgewinn-nach-neun-monaten/100266550.html",
+      "source": "Handelsblatt",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Deutschland ist zweitgrößter Exporteur von Klimatechnik",
+      "summary": "Der weltweite Handel mit Umwelt- und Klimatechnik wächst jährlich um mehr als sechs Prozent. Deutschland profitiert davon und liegt hinter China auf Platz zwei.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschland-ist-zweitgroesster-exporteur-von-klimatechnik-201673217.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Politik & Handel"
     }
   ]
 }
