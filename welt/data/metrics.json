@@ -262,8 +262,8 @@
     91.49
    ],
    [
-    "2026-11-11",
-    92.93
+    "2026-11-12",
+    92.24
    ]
   ],
   "GC=F": [
@@ -528,8 +528,8 @@
     4030.2
    ],
    [
-    "2026-11-11",
-    4058.3
+    "2026-11-12",
+    3993
    ]
   ],
   "^GDAXI": [
@@ -796,10 +796,6 @@
    [
     "2026-11-10",
     26347.45
-   ],
-   [
-    "2026-11-11",
-    26515.99
    ]
   ]
  },
@@ -951,7 +947,7 @@
    ],
    [
     "2026-11",
-    1.121
+    1.113
    ]
   ]
  },
@@ -993,19 +989,7 @@
    "lon": 80.2,
    "lat": 15.8,
    "url": "https://www.gdacs.org/report.aspx?eventid=1001346&episodeid=10&eventtype=TC"
-  },
-  {
-   "type": "TC",
-   "art": "Wirbelsturm",
-   "level": "Red",
-   "name": "Tropical Cyclone ARNAB-26",
-   "country": "India",
-   "from": "2026-10-26",
-   "to": "2026-10-28",
-   "lon": 81.8,
-   "lat": 16.4,
-   "url": "https://www.gdacs.org/report.aspx?eventid=1001345&episodeid=10&eventtype=TC"
   }
  ],
- "updated": "2026-11-11T10:10:00.962Z"
+ "updated": "2026-11-12T02:29:10.955Z"
 }

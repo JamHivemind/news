@@ -34,10 +34,6 @@
  "stocks": {
   "NVDA": [
    [
-    "2026-08-11",
-    217.5
-   ],
-   [
     "2026-08-12",
     224.09
    ],
@@ -295,10 +291,6 @@
    ]
   ],
   "MSFT": [
-   [
-    "2026-08-11",
-    503.81
-   ],
    [
     "2026-08-12",
     492.43
@@ -558,10 +550,6 @@
   ],
   "GOOGL": [
    [
-    "2026-08-11",
-    343.8
-   ],
-   [
     "2026-08-12",
     343.54
    ],
@@ -819,10 +807,6 @@
    ]
   ],
   "META": [
-   [
-    "2026-08-11",
-    599.12
-   ],
    [
     "2026-08-12",
     578.85
@@ -1090,41 +1074,41 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 1295,
-   "downloads": 14378,
+   "likes": 3481,
+   "downloads": 16693,
    "task": "text-generation"
-  },
-  {
-   "id": "speridlabs/idol",
-   "likes": 1915,
-   "downloads": 26470,
-   "task": "image-to-3d"
-  },
-  {
-   "id": "moonshotai/Kimi-K3.1-Pro",
-   "likes": 1894,
-   "downloads": 30721,
-   "task": "image-text-to-text"
   },
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 561,
-   "downloads": 667,
+   "likes": 728,
+   "downloads": 142989,
    "task": "text-to-image"
   },
   {
-   "id": "ricursiveAI/Ripple-65B-Preview",
-   "likes": 492,
-   "downloads": 6480,
-   "task": ""
+   "id": "speridlabs/idol",
+   "likes": 2149,
+   "downloads": 28250,
+   "task": "image-to-3d"
   },
   {
    "id": "NousResearch/Arete-27B",
-   "likes": 416,
-   "downloads": 3431,
+   "likes": 440,
+   "downloads": 4023,
    "task": "text-generation"
+  },
+  {
+   "id": "Lightricks/LTX-2.5",
+   "likes": 11520,
+   "downloads": 2848771,
+   "task": "image-to-video"
+  },
+  {
+   "id": "moonshotai/Kimi-K3.1-Pro",
+   "likes": 1936,
+   "downloads": 33617,
+   "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-11T10:09:59.867Z",
+ "updated": "2026-11-12T02:29:06.610Z",
  "updatedDay": "2026-11-06"
 }
