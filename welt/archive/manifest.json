@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-12",
+      "file": "2026-11-12.html",
+      "headline": "Ukraine-Gespräche in Abu Dhabi: Kein Durchbruch, aber Gefangenenaustausch",
+      "count": 18,
+      "sources": 9,
+      "cats": {
+        "Krieg & Konflikte": 4,
+        "Weltpolitik": 4,
+        "Europa": 3,
+        "Katastrophen & Klima": 4,
+        "Wirtschaft & Handel": 1,
+        "Hafen & Schifffahrt": 2
+      },
+      "ents": {
+        "Ukraine": 1,
+        "Russland": 1,
+        "USA": 4,
+        "Iran": 2,
+        "Israel": 1,
+        "Gaza": 1
+      }
+    },
+    {
       "date": "2026-11-11",
       "file": "2026-11-11.html",
       "headline": "Ukraine und Russland verhandeln in Abu Dhabi",
