@@ -1,13 +1,42 @@
-// Die Garage: Wertometer-Nadel, Countdown zum nächsten Termin und der „Gummi geben“-Knopf.
+// Die Garage: Startampel und Wertometer-Nadel, Countdown, Lichthupe bei „Zur Quelle“, Reinfahren beim Scrollen.
 (function () {
   var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   var pad = function (n) { return (n < 10 ? "0" : "") + n; };
-
-  // Nadel hochdrehen lassen, wenn die Seite steht
   var needles = document.querySelectorAll(".g-needle");
-  setTimeout(function () { needles.forEach(function (n) { n.classList.add("on"); }); }, 250);
+  var sweep = function () { needles.forEach(function (n) { n.classList.add("on"); }); };
 
-  // Countdown bis zum nächsten Termin (Ortszeit Berlin, Angabe ohne Zeitzone = Browserzeit)
+  // Startampel: fünf rote Lichter gehen nacheinander an, dann alle aus – und die Nadel dreht hoch.
+  // Nur beim ersten Öffnen pro Sitzung, danach steht die Nadel gleich.
+  var lights = document.querySelector(".g-lights");
+  var shown = false;
+  try { shown = sessionStorage.getItem("garage-start") === "1"; sessionStorage.setItem("garage-start", "1"); } catch (e) {}
+  if (lights && !reduce && !shown) {
+    var dots = lights.querySelectorAll("i"), k = 0;
+    var step = setInterval(function () {
+      if (k < dots.length) { dots[k++].classList.add("on"); return; }
+      clearInterval(step);
+      setTimeout(function () {
+        dots.forEach(function (d) { d.classList.remove("on"); });
+        lights.classList.add("go");
+        sweep();
+      }, 300 + Math.random() * 500);
+    }, 380);
+  } else {
+    if (lights) lights.classList.add("go");
+    setTimeout(sweep, 150);
+  }
+
+  // Klick aufs Wertometer: kurzer Gasstoß in den roten Bereich
+  document.querySelectorAll(".g-meter").forEach(function (m) {
+    m.addEventListener("click", function () {
+      var n = m.querySelector(".g-needle"); if (!n) return;
+      n.style.transform = "rotate(116deg)";
+      setTimeout(function () { n.style.transform = "rotate(104deg)"; }, 450);
+      setTimeout(function () { n.style.transform = ""; }, 700);
+    });
+  });
+
+  // Countdown bis zum nächsten Termin
   var ev = document.querySelector(".g-event[data-start]");
   if (ev) {
     var start = Date.parse(ev.getAttribute("data-start")), end = Date.parse(ev.getAttribute("data-end"));
@@ -25,61 +54,26 @@
     tick(); setInterval(tick, 15000);
   }
 
-  // Motorsound aus dem Browser (Web Audio, keine Datei): Leerlauf, Gasstoß bis in den Begrenzer, Abfallen
-  var rev = function () {
-    var AC = window.AudioContext || window.webkitAudioContext;
-    if (!AC) return;
-    try {
-      var ac = new AC(), t = ac.currentTime;
-      var out = ac.createGain(); out.gain.value = 0.0001; out.connect(ac.destination);
-      var lp = ac.createBiquadFilter(); lp.type = "lowpass"; lp.Q.value = 6; lp.connect(out);
-      var o1 = ac.createOscillator(), o2 = ac.createOscillator();
-      o1.type = "sawtooth"; o2.type = "square"; o2.detune.value = -1200;
-      o1.connect(lp); o2.connect(lp);
-      // Drehzahl: 900 → 7.800 U/min (Frequenz ~ U/min / 60 * 3 für einen Sechszylinder)
-      var f = function (rpm) { return rpm / 20; };
-      [o1, o2].forEach(function (o) {
-        o.frequency.setValueAtTime(f(900), t);
-        o.frequency.exponentialRampToValueAtTime(f(7800), t + 1.0);
-        o.frequency.setValueAtTime(f(7400), t + 1.08);   // Begrenzer
-        o.frequency.setValueAtTime(f(7800), t + 1.16);
-        o.frequency.setValueAtTime(f(7400), t + 1.24);
-        o.frequency.exponentialRampToValueAtTime(f(1000), t + 2.4);
-        o.start(t); o.stop(t + 2.6);
-      });
-      lp.frequency.setValueAtTime(400, t); lp.frequency.exponentialRampToValueAtTime(2600, t + 1.0); lp.frequency.exponentialRampToValueAtTime(500, t + 2.4);
-      out.gain.exponentialRampToValueAtTime(0.18, t + 0.08);
-      out.gain.setValueAtTime(0.18, t + 1.3);
-      out.gain.exponentialRampToValueAtTime(0.0001, t + 2.55);
-      setTimeout(function () { ac.close(); }, 3000);
-    } catch (e) {}
-  };
-
-  var btn = document.getElementById("g-gas");
-  if (btn) btn.addEventListener("click", function () {
-    rev();
-    var boom = document.createElement("div");
-    boom.className = "g-boom"; boom.innerHTML = "<b>VROOOOM!</b>";
-    document.body.appendChild(boom);
-    setTimeout(function () { boom.remove(); }, 1900);
-    // Nadeln einmal in den roten Bereich
-    needles.forEach(function (n) {
-      n.style.transform = "rotate(118deg)";
-      setTimeout(function () { n.style.transform = ""; }, 1100);
-    });
-    if (reduce) return;
-    var wrap = document.querySelector(".wrap");
-    if (wrap) { wrap.classList.remove("g-shake"); void wrap.offsetWidth; wrap.classList.add("g-shake"); }
-    for (var i = 0; i < 26; i++) {
-      var p = document.createElement("span"), size = 60 + Math.random() * 90;
-      p.className = "g-smoke";
-      p.style.width = p.style.height = size + "px";
-      p.style.left = (Math.random() < 0.5 ? Math.random() * 30 : 70 + Math.random() * 30) + "vw";
-      p.style.setProperty("--dx", (Math.random() * 30 - 15) + "vw");
-      p.style.animationDuration = 1.8 + Math.random() * 1.6 + "s";
-      p.style.animationDelay = Math.random() * 0.6 + "s";
-      document.body.appendChild(p);
-      setTimeout(function (x) { return function () { x.remove(); }; }(p), 4200);
-    }
+  // Lichthupe: Klick auf „Zur Quelle“ lässt die Meldung kurz aufblitzen (Link öffnet in neuem Tab)
+  document.addEventListener("click", function (e) {
+    var a = e.target.closest && e.target.closest(".item .meta a, .top-card .meta a");
+    if (!a || reduce) return;
+    var card = a.closest(".item, .top-card");
+    card.classList.remove("g-flash"); void card.offsetWidth; card.classList.add("g-flash");
+    setTimeout(function () { card.classList.remove("g-flash"); }, 700);
   });
+
+  // Reinfahren beim Scrollen: Top 3 nacheinander vom Startplatz, Balken füllen sich
+  if (!reduce && "IntersectionObserver" in window) {
+    document.body.classList.add("g-anim");
+    var io = new IntersectionObserver(function (list) {
+      list.forEach(function (x) {
+        if (!x.isIntersecting) return;
+        var t = x.target, i = Array.prototype.indexOf.call(t.parentNode.children, t);
+        setTimeout(function () { t.classList.add("g-in"); }, t.classList.contains("top-card") ? i * 160 : 0);
+        io.unobserve(t);
+      });
+    }, { threshold: 0.2 });
+    document.querySelectorAll(".top-card, .panel, .g-radar").forEach(function (n) { io.observe(n); });
+  }
 })();

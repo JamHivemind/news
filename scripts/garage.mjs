@@ -59,6 +59,7 @@ export function renderGarage(cfg, markt, date) {
   const kw = isoWeek(date), m = liste[kw % liste.length];
   const akt = daten[m.id]?.verlauf?.at(-1), band = m.preisband?.at(-1), hh = daten[m.id]?.hamburg?.angebote || [];
   let fan = `<section class="g-stage"><div class="g-hero">
+    <div class="g-lights" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
     <div class="g-flag">Traumwagen der Woche · KW ${kw}</div>
     <div class="g-name"><span class="g-make">${esc(m.name)}</span><span class="g-series">${esc(m.baureihe)}</span></div>
     <div class="g-facts"><span>${esc(m.bauzeit)}</span><span>${esc(m.leistung)}</span>${akt ? `<span>${fmt(akt.anzahl)} im Angebot</span>` : ""}${hh.length ? `<span>${fmt(hh.length)} in Hamburg</span>` : ""}</div>

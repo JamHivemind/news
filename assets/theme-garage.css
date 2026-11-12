@@ -19,7 +19,7 @@
   background-attachment:fixed;
 }
 .theme-garage h1,.theme-garage .kicker,.theme-garage .tile-v,.theme-garage .top-card .num,.g-flag,.g-make,.g-series,
-.g-count b,.g-ev-name,.g-val,.g-deal b,.garage-ticker div,.g-gas,.g-boom b,.theme-garage .rubrik h2,.theme-garage h2.alle{
+.g-count b,.g-ev-name,.g-val,.g-deal b,.garage-ticker div,.theme-garage .rubrik h2,.theme-garage h2.alle{
   font-family:Anton,Impact,"Arial Narrow Bold",sans-serif;font-weight:400;letter-spacing:.02em
 }
 
@@ -127,19 +127,31 @@
 .theme-garage .mcard{border-top:4px solid var(--yellow)}
 .theme-garage .mchip{background:#fff;color:#111}
 
-/* Gummi geben */
-.g-gas{position:fixed;right:16px;bottom:16px;z-index:20;font-size:1.1rem;line-height:1;letter-spacing:.08em;
-  background:var(--red);color:#fff;border:3px solid var(--yellow);border-radius:999px;padding:12px 18px;cursor:pointer;box-shadow:0 8px 24px rgba(0,0,0,.6)}
-.g-gas:hover{transform:scale(1.06)}
-.g-gas:focus-visible{outline:3px solid #fff;outline-offset:3px}
-.g-shake{animation:g-shake .5s linear 3}
-@keyframes g-shake{0%,100%{transform:translate(0)}20%{transform:translate(-3px,2px)}40%{transform:translate(3px,-2px)}60%{transform:translate(-2px,-1px)}80%{transform:translate(2px,1px)}}
-.g-boom{position:fixed;inset:0;z-index:30;pointer-events:none;display:grid;place-items:center}
-.g-boom b{font-size:clamp(3.5rem,15vw,10rem);line-height:1;color:var(--yellow);font-style:italic;text-shadow:0 0 40px rgba(225,6,0,.9),6px 6px 0 var(--red);animation:g-vroom 1.8s ease-out forwards}
-@keyframes g-vroom{0%{transform:translateX(-60vw) skewX(-20deg);opacity:0}25%{transform:translateX(0) skewX(-12deg);opacity:1}75%{opacity:1}100%{transform:translateX(70vw) skewX(-25deg);opacity:0}}
-.g-smoke{position:fixed;bottom:-60px;z-index:29;pointer-events:none;border-radius:50%;
-  background:radial-gradient(circle,rgba(220,220,225,.55),rgba(160,160,170,.18) 60%,transparent 70%);animation:g-puff ease-out forwards}
-@keyframes g-puff{to{transform:translate(var(--dx),-70vh) scale(4);opacity:0}}
+/* Startampel im Traumwagen-Kasten */
+.g-lights{position:absolute;top:18px;right:20px;z-index:2;display:flex;gap:6px;padding:6px 8px;background:#000;border:1px solid #333;border-radius:8px}
+.g-lights i{width:14px;height:14px;border-radius:50%;background:#2a0000;box-shadow:inset 0 0 0 1px #400}
+.g-lights i.on{background:var(--red);box-shadow:0 0 12px var(--red),0 0 2px #fff inset}
+.g-lights.go i{background:#0b2a12;box-shadow:inset 0 0 0 1px #164d22}
+.g-meter{cursor:pointer}
+.g-meter:active svg{transform:scale(.98)}
+
+/* Rennstreifen beim Drüberfahren, Lichthupe beim Klick auf „Zur Quelle“ */
+.theme-garage .item,.theme-garage .top-card{position:relative;overflow:hidden;transition:transform .2s ease,border-color .2s ease}
+.theme-garage .item::after,.theme-garage .top-card::after{content:"";position:absolute;top:0;bottom:0;left:-40%;width:30%;pointer-events:none;
+  background:linear-gradient(100deg,transparent,rgba(255,204,0,.13) 40%,rgba(255,255,255,.18) 50%,rgba(255,204,0,.13) 60%,transparent);transform:skewX(-20deg);opacity:0}
+.theme-garage .item:hover,.theme-garage .top-card:hover{transform:translateX(3px);border-color:#4a4f58}
+.theme-garage .item:hover::after,.theme-garage .top-card:hover::after{animation:g-streak .7s ease-out}
+@keyframes g-streak{0%{left:-40%;opacity:1}100%{left:120%;opacity:1}}
+.g-flash::before{content:"";position:absolute;inset:0;z-index:3;pointer-events:none;
+  background:radial-gradient(closest-side at 18% 50%,rgba(255,250,220,.95),transparent),radial-gradient(closest-side at 82% 50%,rgba(255,250,220,.95),transparent);
+  animation:g-flash .55s ease-out}
+@keyframes g-flash{0%,40%{opacity:0}10%,55%{opacity:1}100%{opacity:0}}
+
+/* Reinfahren beim Scrollen */
+.g-anim .top-card{opacity:0;transform:translateX(-60px) skewX(-6deg)}
+.g-anim .top-card.g-in{opacity:1;transform:none;transition:opacity .5s ease,transform .6s cubic-bezier(.2,1.3,.4,1)}
+.g-anim .panel svg rect,.g-anim .g-bar span{transform:scaleX(0);transform-box:fill-box;transform-origin:left center}
+.g-anim .panel.g-in svg rect,.g-anim .g-radar.g-in .g-bar span{transform:scaleX(1);transition:transform .9s cubic-bezier(.2,.9,.3,1)}
 
 @media (max-width:760px){
   .g-stage{grid-template-columns:1fr}
@@ -148,6 +160,7 @@
   .g-hero::before{right:20px}
 }
 @media (prefers-reduced-motion:reduce){
-  .garage-ticker div,.g-shake{animation:none}
+  .garage-ticker div{animation:none}
+  .theme-garage .item:hover::after,.theme-garage .top-card:hover::after,.g-flash::before{animation:none}
   .g-needle{transition:none}
 }
