@@ -1,10 +1,10 @@
 {
- "fetched": "2026-11-12T16:36:19.449Z",
+ "fetched": "2026-11-12T16:50:15.954Z",
  "hours": 48,
  "sources": [
   {
    "name": "LTO (Google News)",
-   "focus": "Nur Urteile und Gesetze mit Bedeutung für Verbraucher, Mieter, Arbeitnehmer und Autofahrer. Keine Meldungen über Kanzleien, Juristenausbildung oder Personalien.",
+   "focus": "Nur Urteile und Gesetze mit Bedeutung für Verbraucher, Mieter, Arbeitnehmer und Autofahrer. Stellenanzeigen (Titel mit (m/w/d) oder (w/m/d)), Presseschau, Meldungen über Kanzleien, Juristenausbildung und Personalien überspringen.",
    "ok": true,
    "items": [
     {
@@ -462,18 +462,18 @@
      "via": "Merkur"
     },
     {
-     "title": "News, Politik: VZBV kritisiert Aus der Stromsteuersenkung als \"Farce\" - tixio - Nachrichten",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0pJMVhjZmt3TjNiRkU3T252LXpiTEJ5dGdDbWtoTkdSQjlxUll1TjRIU0Rmay1xeFVtWVMwMTZBNEEwUWotWHlVbTVucWZocWREZ0pmSms4OEVYaUdPelBkNEl0YmN4dXlHckREakNMdVI3UndaN0Z2aHRfaEJmNHktaUF6bEhUeXVZRDRLZw?oc=5",
-     "date": "2026-11-12T10:10:33.000Z",
-     "text": "News, Politik: VZBV kritisiert Aus der Stromsteuersenkung als \"Farce\" tixio - Nachrichten",
-     "via": "tixio - Nachrichten"
-    },
-    {
      "title": "Schimmel vermeiden: Diese 6 Fehler können Schimmel begünstigen - Business Insider Deutschland",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHd6ZnBZME5oeEgzaHEwS0otN1A1Y3VFMzRIV2w5LWRQcDhmSU5vYUVtUDdXejZ4eGJPSWliZkN4SDRiWm1OUHpZYi02eFQyZ25ITVpuWVBiaFE0b1pBVHlpN2VUZ3cyM0tlb1QxbldfOGUxX1Z3d2M5WUx4VHdrTFdQVHVNWXdFbUhpNVNVdndUdXlYbkFJTjVKZEluc0RNekpPamdwdw?oc=5",
      "date": "2026-11-10T14:58:55.000Z",
      "text": "Schimmel vermeiden: Diese 6 Fehler können Schimmel begünstigen Business Insider Deutschland",
      "via": "Business Insider Deutschland"
+    },
+    {
+     "title": "News, Politik: VZBV kritisiert Aus der Stromsteuersenkung als \"Farce\" - tixio - Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0pJMVhjZmt3TjNiRkU3T252LXpiTEJ5dGdDbWtoTkdSQjlxUll1TjRIU0Rmay1xeFVtWVMwMTZBNEEwUWotWHlVbTVucWZocWREZ0pmSms4OEVYaUdPelBkNEl0YmN4dXlHckREakNMdVI3UndaN0Z2aHRfaEJmNHktaUF6bEhUeXVZRDRLZw?oc=5",
+     "date": "2026-11-12T10:10:33.000Z",
+     "text": "News, Politik: VZBV kritisiert Aus der Stromsteuersenkung als \"Farce\" tixio - Nachrichten",
+     "via": "tixio - Nachrichten"
     },
     {
      "title": "VZBV kritisiert Aus der Stromsteuersenkung als \"Farce\" - Oldenburger Online Zeitung",
@@ -612,7 +612,7 @@
   },
   {
    "name": "Haufe Recht (Google News)",
-   "focus": "Nur Arbeitsrecht, Mietrecht, Datenschutz und Gesetzesänderungen mit Wirkung für Arbeitnehmer und Verbraucher, nicht reines Unternehmens- oder Steuerrecht.",
+   "focus": "Nur Nachrichten zu Arbeitsrecht, Mietrecht, Datenschutz und Gesetzesänderungen mit Wirkung für Arbeitnehmer und Verbraucher. Gesetzes-, Erlass- und Kommentar-Auszüge (Titel mit „/ §“, „Anwendungserlass“, „Gemeinsame Empfehlungen“, „Verordnung … /“) überspringen, ebenso reines Unternehmens- oder Steuerrecht.",
    "ok": true,
    "items": [
     {

@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-12T10:14:20.434Z",
+ "fetched": "2026-11-12T16:50:21.186Z",
  "hours": 48,
  "sources": [
   {
@@ -35,6 +35,20 @@
      "via": "deutsche-startups.de"
     },
     {
+     "title": "EU Inc. – und Gründen soll endlich einfacher werden - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeEp3eVdfaHJuVldwTDAtb3gxNU41d20wNzFnci1NUTk0MTJYakNfdkhYeVZXaGdNTDN5T3BmX2N2Zi01clhYRGwwdE1WLW5STmlwbnJQbk92MWpNUmJmYkRDOFBjNUxJclFmZnVHVFlkMkpRV3NGMElReG9DS3ZoNHVCbTZhR0VJV1FCQmpKdXhKbnBodlgtbVNB?oc=5",
+     "date": "2026-11-12T10:57:03.000Z",
+     "text": "EU Inc. – und Gründen soll endlich einfacher werden deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    },
+    {
+     "title": "homie – und KI kennt das ganze Sortiment - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFYwRjdHN1N1V2JyRDVBR3ZwOHA1eUZVQUZkYjBLX1Q3cTdRT1Q3V2gybC01Tk5UcWEtdTc0c0Z3RlF2SDBKQWhGM1RRVEdUNHVvam4ybWdGQWlTb2hlZThXZ3JnU3p5TU4xQndBcldtVmNHN0JOT3VJWGgzbGhESXBmZnFDOGtyYUUw?oc=5",
+     "date": "2026-11-12T12:59:37.000Z",
+     "text": "homie – und KI kennt das ganze Sortiment deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    },
+    {
      "title": "+++ seed+speed Ventures +++ FinTech +++ Noctua Science Ventures +++ Hypersonica +++ sennder +++ - deutsche-startups.de",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXZSRnpTR1ZDWHV2a2tsdWc5bUhrQUJZVFp5Y3FzRE9lQ2ZycW51S2s4QWpYLVlFOHEzOVZVTjZmWk5DOHB5VHFuREtVWEhDQXdTZ1FwTHFYcW1oSk4yUUprQU9sOHlvNzJ0OWo3YWZPRllvZUtNYmRSUmQ3ME14LVhzYUVrZ0o0QVJUVFZ2bzJ0RVFUVnhmM0hFZHh6bjBjTllaVVd0dDFUZFJ6UWhWWURGN2J0Zw?oc=5",
      "date": "2026-11-12T07:18:45.000Z",
@@ -45,9 +59,21 @@
   },
   {
    "name": "Gründerszene",
-   "ok": false,
-   "error": "HTTP 403",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "Tiktok als Umsatztreiber – geht die Rechnung für Startups auf?",
+     "url": "https://www.businessinsider.de/gruenderszene/tiktok-als-umsatztreiber-geht-die-rechnung-fuer-startups-auf/",
+     "date": "2026-11-11T15:27:58.000Z",
+     "text": "Tiktok wird für Startups zum Vertriebskanal – doch wie profitabel sind Creator-Provisionen, virale Videos und Tiktok Shop wirklich?"
+    },
+    {
+     "title": "Berliner KI-Startup Parloa baut OpenAI-Partnerschaft aus – und sichert sich besonderen Vorteil",
+     "url": "https://www.businessinsider.de/gruenderszene/parloa-baut-openai-partnerschaft-aus-und-sichert-sich-besonderen-vorteil/",
+     "date": "2026-11-11T08:22:53.000Z",
+     "text": "Früher Zugang zu neuen KI-Modellen, gemeinsame Großkunden und ein neuer Vertriebskanal: Parloa vertieft seine Partnerschaft mit OpenAI."
+    }
+   ]
   },
   {
    "name": "EU-Startups",
@@ -59,6 +85,18 @@
    "name": "Sifted",
    "ok": true,
    "items": [
+    {
+     "title": "Why is Northzone betting on scouts as Sequoia walks away?",
+     "url": "https://sifted.eu/articles/sifted-podcast-northzone-northstars/",
+     "date": "2026-11-12T15:18:29.000Z",
+     "text": ""
+    },
+    {
+     "title": "Drone startup Uforce raises $700m backed by Valor Equity Partners, UK National Wealth Fund",
+     "url": "https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop/",
+     "date": "2026-11-12T10:10:54.000Z",
+     "text": ""
+    },
     {
      "title": "SoftBank leads $500m round for Agile Robots",
      "url": "https://sifted.eu/articles/softbank-leads-500m-round-for-agile-robots/",
@@ -160,18 +198,6 @@
      "url": "https://sifted.eu/articles/mistral-copyright-law-proposal/",
      "date": "2026-11-10T17:04:26.000Z",
      "text": ""
-    },
-    {
-     "title": "Jensen Huang pulls out of ElevenLabs Summit amid controversy",
-     "url": "https://sifted.eu/articles/jensen-huang-pulls-out-of-elevenlabs-summit-amid-controversy/",
-     "date": "2026-11-10T12:12:02.000Z",
-     "text": ""
-    },
-    {
-     "title": "Exclusive: Nvidia bet Hiverge quietly raises $19.4m backed by Plural",
-     "url": "https://sifted.eu/articles/nvidia-bet-hiverge-plural-raise/",
-     "date": "2026-11-10T11:45:36.000Z",
-     "text": ""
     }
    ]
   },
@@ -180,6 +206,12 @@
    "focus": "Nur Europa-Bezug oder sehr große Runden",
    "ok": true,
    "items": [
+    {
+     "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+     "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+     "date": "2026-11-12T13:26:25.000Z",
+     "text": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US."
+    },
     {
      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
@@ -197,12 +229,6 @@
      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
      "date": "2026-11-10T19:03:52.000Z",
      "text": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
-    },
-    {
-     "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-     "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-     "date": "2026-11-10T14:00:00.000Z",
-     "text": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
     }
    ]
   },
@@ -212,11 +238,25 @@
    "ok": true,
    "items": [
     {
+     "title": "Music WorX Pitch 2026 zeigte die Startup-Vielfalt der Branche - Hamburg Startups",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUZiTC1JNjgteDhWWHpBVXpkN1MyUjA3cV9vTFJUZ0hSS0x3LUFNYm1sZnlzUHM2WEQ2WnYyc3FEeGUyN19GRmViU083VTRibTJjS0dYbGUwYUJEN3ZQSnQteXRUUjAwaUtjeW5RS3M4SzdXTGkzRjFkck5SRzAyc2xZNDk5VkllMm9aWXFScHJibXg5b0tGRzdyMA?oc=5",
+     "date": "2026-11-12T12:02:22.000Z",
+     "text": "Music WorX Pitch 2026 zeigte die Startup-Vielfalt der Branche Hamburg Startups",
+     "via": "Hamburg Startups"
+    },
+    {
      "title": "Startup Match am 19. November – Startups als Arbeitgeber kennenlernen : UHH - Universität Hamburg",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcW9GOWFkZVN6bURJWU90LXZFS1QwRFdHdnlsUmFsRE1qNkFjeElsZXZKcE1lZnVVcXR4Zkw3aW9QQVFpT05vYkRTM3dmaWxSUFAyRF9fYVd1d0hHSzNua25iX0ZYSXJ2SHN4ZXFnbHNabjN5Y3hJV2tpLTJDX0hQUg?oc=5",
      "date": "2026-11-06T15:43:00.000Z",
      "text": "Startup Match am 19. November – Startups als Arbeitgeber kennenlernen : UHH Universität Hamburg",
      "via": "Universität Hamburg"
+    },
+    {
+     "title": "Wir verlosen 2x1 Sticky Chai Paket vom Hamburger Startup Mangala Chai - Hamburg Magazin",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JZ0JqXzJuTG9zSkQ2UWYxcmEzTDZNMENlMzc2Q2hwRHVnLURhTFhRVXR2cDBybWs4RnlNNWZyUlIyWEdRSk52NmpPNi01OTg1dGJCbmdwVVlObVQxd18xbDRjZkJLQjlqRGx6MW1tbDY5MTNUWkx6cWNkbw?oc=5",
+     "date": "2026-11-09T15:00:00.000Z",
+     "text": "Wir verlosen 2x1 Sticky Chai Paket vom Hamburger Startup Mangala Chai Hamburg Magazin",
+     "via": "Hamburg Magazin"
     },
     {
      "title": "Female Entrepreneurship Week 2026 : UHH - Universität Hamburg",
@@ -240,18 +280,18 @@
      "via": "Startbase"
     },
     {
-     "title": "Münchner Start-up Agile Robots erhält 500 Millionen Dollar - WELT",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT2xtV3QycksycEREdGJJUTBESnpJQWtaZEloUjQxbzlmOEpINHE0Z013M3lxeTFvWnhXSzJaSWZtbUJWV1QwZ1dhclVkakR5bE83VnJtdWFwSElCYzlRSEt0VUxaT3FLZFZqZG1CRENfanJqeEQxQWI1WHRzdEtyQlFMNXVPNkE0U3Jhc1ZOVXZtakNTVWttb1p6WTdhc2h3eHcySlN1eENHZVVGa09JYXlTR0NDUnZYOE5jZ3RMSDEwUVN5YTR3SDVteVBmb1EyZUV3Y2hmR0NZa2ZkRE9LZ1M5VS1WMWZzcmNmdA?oc=5",
-     "date": "2026-11-12T06:10:07.000Z",
-     "text": "Münchner Start-up Agile Robots erhält 500 Millionen Dollar WELT",
-     "via": "WELT"
+     "title": "Münchner Start-up Agile Robots erhält 500 Millionen Dollar - Westdeutsche Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXZZOEpNR1Q4MHVaYkx0a3lJUWFEdWVMRThuQXhxRlFqV04xYUJ6ZjliNHFKNWpNanhrUWRNd3FTeFpaWU16RnhxV2xlZTdGTHpTaHBHMmxJTExKTWFUMzBxUFRFN1Y0eGdPX2Vja2ZGWDZPV0VHbWJXWjkxWDdyOU5nazlyc3U5Q2h1Q3VOZnFPYmdrQzQ5SzV5bE5EWU9raXc?oc=5",
+     "date": "2026-11-12T06:00:00.000Z",
+     "text": "Münchner Start-up Agile Robots erhält 500 Millionen Dollar Westdeutsche Zeitung",
+     "via": "Westdeutsche Zeitung"
     },
     {
-     "title": "Start-up-Finanzierer: Redalpine startet neuen 250-Millionen-Dollar-Fonds - Manager Magazin",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT1p5YU9hVXZqU0Z5TVF4aHJRWUdHUlEtSGhkYlg5WXhHTEFNYnA4SFY2dUlOamQ5Zl9BSTFKRHZuWjR3VFhrMjRNdWpQUWR3bkN1R2MzYzlrV25HQS00bkpJMWdVNFJWTDlERkxSQUh5RWFNcnNidU1yaVNwUnd6bERpNWQ4VmhocU9EY2o3Y3NMX2hyTHJrbHJDel9CZWxnaV9PZVlIQnRnUWxVZ1RjdVV2bGxNRFRsRDc4MUVOR3N6YWdqblJaejBQdk1vNmd3aGFR?oc=5",
-     "date": "2026-11-10T11:11:00.000Z",
-     "text": "Start-up-Finanzierer: Redalpine startet neuen 250-Millionen-Dollar-Fonds Manager Magazin",
-     "via": "Manager Magazin"
+     "title": "Ukrainisches Drohnen-Startup UForce sichert sich Finanzierungsrunde über 700 Mio. USD bei einer Bewertung von 6 Mrd. USD - MarketScreener Deutschland",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYXQwS1o2cTdkaVRBMkkyeDFQVWJOdWJfeGdiM0o3TFh5eFlZOVRxQUUwRDNlWXdIc0I2ak9EcTlUNHNYbWFjaFNVSVY0SGhnUTR1Qlp1Ylc5TVlUTEdKakdzdXZmRDhfbW5GZW9uZGNUR0ZLUkVrNVh5UFFkV0ViWkFHc3VKeFJEUlcwYmtJODRncVB4TWFETjZEaTZkbUw5NlFkOFB2VUxkSmdUeFRhMGVOTllOLVNuT0hPeUZTZDZBd0lPMnltVVRvQ1B3NlJaeVI5cGIwM3pIZlJuZHhIeFpqbzAzVU8ydkFtVmM4T0V0MXlfX0JHMzR3?oc=5",
+     "date": "2026-11-12T10:45:12.000Z",
+     "text": "Ukrainisches Drohnen-Startup UForce sichert sich Finanzierungsrunde über 700 Mio. USD bei einer Bewertung von 6 Mrd. USD MarketScreener Deutschland",
+     "via": "MarketScreener Deutschland"
     },
     {
      "title": "Oura kauft KI-Arztpraxis Counsel Health um 625 Mio. Dollar - Trending Topics",
@@ -261,11 +301,25 @@
      "via": "Trending Topics"
     },
     {
-     "title": "Valkyrie Dynamics erhält eine Million Euro für Drohnenabwehr - Startbase",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlhvQWpCNVhGaHdoOEFDaHM3bXpPZjVaU2l4RVVZWVUzMHNIVTBoeFJEUWJGVHNyNnRGeEJqQkZXbHdoSHpZUEs0VmVQeTUwLXhDRWtVZG8zZ0NEMGtQVUh1WjNTZWh0WWtuWElBOE9XM0Z5TkpZSHZWb05kbTM3T1RnWmxPVTdzUDMyZ1h0ellkTUM5bjRTSw?oc=5",
-     "date": "2026-11-11T05:30:00.000Z",
-     "text": "Valkyrie Dynamics erhält eine Million Euro für Drohnenabwehr Startbase",
-     "via": "Startbase"
+     "title": "Geld für den Krieg: Ukrainischer Drohnenhersteller Uforce wirbt Millionen ein - inSüdthüringen",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN3VOTEhLSlMzRmY5dEtKZTRCSnRzamItLWxoLVlrQ0tpaXdOUmdvSk9Uc3pZV3ZoWHdjcldlUExkNkg1YlpvdUNReGJVZlVQaTNpem9rVXQ0LXQ4QmI5WFlDQnN1S3NzU2RVY3Q2cUxSYnZHWEJFMWN3Q1pqNTBPUDlSMU5QVE5Ob3dDTVRJUlpjT1dZWVRnM1JzanZhMmZKdnhDWnluLUpNYW84Ni0zOHE4T1BfWUpJN2NnaWR6VlFOdldpSjF0OFdVQnF6ZmVLZTE1Z2gyY2FqZHJqT2NHYzZxX3ZQZ3RYM3VKbXFEYw?oc=5",
+     "date": "2026-11-12T10:50:48.000Z",
+     "text": "Geld für den Krieg: Ukrainischer Drohnenhersteller Uforce wirbt Millionen ein inSüdthüringen",
+     "via": "inSüdthüringen"
+    },
+    {
+     "title": "Rox: KI-Startup sammelt 100 Millionen Dollar ein - n24.com.tr",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQems0bHVxTkdSV2xZOVlkbnF2ejI2UUw4UmM5VUVob1Z1WXZSZ1A0bFJySTc5UjByLWJtTkhLeEZ6UGZpbGFkYUlWRUM0aV9fT2dncGFfclBQUHNZb2VzUnZfZFhZOWgxZlp1aXNwQmdHblJGS2ZsbmMtMFA4WlU5ZzZHTXJOOWl5?oc=5",
+     "date": "2026-11-12T10:15:10.000Z",
+     "text": "Rox: KI-Startup sammelt 100 Millionen Dollar ein n24.com.tr",
+     "via": "n24.com.tr"
+    },
+    {
+     "title": "Fractile: Britisches Chip-Startup erreicht 7 Milliarden Bewertung - n24.com.tr",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRFhETFA1bmpNTWE5SFdSZGhfY2Q1WHNvdHRVa3VCNGhWY2hUeGVHaHE5M3NUQTduaFBDV25nZl9oYVNXTGhodDluNHFjMWVYTEp6U2EyTkVuTWZleXZFODhuT1J4SGJQVTd4TE5USFhJVC1iSnRrYndkMWtQS09WczhRMHh6OXdCamJjRS1EZTZzSDhPQzJqQ1N5djBnVzNL?oc=5",
+     "date": "2026-11-12T06:45:14.000Z",
+     "text": "Fractile: Britisches Chip-Startup erreicht 7 Milliarden Bewertung n24.com.tr",
+     "via": "n24.com.tr"
     },
     {
      "title": "Fractile erreicht Bewertung von 7 Milliarden Dollar in Series-C-Runde über 720 Millionen - Cryptopolitan",
