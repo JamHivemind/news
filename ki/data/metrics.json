@@ -1090,7 +1090,7 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 4022,
+   "likes": 4026,
    "downloads": 16693,
    "task": "text-generation"
   },
@@ -1119,12 +1119,12 @@
    "task": "image-to-video"
   },
   {
-   "id": "ricursiveAI/Ripple-65B-Preview",
-   "likes": 518,
-   "downloads": 7112,
-   "task": ""
+   "id": "moonshotai/Kimi-K3.1-Pro",
+   "likes": 1942,
+   "downloads": 33617,
+   "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-12T05:21:11.695Z",
+ "updated": "2026-11-12T05:22:33.410Z",
  "updatedDay": "2026-11-06"
 }
