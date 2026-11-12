@@ -1,6 +1,28 @@
 {
   "briefs": [
     {
+      "date": "2026-11-12",
+      "file": "2026-11-12.html",
+      "headline": "Wirtschaftsweise heben Wachstumsprognose deutlich an",
+      "count": 13,
+      "sources": 5,
+      "cats": {
+        "Konjunktur": 2,
+        "Energie": 1,
+        "Arbeit & Soziales": 3,
+        "Börse & Märkte": 2,
+        "Politik & Handel": 2,
+        "Unternehmen": 3
+      },
+      "ents": {
+        "Bundesregierung": 1,
+        "Mercedes": 1,
+        "BMW": 1,
+        "Allianz": 1,
+        "China": 1
+      }
+    },
+    {
       "date": "2026-11-11",
       "file": "2026-11-11.html",
       "headline": "Maschinenbau im vierten Krisenjahr: Branche setzt auf KI",
