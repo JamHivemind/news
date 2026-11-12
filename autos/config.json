@@ -1,18 +1,20 @@
 {
   "order": 8,
-  "icon": "🚗",
-  "title": "Autos & Klassiker",
-  "description": "Automarkt, Gebrauchtwagenpreise, Klassiker und Youngtimer, Rückrufe und neue Regeln für Autofahrer, jeden Morgen kurz auf Deutsch",
-  "leser": "Autobesitzer und Autofans, die wissen wollen, was ihr Auto wert ist, was sich bei Kosten und Regeln ändert und was in der Branche passiert",
-  "schwerpunkt": "Deutschland zuerst. Besonders beachten: Porsche 911 (auch ältere Baureihen wie 996 und 997), Sportwagen, Klassiker und Youngtimer mit Preisen und Wertentwicklung, Auktionsergebnisse. Rückrufe immer mit Marke, Modell und Zahl der Autos nennen, wenn bekannt. Bei Regeln und Kosten (TÜV/HU, Kfz-Steuer, Führerschein, Versicherung, Maut) das Datum nennen, ab wann es gilt. Fahrberichte, reine Neuwagen-Vorstellungen, Kaufberatungs-Klickstrecken, Bildergalerien und Gewinnspiele nur, wenn wirklich neu und wichtig. Keine Unfall- und Polizeimeldungen.",
+  "icon": "🏁",
+  "theme": "garage",
+  "title": "Die Garage",
+  "description": "Autos & Klassiker mit Benzin im Blut: Elfer, Sportwagen, Oldtimer und Youngtimer, Preise, Motorsport und Termine aus Hamburg. Jeden Morgen frisch. Fanseite für Autoliebhaber.",
+  "leser": "Autoverrückte aus Hamburg, die morgens wissen wollen, was in der Szene los ist: Elfer, Sportwagen, Klassiker, Preise, Motorsport und Treffen",
+  "schwerpunkt": "Autos selbst stehen im Mittelpunkt, nicht Verbraucherthemen. Zuerst: Porsche 911 (alle Baureihen, besonders 993, 996, 997), Sportwagen und Supersportwagen, Klassiker und Youngtimer mit Preisen, Wertentwicklung und Auktionsergebnissen, Motorsport (Le Mans, Langstrecke, Nürburgring, Formel 1 nur mit Bezug zu Sportwagen-Marken oder deutschen Fahrern), Szene und Termine in Hamburg und Norddeutschland (Treffen, Messen, Ausfahrten). Neue Modelle und Fahrberichte, wenn sie Fans interessieren (Sportwagen, Sondermodelle, Comebacks). Branche nur bei großen Nachrichten von Sportwagen- und Premiumherstellern. Rückrufe und Regeln (TÜV/HU, Kfz-Steuer, Führerschein) höchstens drei am Tag, nur wichtige, mit Marke, Modell, Zahl der Autos und Datum, ab wann es gilt. E-Auto-Förderung, Ladesäulen und Spritpreise nur bei großen Änderungen. Keine Unfall- und Polizeimeldungen, keine Bildergalerien, Gewinnspiele oder Kaufberatungs-Klickstrecken.",
   "categories": [
-    "Markt & Preise",
+    "Sportwagen & Elfer",
     "Klassiker & Youngtimer",
-    "Rückrufe",
-    "Regeln & Kosten",
-    "Sprit & Laden",
+    "Markt & Preise",
+    "Motorsport",
+    "Neue Modelle & Fahrberichte",
+    "Szene & Termine",
     "Hersteller & Branche",
-    "Neue Modelle"
+    "Rückrufe & Regeln"
   ],
   "sources": [
     {
@@ -56,7 +58,7 @@
       "name": "electrive",
       "url": "https://www.electrive.net/feed/",
       "type": "rss",
-      "focus": "Nur Meldungen mit Bedeutung für Autofahrer in Deutschland: Preise, Förderung, Laden, wichtige Modelle. Keine Nutzfahrzeug- oder Zulieferer-Kleinmeldungen."
+      "focus": "Nur große Nachrichten: elektrische Sportwagen, wichtige Modelle von Porsche, Mercedes, BMW, Audi, große Änderungen bei Förderung oder Preisen. Keine Ladesäulen-, Nutzfahrzeug- oder Zulieferer-Kleinmeldungen."
     },
     {
       "name": "kfz-betrieb",
@@ -68,7 +70,7 @@
       "name": "NIUS",
       "url": "https://nius.de/rss",
       "type": "rss",
-      "focus": "Nur Autoindustrie, Verbrenner-Aus, Sprit- und Strompreise, Kfz-Steuer und Verkehrspolitik. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen."
+      "focus": "Nur Autoindustrie, Verbrenner-Aus und Verkehrspolitik mit Bedeutung für Autofans. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen."
     },
     {
       "name": "Google News: Rückrufe",
@@ -78,17 +80,11 @@
       "focus": "Nur Rückrufe von Autos und Motorrädern, nicht von anderen Produkten."
     },
     {
-      "name": "Google News: Spritpreise",
-      "url": "https://news.google.com/rss/search?q=Spritpreise%20ADAC%20OR%20Benzinpreis%20OR%20Dieselpreis&hl=de&gl=DE&ceid=DE:de",
-      "type": "rss",
-      "focus": "Höchstens eine Meldung zu den Spritpreisen am Tag, die aktuellste mit Zahlen."
-    },
-    {
       "name": "Google News: Regeln für Autofahrer",
       "url": "https://news.google.com/rss/search?q=Autofahrer%20neue%20Regeln&hl=de&gl=DE&ceid=DE:de",
       "type": "rss",
       "hours": 96,
-      "focus": "Nur Regeln, Pflichten, Kosten und Fristen für Autofahrer (TÜV/HU, Kfz-Steuer, Führerschein, Versicherung, Maut). Keine Unfall- oder Polizeimeldungen."
+      "focus": "Nur wirklich wichtige Regeln, Pflichten, Kosten und Fristen für Autofahrer (TÜV/HU, Kfz-Steuer, Führerschein, H-Kennzeichen). Keine Unfall- oder Polizeimeldungen. Rubrik Rückrufe & Regeln."
     },
     {
       "name": "Google News: Gebrauchtwagenmarkt",
@@ -101,6 +97,34 @@
       "url": "https://news.google.com/rss/search?q=%22Porsche%20911%22%20OR%20%22Porsche%20997%22%20OR%20%22Porsche%20996%22&hl=de&gl=DE&ceid=DE:de",
       "type": "rss",
       "hours": 96
+    },
+    {
+      "name": "Google News: Sportwagen",
+      "url": "https://news.google.com/rss/search?q=Sportwagen%20OR%20Supersportwagen%20OR%20%22GT3%20RS%22%20OR%20Hypercar&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 72,
+      "focus": "Neue und besondere Sportwagen, Sondermodelle, Rekorde. Keine Klickstrecken und Bildergalerien."
+    },
+    {
+      "name": "Google News: Motorsport",
+      "url": "https://news.google.com/rss/search?q=%22Le%20Mans%22%20OR%20WEC%20OR%20%2224h%20N%C3%BCrburgring%22%20OR%20%22Porsche%20Motorsport%22%20OR%20%22Porsche%20Supercup%22%20OR%20DTM&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 72,
+      "focus": "Langstrecke, DTM, Porsche-Markenpokale und große Sportwagen-Rennen. Ergebnisse mit Platzierungen exakt wie in der Quelle. Rubrik Motorsport."
+    },
+    {
+      "name": "Google News: Oldtimer-Auktionen",
+      "url": "https://news.google.com/rss/search?q=Oldtimer%20Auktion%20OR%20%22Classic%20Car%22%20Auktion%20OR%20RM%20Sotheby%27s%20OR%20Bonhams%20OR%20%22Broad%20Arrow%22&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 96,
+      "focus": "Auktionsergebnisse und Rekordpreise für Klassiker, mit Preis und Auktionshaus."
+    },
+    {
+      "name": "Google News: Szene Hamburg",
+      "url": "https://news.google.com/rss/search?q=Hamburg%20(Oldtimer%20OR%20Autotreffen%20OR%20%22Cars%20and%20Coffee%22%20OR%20Sportwagen%20OR%20Classic%20Days%20OR%20Hamburg%20Motor%20Classics)&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 120,
+      "focus": "Treffen, Messen, Ausfahrten und Szene-Neuigkeiten in Hamburg und Norddeutschland. Rubrik Szene & Termine. Keine Unfall- oder Polizeimeldungen, keine Tuner-Kontrollen."
     },
     {
       "name": "Classic Trader Newsletter",
@@ -401,6 +425,39 @@
         "name": "Fineeleven",
         "ort": "Brietlingen",
         "elferspot": "fineeleven"
+      }
+    ]
+  },
+  "ton": "Schreib wie ein Autofan für Autofans: mit Begeisterung, Benzin im Blut und gern einem Augenzwinkern („Elfer“, „luftgekühlt“, „Handschalter“, „Gummi geben“). Fakten bleiben Fakten: nichts erfinden, Preise, PS, Stückzahlen, Namen und Daten exakt wie in der Quelle. Keine Kaufempfehlungen. Rückrufe und Regeln sachlich und kurz.",
+  "garage": {
+    "hinweis": "Traumwagen der Woche wechselt montags reihum aus „Modelle im Blick“. Termine von Hand gepflegt: neuester Stand beim Veranstalter prüfen.",
+    "termine": [
+      {
+        "name": "Essen Motor Show",
+        "ort": "Messe Essen",
+        "von": "2026-11-28",
+        "bis": "2026-12-06",
+        "uhr": "09:00",
+        "url": "https://www.essen-motorshow.de/",
+        "sicher": true
+      },
+      {
+        "name": "Bremen Classic Motorshow",
+        "ort": "Messe Bremen",
+        "von": "2027-02-05",
+        "bis": "2027-02-07",
+        "uhr": "09:00",
+        "url": "https://www.classicmotorshow.de/",
+        "sicher": false
+      },
+      {
+        "name": "Retro Classics Stuttgart",
+        "ort": "Messe Stuttgart",
+        "von": "2027-04-29",
+        "bis": "2027-05-02",
+        "uhr": "09:00",
+        "url": "https://www.retro-classics.de/",
+        "sicher": true
       }
     ]
   }

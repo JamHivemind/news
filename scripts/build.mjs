@@ -13,6 +13,7 @@ import { renderFootball } from "./football.mjs";
 import { renderZonen } from "./zonen.mjs";
 import { renderWelt } from "./welt.mjs";
 import { renderModelle } from "./modelle.mjs";
+import { renderGarage } from "./garage.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const loadJson = (file, fallback) => { try { return JSON.parse(readFileSync(file, "utf8")); } catch { return fallback; } };
@@ -187,7 +188,10 @@ function renderDashboard(cfg, manifest, date, metrics, dir) {
     panels += panel("Meldungen pro Tag", "Anzahl ausgewählter Meldungen je Ausgabe",
       columns(briefs.slice(-14).map(b => ({ date: b.date, value: b.count }))));
 
-  return { kpis: `<div class="tiles">${kpis}</div>`, dashboard: `<div class="dash">${panels}</div>`, fan: wl.fan + fb.fan + zn.fan };
+  // Auto-Fanseite: Traumwagen der Woche, nächster Termin, Hamburg-Radar (data/markt.json)
+  const ga = cfg.garage && dir ? renderGarage(cfg, loadJson(join(dir, "data", "markt.json"), null), date) : "";
+
+  return { kpis: `<div class="tiles">${kpis}</div>`, dashboard: `<div class="dash">${panels}</div>`, fan: wl.fan + fb.fan + zn.fan + ga };
 }
 
 // ---------- Ein Dashboard bauen ----------

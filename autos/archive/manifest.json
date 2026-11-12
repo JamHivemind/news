@@ -7,13 +7,12 @@
       "count": 18,
       "sources": 11,
       "cats": {
-        "Sprit & Laden": 2,
-        "Rückrufe": 4,
-        "Hersteller & Branche": 4,
+        "Hersteller & Branche": 6,
+        "Rückrufe & Regeln": 7,
         "Markt & Preise": 1,
-        "Klassiker & Youngtimer": 2,
-        "Regeln & Kosten": 3,
-        "Neue Modelle": 2
+        "Klassiker & Youngtimer": 1,
+        "Sportwagen & Elfer": 2,
+        "Neue Modelle & Fahrberichte": 1
       },
       "ents": {
         "ADAC": 2,
@@ -27,7 +26,7 @@
     }
   ],
   "site": {
-    "title": "Autos & Klassiker",
-    "description": "Automarkt, Gebrauchtwagenpreise, Klassiker und Youngtimer, Rückrufe und neue Regeln für Autofahrer, jeden Morgen kurz auf Deutsch"
+    "title": "Die Garage",
+    "description": "Autos & Klassiker mit Benzin im Blut: Elfer, Sportwagen, Oldtimer und Youngtimer, Preise, Motorsport und Termine aus Hamburg. Jeden Morgen frisch. Fanseite für Autoliebhaber."
   }
 }

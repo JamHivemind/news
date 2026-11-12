@@ -1,0 +1,153 @@
+/* Die Garage: Nachtschicht in der Werkstatt. Carbon, Asphalt, Signalgelb und Rennrot.
+   Fanseite für Autoliebhaber, keine Markenlogos. */
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
+.theme-garage{
+  color-scheme:dark;
+  --bg:#0c0d0f;--surface:#16181c;--surface2:#1e2127;--border:#2b2f37;
+  --text:#f2f2ee;--muted:#a3a7ae;--accent:#ffcc00;--accent-soft:rgba(255,204,0,.12);
+  --tipp:#ffcc00;--tipp-soft:rgba(255,204,0,.08);
+  --s1:#ffcc00;--s2:#e10600;--s3:#38bdf8;--s4:#e8e8e8;--s5:#22c55e;
+  --grid:#23262c;--axis:#3a3f48;
+  --red:#e10600;--yellow:#ffcc00;
+  background:
+    radial-gradient(900px 420px at 15% -8%,rgba(255,204,0,.13),transparent 60%),
+    radial-gradient(900px 420px at 92% -6%,rgba(225,6,0,.16),transparent 60%),
+    repeating-linear-gradient(45deg,rgba(255,255,255,.018) 0 4px,transparent 4px 8px),
+    repeating-linear-gradient(-45deg,rgba(0,0,0,.25) 0 4px,transparent 4px 8px),
+    var(--bg);
+  background-attachment:fixed;
+}
+.theme-garage h1,.theme-garage .kicker,.theme-garage .tile-v,.theme-garage .top-card .num,.g-flag,.g-make,.g-series,
+.g-count b,.g-ev-name,.g-val,.g-deal b,.garage-ticker div,.g-gas,.g-boom b,.theme-garage .rubrik h2,.theme-garage h2.alle{
+  font-family:Anton,Impact,"Arial Narrow Bold",sans-serif;font-weight:400;letter-spacing:.02em
+}
+
+/* Zielflagge oben und Lauftext */
+.garage-flag{height:16px;background:
+  conic-gradient(#fff 25%,#111 0 50%,#fff 0 75%,#111 0) 0 0/16px 16px}
+.garage-ticker{overflow:hidden;background:#000;color:var(--yellow);border-bottom:3px solid var(--red);white-space:nowrap}
+.garage-ticker div{display:inline-block;padding:7px 0;font-size:.95rem;line-height:1;letter-spacing:.14em;animation:g-run 45s linear infinite}
+.garage-ticker span{margin:0 18px}
+.garage-ticker .d{color:var(--red)}
+@keyframes g-run{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.fan-note{font-size:.72rem;color:var(--muted);text-align:center;padding:6px 16px;background:rgba(0,0,0,.4)}
+
+.theme-garage header{padding-top:28px}
+.theme-garage .kicker{font-size:1.15rem;color:var(--yellow);letter-spacing:.16em;text-transform:uppercase}
+.theme-garage .kicker::before{content:"▰▰ ";color:var(--red)}
+.theme-garage .kicker::after{content:" ▰▰";color:var(--red)}
+.theme-garage h1{font-size:clamp(2.2rem,6vw,3.6rem);line-height:1.05;text-transform:uppercase;
+  background:linear-gradient(180deg,#fff 35%,#b9bec7 60%,#fff 80%);-webkit-background-clip:text;background-clip:text;color:transparent;
+  filter:drop-shadow(0 4px 18px rgba(255,204,0,.25))}
+.theme-garage .vorlesen button{background:var(--yellow);border-color:var(--yellow);color:#111}
+.theme-garage .vorlesen button[data-stop]{background:transparent;color:#fff}
+
+/* Bühne */
+.g-stage{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(0,1fr);gap:12px;margin:6px 0 16px}
+.g-hero{position:relative;overflow:hidden;border-radius:18px;padding:20px 22px 22px;border:1px solid #3a3f48;
+  background:
+    radial-gradient(420px 200px at 85% 0%,rgba(255,255,255,.14),transparent 70%),
+    linear-gradient(160deg,#23262d,#0f1013 70%);
+  box-shadow:0 18px 50px rgba(0,0,0,.55),inset 0 0 0 1px rgba(255,255,255,.05)}
+/* Rennstreifen */
+.g-hero::before{content:"";position:absolute;top:0;bottom:0;right:64px;width:46px;pointer-events:none;
+  background:linear-gradient(90deg,transparent 0 8px,rgba(255,204,0,.14) 8px 20px,transparent 20px 26px,rgba(255,204,0,.14) 26px 38px,transparent 38px)}
+.g-flag{display:inline-block;background:var(--yellow);color:#111;padding:4px 12px 3px;border-radius:4px;font-size:1rem;text-transform:uppercase;letter-spacing:.08em;transform:skewX(-10deg)}
+.g-name{position:relative;display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin:12px 0 6px;line-height:1;text-transform:uppercase}
+.g-make{font-size:clamp(2rem,5.6vw,3.3rem);text-shadow:0 3px 0 rgba(0,0,0,.5)}
+.g-series{font-size:clamp(1.4rem,3.6vw,2rem);color:#111;background:#fff;padding:2px 10px;border-radius:4px}
+.g-facts{position:relative;display:flex;flex-wrap:wrap;gap:6px}
+.g-facts span{font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;border:1px solid #444a55;border-radius:999px;padding:3px 10px;color:#dfe2e6}
+.g-info{position:relative;margin:10px 0 4px;color:#d4d7dc;max-width:620px}
+.g-hero-row{position:relative;display:grid;grid-template-columns:minmax(0,260px) minmax(0,1fr);gap:16px;align-items:center;margin-top:8px}
+.g-hero-side{display:grid;gap:10px;align-content:center}
+.g-deal{display:grid;gap:2px;text-decoration:none;background:rgba(0,0,0,.45);border:1px solid #3a3f48;border-left:5px solid var(--yellow);border-radius:10px;padding:10px 14px}
+.g-deal:hover{border-color:var(--yellow)}
+.g-deal b{font-size:1.9rem;line-height:1.1;color:var(--yellow)}
+.g-deal span{font-size:.82rem;color:var(--muted)}
+.g-deal .fan-lab{font-size:.7rem}
+.g-more{font-size:.85rem;font-weight:700;color:var(--yellow);text-decoration:none}
+.g-more:hover{text-decoration:underline}
+
+/* Wertometer */
+.g-meter{margin:0}
+.g-meter svg{width:100%;height:auto;display:block;filter:drop-shadow(0 6px 18px rgba(0,0,0,.6))}
+.g-arc{fill:none;stroke:#2f333b;stroke-width:10;stroke-linecap:butt}
+.g-arc.band{stroke:var(--yellow)}
+.g-arc.red{stroke:var(--red)}
+.g-tick{stroke:#8a9099;stroke-width:1.5}
+.g-tick.big{stroke:#fff;stroke-width:3}
+.g-scale{font-size:9px;fill:var(--muted);font-family:system-ui,sans-serif}
+.g-needle{transform-origin:100px 100px;transform:rotate(-120deg);transition:transform 1.4s cubic-bezier(.2,1.4,.4,1)}
+.g-needle.on{transform:rotate(var(--a))}
+.g-needle line{stroke:var(--red);stroke-width:4;stroke-linecap:round;filter:drop-shadow(0 0 6px rgba(225,6,0,.8))}
+.g-hub{fill:#111;stroke:#666;stroke-width:2}
+.g-val{font-size:20px;fill:#fff}
+.g-unit{font-size:9px;fill:var(--muted);font-family:system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em}
+
+/* Seitenleiste */
+.g-side{display:grid;gap:12px;align-content:start}
+.g-event,.g-radar{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:14px 16px}
+.g-event{border-top:5px solid var(--red)}
+.fan-lab{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.fan-sub{font-size:.8rem;color:var(--muted)}
+.g-ev-name{font-size:1.6rem;line-height:1.1;text-transform:uppercase;margin:4px 0 2px}
+.g-count{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:10px}
+.g-count[hidden],.g-live[hidden]{display:none}
+.g-count div{background:#000;border:1px solid #333;border-radius:8px;text-align:center;padding:8px 4px 6px;box-shadow:inset 0 -14px 20px rgba(225,6,0,.15)}
+.g-count b{display:block;font-size:2rem;line-height:1;color:var(--red);text-shadow:0 0 12px rgba(225,6,0,.7);font-variant-numeric:tabular-nums}
+.g-count span{font-size:.68rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted)}
+.g-live{margin-top:10px;font-weight:800;color:#111;background:var(--yellow);border-radius:6px;padding:6px 10px;display:inline-block}
+.g-ev-link{display:inline-block;margin-top:10px;font-size:.82rem;font-weight:700;color:var(--yellow);text-decoration:none}
+.g-radar ul{list-style:none;margin:8px 0 6px}
+.g-radar li{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr) 26px;align-items:center;gap:8px;padding:4px 0;font-size:.86rem}
+.g-radar li a{text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.g-radar li a:hover{color:var(--yellow)}
+.g-radar i{font-style:normal;color:var(--muted)}
+.g-bar{height:8px;background:#000;border-radius:4px;overflow:hidden}
+.g-bar span{display:block;height:100%;background:linear-gradient(90deg,var(--yellow),var(--red))}
+.g-radar b{text-align:right;font-variant-numeric:tabular-nums}
+
+/* Kacheln wie Kombiinstrument */
+.theme-garage .tile{background:radial-gradient(160px 80px at 50% 0%,rgba(255,204,0,.08),transparent 70%),linear-gradient(180deg,#1b1e23,#111317);border-color:#30343c;border-bottom:3px solid var(--red)}
+.theme-garage .tile-v{font-size:2rem;color:#fff}
+.theme-garage .tile-l{color:var(--yellow)}
+
+/* Top 3: Startnummern */
+.theme-garage .top-card{border-left:0;border-top:5px solid var(--yellow);background:linear-gradient(180deg,#1d2026,#14161a)}
+.theme-garage .top-card .num{font-size:2.6rem;color:#111;background:#fff;border-radius:50%;width:56px;height:56px;display:inline-grid;place-items:center;line-height:1;box-shadow:0 0 0 4px var(--red)}
+.theme-garage .tag{background:rgba(255,204,0,.14);color:var(--yellow)}
+.theme-garage h2{color:#fff;text-transform:uppercase}
+.theme-garage .rubrik h2{color:var(--yellow);font-size:1.3rem}
+.theme-garage .rueckblick,.theme-garage .intro{background:linear-gradient(90deg,#2a2410,#16181c);border-color:#4a3f12;font-size:1.02rem}
+.theme-garage .intro::before{content:"🏁 ";}
+.theme-garage .tooltip{background:var(--yellow);color:#111}
+.theme-garage footer::after{content:"Fanseite für Autoliebhaber · keine Kauf- oder Verkaufsberatung · Benzin im Blut seit Tag eins. 🏁";display:block;margin-top:8px;color:var(--yellow)}
+.theme-garage .mcard{border-top:4px solid var(--yellow)}
+.theme-garage .mchip{background:#fff;color:#111}
+
+/* Gummi geben */
+.g-gas{position:fixed;right:16px;bottom:16px;z-index:20;font-size:1.1rem;line-height:1;letter-spacing:.08em;
+  background:var(--red);color:#fff;border:3px solid var(--yellow);border-radius:999px;padding:12px 18px;cursor:pointer;box-shadow:0 8px 24px rgba(0,0,0,.6)}
+.g-gas:hover{transform:scale(1.06)}
+.g-gas:focus-visible{outline:3px solid #fff;outline-offset:3px}
+.g-shake{animation:g-shake .5s linear 3}
+@keyframes g-shake{0%,100%{transform:translate(0)}20%{transform:translate(-3px,2px)}40%{transform:translate(3px,-2px)}60%{transform:translate(-2px,-1px)}80%{transform:translate(2px,1px)}}
+.g-boom{position:fixed;inset:0;z-index:30;pointer-events:none;display:grid;place-items:center}
+.g-boom b{font-size:clamp(3.5rem,15vw,10rem);line-height:1;color:var(--yellow);font-style:italic;text-shadow:0 0 40px rgba(225,6,0,.9),6px 6px 0 var(--red);animation:g-vroom 1.8s ease-out forwards}
+@keyframes g-vroom{0%{transform:translateX(-60vw) skewX(-20deg);opacity:0}25%{transform:translateX(0) skewX(-12deg);opacity:1}75%{opacity:1}100%{transform:translateX(70vw) skewX(-25deg);opacity:0}}
+.g-smoke{position:fixed;bottom:-60px;z-index:29;pointer-events:none;border-radius:50%;
+  background:radial-gradient(circle,rgba(220,220,225,.55),rgba(160,160,170,.18) 60%,transparent 70%);animation:g-puff ease-out forwards}
+@keyframes g-puff{to{transform:translate(var(--dx),-70vh) scale(4);opacity:0}}
+
+@media (max-width:760px){
+  .g-stage{grid-template-columns:1fr}
+  .g-hero-row{grid-template-columns:1fr}
+  .g-meter{max-width:260px;margin:0 auto}
+  .g-hero::before{right:20px}
+}
+@media (prefers-reduced-motion:reduce){
+  .garage-ticker div,.g-shake{animation:none}
+  .g-needle{transition:none}
+}

@@ -9,6 +9,17 @@ Seit 12.11.2026 gibt es außerdem **Autos & Klassiker** (Ordner `autos/`, mit de
 
 **Lesen:** https://jamhivemind.github.io/news/
 
+## Die Garage (Autos als Fanseite)
+
+Seit 12.11.2026 läuft `autos/` als Fanseite „Die Garage“ (wie die HSV-Zentrale): Design `assets/theme-garage.*`,
+Bühne aus `scripts/garage.mjs`.
+
+- **Traumwagen der Woche:** wechselt jeden Montag reihum durch `modelle.liste`. Das Wertometer zeigt, wo der
+  Angebots-Median im Preisband liegt (gelb = im Band, rot = darüber).
+- **Nächster Termin:** `garage.termine` (von Hand gepflegt, `sicher: false` = noch nicht offiziell bestätigt).
+- **Hamburg-Radar:** Händlerangebote je Modell aus `data/markt.json`.
+- **Gummi-Knopf:** Motorsound aus dem Browser, Schriftzug und Reifenqualm.
+
 ## Modelle im Blick (Autos)
 
 `autos/config.json` → `modelle`: Vergleichstabelle und eine Karte je Modell.
