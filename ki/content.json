@@ -1,121 +1,114 @@
 {
-  "date": "2026-11-11",
-  "intro": "Anthropic ist drei Tage vor dem Börsengang das Thema des Tages: neue Büro-Funktionen für Claude, Preisspanne und Starttermin stehen. Google zieht mit dem breit verfügbaren Modell Gemini 4 Carbon nach.",
+  "date": "2026-11-12",
+  "intro": "Anthropic zieht mit Büro-Programmen in Claude und einem Börsengang die meiste Aufmerksamkeit auf sich, Google macht sein neues Spitzenmodell für alle zugänglich. Bei Nvidia sorgt dagegen ein Führungsstreit für Unruhe.",
   "top": [
     {
-      "title": "Anthropic nennt Preisspanne und Termin für den Börsengang",
-      "text": "Der Claude-Hersteller will an der US-Börse Nasdaq bis zu 100 Milliarden US-Dollar einsammeln. Medien berichten über eine angestrebte Bewertung von rund 1,3 bis 1,4 Billionen Dollar und einen Handelsstart um den 19. November. Für Anleger ist es einer der größten Börsengänge überhaupt; für Nutzer ändert sich zunächst nichts, der Konzern muss künftig aber offener über Zahlen berichten.",
-      "url": "https://t3n.de/news/boersengang-anthropic-preisspanne-1772810",
+      "title": "Claude bekommt Tabellen, Whiteboards und Meeting-Hilfe",
+      "text": "Anthropic baut Claude zu einer Art Büro-Paket aus. Neu sind unter anderem eine eigene Tabellenkalkulation, Whiteboards und Funktionen für Meetings. Damit tritt das Unternehmen direkter gegen etablierte Büro-Software an. Für Berufstätige heißt das: Aufgaben wie Auswertungen oder Brainstormings lassen sich künftig im selben Chatfenster erledigen.",
+      "url": "https://t3n.de/news/tabellen-whiteboards-meetings-mit-diesen-neuen-funktionen-soll-claude-dir-die-arbeit-erleichtern-1772912",
       "source": "t3n",
+      "category": "Claude & Anthropic",
+      "tipp": "Wer Claude nutzt, kann die neue Tabellenfunktion mit einer unkritischen Beispieldatei testen, bevor echte Geschäftsdaten hineinkommen."
+    },
+    {
+      "title": "Anthropic-Börsengang: Roadshow läuft, Nachfrage hoch",
+      "text": "Anthropic wirbt derzeit bei Investoren für seinen Börsengang (IPO, der erste öffentliche Aktienverkauf). Laut Berichten übersteigt die Nachfrage das Angebot bereits mehrfach. Ein Hinweis auf den späteren Kurs ist das aber nicht automatisch, warnen Beobachter. Für die Branche gilt der Gang aufs Parkett als Stimmungstest für die gesamte KI-Welle.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKWGZ4ck1uamZJQ3p5MmN3eVFwQ1dyQjMzd0VXV3M3ZmljNHlCM2daclNuN0pBdzlzLXZpb2Y4THdVNVpna0Rpc0FYQ3hxTjJWcFBEMWdodjFNZ2o5Y0xTUS0yNW94MUt4cllBaUVnby0yRUZa?oc=5",
+      "source": "Quartz",
       "category": "Business & Funding"
     },
     {
-      "title": "Claude bekommt Tabellen, Whiteboards und eingebettete Partner-Apps",
-      "text": "Anthropic erweitert die Claude-App um Tabellen (Sheets) und digitale Whiteboards. Über „Interactive Connectors“ können Partner wie Adobe und Atlassian ihre Programme direkt im Chat anzeigen. Ein Update für Meeting-Protokolle soll bald folgen. Claude wird damit zu einer Art Büro-Paket, das Programmen wie Excel Konkurrenz machen will.",
-      "url": "https://the-decoder.de/claude-app-bekommt-tabellen-whiteboards-und-eingebettete-partner-apps/",
-      "source": "The Decoder",
-      "category": "Claude & Anthropic",
-      "tipp": "Wer Claude nutzt, kann in den nächsten Tagen prüfen, ob Tabellen und Whiteboards im eigenen Konto schon auftauchen."
-    },
-    {
-      "title": "Google startet Gemini 4 Carbon für alle",
-      "text": "Google macht sein neues Modell Gemini 4 Carbon nach zwei Wochen Test mit ausgewählten Sicherheitsexperten allgemein verfügbar. Neu ist eine „Schwarm“-Funktion: Mehrere KI-Agenten (Programme, die Aufgaben selbstständig abarbeiten) arbeiten gemeinsam an einer Aufgabe. In mehreren Leistungstests liegt es laut Bericht vorn, teils vor Anthropics Fable 5.2, und ist günstiger.",
-      "url": "https://the-decoder.de/google-startet-gemini-4-carbon-mit-neuer-agenten-schwarm-funktion/",
-      "source": "The Decoder",
+      "title": "Google macht Gemini 4 Carbon für alle verfügbar",
+      "text": "Googles bislang stärkstes Gemini-Modell war zunächst nur für ausgewählte Cyber-Verteidiger gedacht. Jetzt steht es allgemein bereit. Laut dem Entwickler Simon Willison kostet die Nutzung über die Schnittstelle (API) für Entwickler 2 Dollar je Million eingegebener Textbausteine und 10 Dollar je Million Ausgabe. Für Firmen heißt das: ein neues Spitzenmodell, das sich direkt in eigene Anwendungen einbauen lässt.",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind",
       "category": "Modelle & Releases"
     }
   ],
   "entries": [
     {
-      "title": "Fable 5.2 und Mythos 5.2: Anthropic startet neue Modelle",
-      "summary": "Anthropic hat zwei neue Modelle veröffentlicht. Fable 5.2 führt laut Artificial Analysis (einem unabhängigen Vergleichsportal) derzeit die Rangliste an.",
-      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
-      "source": "AINews (Latent Space)",
-      "category": "Modelle & Releases"
-    },
-    {
-      "title": "Strom für die KI: Anthropic kauft eigene Gasturbinen",
-      "summary": "Anthropic investiert 3,4 Milliarden Dollar in eigene Erdgasturbinen. Bisher mietete die Firma ihre Stromversorgung für die Rechenzentren.",
-      "url": "https://t3n.de/news/strom-fuer-die-ki-anthropic-sichert-sich-eigene-erdgasturbinen-fuer-34-milliarden-dollar-1772744",
-      "source": "t3n",
+      "title": "Nvidia-Verwaltungsrat soll Chef Huang abberufen wollen",
+      "summary": "Laut Berichten bereitet der Aufsichtsrat die Ablösung von Konzernchef Jensen Huang vor, nachdem neue Vorwürfe zu einer Affäre mit einer mutmaßlichen chinesischen Agentin aufkamen. Die Nvidia-Aktie gab zuletzt nach.",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "source": "The Verge AI",
       "category": "Business & Funding"
     },
     {
-      "title": "New Yorker KI-Sicherheitsgesetz tritt in Kraft",
-      "summary": "Große KI-Entwickler wie OpenAI und Anthropic müssen sich in New York registrieren, Sicherheitsvorkehrungen offenlegen und schwere Vorfälle melden. Sonst drohen Strafen.",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "title": "OpenAI erreicht erstmals über 10 Milliarden Dollar Quartalsumsatz",
+      "summary": "Der Umsatz stieg laut Berichten um fast 50 % gegenüber dem Vorquartal. Verluste bleiben aber hoch: Das Unternehmen gibt weiterhin mehr aus, als es einnimmt.",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
       "source": "TechCrunch AI",
-      "category": "Regulierung & Politik"
+      "category": "Business & Funding"
     },
     {
-      "title": "„Pariser Aufruf zur KI-Sicherheit“ unterzeichnet",
-      "summary": "Acht Staaten sowie OpenAI, Anthropic, Microsoft und Mistral unterschreiben auf Initiative Macrons eine Selbstverpflichtung zur KI-Sicherheit. Die Firmen sagen unter anderem Abschaltmechanismen zu.",
-      "url": "https://the-decoder.de/acht-staaten-sowie-openai-anthropic-und-mistral-unterzeichnen-pariser-aufruf-zur-ki-sicherheit/",
+      "title": "ChatGPT bekommt Firmenprofile",
+      "summary": "Unternehmen können in ChatGPT eigene Informationen hinterlegen, ähnlich wie bei Google Maps. So sollen Nutzer Angebote und Auskünfte direkt im Chat finden.",
+      "url": "https://www.heise.de/news/ChatGPT-Unternehmen-koennen-dort-nun-eigene-Profile-anlegen-11521000.html",
+      "source": "heise online",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "Anthropic: KI verkürzt Wechsel von Nvidia- auf AMD-Chips auf drei Tage",
+      "summary": "Anthropic gibt an, mit einem eigenen Modell seine Software in drei Tagen auf AMD-Chips übertragen zu haben, fast ohne menschliche Hilfe. Das würde Nvidias Vorteil durch seine Programmierumgebung CUDA schwächen. Es ist eine Angabe des Unternehmens selbst.",
+      "url": "https://the-decoder.de/drei-tage-statt-monate-fuer-amd-chip-wechsel-laut-anthropic-frisst-ki-nvidias-cuda-vorsprung/",
       "source": "The Decoder",
-      "category": "Regulierung & Politik"
+      "category": "Claude & Anthropic"
     },
     {
-      "title": "ChatGPT bekommt Geschäftsprofile und „Business Agents“",
-      "summary": "Firmen können in ChatGPT ein Profil anlegen und Produktdaten pflegen. Verifizierte KI-Agenten sprechen dann im Namen der Marke mit Kunden, etwa beim Preisvergleich. Zunächst gilt das für ausgewählte Online-Händler und Dienstleister.",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI News",
+      "title": "Tausende Grok-Apps waren ungeschützt im Netz",
+      "summary": "Sicherheitsforscher fanden über 35.000 mit Grok gebaute Apps, die ohne Anmeldung offenstanden. Darin lagen vertrauliche Firmendaten und auch Patientendaten. Wer KI-Apps baut, sollte Zugriffsschutz prüfen.",
+      "url": "https://the-decoder.de/grok-apps-legen-interna-von-spacexsi-und-x-sowie-patientendaten-offen/",
+      "source": "The Decoder",
       "category": "Tools & Agenten"
     },
     {
-      "title": "eBay sperrt offenbar fremde KI-Agenten aus",
-      "summary": "Laut einem Leserbericht blockiert eBay KI-Agenten wie Metas Muse beim Stöbern. Damit gibt es eine Hürde mehr für Assistenten, die für Nutzer einkaufen.",
-      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "source": "The Verge AI",
-      "category": "KI im Alltag & Beruf"
+      "title": "CERT-EU warnt vor KI-Agenten als Angriffswerkzeug",
+      "summary": "Die EU-Sicherheitsbehörde sieht eine rasche Zunahme von Angriffen, die autonome KI-Agenten weitgehend selbstständig ausführen. Experten rechnen mit einer neuen Welle automatisierter Attacken.",
+      "url": "https://www.heise.de/news/CERT-EU-warnt-Rapide-Zunahme-der-Angriffe-mit-Agenten-Frameworks-wie-Artex-11520602.html",
+      "source": "heise online",
+      "category": "Regulierung & Politik"
     },
     {
-      "title": "Gemini Robotics 2.5 testet bei Mercedes-Benz",
-      "summary": "Google Deepmind hat ein neues Steuerungsmodell für Roboter vorgestellt. Zusammen mit Apptronik lief es in Testbetrieb auf Produktionslinien von Mercedes-Benz in Ungarn und Deutschland.",
-      "url": "https://the-decoder.de/google-deepmind-schickt-neues-robotik-modell-auf-die-mercedes-benz-produktionslinie/",
-      "source": "The Decoder",
-      "category": "Forschung & Deep Tech"
-    },
-    {
-      "title": "AlphaProof Code prüft Verschlüsselung von Signal",
-      "summary": "KI-Agenten von Deepmind schrieben drei Millionen Zeilen Beweise, um die Kernverschlüsselung des Messengers Signal mathematisch zu prüfen. Solche Beweise zeigen, dass Software fehlerfrei arbeitet.",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "Google DeepMind",
-      "category": "Forschung & Deep Tech"
-    },
-    {
-      "title": "Nvidias GR00T 2 lernt aus Videos",
-      "summary": "Das neue Robotermodell überträgt menschliche Handbewegungen aus Videos auf Roboterarme. Aufwendiges Fernsteuern zum Anlernen entfällt weitgehend.",
-      "url": "https://the-decoder.de/gr00t-2-zeigt-nvidias-neuen-kurs-bei-ki-modellen-fuer-roboter/",
-      "source": "The Decoder",
-      "category": "Forschung & Deep Tech"
-    },
-    {
-      "title": "Meta bringt kleines Modell Muse Ember",
-      "summary": "Meta stellt sein kleinstes und sparsamstes Modell vor. Es zielt auf dieselbe Klasse wie Claude Haiku und GPT Luna, also schnelle, günstige Modelle für einfache Aufgaben.",
-      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-      "source": "Simon Willison",
-      "category": "Modelle & Releases"
-    },
-    {
-      "title": "Gemini Intelligence kommt auf mehr Geräte",
-      "summary": "Googles KI-Funktionen für Android werden auf weitere Geräte ausgeweitet.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "source": "Google AI Blog",
-      "category": "KI im Alltag & Beruf"
-    },
-    {
-      "title": "Neuer KI-Detektor für Gmail-Postfächer",
-      "summary": "Das Tool Pangram erkennt jetzt in Gmail, ob eine E-Mail mit Hilfe von ChatGPT und ähnlichen Programmen geschrieben wurde. Solche Detektoren liegen aber nicht immer richtig.",
-      "url": "https://t3n.de/news/wer-schickt-dir-ki-generierte-e-mails-mit-diesem-neuen-pangram-detektor-findest-du-es-heraus-1772654",
+      "title": "DeepL Voice übernimmt Tonfall und Tempo in der Übersetzung",
+      "summary": "Mit dem neuen Modell Aure sollen Echtzeit-Übersetzungen Betonung, Emotion und Sprechtempo der Originalstimme in die Zielsprache mitnehmen. Das soll Gespräche natürlicher wirken lassen.",
+      "url": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684",
       "source": "t3n",
       "category": "KI im Alltag & Beruf"
     },
     {
-      "title": "OpenAI und Upwork: KI verändert Freelance-Arbeit",
-      "summary": "Eine neue Studie zeigt veränderte Nachfrage bei Freelancern, neue Fähigkeiten-Kombinationen sowie größere Budgets und mehr Stunden bei KI-Projekten.",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "OpenAI News",
-      "category": "KI im Alltag & Beruf"
+      "title": "Helsing stellt KI-Plattform Clarity vor",
+      "summary": "Das Münchner Rüstungsunternehmen präsentiert eine KI-Plattform für militärische Analysen, gedacht als europäische Alternative zu US-Systemen. Sie arbeitet unter menschlicher Aufsicht.",
+      "url": "https://www.heise.de/news/Muenchner-Ruestungs-KI-Helsing-stellt-Plattform-Clarity-vor-11521399.html",
+      "source": "heise online",
+      "category": "Regulierung & Politik"
+    },
+    {
+      "title": "United lässt keine KI-Agenten Flüge buchen",
+      "summary": "Die Fluggesellschaft will nicht, dass persönliche KI-Assistenten Tickets für Kunden kaufen. Als Gründe nennt sie Datenschutz und Regeln. Das zeigt, dass Agenten im Alltag noch an Hürden stoßen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge AI",
+      "category": "Tools & Agenten"
+    },
+    {
+      "title": "KI beweist mathematisch die Sicherheit von Signals Verschlüsselung",
+      "summary": "Google Deepmind hat mit AlphaProof Code den Kerncode des Messengers Signal in vier Wochen formal überprüft. Üblich waren dafür bisher Jahre.",
+      "url": "https://the-decoder.de/google-deepminds-alphaproof-code-beweist-mathematisch-dass-signals-verschluesselung-sicher-ist/",
+      "source": "The Decoder",
+      "category": "Forschung & Deep Tech"
+    },
+    {
+      "title": "TSMC investiert eine Milliarde Dollar in Anthropic und OpenAI",
+      "summary": "Der taiwanische Chipfertiger steigt bei den beiden KI-Firmen ein. Er sichert sich damit enge Bindungen an zwei große Chipkunden.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanhKZDVUckJDOTUyaHpuU1ozRV9Rc1I0czVKZmtueDFsM3pDTjRJZTFMQ0RDREhKcHRtTXIzQ2Zmdm1TWWNGbFN1RUE0dHBjWTNjV1VSR0lLTktuNVRrTnQxY0hfV0VXWUkzRnFyQ2otV0duQjdUVkdFcC1fWm9WQV9MN3k0Y3Y2YTY4d2w0dm56QUVyVlNaTlZmMi1QdTg?oc=5",
+      "source": "Ars Technica",
+      "category": "Business & Funding"
+    },
+    {
+      "title": "Gemini Robotics 2.5 sortiert Metallteile bei Mercedes-Benz",
+      "summary": "In einem Versuch erreichte Googles Robotik-Modell eine Erfolgsquote von 96 % beim Sortieren von Metallteilen. Es soll Roboter geschickter machen.",
+      "url": "https://www.heise.de/news/Gemini-Robotics-2-5-sortiert-Metallteile-bei-Mercedes-Benz-mit-96-Prozent-Erfolg-11520722.html",
+      "source": "heise online",
+      "category": "Forschung & Deep Tech"
     }
   ]
 }
