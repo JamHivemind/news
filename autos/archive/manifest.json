@@ -1,0 +1,33 @@
+{
+  "briefs": [
+    {
+      "date": "2026-11-12",
+      "file": "2026-11-12.html",
+      "headline": "Super E10 wieder unter 2 Euro",
+      "count": 18,
+      "sources": 11,
+      "cats": {
+        "Sprit & Laden": 2,
+        "Rückrufe": 4,
+        "Hersteller & Branche": 4,
+        "Markt & Preise": 1,
+        "Klassiker & Youngtimer": 2,
+        "Regeln & Kosten": 3,
+        "Neue Modelle": 2
+      },
+      "ents": {
+        "ADAC": 2,
+        "VW": 4,
+        "Mercedes": 1,
+        "TÜV": 2,
+        "EU": 1,
+        "Porsche": 2,
+        "BMW": 1
+      }
+    }
+  ],
+  "site": {
+    "title": "Autos & Klassiker",
+    "description": "Automarkt, Gebrauchtwagenpreise, Klassiker und Youngtimer, Rückrufe und neue Regeln für Autofahrer, jeden Morgen kurz auf Deutsch"
+  }
+}

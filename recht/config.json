@@ -1,0 +1,135 @@
+{
+  "order": 9,
+  "icon": "⚖️",
+  "title": "Recht & Verbraucher",
+  "description": "Urteile, neue Gesetze, Fristen, Warnungen und Tests, die den Alltag betreffen: Miete, Kauf, Auto, Geld und Arbeit, jeden Morgen kurz auf Deutsch",
+  "leser": "Verbraucher, Mieter, Autofahrer und Berufstätige ohne juristische Ausbildung, die wissen wollen, welche Rechte sie haben und was sich für sie ändert",
+  "schwerpunkt": "Deutschland zuerst, EU nur bei direkter Wirkung für Verbraucher in Deutschland. Bei Urteilen immer Gericht und Aktenzeichen nennen, wenn die Quelle sie hat, und in einem Satz sagen, was das für den Alltag heißt. Bei Gesetzen und Fristen das Datum nennen, ab wann es gilt. Warnungen (Fakeshops, Betrugsmaschen, Produktrückrufe) mit konkretem Namen. Steuerthemen gehören ins Dashboard Steuern, hier nur, wenn es um Verbraucherrechte geht. Keine Kanzlei-Werbung, keine Personalmeldungen aus Kanzleien, keine Strafprozesse ohne Bedeutung für Verbraucher. Gute Gelegenheit für Praxis-Tipps (Frist, Widerspruch, Musterbrief).",
+  "categories": [
+    "Urteile",
+    "Neue Gesetze & Fristen",
+    "Miete & Wohnen",
+    "Geld, Verträge & Versicherung",
+    "Warnungen & Betrug",
+    "Tests",
+    "Arbeit & Digitales"
+  ],
+  "sources": [
+    {
+      "name": "LTO (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Alto.de&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur Urteile und Gesetze mit Bedeutung für Verbraucher, Mieter, Arbeitnehmer und Autofahrer. Stellenanzeigen (Titel mit (m/w/d) oder (w/m/d)), Presseschau, Meldungen über Kanzleien, Juristenausbildung und Personalien überspringen."
+    },
+    {
+      "name": "Stiftung Warentest (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Atest.de&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 96,
+      "focus": "Tests mit klarem Ergebnis (Testsieger, durchgefallen) und Verbraucherwarnungen. Höchstens zwei Tests am Tag."
+    },
+    {
+      "name": "Verbraucherzentrale (Google News)",
+      "url": "https://news.google.com/rss/search?q=Verbraucherzentrale&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 96
+    },
+    {
+      "name": "Finanztip (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Afinanztip.de&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur Verbraucherthemen wie Konten, Versicherungen, Verträge, Kündigung, Energie. Keine Forenbeiträge und keine Aktien- oder ETF-Diskussionen."
+    },
+    {
+      "name": "Haufe Recht (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Ahaufe.de%20Recht&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur Nachrichten zu Arbeitsrecht, Mietrecht, Datenschutz und Gesetzesänderungen mit Wirkung für Arbeitnehmer und Verbraucher. Gesetzes-, Erlass- und Kommentar-Auszüge (Titel mit „/ §“, „Anwendungserlass“, „Gemeinsame Empfehlungen“, „Verordnung … /“) überspringen, ebenso reines Unternehmens- oder Steuerrecht."
+    },
+    {
+      "name": "Google News: BGH-Urteile",
+      "url": "https://news.google.com/rss/search?q=BGH%20Urteil%20OR%20Bundesgerichtshof%20Urteil%20Mieter%20OR%20Verbraucher%20OR%20K%C3%A4ufer&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 96
+    },
+    {
+      "name": "Google News: Verbraucherschutz",
+      "url": "https://news.google.com/rss/search?q=Verbraucherschutz%20OR%20Fakeshop%20OR%20Betrugsmasche%20OR%20Abzocke%20Warnung&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur bundesweit relevante Warnungen, keine örtlichen Polizeimeldungen."
+    },
+    {
+      "name": "Google News: Neue Gesetze",
+      "url": "https://news.google.com/rss/search?q=neue%20Gesetze%20Verbraucher%20OR%20%22neue%20Regeln%22%20Verbraucher%20OR%20%22tritt%20in%20Kraft%22%20Verbraucher&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 96
+    },
+    {
+      "name": "tagesschau Inland",
+      "url": "https://www.tagesschau.de/inland/index~rss2.xml",
+      "type": "rss",
+      "focus": "Nur Gesetze, Urteile und Gebühren, die Bürger direkt betreffen."
+    },
+    {
+      "name": "Bundesregierung",
+      "url": "https://www.bundesregierung.de/service/rss/breg-de/1151244/feed.xml",
+      "type": "rss",
+      "focus": "Nur beschlossene Gesetze und Änderungen für Bürger, keine Termine und Ehrungen."
+    },
+    {
+      "name": "NIUS",
+      "url": "https://nius.de/rss",
+      "type": "rss",
+      "focus": "Nur neue Gesetze, Gebühren, Verbote und Urteile mit Wirkung für Bürger. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen."
+    }
+  ],
+  "entities": [
+    [
+      "BGH",
+      "\\b(BGH|Bundesgerichtshof)\\b"
+    ],
+    [
+      "BVerfG",
+      "\\b(BVerfG|Bundesverfassungsgericht|Karlsruhe)\\b"
+    ],
+    [
+      "EuGH",
+      "\\bEuGH\\b",
+      ""
+    ],
+    [
+      "Bundestag",
+      "\\bBundestag\\b"
+    ],
+    [
+      "Verbraucherzentrale",
+      "\\bVerbraucherzentrale\\w*"
+    ],
+    [
+      "Stiftung Warentest",
+      "\\b(Stiftung Warentest|Warentest)\\b"
+    ],
+    [
+      "Mieter",
+      "\\b(Mieter|Vermieter|Miete)\\w*"
+    ],
+    [
+      "Schufa",
+      "\\bSchufa\\b"
+    ],
+    [
+      "Amazon",
+      "\\bAmazon\\b"
+    ],
+    [
+      "PayPal",
+      "\\bPayPal\\b"
+    ],
+    [
+      "Datenschutz",
+      "\\b(Datenschutz|DSGVO)\\b"
+    ]
+  ],
+  "entitiesTitle": "Wer und was in den Schlagzeilen steht",
+  "kennzahlenQuellen": "eigene Zählung"
+}

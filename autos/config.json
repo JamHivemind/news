@@ -1,0 +1,367 @@
+{
+  "order": 8,
+  "icon": "🚗",
+  "title": "Autos & Klassiker",
+  "description": "Automarkt, Gebrauchtwagenpreise, Klassiker und Youngtimer, Rückrufe und neue Regeln für Autofahrer, jeden Morgen kurz auf Deutsch",
+  "leser": "Autobesitzer und Autofans, die wissen wollen, was ihr Auto wert ist, was sich bei Kosten und Regeln ändert und was in der Branche passiert",
+  "schwerpunkt": "Deutschland zuerst. Besonders beachten: Porsche 911 (auch ältere Baureihen wie 996 und 997), Sportwagen, Klassiker und Youngtimer mit Preisen und Wertentwicklung, Auktionsergebnisse. Rückrufe immer mit Marke, Modell und Zahl der Autos nennen, wenn bekannt. Bei Regeln und Kosten (TÜV/HU, Kfz-Steuer, Führerschein, Versicherung, Maut) das Datum nennen, ab wann es gilt. Fahrberichte, reine Neuwagen-Vorstellungen, Kaufberatungs-Klickstrecken, Bildergalerien und Gewinnspiele nur, wenn wirklich neu und wichtig. Keine Unfall- und Polizeimeldungen.",
+  "categories": [
+    "Markt & Preise",
+    "Klassiker & Youngtimer",
+    "Rückrufe",
+    "Regeln & Kosten",
+    "Sprit & Laden",
+    "Hersteller & Branche",
+    "Neue Modelle"
+  ],
+  "sources": [
+    {
+      "name": "Auto Bild",
+      "url": "https://www.autobild.de/rss/22590661.xml",
+      "type": "rss"
+    },
+    {
+      "name": "Auto Bild Klassik (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Aautobild.de%20klassik&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Nur Klassiker, Youngtimer, Preise und Wertentwicklung. Doppelte mit dem Auto-Bild-Feed nur einmal."
+    },
+    {
+      "name": "auto motor und sport (Google News)",
+      "url": "https://news.google.com/rss/search?q=site%3Aauto-motor-und-sport.de&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss"
+    },
+    {
+      "name": "Focus Auto",
+      "url": "https://rss.focus.de/auto/",
+      "type": "rss"
+    },
+    {
+      "name": "FAZ Technik & Motor",
+      "url": "https://www.faz.net/rss/aktuell/technik-motor/",
+      "type": "rss",
+      "focus": "Nur Auto- und Verkehrsthemen, keine Uhren oder Technik ohne Autobezug."
+    },
+    {
+      "name": "Spiegel Mobilität",
+      "url": "https://www.spiegel.de/mobilitaet/index.rss",
+      "type": "rss"
+    },
+    {
+      "name": "heise Autos",
+      "url": "https://www.heise.de/autos/rss/news-atom.xml",
+      "type": "rss"
+    },
+    {
+      "name": "electrive",
+      "url": "https://www.electrive.net/feed/",
+      "type": "rss",
+      "focus": "Nur Meldungen mit Bedeutung für Autofahrer in Deutschland: Preise, Förderung, Laden, wichtige Modelle. Keine Nutzfahrzeug- oder Zulieferer-Kleinmeldungen."
+    },
+    {
+      "name": "kfz-betrieb",
+      "url": "https://www.kfz-betrieb.vogel.de/rss/news.xml",
+      "type": "rss",
+      "focus": "Nur Gebrauchtwagenmarkt, Werkstattpreise, Händler und Regeln, die auch Autofahrer betreffen."
+    },
+    {
+      "name": "NIUS",
+      "url": "https://nius.de/rss",
+      "type": "rss",
+      "focus": "Nur Autoindustrie, Verbrenner-Aus, Sprit- und Strompreise, Kfz-Steuer und Verkehrspolitik. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen."
+    },
+    {
+      "name": "Google News: Rückrufe",
+      "url": "https://news.google.com/rss/search?q=R%C3%BCckruf%20KBA%20OR%20%22R%C3%BCckruf%22%20Auto&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 96,
+      "focus": "Nur Rückrufe von Autos und Motorrädern, nicht von anderen Produkten."
+    },
+    {
+      "name": "Google News: Spritpreise",
+      "url": "https://news.google.com/rss/search?q=Spritpreise%20ADAC%20OR%20Benzinpreis%20OR%20Dieselpreis&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "focus": "Höchstens eine Meldung zu den Spritpreisen am Tag, die aktuellste mit Zahlen."
+    },
+    {
+      "name": "Google News: Regeln für Autofahrer",
+      "url": "https://news.google.com/rss/search?q=Autofahrer%20neue%20Regeln&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 96,
+      "focus": "Nur Regeln, Pflichten, Kosten und Fristen für Autofahrer (TÜV/HU, Kfz-Steuer, Führerschein, Versicherung, Maut). Keine Unfall- oder Polizeimeldungen."
+    },
+    {
+      "name": "Google News: Gebrauchtwagenmarkt",
+      "url": "https://news.google.com/rss/search?q=Gebrauchtwagenpreise%20OR%20Gebrauchtwagenmarkt%20OR%20DAT-Barometer%20OR%20Restwert&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 96
+    },
+    {
+      "name": "Google News: Porsche 911",
+      "url": "https://news.google.com/rss/search?q=%22Porsche%20911%22%20OR%20%22Porsche%20997%22%20OR%20%22Porsche%20996%22&hl=de&gl=DE&ceid=DE:de",
+      "type": "rss",
+      "hours": 96
+    }
+  ],
+  "entities": [
+    [
+      "Porsche",
+      "\\bPorsche\\b"
+    ],
+    [
+      "VW",
+      "\\b(Volkswagen|VW)\\b"
+    ],
+    [
+      "Mercedes",
+      "\\bMercedes\\b"
+    ],
+    [
+      "BMW",
+      "\\bBMW\\b",
+      ""
+    ],
+    [
+      "Audi",
+      "\\bAudi\\b"
+    ],
+    [
+      "Tesla",
+      "\\bTesla\\b"
+    ],
+    [
+      "BYD",
+      "\\bBYD\\b",
+      ""
+    ],
+    [
+      "Toyota",
+      "\\bToyota\\b"
+    ],
+    [
+      "Ferrari",
+      "\\bFerrari\\b"
+    ],
+    [
+      "KBA",
+      "\\b(KBA|Kraftfahrt-Bundesamt)\\b"
+    ],
+    [
+      "ADAC",
+      "\\bADAC\\b",
+      ""
+    ],
+    [
+      "TÜV",
+      "\\b(TÜV|Dekra|Hauptuntersuchung)\\b"
+    ],
+    [
+      "EU",
+      "\\b(EU|Brüssel|EU-Kommission)\\b",
+      ""
+    ]
+  ],
+  "entitiesTitle": "Wer in den Schlagzeilen steht",
+  "tiles": [
+    {
+      "stock": "P911.DE",
+      "label": "Porsche-Aktie, 30 Tage"
+    },
+    {
+      "stock": "VOW3.DE",
+      "label": "VW-Aktie, 30 Tage"
+    },
+    {
+      "stock": "BZ=F",
+      "label": "Ölpreis Brent, 30 Tage"
+    }
+  ],
+  "metrics": {
+    "stocks": {
+      "P911.DE": "Porsche AG",
+      "VOW3.DE": "Volkswagen",
+      "MBG.DE": "Mercedes-Benz",
+      "BMW.DE": "BMW",
+      "BZ=F": "Öl (Brent)"
+    },
+    "stocksTitle": "Autowerte und Ölpreis"
+  },
+  "kennzahlenQuellen": "eigene Zählung, Yahoo Finance, eigene Auswertung von AutoScout24-Inseraten",
+  "modelle": {
+    "titel": "Modelle im Blick",
+    "text": "Ausgewählte Sportwagen und Klassiker: Was sie heute am Markt kosten, wie viele angeboten werden und was in den News über sie steht.",
+    "abruf": true,
+    "hinweis": "Marktdaten: eigene wöchentliche Auswertung öffentlicher Inserate auf AutoScout24 (Angebotspreise, keine Verkaufspreise). Preisband: grobe Einordnung aus Marktberichten, Bewertungen und Auktionen. Keine Kauf- oder Verkaufsberatung.",
+    "liste": [
+      {
+        "id": "993-turbo-s",
+        "name": "Porsche 911 Turbo S",
+        "baureihe": "993",
+        "bauzeit": "1997–1998",
+        "leistung": "450 PS",
+        "info": "Letzter luftgekühlter Turbo, nur 345 Stück gebaut. Gilt als einer der begehrtesten 911.",
+        "news": "993.{0,20}Turbo S|Turbo S.{0,20}993|luftgekühlt",
+        "as24": {
+          "path": "porsche/993?atype=C&cy=D",
+          "seiten": 6,
+          "mit": "turbo\\s*-?\\s*s\\b",
+          "ohne": "replik|replica|clone|look|umbau|kit"
+        },
+        "preisband": [
+          {
+            "stand": "2026-11",
+            "von": 400000,
+            "bis": 600000,
+            "trend": "steigend",
+            "quelle": "Auktionen 2026 (Broad Arrow, Barrett-Jackson) und Händlerangebote"
+          }
+        ],
+        "links": [
+          {
+            "name": "AutoScout24",
+            "url": "https://www.autoscout24.de/lst/porsche/993?atype=C&cy=D&version0=turbo%20s"
+          },
+          {
+            "name": "Classic Trader",
+            "url": "https://www.classic-trader.com/de/automobile/suche/porsche/911/993"
+          }
+        ]
+      },
+      {
+        "id": "993-carrera",
+        "name": "Porsche 911 Carrera",
+        "baureihe": "993",
+        "bauzeit": "1993–1998",
+        "leistung": "272–285 PS",
+        "info": "Der letzte luftgekühlte Elfer. Als Coupé, Cabrio und Targa die gefragteste Einstiegsversion.",
+        "news": "\\b993\\b|luftgekühlt",
+        "as24": {
+          "path": "porsche/993?atype=C&cy=D",
+          "seiten": 6,
+          "variante": "^911 Carrera (Coupe|Coupé|Cabriolet)$",
+          "ohne": "turbo|\\bRS\\b|clone|replik|umbau|4\\s*S\\b|Carrera S\\b"
+        },
+        "preisband": [
+          {
+            "stand": "2026-11",
+            "von": 60000,
+            "bis": 95000,
+            "trend": "stabil",
+            "quelle": "Classic-Data-Bewertungen (Zustand 2) und Händlerangebote"
+          }
+        ],
+        "links": [
+          {
+            "name": "AutoScout24",
+            "url": "https://www.autoscout24.de/lst/porsche/993?atype=C&cy=D&version0=carrera"
+          },
+          {
+            "name": "Classic Trader",
+            "url": "https://www.classic-trader.com/de/automobile/suche/porsche/911/993"
+          }
+        ]
+      },
+      {
+        "id": "997-c4s",
+        "name": "Porsche 911 Carrera 4S",
+        "baureihe": "997",
+        "bauzeit": "2005–2012",
+        "leistung": "355–385 PS",
+        "info": "Allradler mit breiter Karosserie. Die 997.2 ab 2008 mit Direkteinspritzung und PDK sind teurer.",
+        "news": "\\b997\\b|Carrera 4S",
+        "as24": {
+          "path": "porsche/997?atype=C&cy=D&version0=carrera%204s",
+          "seiten": 3,
+          "mit": "4\\s*S\\b",
+          "ohne": "GTS|Turbo|GT3|GT2"
+        },
+        "preisband": [
+          {
+            "stand": "2026-11",
+            "von": 50000,
+            "bis": 80000,
+            "trend": "stabil",
+            "quelle": "Angebote Elferspot, Auktionen Kickdown, AutoUncle"
+          }
+        ],
+        "links": [
+          {
+            "name": "AutoScout24",
+            "url": "https://www.autoscout24.de/lst/porsche/997?atype=C&cy=D&version0=carrera%204s"
+          },
+          {
+            "name": "wirkaufendeinauto.de",
+            "url": "https://www.wirkaufendeinauto.de/"
+          }
+        ]
+      },
+      {
+        "id": "amg-gt-s",
+        "name": "Mercedes-AMG GT S",
+        "baureihe": "C190",
+        "bauzeit": "2014–2021",
+        "leistung": "510–522 PS",
+        "info": "Frontmittelmotor-Sportwagen mit V8-Biturbo. Hat stark an Wert verloren, die Preise sind zuletzt aber stabil.",
+        "news": "AMG GT",
+        "as24": {
+          "path": "mercedes-benz/amg-gt?atype=C&cy=D&fregto=2021&version0=gt%20s",
+          "seiten": 3,
+          "mit": "\\bS\\b",
+          "ohne": "\\b(63|53|43)\\b|Black Series|\\bGT\\s*R\\b|\\bGT\\s*C\\b|4MATIC|4-?Türer"
+        },
+        "preisband": [
+          {
+            "stand": "2026-11",
+            "von": 60000,
+            "bis": 90000,
+            "trend": "stabil",
+            "quelle": "AutoUncle, Händlerangebote"
+          }
+        ],
+        "links": [
+          {
+            "name": "AutoScout24",
+            "url": "https://www.autoscout24.de/lst/mercedes-benz/amg-gt?atype=C&cy=D&fregto=2021&version0=gt%20s"
+          },
+          {
+            "name": "wirkaufendeinauto.de",
+            "url": "https://www.wirkaufendeinauto.de/"
+          }
+        ]
+      },
+      {
+        "id": "sl-r107",
+        "name": "Mercedes SL",
+        "baureihe": "R107",
+        "bauzeit": "1971–1989",
+        "leistung": "150–245 PS",
+        "info": "Der Klassiker unter den SL, 18 Jahre gebaut. Preis hängt stark vom Motor ab (280 bis 560 SL) und vom Rost.",
+        "news": "R ?107|\\bSL\\b.{0,30}(Klassiker|Oldtimer)",
+        "as24": {
+          "path": "mercedes-benz/sl-(alle)?atype=C&cy=D&fregfrom=1971&fregto=1989",
+          "seiten": 16,
+          "ohne": "pagode|W ?113|R ?129|teile|ersatzteil|hardtop allein|nur hardtop"
+        },
+        "preisband": [
+          {
+            "stand": "2026-11",
+            "von": 30000,
+            "bis": 65000,
+            "trend": "stabil",
+            "quelle": "Classic-Data-Werte (Zustand 2 bis 1), Angebote Classic Trader"
+          }
+        ],
+        "links": [
+          {
+            "name": "AutoScout24",
+            "url": "https://www.autoscout24.de/lst/mercedes-benz/sl-(alle)?atype=C&cy=D&fregfrom=1971&fregto=1989"
+          },
+          {
+            "name": "Classic Trader",
+            "url": "https://www.classic-trader.com/de/automobile/suche/mercedes-benz/sl-klasse/r-107"
+          }
+        ]
+      }
+    ]
+  }
+}

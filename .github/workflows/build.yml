@@ -38,6 +38,10 @@ jobs:
       - name: Kennzahlen holen (EZB, Börse, arXiv, Hugging Face, Fußball)
         run: node scripts/metrics.mjs
 
+      - name: Marktdaten Modelle im Blick (höchstens 1x pro Woche, abschaltbar über modelle.abruf)
+        run: node scripts/markt.mjs
+        continue-on-error: true
+
       - name: Alle Dashboards und Startseite bauen
         run: node scripts/build.mjs
 

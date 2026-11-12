@@ -12,6 +12,7 @@ import { hBars, columns, lines, legend, fmt } from "./charts.mjs";
 import { renderFootball } from "./football.mjs";
 import { renderZonen } from "./zonen.mjs";
 import { renderWelt } from "./welt.mjs";
+import { renderModelle } from "./modelle.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const loadJson = (file, fallback) => { try { return JSON.parse(readFileSync(file, "utf8")); } catch { return fallback; } };
@@ -238,7 +239,9 @@ function buildDashboard(name, template) {
   manifest.briefs.sort((a, b) => b.date.localeCompare(a.date));
   manifest.site = { title: cfg.title, description: cfg.description };
   const older = manifest.briefs[manifest.briefs.findIndex(b => b.date === date) + 1];
-  const { kpis, dashboard, fan } = renderDashboard(cfg, manifest, date, metrics, dir);
+  const { kpis, dashboard: dash, fan } = renderDashboard(cfg, manifest, date, metrics, dir);
+  // Modelle im Blick (Autos): Vergleich mit Marktdaten aus data/markt.json (scripts/markt.mjs)
+  const dashboard = dash + (cfg.modelle ? renderModelle(cfg, loadJson(join(dir, "data", "markt.json"), null), all) : "");
 
   const page = (root, assets, isIndex) => {
     const nav = [`<a href="${root}../">Alle Dashboards</a>`];
@@ -294,7 +297,7 @@ function buildHub(results, template) {
         : `<div class="hub-meta">Erste Ausgabe folgt</div>`) + `</div></a>`;
   }).join("");
   writeFileSync(join(ROOT, "index.html"), fill(template, {
-    LANG: "de", PAGE_TITLE: "News-Dashboards", DESCRIPTION: "Tägliche News-Dashboards: KI, Immobilien, Wirtschaft, Steuern, Hamburg, Startups, HSV",
+    LANG: "de", PAGE_TITLE: "News-Dashboards", DESCRIPTION: "Tägliche News-Dashboards: KI, Immobilien, Wirtschaft, Steuern, Hamburg, Startups, HSV, Welt, Autos, Recht",
     SITE_TITLE: "News-Dashboards", DATE_LONG: esc(longDate(today())), ASSETS: "assets/",
     STATS: "Jeden Morgen neu, kurz auf Deutsch zusammengefasst", TOP_TITLE: "Alle Dashboards",
     NAV: feedbackNav(), FEEDBACK: feedbackHtml("Startseite"),

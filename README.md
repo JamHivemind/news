@@ -4,7 +4,21 @@ Tägliche News-Dashboards, jeden Morgen kurz auf Deutsch zusammengefasst:
 Immobilien Hamburg, Wirtschaft & Zinsen, Hamburg, Startups & Deep Tech.
 Seit 06.11.2026 gibt es auch den Welt-Monitor (Ordner `welt/`: Globus, Brennpunkte, Hamburg-Bezug, Quellen von links bis rechts). Die KI-News liegen seit 06.11.2026 ebenfalls hier (Ordner `ki/`); die alte Adresse jamhivemind.github.io/ki-news/ leitet weiter.
 
+Seit 12.11.2026 gibt es außerdem **Autos & Klassiker** (Ordner `autos/`, mit dem Vergleich „Modelle im Blick“) und
+**Recht & Verbraucher** (Ordner `recht/`).
+
 **Lesen:** https://jamhivemind.github.io/news/
+
+## Modelle im Blick (Autos)
+
+`autos/config.json` → `modelle`: Vergleichstabelle und eine Karte je Modell.
+
+- **Marktdaten:** `scripts/markt.mjs` wertet einmal pro Woche öffentliche Inserate auf AutoScout24 aus und speichert nur
+  Kennzahlen (Anzahl, Median, mittlere Hälfte, typische Laufleistung) in `autos/data/markt.json`. Je Modell legen
+  `as24.path`, `mit`, `ohne` und `variante` fest, welche Inserate zählen. Abschalten: `modelle.abruf` auf `false`.
+  Erzwingen: `node scripts/markt.mjs --force`.
+- **Preisband:** von Hand gepflegt (`preisband`, neuester Eintrag zuletzt, mit `stand`, `von`, `bis`, `trend`, `quelle`).
+- **News:** `news` ist ein Suchmuster; passende Meldungen der Ausgabe erscheinen auf der Karte.
 
 ## Aufbau
 
