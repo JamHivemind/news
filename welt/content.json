@@ -1,147 +1,50 @@
 {
-  "date": "2026-11-11",
-  "intro": "In Abu Dhabi sprechen Russland und die Ukraine erstmals seit neun Monaten direkt miteinander. Daneben bestimmen der Streit um Iran, die Klimakonferenz in der Türkei und die neue Regierungsbildung in Israel die Lage.",
+  "date": "2026-11-12",
+  "intro": "In Abu Dhabi enden die Ukraine-Gespräche ohne Durchbruch, nur ein Gefangenenaustausch ist vereinbart. Gleichzeitig wächst die Sorge vor iranischen Angriffen, auch auf Ziele in Europa, und in den USA gewinnen die Demokraten einen historischen Senatssitz.",
   "regionen": {
-    "Europa": "In Abu Dhabi verhandeln Russland und die Ukraine unter US-Vermittlung, Europa sitzt laut Kommentaren nur am Rand. Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühlanlagen verantwortlich, die Kanaren rufen wegen vieler Bootsankünfte den Notstand aus.",
-    "Nahost": "In Israel ist die neue Knesset vereidigt, die Regierungsbildung ist offen. Der Iran-Konflikt strahlt aus: Anklagen in den USA, Vorwürfe aus Frankreich und mehr Zusammenarbeit der Golfstaaten.",
-    "Asien": "In Bangladesch kam es bei Protesten von Anhängern der gestürzten Regierungschefin Hasina zu Gewalt.",
-    "Amerika": "In den USA scheitert im Repräsentantenhaus der Antrag, Verteidigungsminister Hegseth abzusetzen. Papst Leo übt in Argentinien Kritik an Präsident Milei, in Haiti wird ein Banden-Hauptquartier zerstört.",
-    "Afrika": "In Kenia warnen Experten vor Überschwemmungen durch ein womöglich besonders starkes El Niño. Auf den Kanaren kommen binnen einer Woche knapp 7.000 Migranten an."
+    "Europa": "Die Ukraine-Gespräche bringen keinen Durchbruch, in Spanien streiken Millionen für bezahlbares Wohnen, und in Polen spaltet der Unabhängigkeitstag das Land.",
+    "Nahost": "Iran droht mit Angriffen auf US-Stützpunkte, Frankreich macht Teheran für einen Cyberangriff verantwortlich, und in Gaza wird nach einem Angriff auf ein Krankenhaus erneut getötet.",
+    "Asien": "Myanmars Militärregierung legt dem deutschen Geschäftsträger nach einer Videobotschaft die Ausreise nahe.",
+    "Amerika": "Der Demokrat Scott Colom gewinnt den Senatssitz in Mississippi, Verteidigungsminister Hegseth übersteht ein Amtsenthebungsverfahren, und in Brooklyn stürzt ein Gebäude ein.",
+    "Afrika": "Kenia entlässt den letzten Ebola-Patienten, aus Nordnigeria fliehen Zehntausende nach Niger."
   },
   "top": [
     {
-      "title": "Ukraine und Russland verhandeln in Abu Dhabi",
-      "text": "Erstmals seit neun Monaten sprechen beide Kriegsparteien wieder direkt miteinander, vermittelt von den USA. Der erste Tag endete ohne offizielles Ergebnis, aber mit Hoffnung für Gefangene: Präsident Selenskyj sagt, über tausend Kriegsgefangene könnten ausgetauscht werden. Russlands Außenminister Lawrow lehnt einen Waffenstillstand laut FAZ-Ticker weiter ab.",
-      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
-      "source": "tagesschau",
+      "title": "Ukraine-Gespräche in Abu Dhabi: Kein Durchbruch, aber Gefangenenaustausch",
+      "text": "Russland und die Ukraine haben in Abu Dhabi zwei Tage lang verhandelt. Greifbar ist nur ein großer Gefangenenaustausch. Die US-Gesandten Witkoff und Kushner reisen am Donnerstag zu Präsident Putin nach Moskau. Gleichzeitig greifen beide Länder weiter gegenseitig ihre Hauptstädte an. Offen bleibt vor allem die Frage, wie Europa in die Gespräche eingebunden wird.",
+      "url": "https://www.spiegel.de/ausland/russland-und-ukraine-vereinbaren-grossen-gefangenenaustausch-gespraeche-in-abu-dhabi-a-ac5871d0-5d90-41d1-a1f6-2a2b78462bd6#ref=rss",
+      "source": "Spiegel",
       "category": "Krieg & Konflikte",
       "art": "konflikt",
       "ort": {
-        "name": "Abu Dhabi",
-        "lat": 24.45,
-        "lon": 54.38
+        "name": "Ukraine",
+        "lat": 50.45,
+        "lon": 30.52
       },
-      "hamburg": "Für Deutschland geht es um die Sicherheitsordnung in Europa, über die in Abu Dhabi mitverhandelt wird.",
+      "hamburg": "Für Deutschland geht es auch ums Geld: Kanzler Merz will, dass alle EU-Staaten künftige Ukraine-Hilfen mittragen.",
       "stimmen": [
         {
-          "source": "taz",
+          "source": "Süddeutsche Zeitung",
           "richtung": "links",
-          "url": "https://taz.de/Verhandlungen-in-Abu-Dhabi/!6228877/"
-        },
-        {
-          "source": "Deutschlandfunk",
-          "richtung": "mitte",
-          "url": "https://www.deutschlandfunk.de/unterhaendler-der-ukraine-und-russlands-setzen-gespraeche-fort-100.html"
-        },
-        {
-          "source": "WELT",
-          "richtung": "rechts",
-          "url": "https://www.welt.de/politik/ausland/article6af2cea9e39746b7b04be327/ukraine-krieg-russland-und-ukraine-verhandeln-in-abu-dhabi-fast-vier-stunden-lang-sergej-lawrow-lehnt-sofortige-waffenruhe-ab.html"
-        }
-      ]
-    },
-    {
-      "title": "Hegseth übersteht Amtsenthebungsantrag",
-      "text": "Die Republikaner im US-Repräsentantenhaus haben den Antrag gestoppt, Verteidigungsminister Pete Hegseth des Amtes zu entheben. Vorgeworfen wurde ihm unter anderem Machtmissbrauch im Iran-Krieg. Hegseth nennt den Antrag einen „Schauprozess“. Laut BBC können die Demokraten nächstes Jahr einen neuen Anlauf nehmen.",
-      "url": "https://www.deutschlandfunk.de/amtsenthebungsverfahren-gegen-verteidigungsminister-hegseth-scheitert-im-repraesentantenhaus-100.html",
-      "source": "Deutschlandfunk",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Washington",
-        "lat": 38.9,
-        "lon": -77.04
-      },
-      "stimmen": [
-        {
-          "source": "Spiegel",
-          "richtung": "links",
-          "url": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-lehnen-amtsenthebungsantrag-im-repraesentantenhaus-ab-a-a16fbebc-5f94-4266-bd4c-7b114e518b40#ref=rss"
+          "url": "https://www.sueddeutsche.de/politik/ukraine-russland-usa-gespraeche-abu-dhabi-gefangenenaustausch-waffenstillstand-sicherheitsgarantien-li.3578724"
         },
         {
           "source": "BBC",
           "richtung": "mitte",
-          "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "NZZ",
+          "source": "WELT",
           "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/pete-hegseth-ist-noch-einmal-davongekommen-der-us-verteidigungsminister-entgeht-einem-impeachment-verfahren-ld.10060321"
+          "url": "https://www.welt.de/politik/ausland/video6af45abedb4e2fa8f6eb7507/gespraeche-in-abu-dhabi-us-gesandte-wollen-am-donnerstag-putin-in-moskau-treffen-gefangenenaustausch-vereinbart.html"
         }
       ]
     },
     {
-      "title": "Frankreich macht Iran für Cyberangriffe auf Kühlanlagen verantwortlich",
-      "text": "In mehreren Ländern Europas wurden Kühlanlagen von Supermärkten angegriffen. Frankreich sieht Iran dahinter, Teheran bestreitet das. Laut NZZ waren rund 700 Standorte betroffen. Ermittler in Paris sprechen von einem Angriff von beispiellosem Ausmaß.",
-      "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+      "title": "Iran: Drohungen, Anklagen und ein Cyberangriff in Frankreich",
+      "text": "Außenminister Wadephul warnt Iran vor hybriden Angriffen, also Attacken unterhalb der Kriegsschwelle wie Cyberangriffen. Frankreich sieht Iran hinter einem Angriff auf Kühlanlagen von rund 700 Standorten; Teheran bestreitet das. Zugleich droht Iran mit Schlägen gegen US-Stützpunkte, auch in Europa. In den USA wurden drei Männer angeklagt, die für Iran Anschläge in Europa geplant haben sollen.",
+      "url": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
       "source": "tagesschau",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Paris",
-        "lat": 48.86,
-        "lon": 2.35
-      },
-      "hamburg": "Auch Deutschland nimmt die Lage ernst: Außenminister Wadephul warnt Iran vor hybriden Angriffen.",
-      "stimmen": [
-        {
-          "source": "FAZ",
-          "richtung": "rechts",
-          "url": "https://www.faz.net/aktuell/politik/ausland/cyberangriff-auf-kuehlsysteme-die-spur-fuehrt-nach-iran-201668777.html"
-        },
-        {
-          "source": "NZZ",
-          "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/cyberattacke-auf-supermaerkte-paris-droht-iran-mit-harter-antwort-ld.10059822"
-        }
-      ]
-    }
-  ],
-  "entries": [
-    {
-      "title": "COP31 in Antalya: Rund hundert Staats- und Regierungschefs erwartet",
-      "summary": "Auf der UN-Klimakonferenz in der Türkei beginnt ein zweitägiger Gipfel. Gastgeber Erdoğan verkündet zugleich die Ausbeutung neuer Ölfelder, schreibt die taz.",
-      "url": "https://www.deutschlandfunk.de/gut-hundert-staats-und-regierungschefs-auf-uno-klimakonferenz-erwartet-100.html",
-      "source": "Deutschlandfunk",
-      "category": "Katastrophen & Klima",
-      "art": "politik",
-      "ort": {
-        "name": "Antalya",
-        "lat": 36.9,
-        "lon": 30.7
-      }
-    },
-    {
-      "title": "Israels neue Knesset ist vereidigt",
-      "summary": "Die 120 Abgeordneten sind im Amt, mehr als ein Drittel zum ersten Mal. Netanjahus Rivale Gadi Eisenkot hat laut BBC den ersten Versuch, eine Regierung zu bilden.",
-      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Jerusalem",
-        "lat": 31.77,
-        "lon": 35.21
-      }
-    },
-    {
-      "title": "USA klagen drei mutmaßliche Iran-Helfer an",
-      "summary": "Den Männern wird vorgeworfen, an Terroranschlägen beteiligt gewesen zu sein, darunter ein versuchter Angriff auf die britische Luftwaffenbasis Fairford.",
-      "url": "https://www.deutschlandfunk.de/drei-mutmasslich-vom-iran-unterstuetzte-terror-helfer-angeklagt-100.html",
-      "source": "Deutschlandfunk",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "RAF Fairford, Großbritannien",
-        "lat": 51.68,
-        "lon": -1.79
-      }
-    },
-    {
-      "title": "Revolutionswächter melden Explosionen an Öltankern",
-      "summary": "Die USA und Iran befinden sich seit Februar 2026 im Kriegszustand, eine Waffenruhe gilt offiziell. Nun melden die iranischen Revolutionswächter Explosionen an Öltankern.",
-      "url": "https://www.nzz.ch/international/iran-krieg-jd-vance-soll-mit-iran-chance-auf-verhandlungen-ausloten-kaempfe-in-jemen-vertreiben-immer-mehr-menschen-ld.10021246",
-      "source": "NZZ",
       "category": "Krieg & Konflikte",
       "art": "konflikt",
       "ort": {
@@ -149,138 +52,257 @@
         "lat": 35.69,
         "lon": 51.39
       },
-      "hamburg": "Angriffe auf Öltanker können die Ölpreise und damit auch die Spritpreise in Deutschland beeinflussen."
+      "hamburg": "Auch Deutschland ist betroffen: Die Bundesregierung warnt Teheran offen vor hybriden Angriffen auf Europa.",
+      "stimmen": [
+        {
+          "source": "Süddeutsche Zeitung",
+          "richtung": "links",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-anklage-terroranschlaege-trump-militaerstuetzpunkt-li.3579157"
+        },
+        {
+          "source": "BBC",
+          "richtung": "mitte",
+          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "NZZ",
+          "richtung": "rechts",
+          "url": "https://www.nzz.ch/international/cyberattacke-auf-supermaerkte-paris-droht-iran-mit-harter-antwort-ld.10059822"
+        }
+      ]
     },
     {
-      "title": "Golfstaaten rücken wegen Iran-Krieg militärisch näher zusammen",
-      "summary": "Laut Spiegel tüftelt Saudi-Arabien an einer Art sunnitischer Nato. Auch Katar baut seine Rolle aus.",
-      "url": "https://www.spiegel.de/ausland/golf-kooperationsrat-mehr-militaerische-zusammenarbeit-wegen-irankrieg-a-dae912cd-3ad2-42ea-97d8-c7f6f017e7a5#ref=rss",
-      "source": "Spiegel",
+      "title": "Demokrat Colom gewinnt Senatssitz in Mississippi",
+      "text": "Der Demokrat Scott Colom hat die Senatswahl in Mississippi gewonnen. Erstmals seit über 40 Jahren geht der Sitz in dem republikanischen Südstaat an die Demokraten. Er ist zudem der erste Schwarze aus Mississippi im US-Senat seit mehr als 140 Jahren. Der Sieg gilt nach den Zwischenwahlen als weiteres Zeichen für die Schwäche der Republikaner unter Präsident Trump.",
+      "url": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+      "source": "tagesschau",
       "category": "Weltpolitik",
       "art": "politik",
       "ort": {
-        "name": "Riad",
-        "lat": 24.71,
-        "lon": 46.68
-      }
-    },
-    {
-      "title": "Türkei nimmt Mitarbeiterin der Böll-Stiftung fest",
-      "summary": "Die türkische Justiz wirft ihr Spionage vor und hat sie zur Vernehmung vor ein Gericht gebracht.",
-      "url": "https://www.sueddeutsche.de/politik/tuerkei-heinrich-boell-stiftung-spionage-lgbtq-yonca-verdioglu-sik-li.3578548",
-      "source": "Süddeutsche Zeitung",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Ankara",
-        "lat": 39.93,
-        "lon": 32.86
+        "name": "Mississippi, USA",
+        "lat": 32.3,
+        "lon": -90.18
       },
-      "hamburg": "Die Heinrich-Böll-Stiftung ist eine deutsche, den Grünen nahestehende Stiftung."
-    },
+      "stimmen": [
+        {
+          "source": "Spiegel",
+          "richtung": "links",
+          "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-mississippi-wie-scott-colom-trotz-aller-widerstaende-siegte-a-edaaf9b7-8649-49f9-ba5e-a4657d9f51cc#ref=rss"
+        },
+        {
+          "source": "BBC",
+          "richtung": "mitte",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "WELT",
+          "richtung": "rechts",
+          "url": "https://www.welt.de/politik/ausland/plus6af4fde6c45061d752ba6f5e/us-midterms-schock-fuer-j-d-vance-das-demokraten-wunder-von-mississippi.html"
+        }
+      ]
+    }
+  ],
+  "entries": [
     {
-      "title": "Spanien trauert nach Zugunglück mit 69 Toten",
-      "summary": "Vor knapp zwei Wochen ereignete sich das zweite große Zugunglück innerhalb eines Jahres. Nun gab es eine Trauermesse.",
-      "url": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
+      "title": "Generalstreik in Spanien für bezahlbares Wohnen",
+      "summary": "Zum ersten Mal seit 2012 legt ein Generalstreik das Land teilweise lahm. Gefordert werden bessere Löhne und bezahlbare Wohnungen, der Verkehr ist eingeschränkt, es gab Festnahmen.",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-wohnungskrise-100.html",
       "source": "tagesschau",
       "category": "Europa",
-      "art": "katastrophe",
+      "art": "politik",
       "ort": {
         "name": "Spanien",
         "lat": 40.42,
         "lon": -3.7
-      }
+      },
+      "hamburg": "Auch in Hamburg treibt die Wohnungsnot Initiativen an, zuletzt eine Petition mit 7.300 Unterschriften für ein Recht auf Wohnen."
     },
     {
-      "title": "Kanarische Inseln rufen Notstand aus",
-      "summary": "Knapp 7.000 Migranten kamen binnen einer Woche mit Booten aus Westafrika an.",
-      "url": "https://www.nzz.ch/international/knapp-7000-migranten-in-einer-woche-die-kanarischen-inseln-rufen-den-notstand-aus-ld.10058957",
-      "source": "NZZ",
+      "title": "Bombendrohungen gegen Tausende Schulen in Italien und Großbritannien",
+      "summary": "Per E-Mail gingen allein in Italien Drohungen an rund 6000 Schulen ein, mehrere Gebäude wurden geräumt. Die Behörden gehen von Falschmeldungen aus; wer dahintersteckt, ist unklar.",
+      "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+      "source": "tagesschau",
       "category": "Europa",
       "art": "politik",
       "ort": {
-        "name": "Kanarische Inseln",
-        "lat": 28.29,
-        "lon": -16.63
+        "name": "Italien",
+        "lat": 41.9,
+        "lon": 12.5
       }
     },
     {
-      "title": "Kenia fürchtet Überschwemmungen durch El Niño",
-      "summary": "Meteorologen warnen, das Wetterphänomen könnte in diesem Jahr eines der stärksten seit Beginn der Aufzeichnungen werden. Dem Land drohen heftige Regenfälle.",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "title": "Polen: Unabhängigkeitsmarsch spaltet das Land",
+      "summary": "Am Nationalfeiertag zogen Zehntausende durch Warschau. Präsident Nawrocki warf der Regierung Tusk vor, das Land zu schaden, und nahm an dem Marsch teil.",
+      "url": "https://www.sueddeutsche.de/politik/polen-unabhaengigkeitsmarsch-warschau-unabhaengigkeitstag-li.3578923",
+      "source": "Süddeutsche Zeitung",
+      "category": "Europa",
+      "art": "politik",
+      "ort": {
+        "name": "Polen",
+        "lat": 52.23,
+        "lon": 21.01
+      }
+    },
+    {
+      "title": "Gaza: Israelischer Angriff auf Krankenhaus in Khan Younis",
+      "summary": "Nach Angaben des Zivilschutzes starben mindestens fünf Menschen, mindestens 20 wurden verletzt. Getroffen wurde die chirurgische Abteilung der Klinik.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
+      "ort": {
+        "name": "Gaza",
+        "lat": 31.35,
+        "lon": 34.31
+      }
+    },
+    {
+      "title": "Hegseth übersteht Amtsenthebungsantrag im US-Repräsentantenhaus",
+      "summary": "Die Republikaner blockierten den Vorstoß gegen den Verteidigungsminister. Die Demokraten können es im nächsten Jahr erneut versuchen.",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Washington, USA",
+        "lat": 38.9,
+        "lon": -77.04
+      }
+    },
+    {
+      "title": "Brooklyn: Dreistöckiges Gebäude eingestürzt",
+      "summary": "Mindestens zwei Menschen starben, die Suche nach Verschütteten dauert an.",
+      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "category": "Katastrophen & Klima",
       "art": "katastrophe",
       "ort": {
-        "name": "Nairobi",
+        "name": "New York, USA",
+        "lat": 40.71,
+        "lon": -74.01
+      }
+    },
+    {
+      "title": "Bulgarien: Massenunfall auf Autobahn mit zwölf Toten",
+      "summary": "Dichter Nebel und nasse Straßen führten zu Auffahrunfällen. Rund 50 Menschen wurden verletzt.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlFFZTl0aVRsZGZUcGswcDE0ZVdyZGsxV0pqeXg2Z2xUUDl3dDNBS2tNX3RuVUs5ZkFKaGFMbW5sV3A0SEpYMWFoQ0sxYV9Qb21uM0pmZ25xYmNKdHh2aDgyRnhDZEdNSmx0UEFDVDJSYXp6WFk1TldsMEI5Y1J6SG1BUEdKNFBD?oc=5",
+      "source": "Reuters",
+      "category": "Katastrophen & Klima",
+      "art": "katastrophe",
+      "ort": {
+        "name": "Bulgarien",
+        "lat": 42.7,
+        "lon": 23.32
+      }
+    },
+    {
+      "title": "COP31: Staatschefs mahnen, Konflikte dürften Klimaschutz nicht verdrängen",
+      "summary": "Auf der Weltklimakonferenz in Antalya warnen Regierungschefs vor Ablenkung durch Kriege. Kanzler Merz bleibt der Konferenz fern und wird dafür kritisiert.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcy1FRWhTbVJwQjAtOUVzaXJGczgtR0hGWV9UeXlXZkwtT3Z5TXBKUV8yU3lEajg0NFlmdmMteW50ZlNYWnpaX3Jud2o5SWF1dE1mWkhBbXhNY05GWW1HLUdaM1ZnX2pEUEZfbUg4NGZLWlMxYl9uRVBiNHNWekFGM1lqWGJrRUxKZHZKMF9RZE1HcUo0VDI4aWdlUERkd2EyeUs4bTFTb2N5UFNsWDJDVDc2RQ?oc=5",
+      "source": "Reuters",
+      "category": "Katastrophen & Klima",
+      "art": "politik",
+      "ort": {
+        "name": "Antalya, Türkei",
+        "lat": 36.9,
+        "lon": 30.7
+      },
+      "hamburg": "Merz bleibt der Konferenz fern und erntet dafür laut taz Kritik; für Hamburg als Hafenstadt zählen steigende Meeresspiegel zu den Langzeitrisiken."
+    },
+    {
+      "title": "Emirate umgehen die Straße von Hormus über Fujairah",
+      "summary": "Die Vereinigten Arabischen Emirate exportieren wieder so viel Öl wie vor dem Iran-Krieg, dank der Hafenstadt Fujairah außerhalb der blockierten Meerenge.",
+      "url": "https://www.nzz.ch/international/dubais-trister-rettungsanker-wie-die-emirate-die-strasse-von-hormuz-umgehen-ld.10059686",
+      "source": "NZZ",
+      "category": "Wirtschaft & Handel",
+      "art": "wirtschaft",
+      "ort": {
+        "name": "Fujairah, VAE",
+        "lat": 25.12,
+        "lon": 56.33
+      },
+      "hamburg": "Mehr Öl auf dem Weltmarkt kann den Druck auf Heizöl und Sprit in Deutschland mindern; Heizöl gilt hierzulande derzeit weiter als teuer."
+    },
+    {
+      "title": "Venezuela: Oppositionsführerin Machado kehrt zurück",
+      "summary": "María Corina Machado ist unter großem Jubel zurück im Land. Die NZZ fragt, wer künftig die Macht übernimmt.",
+      "url": "https://www.nzz.ch/international/machtkampf-in-venezuela-maria-corina-machado-draengt-auf-baldige-wahlen-die-amtsinhaberin-hat-es-nicht-eilig-ld.10059783",
+      "source": "NZZ",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Venezuela",
+        "lat": 10.48,
+        "lon": -66.9
+      }
+    },
+    {
+      "title": "Myanmar legt deutschem Geschäftsträger die Ausreise nahe",
+      "summary": "Auslöser ist eine Videobotschaft zum Geburtstag des gestürzten Präsidenten. Die Junta wirft dem Diplomaten Beleidigung vor.",
+      "url": "https://www.deutschlandfunk.de/myanmar-legt-geschaeftstraeger-der-deutschen-botschaft-nach-kritischer-videobotschaft-ausreise-nahe-100.html",
+      "source": "Deutschlandfunk",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Myanmar",
+        "lat": 19.76,
+        "lon": 96.08
+      },
+      "hamburg": "Es ist ein direkter Streit mit Deutschland: Der deutsche Geschäftsträger soll das Land verlassen."
+    },
+    {
+      "title": "Kenia entlässt den letzten Ebola-Patienten",
+      "summary": "Das Land beginnt einen 42-Tage-Countdown und kann als ebolafrei gelten, wenn keine neuen Fälle auftreten.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "category": "Katastrophen & Klima",
+      "art": "katastrophe",
+      "ort": {
+        "name": "Kenia",
         "lat": -1.29,
         "lon": 36.82
       }
     },
     {
-      "title": "Haiti: Hauptquartier der Gang 400 Mawozo zerstört",
-      "summary": "El Salvadors Präsident meldet die Zerstörung des Stützpunkts. Das Militär seines Landes hat Tausende Soldaten zur Bekämpfung der Banden in Haiti entsandt.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "title": "Nordnigeria: Gewalt treibt Zehntausende nach Niger",
+      "summary": "Wegen Angriffen und Unsicherheit im Norden Nigerias fliehen laut Reuters Zehntausende über die Grenze.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb2xYNnBaTFZmOEc1UFZvR0tnV2RHUnJ2WGNCZ3VqU2VBMzNOaEktZjhUcF9XNlNaNDIydk9ZbU5zQnJhSGdhQ05ib1dHME50Qm9HeGhTWHJHYXpacm45QlZMaE5XVmF1LUJld3NIWnJwOEhKclNrOENTQTN0TDBXLWFrSzQ0RXM1cVhiWnprQ1hzNHVCLWhxN05OaG5vRW14ODhYVTZ4MDlVOWM?oc=5",
+      "source": "Reuters",
       "category": "Krieg & Konflikte",
       "art": "konflikt",
       "ort": {
-        "name": "Port-au-Prince",
-        "lat": 18.59,
-        "lon": -72.34
+        "name": "Nordnigeria",
+        "lat": 12,
+        "lon": 8.52
       }
     },
     {
-      "title": "Gewalt in Bangladesch bei Protest für Hasina",
-      "summary": "Anhänger der gestürzten Regierungschefin Sheikh Hasina fordern ihre Rückkehr aus dem Exil in Indien. Bei den Protesten kam es zu Gewalt.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "category": "Weltpolitik",
-      "art": "konflikt",
-      "ort": {
-        "name": "Dhaka",
-        "lat": 23.81,
-        "lon": 90.41
-      }
-    },
-    {
-      "title": "Papst Leo kritisiert in Argentinien Präsident Milei",
-      "summary": "Der Papst sparte laut FAZ bei seinem Besuch nicht an Kritik, formulierte sie aber auf päpstliche Weise.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/leo-xiv-in-argentinien-der-papst-braucht-keinen-beichtstuhl-fuer-milei-201669969.html",
-      "source": "FAZ",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Buenos Aires",
-        "lat": -34.6,
-        "lon": -58.38
-      }
-    },
-    {
-      "title": "Europäischer Rechnungshof: Lücken bei Russland-Sanktionen",
-      "summary": "Die Prüfer sehen deutliche Versäumnisse bei den Handelssanktionen der EU gegen Russland.",
-      "url": "https://www.deutschlandfunk.de/europaeischer-rechnungshof-kritisiert-defizite-bei-sanktionen-gegen-russland-immer-noch-erhebliches--102.html",
-      "source": "Deutschlandfunk",
-      "category": "Europa",
+      "title": "Köhlbrandbrücke: Rampenzustand jetzt „ungenügend“",
+      "summary": "Das Abendblatt fragt, wie lange die Brücke noch hält. Der Zustand der Rampen wurde als ungenügend bewertet.",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcXB3NlQyMFFyb2ZnZV8xNEZ0LTloQTZKVWlMSGtnbHZpTXlFTVFCNDRpd3dPcnpZcS14U3kwOGpGYko0T1F3YVdyWnFFTVRJY2NxX1pHd2Z0SjVnaW5wcDdkUEJwTkpPdTJTVFlrcHQ4TG1rTC1qZmZ2blJhYjFNb0lYQklJYnA1V2FZWU4xaDlKbl92Qkg4OExxYk5ucDRZai1VeTZoMEE1Nk5tUUplYXNUbWNsSFJLc2xuVkZBaGtYQXJremQyNFNnSGc4ZFU0cllUZ2lMN2xtUFZlaHBleTg0QzFCdUlNZFlBdTVqSWtnaUJZNnVOZkhxSQ?oc=5",
+      "source": "Hamburger Abendblatt",
+      "category": "Hafen & Schifffahrt",
       "art": "wirtschaft",
       "ort": {
-        "name": "Luxemburg",
-        "lat": 49.61,
-        "lon": 6.13
-      }
+        "name": "Hamburg",
+        "lat": 53.55,
+        "lon": 9.99
+      },
+      "hamburg": "Die Brücke ist eine wichtige Verbindung im Hamburger Hafen; ihr Zustand ist für Verkehr und Wirtschaft in der Stadt wichtig."
     },
     {
-      "title": "US-Anleihenrenditen steigen, Börsen fallen: Sorge vor größerer Zinserhöhung",
-      "summary": "Neue Inflationsdaten erhöhen laut Reuters die Chance auf eine größere Zinserhöhung der US-Notenbank Fed.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5",
-      "source": "Reuters",
-      "category": "Wirtschaft & Handel",
+      "title": "Costa setzt auch 2027 auf Hamburg und Kiel",
+      "summary": "Die Kreuzfahrtreederei plant weiter Fahrten ab beiden Häfen, berichtet fvw TravelTalk.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDVGSHFicXF1TUdTNWVaNkd0eFlwOWFiS2p4MFBhcmkyV0R4cTAwdHlKMWxRejZpalY0ajVaRl8yWnFoUjE2M2U1emxCTlZvakRPMjFYTzh6WlY4dm1vQjhkN0ljQ3JPRG12ejlEcmkzWXVvVzdjLWNMUnplU2R4Wmx6UTRGdkdLdG5xbzVZMGZsOHVHY1R1R3FTbVNSM1EzdkllTUlWazFWZTdDM3c?oc=5",
+      "source": "fvw|TravelTalk",
+      "category": "Hafen & Schifffahrt",
       "art": "wirtschaft",
       "ort": {
-        "name": "Washington",
-        "lat": 38.9,
-        "lon": -77.04
-      }
+        "name": "Hamburg",
+        "lat": 53.55,
+        "lon": 9.99
+      },
+      "hamburg": "Für den Hamburger Hafen bedeutet das weitere Kreuzfahrtanläufe."
     }
   ]
 }
