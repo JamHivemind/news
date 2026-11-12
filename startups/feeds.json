@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-12T08:34:08.168Z",
+ "fetched": "2026-11-12T10:14:20.434Z",
  "hours": 48,
  "sources": [
   {
@@ -45,21 +45,9 @@
   },
   {
    "name": "Gründerszene",
-   "ok": true,
-   "items": [
-    {
-     "title": "Tiktok als Umsatztreiber – geht die Rechnung für Startups auf?",
-     "url": "https://www.businessinsider.de/gruenderszene/tiktok-als-umsatztreiber-geht-die-rechnung-fuer-startups-auf/",
-     "date": "2026-11-11T15:27:58.000Z",
-     "text": "Tiktok wird für Startups zum Vertriebskanal – doch wie profitabel sind Creator-Provisionen, virale Videos und Tiktok Shop wirklich?"
-    },
-    {
-     "title": "Berliner KI-Startup Parloa baut OpenAI-Partnerschaft aus – und sichert sich besonderen Vorteil",
-     "url": "https://www.businessinsider.de/gruenderszene/parloa-baut-openai-partnerschaft-aus-und-sichert-sich-besonderen-vorteil/",
-     "date": "2026-11-11T08:22:53.000Z",
-     "text": "Früher Zugang zu neuen KI-Modellen, gemeinsame Großkunden und ein neuer Vertriebskanal: Parloa vertieft seine Partnerschaft mit OpenAI."
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 403",
+   "items": []
   },
   {
    "name": "EU-Startups",
@@ -71,6 +59,24 @@
    "name": "Sifted",
    "ok": true,
    "items": [
+    {
+     "title": "SoftBank leads $500m round for Agile Robots",
+     "url": "https://sifted.eu/articles/softbank-leads-500m-round-for-agile-robots/",
+     "date": "2026-11-12T09:41:32.000Z",
+     "text": ""
+    },
+    {
+     "title": "Accel leads $30m Series A for spatial AI defence startup SE3",
+     "url": "https://sifted.eu/articles/accel-30m-spatial-ai-defence-startup-se3/",
+     "date": "2026-11-12T09:14:59.000Z",
+     "text": ""
+    },
+    {
+     "title": "How AI is changing procurement and supply chains",
+     "url": "https://sifted.eu/articles/how-ai-is-changing-procurement-and-supply-chains/",
+     "date": "2026-11-12T09:00:15.000Z",
+     "text": ""
+    },
     {
      "title": "15 German startups to watch in 2026, according to VCs",
      "url": "https://sifted.eu/articles/15-german-startups-to-watch-2026-vc/",
@@ -213,13 +219,6 @@
      "via": "Universität Hamburg"
     },
     {
-     "title": "Wir verlosen 2x1 Sticky Chai Paket vom Hamburger Startup Mangala Chai - Hamburg Magazin",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JZ0JqXzJuTG9zSkQ2UWYxcmEzTDZNMENlMzc2Q2hwRHVnLURhTFhRVXR2cDBybWs4RnlNNWZyUlIyWEdRSk52NmpPNi01OTg1dGJCbmdwVVlObVQxd18xbDRjZkJLQjlqRGx6MW1tbDY5MTNUWkx6cWNkbw?oc=5",
-     "date": "2026-11-09T15:00:00.000Z",
-     "text": "Wir verlosen 2x1 Sticky Chai Paket vom Hamburger Startup Mangala Chai Hamburg Magazin",
-     "via": "Hamburg Magazin"
-    },
-    {
      "title": "Female Entrepreneurship Week 2026 : UHH - Universität Hamburg",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ280ckdQQVpyTXRIazRyTGNBdlZMbl9YcXdnQ1kyTUp5ZGJKaGFaQlV3MG9WaUNhc3BRdlhxVHR2cHpOZG5Kc1ZCQTJvNlBjSFQ2R29GZ0VTZWZaY2N1d3pKWUROa2Y0TTkyNlI0TS1JOEpoTkhkU2hCRFprLU90T3pUSVJWSW5XeGNSampGcjVsRDhj?oc=5",
      "date": "2026-11-06T15:01:00.000Z",
@@ -233,6 +232,13 @@
    "focus": "Finanzierungsrunden deutscher Startups mit Betrag",
    "ok": true,
    "items": [
+    {
+     "title": "SE3 holt sich 30 Millionen Dollar - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55b205Nk8tUnJoRXFZcGItSkZVNTJWSVFaV0h5dXJuYUM4cE44SDY2bnk3X2FCMEdHTnBXaU96ajQ2U2Z2R3VJZFZSS0VHUVFueFZiR1lWbnpad0c1WDlwTFdDYzhzb29welFyYTc3QXF4dw?oc=5",
+     "date": "2026-11-12T08:36:45.000Z",
+     "text": "SE3 holt sich 30 Millionen Dollar Startbase",
+     "via": "Startbase"
+    },
     {
      "title": "Münchner Start-up Agile Robots erhält 500 Millionen Dollar - WELT",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT2xtV3QycksycEREdGJJUTBESnpJQWtaZEloUjQxbzlmOEpINHE0Z013M3lxeTFvWnhXSzJaSWZtbUJWV1QwZ1dhclVkakR5bE83VnJtdWFwSElCYzlRSEt0VUxaT3FLZFZqZG1CRENfanJqeEQxQWI1WHRzdEtyQlFMNXVPNkE0U3Jhc1ZOVXZtakNTVWttb1p6WTdhc2h3eHcySlN1eENHZVVGa09JYXlTR0NDUnZYOE5jZ3RMSDEwUVN5YTR3SDVteVBmb1EyZUV3Y2hmR0NZa2ZkRE9LZ1M5VS1WMWZzcmNmdA?oc=5",
