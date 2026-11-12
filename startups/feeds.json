@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-12T16:50:21.186Z",
+ "fetched": "2026-11-12T17:04:21.415Z",
  "hours": 48,
  "sources": [
   {
@@ -192,12 +192,6 @@
      "url": "https://sifted.eu/articles/why-europes-ai-founders-are-opening-accounting-and-law-firms/",
      "date": "2026-11-11T05:00:00.000Z",
      "text": ""
-    },
-    {
-     "title": "Mistral pushes back on new AI copyright proposals, sparking outcry from creatives",
-     "url": "https://sifted.eu/articles/mistral-copyright-law-proposal/",
-     "date": "2026-11-10T17:04:26.000Z",
-     "text": ""
     }
    ]
   },
@@ -287,6 +281,13 @@
      "via": "Westdeutsche Zeitung"
     },
     {
+     "title": "Rox: KI-Startup sammelt 100 Millionen Dollar ein - n24.com.tr",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQems0bHVxTkdSV2xZOVlkbnF2ejI2UUw4UmM5VUVob1Z1WXZSZ1A0bFJySTc5UjByLWJtTkhLeEZ6UGZpbGFkYUlWRUM0aV9fT2dncGFfclBQUHNZb2VzUnZfZFhZOWgxZlp1aXNwQmdHblJGS2ZsbmMtMFA4WlU5ZzZHTXJOOWl5?oc=5",
+     "date": "2026-11-12T10:15:10.000Z",
+     "text": "Rox: KI-Startup sammelt 100 Millionen Dollar ein n24.com.tr",
+     "via": "n24.com.tr"
+    },
+    {
      "title": "Ukrainisches Drohnen-Startup UForce sichert sich Finanzierungsrunde über 700 Mio. USD bei einer Bewertung von 6 Mrd. USD - MarketScreener Deutschland",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYXQwS1o2cTdkaVRBMkkyeDFQVWJOdWJfeGdiM0o3TFh5eFlZOVRxQUUwRDNlWXdIc0I2ak9EcTlUNHNYbWFjaFNVSVY0SGhnUTR1Qlp1Ylc5TVlUTEdKakdzdXZmRDhfbW5GZW9uZGNUR0ZLUkVrNVh5UFFkV0ViWkFHc3VKeFJEUlcwYmtJODRncVB4TWFETjZEaTZkbUw5NlFkOFB2VUxkSmdUeFRhMGVOTllOLVNuT0hPeUZTZDZBd0lPMnltVVRvQ1B3NlJaeVI5cGIwM3pIZlJuZHhIeFpqbzAzVU8ydkFtVmM4T0V0MXlfX0JHMzR3?oc=5",
      "date": "2026-11-12T10:45:12.000Z",
@@ -301,18 +302,11 @@
      "via": "Trending Topics"
     },
     {
-     "title": "Geld für den Krieg: Ukrainischer Drohnenhersteller Uforce wirbt Millionen ein - inSüdthüringen",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN3VOTEhLSlMzRmY5dEtKZTRCSnRzamItLWxoLVlrQ0tpaXdOUmdvSk9Uc3pZV3ZoWHdjcldlUExkNkg1YlpvdUNReGJVZlVQaTNpem9rVXQ0LXQ4QmI5WFlDQnN1S3NzU2RVY3Q2cUxSYnZHWEJFMWN3Q1pqNTBPUDlSMU5QVE5Ob3dDTVRJUlpjT1dZWVRnM1JzanZhMmZKdnhDWnluLUpNYW84Ni0zOHE4T1BfWUpJN2NnaWR6VlFOdldpSjF0OFdVQnF6ZmVLZTE1Z2gyY2FqZHJqT2NHYzZxX3ZQZ3RYM3VKbXFEYw?oc=5",
-     "date": "2026-11-12T10:50:48.000Z",
-     "text": "Geld für den Krieg: Ukrainischer Drohnenhersteller Uforce wirbt Millionen ein inSüdthüringen",
-     "via": "inSüdthüringen"
-    },
-    {
-     "title": "Rox: KI-Startup sammelt 100 Millionen Dollar ein - n24.com.tr",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQems0bHVxTkdSV2xZOVlkbnF2ejI2UUw4UmM5VUVob1Z1WXZSZ1A0bFJySTc5UjByLWJtTkhLeEZ6UGZpbGFkYUlWRUM0aV9fT2dncGFfclBQUHNZb2VzUnZfZFhZOWgxZlp1aXNwQmdHblJGS2ZsbmMtMFA4WlU5ZzZHTXJOOWl5?oc=5",
-     "date": "2026-11-12T10:15:10.000Z",
-     "text": "Rox: KI-Startup sammelt 100 Millionen Dollar ein n24.com.tr",
-     "via": "n24.com.tr"
+     "title": "Ukrainischer Drohnenhersteller Uforce wirbt Millionen ein - Ludwigsburger Kreiszeitung",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVS1HeXo4RE40N1VSeG10U1hBcXA4a0ZzNS1KNDlfX2hWaTZIMzRrdGdTZEV3TWdXcXN4SlRTbFl1MVpfa1p2aExKWnhSUW42cG9QOXpHSlRNY25QbVhHM01GTktYbDZrUVNnUWRFRG9JMXdzMnRPZm42NEFoeERWbVRSOHZfb1RGRm9HS0ItRmx1WUFaVGJONzZiMDhXN25ZYWNDekxlQkYyZ1plTnE0QQ?oc=5",
+     "date": "2026-11-12T10:49:00.000Z",
+     "text": "Ukrainischer Drohnenhersteller Uforce wirbt Millionen ein Ludwigsburger Kreiszeitung",
+     "via": "Ludwigsburger Kreiszeitung"
     },
     {
      "title": "Fractile: Britisches Chip-Startup erreicht 7 Milliarden Bewertung - n24.com.tr",

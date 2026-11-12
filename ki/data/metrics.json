@@ -295,7 +295,7 @@
    ],
    [
     "2026-11-12",
-    164.72
+    164.9
    ]
   ],
   "MSFT": [
@@ -561,7 +561,7 @@
    ],
    [
     "2026-11-12",
-    527.13
+    528.18
    ]
   ],
   "GOOGL": [
@@ -827,7 +827,7 @@
    ],
    [
     "2026-11-12",
-    299.05
+    300.73
    ]
   ],
   "META": [
@@ -1093,7 +1093,7 @@
    ],
    [
     "2026-11-12",
-    624.47
+    625.76
    ]
   ]
  },
@@ -1106,19 +1106,19 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 4650,
+   "likes": 4652,
    "downloads": 18933,
    "task": "text-generation"
   },
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 834,
+   "likes": 835,
    "downloads": 306718,
    "task": "text-to-image"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 2206,
+   "likes": 2207,
    "downloads": 29904,
    "task": "image-to-3d"
   },
@@ -1141,6 +1141,6 @@
    "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-12T16:50:58.265Z",
+ "updated": "2026-11-12T17:05:09.332Z",
  "updatedDay": "2026-11-06"
 }
