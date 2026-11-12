@@ -101,6 +101,12 @@
       "url": "https://news.google.com/rss/search?q=%22Porsche%20911%22%20OR%20%22Porsche%20997%22%20OR%20%22Porsche%20996%22&hl=de&gl=DE&ceid=DE:de",
       "type": "rss",
       "hours": 96
+    },
+    {
+      "name": "Classic Trader Newsletter",
+      "type": "gmail",
+      "query": "from:classic-trader newer_than:8d",
+      "focus": "Newsletter des Klassiker-Marktplatzes Classic Trader. Nur Marktberichte, Preisentwicklungen, Auktionsergebnisse und Termine (Rubrik Klassiker & Youngtimer oder Markt & Preise), keine einzelnen Verkaufsanzeigen und keine Werbung. Link nur auf öffentliche classic-trader.com-Seiten, nie Tracking- oder Abmeldelinks aus der Mail."
     }
   ],
   "entities": [
@@ -191,7 +197,7 @@
     "titel": "Modelle im Blick",
     "text": "Ausgewählte Sportwagen und Klassiker: Was sie heute am Markt kosten, wie viele angeboten werden und was in den News über sie steht.",
     "abruf": true,
-    "hinweis": "Marktdaten: eigene wöchentliche Auswertung öffentlicher Inserate auf AutoScout24 (Angebotspreise, keine Verkaufspreise). Preisband: grobe Einordnung aus Marktberichten, Bewertungen und Auktionen. Keine Kauf- oder Verkaufsberatung.",
+    "hinweis": "Marktdaten: eigene wöchentliche Auswertung öffentlicher Inserate auf AutoScout24 (Angebotspreise, keine Verkaufspreise). „In Hamburg angeboten“: Händlerangebote aus Hamburg und Umgebung (AutoScout24 und Elferspot-Seiten Hamburger Händler), keine Privatverkäufer. Preisband: grobe Einordnung aus Marktberichten, Bewertungen und Auktionen. Keine Kauf- oder Verkaufsberatung.",
     "liste": [
       {
         "id": "993-turbo-s",
@@ -225,7 +231,13 @@
             "name": "Classic Trader",
             "url": "https://www.classic-trader.com/de/automobile/suche/porsche/911/993"
           }
-        ]
+        ],
+        "lokal": {
+          "mit": "turbo",
+          "ohne": "replik|replica|clone|look|umbau|kit",
+          "elferspot": "^porsche-993-turbo",
+          "titel": "993 Turbo bei Hamburger Händlern (zum Vergleich)"
+        }
       },
       {
         "id": "993-carrera",
@@ -259,7 +271,10 @@
             "name": "Classic Trader",
             "url": "https://www.classic-trader.com/de/automobile/suche/porsche/911/993"
           }
-        ]
+        ],
+        "lokal": {
+          "elferspot": "^porsche-993-carrera(-cabriolet|-coupe|-targa)?-(19|20)\\d{2}-"
+        }
       },
       {
         "id": "997-c4s",
@@ -293,7 +308,10 @@
             "name": "wirkaufendeinauto.de",
             "url": "https://www.wirkaufendeinauto.de/"
           }
-        ]
+        ],
+        "lokal": {
+          "elferspot": "^porsche-997(-[12])?-carrera-4s"
+        }
       },
       {
         "id": "amg-gt-s",
@@ -361,6 +379,28 @@
             "url": "https://www.classic-trader.com/de/automobile/suche/mercedes-benz/sl-klasse/r-107"
           }
         ]
+      }
+    ],
+    "haendler": [
+      {
+        "name": "DAVID Finest Sports Cars",
+        "ort": "Hamburg-Wandsbek",
+        "elferspot": "david_sportscars"
+      },
+      {
+        "name": "Jungblut Sportwagen",
+        "ort": "Hamburg-Rahlstedt",
+        "elferspot": "jungblut-sportwagen-gmbh"
+      },
+      {
+        "name": "Car Collection Hamburg",
+        "ort": "Norderstedt",
+        "elferspot": "car-collection-hamburg-gmbh"
+      },
+      {
+        "name": "Fineeleven",
+        "ort": "Brietlingen",
+        "elferspot": "fineeleven"
       }
     ]
   }

@@ -30,6 +30,19 @@ function spanne(akt, band) {
   return h + `</div>`;
 }
 
+// Händlerangebote aus Hamburg und Umgebung (data/markt.json → modelle.<id>.hamburg), günstigstes zuerst
+function hamburg(m, hh) {
+  if (!hh) return "";
+  const titel = m.lokal?.titel || "In Hamburg angeboten";
+  if (!hh.angebote.length) return `<div class="mhh" id="hh-${esc(m.id)}"><b>${esc(titel)}:</b> derzeit kein Händlerangebot gefunden.</div>`;
+  const zeige = 5, rows = hh.angebote.slice(0, zeige).map(o =>
+    `<li><a href="${safeUrl(o.url)}" target="_blank" rel="noopener"><span class="mhh-t">${esc(o.titel)}${o.jahr ? `, ${esc(o.jahr)}` : ""}</span>` +
+    `<span class="mhh-h">${esc(o.haendler)}${o.ort ? ` · ${esc(o.ort)}` : ""}${o.km ? ` · ${fmt(o.km)} km` : ""}</span>` +
+    `<b>${eur(o.preis)}</b></a></li>`).join("");
+  const mehr = hh.angebote.length > zeige ? `<div class="mhh-more">und ${fmt(hh.angebote.length - zeige)} weitere</div>` : "";
+  return `<div class="mhh" id="hh-${esc(m.id)}"><b>${esc(titel)}</b> <span>(${fmt(hh.angebote.length)}, Stand ${dmy(hh.datum)})</span><ul>${rows}</ul>${mehr}</div>`;
+}
+
 export function renderModelle(cfg, markt, eintraege) {
   const M = cfg.modelle;
   if (!M?.liste?.length) return "";
@@ -47,11 +60,12 @@ export function renderModelle(cfg, markt, eintraege) {
       `<td>${akt ? fmt(akt.anzahl) : "–"}</td><td><b>${akt?.median ? teur(akt.median) : "–"}</b></td>` +
       `<td>${akt?.p25 && akt.anzahl > 1 ? `${teur(akt.p25)} – ${teur(akt.p75)}` : "–"}</td>` +
       `<td>${band ? `${teur(band.von)} – ${teur(band.bis)}` : "–"}</td>` +
-      `<td>${t ? `<span class="mtrend ${t[2]}" title="${t[1]}">${t[0]} ${t[1]}</span>` : "–"}</td></tr>`;
+      `<td>${t ? `<span class="mtrend ${t[2]}" title="${t[1]}">${t[0]} ${t[1]}</span>` : "–"}</td>` +
+      `<td>${daten[m.id]?.hamburg ? `<a href="#hh-${esc(m.id)}">${fmt(daten[m.id].hamburg.angebote.length)}</a>` : "–"}</td></tr>`;
   }
   const stand = markt?.abgerufen ? `Inserate ausgewertet am ${dmy(markt.abgerufen)}` : "Erste Auswertung der Inserate folgt";
   const tabelle = `<div class="mtable-wrap"><table class="mtable"><thead><tr><th>Modell</th><th>Angebote</th><th>Median</th>` +
-    `<th>Mittlere Hälfte</th><th>Preisband</th><th>Trend</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+    `<th>Mittlere Hälfte</th><th>Preisband</th><th>Trend</th><th>In Hamburg</th></tr></thead><tbody>${rows}</tbody></table></div>`;
 
   // Preisentwicklung aller Modelle, Start = 100 (sobald mindestens zwei Wochen vorliegen)
   const serien = M.liste.map((m, i) => {
@@ -76,6 +90,7 @@ export function renderModelle(cfg, markt, eintraege) {
       `<div><b>${akt?.kmMedian ? `${fmt(Math.round(akt.kmMedian / 1000))} Tkm` : "–"}</b><span>typ. Laufleistung</span></div></div>` +
       spanne(akt?.anzahl > 1 ? akt : akt?.median ? { p25: akt.median, p75: akt.median, median: akt.median } : null, band) +
       (band ? `<div class="mband">Preisband ${dmy(band.stand)}${t ? `, Trend ${t[1]} ${t[0]}` : ""}. Grundlage: ${esc(band.quelle)}</div>` : "") +
+      hamburg(m, daten[m.id]?.hamburg) +
       (news.length ? `<div class="mnews"><b>Heute in den News:</b> ${news.slice(0, 3).map(e => `<a href="#m-${e._k}">${esc(e.title)}</a>`).join(" · ")}</div>` : "") +
       `<div class="mlinks">${(m.links || []).map(l => `<a href="${safeUrl(l.url)}" target="_blank" rel="noopener">${esc(l.name)} →</a>`).join("")}</div></article>`;
   }

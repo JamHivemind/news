@@ -17,6 +17,10 @@ Seit 12.11.2026 gibt es außerdem **Autos & Klassiker** (Ordner `autos/`, mit de
   Kennzahlen (Anzahl, Median, mittlere Hälfte, typische Laufleistung) in `autos/data/markt.json`. Je Modell legen
   `as24.path`, `mit`, `ohne` und `variante` fest, welche Inserate zählen. Abschalten: `modelle.abruf` auf `false`.
   Erzwingen: `node scripts/markt.mjs --force`.
+- **In Hamburg angeboten:** Händlerangebote (nie Privatverkäufer) mit PLZ 20–22 oder 253/254 aus denselben
+  AutoScout24-Daten, dazu die Elferspot-Seiten der Händler in `modelle.haendler` (nur Fahrzeuge, deren Adresse zu
+  `lokal.elferspot` passt). `lokal.mit`/`lokal.ohne` erlauben einen weiteren Filter (z. B. beim 993 Turbo S alle 993 Turbo
+  zum Vergleich), `lokal.titel` die Überschrift. Doppelte (gleicher Preis, Jahr, km) erscheinen nur einmal.
 - **Preisband:** von Hand gepflegt (`preisband`, neuester Eintrag zuletzt, mit `stand`, `von`, `bis`, `trend`, `quelle`).
 - **News:** `news` ist ein Suchmuster; passende Meldungen der Ausgabe erscheinen auf der Karte.
 
