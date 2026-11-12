@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-12T03:48:14.102Z",
+ "fetched": "2026-11-12T05:17:35.155Z",
  "hours": 48,
  "sources": [
   {
@@ -370,6 +370,12 @@
    "ok": true,
    "items": [
     {
+     "title": "Hamburg kauft Drohnenabwehr für mehrere Millionen Euro",
+     "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-kauft-drohnenabwehrsysteme-fuer-mehrere-millionen-euro,buergerschaft-208.html",
+     "date": "2026-11-12T04:30:43.000Z",
+     "text": "Das hat die Bürgerschaft bewilligt. Vor allem die Finanzierung der Kosten von rund vier Millionen Euro war in der Debatte umstritten."
+    },
+    {
      "title": "Schüsse in der Hafencity: Neue Details zum mutmaßlichen Schützen",
      "url": "https://www.ndr.de/nachrichten/hamburg/schuesse-in-der-hafencity-neue-details-zum-mutmasslichen-schuetzen,hafencity-schuesse-100.html",
      "date": "2026-11-11T17:01:45.000Z",
@@ -382,22 +388,16 @@
      "text": "Der Verdächtige im Fall des gewaltsamen Todes einer Frau in Hamburg-Lokstedt hätte nicht mehr in Deutschland sein dürfen, war aber untergetaucht."
     },
     {
+     "title": "News-Blog Route du Rhum - Herrmanns Zielankunft heute im Livestream",
+     "url": "https://www.ndr.de/sport/mehr_sport/news-blog-route-du-rhum-herrmann-boris-herrmann,segeln-630.html",
+     "date": "2026-11-12T03:19:44.000Z",
+     "text": "Den Live-Tracker, Meldungen und Hintergründe zur legendären Transatlantik-Regatta von Frankreich nach Guadeloupe gibt es im News-Blog von NDR.de."
+    },
+    {
      "title": "Hamburgische Bürgerschaft streitet über Klimapolitik",
      "url": "https://www.ndr.de/nachrichten/hamburg/Buergerschaft-debattiert-ueber-Folgen-des-Klimawandels-,buergerschaft-206.html",
      "date": "2026-11-11T15:13:12.000Z",
      "text": "SPD und Grüne sehen Hamburg auf dem richtigen Weg zur Klimaneutralität. Die Opposition meint, der Senat setze die falschen Akzente."
-    },
-    {
-     "title": "Richtfest für 540 Wohnungen der SAGA in Bramfeld",
-     "url": "https://www.ndr.de/nachrichten/hamburg/richtfest-fuer-540-wohnungen-der-saga-in-bramfeld,bramfeld-122.html",
-     "date": "2026-11-11T16:05:22.000Z",
-     "text": "Für Hamburgs städtisches Wohnungsunternehmen ist es das größte Neubauvorhaben des Jahres. 540 Wohnungen entstehen am Moosrosenweg, darunter 200 Sozialwohnungen."
-    },
-    {
-     "title": "Gehälter: Was Hamburgs städtische Top-Manager verdienen",
-     "url": "https://www.ndr.de/nachrichten/hamburg/gehaelter-was-hamburgs-staedtische-top-manager-verdienen,manager-108.html",
-     "date": "2026-11-11T13:36:46.000Z",
-     "text": "Die Spitzenmanager der großen städtischen Unternehmen in Hamburg haben auch 2025 gut verdient. Spitzenreiterin ist Ex-HHLA-Vorstandschefin Angela Titzrath."
     },
     {
      "title": "Chemie-Zwischenfall am UKE: 70 Feuerwehrleute im Einsatz",
@@ -466,12 +466,6 @@
      "text": "Beim Krimifestival auf Kampnagel ist für jeden Geschmack was dabei. Der NDR Erfolgspodcast \"eat.READ.sleep.\" eröffnet das Event."
     },
     {
-     "title": "Wasserrohrbruch am Hauptbahnhof",
-     "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal_1800/wasserrohrbruch-am-hauptbahnhof,hamj-16412.html",
-     "date": "2026-11-11T19:48:43.000Z",
-     "text": "Teile der Kirchenallee direkt gegenüber des Hauptbahnhofs waren überflutet."
-    },
-    {
      "title": "Volkspetition gegen Schulkürzungen",
      "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/volkspetition-gegen-schulkuerzungen,hamj-16442.html",
      "date": "2026-11-11T19:06:59.000Z",
@@ -482,6 +476,18 @@
      "url": "https://www.ardsounds.de/episode/urn:ard:episode:fbd553b25691f80e/",
      "date": "2026-11-11T08:37:08.000Z",
      "text": "True Crime Hamburg: Hamburgs Polizeipräsident a.D. Ralf Martin Meyer und Schauspieler und Ehrenkommissar Marek Erhardt erklären die Arbeit der Polizei."
+    },
+    {
+     "title": "Richtfest für 540 Wohnungen der SAGA in Bramfeld",
+     "url": "https://www.ndr.de/nachrichten/hamburg/richtfest-fuer-540-wohnungen-der-saga-in-bramfeld,bramfeld-122.html",
+     "date": "2026-11-11T16:05:22.000Z",
+     "text": "Für Hamburgs städtisches Wohnungsunternehmen ist es das größte Neubauvorhaben des Jahres. 540 Wohnungen entstehen am Moosrosenweg, darunter 200 Sozialwohnungen."
+    },
+    {
+     "title": "Gehälter: Was Hamburgs städtische Top-Manager verdienen",
+     "url": "https://www.ndr.de/nachrichten/hamburg/gehaelter-was-hamburgs-staedtische-top-manager-verdienen,manager-108.html",
+     "date": "2026-11-11T13:36:46.000Z",
+     "text": "Die Spitzenmanager der großen städtischen Unternehmen in Hamburg haben auch 2025 gut verdient. Spitzenreiterin ist Ex-HHLA-Vorstandschefin Angela Titzrath."
     },
     {
      "title": "Volkspetition gegen Kürzungen bei Schulen in Hamburg",
@@ -516,20 +522,14 @@
     {
      "title": "\"Lange Nacht des Impfens\": Viele Apotheken im Norden länger offen",
      "url": "https://www.ndr.de/nachrichten/hamburg/lange-nacht-des-impfens-viele-apotheken-im-norden-laenger-offen,lange-nacht-des-impfens-100.html",
-     "date": "2026-11-11T11:00:00.000Z",
-     "text": "Können Impfungen in Apotheken die Impfquote steigern? Mehr als gedacht, sagt die Forschung. Am Donnerstag haben viele im Norden deshalb länger geöffnet."
+     "date": "2026-11-12T04:50:37.000Z",
+     "text": "Können Impfungen in Apotheken die Impfquote steigern? Mehr als gedacht, sagt die Forschung. Heute haben viele im Norden deshalb länger geöffnet."
     },
     {
      "title": "Wenn die Psyche krank macht: Hohe Fehlzeiten im Norden",
      "url": "https://www.ndr.de/nachrichten/info/wenn-die-psyche-krank-macht-hohe-fehlzeiten-im-norden,krankschreibungen-104.html",
      "date": "2026-11-11T11:14:00.000Z",
      "text": "Norddeutsche melden sich besonders häufig wegen ihrer Psyche krank. Was steckt hinter den hohen Fehlzeiten?"
-    },
-    {
-     "title": "Route du Rhum: Imoca-Neuling Horeau gewinnt - Herrmann weiter Zweiter",
-     "url": "https://www.ndr.de/sport/mehr_sport/route-du-rhum-imoca-neuling-horeau-gewinnt-herrmann-weiter-zweiter,segeln-684.html",
-     "date": "2026-11-11T14:24:27.000Z",
-     "text": "Der Franzose kreuzte bei der legendären Transatlantik-Regatta am frühen Mittwochmorgen die Ziellinie vor Guadeloupe. Boris Herrmann steuert auf Kurs Platz zwei."
     },
     {
      "title": "A1 in Hamburg wird am Wochenende in einer Richtung gesperrt",
@@ -563,16 +563,64 @@
      "text": "Die Kulturbehörde wertet neue Erkenntnisse aus und das Altonaer Museum erzählt von Hamburgs jüdischer Geschichte – auch mit unerwarteten Objekten."
     },
     {
+     "title": "Großeinsatz nach Chemie-Unfall am UKE – zwei Studenten verletzt",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article413655611/feuerwehr-nach-chemie-unfall-am-uke-stoffreaktion-loest-brandmeldeanlage-aus-2.html",
+     "date": "2026-11-12T05:12:00.000Z",
+     "text": "Am Forschungscampus des UKE wurde nach einer Stoffreaktion die Brandmeldeanlage ausgelöst. Die Feuerwehr war mit über 70 Einsatzkräften vor Ort."
+    },
+    {
+     "title": "Beach-Club-Feeling: So schön wird der neue Spielplatz am Eichbaumsee",
+     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413652044/beach-club-feeling-so-schoen-wird-der-neue-spielplatz-am-eichbaumsee.html",
+     "date": "2026-11-12T04:58:00.000Z",
+     "text": "Kinder können sich auf tolle Spielgeräte freuen. Was es mit dem „Villago Beach“-Haus und dem „Drei-Ebenen-Cube“ auf sich hat."
+    },
+    {
+     "title": "Mit Blick auf Elbtower und Hafen: 15 Hamburger wohnen jetzt in einem Büro",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413595534/mit-blick-auf-elbtower-und-hafen-15-hamburger-wohnen-jetzt-in-einem-buero.html",
+     "date": "2026-11-12T04:45:00.000Z",
+     "text": "Weil Wohnraum knapp und teuer ist, testen drei WGs für ein Jahr das Leben in einem Officegebäude. Die Stadt unterstützt das Projekt."
+    },
+    {
+     "title": "Klaus (87) über seine Obdachlosigkeit: „Ich komme aus einer angesehenen Familie“",
+     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413639621/obdachlos-mit-87-jahren-dabei-kommt-klaus-aus-einer-angesehenen-familie.html",
+     "date": "2026-11-12T04:45:00.000Z",
+     "text": "Vergangenes Jahr verlor der Senior sein Zuhause. Hilfe anzunehmen, fiel ihm schon immer schwer. Er landete auf den Bänken im Bergedorfer Schlosspark."
+    },
+    {
+     "title": "Rost gehört zum Konzept: Wie eine alte Schute zum Schiff der Hoffnung wird",
+     "url": "https://www.abendblatt.de/hamburg/harburg/article413590030/rost-als-konzept-alte-schute-harburg-wird-schiff-der-hoffnung.html",
+     "date": "2026-11-12T04:40:00.000Z",
+     "text": "Im Harburger Hafen liegt eine „Zukunfts-Arche“. Der Wahl-Hamburger Claudius Schulze verbindet dort Bildung und Kunst. Ein Besuch an Bord."
+    },
+    {
+     "title": "Nach Zwangsräumung in Eimsbüttel: So könnte es mit der Villa Lupi weitergehen",
+     "url": "https://www.abendblatt.de/hamburg/eimsbuettel/article413639282/nach-zwangsraeumung-in-eimsbuettel-so-koennte-es-mit-der-villa-lupi-weitergehen.html",
+     "date": "2026-11-12T04:35:00.000Z",
+     "text": "Kulturzentrum statt Abriss? Arlette Andrae und Til Bernstein haben viele Ideen für das verwahrloste Gebäude. Doch die Hürden sind groß."
+    },
+    {
+     "title": "Emirates-Chef Sir Tim Clark: So hätte der Airbus A380 gerettet werden können",
+     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413610937/airbus-a380-comeback-emirates-ceo-sir-tim-clark-lufthansa-boeing-777-x.html",
+     "date": "2026-11-12T04:30:00.000Z",
+     "text": "Airbus baut den A380 nicht mehr – zum Leidwesen des Emirates-Chefs. Für Neuauflage des größten Passagierjets hat er klare Vorstellungen."
+    },
+    {
+     "title": "„Ich kenne alle mit Namen“ – 90-Jährige trauert um Fitnessstudio",
+     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413622193/befit-in-der-praxisklinik-schliesst-aelteste-sportlerin-90-muss-neues-studio-suchen.html",
+     "date": "2026-11-12T04:15:00.000Z",
+     "text": "Das be.Fit der Praxis-Klinik Bergedorf muss schließen. Kooperation mit der TSG Bergedorf bestand seit 1997. Wie es nun weitergeht."
+    },
+    {
+     "title": "Fast alle Pferde weg: Polizei hat Hamburger Reiterstaffel schon aufgelöst",
+     "url": "https://www.abendblatt.de/hamburg/altona/article413637539/hamburgs-polizei-hat-reiterstaffel-schon-aufgeloest-fast-alle-pferde-weg.html",
+     "date": "2026-11-12T04:00:00.000Z",
+     "text": "CDU hatte Antrag zur Rettung für Haushaltsdebatte im Dezember angekündigt. Doch die Tiere sind längst vermittelt. Wo sie jetzt sind."
+    },
+    {
      "title": "Christina Blocks Tagebucheintrag vor Silvester: „Ich weiß nicht, wann es losgeht“",
      "url": "https://www.abendblatt.de/hamburg/politik/article413642219/christina-block-und-ihr-tagebuch-vor-silvester-2023-ich-weiss-nicht-wann-es-losgeht.html",
      "date": "2026-11-11T20:48:00.000Z",
      "text": "Wie sind die Einträge im digitalen Notizbuch zu werten? Prozesstag 86 fördert neue Vorwürfe zu Tage – und Tränen bei einer Angeklagten."
-    },
-    {
-     "title": "Nach Chemie-Unfall: Feuerwehr mit Großaufgebot am UKE im Einsatz",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article413655611/feuerwehr-nach-chemie-unfall-am-uke-stoffreaktion-loest-brandmeldeanlage-aus-1.html",
-     "date": "2026-11-11T19:36:00.000Z",
-     "text": "Am Forschungscampus des UKE wurde nach einer Stoffreaktion die Brandmeldeanlage ausgelöst. Die Feuerwehr war mit über 70 Einsatzkräften vor Ort."
     },
     {
      "title": "Nach Osterstraße: Nun wird Straße in der Nachbarschaft monatelang zur Baustelle",
@@ -653,22 +701,16 @@
      "text": "Der Nachwuchs ist längst im Unternehmen angekommen. Was geplant ist und warum Senior Heinz Hintelmann trotzdem noch nachts aushilft."
     },
     {
-     "title": "WhatsApp-Chat mit der Redaktion: Was ist los im Bezirk Wandsbek?",
-     "url": "https://www.abendblatt.de/hamburg/wandsbek/article412928955/wandsbek-worueber-sollen-wir-in-eurem-bezirk-berichten-schickt-uns-eine-whatsapp-03.html",
-     "date": "2026-11-11T16:25:00.000Z",
-     "text": "Leserinnen und Leser können jetzt persönlich mit den Redakteurinnen Lena Diekmann und Maja-Lina Lauer schreiben und Themen vorschlagen."
-    },
-    {
      "title": "Nach Aus von beliebtem Eisladen Schlecks: Betreiber haben Überraschung für Kunden",
      "url": "https://www.abendblatt.de/hamburg/altona/article413626828/nach-aus-von-beliebtem-eisladen-schlecks-betreiber-haben-ueberraschende-nachricht-01.html",
      "date": "2026-11-11T16:25:00.000Z",
      "text": "Ein „Eisliebhaber, der immer davon geträumt hat“ einen eigenen Laden zu haben, soll die Fläche in Ottensen übernehmen. Was bekannt ist."
     },
     {
-     "title": "Ghibli-Store eröffnet in Hamburg: Fans warten bei 3 Grad – „Habe extra gespart“",
-     "url": "https://www.abendblatt.de/hamburg/eimsbuettel/article413599893/ghibli-store-eroeffnet-in-hamburg-fans-warten-bei-3-grad-habe-extra-gespart.html",
-     "date": "2026-11-11T16:16:00.000Z",
-     "text": "Trotz Kälte standen einige Kunden Schlange vor dem Laden in Rotherbaum, um begehrte Artikel und Sammlerstücke zu ergattern."
+     "title": "WhatsApp-Chat mit der Redaktion: Was ist los im Bezirk Wandsbek?",
+     "url": "https://www.abendblatt.de/hamburg/wandsbek/article412928955/wandsbek-worueber-sollen-wir-in-eurem-bezirk-berichten-schickt-uns-eine-whatsapp-03.html",
+     "date": "2026-11-11T16:25:00.000Z",
+     "text": "Leserinnen und Leser können jetzt persönlich mit den Redakteurinnen Lena Diekmann und Maja-Lina Lauer schreiben und Themen vorschlagen."
     },
     {
      "title": "Pleitier, Betrüger, Gewalttäter: Schütze aus der HafenCity hatte hohe Schulden",
@@ -693,48 +735,6 @@
      "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article413653708/13-jaehrige-aus-beruechtigter-einrichtung-an-der-feuerbergstrasse-verschwunden.html",
      "date": "2026-11-11T15:33:00.000Z",
      "text": "Eine 13-Jährige ist aus einer Hamburger Jugendeinrichtung verschwunden. Die Polizei fahndet öffentlich und bittet um Hinweise aus der Bevölkerung."
-    },
-    {
-     "title": "Polettos neue Dinnershow im Test: Lohnt sich ein Besuch im Palazzo?",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article413628334/polettos-neuer-dinnershow-in-hamburg-im-test-lohnt-sich-ein-besuch-im-palazzo.html",
-     "date": "2026-11-11T14:38:00.000Z",
-     "text": "Unsere Reporterin war bei der Vorpremiere im Spiegelpalast der Kultköchin dabei. Das ist ihr Urteil zu Akrobaten und Vier-Gänge-Menü."
-    },
-    {
-     "title": "Werden die Braun-Brüder Ehrenbürger? Bürgermeister spricht über „plausible Idee“",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413628110/miniatur-wunderland-eroeffnet-neue-sechs-millionen-euro-welt-magisch-1.html",
-     "date": "2026-11-11T14:22:00.000Z",
-     "text": "Im Miniatur Wunderland hat Peter Tschentscher den neuen Sechs-Millionen-Euro-Abschnitt eingeweiht. Dabei würdigte er die beiden Gründer."
-    },
-    {
-     "title": "Senat veröffentlicht Managergehälter: Eine bekam 300.000 Euro – pro Monat",
-     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413632535/hhla-uke-flughafen-saga-verguetungen-chefs-vorstaende-oeffentliche-unternehmen-hamburg-01.html",
-     "date": "2026-11-11T14:21:00.000Z",
-     "text": "Von HHLA über UKE und Saga bis Flughafen: Manche Vergütungen in städtischen Firmen überraschen. Finanzsenator fordert bessere Ergebnisse."
-    },
-    {
-     "title": "Hamburgs Schüler kündigen Protest gegen Senats-Sparpläne an und drohen mit Demos",
-     "url": "https://www.abendblatt.de/hamburg/politik/article413598883/aufstand-der-schueler-gegen-sparplaene-des-senats-wir-sind-die-zukunft-hamburgs-1.html",
-     "date": "2026-11-11T14:03:00.000Z",
-     "text": "Die Schülerkammer Hamburg ruft zum Protest während des Unterrichts auf. Zugleich sucht und führt sie Gespräche mit der Politik."
-    },
-    {
-     "title": "Klaus Mäkelä in der Elbphilharmonie: Für solche Momente wurde dieser Saal gebaut",
-     "url": "https://www.abendblatt.de/hamburg/kultur/article413646188/klaus-maekelae-in-der-elbphilharmonie-fuer-solche-momente-wurde-dieser-saal-gebaut.html",
-     "date": "2026-11-11T14:02:00.000Z",
-     "text": "Das Royal Concertgebouw Orchestra aus Amsterdam versteht sich blendend mit dem finnischen Stardirigenten. Das Publikum erlebt einen Ausnahmeabend."
-    },
-    {
-     "title": "Hinrich Johann Sietas: Ehemaliger Werftchef stirbt bei tragischem Unfall",
-     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413648755/hinrich-johann-sietas-ehemaliger-werftchef-stirbt-bei-tragischem-unfall.html",
-     "date": "2026-11-11T14:00:00.000Z",
-     "text": "Der letzte Eigentümer der über Jahrhunderte familiengeführten Werft aus Neuenfelde lebt nicht mehr. Was geschehen ist – und wann er beigesetzt wird."
-    },
-    {
-     "title": "Weihnachtsmärkte in Hamburg: Wo es jetzt schon Glühwein und Bratwurst gibt",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article407231713/weihnachtsmarkt-hamburg-2026-die-grosse-uebersicht-alle-infos-und-oeffnungszeiten-20.html",
-     "date": "2026-11-11T13:30:00.000Z",
-     "text": "Die ersten Hamburger Märkte sind geöffnet. Auch in Eimsbüttel geht es nun los. Was an welchem Ort geboten wird: die große Übersicht."
     }
    ]
   },
@@ -743,6 +743,60 @@
    "focus": "Nur Immobilien und Bauzinsen",
    "ok": true,
    "items": [
+    {
+     "title": "Morning Briefing Podcast: Bundesregierung: Großer Kompromiss bei kleinen Steuern",
+     "url": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-bundesregierung-grosser-kompromiss-bei-kleinen-steuern/100269281.html",
+     "date": "2026-11-12T05:06:23.000Z",
+     "text": "Die Stromsteuersenkung kommt nicht, dafür aber auch weder Zucker- noch Plastiksteuer: Die Koalition geht mit einem Kompromiss in den entscheidenden Haushaltstag. Ein Problem bleibt."
+    },
+    {
+     "title": "Morning Briefing: Immerhin eine Energie, die der Staat nicht besteuert",
+     "url": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-immerhin-eine-energie-die-der-staat-nicht-besteuert/100269240.html",
+     "date": "2026-11-12T04:59:40.000Z",
+     "text": "Die Stromsteuersenkung kommt nicht, dafür aber auch weder Zucker- noch Plastiksteuer: Die Koalition geht mit einem Kompromiss in den entscheidenden Haushaltstag. Ein Problem bleibt."
+    },
+    {
+     "title": "Aktie des Chip-Riesen sackt ab: Medien: Nvidia-Aufseher beraten über Firmenchef Huang",
+     "url": "https://www.handelsblatt.com/politik/deutschland/aktie-des-chip-riesen-sackt-ab-medien-nvidia-aufseher-beraten-ueber-firmenchef-huang/100269255.html",
+     "date": "2026-11-12T04:45:46.000Z",
+     "text": "Jensen Huang ist das Gesicht des Chip-Riesen, der zum Motor des KI-Booms wurde. Nvidia ohne den Firmenchef war bis vor kurzem noch undenkbar - könnte er dennoch wegen Affären seinen Job verlieren?"
+    },
+    {
+     "title": "Südamerika-Reise: Hunderttausende jubeln Papst zu bei Rückkehr nach Peru",
+     "url": "https://www.handelsblatt.com/politik/international/suedamerika-reise-hunderttausende-jubeln-papst-zu-bei-rueckkehr-nach-peru/100269261.html",
+     "date": "2026-11-12T04:40:15.000Z",
+     "text": "Nach dem Empfang in Lima bezeichnet der gebürtige US-Amerikaner das südamerikanische Land als seine „Heimat“ - was aber nicht bedeutet, dass er keine kritischen Worte findet."
+    },
+    {
+     "title": "Statt einfach durchstehen: Motivationstief im Job: Wie finde ich neuen Antrieb?",
+     "url": "https://www.handelsblatt.com/politik/deutschland/statt-einfach-durchstehen-motivationstief-im-job-wie-finde-ich-neuen-antrieb/100269279.html",
+     "date": "2026-11-12T04:34:04.000Z",
+     "text": "Fehlende Wertschätzung, wenig Sinn oder das Gefühl, nichts bewirken zu können: Was auch immer hinter dem Motivationsverlust steckt – so lässt sich der Arbeitsalltag wieder verändern."
+    },
+    {
+     "title": "Märkte Asien: Asiatische Aktien legen nach unruhigem Start leicht zu",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-asiatische-aktien-legen-nach-unruhigem-start-leicht-zu/100269274.html",
+     "date": "2026-11-12T04:33:02.000Z",
+     "text": "Die neuerlichen Turbulenzen bei Nvidia können den asiatischen Börsen nur wenig anhaben. Die wichtigsten Indizes notieren im frühen Handel leicht fester."
+    },
+    {
+     "title": "Saubere Sache?: Po-Dusche statt nur Klopapier? Wozu ein Arzt rät",
+     "url": "https://www.handelsblatt.com/technik/medizin/saubere-sache-po-dusche-statt-nur-klopapier-wozu-ein-arzt-raet/100269275.html",
+     "date": "2026-11-12T04:23:06.000Z",
+     "text": "Für das saubere Gefühl nach dem Toilettengang ist Klopapier nur die zweitbeste Wahl - das gilt für die Haut wie für die Umwelt. Ein Proktologe erklärt, wie man die Reinigung mit Wasser angeht."
+    },
+    {
+     "title": "Kein Drama um den Darm: Jetzt geht's um die Wurst: 6 Fragen zum großen Klogang",
+     "url": "https://www.handelsblatt.com/technik/medizin/kein-drama-um-den-darm-jetzt-gehts-um-die-wurst-6-fragen-zum-grossen-klogang/100269276.html",
+     "date": "2026-11-12T04:23:05.000Z",
+     "text": "Wir alle vollbringen Großes auf der Toilette. Wann sitzt man zu lang? Was hilft, wenn ich dolle pressen muss? Wie sollte das, was in die Kloschüssel plumpst, nicht aussehen? Nachgefragt bei Experten."
+    },
+    {
+     "title": "Made in Berlin: Wo hat der Finanzminister beim Haushalt getrickst?",
+     "url": "https://www.handelsblatt.com/audio/made-in-berlin-podcast/wo-hat-der-finanzminister-beim-haushalt-getrickst/100269272.html",
+     "date": "2026-11-12T04:00:00.000Z",
+     "text": "Diese Woche wird in Berlin der Haushalt 2027 endgültig festgezurrt. Finanzminister Lars Klingbeil musste ein Loch von 34 Milliarden Euro stopfen – und griff dabei tief in die Trickkiste. Ist Klingbeil der Zauberkünstler der deutschen Finanzpolitik, oder ist es großer Erfolg für ihn, die Haushaltslücken geschlossen zu haben?"
+    },
     {
      "title": "Haushaltsberatung: Die Nacht der Milliarden im Bundestag",
      "url": "https://www.handelsblatt.com/politik/deutschland/haushaltsberatung-die-nacht-der-milliarden-im-bundestag/100269269.html",
@@ -792,12 +846,6 @@
      "text": "Jetzt eine Kfz-Versicherung fürs Auto bei einem neuen Anbieter abschließen? Warum sich das oft lohnt und wie der Wechsel sicher gelingt."
     },
     {
-     "title": "Südamerika-Reise: Papst zurück in zweiter Heimat Peru - Mahnung zu Dialog",
-     "url": "https://www.handelsblatt.com/politik/international/suedamerika-reise-papst-zurueck-in-zweiter-heimat-peru-mahnung-zu-dialog/100269261.html",
-     "date": "2026-11-12T02:13:45.000Z",
-     "text": "Auf den Straßen von Lima nehmen Hunderttausende \"ihren\" Papst Leo XIV. in Empfang. Der gebürtige US-Amerikaner zeigt sich gerührt - aber findet auch klare Worte."
-    },
-    {
      "title": "US-Wahlen: Erstmals seit 1982: Demokrat holt Senatssitz in Mississippi",
      "url": "https://www.handelsblatt.com/politik/international/us-wahlen-erstmals-seit-1982-demokrat-holt-senatssitz-in-mississippi/100269248.html",
      "date": "2026-11-12T02:08:06.000Z",
@@ -816,12 +864,6 @@
      "text": "Union und SPD ringen darum, den Bundeshaushalt 2027 unter Dach und Fach zu bringen. Kommen noch weitere Steuerentlastungen in letzter Minute?"
     },
     {
-     "title": "Börse: Nvidia-Aktie fällt nach Berichten über möglichen Chefwechsel",
-     "url": "https://www.handelsblatt.com/politik/deutschland/boerse-nvidia-aktie-faellt-nach-berichten-ueber-moeglichen-chefwechsel/100269255.html",
-     "date": "2026-11-12T00:16:27.000Z",
-     "text": "Die Affäre des Nvidia-Chefs Jensen Huang mit einer möglichen Spionin belastet den Chip-Konzern. Sein Börsenwert ist bereits deutlich gesunken - nach Medienberichten geht es nun weiter nach unten."
-    },
-    {
      "title": "Warnung an USA: Iran droht mit Angriffen auf US-Stützpunkte auch in Europa",
      "url": "https://www.handelsblatt.com/politik/international/warnung-an-usa-iran-droht-mit-angriffen-auf-us-stuetzpunkte-auch-in-europa/100269249.html",
      "date": "2026-11-11T23:41:53.000Z",
@@ -834,10 +876,10 @@
      "text": "US-Soldat in Großbritannien wegen Spionageverdachts für Russland festgenommen +++ Auch Kennedy-Familie klagt gegen Trumps Triumphbogen +++ Sanders stellt sich gegen Wiederwahl von Schumer als Fraktionsführer +++ Der Newsblog."
     },
     {
-     "title": "Nvidia: US-Medien berichten von weiterer Affäre – Nvidia-Verwaltungsrat bereitet offenbar Rauswurf von Jensen Huang vor",
+     "title": "Nvidia: US-Medien berichten von weiterer Affäre – Nvidia-CEO Jensen Huang offenbar vor Ablösung",
      "url": "https://www.handelsblatt.com/technik/ki/nvidia-nvidia-verwaltungsrat-bereitet-offenbar-rauswurf-von-jensen-huang-vor/100269242.html",
      "date": "2026-11-11T22:57:22.000Z",
-     "text": "Laut der New York Times soll Huang eine weitere Affäre gehabt haben. Der Nvidia-Verwaltungsrat könnte schon in Kürze über die Zukunft des CEOs entscheiden. Die Aktie rutscht nachbörslich ab."
+     "text": "Laut der New York Times soll Huang eine weitere Affäre gehabt haben. Der Nvidia-Verwaltungsrat könnte schon in Kürze über die Zukunft des Konzernchefs entscheiden. Die Aktie rutscht nachbörslich ab."
     },
     {
      "title": "Autoritarismus-Studie: Rechtsextremes Weltbild so verbreitet wie seit Jahren nicht",
@@ -880,48 +922,6 @@
      "url": "https://www.handelsblatt.com/unternehmen/industrie/chemieindustrie-basf-nimmt-milliarden-chemieanlage-in-louisiana-in-betrieb/100269226.html",
      "date": "2026-11-11T19:42:50.000Z",
      "text": "BASF baut sein US-Geschäft mit einer Milliardeninvestition aus. Die neue Anlage soll laut dem Konzern die Marktposition stärken und die Produktion näher an die Kunden bringen."
-    },
-    {
-     "title": "Kommentar: Cum-Ex-Anwalt zahlt dem Staat seine Schulden in 1000 Jahren zurück",
-     "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-cum-ex-anwalt-zahlt-dem-staat-seine-schulden-in-1000-jahren-zurueck/100268763.html",
-     "date": "2026-11-11T19:28:44.000Z",
-     "text": "Deutschland hat scharfe Gesetze, um Straftätern ihre Beute abzunehmen. Der Fall des Cum-Ex-Anwalts Hanno Berger zeigt, warum der Staat trotzdem fast leer ausgeht."
-    },
-    {
-     "title": "Cum-ex-Skandal: Die vergebliche Jagd nach Hanno Bergers Millionen",
-     "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/cum-ex-skandal-die-vergebliche-jagd-nach-hanno-bergers-millionen/100267884.html",
-     "date": "2026-11-11T19:27:02.000Z",
-     "text": "Als Steueranwalt verdiente Hanno Berger Millionen, als Angeklagter gab er sich mittellos. Selbst vier Jahre nach dem Cum-Ex-Urteil kommt die Staatsanwaltschaft an sein Geld nicht heran."
-    },
-    {
-     "title": "Großprojekt: BASF nimmt Milliarden-Chemieanlage in Louisiana in Betrieb",
-     "url": "https://www.handelsblatt.com/politik/deutschland/grossprojekt-basf-nimmt-milliarden-chemieanlage-in-louisiana-in-betrieb/100269224.html",
-     "date": "2026-11-11T19:00:04.000Z",
-     "text": "Der Chemiekonzern weiht eine Anlage für eine Milliarde Dollar ein - die größte Einzelinvestition von BASF in den USA. Das Großprojekt soll das Unternehmen in dem Schlüsselmarkt stärken."
-    },
-    {
-     "title": "Versicherer: Allianz erhöht Gewinnprognose – Rekordgewinn nach neun Monaten",
-     "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherung-allianz-erhoeht-gewinnprognose-rekordgewinn-nach-neun-monaten/100266550.html",
-     "date": "2026-11-11T18:58:28.000Z",
-     "text": "Der Versicherer hat in den ersten drei Quartalen mehr als 14 Milliarden Euro Gewinn gemacht. Finanzvorständin Coste-Lepoutre gibt ihre zuletzt vorsichtige Haltung bei der Prognose auf."
-    },
-    {
-     "title": "Arbeitsmarkt: „Keine Grundlage für ernsthaften Kompromiss“: Metalltarifrunde steht vor weiterer Eskalationsstufe",
-     "url": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-metalltarifrunde-steht-vor-weiterer-eskalationsstufe/100269129.html",
-     "date": "2026-11-11T18:25:07.000Z",
-     "text": "Am Donnerstag will der IG-Metall-Vorstand über ganztägige Warnstreiks entscheiden. Die Arbeitgeber haben keinen Zweifel, dass es so kommt – und protestieren schon vorab lautstark."
-    },
-    {
-     "title": "Geldanlage: Nvidia kaufen oder verkaufen? So schätzen Analysten die Aktie ein",
-     "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/nvidia-aktie-kaufen-oder-verkaufen-das-sagen-analysten/100268777.html",
-     "date": "2026-11-11T18:11:23.000Z",
-     "text": "Die Wall Street beschäftigt derzeit vor allem eine Frage: Was wäre Nvidia ohne Jensen Huang an der Spitze wert? Selbst Analysten tun sich schwer damit, darauf eine Antwort zu finden."
-    },
-    {
-     "title": "Verteidigung: Vor dem Hauptbahnhof warten US-Panzer auf die Weiterfahrt: Wie Bremen die Nato-Drehscheibe blockiert",
-     "url": "https://www.handelsblatt.com/unternehmen/dienstleister/verteidigung-wie-bremen-die-milliardenschwere-nato-drehscheibe-blockiert/100266994.html",
-     "date": "2026-11-11T17:56:41.000Z",
-     "text": "Für 1,35 Milliarden Euro werden die Häfen zum wichtigsten Logistik-Hub der Nato ausgebaut. Doch die Zugverbindung droht mit Regionalbahnen sowie Zügen mit Seecontainern und Stahl zu verstopfen."
     }
    ]
   },

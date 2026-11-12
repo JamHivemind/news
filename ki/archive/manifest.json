@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-12",
+      "file": "2026-11-12.html",
+      "headline": "Claude bekommt Tabellen, Whiteboards und Meeting-Hilfe",
+      "count": 15,
+      "sources": 8,
+      "cats": {
+        "Claude & Anthropic": 2,
+        "Business & Funding": 4,
+        "Modelle & Releases": 1,
+        "KI im Alltag & Beruf": 2,
+        "Tools & Agenten": 2,
+        "Regulierung & Politik": 2,
+        "Forschung & Deep Tech": 2
+      },
+      "ents": {
+        "Anthropic": 4,
+        "Google": 4,
+        "Nvidia": 2,
+        "OpenAI": 3,
+        "xAI": 1
+      }
+    },
+    {
       "date": "2026-11-11",
       "file": "2026-11-11.html",
       "headline": "Anthropic nennt Preisspanne und Termin für den Börsengang",

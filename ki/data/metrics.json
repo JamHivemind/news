@@ -1090,41 +1090,41 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 3721,
+   "likes": 4016,
    "downloads": 16693,
    "task": "text-generation"
   },
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 741,
+   "likes": 750,
    "downloads": 142989,
    "task": "text-to-image"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 2154,
+   "likes": 2158,
    "downloads": 28250,
    "task": "image-to-3d"
   },
   {
    "id": "NousResearch/Arete-27B",
-   "likes": 440,
+   "likes": 442,
    "downloads": 4023,
    "task": "text-generation"
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 11529,
+   "likes": 11534,
    "downloads": 2848771,
    "task": "image-to-video"
   },
   {
-   "id": "moonshotai/Kimi-K3.1-Pro",
-   "likes": 1936,
-   "downloads": 33617,
-   "task": "image-text-to-text"
+   "id": "ricursiveAI/Ripple-65B-Preview",
+   "likes": 518,
+   "downloads": 7112,
+   "task": ""
   }
  ],
- "updated": "2026-11-12T03:48:52.287Z",
+ "updated": "2026-11-12T05:18:22.366Z",
  "updatedDay": "2026-11-06"
 }
