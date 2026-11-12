@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-12T02:28:35.065Z",
+ "fetched": "2026-11-12T03:48:24.644Z",
  "hours": 48,
  "sources": [
   {
@@ -28,13 +28,6 @@
      "via": "deutsche-startups.de"
     },
     {
-     "title": "+++ Startup-Deutschland +++ relaxdays +++ Bosch Business Innovations +++ Lisa Gradow +++ Pitchbühel +++ - deutsche-startups.de",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUlsMTF4VV9sTUZIenhGaDJXbWh2dGFVMEJMNEJ4bGtCejlrcW9ObXZMdDZ2WlJqMTZzUDJFazFOZDlvX0w4em5VdVNONE45dHBmN3pLd1phYUhNbDJFMzBpZ2xkdzRqelZhZldVdDVXSWxkd1dGczlhWmZJODlYd0pnVGNiZzU2cXVEWkJVNi1Gci13OG9VdWlKWDVEY3NBTktaTXRPNnRBdjVsUFR4Ykl4Z005NDI0Ml9zbmRzaEwyLVk?oc=5",
-     "date": "2026-11-10T06:57:07.000Z",
-     "text": "+++ Startup-Deutschland +++ relaxdays +++ Bosch Business Innovations +++ Lisa Gradow +++ Pitchbühel +++ deutsche-startups.de",
-     "via": "deutsche-startups.de"
-    },
-    {
      "title": "5 neue Startups: adlessly, Ankerkern, Cloudginny, Wunderli, Flocta - deutsche-startups.de",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPanYtSGZvWkJHckVpUkJBSWNGQ2dLeDI5dk9MSzI4N2lXU09LNEVKU2RTQ3k3RGl4OTRFZkxseGFvWmZ4VXlNQjRjOXF5TGkzRHJQOXcxMnFuWEoxLVhMZmFObzdHdk11UDdMQm1VVW9OQ2cyRUQwaEZLZ0VkQTM2OTBVRUpEMndOTTBqOTJGZEJ2alRVWXZsZmxJVEpUQkNYblU3X1B0dGY2UQ?oc=5",
      "date": "2026-11-10T12:57:10.000Z",
@@ -49,9 +42,16 @@
      "via": "deutsche-startups.de"
     },
     {
+     "title": "+++ Startup-Deutschland +++ relaxdays +++ Bosch Business Innovations +++ Lisa Gradow +++ Pitchbühel +++ - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUlsMTF4VV9sTUZIenhGaDJXbWh2dGFVMEJMNEJ4bGtCejlrcW9ObXZMdDZ2WlJqMTZzUDJFazFOZDlvX0w4em5VdVNONE45dHBmN3pLd1phYUhNbDJFMzBpZ2xkdzRqelZhZldVdDVXSWxkd1dGczlhWmZJODlYd0pnVGNiZzU2cXVEWkJVNi1Gci13OG9VdWlKWDVEY3NBTktaTXRPNnRBdjVsUFR4Ykl4Z005NDI0Ml9zbmRzaEwyLVk?oc=5",
+     "date": "2026-11-10T06:57:07.000Z",
+     "text": "+++ Startup-Deutschland +++ relaxdays +++ Bosch Business Innovations +++ Lisa Gradow +++ Pitchbühel +++ deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    },
+    {
      "title": "täglich – Alle Meldungen der vergangenen Tage - deutsche-startups.de",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lamRxVjNRd3EtTTd1Xzh1Sll0RElWMk1GUVRPQ2RYOGVYWDJZckVzaEE5aWRnMTh6d2JlMzJQWHBHWGRrV0RkTHNVbVNlM0tCNWQzVA?oc=5",
-     "date": "2026-11-12T01:29:57.000Z",
+     "date": "2026-11-12T03:28:06.000Z",
      "text": "täglich – Alle Meldungen der vergangenen Tage deutsche-startups.de",
      "via": "deutsche-startups.de"
     },
@@ -66,9 +66,27 @@
   },
   {
    "name": "Gründerszene",
-   "ok": false,
-   "error": "HTTP 403",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "Tiktok als Umsatztreiber – geht die Rechnung für Startups auf?",
+     "url": "https://www.businessinsider.de/gruenderszene/tiktok-als-umsatztreiber-geht-die-rechnung-fuer-startups-auf/",
+     "date": "2026-11-11T15:27:58.000Z",
+     "text": "Tiktok wird für Startups zum Vertriebskanal – doch wie profitabel sind Creator-Provisionen, virale Videos und Tiktok Shop wirklich?"
+    },
+    {
+     "title": "Berliner KI-Startup Parloa baut OpenAI-Partnerschaft aus – und sichert sich besonderen Vorteil",
+     "url": "https://www.businessinsider.de/gruenderszene/parloa-baut-openai-partnerschaft-aus-und-sichert-sich-besonderen-vorteil/",
+     "date": "2026-11-11T08:22:53.000Z",
+     "text": "Früher Zugang zu neuen KI-Modellen, gemeinsame Großkunden und ein neuer Vertriebskanal: Parloa vertieft seine Partnerschaft mit OpenAI."
+    },
+    {
+     "title": "Was unser Gehirn wirklich braucht, um Höchstleistungen zu bringen",
+     "url": "https://www.businessinsider.de/gruenderszene/produktivitaet-was-unser-gehirn-fuer-echte-spitzenleistungen-braucht/",
+     "date": "2026-11-10T07:23:37.000Z",
+     "text": "Startups wollen High-Performer im Team. Neurowissenschaftler Frederik Hümmeke erklärt, was Menschen wirklich leistungsfähig macht."
+    }
+   ]
   },
   {
    "name": "EU-Startups",

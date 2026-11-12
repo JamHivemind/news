@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-12T02:28:49.884Z",
+ "fetched": "2026-11-12T03:48:40.116Z",
  "hours": 48,
  "sources": [
   {
@@ -253,16 +253,16 @@
      "text": "Die Affäre des Nvidia-Chefs Jensen Huang mit einer möglichen Spionin belastet den Chiphersteller. Dessen Börsenwert sackt ab, der Verlust beträgt inzwischen rund eine Billion Dollar."
     },
     {
-     "title": "Heizöl: Was tun, wenn sich Ihr Tank im Keller leert?",
-     "url": "https://www.spiegel.de/wirtschaft/service/heizoel-was-tun-wenn-sich-ihr-tank-im-keller-leert-a-1c6d30c3-0b43-403c-9e94-32e4b86c7245#ref=rss",
-     "date": "2026-11-11T04:30:00.000Z",
-     "text": "Viele Haushalte mit Ölheizung haben zu lange auf fallende Preise gewartet. Nun leeren sich die Tanks bedrohlich. So senken Sie Kosten und Verbrauch auf die Schnelle, ohne zu frieren."
-    },
-    {
      "title": "Heizen mit Erdgas: Vielen Haushalten droht der Gaspreisschock – wie Sie jetzt reagieren sollten",
      "url": "https://www.spiegel.de/wirtschaft/service/heizen-mit-erdgas-vielen-haushalten-droht-der-gaspreisschock-wie-sie-jetzt-reagieren-sollten-a-109b64ef-6e31-4299-b89d-18eedc314783#ref=rss",
      "date": "2026-11-11T04:30:00.000Z",
      "text": "Sie denken, Sprit ist teuer? Der wahre Preissprung kommt erst noch, vor allem wenn Sie mit Gas heizen. Aber Sie sind nicht wehrlos."
+    },
+    {
+     "title": "Heizöl: Was tun, wenn sich Ihr Tank im Keller leert?",
+     "url": "https://www.spiegel.de/wirtschaft/service/heizoel-was-tun-wenn-sich-ihr-tank-im-keller-leert-a-1c6d30c3-0b43-403c-9e94-32e4b86c7245#ref=rss",
+     "date": "2026-11-11T04:30:00.000Z",
+     "text": "Viele Haushalte mit Ölheizung haben zu lange auf fallende Preise gewartet. Nun leeren sich die Tanks bedrohlich. So senken Sie Kosten und Verbrauch auf die Schnelle, ohne zu frieren."
     },
     {
      "title": "Maschinenbau-Gipfel: Katherina Reiche kritisiert eigene Regierung",
@@ -285,7 +285,7 @@
     {
      "title": "Jensen Huang: Nvidia bereitet offenbar Trennung von Huang vor",
      "url": "https://www.faz.net/aktuell/wirtschaft/zweite-affaere-nvidia-bereitet-offenbar-trennung-von-jensen-huang-vor-201674834.html",
-     "date": "2026-11-12T00:39:31.000Z",
+     "date": "2026-11-12T02:39:34.000Z",
      "text": "Einem Bericht zufolge will der Nvidia-Verwaltungsrat über die Zukunft des Vorstandschefs beraten. Derweil wurde noch eine weitere Affäre publik."
     },
     {
@@ -451,6 +451,54 @@
    "ok": true,
    "items": [
     {
+     "title": "Haushaltsberatung: Die Nacht der Milliarden im Bundestag",
+     "url": "https://www.handelsblatt.com/politik/deutschland/haushaltsberatung-die-nacht-der-milliarden-im-bundestag/100269269.html",
+     "date": "2026-11-12T03:30:06.000Z",
+     "text": "Noch immer sind nicht alle Wünsche finanziert. Der Haushaltsausschuss hat noch zu tun, bevor der Etat für 2027 steht. Die Sitzung dürfte bis in die Nacht gehen."
+    },
+    {
+     "title": "Sicherheit: IT-Panne bei Bundeswehr größer als bekannt: Verteidigungsministerium lässt Vorfall untersuchen",
+     "url": "https://www.handelsblatt.com/politik/deutschland/bundeswehr-verteidigungsministerium-beauftragt-untersuchung-zu-it-panne/100268835.html",
+     "date": "2026-11-12T03:09:19.000Z",
+     "text": "Angeblich sollen nur 900 Reservisten von einer IT-Panne betroffen gewesen sein. Aus den Landeskommandos gibt es hingegen dramatische Berichte. Nun nimmt der Druck auf die Verantwortlichen zu."
+    },
+    {
+     "title": "E-Bikes: „Es gab zu viel Gier in der Branche“: Wie Rotwild künftig 10.000 Premium-E-Bikes pro Jahr verkaufen will",
+     "url": "https://www.handelsblatt.com/unternehmen/industrie/e-bikes-es-gab-zu-viel-gier-in-der-branche/100264565.html",
+     "date": "2026-11-12T03:07:29.000Z",
+     "text": "Die Edel-Manufaktur für E-Bikes wurde spät von der Krise im Fahrradmarkt erwischt. Warum das nicht durchweg schlecht ist, erklärt Rotwild-Gründer Peter Schlitt im Interview."
+    },
+    {
+     "title": "Mobilitätswende: Der Fahrer wird zum Passagier – Jobrad-Gründer lässt das E-Bike autonom fahren",
+     "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/fahrrad-jobrad-gruender-laesst-das-e-bike-autonom-fahren/100266914.html",
+     "date": "2026-11-12T03:05:53.000Z",
+     "text": "Ulrich Prediger entwickelt mit seinem Start-up Veluto ein vollverkleidetes Roboter-Zweirad. Welches Potenzial hat seine Erfindung?"
+    },
+    {
+     "title": "Sanierungsstau: Sanierungsstau beim Pünktlichkeitssieger: Schweizer Bahn fürchtet „deutsche Verhältnisse“",
+     "url": "https://www.handelsblatt.com/unternehmen/dienstleister/sanierungsstau-schweizer-bahn-fuerchtet-deutsche-verhaeltnisse/100267678.html",
+     "date": "2026-11-12T03:03:12.000Z",
+     "text": "In der Schweiz verschleißen Gleise, Stellwerke und Anlagen ebenso rasant wie in Deutschland und die Reparatur hinkt hinterher. Der Sanierungsstau beläuft sich auf zehn Milliarden Euro."
+    },
+    {
+     "title": "BMW & Skoda: Nach Angriffen in der Ukraine – Autoindustrie fehlen erneut Kabelbäume",
+     "url": "https://www.handelsblatt.com/unternehmen/industrie/bmw-skoda-nach-angriffen-in-der-ukraine-autoindustrie-fehlen-kabelbaeume/100268739.html",
+     "date": "2026-11-12T02:59:38.000Z",
+     "text": "Russische Angriffe treffen Werke eines deutschen Zulieferers und unterbrechen die Lieferkette, BMW muss Schichten ausfallen lassen. Auch Ausweichstandorte scheinen nur bedingt sicher."
+    },
+    {
+     "title": "Kilometer, Zahlweise und Co.: Kfz-Versicherung: So lässt sich auch ohne Wechsel sparen",
+     "url": "https://www.handelsblatt.com/mobilitaet/motor/kilometer-zahlweise-und-co-kfz-versicherung-so-laesst-sich-auch-ohne-wechsel-sparen/100269264.html",
+     "date": "2026-11-12T02:33:05.000Z",
+     "text": "Die Wechselsaison der Kfz-Versicherungen läuft auf Hochtouren. Wer wechselt, spart, lautet oft die Devise. Doch auch wer das nicht will, kann die bestehende Police unter Umständen günstiger machen."
+    },
+    {
+     "title": "So gehen Sie's an: Kfz-Police: Richtig vergleichen, wechseln und sicher sparen",
+     "url": "https://www.handelsblatt.com/mobilitaet/motor/so-gehen-sies-an-kfz-police-richtig-vergleichen-wechseln-und-sicher-sparen/100269263.html",
+     "date": "2026-11-12T02:33:04.000Z",
+     "text": "Jetzt eine Kfz-Versicherung fürs Auto bei einem neuen Anbieter abschließen? Warum sich das oft lohnt und wie der Wechsel sicher gelingt."
+    },
+    {
      "title": "Südamerika-Reise: Papst zurück in zweiter Heimat Peru - Mahnung zu Dialog",
      "url": "https://www.handelsblatt.com/politik/international/suedamerika-reise-papst-zurueck-in-zweiter-heimat-peru-mahnung-zu-dialog/100269261.html",
      "date": "2026-11-12T02:13:45.000Z",
@@ -466,7 +514,7 @@
      "title": "+++ Ukraine-Krieg +++: Russischer Botschafter in den USA gestorben",
      "url": "https://www.handelsblatt.com/politik/international/ukraine-russischer-botschafter-in-den-usa-gestorben/27982126.html",
      "date": "2026-11-12T00:53:00.000Z",
-     "text": "Medien: Kushner und Witkoff treffen Putin am Donnerstag +++ Gespräche in Abu Dhabi beendet +++ Austausch von Kriegsgefangenen vereinbart +++ Der Newsblog."
+     "text": "Russland und die Ukraine greifen gegenseitig Hauptstädte an +++ Medien: Kushner und Witkoff treffen Putin am Donnerstag +++ Gespräche in Abu Dhabi beendet +++ Der Newsblog."
     },
     {
      "title": "Finanzen: Koalition findet Kompromisse für Etat – Stromsteuer ungelöst",
@@ -581,54 +629,6 @@
      "url": "https://www.handelsblatt.com/unternehmen/dienstleister/verteidigung-wie-bremen-die-milliardenschwere-nato-drehscheibe-blockiert/100266994.html",
      "date": "2026-11-11T17:56:41.000Z",
      "text": "Für 1,35 Milliarden Euro werden die Häfen zum wichtigsten Logistik-Hub der Nato ausgebaut. Doch die Zugverbindung droht mit Regionalbahnen sowie Zügen mit Seecontainern und Stahl zu verstopfen."
-    },
-    {
-     "title": "Wall Street: KI-Euphorie ist zurück – Tech-Aktien schließen deutlich im Plus",
-     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ki-euphorie-ist-zurueck-tech-aktien-schliessen-deutlich-im-plus/100269138.html",
-     "date": "2026-11-11T17:56:11.000Z",
-     "text": "Die hohe Inflation drückt die Stimmung nicht allzu lange: Der offenbar hohe Andrang auf den Börsengang von Anthropic sowie starke Quartalszahlen motivieren Anleger zum Kauf von Tech-Aktien."
-    },
-    {
-     "title": "Deep Read: Das Wunder von Polen: Hat der lange Boom seinen Höhepunkt erreicht?",
-     "url": "https://www.handelsblatt.com/politik/international/polen-hat-polens-boom-seinen-hoehepunkt-ueberschritten/100264328.html",
-     "date": "2026-11-11T17:48:43.000Z",
-     "text": "Die Anzeichen mehren sich, dass das Turbowachstum in Polen an sein Ende kommt. Die nächste Regierung wird sparen – und eine Einwanderungsstrategie entwickeln müssen."
-    },
-    {
-     "title": "Asia Techonomics: Entscheidet Elon Musk in Myanmar über Leben und Tod?",
-     "url": "https://www.handelsblatt.com/meinung/kolumnen/asia-techonomics-entscheidet-elon-musk-in-myanmar-ueber-leben-und-tod/100268624.html",
-     "date": "2026-11-11T17:24:57.000Z",
-     "text": "Nicht nur im Ukrainekrieg ist Starlink unverzichtbar: In Myanmar warnen Helfer über das Satelliteninternet vor Luftangriffen. Doch immer mehr Nutzer verlieren den Zugang. Es ist Zeit für Wettbewerb."
-    },
-    {
-     "title": "Märkte Insight: Wer hat Angst vor den Über-CEOs?",
-     "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/nvidia-skandal-wer-hat-angst-vor-den-ueber-ceos/100268401.html",
-     "date": "2026-11-11T17:15:19.000Z",
-     "text": "Die Affäre rund um das Liebesleben von Nvidia-Chef Jensen Huang beweist, dass übermächtige Vorstandschefs eine eigene Risikoklasse für Technologie-Aktien darstellen, meint Michael Maisch."
-    },
-    {
-     "title": "Bundesregierung: Kritik an Schweitzers Reformplänen für Arbeitsmarkt",
-     "url": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-kritik-an-schweitzers-reformplaenen-fuer-arbeitsmarkt/100269094.html",
-     "date": "2026-11-11T17:14:27.000Z",
-     "text": "Der neue Arbeitsminister will das Arbeitsrecht reformieren. Flexibilisierungen sollen den Unternehmen helfen. Die Reaktionen von Arbeitgebern und Gewerkschaften lassen nicht lange auf sich warten."
-    },
-    {
-     "title": "Kommentar: Aufwachen, bevor der Albtraum Schuldenkrise zur Realität wird",
-     "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-aufwachen-bevor-der-albtraum-schuldenkrise-zur-realitaet-wird/100268527.html",
-     "date": "2026-11-11T17:14:23.000Z",
-     "text": "Die Wirtschaftsweisen zeigen eindrücklich, wie massiv das Problem mit Deutschlands Staatsschulden wird. Diese Debatte muss jetzt geführt werden – nicht die um die Mehrwertsteuer."
-    },
-    {
-     "title": "Video: US‑Börsenexperte Koch: Gleich drei positive Nachrichten im KI‑Sektor",
-     "url": "https://www.handelsblatt.com/video/finanzen/usboersenexperte-koch-gleich-drei-positive-nachrichten-im-kisektor/100269207.html",
-     "date": "2026-11-11T17:03:48.000Z",
-     "text": "Der S&P 500 und die Technologiebörse Nasdaq profitieren laut Markus Koch „von einem starken Comeback der KI‑Werte“. Der Börsengang von Anthropic, die Quartalszahlen von OpenAI und eine Aussage beim Investorengespräch von Coreweave seien die Treiber."
-    },
-    {
-     "title": "Ukraine-Gespräche: Moskau und Kiew vereinbaren Austausch von mehr als 1000 Gefangenen",
-     "url": "https://www.handelsblatt.com/video/politik/ukraine-gespraeche-moskau-und-kiew-vereinbaren-austausch-von-mehr-als-1000-gefangenen/100269181.html",
-     "date": "2026-11-11T17:03:45.000Z",
-     "text": "Der US-Gesandte Kushner hat die beendeten Ukraine-Gespräche in Abu Dhabi als „ersten guten Schritt“ bezeichnet. Weitere diplomatische Treffen sind geplant. Laut der russischen Nachrichtenagentur Tass sollen zudem Gefangene ausgetauscht werden."
     }
    ]
   },
@@ -716,18 +716,18 @@
    "ok": true,
    "items": [
     {
-     "title": "Konjunktur Deutschland: Sachverständigenrat warnt vor Finanzlücken – und fordert Steuererhöhungen - WirtschaftsWoche",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXQySVlXV29oa0g1bUx3R0h0ZmNUQTVoWXp4Rzc2Z0tjd2hCOEQwbHpTSjlUQlFRT2dJLTdnYm1CTXNxM1E2UW1sRjliMHI5TnZJQUNMck0zV1ZaLVJzZ0lkbWZuTFVXaERBVjByZzZFQnpnODNBdlp4bi1qa2Q4UkpCMm9hTHBKVEh5SGtEaVItbUdESjYtcDFPVGpLV0VGQjluTjhvdmhKZENUcF90cmFSSTY5QXR6M3I1Q0dsOU0xakxtTXhvRk5ISzMzaU9oNWlDeWNKNXZMcnJTMGdHLWJMSm9KUQ?oc=5",
-     "date": "2026-11-11T13:45:00.000Z",
-     "text": "Konjunktur Deutschland: Sachverständigenrat warnt vor Finanzlücken – und fordert Steuererhöhungen WirtschaftsWoche",
-     "via": "WirtschaftsWoche"
-    },
-    {
      "title": "Jahresgutachten: Wirtschaftsweise erhöhen Wachstumsprognose für 2026 deutlich - DIE ZEIT",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVlCb1VudC1fMFZwZjIzYmQxb0s0UmNEUkphZ2ltOGRKYXhHUzF3aXZTRTl1NV9iUm5HN1BseFJMLVdOcEdoZnZQZkd2aWpXSUZmS1dGYU5PSXJpNWt3Tk80UHNJUDR6U1RTckkzSjVJT0tKODdTZkwycUpTRHo4U3R4ZHA3MDY2eU9iT0pqb0MyQ2xWSnNxRWplSzEwR3RtRmhibVRzMjBuaWtqdl93dQ?oc=5",
      "date": "2026-11-11T13:31:34.000Z",
      "text": "Jahresgutachten: Wirtschaftsweise erhöhen Wachstumsprognose für 2026 deutlich DIE ZEIT",
      "via": "DIE ZEIT"
+    },
+    {
+     "title": "Konjunktur Deutschland: Sachverständigenrat warnt vor Finanzlücken – und fordert Steuererhöhungen - WirtschaftsWoche",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXQySVlXV29oa0g1bUx3R0h0ZmNUQTVoWXp4Rzc2Z0tjd2hCOEQwbHpTSjlUQlFRT2dJLTdnYm1CTXNxM1E2UW1sRjliMHI5TnZJQUNMck0zV1ZaLVJzZ0lkbWZuTFVXaERBVjByZzZFQnpnODNBdlp4bi1qa2Q4UkpCMm9hTHBKVEh5SGtEaVItbUdESjYtcDFPVGpLV0VGQjluTjhvdmhKZENUcF90cmFSSTY5QXR6M3I1Q0dsOU0xakxtTXhvRk5ISzMzaU9oNWlDeWNKNXZMcnJTMGdHLWJMSm9KUQ?oc=5",
+     "date": "2026-11-11T13:45:00.000Z",
+     "text": "Konjunktur Deutschland: Sachverständigenrat warnt vor Finanzlücken – und fordert Steuererhöhungen WirtschaftsWoche",
+     "via": "WirtschaftsWoche"
     },
     {
      "title": "Wirtschaft: Endlich Wachstum in Deutschland, aber die Schulden erdrücken uns - BILD",
@@ -786,6 +786,13 @@
      "via": "n-tv.de"
     },
     {
+     "title": "„Blick in Abgrund“: Wirtschaftsweise warnen vor Schulden - Onetz",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONldUMXBXUTlXQWNyMEFzUjRwZVZNWUsyTV9ISjZlcU1waGF4QWlZamZkR0NPajZXQm5JeE5SMXQtQlpieFFoV29rQWhZWEpmQzE5b215TGJFai1VTXpwNUpqWm5rSUFWckQ3TllyUzcwcW1ROHBUazZUS1lQQWJBbmE4TnZnZ2o5RVJ4RkVDdXJ2U2Y0eldoLQ?oc=5",
+     "date": "2026-11-11T15:41:00.000Z",
+     "text": "„Blick in Abgrund“: Wirtschaftsweise warnen vor Schulden Onetz",
+     "via": "Onetz"
+    },
+    {
      "title": "Was bringt eine Gasreserve? Und wer zahlt sie? - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzR4X0J2TmkxWXlBV0tPMElHWmJpVzhDTkw4QkdZZjhmWnllcVZfMUpHazFvRGt5a1FDOTZ3dS1DZ2J4OS1GZElmMUlHNVNwSWlITnRkcmRZY0FOdHZ2bnQ0Z2F5Zk5SblpiRzNSajYxcmQ5V0FFY3AzNmFFWjF5QjNfYVlWRngwSVl3Z2U0dG51OU5mWU1MMUZNZFN3SzdNM3I1WXlEUEZJa2x4ZXhFZ3VqckRYdGllWGplag?oc=5",
      "date": "2026-11-11T15:53:00.000Z",
@@ -805,13 +812,6 @@
      "date": "2026-11-11T08:27:00.000Z",
      "text": "Deutsche Konjunktur: Tankrabatt drückt Inflation unter die Drei-Prozent-Marke WirtschaftsWoche",
      "via": "WirtschaftsWoche"
-    },
-    {
-     "title": "\"Blick in Abgrund\": Wirtschaftsweise warnen vor Schulden - inSüdthüringen",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSUhYVHI0bnlFVmlhdXptb2xwQTctWjhWeU1EcGI2VGVPNFZXdklwa05JTEoxUkl1UE9TSkFOR2dGeUo1TXllQlJuWURmUjM4ZVN0aVhkRTN2RzBEN2VYQzlnSTM5VUJuN2hxcUJzZXNBWVN4Q2hWT2RlQndSTzNPMGZJN05kbXpWN3F0Y2lPb1dVZEhDZG8xMHdmWkl5MmRtcmU5TXh3bnNUSFYzWkNaUlpkMFdBMlU2VFBtR3pueDFMU2RHWXhCelc0LW10WWt5dUtFWnBmVHJHaWpFSXNDWS1n?oc=5",
-     "date": "2026-11-11T13:35:49.000Z",
-     "text": "\"Blick in Abgrund\": Wirtschaftsweise warnen vor Schulden inSüdthüringen",
-     "via": "inSüdthüringen"
     },
     {
      "title": "Deutschland weltweit auf Platz zwei bei Handel mit Klimagütern - Spiegel",
@@ -835,6 +835,13 @@
      "via": "FAZ"
     },
     {
+     "title": "4,1 Milliarden: Extremer Gewinnsprung bei Siemens Energy - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcTNyNlcwY3ZZQ1VwNldXLTE5eEVlSXNULU5QcmlENHVrbkZzcmExYmJycHFmaXRvTTF6VWhPRXpwQzh3V2wtSVVJMTR0OGpBNjdoUjdIejdsZHhMSjY0ZHBPUDVBRVRXVnBLQmM0YUtFY19ENWpPOElKaEFCYnk2SmNKLUxSSmRwSVk1UVNkS1ZoNFVmZ2hDWDB3Y1NEaFkwX1VJalBuWXkyTTlSQjFEZWhCOHgwZXAwWEhjWmhYQm9WcmxPWDBBcGN3?oc=5",
+     "date": "2026-11-11T09:50:00.000Z",
+     "text": "4,1 Milliarden: Extremer Gewinnsprung bei Siemens Energy Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
      "title": "Eingewanderte Menschen häufiger erwerbstätig als früher - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQclg3dkJPY0tqbk4wQUpTa2VUWEVlemltM1ZEVjRGOGhlSHlzek1IUGg1UlNQTTN6VXFuQUN5UVUtNkJWdk9XWlZVMkZ6LXhiT0JwQjBZX0lEdzFBUmY3eGp5dG9nMkpSVG1RaVpCcEE2NHpwLVYzY0Zaa280NG1DQjV5RGFJYTYyaTFXYUpHRktYeHRVMHhpRXhiRUFfempyMkRzZVc4ZWt6RFZUZUwtTW5icWp3QVMyOUlZZUJKOGpPMS00bmpmWEpMamx6Wjg?oc=5",
      "date": "2026-11-11T13:01:41.000Z",
@@ -847,13 +854,6 @@
      "date": "2026-11-11T12:10:00.000Z",
      "text": "Südländer werfen Reiche „fehlgeleitete Industriepolitik“ vor Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
-    },
-    {
-     "title": "Investitionen - Chinesische Firmen halten an Deutschland fest - Wirtschaft - SZ.de - SZ.de",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSEJuM1VNSWpDbWFRVERpMUFyazlsYld3LWNGNjFVMDJOLWw4N1Z2ejZRVWdxS3RMTFIybkhSclRfVGN5LWlzS0hsazZzVVUwOEdtN01RRU9YQ2xTaEdUNFRmZ0F3TVZWU241cXFXSFpKMDFrUUpCOExRcDZYMFNkM1Nfd2toRnQ2c2JIdy1OWW1MM0JabjUwLUhXSHEtc2JSR0ltTml0bnZUVzQyeVlFaExTTTZXajJFX2plWmZVelZacmU5WG82b094UWJHWXRfbE52WVoxNUdoR01BR2N1Zm1n?oc=5",
-     "date": "2026-11-11T03:01:04.000Z",
-     "text": "Investitionen - Chinesische Firmen halten an Deutschland fest - Wirtschaft - SZ.de SZ.de",
-     "via": "SZ.de"
     },
     {
      "title": "VW stoppt Modernisierungsprojekt für Produktion in Wolfsburg - Allgemeine Zeitung",
@@ -870,24 +870,17 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "News, Wirtschaft: Grimm fürchtet drastisch steigende Sozialbeiträge - tixio - Nachrichten",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbU92alQ0VWxSQUFKM3J2Q2NSZ3dzaGh6WGhsYUh4NFFqSUY4aUpfZmtyRkVvWERSVG9CMzQ3VC1kR0tRU0hac1VxVGE5Q3NoSTh6Mm9PWmRPYThQN2F6YnNpX1o5VDVIOUJHY3g2VlFQV2VzcGpmZDliSzJqVm9leUpVdjhPMUF6NzZkbEZB?oc=5",
-     "date": "2026-11-11T23:49:09.000Z",
-     "text": "News, Wirtschaft: Grimm fürchtet drastisch steigende Sozialbeiträge tixio - Nachrichten",
-     "via": "tixio - Nachrichten"
+     "title": "Investitionen - Chinesische Firmen halten an Deutschland fest - Wirtschaft - SZ.de - SZ.de",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSEJuM1VNSWpDbWFRVERpMUFyazlsYld3LWNGNjFVMDJOLWw4N1Z2ejZRVWdxS3RMTFIybkhSclRfVGN5LWlzS0hsazZzVVUwOEdtN01RRU9YQ2xTaEdUNFRmZ0F3TVZWU241cXFXSFpKMDFrUUpCOExRcDZYMFNkM1Nfd2toRnQ2c2JIdy1OWW1MM0JabjUwLUhXSHEtc2JSR0ltTml0bnZUVzQyeVlFaExTTTZXajJFX2plWmZVelZacmU5WG82b094UWJHWXRfbE52WVoxNUdoR01BR2N1Zm1n?oc=5",
+     "date": "2026-11-11T03:01:04.000Z",
+     "text": "Investitionen - Chinesische Firmen halten an Deutschland fest - Wirtschaft - SZ.de SZ.de",
+     "via": "SZ.de"
     },
     {
      "title": "Paypal-Vorgaben: Kartellamt sieht Wettbewerb gefährdet - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQckpSQ2ZwbW5kTENRQW51cGFwTUUwX05PV282ajRWallKeDRHdVZFRTFwTzNRWkRWUXI2dkhIOGpoOWN5TEJyV3dpU3MwSlJobWY0YjhlZFo2bDMwbnRpQ3Y4SWNNRzZpSGJYM0J3SzRQdy1nWmVhalRyU19lM1V6ZUdtOGhSajdhcURHVGZnTFFTNF9wTjU1RDB6RW1KYXlwNHdRYWJqME1Mck1sZ200V19JYUxYZzRzVGg2MGN0ZGgtdWVLQVZDRzR3?oc=5",
      "date": "2026-11-11T11:08:00.000Z",
      "text": "Paypal-Vorgaben: Kartellamt sieht Wettbewerb gefährdet Allgemeine Zeitung",
-     "via": "Allgemeine Zeitung"
-    },
-    {
-     "title": "4,1 Milliarden: Extremer Gewinnsprung bei Siemens Energy - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcTNyNlcwY3ZZQ1VwNldXLTE5eEVlSXNULU5QcmlENHVrbkZzcmExYmJycHFmaXRvTTF6VWhPRXpwQzh3V2wtSVVJMTR0OGpBNjdoUjdIejdsZHhMSjY0ZHBPUDVBRVRXVnBLQmM0YUtFY19ENWpPOElKaEFCYnk2SmNKLUxSSmRwSVk1UVNkS1ZoNFVmZ2hDWDB3Y1NEaFkwX1VJalBuWXkyTTlSQjFEZWhCOHgwZXAwWEhjWmhYQm9WcmxPWDBBcGN3?oc=5",
-     "date": "2026-11-11T09:50:00.000Z",
-     "text": "4,1 Milliarden: Extremer Gewinnsprung bei Siemens Energy Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
@@ -912,17 +905,24 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "«Correctiv»: Deutschland verliert stark an Kaufkraft - Wirtschaft weltweit - Pforzheimer-Zeitung - PZ-news.de",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdDJBWXNmU3pRS2tkU3NMUkJJamdlenVEWGQ1ZlNpOWM2LXdJNmk0dGZkelZNUTl6VXljLU5BTGQ5a1RScWFqSVB1SWl0b09CM2lzRXAwNmdXcEc3QzBSOUhiWmRRaVZKSS1HTG1zamkxUnFWMXJ6emZyaFk4dFVJYWJJbmo2X3hQdzN4NHhwS2RUMVRpWkdDOE1rdVhrZThCRWVRR3FCOE9zQ3J6Nm84ZW1OVl9EQVN6aUc1eXZmckFJWEJHd0VoY2hKTQ?oc=5",
-     "date": "2026-11-10T03:03:00.000Z",
-     "text": "«Correctiv»: Deutschland verliert stark an Kaufkraft - Wirtschaft weltweit - Pforzheimer-Zeitung PZ-news.de",
-     "via": "PZ-news.de"
-    },
-    {
      "title": "SPD-Fraktion will Spritpreisdeckel noch vor Weihnachten - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFVwNUR0TVhyNk45UjFFMjQtOG5ydlhVbXc5bFp1ci02QndldUl3alN0dGtONGVaclk1SXVWaWZmWHUyV1FUdmxLcExlbkx4anFUcnVuYmtOSVJ0aURKRDdWYzJFSVhGS2RHS2FtZzFmWFUwYldnYlJGdlljbHZZejZfYUw0dFB6Rm9wemh3Yjk1NWZVR2JoSHR0bTFCN1B1VGFVRWtSR05qWUg1WHBwUm5EZjhUSHg4UlhVOGJ1WXJrdkptQ05TcmZJRQ?oc=5",
      "date": "2026-11-10T14:32:00.000Z",
      "text": "SPD-Fraktion will Spritpreisdeckel noch vor Weihnachten Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Gewinnsprung bei Infineon - Milliardengeschäft Datencenter - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONjZLbzdQNXBVYUQxNXdhT0NheUtGeFNHcU02My1SdG1CMkI3eW5lSE1TWG84QXk4VkRwQ0Y5UlQwbTNtWGlSS0k4OEQtTkN1MXkxNVY3UXZyaW9TemVCdW1HWUpQd1J1WUdtcDFuX19QNHBtZEVUa0JFdzVvbjdWZXUtTzVmMjBxamxaYmVjdFo2OGViNFBhcnRoenNDelF1NEFGZ1p4OFQ4b1N4SDhYVk5LaW1yMTJBU004bjNlenQ1SlVGWUJkX09qbVlaZw?oc=5",
+     "date": "2026-11-10T08:40:00.000Z",
+     "text": "Gewinnsprung bei Infineon - Milliardengeschäft Datencenter Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Nach Nvidia-Fall: Verfassungsschutz warnt Führungskräfte vor „Honigfallen“ - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFVoMkRidTVlQUItRVFWeXQ0aDR6NkhOdGk5RUpQMTk5X1o3YVQ2SzU2U1JFaG9jSzlpVGdDQUdNcnJ4MFJxSk9xcHdUMnd6cUhRQ3A5WHduMEdSMkN2UzNORHdHWFdOLWFZVlRVUjFNbXhyTjA0aTBuNC1NV1BrdEhmaV9rR1pBZTJpelBUSFNUT2lQODBUN1JHY2M5aUYwY0FPY3N5Z0xDMUlQMmlHMW5HWVJYUQ?oc=5",
+     "date": "2026-11-10T19:00:00.000Z",
+     "text": "Nach Nvidia-Fall: Verfassungsschutz warnt Führungskräfte vor „Honigfallen“ Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     }
    ]
@@ -932,6 +932,12 @@
    "focus": "Nur Wirtschaft, Arbeitsmarkt, Energie- und Strompreise, Haushalt. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
    "ok": true,
    "items": [
+    {
+     "title": "Sexualstraftaten in Stuttgart: Mehr als die Hälfte der Tatverdächtigen sind Ausländer",
+     "url": "https://nius.de/kriminalitaet/sexualstraftaten-stuttgart-auslaendische-tatverdaechtige",
+     "date": "2026-11-12T03:22:51.000Z",
+     "text": "Neue Zahlen des baden-württembergischen Innenministeriums zeigen: Die Zahl der Vergewaltigungen im öffentlichen Raum in Stuttgart ist 2025 um 50 Prozent gestiegen. Mehr als die Hälfte der Tatverdächtigen bei Sexualstraftaten waren Nichtdeutsche. Die Zahl der von Sexualdelikten betroffenen Kinder unter 13 Jahren nahm sogar um ganze 60 Prozent zu. Die Zahlen gehen aus einer Antwort auf eine Kleine Anfrage der AfD-Abgeordneten Chris Hegel und Christian Köhler hervor."
+    },
     {
      "title": "CDU treibt grüne Machtergreifung voran",
      "url": "https://nius.de/guten-morgen-deutschland/cdu-treibt-gruene-machtergreifung-voran",
@@ -1105,12 +1111,6 @@
      "url": "https://nius.de/politik/ilse-aigner-uebergangspraesidentin",
      "date": "2026-11-11T12:10:14.000Z",
      "text": "Als Kandidatin für das Amt des Bundespräsidenten hat Ilse Aigner einen Fehlstart hingelegt. Vieles spricht dafür, dass sie in der neuen Realität Deutschlands (noch) nicht angekommen ist."
-    },
-    {
-     "title": "Steuerpläne für 2027: Zigaretten, Alkohol und Einkommen sollen höher belastet werden",
-     "url": "https://nius.de/politik/steuerplaene-fuer-2027-zigaretten-alkohol-und-einkommen-sollen-hoeher-belastet-werden",
-     "date": "2026-11-11T12:03:58.000Z",
-     "text": "Die schwarz-rote Bundesregierung plant für das kommende Jahr zahlreiche Steuererhöhungen. Neben Zigaretten und Spirituosen könnten auch zuckerhaltige Getränke deutlich teurer werden. Zudem sollen Spitzenverdiener stärker belastet werden."
     }
    ]
   }
