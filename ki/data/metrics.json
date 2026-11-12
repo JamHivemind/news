@@ -295,7 +295,7 @@
    ],
    [
     "2026-11-12",
-    164.9
+    165.43
    ]
   ],
   "MSFT": [
@@ -561,7 +561,7 @@
    ],
    [
     "2026-11-12",
-    528.18
+    526.93
    ]
   ],
   "GOOGL": [
@@ -827,7 +827,7 @@
    ],
    [
     "2026-11-12",
-    300.73
+    301.84
    ]
   ],
   "META": [
@@ -1093,7 +1093,7 @@
    ],
    [
     "2026-11-12",
-    625.76
+    625.34
    ]
   ]
  },
@@ -1106,41 +1106,41 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 4652,
+   "likes": 4664,
    "downloads": 18933,
    "task": "text-generation"
   },
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 835,
+   "likes": 838,
    "downloads": 306718,
    "task": "text-to-image"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 2207,
+   "likes": 2212,
    "downloads": 29904,
    "task": "image-to-3d"
   },
   {
    "id": "NousResearch/Arete-27B",
-   "likes": 467,
+   "likes": 470,
    "downloads": 4669,
    "task": "text-generation"
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 11591,
+   "likes": 11597,
    "downloads": 2782513,
    "task": "image-to-video"
   },
   {
    "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-   "likes": 2965,
+   "likes": 2968,
    "downloads": 1599836,
    "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-12T17:05:09.332Z",
+ "updated": "2026-11-12T18:17:52.727Z",
  "updatedDay": "2026-11-06"
 }

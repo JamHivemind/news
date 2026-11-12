@@ -263,7 +263,7 @@
    ],
    [
     "2026-11-12",
-    94.17
+    95.18
    ]
   ],
   "GC=F": [
@@ -529,7 +529,7 @@
    ],
    [
     "2026-11-12",
-    3887
+    3884.7
    ]
   ],
   "^GDAXI": [
@@ -971,14 +971,6 @@
    "lon": 142.1175,
    "lat": 34.9677,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9"
-  },
-  {
-   "mag": 6.1,
-   "place": "Fiji region",
-   "time": "2026-11-05T17:21:45.305Z",
-   "lon": -178.7145,
-   "lat": -21.1984,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r"
   }
  ],
  "gdacs": [
@@ -995,5 +987,5 @@
    "url": "https://www.gdacs.org/report.aspx?eventid=1001346&episodeid=10&eventtype=TC"
   }
  ],
- "updated": "2026-11-12T17:05:18.231Z"
+ "updated": "2026-11-12T18:17:58.599Z"
 }
