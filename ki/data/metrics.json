@@ -34,10 +34,6 @@
  "stocks": {
   "NVDA": [
    [
-    "2026-08-12",
-    224.09
-   ],
-   [
     "2026-08-13",
     225.3
    ],
@@ -292,17 +288,9 @@
    [
     "2026-11-11",
     173.73
-   ],
-   [
-    "2026-11-12",
-    164.51
    ]
   ],
   "MSFT": [
-   [
-    "2026-08-12",
-    492.43
-   ],
    [
     "2026-08-13",
     496.88
@@ -558,17 +546,9 @@
    [
     "2026-11-11",
     521.13
-   ],
-   [
-    "2026-11-12",
-    523.72
    ]
   ],
   "GOOGL": [
-   [
-    "2026-08-12",
-    343.54
-   ],
    [
     "2026-08-13",
     346.36
@@ -824,17 +804,9 @@
    [
     "2026-11-11",
     293.45
-   ],
-   [
-    "2026-11-12",
-    300.76
    ]
   ],
   "META": [
-   [
-    "2026-08-12",
-    578.85
-   ],
    [
     "2026-08-13",
     594.97
@@ -1090,10 +1062,6 @@
    [
     "2026-11-11",
     628.77
-   ],
-   [
-    "2026-11-12",
-    623.88
    ]
   ]
  },
@@ -1106,41 +1074,41 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 4666,
+   "likes": 4737,
    "downloads": 18933,
    "task": "text-generation"
   },
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 840,
+   "likes": 874,
    "downloads": 306718,
    "task": "text-to-image"
   },
   {
    "id": "NousResearch/Arete-27B",
-   "likes": 471,
+   "likes": 489,
    "downloads": 4669,
    "task": "text-generation"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 2216,
+   "likes": 2236,
    "downloads": 29904,
    "task": "image-to-3d"
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 11598,
+   "likes": 11640,
    "downloads": 2782513,
    "task": "image-to-video"
   },
   {
-   "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-   "likes": 2968,
-   "downloads": 1599836,
+   "id": "Qwen/Qwen3.8-27B",
+   "likes": 19746,
+   "downloads": 7094218,
    "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-12T18:51:16.220Z",
+ "updated": "2026-11-13T02:23:18.052Z",
  "updatedDay": "2026-11-06"
 }
