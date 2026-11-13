@@ -1,137 +1,113 @@
 {
-  "date": "2026-11-12",
-  "intro": "Spritpreise sinken: Super E10 kostet laut ADAC wieder unter 2 Euro. Bei den Rückrufen trifft es VW gleich mehrfach, und Mercedes legt Investitionen in Deutschland auf Eis.",
+  "date": "2026-11-13",
+  "intro": "Heute wird es laut: Ein Hypercar-Abschied, ein 500-km/h-Rekord aus China und Timo Glock im Elfer-Renner. Dazu ein Audi-Hingucker im Regen von Brasilien.",
   "top": [
     {
-      "title": "Super E10 wieder unter 2 Euro",
-      "text": "Der ADAC meldet, dass Super E10 im Schnitt wieder unter 2 Euro pro Liter kostet. Grund ist laut mehreren Berichten der deutlich gefallene Ölpreis; auch Diesel wird billiger, aber langsamer. Ein früherer Wirtschaftsweiser warnt im SWR, dass die niedrigen Preise nicht so bleiben müssen.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNREFWdWxWMDFiWkZkZkVXYjh2U3BOZUFtSGtqU1NJejlDa2djSUY1WTRlS2hxMG1ZUFJzWkdKd3lpbnNxQ21NS0FLaEpRWGNUZjVFUHFGZ2J5b09CTXlmbkl3UVVfMTZwaktJLWlNZnJSM0JsdE5SN1Y2YkNRZW1pNmRKMXlYeUFfeG42anBtS0EwYm8wNUdKbUVBNHNYdl9KLXc?oc=5",
-      "source": "ADAC Presse",
-      "category": "Hersteller & Branche",
-      "tipp": "Seit April dürfen Tankstellen nur noch mittags um 12 Uhr erhöhen: Wer vormittags tankt, zahlt meist weniger."
-    },
-    {
-      "title": "VW ruft rund 10.000 Diesel-Phaeton zurück",
-      "text": "Volkswagen muss laut Auto Bild, BILD und T-Online fast 10.000 Diesel-Phaeton in Deutschland zurückrufen, ein Nachspiel des Abgasskandals. Für Besitzer heißt das: Werkstatttermin abwarten, der Hersteller schreibt die Halter an.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2tvUi03VEdOOUhHZk5wbnVDcHktWW4weTdHdjYyQkFhWEFwWnMxUjBfU3hqNktMVnlwQmMzaklnN0E5bGtoVWVUcjdzaGo3VkRmSTN1ZmYxaWhOQ0cxeFN1WUdwTl9IaFY3RkoxVkhFbmt4Z3BPb215MWpXUHVkeDN0Q2U1QkhnaTlPOFlzQTJJU3Myc1E?oc=5",
-      "source": "Auto Bild",
-      "category": "Rückrufe & Regeln"
-    },
-    {
-      "title": "Mercedes stoppt Investitionen in Deutschland",
-      "text": "Mercedes-Benz legt laut NIUS weitere Investitionen an seinen deutschen Standorten vorerst auf Eis. Das trifft Werke und Zulieferer in einer Zeit, in der auch VW spart.",
-      "url": "https://nius.de/wirtschaft/mercedes-stoppt-investitionen-in-deutschland",
-      "source": "NIUS",
-      "category": "Hersteller & Branche"
-    }
-  ],
-  "entries": [
-    {
-      "title": "VW- und Cupra-Rückruf wegen Brandgefahr",
-      "summary": "Laut Ruhr Nachrichten sind mehr als 70.000 Autos von VW und Cupra betroffen, weil Brandgefahr besteht.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONFRla0pUZE92MHZ4cDJzN0dUWFp0WThhOGN5YkR4by1QTk9ITlJHamFJTFplLVZNY1hSdmJEeUoyS3hvd0hPdGFMci1ib2I0TURlVUswcGJCdlZSTWNEUGVmN05iU2tiQkx0bVVaUkhuRUpscm9EeFExSTh6a0phRGI2STAwTV9sOXd4UUxGQ21ZUEpybW55ck9ZOWk3b1h4Vmk5cjl3NU5qdEJUZEVsUmlFd1ZqM1BQY0l3eEt5bTNxSmhjaF81WmdidWw0UQ?oc=5",
-      "source": "Ruhr Nachrichten",
-      "category": "Rückrufe & Regeln"
-    },
-    {
-      "title": "Takata-Airbags: erneut Rückruf bei Opel und Škoda",
-      "summary": "Wegen der gefährlichen Takata-Airbags werden erneut Modelle von Opel und Škoda zurückgerufen.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaU9xU3NiX2hpbThubkkyZW1MNThBSzdFbFZjTUthMm9XZ2Z3MWluejU1Z1daMHdCeXdDSEJFUUI4RlQxdll4M05SQVA1S3ZDUHpmQ1JxSUZyNVBfX3MzalBPRHhmaTJVRVFRYy1oVGRrb0gtemVpclJWalRTQmUwdmY0bDdxTTJJOGo3TDVmSzFSMWtNc3BRRWFPb3lROVNlTWJMaEEySlo2NFQ1bEdUb2hoZUJwN1VyODQtWDhkRTcxWXZDbVhkN3JEMEJNTFN6MmNkd0Z5LVNGdw?oc=5",
-      "source": "Ruhr Nachrichten",
-      "category": "Rückrufe & Regeln",
-      "tipp": "Ob das eigene Auto betroffen ist, lässt sich in der Rückrufdatenbank des KBA mit der Fahrgestellnummer prüfen."
-    },
-    {
-      "title": "Xpeng G6 und G9: Anhängerkupplung kann wegklappen",
-      "summary": "Der chinesische Hersteller ruft laut auto motor und sport die Elektro-SUV G6 und G9 zurück, weil die Anhängerkupplung wegklappen kann.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZDJ6RzFUM1FfNWlqOUJRUGlLVmljT0p2S2pXczFqSThLMHZsZ3AzR2dTNW9pN3FXRWhMNmU1MGJkQm5FVzhmQ0VRRW1jZUc4ajZHdUVOaVlsLVRkMXVQWXI0LWJtQzlKbGRtQ3hyMzk1dEZDSHFVMjJYZmUtajBZT2RYbEp6MHF0dFdqQnN2RTB5SDhkQWlN?oc=5",
-      "source": "Auto Motor und Sport",
-      "category": "Rückrufe & Regeln"
-    },
-    {
-      "title": "Gebrauchtwagenmarkt im Oktober weiter rückläufig",
-      "summary": "Laut autohaus.de wurden im Oktober erneut weniger Gebrauchtwagen umgeschrieben. Für Verkäufer heißt das eher mehr Konkurrenz und weniger Spielraum beim Preis.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNajVmRzFlWjZIRmN2RHlBb1h6a21CV1ZMMFFKQWtMcWFoRU9IbnFLMU5ka2FUbU5HMEJVcmZiQlhrMFdOOS1aSXVPajI3VTJhTDZYUXdCRFYyOC10S2xSWGgxS3ByRHJCMDlpVG1kSmZWZTBabzZPSXZGYVNieE9rZURuVVZFdl9ITzVhMXFEZmExWnl2QzVjdFczZWdWUE5HQ3c0S0lFeXdFRU9uTkYyMU9aaWQ?oc=5",
-      "source": "autohaus.de",
-      "category": "Markt & Preise"
-    },
-    {
-      "title": "Knight-Rider-Pontiac findet bei Auktion keinen Käufer",
-      "summary": "Der Pontiac von David Hasselhoff aus „Knight Rider“ kam in Zürich unter den Hammer, blieb aber ohne Käufer. Auch Promi-Autos sind kein Selbstläufer.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1N2dWRwQTlNTHVnbFFKYXJneW5pZXBobWNIc2dhZld4QkpmcHhqT3hzS0t3Z2ZQVDdDTUtiM3QwYkprcTJ1WUU5REl3RkhtUnM1V3hCM1B4Uk5OcURCcVhtRDV5clRCWXNjMXVKQ1pCWXJrRHcwNkd5UFZtQloyTw?oc=5",
-      "source": "Auto Bild",
-      "category": "Klassiker & Youngtimer"
-    },
-    {
-      "title": "Rimac stellt den Nevera nach 71 statt 190 Autos ein",
-      "summary": "Das kroatische Elektro-Hypercar wird vorzeitig eingestellt. Die geringe Stückzahl könnte den Nevera später zum gesuchten Sammlerstück machen.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWMwVGVxWS1lZ2RjSk5xc2xvVXdIa29MMGxxSmtYdDV3d20xZWhnZFgzR0VPMkVlc1ZzY3c1d1JIREhHaFJRMkJVTjdJOE5SU3ZFUFg4OUQ0SU9xRnZGcjJ6OG1hMGprWXV5SWt5UDNmZ0VLVlIwdUdTMHRjcl8zQk5Ua0JjUDVlYmRzSjB4TVB5Tlk1SFZDQlBVNERZSlB1LXVRZFR6eDFCMERBSV9qRFp5MmFlOWs2?oc=5",
-      "source": "Auto Motor und Sport",
-      "category": "Sportwagen & Elfer"
-    },
-    {
-      "title": "Neue TÜV-Regeln geplant",
-      "summary": "Laut Teltarif sind neue Regeln für die Hauptuntersuchung geplant, bei denen Autofahrer die Plakette verlieren können.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnQyWVBaeWs2Y1czeEFFZjFYd3h4Y1d4dHNKVkpmeUJRMmRkWnB5Z01USTdfcjFCVXg4Y3ZPUTA4eHRPeVd5YXBNWEEyVHBHYktZMnhzM0IzQWYyTU5UZEVtTFlUaFhyVEQzWmlzYjRNajZ1VERYMVZJaUQtTlVvYi1YYTVtWVFQMmdnQw?oc=5",
-      "source": "Teltarif",
-      "category": "Rückrufe & Regeln"
-    },
-    {
-      "title": "Blaue HU-Plakette: 2026 ist die Hauptuntersuchung fällig",
-      "summary": "Eine blaue Plakette zeigt, dass die HU noch in diesem Jahr ansteht. Die Zahl oben auf der Plakette nennt den Monat; wer überzieht, riskiert ein Bußgeld.",
-      "url": "https://www.focus.de/auto/ratgeber/blaue-plakette-am-auto-jetzt-wird-es-zeit-fuer-die-hu_8aa6569f-f4cc-45a0-a8f9-07631e83ab46.html",
-      "source": "Focus Auto",
-      "category": "Rückrufe & Regeln",
-      "tipp": "Blaue Plakette am Kennzeichen? Jetzt einen HU-Termin für Dezember buchen."
-    },
-    {
-      "title": "ADAC-Test: Nachrüst-LEDs leuchten meist weiter als Halogen",
-      "summary": "Sechs von sieben H7-LEDs für das Abblendlicht leuchten deutlich weiter als Halogenlampen. Eine Billiglampe blendet stark.",
-      "url": "https://www.heise.de/news/ADAC-Test-Sechs-von-sieben-Nachruest-LEDs-leuchten-weiter-als-Halogenlampen-11521697.html",
-      "source": "heise Autos",
-      "category": "Rückrufe & Regeln"
-    },
-    {
-      "title": "E-Auto-Förderung: Bund will fast eine Milliarde vorziehen",
-      "summary": "Die neue Förderung ist so gefragt, dass der Bund laut Auto Bild fast eine Milliarde Euro aus 2027 vorziehen will. Auto Bild bietet einen Rechner für den Zuschuss.",
-      "url": "https://www.autobild.de/kaufpraemie-e-autos-2026-berechnen/",
-      "source": "Auto Bild",
-      "category": "Hersteller & Branche"
-    },
-    {
-      "title": "China-Hybride fluten vor der EU-Quote den Markt",
-      "summary": "Ab Dezember will die EU Hybridautos aus China begrenzen. Bis dahin steigen die Lieferungen laut heise stark.",
-      "url": "https://www.heise.de/news/Wettlauf-gegen-die-Quote-Chinesische-Hersteller-fluten-EU-Markt-mit-Hybridautos-11520186.html",
-      "source": "heise Autos",
-      "category": "Hersteller & Branche"
-    },
-    {
-      "title": "VW streicht Fertigungsprojekt „Gamechanger“",
-      "summary": "Volkswagen verzichtet wegen des Sparkurses auf ein geplantes Großgusszentrum im Stammwerk Wolfsburg.",
-      "url": "https://www.electrive.net/2026/11/12/strenger-sparkurs-vw-streicht-fertigungsprojekt-gamechanger/",
+      "title": "Rimac stellt den Nevera vorzeitig ein",
+      "text": "Schluss mit Strom-Gewitter: Mate Rimac beendet die Produktion seines Hypercars Nevera nach nur 71 statt der geplanten 190 Fahrzeuge. Er will das nicht als Scheitern verstanden wissen, sondern als „Job erledigt“. Seine Sicht auf Elektromobilität ist heute laut electrive eine andere als 2017 zu Projektbeginn.",
+      "url": "https://www.electrive.net/2026/11/12/job-erledigt-rimac-stellt-den-nevera-vorzeitig-ein/",
       "source": "electrive",
       "category": "Hersteller & Branche"
     },
     {
-      "title": "Schraubenhersteller für BMW, Daimler und Porsche ist pleite",
-      "summary": "Ein Zulieferer der großen deutschen Hersteller hat laut auto motor und sport Insolvenz beantragt.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYnNRS0tKVmQyQ3owdmR4eVkxajBra2xlaDJXV1h4cE5GY3hfMHFodmJBaUpfNzN0a0N2QVNhZy1yUzM4TjRoU0ExazhTTVY5c3dHa3IzcHNvODJoS1pmX3UwX05USjJ1bnJfNGY4OWI2WGVYenlZVEI3VFlWUmh2dzl2UTlDWDd6djY3OWV4Mzh2aXpwY3I5ZHdpOXRwTnlVam1Eb19DMldYRWlGM0ZKX2RpYkxMdzM2ejZzRi00TFJGdw?oc=5",
-      "source": "Auto Motor und Sport",
-      "category": "Hersteller & Branche"
+      "title": "BYD Yangwang U9 Xtreme knackt 500 km/h",
+      "text": "Der elektrische Supersportwagen von BYD hat in einer Richtung 500 km/h erreicht. Laut Focus holt sich der Yangwang U9 Xtreme damit den Thron der schnellsten Autos der Welt. Bugatti und Koenigsegg müssen sich auf der Rangliste warm anziehen.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWVwRUdxejZLLVhwSU0xYk5XVDNLRURsSkNqQVRKZGJWOE95YjBZWkpuUUUtR2EzbThDZXZLcE1WekFVczRia2xKaVVEVUZXRWdJVzlpTkw2dW1aejU1YzBWRHFEQ25NYVJIdE5nMDNpandTdjBRR2xPWElzelNZSGNnU1JJR1pIVUw2Rm5BbVpTTEdaR3dPaQ?oc=5",
+      "source": "Auto Bild",
+      "category": "Sportwagen & Elfer"
     },
     {
-      "title": "Ford bringt den Mustang Cobra zurück",
-      "summary": "Ford legt den Mustang Cobra neu auf, mit V8-Motor und Handschaltung.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUxUVjFTOC1vRXpHZFJMVWhDOGdfc2ZXbURZM0ZpcW9SemxXc1ZVckFPMk15eHFnS01SeDBCZE90SnVQSFFxdlNxRllHVVpOVXc4N3EzT0ZuaTRIUTdJd0oyQlY5OGFxMENsVzM3SDRtUm1rSkoweTNHUEVLcF9Qcl9IYUZqeFRRbUJ1YUIzSEJ5d25oWTVkTnZLQkx4LVBJLWFYdDlfSDRsSllLWkJlRnhxLWY?oc=5",
+      "title": "Timo Glock testet den Porsche 911 GT3 R von Land-Motorsport",
+      "text": "Timo Glock saß in Hockenheim im Porsche 911 GT3 R des DTM-Teams Land-Motorsport. Der Test kommt überraschend, und die Fachpresse fragt, was das Team vorhat. Mehr als der Test steht bisher nicht fest.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMEtYLU5wWEpZcVBWTzRnWDhTSFQwdVZfdmFDalhoZkhmVVMzSEFtMXFJSzFKMFAtOFc3YmRYXzJ2UXVWMHg5U2xJdDRfcUdEN0RMYTI3OVdob25kWEt5NndBaU5QX25sbGRVeTl5bEpzcmtDcFlLX083ZDU2dmNwZFlyeTVwSnhKM3dhV3pTeDlxOG9sRUR3a2dJb0NDcGZsUkZiTXk3YXNXV012T0k1LW96dFJZNFFLWGpNZVc3Z3ZwWHdUbi1sN2t0X3BQMDRWM3Nz?oc=5",
+      "source": "Motorsport-Magazin.com",
+      "category": "Motorsport"
+    }
+  ],
+  "entries": [
+    {
+      "title": "sport auto Award 2026: Porsche und Toyota räumen ab",
+      "summary": "Beim sport auto Award 2026 räumen Porsche und Toyota ab.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGpnelgwYWlWeHZ4UUVLd2EzeTMtb1FYRlBFVkVzV0FfSUJtWjVXTDlWcElMRHJoVmZiYmR4a0hXNDh5eFFuM2x2SXFkQy10UVljUXlnU1h2TTAyOHVVUk81MDZlakJ0NXJCRHhzUE9NT1J3SUczQ0NZWkhMVGtQb0dWbG9nSms2M2J3enZDVVU5azNFeWl6cTBsSWM?oc=5",
       "source": "Auto Motor und Sport",
+      "category": "Sportwagen & Elfer"
+    },
+    {
+      "title": "Urquattro-Restomod mit RS-4-V8 und Kompressor",
+      "summary": "Ein britisches Start-up interpretiert den Audi Urquattro neu, mit RS-4-V8, Kompressor und überarbeitetem Design. Wer das haben will, muss laut Auto Bild tief in die Tasche greifen.",
+      "url": "https://www.autobild.de/artikel/audi-quattro-restomod-3b72a61-28588309.html",
+      "source": "Auto Bild",
+      "category": "Klassiker & Youngtimer"
+    },
+    {
+      "title": "Audi Nuvolari startet in den USA bei 700.000 Dollar",
+      "summary": "Für den amerikanischen Markt sind nur 182 Exemplare des Audi Nuvolari vorgesehen. Der Startpreis liegt bei 700.000 US-Dollar.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBONWd6MnRRWXg1TzRZYUZadW5zZlVjdEVid3J3YjdoVVpzaFY1elhDQmc3SFp3bEJaTHhkX2VqMlpIekdDajBsX1RfdHhWSEpxUTRabjZmWGpGM1FXOXEtNzhXYnhlZ2NpOF9EeUQtZzlNSjdSaDQwc2h4UWlET1U?oc=5",
+      "source": "Hypebeast",
+      "category": "Markt & Preise"
+    },
+    {
+      "title": "K.I.T.T.-Pontiac findet keinen neuen Besitzer",
+      "summary": "Der Pontiac Firebird Trans Am aus „Knight Rider“ ist laut Auto Bild zu teuer, die Auktion in Zürich ging nicht über die Bühne. Ein neuer Besitzer ist damit weiter nicht in Sicht.",
+      "url": "https://www.autobild.de/artikel/k.i.t.t.-ist-zu-teuer-a447ed0-28875787.html",
+      "source": "Auto Bild",
+      "category": "Klassiker & Youngtimer"
+    },
+    {
+      "title": "Corvette E-Ray Convertible für 94.000 Dollar versteigert",
+      "summary": "Der Hybrid-Sportwagen ging laut Tuningblog für 94.000 US-Dollar unter den Hammer.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rQ1M4VFVlbGhxQWs1OTVUc2FMOWRkTmI2bzhuZVB3R05jZnRfb1kzTG1XMk14amNTN0JsUEYydzRYaUczOWdyWDN4NDJLZzc2M3ZxZkhpQ3U5QWNGNWVRN3laVnFHX3h3dlNiNnlqVjg3bExCNkF1V1MxSWFxTzA?oc=5",
+      "source": "Tuningblog",
+      "category": "Markt & Preise"
+    },
+    {
+      "title": "KTM X-Bow Arrow: Buggy mit Audi-Herz und 330 PS",
+      "summary": "Nach dem Sportwagen X-Bow bringt KTM einen Offroader. Der Buggy X-Bow Arrow fährt mit Audi-Motor und 330 PS.",
+      "url": "https://www.autobild.de/artikel/ktm-x-bow-arrow-2027-offroader-buggy-mit-audi-motor-und-330-ps-28892157.html",
+      "source": "Auto Bild",
       "category": "Neue Modelle & Fahrberichte"
     },
     {
-      "title": "Brabus 800 auf Basis des Porsche 911 Turbo S",
-      "summary": "Der Tuner aus Bottrop gibt dem 911 Turbo S mehr Leistung und eine neue Optik.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wRFB6OUpxOWRURDdpZ3BZNVZYblpTQk44cG1VQUFYaUdSRjI5NU9DWkJHeFg0enlidTEyRFNGYWlsa0V4cFZyZkVKcW5zdDU2b3pXQmJUalJLUUVTaVFOcnhoRDMyc2It?oc=5",
-      "source": "Motor1.com Deutschland",
-      "category": "Sportwagen & Elfer"
+      "title": "Hülkenberg sorgt für Audi-Sensation im Regen von Brasilien",
+      "summary": "In der Formel 1 gelingt Nico Hülkenberg im Audi laut Auto Bild eine Überraschung im Regen von Brasilien. Details nennt der frei lesbare Teil nicht.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUNrR2pDYTVuN0E1TXR5dkI4TXIzWDVENGNDaXM2S1FYTF91RkhHbGlqVUdoVUM1Q3diV0RsVmdCWkVCVFZUUm9uakZvVjhxenRWRS1XX2ZJb0pwblBkUHJOd0doQmtUb19EOTBrMWdmOGlIS0RIT00yS2NCRXAxZWRIcXFCODRPdzNrU1dTZEh0NEFwNm96ZmNRRWdCREhQMzdFaEFQZl9HZkNlLVpjTTNUamhWeWFvaXhfSkEyYzA?oc=5",
+      "source": "Auto Bild",
+      "category": "Motorsport"
+    },
+    {
+      "title": "BMW holt WEC-Vizetitel in Monza",
+      "summary": "BMW holt in Monza den Vizetitel der Langstrecken-WM (WEC). „Können stolz sein“, heißt es aus dem Team.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX19PV1J2VDVORDdyWGVkM0pGQWtlOUdYMGhHQXNONjBhNE9pNUJxa2JNWXBUNnMtMG91WXFWUVp0dmV0Z1A2cTJkSjlYeFZOOUFaSno3LXpfa0RlX3RxcndMTkoxd1JTRVRmM1VHcUd3SE5PVDNzU2p0R0p0bFFHbnVmbmdGei1CblNvOEZtcnU4ODVmX1UxcVM4c0pOZGQ2d1Rz?oc=5",
+      "source": "Motorsport-Total.com",
+      "category": "Motorsport"
+    },
+    {
+      "title": "Kirchhöfer verlässt McLaren",
+      "summary": "Marvin Kirchhöfer trennt sich von McLaren. Er hätte gern auch das neue Hypercar gefahren. Ob es noch mit einem Cockpit klappt, ist offen.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYmxlNGI0aElDSXpNNW9ZMm9fRnAyay10dHdKaWtyZC1Gc2Vhcno4V3FubzhaNVBMNDREamEtbFRlak1NQ3h4aEI5akMzYnlGQkZYOVlrbDdMbnBiTmo1cms5NW83djVrdHBrWFltZFRfRWhjY21vVkxaSm52YzVZNFFhUk1ZUVZHdXhTNUtKQi11ZnVvaVlCeW9URkpGdnVsN3AzYjRMZ09Sc3VpNmJoTndIRHFNTnBXY041M3BWLXRaU3VDajFvRWJxTGtlY1UyMzIzUWdweldPdw?oc=5",
+      "source": "Motorsport-Total.com",
+      "category": "Motorsport"
+    },
+    {
+      "title": "VW ruft fast 10.000 Diesel-Phaeton zurück",
+      "summary": "Der Rückruf betrifft fast 10.000 Phaeton mit Dieselmotor in Deutschland und hängt laut BILD mit dem Abgas-Skandal zusammen.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc0pSYWYydHhsS2d1bGpVZVE0OUxLdlJYOC1nZi1lXzFwQ3FWV3NEZ01tallsWEFMX21UY0xYdTRtcmdBTElySFM0Wmx1UUluSDF0VnhxZXJGeWJNTHhjeEtJUVA4cjVpdDFIcFNDS3k1bXBEWHFLb25sU05UOTRsNjZCamdxYm1aSkh0TTJPUXU4Z1RvSkhxS0duREphcy1kRmdzeTVrMWQwYkp2RnlJZWhqZTVPRjY5Q3BpUU4zWGlKMWJFNDJkQXBIUnZfRFNoVFdNMTVKbDBXRVU?oc=5",
+      "source": "BILD",
+      "category": "Rückrufe & Regeln"
+    },
+    {
+      "title": "Toyota C-HR+: Rückruf für 1.096 Autos",
+      "summary": "Der Rückruf betrifft 1.096 Autos des Elektro-SUV Toyota C-HR+.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJdmRCTFdFNm95OGZCeURNYmZZYktidTdlOE0yOW5QTS1QZTRQRXFlT0hwU0xRMi1XcGJ5Q1VHcXE5aTlXMmtCdmdNWWNTb0R0MVBDaTdlSjB4QTRDandYWk41dTJXOWs0YmMzNVc0OThMb3ltSjhCUQ?oc=5",
+      "source": "Netz Trends",
+      "category": "Rückrufe & Regeln"
+    },
+    {
+      "title": "VW ID. Tiguan läuft in Emden vom Band",
+      "summary": "Wenige Wochen nach der Vorstellung hat Volkswagen die Serienproduktion des elektrischen ID. Tiguan gestartet.",
+      "url": "https://www.electrive.net/2026/11/12/vw-id-tiguan-serienproduktion/",
+      "source": "electrive",
+      "category": "Hersteller & Branche"
     }
   ]
 }
