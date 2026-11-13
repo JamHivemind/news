@@ -1,114 +1,122 @@
 {
-  "date": "2026-11-12",
-  "intro": "Anthropic zieht mit Büro-Programmen in Claude und einem Börsengang die meiste Aufmerksamkeit auf sich, Google macht sein neues Spitzenmodell für alle zugänglich. Bei Nvidia sorgt dagegen ein Führungsstreit für Unruhe.",
+  "date": "2026-11-13",
+  "intro": "Anthropic steht vor dem Börsengang und Nvidia verliert seinen Chef. Google bringt außerdem ein neues, günstiges Gemini-Modell in die Suche.",
   "top": [
     {
-      "title": "Claude bekommt Tabellen, Whiteboards und Meeting-Hilfe",
-      "text": "Anthropic baut Claude zu einer Art Büro-Paket aus. Neu sind unter anderem eine eigene Tabellenkalkulation, Whiteboards und Funktionen für Meetings. Damit tritt das Unternehmen direkter gegen etablierte Büro-Software an. Für Berufstätige heißt das: Aufgaben wie Auswertungen oder Brainstormings lassen sich künftig im selben Chatfenster erledigen.",
-      "url": "https://t3n.de/news/tabellen-whiteboards-meetings-mit-diesen-neuen-funktionen-soll-claude-dir-die-arbeit-erleichtern-1772912",
-      "source": "t3n",
-      "category": "Claude & Anthropic",
-      "tipp": "Wer Claude nutzt, kann die neue Tabellenfunktion mit einer unkritischen Beispieldatei testen, bevor echte Geschäftsdaten hineinkommen."
-    },
-    {
-      "title": "Anthropic-Börsengang: Roadshow läuft, Nachfrage hoch",
-      "text": "Anthropic wirbt derzeit bei Investoren für seinen Börsengang (IPO, der erste öffentliche Aktienverkauf). Laut Berichten übersteigt die Nachfrage das Angebot bereits mehrfach. Ein Hinweis auf den späteren Kurs ist das aber nicht automatisch, warnen Beobachter. Für die Branche gilt der Gang aufs Parkett als Stimmungstest für die gesamte KI-Welle.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKWGZ4ck1uamZJQ3p5MmN3eVFwQ1dyQjMzd0VXV3M3ZmljNHlCM2daclNuN0pBdzlzLXZpb2Y4THdVNVpna0Rpc0FYQ3hxTjJWcFBEMWdodjFNZ2o5Y0xTUS0yNW94MUt4cllBaUVnby0yRUZa?oc=5",
-      "source": "Quartz",
+      "title": "Anthropic-Börsengang: sechsfach überzeichnet",
+      "text": "Laut Bloomberg übersteigt die Nachfrage nach Anthropic-Aktien das Angebot etwa um das Sechsfache. Der Handel soll am Donnerstag, 19. November, beginnen. Die begleitenden Banken drängen laut t3n auf einen höheren Ausgabepreis von 83 Dollar. Für Anleger ist es der erste große Börsengang eines reinen KI-Unternehmens.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0pUQzVjV3ltd2hkZ29PSjdjWElOb3dmUlNPSG5HMC01V1EzSnlQdUl0Tm9WNnhJdktOamVLa1JWOTF5SGJZYTFrNWpBbElkc1lGUklCUUNVLXhHNWM1M0JmaHZTTmVaODlldER3Ulc3Q19zVGtOUDl1NzdCQWNuYkR5LWRVcXFUOGFTQXFDUDlTb2VLVzE3Z1M2dnlfeFFwSVV0MEpNNzExRHNxTlpsZGcyTlE1bE5LbEdLNGVtczd3M2hra1E?oc=5",
+      "source": "Reuters",
       "category": "Business & Funding"
     },
     {
-      "title": "Google macht Gemini 4 Carbon für alle verfügbar",
-      "text": "Googles bislang stärkstes Gemini-Modell war zunächst nur für ausgewählte Cyber-Verteidiger gedacht. Jetzt steht es allgemein bereit. Laut dem Entwickler Simon Willison kostet die Nutzung über die Schnittstelle (API) für Entwickler 2 Dollar je Million eingegebener Textbausteine und 10 Dollar je Million Ausgabe. Für Firmen heißt das: ein neues Spitzenmodell, das sich direkt in eigene Anwendungen einbauen lässt.",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "source": "Google DeepMind",
+      "title": "Nvidia-Chef Jensen Huang tritt zurück",
+      "text": "Huang ist mit sofortiger Wirkung als Chef des Chipherstellers Nvidia zurückgetreten, nachdem eine zweite Affäre bekannt wurde. Finanzchefin Colette Kress führt das Unternehmen vorerst. Nvidia liefert die Chips für fast alle großen KI-Modelle, daher beobachten Politik und Branche den Wechsel genau.",
+      "url": "https://the-decoder.de/nvidia-chef-huang-gestuerzt-finanzchefin-kress-uebernimmt-vorerst/",
+      "source": "The Decoder",
+      "category": "Business & Funding"
+    },
+    {
+      "title": "Google bringt Gemini 4 Hydrogen in die Suche",
+      "text": "Google startet das neue Modell Gemini 4 Hydrogen weltweit in der Suche. Es soll verschachtelte Fragen und Tippfehler besser verstehen und visuellere Antworten liefern. Laut The Decoder löst es das bisherige Flash-Modell ab und ist günstiger als das größere Argon.",
+      "url": "https://the-decoder.de/google-stellt-gemini-4-hydrogen-vor-schnelles-ki-modell-fuer-den-alltag-fuer-weniger-geld/",
+      "source": "The Decoder",
       "category": "Modelle & Releases"
     }
   ],
   "entries": [
     {
-      "title": "Nvidia-Verwaltungsrat soll Chef Huang abberufen wollen",
-      "summary": "Laut Berichten bereitet der Aufsichtsrat die Ablösung von Konzernchef Jensen Huang vor, nachdem neue Vorwürfe zu einer Affäre mit einer mutmaßlichen chinesischen Agentin aufkamen. Die Nvidia-Aktie gab zuletzt nach.",
-      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-      "source": "The Verge AI",
-      "category": "Business & Funding"
-    },
-    {
-      "title": "OpenAI erreicht erstmals über 10 Milliarden Dollar Quartalsumsatz",
-      "summary": "Der Umsatz stieg laut Berichten um fast 50 % gegenüber dem Vorquartal. Verluste bleiben aber hoch: Das Unternehmen gibt weiterhin mehr aus, als es einnimmt.",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "source": "TechCrunch AI",
-      "category": "Business & Funding"
-    },
-    {
-      "title": "ChatGPT bekommt Firmenprofile",
-      "summary": "Unternehmen können in ChatGPT eigene Informationen hinterlegen, ähnlich wie bei Google Maps. So sollen Nutzer Angebote und Auskünfte direkt im Chat finden.",
-      "url": "https://www.heise.de/news/ChatGPT-Unternehmen-koennen-dort-nun-eigene-Profile-anlegen-11521000.html",
-      "source": "heise online",
-      "category": "KI im Alltag & Beruf"
-    },
-    {
-      "title": "Anthropic: KI verkürzt Wechsel von Nvidia- auf AMD-Chips auf drei Tage",
-      "summary": "Anthropic gibt an, mit einem eigenen Modell seine Software in drei Tagen auf AMD-Chips übertragen zu haben, fast ohne menschliche Hilfe. Das würde Nvidias Vorteil durch seine Programmierumgebung CUDA schwächen. Es ist eine Angabe des Unternehmens selbst.",
-      "url": "https://the-decoder.de/drei-tage-statt-monate-fuer-amd-chip-wechsel-laut-anthropic-frisst-ki-nvidias-cuda-vorsprung/",
+      "title": "Claude Meetings: Claude nimmt an Videocalls teil",
+      "summary": "Claude tritt als sichtbarer Teilnehmer in Videokonferenzen auf und erstellt live Protokolle, Dokumente und Whiteboards. Zunächst gibt es eine Beta für Team- und Enterprise-Tarife auf Google Meet.",
+      "url": "https://the-decoder.de/claude-meetings-anthropic-laesst-claude-als-teilnehmer-an-videoanrufe-andocken/",
       "source": "The Decoder",
       "category": "Claude & Anthropic"
     },
     {
-      "title": "Tausende Grok-Apps waren ungeschützt im Netz",
-      "summary": "Sicherheitsforscher fanden über 35.000 mit Grok gebaute Apps, die ohne Anmeldung offenstanden. Darin lagen vertrauliche Firmendaten und auch Patientendaten. Wer KI-Apps baut, sollte Zugriffsschutz prüfen.",
-      "url": "https://the-decoder.de/grok-apps-legen-interna-von-spacexsi-und-x-sowie-patientendaten-offen/",
-      "source": "The Decoder",
-      "category": "Tools & Agenten"
+      "title": "Claude for Manufacturing gestartet",
+      "summary": "Anthropic bringt ein eigenes Claude-Angebot für Industrieunternehmen auf den Markt, kurz vor dem Börsengang.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWRmQ1BneGdsLUtIeUJmSS1HeUpjVnRib1o1cnJOamNsV3k1aGNFZnR4X0J2ZjdxR1VfcGg4VUt0dHBNWlQ1SDJXRDREaDZwYk80clNHVGdoeG5icjFOdFFHUmNQLWtYOV9RWkRudWRlQ3cyQzNRdVQyRllBalFjUlEtQ0Y5RnFnV1VNbmE4ckFDc1ZK?oc=5",
+      "source": "Manufacturing Dive",
+      "category": "Claude & Anthropic"
     },
     {
-      "title": "CERT-EU warnt vor KI-Agenten als Angriffswerkzeug",
-      "summary": "Die EU-Sicherheitsbehörde sieht eine rasche Zunahme von Angriffen, die autonome KI-Agenten weitgehend selbstständig ausführen. Experten rechnen mit einer neuen Welle automatisierter Attacken.",
-      "url": "https://www.heise.de/news/CERT-EU-warnt-Rapide-Zunahme-der-Angriffe-mit-Agenten-Frameworks-wie-Artex-11520602.html",
-      "source": "heise online",
+      "title": "Klage will Entwicklung der stärksten KI-Modelle stoppen",
+      "summary": "Gemeinnützige Organisationen verklagen laut Reuters unter anderem OpenAI, Google und Anthropic. Sie wollen die Entwicklung der leistungsfähigsten KI-Systeme anhalten lassen.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
+      "source": "Reuters",
       "category": "Regulierung & Politik"
     },
     {
-      "title": "DeepL Voice übernimmt Tonfall und Tempo in der Übersetzung",
-      "summary": "Mit dem neuen Modell Aure sollen Echtzeit-Übersetzungen Betonung, Emotion und Sprechtempo der Originalstimme in die Zielsprache mitnehmen. Das soll Gespräche natürlicher wirken lassen.",
-      "url": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684",
-      "source": "t3n",
+      "title": "Australien plant Pflichtprüfungen für KI-Konzerne",
+      "summary": "Die Regierung will die größten KI-Firmen gesetzlich zu unabhängigen Modellprüfungen und Sicherheitskontrollen verpflichten. Eine neue Aufsichtsbehörde soll das überwachen.",
+      "url": "https://the-decoder.de/australien-will-frontier-ki-firmen-zu-unabhaengigen-pruefungen-und-sicherheitskontrollen-zwingen/",
+      "source": "The Decoder",
+      "category": "Regulierung & Politik"
+    },
+    {
+      "title": "United Airlines sperrt KI-Agenten beim Buchen",
+      "summary": "Die Fluggesellschaft erlaubt nicht autorisierten KI-Agenten keine Buchungen mehr. Genannt werden Sicherheitsbedenken, aber auch wirtschaftliche Interessen.",
+      "url": "https://www.heise.de/news/United-Airlines-untersagt-KI-Agenten-das-Buchen-von-Fluegen-11523122.html",
+      "source": "heise online",
+      "category": "Tools & Agenten"
+    },
+    {
+      "title": "Google und Samsung bringen KI-Brillen im Dezember",
+      "summary": "Die ersten gemeinsamen KI-Brillen kommen im Dezember ab 395 US-Dollar auf den Markt. Ein Start in Europa ist noch nicht angekündigt.",
+      "url": "https://www.heise.de/news/Googles-KI-Brillen-starten-im-Dezember-ab-395-US-Dollar-11523374.html",
+      "source": "heise online",
       "category": "KI im Alltag & Beruf"
     },
     {
-      "title": "Helsing stellt KI-Plattform Clarity vor",
-      "summary": "Das Münchner Rüstungsunternehmen präsentiert eine KI-Plattform für militärische Analysen, gedacht als europäische Alternative zu US-Systemen. Sie arbeitet unter menschlicher Aufsicht.",
-      "url": "https://www.heise.de/news/Muenchner-Ruestungs-KI-Helsing-stellt-Plattform-Clarity-vor-11521399.html",
-      "source": "heise online",
-      "category": "Regulierung & Politik"
+      "title": "Chatbots empfehlen gefälschte Online-Shops",
+      "summary": "Eine Studie zeigt: Wer sich von KI-Chatbots Einkaufsquellen nennen lässt, landet teils bei Fake-Shops oder riskanten Seiten. Im Test waren unter anderem Gemini, ChatGPT und Perplexity.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "source": "The Verge AI",
+      "category": "KI im Alltag & Beruf"
     },
     {
-      "title": "United lässt keine KI-Agenten Flüge buchen",
-      "summary": "Die Fluggesellschaft will nicht, dass persönliche KI-Assistenten Tickets für Kunden kaufen. Als Gründe nennt sie Datenschutz und Regeln. Das zeigt, dass Agenten im Alltag noch an Hürden stoßen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "source": "The Verge AI",
+      "title": "Work-Slop: KI-Zwang im Büro bringt Mehrarbeit",
+      "summary": "Wenn Chefs KI-Einsatz erzwingen, entstehen laut t3n oft oberflächliche, schlecht geprüfte Arbeitsergebnisse („Work-Slop“). Einige Firmen rudern schon zurück.",
+      "url": "https://t3n.de/news/ki-slop-am-arbeitsplatz-chefs-konsequenzen-1773193",
+      "source": "t3n",
+      "category": "KI im Alltag & Beruf",
+      "tipp": "Prüfe KI-Entwürfe immer selbst, bevor du sie weitergibst."
+    },
+    {
+      "title": "Diktieren statt Tippen mit kostenlosen Tools",
+      "summary": "t3n stellt drei Open-Source-Programme zur Spracherkennung vor, mit denen sich Texte per Stimme schreiben lassen.",
+      "url": "https://t3n.de/news/diktieren-statt-tippen-diese-3-kostenlosen-ki-tools-machen-es-moeglich-1773040",
+      "source": "t3n",
+      "category": "KI im Alltag & Beruf",
+      "tipp": "Probiere eines der Diktier-Tools für eine E-Mail aus, statt sie zu tippen."
+    },
+    {
+      "title": "Cyberangriff auf Fireworks AI trifft Notion-Kunden",
+      "summary": "Hacker konnten über einen Angriff auf den KI-Dienstleister Fireworks AI Chatverläufe von Notion-Kunden einsehen. Es ist der zweite Datenvorfall bei Fireworks in zwei Monaten.",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "TechCrunch AI",
       "category": "Tools & Agenten"
     },
     {
-      "title": "KI beweist mathematisch die Sicherheit von Signals Verschlüsselung",
-      "summary": "Google Deepmind hat mit AlphaProof Code den Kerncode des Messengers Signal in vier Wochen formal überprüft. Üblich waren dafür bisher Jahre.",
-      "url": "https://the-decoder.de/google-deepminds-alphaproof-code-beweist-mathematisch-dass-signals-verschluesselung-sicher-ist/",
-      "source": "The Decoder",
-      "category": "Forschung & Deep Tech"
-    },
-    {
-      "title": "TSMC investiert eine Milliarde Dollar in Anthropic und OpenAI",
-      "summary": "Der taiwanische Chipfertiger steigt bei den beiden KI-Firmen ein. Er sichert sich damit enge Bindungen an zwei große Chipkunden.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanhKZDVUckJDOTUyaHpuU1ozRV9Rc1I0czVKZmtueDFsM3pDTjRJZTFMQ0RDREhKcHRtTXIzQ2Zmdm1TWWNGbFN1RUE0dHBjWTNjV1VSR0lLTktuNVRrTnQxY0hfV0VXWUkzRnFyQ2otV0duQjdUVkdFcC1fWm9WQV9MN3k0Y3Y2YTY4d2w0dm56QUVyVlNaTlZmMi1QdTg?oc=5",
-      "source": "Ars Technica",
+      "title": "Nebius plant 40 Milliarden Dollar für KI-Rechenzentren",
+      "summary": "Der Cloud-Anbieter will den Ausbau mit Kundenvorauszahlungen und Krediten finanzieren. Verzögerungen bei einem Microsoft-Rechenzentrum werfen Fragen zu diesem Modell auf.",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "TechCrunch AI",
       "category": "Business & Funding"
     },
     {
-      "title": "Gemini Robotics 2.5 sortiert Metallteile bei Mercedes-Benz",
-      "summary": "In einem Versuch erreichte Googles Robotik-Modell eine Erfolgsquote von 96 % beim Sortieren von Metallteilen. Es soll Roboter geschickter machen.",
-      "url": "https://www.heise.de/news/Gemini-Robotics-2-5-sortiert-Metallteile-bei-Mercedes-Benz-mit-96-Prozent-Erfolg-11520722.html",
-      "source": "heise online",
+      "title": "AlphaGenome 2 liest DNA zelltypspezifisch",
+      "summary": "Google DeepMind stellt ein KI-Modell vor, das genetische Varianten gezielt für einzelne Zelltypen bewertet statt pauschal. Es soll helfen, Krankheiten besser zu verstehen.",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "Google DeepMind",
       "category": "Forschung & Deep Tech"
+    },
+    {
+      "title": "Elevenlabs bringt Scribe v3 für Echtzeit-Transkription",
+      "summary": "Die neuen Spracherkennungsmodelle sollen auch bei Hintergrundgeräuschen und durcheinanderredenden Sprechern genauer mitschreiben und Anrufer nicht mitten im Satz unterbrechen.",
+      "url": "https://the-decoder.de/elevenlabs-senkt-mit-scribe-v3-und-v3-live-die-fehlerrate-bei-der-spracherkennung/",
+      "source": "The Decoder",
+      "category": "Modelle & Releases"
     }
   ]
 }
