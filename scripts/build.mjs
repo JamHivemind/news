@@ -314,14 +314,19 @@ function mark(el,d){if(d===today){el.textContent="Heute";el.className="fresh";}e
 document.querySelectorAll(".hub-meta span[data-date]").forEach(function(el){mark(el,el.getAttribute("data-date"))});})();</script>`;
 
 function buildHub(results, template) {
-  const cards = results.map(r => ({ url: `${r.name}/`, title: r.cfg.title, icon: r.cfg.icon || "📰", description: r.cfg.description, latest: r.latest }));
+  // Feste Seiten ohne Routine (Ordner mit static.json statt config.json), z. B. stpauli
+  const statics = readdirSync(ROOT, { withFileTypes: true })
+    .filter(d => d.isDirectory() && existsSync(join(ROOT, d.name, "static.json")))
+    .map(d => ({ name: d.name, cfg: loadJson(join(ROOT, d.name, "static.json"), {}) }));
+  const cards = [...results, ...statics].sort((x, y) => (x.cfg.order ?? 99) - (y.cfg.order ?? 99))
+    .map(r => ({ url: `${r.name}/`, title: r.cfg.title, icon: r.cfg.icon || "📰", description: r.cfg.description, latest: r.latest, meta: r.cfg.meta }));
   const html = cards.map(c => {
     const fresh = c.latest && c.latest.date === today();
     return `<a class="hub-card" href="${esc(c.url)}"><div class="hub-icon">${c.icon}</div><div class="hub-body">` +
       `<h3>${esc(c.title)}</h3><p>${esc(c.description)}</p>` +
       (c.latest ? `<div class="hub-top">${esc(c.latest.headline || "")}</div>` +
         `<div class="hub-meta"><span data-date="${esc(c.latest.date)}" class="${fresh ? "fresh" : ""}">${fresh ? "Heute" : esc(shortDate(c.latest.date))}</span> · ${fmt(c.latest.count || 0)} Meldungen</div>`
-        : `<div class="hub-meta">Erste Ausgabe folgt</div>`) + `</div></a>`;
+        : `<div class="hub-meta">${esc(c.meta || "Erste Ausgabe folgt")}</div>`) + `</div></a>`;
   }).join("");
   writeFileSync(join(ROOT, "index.html"), fill(template, {
     LANG: "de", PAGE_TITLE: "News-Dashboards", DESCRIPTION: "Tägliche News-Dashboards: KI, Immobilien, Wirtschaft, Steuern, Hamburg, Startups, HSV, Welt, Autos, Recht",
