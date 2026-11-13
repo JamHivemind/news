@@ -164,3 +164,132 @@
   .theme-garage .item:hover::after,.theme-garage .top-card:hover::after,.g-flash::before{animation:none}
   .g-needle{transition:none}
 }
+
+/* Straße mit 993 Turbo S (eigene Zeichnung, kein Logo, kein Kennzeichen) */
+.garage-road{position:relative;height:150px;overflow:hidden;
+  background:
+    repeating-linear-gradient(90deg,var(--yellow) 0 40px,transparent 40px 80px) 0 136px/100% 3px no-repeat,
+    linear-gradient(180deg,#121417 0 126px,#26292f 126px 100%);
+  border-bottom:3px solid #000;animation:g-road .7s linear infinite}
+@keyframes g-road{from{background-position:0 136px,0 0}to{background-position:80px 136px,0 0}}
+.garage-car{position:absolute;left:50%;bottom:15px;width:375px;height:auto;transform:translateX(-50%);overflow:visible;animation:g-bob 1.4s ease-in-out infinite}
+@keyframes g-bob{0%,100%{transform:translateX(-50%) translateY(0)}50%{transform:translateX(-50%) translateY(-.6px)}}
+.g-body{fill:url(#g-lack);stroke:#2a2e34;stroke-width:1}
+.g-glass{fill:url(#g-glas);stroke:#0b0b0b;stroke-width:1.4}
+.g-refl{fill:#fff;opacity:.08}
+.g-pillar{fill:#0b0d10}
+.g-wing{fill:url(#g-lack);stroke:#2a2e34;stroke-width:1}
+.g-gap{fill:#14171b}
+.g-line{fill:none;stroke:#5d636b;stroke-width:1.1}
+.g-handle{fill:#8b9199}
+.g-scoop{fill:#14171b}
+.g-shine{fill:none;stroke:#fff;stroke-width:1.6;opacity:.55}
+.g-sill{stroke:#3c4148;stroke-width:3}
+.g-mirror{fill:url(#g-lack);stroke:#2a2e34;stroke-width:1}
+.g-head{fill:#c9ced4;stroke:#3c4148;stroke-width:1}
+.g-headlens{fill:#eef2f6;opacity:.9}
+.g-intake{fill:#14171b}
+.g-ind{fill:#e8ebee;stroke:#9aa0a8;stroke-width:.6}
+.g-tail{fill:#b3121c;filter:drop-shadow(0 0 3px rgba(225,6,0,.7))}
+.g-exh{fill:#2a2d31;stroke:#8b9199;stroke-width:1}
+.g-tyre{fill:#0c0c0d}
+.g-wall{fill:none;stroke:#1d1e20;stroke-width:2}
+.g-rim{fill:#1d2024}
+.g-lip{fill:none;stroke:#7f858c;stroke-width:1.4}
+.g-cal{fill:#c8102e}
+.g-sp{fill:#3b4047;stroke:#24272b;stroke-width:.8}
+.g-sph{fill:#1d2024}
+.g-hub{fill:#2b2f34;stroke:#6b7178;stroke-width:1}
+.g-wheel{transform-box:view-box;animation:g-spin .45s linear infinite}
+@keyframes g-spin{to{transform:rotate(-360deg)}}
+.g-speed line{stroke:var(--yellow);stroke-width:2.4;stroke-linecap:round;opacity:.7}
+.garage-road::before,.garage-road::after{content:"";position:absolute;top:22px;width:120px;height:44px;opacity:.35;
+  background:repeating-linear-gradient(90deg,#000 0 4px,transparent 4px 8px)}
+.garage-road::before{left:16px}
+.garage-road::after{right:16px}
+
+/* Modelle im Blick: Boxengasse – groß, mit Silhouette und Zielflaggen-Kante */
+.theme-garage .modelle{margin-top:26px;padding:18px 18px 20px;border-radius:18px;border:1px solid var(--border);
+  background:linear-gradient(180deg,rgba(255,204,0,.07),transparent 140px),var(--surface);
+  box-shadow:0 14px 40px rgba(0,0,0,.35);position:relative;overflow:hidden}
+.theme-garage .modelle::before{content:"";position:absolute;left:0;right:0;top:0;height:10px;
+  background:conic-gradient(#fff 25%,#111 0 50%,#fff 0 75%,#111 0) 0 0/10px 10px}
+.theme-garage .modelle > h2{display:flex;align-items:center;gap:12px;margin-top:6px;font-size:clamp(1.8rem,5vw,2.6rem);line-height:1.05;
+  font-family:Anton,Impact,"Arial Narrow Bold",sans-serif;font-weight:400;letter-spacing:.03em;color:var(--text)}
+.theme-garage .modelle > h2::before{content:"";flex:none;width:64px;height:20px;background:var(--yellow);
+  -webkit-mask:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%204%20520%20198%27%3E%3Cg%20transform%3D%27rotate(-4.25%20371%20197.5)%27%3E%3Cpath%20d%3D%27M300.2%2013.9L318.0%2014.7L331.0%2017.6L343.5%2021.0L370.5%2035.1L390.0%2043.7L411.0%2049.1L414.5%2049.5L426.5%2046.5L453.5%2046.5L478.5%2048.5L493.5%2053.4L502.9%2064.0L504.0%2067.0L504.0%2072.0L501.5%2077.0L492.5%2084.5L491.7%2089.5L490.3%2093.0L490.3%2095.0L494.0%2099.3L499.0%20100.7L500.1%20101.6L505.2%20113.5L506.0%20117.0L508.9%20120.5L510.0%20124.0L508.9%20129.0L506.8%20132.5L502.8%20137.0L499.8%20142.5L499.0%20145.5L498.9%20149.5L499.6%20154.0L496.5%20156.9L493.0%20158.9L482.0%20163.3L473.5%20165.7L437.5%20171.0L431.5%20171.2L429.2%20169.5L428.0%20155.0L425.2%20144.5L421.4%20136.0L414.0%20125.6L409.0%20121.3L402.0%20116.9L390.5%20112.3L379.0%20110.0L366.0%20110.0L357.0%20111.8L343.5%20117.1L337.5%20120.9L328.5%20129.0L324.7%20134.0L321.6%20140.0L319.4%20146.0L316.2%20162.5L315.1%20165.0L313.5%20166.3L271.5%20163.5L223.0%20162.0L173.0%20159.5L165.5%20158.5L158.0%20158.5L141.5%20157.0L129.0%20157.0L127.0%20156.4L125.4%20155.0L123.8%20151.0L122.2%20143.0L119.4%20135.5L114.2%20125.5L108.0%20117.0L102.5%20111.5L97.5%20107.9L94.5%20107.0L57.5%20108.0L50.5%20108.5L48.0%20109.3L42.6%20117.0L39.5%20129.0L40.0%20137.0L44.0%20151.9L42.5%20153.0L40.5%20153.1L32.0%20151.2L25.0%20148.9L20.9%20146.4L19.0%20139.5L17.4%20137.4L14.4%20131.0L15.1%20129.9L18.4%20128.4L19.2%20127.0L19.0%20125.0L16.5%20122.5L12.0%20121.4L10.0%20120.3L8.7%20118.5L8.8%20116.5L10.7%20112.5L10.0%20108.5L10.4%2095.5L19.5%2086.5L23.5%2083.6L45.5%2075.3L94.0%2062.9L126.0%2057.0L153.5%2053.5L163.0%2053.2L164.1%2054.1L164.5%2055.5L164.8%2065.5L166.5%2067.5L168.5%2067.5L175.5%2061.0L196.0%2038.5L207.0%2028.0L212.5%2018.5L217.0%2015.8L225.5%2014.0L236.5%2014.0L239.0%2013.5L277.5%2013.5L296.0%2014.4L298.5%2013.9L299.9%2013.9Z%27%2F%3E%3Ccircle%20cx%3D%2775%27%20cy%3D%27137%27%20r%3D%2738.5%27%2F%3E%3Ccircle%20cx%3D%27371%27%20cy%3D%27153.5%27%20r%3D%2744%27%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E") center/contain no-repeat;
+          mask:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%204%20520%20198%27%3E%3Cg%20transform%3D%27rotate(-4.25%20371%20197.5)%27%3E%3Cpath%20d%3D%27M300.2%2013.9L318.0%2014.7L331.0%2017.6L343.5%2021.0L370.5%2035.1L390.0%2043.7L411.0%2049.1L414.5%2049.5L426.5%2046.5L453.5%2046.5L478.5%2048.5L493.5%2053.4L502.9%2064.0L504.0%2067.0L504.0%2072.0L501.5%2077.0L492.5%2084.5L491.7%2089.5L490.3%2093.0L490.3%2095.0L494.0%2099.3L499.0%20100.7L500.1%20101.6L505.2%20113.5L506.0%20117.0L508.9%20120.5L510.0%20124.0L508.9%20129.0L506.8%20132.5L502.8%20137.0L499.8%20142.5L499.0%20145.5L498.9%20149.5L499.6%20154.0L496.5%20156.9L493.0%20158.9L482.0%20163.3L473.5%20165.7L437.5%20171.0L431.5%20171.2L429.2%20169.5L428.0%20155.0L425.2%20144.5L421.4%20136.0L414.0%20125.6L409.0%20121.3L402.0%20116.9L390.5%20112.3L379.0%20110.0L366.0%20110.0L357.0%20111.8L343.5%20117.1L337.5%20120.9L328.5%20129.0L324.7%20134.0L321.6%20140.0L319.4%20146.0L316.2%20162.5L315.1%20165.0L313.5%20166.3L271.5%20163.5L223.0%20162.0L173.0%20159.5L165.5%20158.5L158.0%20158.5L141.5%20157.0L129.0%20157.0L127.0%20156.4L125.4%20155.0L123.8%20151.0L122.2%20143.0L119.4%20135.5L114.2%20125.5L108.0%20117.0L102.5%20111.5L97.5%20107.9L94.5%20107.0L57.5%20108.0L50.5%20108.5L48.0%20109.3L42.6%20117.0L39.5%20129.0L40.0%20137.0L44.0%20151.9L42.5%20153.0L40.5%20153.1L32.0%20151.2L25.0%20148.9L20.9%20146.4L19.0%20139.5L17.4%20137.4L14.4%20131.0L15.1%20129.9L18.4%20128.4L19.2%20127.0L19.0%20125.0L16.5%20122.5L12.0%20121.4L10.0%20120.3L8.7%20118.5L8.8%20116.5L10.7%20112.5L10.0%20108.5L10.4%2095.5L19.5%2086.5L23.5%2083.6L45.5%2075.3L94.0%2062.9L126.0%2057.0L153.5%2053.5L163.0%2053.2L164.1%2054.1L164.5%2055.5L164.8%2065.5L166.5%2067.5L168.5%2067.5L175.5%2061.0L196.0%2038.5L207.0%2028.0L212.5%2018.5L217.0%2015.8L225.5%2014.0L236.5%2014.0L239.0%2013.5L277.5%2013.5L296.0%2014.4L298.5%2013.9L299.9%2013.9Z%27%2F%3E%3Ccircle%20cx%3D%2775%27%20cy%3D%27137%27%20r%3D%2738.5%27%2F%3E%3Ccircle%20cx%3D%27371%27%20cy%3D%27153.5%27%20r%3D%2744%27%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E") center/contain no-repeat}
+.theme-garage .mtable-wrap,.theme-garage .mverlauf,.theme-garage .mcard{background:var(--surface2)}
+.theme-garage .mtable th[scope=row] a{font-family:Anton,Impact,"Arial Narrow Bold",sans-serif;font-weight:400;font-size:1.02rem;letter-spacing:.02em}
+
+/* Tagschicht: Hellmodus. Bühne und Instrumente bleiben dunkel wie ein Cockpit, der Rest wird Werkstatt-Beton. */
+@media (prefers-color-scheme: light){
+  .theme-garage{
+    color-scheme:light;
+    --bg:#e9e7e1;--surface:#ffffff;--surface2:#f4f3ef;--border:#d5d2ca;
+    --text:#141414;--muted:#5d5b56;--accent:#8a6a00;--accent-soft:rgba(255,204,0,.22);
+    --tipp:#8a6a00;--tipp-soft:rgba(255,204,0,.14);
+    --s1:#d4a900;--s2:#c80500;--s3:#0b7fb8;--s4:#3a3f48;--s5:#15803d;
+    --grid:#e2e0da;--axis:#c3c0b8;--amber:#7a5c00;
+    background:
+      radial-gradient(900px 420px at 15% -8%,rgba(255,204,0,.22),transparent 60%),
+      radial-gradient(900px 420px at 92% -6%,rgba(225,6,0,.10),transparent 60%),
+      repeating-linear-gradient(45deg,rgba(0,0,0,.025) 0 4px,transparent 4px 8px),
+      var(--bg);
+    background-attachment:fixed}
+  .theme-garage .g-hero{color:#f2f2ee}
+  .theme-garage .fan-note{background:rgba(255,255,255,.65)}
+  .theme-garage .kicker{color:var(--amber)}
+  .theme-garage h1{background:linear-gradient(180deg,#111 35%,#4b5059 62%,#111 85%);-webkit-background-clip:text;background-clip:text;
+    filter:drop-shadow(0 3px 10px rgba(255,204,0,.45))}
+  .theme-garage h2,.theme-garage .g-ev-name{color:var(--text)}
+  .theme-garage .rubrik h2{color:var(--amber)}
+  .theme-garage .vorlesen button[data-stop]{color:var(--text)}
+  .theme-garage .tile{background:linear-gradient(180deg,#fff,#f1f0ec);border-color:var(--border)}
+  .theme-garage .tile-v{color:var(--text)}
+  .theme-garage .tile-l,.theme-garage .g-ev-link,.theme-garage .tag{color:var(--amber)}
+  .theme-garage .top-card{background:linear-gradient(180deg,#fff,#f6f5f1)}
+  .theme-garage .top-card .num{background:#111;color:#fff}
+  .theme-garage .rueckblick,.theme-garage .intro{background:linear-gradient(90deg,#fff3c2,#fff);border-color:#e7d27e}
+  .theme-garage .item:hover,.theme-garage .top-card:hover{border-color:#b9b5ab}
+  .theme-garage .item::after,.theme-garage .top-card::after{background:linear-gradient(100deg,transparent,rgba(255,204,0,.25) 40%,rgba(255,255,255,.7) 50%,rgba(255,204,0,.25) 60%,transparent)}
+  .theme-garage .g-radar li a:hover{color:var(--amber)}
+  .theme-garage .g-bar{background:#e4e2dc}
+  .theme-garage .mchip{background:#111;color:#fff}
+  .theme-garage .modelle{box-shadow:0 10px 30px rgba(0,0,0,.08);background:linear-gradient(180deg,rgba(255,204,0,.16),transparent 140px),var(--surface)}
+  .theme-garage .modelle > h2::before{background:#111}
+  .theme-garage footer::after{color:var(--amber)}
+}
+
+@media (max-width:560px){
+  .garage-car{width:290px}
+  .g-lights{position:static;width:max-content;margin-bottom:10px}
+  .garage-road::before,.garage-road::after{width:60px}
+}
+@media (prefers-reduced-motion:reduce){
+  .garage-road,.garage-car,.g-wheel{animation:none}
+}
+.g-shade{fill:url(#g-side);pointer-events:none}
+.g-hip{fill:none;stroke:#fff;stroke-width:1.8;opacity:.6}
+.g-hipshade{fill:#000;opacity:.12}
+.g-wingrib{stroke:#fff;stroke-width:1.2;opacity:.6}
+.g-vents{fill:#1c1f24;opacity:.85}
+.g-nut{fill:#9aa0a8}
+line.g-handle{stroke:#6d737b;stroke-width:2.6;stroke-linecap:round}
+
+.g-wingedge{fill:none;stroke:#2a2e34;stroke-width:1.2}
+/* Größer ab Tablet */
+@media (min-width:561px){
+  .garage-road{height:172px;
+    background:
+      repeating-linear-gradient(90deg,var(--yellow) 0 40px,transparent 40px 80px) 0 158px/100% 3px no-repeat,
+      linear-gradient(180deg,#121417 0 148px,#26292f 148px 100%);
+    animation-name:g-road-l}
+  .garage-car{width:450px}
+}
+@keyframes g-road-l{from{background-position:0 158px,0 0}to{background-position:80px 158px,0 0}}
+.fan-note a{color:inherit}
+
+/* Auto als freigestelltes Foto (CC BY 2.0, Valder137, bearbeitet) */
+div.garage-car{aspect-ratio:900/333;background:url(garage-993-turbo.webp) center/contain no-repeat;filter:drop-shadow(0 10px 8px rgba(0,0,0,.75));bottom:6px}
+@media (min-width:561px){div.garage-car{width:440px;bottom:4px}}

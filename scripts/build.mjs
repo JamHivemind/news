@@ -245,7 +245,9 @@ function buildDashboard(name, template) {
   const older = manifest.briefs[manifest.briefs.findIndex(b => b.date === date) + 1];
   const { kpis, dashboard: dash, fan } = renderDashboard(cfg, manifest, date, metrics, dir);
   // Modelle im Blick (Autos): Vergleich mit Marktdaten aus data/markt.json (scripts/markt.mjs)
-  const dashboard = dash + (cfg.modelle ? renderModelle(cfg, loadJson(join(dir, "data", "markt.json"), null), all) : "");
+  // "modelle.oben": true → vor den Diagrammen statt danach
+  const mod = cfg.modelle ? renderModelle(cfg, loadJson(join(dir, "data", "markt.json"), null), all) : "";
+  const dashboard = cfg.modelle?.oben ? mod + dash : dash + mod;
 
   const page = (root, assets, isIndex) => {
     const nav = [`<a href="${root}../">Alle Dashboards</a>`];
