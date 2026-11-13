@@ -1,11 +1,29 @@
 {
- "fetched": "2026-11-13T03:47:44.797Z",
+ "fetched": "2026-11-13T05:17:05.611Z",
  "hours": 48,
  "sources": [
   {
    "name": "NDR Hamburg",
    "ok": true,
    "items": [
+    {
+     "title": "Teilruine in der Holstenstraße: Frist für Eigentümer läuft ab",
+     "url": "https://www.ndr.de/nachrichten/hamburg/teilruine-in-der-holstenstrasse-frist-fuer-eigentuemer-laeuft-ab,holstenstrasse-134.html",
+     "date": "2026-11-13T05:01:15.000Z",
+     "text": "Seit den Abrissarbeiten vor drei Monaten ist in dem Haus in Hamburg-Altona kaum etwas passiert. Heute läuft eine Frist für den Eigentümer ab."
+    },
+    {
+     "title": "Containerumschlag im Hamburger Hafen geht leicht zurück",
+     "url": "https://www.ndr.de/nachrichten/hamburg/containerumschlag-im-hamburger-hafen-geht-leicht-zurueck,hafen-232.html",
+     "date": "2026-11-13T05:00:02.000Z",
+     "text": "Als Gründe dafür nennt die Hafenverwaltung Hamburg Port Authority die Kälte zu Beginn des Jahres und die Folgen des Iran-Krieges."
+    },
+    {
+     "title": "Hamburg: \"Fridays for Future\" ruft zu Klimaprotesten auf",
+     "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-fridays-for-future-ruft-zu-klimaprotesten-auf,klima-376.html",
+     "date": "2026-11-13T04:48:58.000Z",
+     "text": "In mehr als 50 deutschen Städten soll heute demonstriert werden. In Hamburg erwarten die Veranstalter laut Polizei rund 3.000 Teilnehmer."
+    },
     {
      "title": "Einbruchsversuche in Juwelierläden: Zwei mutmaßliche Täter gefasst",
      "url": "https://www.ndr.de/nachrichten/hamburg/einbruchsversuche-in-juwelierlaeden-zwei-mutmassliche-taeter-gefasst,langenhorn-104.html",
@@ -17,24 +35,6 @@
      "url": "https://www.ndr.de/nachrichten/hamburg/zahl-der-ueberschuldeten-menschen-in-hamburg-deutlich-gestiegen,schuldneratlas-120.html",
      "date": "2026-11-12T18:48:37.000Z",
      "text": "Wie aus dem \"Schuldneratlas\" von Creditreform hervorgeht, sind rund 190.000 Menschen in der Hansestadt überschuldet. Das sind etwa 8.000 Fälle mehr als 2025."
-    },
-    {
-     "title": "Hamburger Reederei Hapag-Lloyd profitiert von hohen Frachtraten",
-     "url": "https://www.ndr.de/nachrichten/hamburg/Hamburger-Reederei-Hapag-Lloyd-rechnet-mit-hoeherem-Gewinn,hapaglloyd-128.html",
-     "date": "2026-11-12T16:43:40.000Z",
-     "text": "Obwohl der Umsatz stagniert, verzeichnet Hapag-Lloyd im dritten Quartal einen deutlich höheren Gewinn als im Vorjahr. Grund sind die hohen Preise für den Containertransport."
-    },
-    {
-     "title": "Hamburg: \"Fridays for Future\" ruft zu Klimaprotesten auf",
-     "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-fridays-for-future-ruft-zu-klimaprotesten-auf,klima-376.html",
-     "date": "2026-11-12T19:23:58.000Z",
-     "text": "In mehr als 50 deutschen Städten soll am Freitag demonstriert werden. In Hamburg erwarten die Veranstalter laut Polizei rund 3.000 Teilnehmer."
-    },
-    {
-     "title": "Zweiter bei Route du Rhum! Herrmann feiert starkes Solo-Debüt mit Malizia 4",
-     "url": "https://www.ndr.de/sport/mehr_sport/herrmann-zweiter-bei-route-du-rhum-starkes-solo-debuet-mit-der-malizia-4,segeln-702.html",
-     "date": "2026-11-12T15:30:39.000Z",
-     "text": "Der Weltumsegler aus Hamburg hat bei seiner ersten Solo-Regatta mit seiner neuen Malizia 4 einen seiner größten Karriereerfolge eingefahren."
     },
     {
      "title": "Nach Steinwürfen auf A7: Mutmaßliche Täter in Untersuchungshaft",
@@ -109,16 +109,34 @@
      "text": "True Crime Hamburg: Hamburgs Polizeipräsident a.D. Ralf Martin Meyer und Schauspieler und Ehrenkommissar Marek Erhardt erklären die Arbeit der Polizei."
     },
     {
+     "title": "A1 in Hamburg am Wochenende in eine Richtung gesperrt",
+     "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-am-wochenende-in-einer-richtung-gesperrt,aeins-168.html",
+     "date": "2026-11-11T14:13:37.000Z",
+     "text": "Die A1 muss von Samstagmorgen bis Sonntagabend Richtung Bremen voll gesperrt werden. Grund ist ein Fahrbahnschaden nahe der Norderelbbrücke."
+    },
+    {
+     "title": "Zweiter bei Route du Rhum! Herrmann feiert starkes Solo-Debüt mit Malizia 4",
+     "url": "https://www.ndr.de/sport/mehr_sport/herrmann-zweiter-bei-route-du-rhum-starkes-solo-debuet-mit-der-malizia-4,segeln-702.html",
+     "date": "2026-11-12T15:30:39.000Z",
+     "text": "Der Weltumsegler aus Hamburg hat bei seiner ersten Solo-Regatta mit seiner neuen Malizia 4 einen seiner größten Karriereerfolge eingefahren."
+    },
+    {
      "title": "Glamourös im Yoga-Outfit: Letzte Proben für \"Der Teufel trägt Prada\"",
      "url": "https://www.ndr.de/kultur/buehne/theaterberichte/hamburg/glamouroes-im-yoga-outfit-letzte-proben-fuer-der-teufel-traegt-prada,teufeltraegtprada-114.html",
      "date": "2026-11-12T19:16:33.000Z",
-     "text": "Am 10. Dezember steht die deutsche Erstaufführung in Hamburg auf dem Programm. Die Musik stammt von keinem geringerem als von Elton John."
+     "text": "Das Musical feiert am 10. Dezember seine Deutschland-Premiere in Hamburg Die Musik hat Superstar Elton John komponiert."
     },
     {
      "title": "Weniger Menschen haben in Hamburg eine Ausbildung begonnen",
      "url": "https://www.ndr.de/nachrichten/hamburg/weniger-menschen-haben-in-hamburg-eine-ausbildung-begonnen,ausbildungsbilanz-104.html",
      "date": "2026-11-12T19:25:06.000Z",
      "text": "Der Agentur für Arbeit Hamburg wurden in diesem Jahr 9.314 Ausbildungsstellen gemeldet, ein Minus von 1.051 im Vergleich zum Vorjahr."
+    },
+    {
+     "title": "Hamburger Reederei Hapag-Lloyd profitiert von hohen Frachtraten",
+     "url": "https://www.ndr.de/nachrichten/hamburg/Hamburger-Reederei-Hapag-Lloyd-rechnet-mit-hoeherem-Gewinn,hapaglloyd-128.html",
+     "date": "2026-11-12T16:43:40.000Z",
+     "text": "Obwohl der Umsatz stagniert, verzeichnet Hapag-Lloyd im dritten Quartal einen deutlich höheren Gewinn als im Vorjahr. Grund sind die hohen Preise für den Containertransport."
     },
     {
      "title": "Gewinn von Hamburgs Hafenbetreiber HHLA bricht um fast 25 Prozent ein",
@@ -151,12 +169,6 @@
      "text": "Das Ohmoor im Hamburger Stadtteil Niendorf soll wieder vernässt werden. Der Umweltausschuss des Bezirks Eimsbüttel stimmte einem Antrag von Grünen und SPD zu."
     },
     {
-     "title": "A1 in Hamburg am Wochenende in eine Richtung gesperrt",
-     "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-am-wochenende-in-einer-richtung-gesperrt,aeins-168.html",
-     "date": "2026-11-11T14:13:37.000Z",
-     "text": "Die A1 muss von Samstagmorgen bis Sonntagabend Richtung Bremen voll gesperrt werden. Grund ist ein Fahrbahnschaden nahe der Norderelbbrücke."
-    },
-    {
      "title": "Altonaer Museum: Hamburg durch die Linse jüdischer Geschichte",
      "url": "https://www.ndr.de/kultur/gesellschaft/hamburgs-juedische-geschichte-bewegende-zeitreise-durch-400-jahre,altonaermuseum-100.html",
      "date": "2026-11-12T11:09:32.000Z",
@@ -187,16 +199,82 @@
      "text": "Nach Auswüchsen in Pausen und auf den Toiletten gibt es eine neue Lösung. Die Sophie-Barat-Schule nutzt funksichere Handy-Hüllen."
     },
     {
+     "title": "Hamburgs Polizei zeigt Stärke – das muss langfristig so bleiben",
+     "url": "https://www.abendblatt.de/hamburg/politik/article413663765/hamburgs-polizei-zeigt-staerke-das-muss-langfristig-so-bleiben.html",
+     "date": "2026-11-13T05:02:00.000Z",
+     "text": "Innensenator lobt seine Beamten nach Einsatz in der HafenCity zu Recht. Auf lange Sicht müssen aber auch die Rahmenbedingungen stimmen."
+    },
+    {
+     "title": "Anwältin angeklagt: Juristin soll mit Betrügern gemeinsame Sache gemacht haben",
+     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413603925/coronahilfen-landgericht-hamburg-juristin-betrug-prozess-anwaeltin-angeklagt.html",
+     "date": "2026-11-13T04:55:00.000Z",
+     "text": "Die 37-Jährige beteuert am Landgericht Hamburg ihre Unschuld. Es geht um zu Unrecht ausgezahlte Coronahilfen. Verfahren auch gegen weitere Beteiligte."
+    },
+    {
+     "title": "Buchhändler aus Ottensen sauer: Müllcontainer soll zurück vor ihr Schaufenster",
+     "url": "https://www.abendblatt.de/hamburg/altona/article413652832/buchhaendler-christiansen-aus-ottensen-sauer-muellcontainer-bald-vor-schaufenster.html",
+     "date": "2026-11-13T04:55:00.000Z",
+     "text": "Jahrelang ärgerten sich die Geschäftsleute schon über den Betonklotz vor ihrer Auslage. Warum sie den Behälter einfach nicht loswerden."
+    },
+    {
+     "title": "So hat Todesschütze Uwe E. mich übers Ohr gehauen: Betrugsopfer erzählt",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413655224/so-hat-todesschuetze-uwe-e-mich-uebers-ohr-gehauen-betrugsopfer-erzaehlt.html",
+     "date": "2026-11-13T04:51:00.000Z",
+     "text": "Eine Tat des 68-Jährigen, der in der HafenCity töten wollte, beschäftigt einen Taxifahrer seit 33 Jahren. Seine Worte im O-Ton."
+    },
+    {
+     "title": "Hof Mecklenburg steht weiter leer – doch Gespräche über neue Kita kommen voran",
+     "url": "https://www.abendblatt.de/hamburg/wandsbek/article413635895/hof-mecklenburg-steht-weiter-leer-doch-gespraeche-ueber-neue-kita-kommen-voran.html",
+     "date": "2026-11-13T04:48:00.000Z",
+     "text": "Seit vier Jahren ist der Umbau genehmigt. Nun melden Hamburgs Kulturbehörde und Betreiber Fortschritte – Baustart ist aber noch offen."
+    },
+    {
+     "title": "Nur eine harmlose Kunstaktion? Ein Gruß über die Gefängnismauer mit Folgen",
+     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413665627/nur-eine-harmlose-kunstaktion-ein-gruss-ueber-die-gefaengnismauer-mit-folgen.html",
+     "date": "2026-11-13T04:45:00.000Z",
+     "text": "Weil er bei einer Kundgebung gegen das Vermummungsverbot verstoßen haben soll, muss sich ein 26-Jähriger in Bergedorf verantworten."
+    },
+    {
+     "title": "Warum sich diese Hamburgerin (34) nackt auf dem Kiez von Fremden malen lässt",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413608129/warum-sich-diese-hamburgerin-34-nackt-auf-dem-kiez-von-fremden-malen-laesst.html",
+     "date": "2026-11-13T04:41:00.000Z",
+     "text": "Ende November steht Sandra Keßeler-Jensen in Udo Lindenbergs Panik City Modell. Das hat auch mit ihrer Brustkrebs-Erkrankung zu tun."
+    },
+    {
+     "title": "Bis zu 15 Prozent: So viele Studienplätze müssen Uni Hamburg und HAW abbauen",
+     "url": "https://www.abendblatt.de/hamburg/politik/article413643987/bis-zu-15-prozent-so-viele-studienplaetze-muessen-uni-hamburg-und-haw-abbauen.html",
+     "date": "2026-11-13T04:35:00.000Z",
+     "text": "Hochschule für Angewandte Wissenschaften trifft es besonders hart. An der Uni fallen Studiengänge weg. Studierende schreiben Postkarten an Senat."
+    },
+    {
+     "title": "Rennradunfälle auf dem Deich: Piktogramme auf der Straße sollen Leben retten",
+     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413652183/rennradunfaelle-auf-dem-deich-piktogramme-auf-der-strasse-sollen-leben-retten.html",
+     "date": "2026-11-13T04:30:00.000Z",
+     "text": "Vier- und Marschlande: Immer wieder prallen Radfahrer mit gesenktem Kopf auf geparkte Autos. Können Zeichnungen das Problem lösen?"
+    },
+    {
+     "title": "Großeinsatz in der HafenCity: Schütze löst CBRNE‑Lage aus – was ist das?",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413647609/grosseinsatz-in-der-hafencity-schuetze-loest-cbrneE28091lage-aus-was-ist-das.html",
+     "date": "2026-11-13T04:25:00.000Z",
+     "text": "Uwe E. schoss auf seine Schwiegertochter und ihren Security-Mann. Was er am Vortag getan hatte, rief die Feuerwehr auf den Plan."
+    },
+    {
+     "title": "Harburg: Auf diesen sieben Abschnitten soll bald Tempo 30 gelten",
+     "url": "https://www.abendblatt.de/hamburg/harburg/article413633679/harburg-auf-sieben-abschnitten-soll-bald-tempo-30-gelten.html",
+     "date": "2026-11-13T04:02:00.000Z",
+     "text": "Nächtlicher Lärmschutz, spielende Kinder, Schulen: Die Gründe für Tempolimits sind vielfältig. Politik und Polizei sind sich oft nicht einig."
+    },
+    {
+     "title": "Bethesda ist jetzt als Darmkrebszentrum zertifiziert: Großer Zulauf an Patienten",
+     "url": "https://www.abendblatt.de/hamburg/bergedorf/article413645437/bethesda-ist-jetzt-als-darmkrebszentrum-zertifiziert-grosser-zulauf-an-patienten.html",
+     "date": "2026-11-13T04:00:00.000Z",
+     "text": "Klinikum setzt bei der Behandlung jetzt auch auf Psycho-Onkologie: Was die neue Zertifizierung des Darmkrebszentrums alles vorschreibt."
+    },
+    {
      "title": "„Bester Strandurlaub“: Sylt auf dem dritten Platz bei Reisemagazin Condé Nast",
      "url": "https://www.abendblatt.de/schleswig-holstein/article413665803/bester-strandurlaub-sylt-auf-dem-dritten-platz-bei-reisemagazin-condC3A9-nast.html",
      "date": "2026-11-12T22:02:00.000Z",
      "text": "Leserinnen und Leser stimmten bei Condé Nast für die Nordseeinsel ab, Platz eins ging an die Bahamas. Wo Sylt noch einen Spitzenplatz belegt."
-    },
-    {
-     "title": "Schwäbisches Dorf nach Leichenfund unter Schock: „Justiz ist an allem schuld“",
-     "url": "https://www.abendblatt.de/hamburg/politik/article413662821/schwaebisches-dorf-nach-leichenfund-unter-schock-justiz-ist-an-allem-schuld.html",
-     "date": "2026-11-12T19:05:00.000Z",
-     "text": "Gewalttat mit drei Toten verbindet Hamburg mit einer kleinen süddeutschen Gemeinde. So erlebte Eningen unter Achalm die blutige Tragödie."
     },
     {
      "title": "Jugendliche werfen Steine auf A7 – Staatsanwaltschaft vollzieht 180-Grad-Wende",
@@ -293,72 +371,6 @@
      "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413652941/hapag-lloyd-verdient-wieder-milliarden-rettet-das-hamburgs-haushalt.html",
      "date": "2026-11-12T14:27:00.000Z",
      "text": "Reederei profitiert von hoher Auslastung und steigenden Frachtraten. Vorstand hebt Gewinn-Prognose an. Worauf Hamburg hoffen darf."
-    },
-    {
-     "title": "Nach Einbrüchen bei Juwelieren: SEK stürmt Wohnung in Langenhorn",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article413660665/nach-einbruechen-bei-juwelieren-sek-stuermt-wohnung-in-langenhorn.html",
-     "date": "2026-11-12T14:21:20.000Z",
-     "text": "Dreimal hatten Unbekannte im Oktober versucht, mit einem Auto in Geschäfte einzudringen. Jetzt ist der Polizei offenbar ein Ermittlungserfolg gelungen."
-    },
-    {
-     "title": "Kriegerdenkmal in Bramfeld eingeweiht – erneute Kritik von Anwohnern",
-     "url": "https://www.abendblatt.de/hamburg/wandsbek/article413660231/kriegerdenkmal-in-bramfeld-eingeweiht-erneute-kritik-von-anwohnern.html",
-     "date": "2026-11-12T14:14:00.000Z",
-     "text": "Der „Krieger“ am Bramfelder See war bereits seit Jahren umstritten – die Neugestaltung der Fläche aber auch. Was Verantwortliche sagen."
-    },
-    {
-     "title": "Musical „MJ“ im Theater an der Elbe: So schlägt sich der neue Michael Jackson",
-     "url": "https://www.abendblatt.de/hamburg/kultur/article413654140/musical-mj-im-theater-an-der-elbe-so-schlaegt-sich-der-neue-michael-jackson.html",
-     "date": "2026-11-12T13:45:00.000Z",
-     "text": "Die Schritte geschmeidig. Die Gesten genau auf den Punkt. Die Stimme enorm berührend. Erik Hamilton ist als neuer Michael Jackson spektakulär."
-    },
-    {
-     "title": "Schütze beschädigt vor Schuss auf Schwiegertochter (39) Oldtimer mit Salzsäure",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413654805/elbphilharmonie-schuetze-beschaedigt-vor-schuss-auf-frau-oldtimer-mit-salzsaeure-1.html",
-     "date": "2026-11-12T13:44:00.000Z",
-     "text": "68-Jähriger geht im Treppenhaus bereits am Montag auf Hamburgerin los, am Dienstag schoss er sie nieder. Blendgranate löste Brandalarm aus."
-    },
-    {
-     "title": "Nach Rohrbruch an Amsinckstraße: Nordkanalbrücke drei Tage lang voll gesperrt",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413660708/nach-wasserrohrbruch-an-amsinckstrasse-nordkanalbruecke-drei-tage-lang-voll-gesperrt.html",
-     "date": "2026-11-12T13:43:00.000Z",
-     "text": "Während der Arbeiten an der Trinkwasserleitung muss der Verkehr stadtauswärts umgeleitet werden. Was das für Autofahrer bedeutet."
-    },
-    {
-     "title": "Viel Rosa und „Candy“: Was Besucher auf dem Weihnachtsmarkt im Westfield erwartet",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413603118/weihnachtsmarkt-hamburg-viel-rosa-und-candy-was-besucher-im-westfield-erwartet.html",
-     "date": "2026-11-12T13:29:00.000Z",
-     "text": "Das bunte Spektakel im XXL-Einkaufsviertel ist eröffnet. Geboten werden neben Schneegestöber auch Livemusik und Essen aus aller Welt."
-    },
-    {
-     "title": "Café-Chef in Hoheluft verkündet neue Regel: Nach 90 Minuten müssen Gäste gehen",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article413658590/chef-von-cafC3A9-in-hoheluft-verkuendet-neue-regel-nach-90-minuten-muessen-gaeste-gehen.html",
-     "date": "2026-11-12T13:01:40.000Z",
-     "text": "Freitags bis sonntags ist das Lowinsky’s voll. Jetzt begrenzt der Inhaber die Verweildauer – und erklärt, warum er diesen Schritt geht."
-    },
-    {
-     "title": "Schluss mit fliegenden Containern: HHLA-Chef Eijsink streicht Zukunftsprogramme",
-     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413612871/hhla-chef-eijsink-streicht-zukunftsprogramme-von-vorgaengerin-titzrath.html",
-     "date": "2026-11-12T12:58:00.000Z",
-     "text": "Neunmonatsergebnis fällt mit zwei Millionen Euro sehr schmal aus. Neuer HHLA-Chef beerdigt Ideen seiner Vorgängerin Angela Titzrath."
-    },
-    {
-     "title": "Korn in Hamburg: Dieses Geballer fegt die Gehörgänge von jedem Musikschlamm frei",
-     "url": "https://www.abendblatt.de/hamburg/kultur/article413584704/korn-in-hamburg-dieses-geboeller-fegt-die-gehoergaenge-von-jedem-musikschlamm-frei.html",
-     "date": "2026-11-12T12:44:00.000Z",
-     "text": "30 Jahre Bandgeschichte haben Korn nicht ermattet. Es war ein Spektakel. 10.000 Fans trauten in der Barclays Arena Augen und Ohren nicht."
-    },
-    {
-     "title": "Elbphilharmonie: Mahlers Siebte unbeliebt? Klaus Mäkelä widerlegt das grandios",
-     "url": "https://www.abendblatt.de/hamburg/kultur/article413657746/elbphilharmonie-mahlers-siebte-unbeliebt-klaus-maekelae-widerlegt-das-grandios.html",
-     "date": "2026-11-12T12:16:00.000Z",
-     "text": "Das Royal Concertgebouw Orchestra und sein künftiger Chefdirigent setzen bei ihrem zweiten Konzert das Hamburger Publikum unter Strom."
-    },
-    {
-     "title": "„Jacke gegen Glühwein“: Goldkehlchen laden zu besonderer Aktion auf dem Kiez",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413650607/jacke-gegen-gluehwein-hamburger-goldkehlchen-laden-zu-besonderer-aktion-auf-dem-kiez.html",
-     "date": "2026-11-12T12:00:00.000Z",
-     "text": "Hamburger Männerchor sammelt Kleidung, um Bedürftigen zu helfen. Wer mitmacht, bekommt heiße Drinks in weihnachtlicher Atmosphäre."
     }
    ]
   },
@@ -554,10 +566,10 @@
    "ok": true,
    "items": [
     {
-     "title": "Hamburger Hafen: So will die HHLA konkurrenzfähig bleiben - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXIwc2pNYVB3QnhUcEd6TlVPOTEyOEhQZzBycm5iOEQyQXNNWG1taFZYQUI5eWlvNERsVVpNTzg1V3FmeUZacXJWcDFRRUZaQWkwVzVEbGhzc3ZfT0s5TjY3TUl1V1duNFRmV2s4am1UZ3hKQ29nc1VsM09OdnUtVXlXOGp3Vko0Mnd4RDB3Yjg1YUlCR2t0aUNQdU9yZFpTTzF1TWVYMEE?oc=5",
-     "date": "2026-11-12T12:49:31.000Z",
-     "text": "Hamburger Hafen: So will die HHLA konkurrenzfähig bleiben NDR.de",
+     "title": "Hamburger Hafen spürt Kälte, Iran-Krieg und Streiks – Eurogate trotzt, HHLA verliert deutlich - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDBQRE12VzY3NWpaNGtieDEyWFBGUXN6VkhDTGNsUndtNXdMZ3lncEVKa0NFdmhyVVRHRHNqNGJlSmROY3hYX1hkVTZ3a2JIOE16a3ZjTGFheEwyM2otbDVfVTlqTGJ4QWdSQjNyVUo2WTMyRG9lZFBSWURocE9jZ212cHpLdkMtRC1kTURiS1hrSGphWW91ZEJzYUJhN2FSV3ZJNmJ5cURzR1I3a2RB?oc=5",
+     "date": "2026-11-13T04:13:00.000Z",
+     "text": "Hamburger Hafen spürt Kälte, Iran-Krieg und Streiks – Eurogate trotzt, HHLA verliert deutlich NDR.de",
      "via": "NDR.de"
     },
     {
@@ -575,6 +587,13 @@
      "via": "Spiegel"
     },
     {
+     "title": "Bund will bei E-Bussen auf die Bremse treten – welche Auswirkungen das auf Hamburg hat - NAHVERKEHR HAMBURG",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVFUSHR1VmlwS2lvd09tYVhZMnVRTXQ2Z1hJYWZqTUJ6OTFpWmFKQi1JZ0RwRkZERHNVdkIyUzUxQWhreU1PcFRiM1pLWlNLV08tMmJOcV92RFlGOXNsRjltY0hRMDFmd05YdWQ5amg1RUJqOEUtbmVqaEMyTFdlMll4ZUVMR1Vud0NZdk95NVFGOXllZktHRmdpUDRSMFRZTjhsUXZhTFZBeV8xcm51cjNGU2xrY2V3b0ZhY1VpdEVBaWc?oc=5",
+     "date": "2026-11-13T04:04:30.000Z",
+     "text": "Bund will bei E-Bussen auf die Bremse treten – welche Auswirkungen das auf Hamburg hat NAHVERKEHR HAMBURG",
+     "via": "NAHVERKEHR HAMBURG"
+    },
+    {
      "title": "Marode Köhlbrandbrücke: Hamburgs Hafen droht der Infarkt - taz.de",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1YUlVcHhfb084NGU4UmVMbFdKdUN2VTBtX1lUaS1zamhnRFJZSWdUZHRTUDJHYnl6a2FwVnAtR21TVXBTZFVTQ1BUdVRnaXpjdkZrZGlSSnhoVUFiamc?oc=5",
      "date": "2026-11-12T16:43:17.000Z",
@@ -582,25 +601,11 @@
      "via": "taz.de"
     },
     {
-     "title": "1,58 Millionen Euro Abfindung: Das verdienen Hamburgs Manager - t-online – Hamburg",
+     "title": "Abfindung von 1,6 Millionen Euro: So gut verdienen Hamburgs Top-Manager - t-online – Hamburg",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkFlV1V1OEtNaWl4SmF5Z3JNX1lLM21ESnl4Wm5HNDhXVmR4UjVvOGJzRTg5RXhkbGEzcUlFYUxRSlV2TmZ1NFRjd3R6Sk82S2toS19tb1Nqa2oya1lJUnZTcC1wa1dnclZXZi10ODVybDY2emplNjdjZmhkY1RJMlpqNkhuX2dSdTVnNk53Q1VyU0JsV2MxcFVjdmhrZEo1Z2ROTko3N1RGZ3BxOG5QLVRMMHRDdzVFY29R?oc=5",
      "date": "2026-11-12T17:11:00.000Z",
-     "text": "1,58 Millionen Euro Abfindung: Das verdienen Hamburgs Manager t-online – Hamburg",
+     "text": "Abfindung von 1,6 Millionen Euro: So gut verdienen Hamburgs Top-Manager t-online – Hamburg",
      "via": "t-online – Hamburg"
-    },
-    {
-     "title": "Hamburg, News, Regional: Hamburger Hafen verzeichnet leichtes Umschlagminus - tixio - Nachrichten",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnZydEs4Nnc2U0FYcVI5VVp0RWNSRk5kZmlpcFRxd2x6OFAxQmxrRDNMZ2pvbmNlMS1CbTkteG1ITTdTZlJ1UjN1VndILVRaVzBsaFBKMmJ3ZEtHTVV6NExtTUc4MFprREJDUHBya21TN2k4RE55SW53YnBUNE1mRVJ2S0xHaWt1RHRJRg?oc=5",
-     "date": "2026-11-12T13:11:13.000Z",
-     "text": "Hamburg, News, Regional: Hamburger Hafen verzeichnet leichtes Umschlagminus tixio - Nachrichten",
-     "via": "tixio - Nachrichten"
-    },
-    {
-     "title": "Umschlag in Hamburg weiter im Minus - THB - Täglicher Hafenbericht",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHpEamFvX2ExRlBLVHc2cDZMV1czaXlNekREb2xabVdTM1ZraWU3OW5JTlpwSDJZUXV3TUJTYl9Dd0VmQjByR2xaLVJoM2YwV0lrTDVnY3lZcVJXb3ZPWkE5VGFIZ3BGZWh0YkJrTmpCUkhiWnhZem1pTENnbDNMY3k2WmdHNFRPRVlNUk9nSGFxcHc?oc=5",
-     "date": "2026-11-12T14:10:16.000Z",
-     "text": "Umschlag in Hamburg weiter im Minus THB - Täglicher Hafenbericht",
-     "via": "THB - Täglicher Hafenbericht"
     },
     {
      "title": "Hamburgs Hafen im Sinkflug: Umschlag und Gewinn bei HHLA schwinden - NDR.de",
@@ -615,6 +620,13 @@
      "date": "2026-11-11T17:49:00.000Z",
      "text": "\"Kontrolle, Zwang und Verdrängung\" t-online – Hamburg",
      "via": "t-online – Hamburg"
+    },
+    {
+     "title": "Hamburger Hafen: So will die HHLA konkurrenzfähig bleiben - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXIwc2pNYVB3QnhUcEd6TlVPOTEyOEhQZzBycm5iOEQyQXNNWG1taFZYQUI5eWlvNERsVVpNTzg1V3FmeUZacXJWcDFRRUZaQWkwVzVEbGhzc3ZfT0s5TjY3TUl1V1duNFRmV2s4am1UZ3hKQ29nc1VsM09OdnUtVXlXOGp3Vko0Mnd4RDB3Yjg1YUlCR2t0aUNQdU9yZFpTTzF1TWVYMEE?oc=5",
+     "date": "2026-11-12T12:49:31.000Z",
+     "text": "Hamburger Hafen: So will die HHLA konkurrenzfähig bleiben NDR.de",
+     "via": "NDR.de"
     },
     {
      "title": "Hamburgische Bürgerschaft beschließt Kauf von Drohnenabwehrsystemen - NDR.de",
@@ -638,13 +650,6 @@
      "via": "NDR.de"
     },
     {
-     "title": "Hamburg: 3.000 bei Fridays-for-Future-Demo erwartet - Klimapolitik entzweit Senat und Opposition - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0YwT3lycE45bWlyZDhCOFlvenI3YnVENmpVU2duZU40TjNvLWVJRG4waUhHZjVYQUdMOEM4aEpHRUdILUY2S1l1R1FFZHNfWXhSNzBDSkpuSnJNa0VrNEI1ekI2b1VUU2ZrZ1R6UmdBbzBEN0JCMFhpdW1yMExzMmNlaEViUmdqcEduV21iaG9Nc0lPWjFHLXg2RUtFLXlKZjk1X0Qwc2Rvc0U?oc=5",
-     "date": "2026-11-12T05:41:24.000Z",
-     "text": "Hamburg: 3.000 bei Fridays-for-Future-Demo erwartet - Klimapolitik entzweit Senat und Opposition NDR.de",
-     "via": "NDR.de"
-    },
-    {
      "title": "Warum ein jüdisches Museum für Hamburg kommen muss: Ausstellung durch die Linse jüdischer Geschichte - NDR.de",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHVJWlFvZE1ZZk5YZElDLUxmTW9xUm12djBWYVMyZFhPaFk4U0E3VFBtU0stT3VRZ2FGci0wcU82M091c3hvNGQ2akFtY0ZwRDRpdUNKNzZ6dXNMa2VqMFNBZ3pMV2tLRURWTS1qNk1aOXFLWlJDRTNMS1U0QU8tYU4taEV4eW9QQU4wZXFSVC15NmtEVU41bkhoSTRYd3dPek9MUG1EU3ZfRVlwQVJidUpfaGhjM1ltc1ZhV0ZOMEhMSWFDU0Z3?oc=5",
      "date": "2026-11-12T10:03:31.000Z",
@@ -652,18 +657,39 @@
      "via": "NDR.de"
     },
     {
+     "title": "Hamburg: 3.000 bei Fridays-for-Future-Demo erwartet - Klimapolitik entzweit Senat und Opposition - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0YwT3lycE45bWlyZDhCOFlvenI3YnVENmpVU2duZU40TjNvLWVJRG4waUhHZjVYQUdMOEM4aEpHRUdILUY2S1l1R1FFZHNfWXhSNzBDSkpuSnJNa0VrNEI1ekI2b1VUU2ZrZ1R6UmdBbzBEN0JCMFhpdW1yMExzMmNlaEViUmdqcEduV21iaG9Nc0lPWjFHLXg2RUtFLXlKZjk1X0Qwc2Rvc0U?oc=5",
+     "date": "2026-11-12T05:41:24.000Z",
+     "text": "Hamburg: 3.000 bei Fridays-for-Future-Demo erwartet - Klimapolitik entzweit Senat und Opposition NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Hamburger Bündnis sammelt 7.300 Unterschriften und fordert 4.000 Wohnungen für Obdachlose - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2JtSjdiU3RNZWxBNVJCM2VzYlhJMEdieE9qVGxnWXNYeEwxYWQwSGhuU3lRc1dBdlVONEoya0QwU2F2QXI5eDh0VHlrWnBFMHEyY2dGWWlhbHBHUTZvelBHalFoaUJQZnpLSEZRc2RHWkxjVnYxeXRTUXBUZV9OTERYNlVDRzdSdmxKa0E4TzNiQm1fUTRweG5FUjhfT1FYVUVoM1VkUDY5RmM1WmRJbU53SlI4eWFXeXZnOA?oc=5",
+     "date": "2026-11-11T10:32:13.000Z",
+     "text": "Hamburger Bündnis sammelt 7.300 Unterschriften und fordert 4.000 Wohnungen für Obdachlose NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Hamburg, News, Regional: Hamburger Hafen verzeichnet leichtes Umschlagminus - tixio - Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnZydEs4Nnc2U0FYcVI5VVp0RWNSRk5kZmlpcFRxd2x6OFAxQmxrRDNMZ2pvbmNlMS1CbTkteG1ITTdTZlJ1UjN1VndILVRaVzBsaFBKMmJ3ZEtHTVV6NExtTUc4MFprREJDUHBya21TN2k4RE55SW53YnBUNE1mRVJ2S0xHaWt1RHRJRg?oc=5",
+     "date": "2026-11-12T13:11:13.000Z",
+     "text": "Hamburg, News, Regional: Hamburger Hafen verzeichnet leichtes Umschlagminus tixio - Nachrichten",
+     "via": "tixio - Nachrichten"
+    },
+    {
+     "title": "Umschlag in Hamburg weiter im Minus - THB - Täglicher Hafenbericht",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHpEamFvX2ExRlBLVHc2cDZMV1czaXlNekREb2xabVdTM1ZraWU3OW5JTlpwSDJZUXV3TUJTYl9Dd0VmQjByR2xaLVJoM2YwV0lrTDVnY3lZcVJXb3ZPWkE5VGFIZ3BGZWh0YkJrTmpCUkhiWnhZem1pTENnbDNMY3k2WmdHNFRPRVlNUk9nSGFxcHc?oc=5",
+     "date": "2026-11-12T14:10:16.000Z",
+     "text": "Umschlag in Hamburg weiter im Minus THB - Täglicher Hafenbericht",
+     "via": "THB - Täglicher Hafenbericht"
+    },
+    {
      "title": "Hafenlogistik: HHLA schlägt deutlich weniger Container um - STERN.de",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcWRoU0pIX1Vya0k4U2tzNzB3eDg3TERJZ2pkMnRxVEh5Zzl6WXFrc2syQVAzYUplVGxzZTJBSmdFbVVNV0liRE13LXdKS0h4TE9mUF9TQzlYRjR0MS1yVE5GUnJVUV9NODV0MnR2T2FMZS1nMmx2LTVKWEllUEN4M3d1UVFFWnhiekR4UEFiMjZGekN4N0U0eGMwOFNYZzA0Um9zTTF1QWhhQmwtS09OXzN3b1JXSnN2TUMzbmFGY1BTOE9LVzJoY3BWSE5lQnduelJhdVhhRXR0UQ?oc=5",
      "date": "2026-11-12T15:50:33.000Z",
      "text": "Hafenlogistik: HHLA schlägt deutlich weniger Container um STERN.de",
      "via": "STERN.de"
-    },
-    {
-     "title": "Mit Blick auf Elbtower und Hafen: 15 Hamburger wohnen jetzt in einem Büro - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSTJfQ096cWFUMnppQmNnUjVmSTJENFFuZTFWeGZlUmhGeERrU3RLY2tGQWJxek1sdHpWSXRScU1FbmR3ZWRMalNxV0NkS0UzWWxTTDNLMW9lcFVOazZVQjBHbG0tVjJ6T0RrMW5KdDI2anBWYzhUMFhaZG1ubk9ERkEwcnd6akpfTVcwQVU0VE1ydTFkWXNySjhSMHVKMjl1TGMwR3NHMGNkdHduRnpZdVU0OGVQZnF1RTRYcjk5TlJTV0dYX3JsOTlSQTEwdFVVd1pMWllXdjU1R2M?oc=5",
-     "date": "2026-11-12T04:45:00.000Z",
-     "text": "Mit Blick auf Elbtower und Hafen: 15 Hamburger wohnen jetzt in einem Büro Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
     },
     {
      "title": "KI: Hamburger Nahverkehr – Eine App, die alles organisiert - WELT",
@@ -680,10 +706,10 @@
      "via": "MOPO"
     },
     {
-     "title": "Spektakulärer Hingucker in der HafenCity: So läuft der Lighthouse-Abriss - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMExGMDhEODBHZl9qRko3aGJjSWlWWmVSNjNlbnI5TXhFbG40OGhjXzZ6ZDU0MGNLSm5jdjRLWFZlMmttZGV1eXJlRHB6LTJkUHozUGpEaldEWXlVTWROWjdEZGhadzNMbEo0VVRmVDNraUN1S01UaFhfdmhlOUdsN2JVdEw5ZDNhR2txSVFZYjNHclRONXg4c09zaUJneDkzekNpUzBRa2J2b3BLcE45bUplV2R3YlItNmFEQWlIRXhnVmR0VC1DVGloSTBMMGxkc0h4X1pCM2taa1hrRkQycF95UDU?oc=5",
-     "date": "2026-11-12T10:58:00.000Z",
-     "text": "Spektakulärer Hingucker in der HafenCity: So läuft der Lighthouse-Abriss Hamburger Abendblatt",
+     "title": "Mit Blick auf Elbtower und Hafen: 15 Hamburger wohnen jetzt in einem Büro - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSTJfQ096cWFUMnppQmNnUjVmSTJENFFuZTFWeGZlUmhGeERrU3RLY2tGQWJxek1sdHpWSXRScU1FbmR3ZWRMalNxV0NkS0UzWWxTTDNLMW9lcFVOazZVQjBHbG0tVjJ6T0RrMW5KdDI2anBWYzhUMFhaZG1ubk9ERkEwcnd6akpfTVcwQVU0VE1ydTFkWXNySjhSMHVKMjl1TGMwR3NHMGNkdHduRnpZdVU0OGVQZnF1RTRYcjk5TlJTV0dYX3JsOTlSQTEwdFVVd1pMWllXdjU1R2M?oc=5",
+     "date": "2026-11-12T04:45:00.000Z",
+     "text": "Mit Blick auf Elbtower und Hafen: 15 Hamburger wohnen jetzt in einem Büro Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
@@ -691,6 +717,13 @@
      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcXB3NlQyMFFyb2ZnZV8xNEZ0LTloQTZKVWlMSGtnbHZpTXlFTVFCNDRpd3dPcnpZcS14U3kwOGpGYko0T1F3YVdyWnFFTVRJY2NxX1pHd2Z0SjVnaW5wcDdkUEJwTkpPdTJTVFlrcHQ4TG1rTC1qZmZ2blJhYjFNb0lYQklJYnA1V2FZWU4xaDlKbl92Qkg4OExxYk5ucDRZai1VeTZoMEE1Nk5tUUplYXNUbWNsSFJLc2xuVkZBaGtYQXJremQyNFNnSGc4ZFU0cllUZ2lMN2xtUFZlaHBleTg0QzFCdUlNZFlBdTVqSWtnaUJZNnVOZkhxSQ?oc=5",
      "date": "2026-11-11T07:53:00.000Z",
      "text": "Wie lange hält die Köhlbrandbrücke noch? Zustand der Rampen jetzt „ungenügend“ Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Spektakulärer Hingucker in der HafenCity: So läuft der Lighthouse-Abriss - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMExGMDhEODBHZl9qRko3aGJjSWlWWmVSNjNlbnI5TXhFbG40OGhjXzZ6ZDU0MGNLSm5jdjRLWFZlMmttZGV1eXJlRHB6LTJkUHozUGpEaldEWXlVTWROWjdEZGhadzNMbEo0VVRmVDNraUN1S01UaFhfdmhlOUdsN2JVdEw5ZDNhR2txSVFZYjNHclRONXg4c09zaUJneDkzekNpUzBRa2J2b3BLcE45bUplV2R3YlItNmFEQWlIRXhnVmR0VC1DVGloSTBMMGxkc0h4X1pCM2taa1hrRkQycF95UDU?oc=5",
+     "date": "2026-11-12T10:58:00.000Z",
+     "text": "Spektakulärer Hingucker in der HafenCity: So läuft der Lighthouse-Abriss Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
@@ -736,32 +769,11 @@
      "via": "STERN.de"
     },
     {
-     "title": "Netz & Strecken - Hamburg schweigt zu Asien-Zielen, Helvetic nur noch für Swiss, Aegean-Indien-Start - airliners.de",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSG5RazMwM2RuZExQMWZzelJQUEpaS05hMEFfVERUUjFMdy1zbU5MSmVsSDdYTUdIT1UySGJZdlltVk85VV9NNms2azMzRjBHMmJobjVrWlNPUXhQYUY1Z0FzeWhFeXhiSjlON1NVb3NyYzl2QnBESVhfeEQxaVlBa2haZ0p2bHRycXNlVlRobHhNTWV5NjhQTWlrTVhQOW54bms0ck9HZW5jcy1yMWc?oc=5",
-     "date": "2026-11-12T06:00:00.000Z",
-     "text": "Netz & Strecken - Hamburg schweigt zu Asien-Zielen, Helvetic nur noch für Swiss, Aegean-Indien-Start airliners.de",
-     "via": "airliners.de"
-    },
-    {
      "title": "Hamburg schweigt zu Asien-Zielen, Bombendrohungen gegen Europa-Flüge, Linke fragt zu Katar-Abkommen - airliners.de",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQREw1Y04zVlNkeDlHcngxUWR4cnVvVFZETWZzOFREdUdpR2RNM1A1Q01OQWdOd20xYWMzbzM1dlRYNnRpcUc2UTI2TnZlVlQ2MGkzZlNQMzRaVjA2ak4yWWJ4cWltd1A3NXlBYnBxUl9BdzVLQ21ULTFpVzVRNndXb3ljcDUxRG1rM2phOE95bVFPbUtYd2pfc0FCYTU2LTNtek5EVnVRWjhlYm40RXVOVFNpMlBLZUlyMWtVaDBiYnlsVWFyZ3dlSW9YbUdlaUdUWEdfVw?oc=5",
      "date": "2026-11-11T06:00:00.000Z",
      "text": "Hamburg schweigt zu Asien-Zielen, Bombendrohungen gegen Europa-Flüge, Linke fragt zu Katar-Abkommen airliners.de",
      "via": "airliners.de"
-    },
-    {
-     "title": "Schüsse in Hamburg: Mutmaßlicher Täter tot im Hotelzimmer der Elbphilharmonie - t-online – Hamburg",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSC1WdnZibnFGS2pYWlJhX2FpOU0tQ3JGLW5NOEVKVUNJcjdoUG1kMmIzUXp1LWotNFU0T29DZDBKdEhsbkRnQXd2RXNMZ0dNQ1JSaWlFXzIxNnZqZzhad2tMNEtESFRqVTZWbjVNQ3I5RTZ2NjdFcTd5cW1zWXF3cVRfQmtiQjlCSnNyMlpWNWRidmZtSWZPU05yQU9COHJSTF94TWQ0bDk1czJ5U2F6bnRpTV9wV3JOa2F0bzVzV3l5ZGNtcDkxcmdWZy0?oc=5",
-     "date": "2026-11-11T07:16:00.000Z",
-     "text": "Schüsse in Hamburg: Mutmaßlicher Täter tot im Hotelzimmer der Elbphilharmonie t-online – Hamburg",
-     "via": "t-online – Hamburg"
-    },
-    {
-     "title": "Köhlbrand-Brücke einsturzgefährdet? Hamburgs Hafenbrücke mit mieser Brücken-Note - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVFVkOGJCWlU3N1lNX0FxRmxTOTMycVRmSjhnSmtFMjlHNUppcTU4amNMbzhpS0pwT29QMFBaS3BlSngwMGRTR0pNeDE1T0ZhdENhZjJHV1JycG0wbnNzRUJwTk9SYnREcUFNVW5HX2Z1MnBaQW9UZ19JSHJsLU1NRm1mLThHVjlCQUZ0MzdjNUxRUEN4dldOT1ppU2ZUV3dYVlJBOWt4UW5sOGtqbGpGbndOdWQ3T1BlcHFoSjNoZ3R5Mm84cUZycQ?oc=5",
-     "date": "2026-11-11T12:01:07.000Z",
-     "text": "Köhlbrand-Brücke einsturzgefährdet? Hamburgs Hafenbrücke mit mieser Brücken-Note Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
     }
    ]
   },
@@ -820,17 +832,17 @@
      "via": "Hamburg.de"
     },
     {
-     "title": "Kommentierung für das Kriegerdenkmal Bramfeld eingeweiht - Hamburg.de",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQclhtWUdUOUhrdDFmRXpPR09BelRWX1YyY0Fyb19DNXhnUUdiVzRoSmJJcFltQm1CdHFnVXRDZGxYelZKdTg3cmVySmJIbVdMVnItUURyRmFVV2kyZ1NGbVdTSkJlZ0I1b0pVNlVPeXliZXk0TTZ3R1N0Ny1seFJnZDN0S0o0WUNzRktUcWlndGcyUFVScEp2TUFXekJsRWFiQ1VXeV8zSDJmS2dDQVdibkdGeHlURUlaRkpCXy1icnlka2V3UlhWVi1wdnRSbmd5U24xdU1jSQ?oc=5",
-     "date": "2026-11-12T14:45:00.000Z",
-     "text": "Kommentierung für das Kriegerdenkmal Bramfeld eingeweiht Hamburg.de",
-     "via": "Hamburg.de"
-    },
-    {
      "title": "Was Stolpersteine mit Demokratie zu tun haben - Hamburg.de",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUZPdEdnVmVBRGZ2em40Q2xpY0Z6aHJhVmZyRE5SdjVaU3lieHFoYUJwekJENEM1QThTU3pJSTcwX0dZM2FnWE02U1BVV1plQWJMM0JLODRpemVqbDBHWmUyM2x6eHdWZTljMG9BVnFnRjRIS3dHQmRrbjlIUHpwcy0tMXJyM0lOT2htUVlnc2xMQmIyUDRrRWlFQnhUU28?oc=5",
      "date": "2026-11-12T15:32:59.000Z",
      "text": "Was Stolpersteine mit Demokratie zu tun haben Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Kommentierung für das Kriegerdenkmal Bramfeld eingeweiht - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQclhtWUdUOUhrdDFmRXpPR09BelRWX1YyY0Fyb19DNXhnUUdiVzRoSmJJcFltQm1CdHFnVXRDZGxYelZKdTg3cmVySmJIbVdMVnItUURyRmFVV2kyZ1NGbVdTSkJlZ0I1b0pVNlVPeXliZXk0TTZ3R1N0Ny1seFJnZDN0S0o0WUNzRktUcWlndGcyUFVScEp2TUFXekJsRWFiQ1VXeV8zSDJmS2dDQVdibkdGeHlURUlaRkpCXy1icnlka2V3UlhWVi1wdnRSbmd5U24xdU1jSQ?oc=5",
+     "date": "2026-11-12T14:45:00.000Z",
+     "text": "Kommentierung für das Kriegerdenkmal Bramfeld eingeweiht Hamburg.de",
      "via": "Hamburg.de"
     },
     {
@@ -1013,13 +1025,6 @@
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03RUdjOFo5WFJZdEV5cExGUnhuS0lTUXRubmVqNVlUNXp0UTBuSnBxWUo2eVh0R0FnX2dqOXpoX3k5cjRZejdxNkNYZERnRVpPT0ludkJVZU9Vc1B5em1EanR5a1lYWE5WQnA4?oc=5",
      "date": "2026-11-11T10:43:20.000Z",
      "text": "Elon Musk bestellt in Deutschland Solarfabrik für KI im Weltall NIUS",
-     "via": "NIUS"
-    },
-    {
-     "title": "Reiche fordert längere Arbeitszeiten und weniger Kündigungsschutz - NIUS",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnBvT0wydzQ1T0tSMWhrT25scUdXQUdRbnVSb25qUGlvNEpidHVRNGZDRUpzLTc3VDBCOFlyU0t1bW9KRzlqY1hPSkZqZmUzYUFvbGs4UUI0S1Z4anFRT0stMTc5T2JDQ1JtejREenBiVEpyZ01TaWxDN3E1MF9oRFJKbXM5dkdXNWloU3RyNkI5WFk?oc=5",
-     "date": "2026-11-11T09:24:59.000Z",
-     "text": "Reiche fordert längere Arbeitszeiten und weniger Kündigungsschutz NIUS",
      "via": "NIUS"
     },
     {

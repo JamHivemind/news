@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-13",
+      "file": "2026-11-13.html",
+      "headline": "Anthropic-Börsengang: sechsfach überzeichnet",
+      "count": 16,
+      "sources": 8,
+      "cats": {
+        "Business & Funding": 3,
+        "Modelle & Releases": 2,
+        "Claude & Anthropic": 2,
+        "Regulierung & Politik": 2,
+        "Tools & Agenten": 2,
+        "KI im Alltag & Beruf": 4,
+        "Forschung & Deep Tech": 1
+      },
+      "ents": {
+        "Anthropic": 4,
+        "Nvidia": 1,
+        "Google": 6,
+        "OpenAI": 2,
+        "Microsoft": 1
+      }
+    },
+    {
       "date": "2026-11-12",
       "file": "2026-11-12.html",
       "headline": "Claude bekommt Tabellen, Whiteboards und Meeting-Hilfe",
