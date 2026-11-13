@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-13T02:22:59.249Z",
+ "fetched": "2026-11-13T03:48:21.926Z",
  "hours": 48,
  "sources": [
   {
@@ -320,6 +320,12 @@
    "ok": true,
    "items": [
     {
+     "title": "Krieg in der Ukraine: USA: Putin will Europa an den Verhandlungstisch lassen",
+     "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-stoerungen-starshield-dublin-europaeer-li.3571967",
+     "date": "2026-11-13T03:02:11.000Z",
+     "text": "Der US-Unterhändler Jared Kushner, Schwiegersohn von Donald Trump, berichtet in Dublin von der Zustimmung des Kreml. Wer die Europäer bei einem Treffen zu Ukraine-Friedensgesprächen vertritt, ist offen."
+    },
+    {
      "title": "Rüstungsindustrie: Drohnenhersteller Quantum Systems meldet Cyberangriff",
      "url": "https://www.sueddeutsche.de/politik/bayerischer-drohnenhersteller-quantum-systems-cyberangriff-li.3579747",
      "date": "2026-11-12T20:37:05.000Z",
@@ -402,12 +408,6 @@
      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/biden-what-trump-did-on-january-6-should-follow-him-to-his-grave-e724192/",
      "date": "2026-11-12T13:25:00.000Z",
      "text": "In an excerpt from his forthcoming book, the former president calls on Americans to defend their democracy."
-    },
-    {
-     "title": "Gewalt gegen Frauen: Ungarn plant Beitritt zur Istanbul-Konvention",
-     "url": "https://www.sueddeutsche.de/politik/gewalt-gegen-frauen-ungarn-plant-beitritt-zur-istanbul-konvention-li.3579508",
-     "date": "2026-11-12T13:23:00.000Z",
-     "text": ""
     }
    ]
   },
@@ -415,6 +415,12 @@
    "name": "tagesschau",
    "ok": true,
    "items": [
+    {
+     "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+     "url": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+     "date": "2026-11-13T02:36:47.000Z",
+     "text": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp."
+    },
     {
      "title": "EPG-Treffen in Dublin: Momentum für Friedensverhandlungen?",
      "url": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
@@ -567,183 +573,183 @@
    "ok": true,
    "items": [
     {
-     "title": "Dublin - Selenskyj und Kushner: Europäer werden bei nächsten Ukraine-Gesprächen dabei sein",
-     "url": "https://www.deutschlandfunk.de/selenskyj-und-kushner-europaeer-werden-bei-naechsten-ukraine-gespraechen-dabei-sein-100.html",
-     "date": "2026-11-13T01:52:13.000Z",
-     "text": "Der ukrainische Präsident Selenskyj und der US-Sondergesandte Kushner haben eine Beteiligung Europas bei den kommenden Gesprächen über ein Ende des Ukraine-Kriegs in Aussicht gestellt. Kushner sagte in der irischen Hauptstadt Dublin, er denke, dass der russische Präsident Putin bereit sei, es zu versuchen."
+     "title": "Dublin - Kushner: Europäer sollen bei nächsten Ukraine-Gesprächen dabei sein",
+     "url": "https://www.deutschlandfunk.de/kushner-europaeer-sollen-bei-naechsten-ukraine-gespraechen-dabei-sein-100.html",
+     "date": "2026-11-13T03:44:55.000Z",
+     "text": "Der russische Präsident Putin ist nach Angaben der USA bereit, Europa bei künftigen Ukraine-Friedensgesprächen mit einzubeziehen. Der US-Sondergesandte Kushner teilte in Dublin mit, man gehe davon aus, in Kürze den Zeitplan und weitere Einzelheiten bekanntgeben zu können."
     },
     {
      "title": "Bundestag - Geringerer Bundeszuschuss zu Netzentgelten",
      "url": "https://www.deutschlandfunk.de/geringerer-bundeszuschuss-zu-netzentgelten-102.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Der Bundestag hat eine Weiterführung des Zuschusses zu den Stromnetzentgelten beschlossen."
     },
     {
      "title": "Geheimdienste - BND soll künftig auch Sabotage im Ausland betreiben dürfen - Bundestag könnte Befugnisse heute deutlich ausweiten",
      "url": "https://www.deutschlandfunk.de/bnd-soll-kuenftig-auch-sabotage-im-ausland-betreiben-duerfen-bundestag-koennte-befugnisse-heute-deut-102.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Der Bundestag in Berlin stimmt heute über die geplante Reform der Geheimdienste ab. Damit sollen die Befugnisse des Bundesnachrichtendienstes und des Bundesamts für Verfassungsschutz für die Abwehr von Sabotage, Spionage und Cyberangriffen substanziell erweitert werden."
     },
     {
      "title": "Automobilindustrie - Mercedes stoppt alle neuen Investitionen in Deutschland und prüft Werksschließungen",
      "url": "https://www.deutschlandfunk.de/mercedes-stoppt-alle-neuen-investitionen-in-deutschland-und-prueft-werksschliessungen-102.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Der Autobauer Mercedes stoppt alle neuen Investitionen in Deutschland. Wie der Konzern mitteilte, fiel die Entscheidung angesichts hoher Preise und stockender Verhandlungen mit der Arbeitnehmerseite über Kostensenkungen."
     },
     {
      "title": "Spionageaffäre - US-Senat lädt Ex-Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick vor",
      "url": "https://www.deutschlandfunk.de/us-senat-laedt-ex-nvidia-chef-jensen-huang-und-handelsminister-howard-lutnick-vor-102.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Der in eine Spionageaffäre verwickelte Ex-Chef des Chipherstellers Nvidia, Huang, ist aufgefordert worden, im ​Bankenausschuss des US-Senats auszusagen."
+    },
+    {
+     "title": "US-Technologiekonzern - Microsoft: Stundenlanger Ausfall beeinträchtigt Outlook und Teams",
+     "url": "https://www.deutschlandfunk.de/microsoft-stundenlanger-ausfall-beeintraechtigt-outlook-und-teams-100.html",
+     "date": "2026-11-13T03:44:55.000Z",
+     "text": "Das US-Technologieunternehmen Microsoft ist von einer Störung betroffen."
     },
     {
      "title": "Katholische Kirche - Papst Leo XIV. trifft auch in Peru Opfer sexuellen Missbrauchs in der Kirche",
      "url": "https://www.deutschlandfunk.de/papst-leo-xiv-trifft-auch-in-peru-opfer-sexuellen-missbrauchs-in-der-kirche-102.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Papst Leo XIV. hat in Peru Betroffene von sexualisierter Gewalt in der katholischen Kirche getroffen."
+    },
+    {
+     "title": "Nations League - Fußball-Nationalmannschaft trifft auf Serbien - Klopp hofft auf Sieg",
+     "url": "https://www.deutschlandfunk.de/fussball-nationalmannschaft-trifft-auf-serbien-klopp-hofft-auf-sieg-102.html",
+     "date": "2026-11-13T03:44:55.000Z",
+     "text": "Die deutsche Fußball-Nationalmannschaft trifft am Abend in der Nations League auf Serbien."
     },
     {
      "title": "Bundeshaushalt - Kreditfinanzierter Autobahnausbau: Kritik an Klingbeil aus eigener Fraktion",
      "url": "https://www.deutschlandfunk.de/kreditfinanzierter-autobahnausbau-kritik-an-klingbeil-aus-eigener-fraktion-106.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Die Haushaltspläne von Bundesfinanzminister Klingbeil zur bundeseigenen Autobahn GmbH stoßen auch in seiner eigenen SPD-Fraktion auf Kritik."
     },
     {
      "title": "Nahostkonflikt - Ärzte ohne Grenzen kritisiert Luftangriff auf Krankenhaus im Gazastreifen",
      "url": "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-kritisiert-luftangriff-auf-krankenhaus-im-gazastreifen-102.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Die Hilfsorganisation Ärzte ohne Grenzen hat den israelischen Luftangriff auf ein Krankenhaus im Gazastreifen kritisiert."
     },
     {
      "title": "Vapes und Zigaretten - Nächstes Rauchverbot an Bus- und Bahnhaltestellen beschlossen",
      "url": "https://www.deutschlandfunk.de/naechstes-rauchverbot-an-bus-und-bahnhaltestellen-beschlossen-104.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Für Raucher werden die Regeln auch an Bus- und Bahnhaltestellen in Deutschland strenger."
-    },
-    {
-     "title": "US-Technologiekonzern - Microsoft: Stundenlanger Ausfall beeinträchtigt Outlook und Teams",
-     "url": "https://www.deutschlandfunk.de/microsoft-stundenlanger-ausfall-beeintraechtigt-outlook-und-teams-100.html",
-     "date": "2026-11-13T01:52:13.000Z",
-     "text": "Beim US-Technologieunternehmen Microsoft hat es eine Störung gegeben."
     },
     {
      "title": "Gesellschaft - Türkischer Nachname erschwert Suche nach Kita-Platz",
      "url": "https://www.deutschlandfunk.de/tuerkischer-nachname-erschwert-suche-nach-kita-platz-108.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Eine aktuelle Studie belegt erneut, dass Menschen mit türkischem Namen im Alltag Benachteiligungen ausgesetzt sind."
     },
     {
      "title": "UKASKM - Kindesmissbrauch im medizinischen Umfeld: Kommission ruft zu mehr Wachsamkeit auf und bittet Betroffene um Hinweise",
      "url": "https://www.deutschlandfunk.de/kindesmissbrauch-im-medizinischen-umfeld-kommission-ruft-zu-mehr-wachsamkeit-auf-und-bittet-betroffe-106.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Die Unabhängige Kommission zur Aufarbeitung sexuellen Kindesmissbrauchs hat zu mehr Wachsamkeit für Risiken in Arztpraxen und Kliniken aufgerufen."
     },
     {
      "title": "Güstrow - Mecklenburg-Vorpommern: Linke stimmt auf Parteitag über Koalitionsvertrag ab",
      "url": "https://www.deutschlandfunk.de/mecklenburg-vorpommern-linke-stimmt-auf-parteitag-ueber-koalitionsvertrag-ab-100.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Die Linke in Mecklenburg-Vorpommern stimmt heute auf einem Parteitag in Güstrow über den rot-rot-grünen Koalitionsvertrag ab."
     },
     {
      "title": "Landtag - Sachsen-Anhalt: AfD und BSW positionieren sich medienpolitisch gemeinsam",
      "url": "https://www.deutschlandfunk.de/sachsen-anhalt-afd-und-bsw-positionieren-sich-medienpolitisch-gemeinsam-100.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "AfD und BSW in Sachsen-Anhalt haben sich im Landtag medienpolitisch gemeinsam positioniert."
     },
     {
      "title": "Nordrhein-Westfalen - Nationalpark am Rothaarkamm: Holzwirtschaft wehrt sich gegen Pläne",
      "url": "https://www.deutschlandfunk.de/nationalpark-am-rothaarkamm-holzwirtschaft-wehrt-sich-gegen-plaene-104.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Der Deutsche Säge- und Holzindustrie Bundesverband hat an den Kreistag Siegen-Wittgenstein appelliert, die Bewerbung für einen Nationalpark am Rothaarkamm abzulehnen."
     },
     {
      "title": "Hall of Fame - Uli Hoeneß, Pierre Littbarski und andere in Ruhmeshalle des deutschen Fußballs aufgenommen",
      "url": "https://www.deutschlandfunk.de/uli-hoeness-pierre-littbarski-und-andere-in-ruhmeshalle-des-deutschen-fussballs-aufgenommen-106.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Ex-Fußballer und Bayern-Funktionär Uli Hoeneß zieht in die Ruhmeshalle des Deutschen Fußballs ein."
     },
     {
      "title": "Börsen - EU-Parlament stimmt gegen neue Schutzregeln für Kleinanleger",
      "url": "https://www.deutschlandfunk.de/eu-parlament-stimmt-gegen-neue-schutzregeln-fuer-kleinanleger-108.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Das Europäische Parlament hat mit knapper Mehrheit überraschend gegen neue Schutz- und Transparenzregeln für Kleinanleger gestimmt."
     },
     {
      "title": "COP31 - Inselstaaten sehen in der Klimakrise ihr Überleben bedroht",
      "url": "https://www.deutschlandfunk.de/inselstaaten-sehen-in-der-klimakrise-ihr-ueberleben-bedroht-106.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Auf der Weltklimakonferenz in Antalya hat der Inselstaat Seychellen die Klimakrise als existenzbedrohend bezeichnet."
-    },
-    {
-     "title": "Treffen mit US-Gesandten in Moskau - Kremlchef Putin beharrt auf Gebietsforderungen und schließt entmilitarisierte Zonen zwischen Russland und der Ukraine aus",
-     "url": "https://www.deutschlandfunk.de/kremlchef-putin-beharrt-auf-gebietsforderungen-und-schliesst-entmilitarisierte-zonen-zwischen-russla-102.html",
-     "date": "2026-11-13T01:52:13.000Z",
-     "text": "Einen Tag nach den Ukraine-Gesprächen in Abu Dhabi hat der russische Präsident Putin in Moskau gestern eine Unterredung mit den US-Gesandten Witkoff und Kushner geführt."
     },
     {
      "title": "Militärische Infrastruktur - Bundeswehr soll schneller bauen dürfen",
      "url": "https://www.deutschlandfunk.de/bundeswehr-soll-schneller-bauen-duerfen-104.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Die Bundeswehr soll künftig schneller bauen können."
+    },
+    {
+     "title": "Treffen mit US-Gesandten in Moskau - Kremlchef Putin beharrt auf Gebietsforderungen und schließt entmilitarisierte Zonen zwischen Russland und der Ukraine aus",
+     "url": "https://www.deutschlandfunk.de/kremlchef-putin-beharrt-auf-gebietsforderungen-und-schliesst-entmilitarisierte-zonen-zwischen-russla-102.html",
+     "date": "2026-11-13T03:44:55.000Z",
+     "text": "Einen Tag nach den Ukraine-Gesprächen in Abu Dhabi hat der russische Präsident Putin in Moskau gestern eine Unterredung mit den US-Gesandten Witkoff und Kushner geführt."
     },
     {
      "title": "Deutschland - Hochschulleitungen: Der Frauenanteil wächst",
      "url": "https://www.deutschlandfunk.de/hochschulleitungen-der-frauenanteil-waechst-104.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Der Anteil von Frauen an den Spitzen staatlicher Hochschulen in Deutschland ist innerhalb von fünf Jahren gestiegen. Das geht aus einer Auswertung des Centrums für Hochschulentwicklung in Gütersloh hervor. Danach waren Stand Oktober 35 Prozent der Präsidenten und Rektoren weiblich."
     },
     {
      "title": "Haushalt 2027 - CDU-Haushaltspolitiker Middelberg hält Stromsteuersenkung für wichtiger als Mütterrente",
      "url": "https://www.deutschlandfunk.de/cdu-haushaltspolitiker-middelberg-haelt-stromsteuersenkung-fuer-wichtiger-als-muetterrente-106.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Der CDU-Haushaltspolitiker Middelberg spricht sich für eine Priorisierung der Stromsteuersenkung aus - und hält sie für wichtiger als die geplante Ausweitung der Mütterrente."
-    },
-    {
-     "title": "Einigung in Schwerin - Neue Regierung in Mecklenburg-Vorpommern steht",
-     "url": "https://www.deutschlandfunk.de/neue-regierung-in-mecklenburg-vorpommern-steht-108.html",
-     "date": "2026-11-13T01:52:13.000Z",
-     "text": "In Mecklenburg-Vorpommern hat Ministerpräsidentin Schwesig die neue rot-rot-grüne Landesregierung vorgestellt."
     },
     {
      "title": "Erstmals seit 1982 - Demokrat Scott Colom holt laut Medien Senatssitz in Mississippi",
      "url": "https://www.deutschlandfunk.de/demokrat-scott-colom-holt-laut-medien-senatssitz-in-mississippi-122.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "In den USA ist Scott Colom von der Demokratischen Partei als Sieger der Senatswahl im Bundesstaat Mississippi ausgerufen worden."
     },
     {
      "title": "Grippe und Covid 19 - Lange Nacht des Impfens soll Impfquote stärken",
      "url": "https://www.deutschlandfunk.de/lange-nacht-des-impfens-soll-impfquote-staerken-106.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Gestern hat zum vierten Mal die \"Lange Nacht des Impfens\" stattgefunden."
     },
     {
      "title": "Hessen - Antisemitischer Drohbrief an Gießener Synagoge löst größere Evakierungen in der Innenstadt aus",
      "url": "https://www.deutschlandfunk.de/antisemitischer-drohbrief-an-giessener-synagoge-loest-groessere-evakierungen-in-der-innenstadt-aus-104.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Ein Drohbrief mit antisemitischem Inhalt und einem unbekannten Pulver hat zur Räumung der Gießener Synagoge geführt."
     },
     {
      "title": "Kampf gegen Blutkrebs - Stammzellenspenden in Deutschland nehmen zu",
      "url": "https://www.deutschlandfunk.de/stammzellenspenden-in-deutschland-nehmen-zu-106.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "In Deutschland haben im vergangenen Jahr mehr Menschen Stammzellen gespendet als im Jahr davor."
     },
     {
      "title": "Arbeitszeitgesetz - Bäckerhandwerk kritisiert Gesetzentwurf zur Ausweitung der Sonntagsarbeit",
      "url": "https://www.deutschlandfunk.de/baeckerhandwerk-kritisiert-gesetzentwurf-zur-ausweitung-der-sonntagsarbeit-104.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Das Bäckerhandwerk ist mit dem Gesetzentwurf zur Ausweitung der Sonntagsarbeit unzufrieden."
     },
     {
      "title": "Nahost - Israel verbietet französischem Präsidentschaftskandidaten Mélenchon die Einreise",
      "url": "https://www.deutschlandfunk.de/israel-verbietet-franzoesischem-praesidentschaftskandidaten-m-lenchon-die-einreise-104.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Frankreichs linkspopulistischer Präsidentschaftskandidat Mélenchon darf nicht mehr nach Israel einreisen."
     },
     {
      "title": "Kirche - Papst wirbt in Peru für Frauenrechte",
      "url": "https://www.deutschlandfunk.de/papst-wirbt-in-peru-fuer-frauenrechte-104.html",
-     "date": "2026-11-13T01:52:13.000Z",
+     "date": "2026-11-13T03:44:55.000Z",
      "text": "Papst Leo XIV. hat sich in Peru für mehr Teilhabe und Gleichberechtigung von Frauen stark gemacht - im öffentlichen Leben wie auch in Ehe und Familie."
     }
    ]
@@ -755,7 +761,7 @@
     {
      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-12T23:34:05.000Z",
+     "date": "2026-11-13T02:39:00.000Z",
      "text": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
     },
     {
@@ -765,10 +771,10 @@
      "text": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
     },
     {
-     "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-     "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-13T00:20:24.000Z",
-     "text": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back."
+     "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+     "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-13T02:48:29.000Z",
+     "text": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
     },
     {
      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
@@ -785,7 +791,7 @@
     {
      "title": "Australian footballers will not be charged after hotel incident, police say",
      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-13T01:03:59.000Z",
+     "date": "2026-11-13T03:02:54.000Z",
      "text": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne."
     },
     {
@@ -939,31 +945,10 @@
    "ok": true,
    "items": [
     {
-     "title": "Tim Cook for Nvidia CEO? Trump and the world ponder who's next - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2otbkdEb3FkYXpTSlFhcnBmRk9lNDZzOHpKQnpUd0dyR3dqWWhqcy02c016NGpfNVRNeGNKQVFfUTZhc2taTHBfWGJ0WWNwTGxlWG5tSW9NUk55R2l0dTNrMFlhemdQaXFWWnNmamhrYWdNaUJlcTc0UWVObjQ2cVp4cC15anFUVXJ0dHc4N1ZuOEFjWGJra3BKUmVGTmR2VGlQSFVHUQ?oc=5",
-     "date": "2026-11-12T20:35:54.000Z",
-     "text": "Tim Cook for Nvidia CEO? Trump and the world ponder who's next Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "World leaders set out clashing priorities as COP31 turns to negotiations - Reuters",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNngtTTdNNWh2YXdsTUNwRVo3NHZIY3JqcU1zaVBZdGdiODBGMmtaNTRDN1JWbmlpNERtc1l2UzB3VGdwZnlJQktOWTFJdl9qX3RxUW5vWl9RWFJjRE5ZTzNhQnM1eTFUaEdTV2JwODF1dlRVRVBPSkkzdmhDdE0yUV93b1ZPdWpNazhxbFBWY0FEdmt6VUh0Ri1iQzc1YnNMOVA2TnIyYUhIaG1VeDdGejBaVQ?oc=5",
      "date": "2026-11-12T17:59:43.000Z",
      "text": "World leaders set out clashing priorities as COP31 turns to negotiations Reuters",
-     "via": "Reuters"
-    },
-    {
-     "title": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
-     "date": "2026-11-11T10:12:00.000Z",
-     "text": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks Reuters",
-     "via": "Reuters"
-    },
-    {
-     "title": "NEWSLETTER: Drama at Nvidia: Pricing AI in a maelstrom - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kdDZPcWlBY18tQ0xnVmFqeUczM2JoUGh0eTRUX0hVSWFLcWlSX0lyZENTdEZWSUxyZkp4WHo1TFVKZjJsWUpkSnRXandoWEtrUWo0SGJxZjRVbDl0dmdPalRYUnlCeEVSOHBfc3hoLXJBN29jRnc?oc=5",
-     "date": "2026-11-12T15:20:00.000Z",
-     "text": "NEWSLETTER: Drama at Nvidia: Pricing AI in a maelstrom Reuters",
      "via": "Reuters"
     },
     {
@@ -988,13 +973,6 @@
      "via": "Reuters"
     },
     {
-     "title": "Novo commits $200 million to the World Diabetes Foundation - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcmh2TGR5N0tIZWRROVFGV3JWbjJnRmtUaDBwOTdMSVNOR2oyN1VyRnc1WVJzTVhGNHhtWFJoTS05QlB0WjJ5NFFLaHpBRXVub1N2akF2SnNjdWEyQmQzMjdFQmhFZlEwSE5DeTZRTl9PaXVsOW9MR3B1dUZzUEFSVjhxUlNsSWd4dU1aX2M5bnVBTzJwdk5sZHhHNWZYcVBqc0ptVkJ3?oc=5",
-     "date": "2026-11-11T15:06:49.000Z",
-     "text": "Novo commits $200 million to the World Diabetes Foundation Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "FIFA clears joint bids for 2031 and 2035 Women's World Cups - Reuters",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHhpY2pYcGlvNmNFYzA4STZDdFpHbVZmR3JNODFjWFpiejFRR2YxaG03R3FJYjFRX3JSdnpKd0MwSUhrUFluNm5qR2x5RThFMDViMW1YVGhBWlJnYVI4R2VfSnVFWXVjTGxlS3ZPSmx3cEJxX2NlcEdVY3g4eUwxdUxGNWRVRXNvWDhrQUhDajJLaFlKRjd2Vk1Tam5ZQ1dzaFE?oc=5",
      "date": "2026-11-11T22:54:14.000Z",
@@ -1002,10 +980,31 @@
      "via": "Reuters"
     },
     {
-     "title": "Conflict must not distract from climate action, leaders warn COP31 - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcy1FRWhTbVJwQjAtOUVzaXJGczgtR0hGWV9UeXlXZkwtT3Z5TXBKUV8yU3lEajg0NFlmdmMteW50ZlNYWnpaX3Jud2o5SWF1dE1mWkhBbXhNY05GWW1HLUdaM1ZnX2pEUEZfbUg4NGZLWlMxYl9uRVBiNHNWekFGM1lqWGJrRUxKZHZKMF9RZE1HcUo0VDI4aWdlUERkd2EyeUs4bTFTb2N5UFNsWDJDVDc2RQ?oc=5",
-     "date": "2026-11-11T03:02:00.000Z",
-     "text": "Conflict must not distract from climate action, leaders warn COP31 Reuters",
+     "title": "Tim Cook for Nvidia CEO? Trump and the world ponder who's next - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2otbkdEb3FkYXpTSlFhcnBmRk9lNDZzOHpKQnpUd0dyR3dqWWhqcy02c016NGpfNVRNeGNKQVFfUTZhc2taTHBfWGJ0WWNwTGxlWG5tSW9NUk55R2l0dTNrMFlhemdQaXFWWnNmamhrYWdNaUJlcTc0UWVObjQ2cVp4cC15anFUVXJ0dHc4N1ZuOEFjWGJra3BKUmVGTmR2VGlQSFVHUQ?oc=5",
+     "date": "2026-11-12T20:35:54.000Z",
+     "text": "Tim Cook for Nvidia CEO? Trump and the world ponder who's next Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Novo commits $200 million to the World Diabetes Foundation - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcmh2TGR5N0tIZWRROVFGV3JWbjJnRmtUaDBwOTdMSVNOR2oyN1VyRnc1WVJzTVhGNHhtWFJoTS05QlB0WjJ5NFFLaHpBRXVub1N2akF2SnNjdWEyQmQzMjdFQmhFZlEwSE5DeTZRTl9PaXVsOW9MR3B1dUZzUEFSVjhxUlNsSWd4dU1aX2M5bnVBTzJwdk5sZHhHNWZYcVBqc0ptVkJ3?oc=5",
+     "date": "2026-11-11T15:06:49.000Z",
+     "text": "Novo commits $200 million to the World Diabetes Foundation Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
+     "date": "2026-11-11T10:12:00.000Z",
+     "text": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "NEWSLETTER: Drama at Nvidia: Pricing AI in a maelstrom - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kdDZPcWlBY18tQ0xnVmFqeUczM2JoUGh0eTRUX0hVSWFLcWlSX0lyZENTdEZWSUxyZkp4WHo1TFVKZjJsWUpkSnRXandoWEtrUWo0SGJxZjRVbDl0dmdPalRYUnlCeEVSOHBfc3hoLXJBN29jRnc?oc=5",
+     "date": "2026-11-12T15:20:00.000Z",
+     "text": "NEWSLETTER: Drama at Nvidia: Pricing AI in a maelstrom Reuters",
      "via": "Reuters"
     },
     {
@@ -1030,13 +1029,6 @@
      "via": "Reuters"
     },
     {
-     "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
-     "date": "2026-11-11T05:13:00.000Z",
-     "text": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "PODCAST: Nvidia CEO Jensen Huang resigns, Manchester United and Mississippi (updated) - Reuters",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOEV1Z2t5d1lhNmRkZmprb0RBUUxUclhjRkFRVUdoSHc2NlFOZ3NwWDZSYlZ2ay1Eenlha0VxN0paeG1JeVVlWGd4QnZwbUJ5Y0ZkRkRKWDI0ZWtLcDhobGE1LWlKZEo1VkQ4RnFITkJXdXhrRFZFeDF0LTZveWdCTVpoZXJUVlZRYXpRc3BLNFNFdEd4dmxJX0c1M0JGeFJYTmtzag?oc=5",
      "date": "2026-11-12T19:15:42.000Z",
@@ -1044,24 +1036,10 @@
      "via": "Reuters"
     },
     {
-     "title": "Murdoch, Shankar firm to take majority stake in south Indian food chain for $180 million - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSnJBQzluM21RdXVDMXRUOGEtQU8taHotZnUxVi1oWGxnYjA0MmFway0tcldiOWZlbFZnN19aa2JIZ0t6THdtQ3QwNTlBUHo4QXpBdktOVkpKd0xRb0FCeXg1ZnRjcnh4NkV1c21uQ24zaGJyUW9HM3RwME9BbGJsNHRxSHZUdS0yVnc5aHVJUFhQTFVpX1NnOXJ4ZF9udjJ3LWp3QWRuaUh1TzZHb09YcHpMNnd1dVNWQjBYY1UxcG96Zw?oc=5",
-     "date": "2026-11-12T12:36:41.000Z",
-     "text": "Murdoch, Shankar firm to take majority stake in south Indian food chain for $180 million Reuters",
-     "via": "Reuters"
-    },
-    {
-     "title": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5",
-     "date": "2026-11-12T18:32:00.000Z",
-     "text": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands Reuters",
-     "via": "Reuters"
-    },
-    {
-     "title": "Setback for Google as EU Court adviser backs $1.7 billion antitrust fine - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNm13elhGVjJBZFpZVlZDbDB2VGROQ3B6bFJ5dW1QcVNXdGV4cUVNWWMtQXRuVEt0YVNQMF80d3dsTFpEVFd5ZUFGdVVmU29wX243MFljWEd3cEtFZTFpQmhidE8ycFNmWXpiMTJmQnk0b1lLb3BfZkk5SC1SVDIwdE9saWREU0Nyb2ZYb2pnaDRhZWQxN2JKX0FNVkoxZEg5cTR4T0I1Sms?oc=5",
-     "date": "2026-11-12T12:59:22.000Z",
-     "text": "Setback for Google as EU Court adviser backs $1.7 billion antitrust fine Reuters",
+     "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+     "date": "2026-11-11T05:13:00.000Z",
+     "text": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist Reuters",
      "via": "Reuters"
     },
     {
@@ -1072,10 +1050,24 @@
      "via": "Reuters"
     },
     {
-     "title": "Millions join Spain housing strike, scores arrested in clashes - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmd4bjFKTVdpSHgwbmZibHdXbWJNdzYwYkRDekc0MjNIcm5HV0xHVjYxc1BTdDhWRWZ1UDVkR1ZpTW1seTF4MmpRejhKUGd4NlVUdUNnNTRZUVBYY0JYbEU5cWZvZTRDWkdsZkxFVHJsMVJIVXl2N3pHWFZnQm42RFZlZVR2cDUwRUVJb2o3SnZTcExZQ2R0MGFGUVZaMGF1WF9tY3N5R29HNVRPRVE1dW5QRURKZFhMWHRvS05rTTlvUkRUVHloVjJNMndLNlU?oc=5",
-     "date": "2026-11-11T08:17:00.000Z",
-     "text": "Millions join Spain housing strike, scores arrested in clashes Reuters",
+     "title": "Setback for Google as EU Court adviser backs $1.7 billion antitrust fine - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNm13elhGVjJBZFpZVlZDbDB2VGROQ3B6bFJ5dW1QcVNXdGV4cUVNWWMtQXRuVEt0YVNQMF80d3dsTFpEVFd5ZUFGdVVmU29wX243MFljWEd3cEtFZTFpQmhidE8ycFNmWXpiMTJmQnk0b1lLb3BfZkk5SC1SVDIwdE9saWREU0Nyb2ZYb2pnaDRhZWQxN2JKX0FNVkoxZEg5cTR4T0I1Sms?oc=5",
+     "date": "2026-11-12T12:59:22.000Z",
+     "text": "Setback for Google as EU Court adviser backs $1.7 billion antitrust fine Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Murdoch, Shankar firm to take majority stake in south Indian food chain for $180 million - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSnJBQzluM21RdXVDMXRUOGEtQU8taHotZnUxVi1oWGxnYjA0MmFway0tcldiOWZlbFZnN19aa2JIZ0t6THdtQ3QwNTlBUHo4QXpBdktOVkpKd0xRb0FCeXg1ZnRjcnh4NkV1c21uQ24zaGJyUW9HM3RwME9BbGJsNHRxSHZUdS0yVnc5aHVJUFhQTFVpX1NnOXJ4ZF9udjJ3LWp3QWRuaUh1TzZHb09YcHpMNnd1dVNWQjBYY1UxcG96Zw?oc=5",
+     "date": "2026-11-12T12:36:41.000Z",
+     "text": "Murdoch, Shankar firm to take majority stake in south Indian food chain for $180 million Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHNyWUhKaHR2QmJXUjJ6S0xNdDZnZmpKRzJQak9SWVc3cmttUGVfbk13NzBZclpqNnp5N1JFc0JYakw2Wl9hV3BYdm1mMnJQR3BKRFI2Zzh3cVRhTFFxejBSVWtTMkt2WTRGRUxFSkVocF83aFlIOU10Vk11d29TRERPcnFVWHRJYktFOUlGU0x4c0Q0UWVtT3JkUE91ZVNPQ09NTnhaMGxJajZxQnkwWTFvTzN4WnNpMTBYalNZOHFZdnUtX1VHeUVR?oc=5",
+     "date": "2026-11-12T20:18:21.000Z",
+     "text": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline Reuters",
      "via": "Reuters"
     },
     {
@@ -1100,24 +1092,10 @@
      "via": "Reuters"
     },
     {
-     "title": "Famed ship heads for afterlife as artificial reef in deliberate sinking off Florida - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWc1MU5tdmNOM29JWTZuQnVWaWlJbVNMQVJxQTF3VUE4MzJFOTZoTFhUeU9oU0dzbmFra1U0RFFKV3hIVXVnLUs2cm5jR29LN2h0RWpKc0hwUnItUDNVQkR6VmxXVHVxNXlpSlR5aDFqRW1jQTdJYnA4QmprYUMxSXpIVzJKdGtiblVWNkY2XzhBVU9SZFVMdEx1VXgtV1RUZElaQWQ0YmY1TVZZVFdhVENfUndxdw?oc=5",
-     "date": "2026-11-12T00:36:00.000Z",
-     "text": "Famed ship heads for afterlife as artificial reef in deliberate sinking off Florida Reuters",
-     "via": "Reuters"
-    },
-    {
-     "title": "China backs Cuba in opposing sanctions, blockades; pledges 'firm support', Xinhua reports - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3N1ckV1MFROQXNwREZwam1zUERleFYzWmRERXdxOXZEanNBb05KQ25HSGJoZ3FaVjZqSkw4N2RySndEdk1DajRobFlVRTJKSUdDWVpsUWVia0hUclVTc0ZIV1dvSUFNRWFEdGQzUVRHdkFqeG44ZkNzOGxUWlgwTzNzNjQwTHgzZzR6SEh6OWFzd2diV1QwVVp5aHBWR3dPYXNYc1lIZ2FaazdOdjkzWGJHUGdjRU9haXRKY3VR?oc=5",
-     "date": "2026-11-11T07:43:00.000Z",
-     "text": "China backs Cuba in opposing sanctions, blockades; pledges 'firm support', Xinhua reports Reuters",
-     "via": "Reuters"
-    },
-    {
-     "title": "Indonesia's vice president has resigned, aide says, stoking political uncertainty - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOTZ0Q3FKQkpsRnZBSlJKMHFqS3d1QV9qTXp5aUpidXh5eEF3amd5aWh0YUFfbnJHYVQ4c29LaVRQTDJKbkRiUHBuTERNU1RuRnJ4dlFGdlY2ZWJIYjN1RmRQeUF6bkNITTFjQ2tUWlpUQWJqd3ZFQ1FOSnR4MkRzSm5uaDVoSjlOZVgwUHRkX1JCVTItVE1NUnVIQjZxcTd0N3V2NDUxSm9aUldEUWZQeVB6WGIxT0lQTE5QY2F4SG9PaTgxRGZkcnNB?oc=5",
-     "date": "2026-11-11T06:47:00.000Z",
-     "text": "Indonesia's vice president has resigned, aide says, stoking political uncertainty Reuters",
+     "title": "Millions join Spain housing strike, scores arrested in clashes - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmd4bjFKTVdpSHgwbmZibHdXbWJNdzYwYkRDekc0MjNIcm5HV0xHVjYxc1BTdDhWRWZ1UDVkR1ZpTW1seTF4MmpRejhKUGd4NlVUdUNnNTRZUVBYY0JYbEU5cWZvZTRDWkdsZkxFVHJsMVJIVXl2N3pHWFZnQm42RFZlZVR2cDUwRUVJb2o3SnZTcExZQ2R0MGFGUVZaMGF1WF9tY3N5R29HNVRPRVE1dW5QRURKZFhMWHRvS05rTTlvUkRUVHloVjJNMndLNlU?oc=5",
+     "date": "2026-11-11T08:17:00.000Z",
+     "text": "Millions join Spain housing strike, scores arrested in clashes Reuters",
      "via": "Reuters"
     },
     {
@@ -1128,24 +1106,52 @@
      "via": "Reuters"
     },
     {
-     "title": "Bomb alert temporarily halts trains at Calais station, causing Eurostar delays - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1FXQ09iU3RJb1dMVWo5WjZaWGFvQWJBaUZVU1dTbjZxYUhXNUotTWdJVjRWeWtreXZ3LWdTYVJaMkpLV00zcGdOMndEaTFWX1dTZEV2VXpoR016QUxzblVLMHZBTkprTXZ5cmJmUllrQWtnbnUwX0dvU2JQUFlqMlhFWmFOdWpEZEFMX0NTYU1CaUZWbWw1VDRtU2I3RHhVM2htRGhOUms?oc=5",
-     "date": "2026-11-12T14:47:32.000Z",
-     "text": "Bomb alert temporarily halts trains at Calais station, causing Eurostar delays Reuters",
+     "title": "Cyberattacks hit a third of Japan firms or their service providers this year - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMzMyVGFCMlp6UFRwWXBtTmlCZ01sd0ZKcmp6Z1FnbGI0bW1oMU5jcUtmZm5TYS1RWFRIdzkySEZtc0JUUHU1M2dJRVpISldxOF9faXBEb251aXQ0cXdSZHR2emg0VU5UZnhQOUE1akxtaGlORXRGRERKNktDUC1ZaXFobE14QTljVi1uSG5jUWptMzFzNkg0bktCOWlNZ29HNEZVbjlDcWNmLXFZS2hWaHV6Z1pIVlIybnRaV25OME9aLTZQ?oc=5",
+     "date": "2026-11-11T23:09:45.000Z",
+     "text": "Cyberattacks hit a third of Japan firms or their service providers this year Reuters",
      "via": "Reuters"
     },
     {
-     "title": "EXCLUSIVE: India ordered website takedowns on fake court orders, Reuters finds; police launch probe - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVDR0QVdTSXBVU09DWk80R05TdzQ4ZF9LNVc1N3RWTjYzeGlaTjBzN0J0Y2ZEUHdPY2Y3RElqempwWEhQNGs3YlZaNUxEcTU3WmVVRmZaMlRCSjlCdHdFdDl3bUxONUxWNWk3UEZYdUd0WVJNRzZ1Q0RWMnIyQTN0cWgzWkdpR29QamdSTklBNGhWQ1J5Y0podndzaWJ6aEVQejh1SEtTdGw2bnJMc1pQblBZM0xoeW5XWHEw?oc=5",
-     "date": "2026-11-11T10:33:34.000Z",
-     "text": "EXCLUSIVE: India ordered website takedowns on fake court orders, Reuters finds; police launch probe Reuters",
+     "title": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5",
+     "date": "2026-11-12T18:32:00.000Z",
+     "text": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands Reuters",
      "via": "Reuters"
     },
     {
-     "title": "Several Italian schools evacuated after more bomb warnings-report - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOakpadHhXVldnanZIX2xXQ3JXbWxPektyeTRZMlRxMm9reDIzVVFmTjZPVnN1NlRQLXhyQ3loTVdoM28yRVp5RkpKUXJfQ1lWQl84RlBfUVBRRVNfNWNTOEhnMURGMk1tUGpacXJ1MkZESWVEdFVOdVE0OVFKWGRWTGJGMVd0NEF1SkFqMHhQdFQ0YWpTZWNzSGlwcDRhcEZydjdCOEJ6OEdCelk?oc=5",
-     "date": "2026-11-12T10:59:18.000Z",
-     "text": "Several Italian schools evacuated after more bomb warnings-report Reuters",
+     "title": "Migrants trek north through Mexico, buoyed by US election result - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkxPandKTDdzbkt0SWluZTZlaG1OUmk5RWhzZG9wTGZ5REI1c1VoczlsRHVEQUNhYm5SMDQxd3d5TlkxVTEtaTR1Sk5DQnFsY29UbnpyNm91U2c0TVRDWXMyMGVvZEhnYnoyRTRRYXhuLVEteEdqOTdMcEtpTWwwaGlsb3RuRjhNVnhaWnpieFg2VHVJWlJTdHVhUFlaRVM4UVJOZjViOWNzYWpS?oc=5",
+     "date": "2026-11-11T19:27:10.000Z",
+     "text": "Migrants trek north through Mexico, buoyed by US election result Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanhBckZWOGZoOFJnUGpQNkR5b25Ibm5RYzZRWGJReUNkM2l0dWJPNUdwSUxFbDRGdHNsWm9qaG1ZVm9fNW0yNUdHanFFV2pza05kbjJWREE2ZEFHdVNIT0pmR3JEMUFnVkhFaXdXQ25oUHdEcWVMUGYxX1VSeGh1RGVBT3Bhc3RJckpsVWtfRkpSNTBnWTRzVm1EenJUOFhnOGF3STJXbDUyV3NtUXAtSjFqU1lOTmN0Zm1FSFRn?oc=5",
+     "date": "2026-11-12T04:18:00.000Z",
+     "text": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "US labor market resilient; existing home sales hit more than 16-year low in October - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTZla1JsS2tMLXNSZGhQOXg4VnpnUkQxelh0RVlFQnl5b0ZGYXBwTXNVd3hWMVM1c0d5WjhPR3hGbnRPV3dDSloxV2w2Wm83a24wSUNHdTN0UmpHbzlTSHJ4VnVRNTBVdUlHTkdrZ21SdkFIZ09VMnRWZ1ZSU3ZFbk1SQnA4ZUJBVWxzSWpVTjRodDFqQlRiQzRRWHRzdzU3?oc=5",
+     "date": "2026-11-12T17:49:06.000Z",
+     "text": "US labor market resilient; existing home sales hit more than 16-year low in October Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Famed ship heads for afterlife as artificial reef in deliberate sinking off Florida - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWc1MU5tdmNOM29JWTZuQnVWaWlJbVNMQVJxQTF3VUE4MzJFOTZoTFhUeU9oU0dzbmFra1U0RFFKV3hIVXVnLUs2cm5jR29LN2h0RWpKc0hwUnItUDNVQkR6VmxXVHVxNXlpSlR5aDFqRW1jQTdJYnA4QmprYUMxSXpIVzJKdGtiblVWNkY2XzhBVU9SZFVMdEx1VXgtV1RUZElaQWQ0YmY1TVZZVFdhVENfUndxdw?oc=5",
+     "date": "2026-11-12T00:36:00.000Z",
+     "text": "Famed ship heads for afterlife as artificial reef in deliberate sinking off Florida Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTZzT256WkU3aE4zUnA1UXBqX05FOENKeXI4MFZtUDQtc28zeDBLWEE2UGdydUU0OXI0LVotdWEwUVBJeDB0bVh6Z1BrN0dQbHFRa0RwZ2xEdDlBaS12T3ZSQXlzcHNSTHAxN2FBUjFXTTlaTmRUWWVJdFZmaXBDZTJteWlWQ2d0MDYzRHRyLWV3Y0xiMU5ndjRMdlBOaDR0T25uVVFNZS12ZDhjWkRMRzBDc2EzN2RyR0dvTnZqWlgxZw?oc=5",
+     "date": "2026-11-11T20:54:06.000Z",
+     "text": "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears Reuters",
      "via": "Reuters"
     }
    ]
@@ -1485,16 +1491,16 @@
      "text": "Fern vom Schlachtfeld in der Ukraine testet Moskau Europas Abwehrfähigkeit aus. Diese interaktive Karte zeigt, wo und wie Russland aktiv ist."
     },
     {
+     "title": "LIVE-TICKER - Krieg in der Ukraine: Putin laut Kushner bereit für Europäer am Verhandlungstisch",
+     "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
+     "date": "2026-11-13T02:41:04.000Z",
+     "text": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick."
+    },
+    {
      "title": "DIE NEUESTEN ENTWICKLUNGEN - Gewalt und Waffen in den USA: Ein Toter und mehrere Verletzte nach Schüssen in Washington",
      "url": "https://www.nzz.ch/international/gewalt-und-waffen-in-den-usa-laut-medien-fuenf-tote-bei-gewalttat-an-grundschule-in-oregon-ld.1699190",
      "date": "2026-11-12T16:07:40.000Z",
      "text": "In keinem anderen Land sind Schusswaffen und die damit verübten Massaker so verbreitet wie in den USA. Warum ist das so? Dies sind die Nachrichten sowie die wichtigsten Zahlen und Fakten zur amerikanischen Schusswaffengewalt."
-    },
-    {
-     "title": "LIVE-TICKER - Krieg in der Ukraine: Grossbritanniens Premier Andy Burnham kündigt neue Sanktionen gegen Russland an",
-     "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-im-liveticker-ld.10021245",
-     "date": "2026-11-12T15:39:22.000Z",
-     "text": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick."
     },
     {
      "title": "LIVE-TICKER - Die USA nach den Midterms: Bessent muss wegen Drohungen aus Iran auf einen Stützpunkt ziehen",
@@ -1581,12 +1587,6 @@
      "text": "Wladimir Putin hält Russland fest im Griff und weigert sich, über seine Nachfolge nachzudenken. Viele im Westen hoffen nach dem Ende seiner Herrschaft auf einen demokratischen Aufbruch. Doch wahrscheinlicher sei, dass der Putinismus seinen Schöpfer überleben werde, sagt der Russland-Experte Ulrich M. Schmid im Podcast."
     },
     {
-     "title": "Erste direkte Verhandlungen seit neun Monaten: Russen und Ukrainer sprechen wieder miteinander",
-     "url": "https://www.nzz.ch/international/erste-direkte-verhandlungen-seit-neun-monaten-russen-und-ukrainer-sprechen-wieder-miteinander-ld.10059489",
-     "date": "2026-11-11T02:37:24.000Z",
-     "text": "In Abu Dhabi haben unter amerikanischer Vermittlung neue Verhandlungen zwischen den beiden Kriegsparteien begonnen. Mit einem Durchbruch rechnet kaum jemand."
-    },
-    {
      "title": "Ein Streik, so zerstritten wie das Land: Wie Spanien einen Tag im Ausstand erlebt",
      "url": "https://www.nzz.ch/international/ein-streik-so-zerstritten-wie-das-land-wie-spanien-einen-tag-im-ausstand-erlebt-ld.10060954",
      "date": "2026-11-11T16:35:00.000Z",
@@ -1623,16 +1623,22 @@
      "text": "Wer denkt, dass es beim überwältigenden Sieg der Demokraten in den amerikanischen Zwischenwahlen nur um Donald Trump ging, täuscht sich. Der Besuch in Texas zeigt, dass junge Amerikaner pragmatischer denken."
     },
     {
-     "title": "Pete Hegseth ist noch einmal davongekommen: Warum er trotz dem unbeliebten Iran-Krieg im Amt bleiben wird",
-     "url": "https://www.nzz.ch/international/pete-hegseth-ist-noch-einmal-davongekommen-der-us-verteidigungsminister-entgeht-einem-impeachment-verfahren-ld.10060321",
-     "date": "2026-11-11T03:12:33.000Z",
-     "text": "Nach der Wahlniederlage der Republikaner schien Pete Hegseth angreifbar. Doch der Versuch, ihn aus dem Amt zu entfernen, ist gescheitert. Dabei hätten die Demokraten den Verteidigungsminister durchaus in Bedrängnis bringen können."
-    },
-    {
      "title": "Pick-ups, Transporter, Maschinengewehre: Zeigen diese Satellitenbilder einen verbotenen Krieg?",
      "url": "https://www.nzz.ch/visuals/zeigen-diese-satellitenbilder-einen-verbotenen-krieg-ld.10054392",
      "date": "2026-11-12T10:18:53.000Z",
      "text": "Tausende Kämpfer sammeln sich heimlich auf einer äthiopischen Militärbasis an der Grenze zum Sudan. Experten befürchten, dass sie von hier aus der sudanesischen Armee in den Rücken fallen."
+    },
+    {
+     "title": "KOMMENTAR - Die einstige Partei von Nelson Mandela verliert ihre Übermacht. Das ist gut für Südafrika",
+     "url": "https://www.nzz.ch/meinung/die-einstige-partei-von-nelson-mandela-verliert-ihre-uebermacht-das-ist-gut-fuer-suedafrika-ld.10059617",
+     "date": "2026-11-11T04:30:00.000Z",
+     "text": "Der ANC bestimmt in Südafrika seit dem Ende der Apartheid 1994 die Politik. Das ändert sich jetzt. Denn die Partei ist nur mit sich selbst beschäftigt, statt sich um die Bevölkerung zu kümmern."
+    },
+    {
+     "title": "KOMMENTAR - Trump regiert am Volk vorbei, nur die politische Mitte kann Amerika retten",
+     "url": "https://www.nzz.ch/meinung/trump-regiert-am-volk-vorbei-nur-die-politische-mitte-kann-amerika-retten-ld.10056633",
+     "date": "2026-11-12T04:35:00.000Z",
+     "text": "Der Iran-Krieg ist nicht der einzige Grund, warum die Republikaner die Midterms vernichtend verloren haben. Trump rüttelte an vielem, was die USA grossartig macht – auch an Rechtsstaat und Gewaltenteilung. Jetzt braucht es charakterstarke Problemlöser beider Parteien."
     }
    ]
   },
@@ -2058,18 +2064,18 @@
      "via": "4investors.de"
     },
     {
-     "title": "Umschlag in Hamburg weiter im Minus - THB - Täglicher Hafenbericht",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHpEamFvX2ExRlBLVHc2cDZMV1czaXlNekREb2xabVdTM1ZraWU3OW5JTlpwSDJZUXV3TUJTYl9Dd0VmQjByR2xaLVJoM2YwV0lrTDVnY3lZcVJXb3ZPWkE5VGFIZ3BGZWh0YkJrTmpCUkhiWnhZem1pTENnbDNMY3k2WmdHNFRPRVlNUk9nSGFxcHc?oc=5",
-     "date": "2026-11-12T14:10:16.000Z",
-     "text": "Umschlag in Hamburg weiter im Minus THB - Täglicher Hafenbericht",
-     "via": "THB - Täglicher Hafenbericht"
-    },
-    {
      "title": "1,58 Millionen Euro Abfindung: Das verdienen Hamburgs Manager - t-online – Hamburg",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkFlV1V1OEtNaWl4SmF5Z3JNX1lLM21ESnl4Wm5HNDhXVmR4UjVvOGJzRTg5RXhkbGEzcUlFYUxRSlV2TmZ1NFRjd3R6Sk82S2toS19tb1Nqa2oya1lJUnZTcC1wa1dnclZXZi10ODVybDY2emplNjdjZmhkY1RJMlpqNkhuX2dSdTVnNk53Q1VyU0JsV2MxcFVjdmhrZEo1Z2ROTko3N1RGZ3BxOG5QLVRMMHRDdzVFY29R?oc=5",
      "date": "2026-11-12T17:11:00.000Z",
      "text": "1,58 Millionen Euro Abfindung: Das verdienen Hamburgs Manager t-online – Hamburg",
      "via": "t-online – Hamburg"
+    },
+    {
+     "title": "Umschlag in Hamburg weiter im Minus - THB - Täglicher Hafenbericht",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHpEamFvX2ExRlBLVHc2cDZMV1czaXlNekREb2xabVdTM1ZraWU3OW5JTlpwSDJZUXV3TUJTYl9Dd0VmQjByR2xaLVJoM2YwV0lrTDVnY3lZcVJXb3ZPWkE5VGFIZ3BGZWh0YkJrTmpCUkhiWnhZem1pTENnbDNMY3k2WmdHNFRPRVlNUk9nSGFxcHc?oc=5",
+     "date": "2026-11-12T14:10:16.000Z",
+     "text": "Umschlag in Hamburg weiter im Minus THB - Täglicher Hafenbericht",
+     "via": "THB - Täglicher Hafenbericht"
     },
     {
      "title": "Hafenwirtschaft: Der Gewinn der HHLA bricht ein - WELT",
@@ -2093,13 +2099,6 @@
      "via": "tixio - Nachrichten"
     },
     {
-     "title": "Automatisierung und Portfoliobereinigung belasten Neunmonatsergebnis der HHLA - Fruchthandel",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbHA3ay1BaHVtc2JMd1pEek92Rm5hd2RRYzhrRmlPa0pqeWc1dXRfUzZLU1NuejJsazdPSHBFaGt4WENiN0pWSmhUMUlZSmhMSjZoYVlnMlRLRm04UC1HamxIV3dBWXpfR2JPcGFWUkFYNkphSC1wdDVsUnZPM3hmeVlJSGFDV29IemFhZThRdllxdkw2bkxnTkNsMVNKSmV5aGhYRGJFbndGOS11Y05N?oc=5",
-     "date": "2026-11-12T07:22:54.000Z",
-     "text": "Automatisierung und Portfoliobereinigung belasten Neunmonatsergebnis der HHLA Fruchthandel",
-     "via": "Fruchthandel"
-    },
-    {
      "title": "Hamburg: Autobahn A26-Ost - Senat beschließt Hafenautobahn ein zweites Mal genauso - Spiegel",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZVZvd3ZaaUx6Y3hHeFZjcUtOLWhaT04ySDNXMUcwRTY1TmszWjhQcUZHT1Rqc0x6MmxENXRoeTF3dGhMcHFZWkRuVkllN0VLcnJYSjB3bFhkZENFOGxyVTVBaFpveTNGWVoxSUwxc2xCM2FjNlVoTmkxZ1Z0dnRaUU9rcmRBVnd2WVdlVi1CbUtEbWpuY2lvYmJTS2VEX1ZfSC1sUkhWWENnTkZ3TDJzS25TOW4zN1N4OGhiTW1Nd1lmcFRMOXpTSTU3TG8yTGxhR2Rvcnh0b0tRUjlNSFZLZXBCcmpCNzh0NFRoNzlDcw?oc=5",
      "date": "2026-11-11T14:09:00.000Z",
@@ -2107,11 +2106,11 @@
      "via": "Spiegel"
     },
     {
-     "title": "Mit Blick auf Elbtower und Hafen: 15 Hamburger wohnen jetzt in einem Büro - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSTJfQ096cWFUMnppQmNnUjVmSTJENFFuZTFWeGZlUmhGeERrU3RLY2tGQWJxek1sdHpWSXRScU1FbmR3ZWRMalNxV0NkS0UzWWxTTDNLMW9lcFVOazZVQjBHbG0tVjJ6T0RrMW5KdDI2anBWYzhUMFhaZG1ubk9ERkEwcnd6akpfTVcwQVU0VE1ydTFkWXNySjhSMHVKMjl1TGMwR3NHMGNkdHduRnpZdVU0OGVQZnF1RTRYcjk5TlJTV0dYX3JsOTlSQTEwdFVVd1pMWllXdjU1R2M?oc=5",
-     "date": "2026-11-12T04:45:00.000Z",
-     "text": "Mit Blick auf Elbtower und Hafen: 15 Hamburger wohnen jetzt in einem Büro Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Automatisierung und Portfoliobereinigung belasten Neunmonatsergebnis der HHLA - Fruchthandel",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbHA3ay1BaHVtc2JMd1pEek92Rm5hd2RRYzhrRmlPa0pqeWc1dXRfUzZLU1NuejJsazdPSHBFaGt4WENiN0pWSmhUMUlZSmhMSjZoYVlnMlRLRm04UC1HamxIV3dBWXpfR2JPcGFWUkFYNkphSC1wdDVsUnZPM3hmeVlJSGFDV29IemFhZThRdllxdkw2bkxnTkNsMVNKSmV5aGhYRGJFbndGOS11Y05N?oc=5",
+     "date": "2026-11-12T07:22:54.000Z",
+     "text": "Automatisierung und Portfoliobereinigung belasten Neunmonatsergebnis der HHLA Fruchthandel",
+     "via": "Fruchthandel"
     },
     {
      "title": "Hamburg: Mutmaßlicher Schütze tot, weitere Leichen gefunden - ZDFheute",
@@ -2175,6 +2174,13 @@
      "date": "2026-11-11T05:47:00.000Z",
      "text": "Motiv nach Schüssen bei Elbphilharmonie weiter offen – Ermittlungen laufen STERN.de",
      "via": "STERN.de"
+    },
+    {
+     "title": "Mit Blick auf Elbtower und Hafen: 15 Hamburger wohnen jetzt in einem Büro - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSTJfQ096cWFUMnppQmNnUjVmSTJENFFuZTFWeGZlUmhGeERrU3RLY2tGQWJxek1sdHpWSXRScU1FbmR3ZWRMalNxV0NkS0UzWWxTTDNLMW9lcFVOazZVQjBHbG0tVjJ6T0RrMW5KdDI2anBWYzhUMFhaZG1ubk9ERkEwcnd6akpfTVcwQVU0VE1ydTFkWXNySjhSMHVKMjl1TGMwR3NHMGNkdHduRnpZdVU0OGVQZnF1RTRYcjk5TlJTV0dYX3JsOTlSQTEwdFVVd1pMWllXdjU1R2M?oc=5",
+     "date": "2026-11-12T04:45:00.000Z",
+     "text": "Mit Blick auf Elbtower und Hafen: 15 Hamburger wohnen jetzt in einem Büro Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
     },
     {
      "title": "Spektakulärer Hingucker in der HafenCity: So läuft der Lighthouse-Abriss - Hamburger Abendblatt",
