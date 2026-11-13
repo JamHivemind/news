@@ -1,99 +1,114 @@
 {
-  "date": "2026-11-12",
-  "intro": "Die Wirtschaft in Deutschland wächst wieder stärker und die Inflation ist gesunken. Gleichzeitig mahnen Experten zu strengerem Sparen, und ein Tarifstreit in der Metallindustrie spitzt sich zu.",
+  "date": "2026-11-13",
+  "intro": "Mercedes stoppt Investitionen in Deutschland und die IG Metall droht mit ganztägigen Streiks. Gleichzeitig steht der Dax auf Rekordhoch, und die Zahl überschuldeter Menschen steigt.",
   "top": [
     {
-      "title": "Wirtschaftsweise heben Wachstumsprognose deutlich an",
-      "text": "Der Sachverständigenrat, die „Wirtschaftsweisen“, erwartet in seinem Jahresgutachten wieder mehr Wachstum. Er fordert aber harte Sparmaßnahmen im Bundeshaushalt und bringt eine Art Soli für Verteidigungsausgaben ins Spiel. Für Beschäftigte und Steuerzahler heißt das: Die Lage bessert sich, doch Belastungen sind politisch nicht vom Tisch.",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
+      "title": "Mercedes stoppt Investitionen in Deutschland",
+      "text": "Mercedes-Benz legt neue Investitionen an den deutschen Standorten auf Eis und prüft Werksschließungen. Auslöser ist der Streit mit der Arbeitnehmerseite über Kostensenkungen, bei dem keine Lösung in Sicht ist. Für Beschäftigte und Zulieferer in Deutschland erhöht das die Unsicherheit.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
       "source": "tagesschau Wirtschaft",
-      "category": "Konjunktur"
+      "category": "Unternehmen"
     },
     {
-      "title": "Inflation sinkt im Oktober, Tankrabatt wirkt",
-      "text": "Die Teuerungsrate in Deutschland ist im Oktober zurückgegangen. Der Tankrabatt, also die staatliche Entlastung beim Sprit, zeigt offenbar Wirkung. Energie, vor allem Heizöl, bleibt aber teuer, und einige Lebensmittel kosten wieder mehr. Wer mit Öl heizt, spürt die Entlastung daher kaum.",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html",
+      "title": "IG Metall beschließt ganztägige Streiks",
+      "text": "Im Tarifstreit der Metall- und Elektroindustrie sind ab sofort ganztägige Warnstreiks möglich. Das gab es zuletzt vor acht Jahren. Betroffen sein können Betriebe wie Autobauer und Maschinenbauer, in denen es um Lohn und Arbeitsbedingungen geht.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html",
       "source": "tagesschau Wirtschaft",
-      "category": "Konjunktur"
+      "category": "Arbeit & Soziales"
     },
     {
-      "title": "Kabinett beschließt strategische Gasreserve, Verbraucher zahlen",
-      "text": "Die Bundesregierung will eine strategische Gasreserve aufbauen, also einen staatlichen Notvorrat. Allein der Aufbau soll 1,2 bis 1,8 Milliarden Euro kosten. Laut Gesetzentwurf sollen die Verbraucher das bezahlen. Auf Gaskunden könnten damit höhere Kosten zukommen.",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/gas-bundeskabinett-beschliesst-strategische-gasreserve-a-34fe2f8d-246c-404c-aad4-5c48b79618bd#ref=rss",
+      "title": "Huang-Rücktritt belastet Nvidia-Aktie und Wall Street",
+      "text": "Nach dem Rücktritt des Nvidia-Chefs Jensen Huang verlor die Aktie des Chipkonzerns deutlich an Wert. Die Wall Street schloss im Minus, und auch der Dax gab laut tagesschau nach. Nvidia gilt als Schlüsselfirma für den KI-Boom, deshalb schauen Anleger genau hin.",
+      "url": "https://www.spiegel.de/wirtschaft/spionage-affaere-nvidia-aktien-buessen-nach-jensen-huangs-ruecktritt-an-wert-ein-a-a7155d5a-d0f2-43d4-b287-1f89bcb863ea#ref=rss",
       "source": "Spiegel Wirtschaft",
-      "category": "Energie"
+      "category": "Börse & Märkte"
     }
   ],
   "entries": [
     {
-      "title": "IG Metall: 24-Stunden-Streiks rücken näher",
-      "summary": "Die IG-Metall-Bezirke sprechen sich im Tarifstreit der Metall- und Elektroindustrie für ganztägige Warnstreiks aus. Das gab es bisher erst einmal; die Positionen liegen weit auseinander.",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-122.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "DAX schließt nahe am Rekordhoch",
-      "summary": "Nach schwachem Verlauf endete der Handel mit einem Index nahe dem Höchststand. Die Aussagen der Wirtschaftsweisen schürten Optimismus, die KI-Sorgen traten in den Hintergrund.",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
-      "source": "tagesschau Wirtschaft",
+      "title": "Dax knackt erstmals 27.000 Punkte",
+      "summary": "Der deutsche Leitindex hat eine neue Rekordmarke erreicht, getragen von guter Stimmung am Aktienmarkt.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXltMTB4c3hKZldUYmF5UXRINnBXUkJJSUFKY0p3b0l0TlN0Y3dGYV9hendtR3FITjhhY1Z2Q3MzN1JsejNNMEJfeXJjZkFSOGlldnFFVE1wdHpEbjgySmt3X3VqQ09lMlZwNFR3SE5iUTMydmpQanZyd3NJQWhlM2FZSW9VWnZZbE5QWWZsZDljSThkLXJhVFk2Zk5xWC14OG05RjV0UzVjRl9XekFPbHVQY29Fc0ZONHV5NUJ2ekg1b2ZXNWVNODlYUHdMZw?oc=5",
+      "source": "Allgemeine Zeitung",
       "category": "Börse & Märkte"
     },
     {
-      "title": "Nvidia-Aktie fällt auf tiefsten Stand seit März",
-      "summary": "Berichte über eine Affäre von Konzernchef Jensen Huang belasten den Chiphersteller. Der Börsenwert ist bereits deutlich gesunken.",
-      "url": "https://www.spiegel.de/wirtschaft/nvidia-aktie-faellt-auf-tiefsten-stand-seit-maerz-a-27332fd1-f19b-4a4f-a0d3-5f1012e4bf5d#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Börse & Märkte"
+      "title": "Bundesbank warnt vor erhöhten Risiken für Banken",
+      "summary": "Die Bundesbank sieht wachsende Gefahren im Finanzsystem, weil mehr Kredite nicht zurückgezahlt werden. Dazu kommen hohe Marktbewertungen, geringes Wachstum und hohe Staatsschulden. Das System gilt aber als widerstandsfähig.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Zinsen & Geldpolitik"
     },
     {
-      "title": "Klingbeil will Steuerklassen III und V abschaffen",
-      "summary": "Der Finanzminister will das Steuersystem für Paare vereinfachen. In der Union stößt das auf Widerstand. Offen ist, ob es für Steuerzahler teurer würde.",
-      "url": "https://www.spiegel.de/wirtschaft/service/steuern-ende-der-steuerklassen-iii-und-v-was-wuerde-das-bedeuten-a-d47c216b-b9a2-4af3-8854-fd60150d7302#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Arbeit & Soziales"
+      "title": "Kabinett beschließt nationale Gasreserve",
+      "summary": "Die Bundesregierung will damit die Gasversorgung in Krisensituationen absichern.",
+      "url": "https://www.tagesschau.de/inland/gasreserve-126.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Energie"
     },
     {
-      "title": "Koalition: Stromsteuer wird vorerst nicht gesenkt, Zuckersteuer verschoben",
-      "summary": "Union und SPD haben sich bei den Haushaltsberatungen teilweise geeinigt. Die Stromsteuer für alle bleibt vorerst, wie sie ist; die Zuckersteuer soll später kommen, laut Bericht erst 2028.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/haushalt-stromsteuer-wird-vorerst-nicht-gesenkt-zuckersteuer-verschoben/100267083.html",
-      "source": "Handelsblatt",
+      "title": "Mehr als sieben Millionen Erwachsene überschuldet",
+      "summary": "Laut Creditreform-Schuldneratlas ist jeder zehnte Erwachsene in Deutschland überschuldet. Die Zahl steigt das zweite Jahr in Folge.",
+      "url": "https://www.spiegel.de/wirtschaft/schulden-in-deutschland-jeder-zehnte-erwachsene-ist-ueberschuldet-a-6c3851b7-fc55-4574-bae8-71344e0ff43b#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Arbeit & Soziales",
+      "tipp": "Bei Geldsorgen früh zu einer kostenlosen Schuldnerberatung gehen, bevor sich Mahnungen häufen."
+    },
+    {
+      "title": "Kalte Progression kostet Steuerzahler gut 23 Milliarden Euro",
+      "summary": "Kalte Progression heißt: Gehalt steigt, aber durch den Steuertarif sinkt trotzdem die Kaufkraft. Für 2026 und 2027 summiert sich das laut Spiegel auf gut 23 Milliarden Euro.",
+      "url": "https://www.spiegel.de/wirtschaft/kalte-progression-steuerzahler-zahlen-2026-und-2027-gut-23-milliarden-euro-drauf-a-5755f76a-dd16-42d4-ba29-2cb4db616fa2#ref=rss",
+      "source": "Spiegel Wirtschaft",
       "category": "Politik & Handel"
     },
     {
-      "title": "Jedes dritte Unternehmen plant 2027 Stellenabbau",
-      "summary": "Das zeigt laut n-tv eine Umfrage des Instituts der deutschen Wirtschaft (IW). Für Beschäftigte ist das ein Warnsignal trotz besserer Wachstumsprognosen.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTlhSnVVeDNvZmphbEdDVW1CWmJfenQ0WkZyYzliVnpzN0h4b2lZNXc3cXhTaDlsNlZ3RmFLNXBIUThvc1EzWWdsRGdXTVZZYmpPUUV5Z1lqb2hBcnVNWWdaNFp6UTNhYXl4c3ZQa3VBQ3M0QWtFQzAtOEwyWlBiRXlESXFZZkxkWW85ZklWMnJ2RWtKZWFfdzJUdW9hQTFERVptOG9mZ2hGdw?oc=5",
-      "source": "n-tv.de",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Mercedes-Chef fordert Zugeständnisse von den Gewerkschaften",
-      "summary": "Konzernchef Ola Källenius will die Arbeitskosten in Deutschland spürbar senken. Er zeigt sich kompromissbereit, aber nur bis zu einer klaren Grenze.",
-      "url": "https://www.spiegel.de/wirtschaft/mercedes-chef-ola-kaellenius-fordert-deutliche-zugestaendnisse-von-gewerkschaften-a-d04b053c-3e0d-4c70-90b1-ff2df11b3358#ref=rss",
+      "title": "Stromsteuer-Senkung bleibt vorerst aus",
+      "summary": "Die Wirtschaft nennt das eine „herbe Enttäuschung“ und kritisiert den Kurs der Regierung.",
+      "url": "https://www.spiegel.de/wirtschaft/stromsteuer-wirtschaft-kritisiert-schlingerkurs-der-regierung-a-1b53162b-b41a-4462-9e5c-896a8a327156#ref=rss",
       "source": "Spiegel Wirtschaft",
-      "category": "Unternehmen"
+      "category": "Energie"
     },
     {
-      "title": "Ukraine-Angriffe: BMW fehlen wieder Kabelbäume",
-      "summary": "Russische Angriffe haben Werke eines deutschen Zulieferers getroffen und die Lieferkette unterbrochen. BMW muss Schichten ausfallen lassen.",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/bmw-skoda-nach-angriffen-in-der-ukraine-autoindustrie-fehlen-kabelbaeume/100268739.html",
-      "source": "Handelsblatt",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Allianz erhöht Gewinnprognose",
-      "summary": "Der Versicherer hat in den ersten neun Monaten mehr als 14 Milliarden Euro verdient. Das ist ein Rekord, und der Ausblick wurde angehoben.",
-      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherung-allianz-erhoeht-gewinnprognose-rekordgewinn-nach-neun-monaten/100266550.html",
-      "source": "Handelsblatt",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Deutschland ist zweitgrößter Exporteur von Klimatechnik",
-      "summary": "Der weltweite Handel mit Umwelt- und Klimatechnik wächst jährlich um mehr als sechs Prozent. Deutschland profitiert davon und liegt hinter China auf Platz zwei.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschland-ist-zweitgroesster-exporteur-von-klimatechnik-201673217.html",
+      "title": "Koalition einigt sich auf Haushalt 2027",
+      "summary": "CDU/CSU und SPD haben sich bei wichtigen Haushaltsfragen geeinigt, laut FAZ auf Kosten künftiger Jahre. Die Sozialausgaben bleiben hoch.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/cdu-csu-und-spd-einigen-sich-im-haushalt-auf-kosten-kuenftiger-jahre-201676865.html",
       "source": "FAZ Wirtschaft",
       "category": "Politik & Handel"
+    },
+    {
+      "title": "Wirtschaftsweise warnen vor wachsender Schuldenlast",
+      "summary": "Der Sachverständigenrat mahnt die Regierung, auch unbequeme Reformen anzugehen, weil die Schulden schnell steigen. Seine Prognose sieht deutlich höheres Wachstum.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftsweise-warnen-merz-und-klingbeil-heilige-kuehe-opfern-201673025.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Konjunktur"
+    },
+    {
+      "title": "Warum die Inflation gefühlt höher ist",
+      "summary": "Die Inflation liegt bei 2,8 Prozent. Viele Menschen haben dennoch den Eindruck, dass es teurer ist, erklärt die FAZ.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/gefuehlte-inflation-in-deutschland-warum-2-8-prozent-falsch-wirken-201658905.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Konjunktur"
+    },
+    {
+      "title": "Stahlgipfel: Wie geht es mit der Stahlindustrie weiter?",
+      "summary": "Hohe Energiepreise und weltweite Überkapazitäten setzen Deutschlands Stahlerzeuger unter Druck. Beim Nationalen Stahlgipfel geht es um ihre Zukunft.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/nationaler-stahlgipfel-welche-zukunft-hat-die-stahlindustrie-in-deutschland/100269568.html",
+      "source": "Handelsblatt",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Altersvorsorgedepot ersetzt ab 2027 die Riester-Rente",
+      "summary": "Das neue Depot lockt mit staatlicher Förderung. Das Handelsblatt beantwortet die zwölf wichtigsten Fragen dazu.",
+      "url": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-die-zwoelf-wichtigsten-antworten-zum-altersvorsorgedepot/100265976.html",
+      "source": "Handelsblatt",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "Stundenlange Störung bei Microsoft-Diensten",
+      "summary": "Outlook und Teams waren am Donnerstag über Stunden nicht erreichbar. Viele Firmen und Verbraucher lassen ihre E-Mails über Outlook laufen.",
+      "url": "https://www.handelsblatt.com/technik/it-internet/stoerung-ausfall-bei-microsoft-beeintraechtigt-outlook-und-teams/100269552.html",
+      "source": "Handelsblatt",
+      "category": "Unternehmen"
     }
   ]
 }
