@@ -307,3 +307,59 @@ div.garage-car{aspect-ratio:900/333;background:url(garage-993-turbo.webp) center
 .k-btn:hover{transform:translateY(-2px)}
 .k-btn.k-claude{background:transparent;color:var(--text);border:2px solid var(--yellow)}
 @media (max-width:560px){.k-form{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+/* Parade: alle Modelle fahren nacheinander über die Straße (freigestellte Fotos, siehe Bildnachweise) */
+.garage-road{animation:none;--car:250px}
+.g-car{position:absolute;left:100%;bottom:9px;width:calc(var(--car)*var(--k,1));background:center/contain no-repeat;
+  filter:drop-shadow(0 8px 6px rgba(0,0,0,.7));animation:g-drive 32s linear infinite;will-change:transform}
+.g-c1{aspect-ratio:900/333;background-image:url(garage-993-turbo.webp)}
+.g-c2{aspect-ratio:563/196;background-image:url(garage-997.webp);--k:1.04;animation-delay:8s}
+.g-c3{aspect-ratio:900/291;background-image:url(garage-amg-gt-s.webp);--k:1.07;animation-delay:16s}
+.g-c4{aspect-ratio:570/174;background-image:url(garage-sl-r107.webp);--k:1.03;animation-delay:24s}
+@keyframes g-drive{0%{transform:translateX(0)}25%,100%{transform:translateX(calc(-100vw - 100%))}}
+@media (min-width:561px){.garage-road{--car:420px;animation:none}.g-car{bottom:7px}}
+@media (prefers-reduced-motion:reduce){.g-car{animation:none;display:none}.g-c1{display:block;left:50%;transform:translateX(-50%)}}
+.g-credits{font-size:.7rem;color:var(--muted);text-align:center;padding:0 16px 6px;background:rgba(0,0,0,.4)}
+.g-credits summary{cursor:pointer;display:inline-block;text-decoration:underline dotted}
+.g-credits a{color:inherit}
+@media (prefers-color-scheme: light){.theme-garage .g-credits{background:rgba(255,255,255,.65)}}
+
+/* Navigation als Reiter, Kacheln zu den Unterseiten */
+.theme-garage .nav{flex-wrap:wrap;gap:8px}
+.theme-garage .nav a{border:1px solid var(--border);border-radius:999px;padding:5px 13px;color:var(--text);background:var(--surface);font-weight:600}
+.theme-garage .nav a:hover{border-color:var(--yellow);color:var(--text)}
+.theme-garage .nav a.aktiv{background:var(--yellow);border-color:var(--yellow);color:#111}
+.sub-kacheln{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:12px;margin:26px 0 0}
+.sub-kacheln a{position:relative;display:grid;gap:4px;text-decoration:none;padding:18px 54px 18px 20px;border-radius:16px;border:1px solid var(--border);border-top:5px solid var(--yellow);
+  background:linear-gradient(180deg,rgba(255,204,0,.08),transparent 90px),var(--surface);transition:transform .15s,border-color .15s}
+.sub-kacheln a:hover{transform:translateY(-3px);border-color:var(--yellow)}
+.sub-kacheln b{font-family:Anton,Impact,"Arial Narrow Bold",sans-serif;font-weight:400;font-size:1.7rem;letter-spacing:.03em;text-transform:uppercase;line-height:1.1}
+.sub-kacheln span{font-size:.9rem;color:var(--muted)}
+.sub-kacheln i{position:absolute;right:18px;top:50%;transform:translateY(-50%);font-style:normal;font-size:1.6rem;color:var(--amber,var(--yellow))}
+
+/* Kaufen: drei Schritte */
+.k-step{display:flex;align-items:center;gap:10px;margin:20px 0 10px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;font-size:.85rem}
+.k-step span{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--yellow);color:#111;font-family:Anton,Impact,sans-serif;font-weight:400;font-size:1rem}
+.k-chips{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
+.k-chip{position:relative;cursor:pointer}
+.k-chip input{position:absolute;opacity:0;inset:0;cursor:pointer}
+.k-chip span{display:grid;gap:2px;height:100%;padding:11px 13px;border-radius:12px;border:2px solid var(--border);background:var(--surface2);transition:border-color .15s,transform .15s}
+.k-chip b{font-size:.95rem;line-height:1.2}
+.k-chip i{font-style:normal;font-size:.75rem;color:var(--muted)}
+.k-chip:hover span{transform:translateY(-2px)}
+.k-chip input:checked + span{border-color:var(--yellow);background:var(--accent-soft);box-shadow:inset 0 0 0 1px var(--yellow)}
+.k-chip input:focus-visible + span{outline:2px solid var(--yellow);outline-offset:2px}
+.theme-garage .k-form{margin:0}
+.k-sum{font-family:Anton,Impact,"Arial Narrow Bold",sans-serif;font-size:1.25rem;letter-spacing:.03em;margin-bottom:10px}
+.k-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:10px}
+.k-card{position:relative;display:grid;gap:3px;text-decoration:none;padding:15px 44px 15px 16px;border-radius:14px;background:var(--yellow);color:#111;transition:transform .15s,box-shadow .15s}
+.k-card b{font-size:1.08rem}
+.k-card span{font-size:.8rem;opacity:.8}
+.k-card i{position:absolute;right:14px;top:50%;transform:translateY(-50%);font-style:normal;font-size:1.4rem;transition:transform .15s}
+.k-card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(0,0,0,.3)}
+.k-card:hover i{transform:translate(4px,-50%)}
+.k-card.k-claude{background:transparent;color:var(--text);box-shadow:inset 0 0 0 2px var(--yellow)}
+.k-mehr{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:12px;font-size:.85rem;color:var(--muted)}
+.k-mehr:empty{display:none}
+.k-mehr a{color:var(--text);text-decoration:none;font-weight:700;border:1px solid var(--border);border-radius:999px;padding:4px 12px}
+.k-mehr a:hover{border-color:var(--yellow)}

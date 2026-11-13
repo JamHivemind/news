@@ -244,24 +244,34 @@ function buildDashboard(name, template) {
   manifest.briefs.sort((a, b) => b.date.localeCompare(a.date));
   manifest.site = { title: cfg.title, description: cfg.description };
   const older = manifest.briefs[manifest.briefs.findIndex(b => b.date === date) + 1];
-  const { kpis, dashboard: dash, fan } = renderDashboard(cfg, manifest, date, metrics, dir);
+  const { kpis, dashboard: dash, fan: fan0 } = renderDashboard(cfg, manifest, date, metrics, dir);
   // Modelle im Blick (Autos): Vergleich mit Marktdaten aus data/markt.json (scripts/markt.mjs)
   // "modelle.oben": true → vor den Diagrammen statt danach
   const mod = cfg.modelle ? renderModelle(cfg, loadJson(join(dir, "data", "markt.json"), null), all) : "";
   const kauf = renderKaufen(cfg);
-  const dashboard = cfg.modelle?.oben ? mod + kauf + dash : dash + mod + kauf;
+  // "unterseiten": true → Modelle und Kaufen bekommen eigene Seiten (<dashboard>/modelle/, /kaufen/), die Tagesseite zeigt nur Kacheln dorthin.
+  // %%ROOT%% steht für den Weg zurück zum Dashboard-Ordner ("" auf der Tagesseite, "../" im Archiv).
+  const sub = cfg.unterseiten ? [
+    mod && { slug: "modelle", titel: cfg.modelle.titel || "Modelle im Blick", text: cfg.modelle.kachel || cfg.modelle.text || "", html: mod },
+    kauf && { slug: "kaufen", titel: cfg.kaufen.titel || "Kaufen", text: cfg.kaufen.kachel || cfg.kaufen.text || "", html: kauf },
+  ].filter(Boolean) : [];
+  const kacheln = sub.length ? `<nav class="sub-kacheln">${sub.map(u => `<a href="%%ROOT%%${u.slug}/"><b>${esc(u.titel)}</b><span>${esc(u.text)}</span><i aria-hidden="true">→</i></a>`).join("")}</nav>` : "";
+  const fan = sub.some(u => u.slug === "modelle") ? fan0.replaceAll('href="#mod-', 'href="%%ROOT%%modelle/#mod-').replaceAll('href="#hh-', 'href="%%ROOT%%modelle/#hh-') : fan0;
+  const subNav = root => sub.map(u => `<a href="${root}${u.slug}/">${esc(u.titel)}</a>`).join("");
+  const dashboard = sub.length ? kacheln + dash : cfg.modelle?.oben ? mod + kauf + dash : dash + mod + kauf;
 
   const page = (root, assets, isIndex) => {
     const nav = [`<a href="${root}../">Alle Dashboards</a>`];
     if (!isIndex) nav.push(`<a href="${root}">Heute</a>`);
     if (older) nav.push(`<a href="${root}archive/${older.file}">← Vortag</a>`);
+    if (sub.length) nav.push(subNav(root));
     nav.push(`<a href="${root}archive/">Archiv</a>`);
     if (SITE.feedback) nav.push(feedbackNav());
     return fill(template, {
-      ...base, ...theme(assets), FAN: fan, PAGE_TITLE: `${esc(cfg.title)} · ${esc(shortDate(date))}`, DATE_LONG: esc(longDate(date)), ASSETS: assets,
+      ...base, ...theme(assets), FAN: fan.replaceAll("%%ROOT%%", root), PAGE_TITLE: `${esc(cfg.title)} · ${esc(shortDate(date))}`, DATE_LONG: esc(longDate(date)), ASSETS: assets,
       STATS: `${all.length} Meldungen aus ${sources.length} Quellen`, NAV: nav.join(""),
       KPIS: kpis, INTRO: content.intro ? `<div class="intro">${esc(content.intro)}</div>` : "",
-      TOP_TITLE: "Top 3 des Tages", TOP: renderTop(top), DASHBOARD: dashboard, SECTIONS: renderSections(entries, cfg.categories),
+      TOP_TITLE: "Top 3 des Tages", TOP: renderTop(top), DASHBOARD: dashboard.replaceAll("%%ROOT%%", root), SECTIONS: renderSections(entries, cfg.categories),
       RUECKBLICK: content.rueckblick ? `<h2>Wochenrückblick</h2><div class="rueckblick">${esc(content.rueckblick)}</div>` : "",
       SOURCES: sources.map(esc).join(", "),
     });
@@ -273,9 +283,18 @@ function buildDashboard(name, template) {
     `<span class="h">${esc(b.headline || `${b.count} Meldungen`)}</span></a></li>`).join("");
   writeFileSync(join(dir, "archive", "index.html"), fill(template, {
     ...base, ...theme("../../assets/"), PAGE_TITLE: `${esc(cfg.title)} · Archiv`, DATE_LONG: "Archiv", ASSETS: "../../assets/",
-    STATS: `${manifest.briefs.length} Ausgaben`, NAV: `<a href="../../">Alle Dashboards</a><a href="../">Heute</a>`,
+    STATS: `${manifest.briefs.length} Ausgaben`, NAV: `<a href="../../">Alle Dashboards</a><a href="../">Heute</a>${subNav("../")}`,
     TOP_TITLE: "Alle Ausgaben", TOP: `<ul class="archive">${list}</ul>`, SOURCES: "siehe einzelne Ausgaben",
   }));
+  for (const u of sub) {
+    mkdirSync(join(dir, u.slug), { recursive: true });
+    const nav = subNav("../").replace(`href="../${u.slug}/"`, `href="../${u.slug}/" class="aktiv" aria-current="page"`);
+    writeFileSync(join(dir, u.slug, "index.html"), fill(template, {
+      ...base, ...theme("../../assets/"), PAGE_TITLE: `${esc(cfg.title)} · ${esc(u.titel)}`, DATE_LONG: esc(u.titel), ASSETS: "../../assets/",
+      STATS: `Stand ${esc(longDate(date))}`, NAV: `<a href="../../">Alle Dashboards</a><a href="../">Heute</a>${nav}<a href="../archive/">Archiv</a>`,
+      TOP_TITLE: "", DASHBOARD: u.html.replace(/<h2>.*?<\/h2>/, "").replaceAll('href="#m-', 'href="../#m-'), SOURCES: "siehe Tagesausgabe",
+    }).replace("<h2></h2>", ""));
+  }
   saveJson(manifestPath, manifest);
 
   const seenPath = join(dir, "seen.json"), seen = loadJson(seenPath, {});

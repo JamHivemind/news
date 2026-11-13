@@ -427,31 +427,34 @@
         "ort": "Brietlingen",
         "elferspot": "fineeleven"
       }
-    ]
+    ],
+    "kachel": "Marktpreise, Angebote und Hamburger Händler für ausgewählte Sportwagen und Klassiker."
   },
   "kaufen": {
     "titel": "Kaufen",
-    "text": "Such dir dein Traumauto: Fahrzeug wählen, Eckdaten einstellen, und der Link öffnet die Suche bei AutoScout24 oder Kleinanzeigen. Alles passiert in deinem Browser, deine Eingaben bleiben bei dir.",
+    "text": "In drei Schritten zur passenden Suche: Fahrzeug wählen, Eckdaten einstellen, Börse öffnen. Alles passiert in deinem Browser, deine Eingaben bleiben bei dir.",
     "hinweis": "Die Links öffnen fremde Seiten mit deinen Filtern. „Mit Claude vergleichen“ öffnet Claude mit einem vorbereiteten Text in deinem eigenen Konto. Keine Kauf- oder Verkaufsberatung.",
     "claudeText": "Hilf mir bei der Autosuche in Deutschland. Nenne typische Schwachstellen, realistische Preise und worauf ich bei Besichtigung und Probefahrt achten sollte. Frage nach, wenn dir Angaben fehlen.",
     "liste": [
       {
-        "name": "BMW 3er 320 (G20)",
+        "name": "BMW 320",
         "as24": "bmw/320",
         "text": "BMW 320",
         "von": 2019,
         "bis": 2022,
         "preis": 40000,
-        "km": 100000
+        "km": 100000,
+        "sub": "G20 · ab 2019"
       },
       {
-        "name": "BMW 3er 330 (G20)",
+        "name": "BMW 330",
         "as24": "bmw/330",
         "text": "BMW 330",
         "von": 2019,
         "bis": 2022,
         "preis": 45000,
-        "km": 100000
+        "km": 100000,
+        "sub": "G20 · ab 2019"
       },
       {
         "name": "Porsche 911 (993)",
@@ -460,7 +463,18 @@
         "von": 1993,
         "bis": 1998,
         "preis": 150000,
-        "km": 200000
+        "km": 200000,
+        "sub": "1993–1998 · luftgekühlt",
+        "mehr": [
+          {
+            "name": "Elferspot",
+            "url": "https://www.elferspot.com/de/suche/?model=993"
+          },
+          {
+            "name": "Classic Trader",
+            "url": "https://www.classic-trader.com/de/automobile/suche/porsche/911/993"
+          }
+        ]
       },
       {
         "name": "Porsche 911 (997)",
@@ -469,7 +483,14 @@
         "von": 2005,
         "bis": 2012,
         "preis": 80000,
-        "km": 150000
+        "km": 150000,
+        "sub": "2005–2012",
+        "mehr": [
+          {
+            "name": "Elferspot",
+            "url": "https://www.elferspot.com/de/suche/?model=997"
+          }
+        ]
       },
       {
         "name": "Mercedes SL (R107)",
@@ -478,7 +499,14 @@
         "von": 1971,
         "bis": 1989,
         "preis": 65000,
-        "km": ""
+        "km": "",
+        "sub": "1971–1989 · Klassiker",
+        "mehr": [
+          {
+            "name": "Classic Trader",
+            "url": "https://www.classic-trader.com/de/automobile/suche/mercedes-benz/sl-klasse/r-107"
+          }
+        ]
       },
       {
         "name": "Mercedes-AMG GT",
@@ -487,9 +515,11 @@
         "von": 2014,
         "bis": 2021,
         "preis": 100000,
-        "km": 100000
+        "km": 100000,
+        "sub": "C190 · 2014–2021"
       }
-    ]
+    ],
+    "kachel": "Suche einstellen und direkt bei AutoScout24 oder Kleinanzeigen öffnen."
   },
   "ton": "Schreib wie ein Autofan für Autofans: mit Begeisterung, Benzin im Blut und gern einem Augenzwinkern („Elfer“, „luftgekühlt“, „Handschalter“, „Gummi geben“). Fakten bleiben Fakten: nichts erfinden, Preise, PS, Stückzahlen, Namen und Daten exakt wie in der Quelle. Keine Kaufempfehlungen. Rückrufe und Regeln sachlich und kurz.",
   "garage": {
@@ -523,5 +553,6 @@
         "sicher": true
       }
     ]
-  }
+  },
+  "unterseiten": true
 }
