@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-13T13:57:21.904Z",
+ "fetched": "2026-11-13T14:18:10.961Z",
  "hours": 48,
  "sources": [
   {
@@ -102,6 +102,12 @@
    "name": "Spiegel Wirtschaft",
    "ok": true,
    "items": [
+    {
+     "title": "Österreich: Korruptionsermittler prüfen Vorwürfe gegen Barmherzige Brüder",
+     "url": "https://www.spiegel.de/wirtschaft/oesterreich-korruptionsermittler-pruefen-vorwuerfe-gegen-barmherzige-brueder-a-fcfdfdb5-d543-49d3-b78d-214572afe3eb#ref=rss",
+     "date": "2026-11-13T14:00:00.000Z",
+     "text": "Ein katholischer Männerorden soll sich in Österreich über Arzneiaufpreise Steuermillionen erschlichen haben. Über den Verdacht berichtete der SPIEGEL. Nun befasst sich eine Spezialstaatsanwaltschaft mit dem Fall."
+    },
     {
      "title": "Öl-Versorgung erholt sich erstmals seit Beginn des Irankriegs etwas",
      "url": "https://www.spiegel.de/wirtschaft/oel-versorgung-erholt-sich-erstmals-seit-beginn-des-irankriegs-etwas-a-115c8f18-2361-4368-8f4e-6b1462aa4652#ref=rss",
@@ -215,12 +221,6 @@
      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-steht-beim-chip-konzern-vor-dem-aus-wer-auf-ihn-folgen-koennte-a-ab681d07-4346-42de-810e-15b6e63c4568#ref=rss",
      "date": "2026-11-12T14:46:00.000Z",
      "text": "Der Techgigant Nvidia galt als One-Man-Show des Jensen Huang. Jetzt ist der Superstar der IT-Branche über zwei Affären gestürzt. Mit Colette Kress ist eine Interimslösung gefunden, langfristig gibt es auch andere Kandidaten."
-    },
-    {
-     "title": "Nvidia: Jensen Huang tritt nach Spionageaffäre zurück",
-     "url": "https://www.spiegel.de/wirtschaft/jensen-huang-nvidia-chef-tritt-nach-spionageaffaere-zurueck-a-776bb012-48a6-4c08-9939-a77fad020e47#ref=rss",
-     "date": "2026-11-12T13:57:00.000Z",
-     "text": "Er ist die zentrale Figur beim weltgrößten Chiphersteller, doch nun räumt Nvidia-Chef Jensen Huang seinen Posten. Hintergrund ist seine Affäre mit einer mutmaßlichen chinesischen Spionin. Eine vorübergehende Nachfolgerin steht bereits fest."
     }
    ]
   },
@@ -253,6 +253,12 @@
      "text": "Einblick in Jensen Huangs letzte Stunden als Nvidia-CEO +++ Die Hälfte der Beschäftigten bekommt Weihnachtsgeld +++ Mercedes stoppt alle neuen Investitionen in deutsche Standorte +++ alle Neuigkeiten im Unternehmen-Liveblog"
     },
     {
+     "title": "Panne bei Microsoft: Warum Friedrich Merz trotz des Microsoft-Ausfalls noch E-Mails schreiben konnte",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/microsoft-ausfall-warum-bundesbehoerden-ungestoert-weiterarbeiteten-201680148.html",
+     "date": "2026-11-13T14:10:04.000Z",
+     "text": "Wegen Serverproblemen bei Microsoft brach weltweit der E-Mail-Verkehr zusammen. In den Bundesbehörden lief er munter weiter – aus guten Gründen."
+    },
+    {
      "title": "Chipfertiger wird Investor: TSMC will das „Nvidia der Zukunft“ finden",
      "url": "https://www.faz.net/aktuell/wirtschaft/tsmc-investiert-in-openai-und-anthropic-auf-der-suche-nach-dem-naechsten-nvidia-201680330.html",
      "date": "2026-11-13T13:43:04.000Z",
@@ -262,7 +268,7 @@
      "title": "Chefwechsel: „Hugo Boss ist nicht mehr erkennbar“",
      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/daniel-grieder-geht-wie-geht-es-nun-mit-hugo-boss-weiter-201679894.html",
      "date": "2026-11-13T13:34:53.000Z",
-     "text": "Hugo Boss bekommt einen neuen Boss. Daniel Grieder macht Platz für David Epstein. Die Machtübernahme von Mehrheitseigner Frasers Group ist nun vollendet. Wie kommt der Anzughersteller nun aus seiner Krise heraus?"
+     "text": "Hugo Boss bekommt einen neuen Boss. Daniel Grieder macht Platz für David Epstein. Die Machtübernahme von Mehrheitseigner Frasers Group ist nun vollendet. Wie kommt der Anzughersteller aus seiner Krise heraus?"
     },
     {
      "title": "Automarke in der Krise: Das Ende der Bequemlichkeit bei Mercedes",
@@ -401,12 +407,6 @@
      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/vollkasko-versicherung-fuer-chinesische-e-autos-fast-doppelt-so-teuer-accg-201679370.html",
      "date": "2026-11-13T05:44:58.000Z",
      "text": "Chinesische Elektroautohersteller unterbieten die heimische Industrie mit günstigen Verkaufspreisen. Für die Autofahrer kann es aber nach dem Kauf teuer werden."
-    },
-    {
-     "title": "Gaskraftwerke: Netzagentur begrenzt Umrüstung von Kohlemeilern",
-     "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/netzagentur-begrenzt-umruestung-von-kohlemeilern-201670091.html",
-     "date": "2026-11-11T17:03:12.000Z",
-     "text": "Nach dem Coup der LEAG eröffnet die Behörde die zweite Ausschreibungsrunde für Gaskraftwerke. Bei den Förderbedingungen bessert sie nach – stößt damit aber weiter auf Kritik."
     }
    ]
   },
@@ -414,6 +414,48 @@
    "name": "Handelsblatt",
    "ok": true,
    "items": [
+    {
+     "title": "Sicherheit: Bundestag beschließt Geheimdienstreform",
+     "url": "https://www.handelsblatt.com/video/politik/sicherheit-bundestag-beschliesst-geheimdienstreform/100269768.html",
+     "date": "2026-11-13T14:07:44.000Z",
+     "text": "Der Bundestag hat am Freitag eine weitreichende Reform deutscher Geheimdienste beschlossen. Das Bundesamt für Verfassungsschutz und der Bundesnachrichtendienst dürfen nun bei besonderen Gefahren aktiv und verdeckt gegen Angreifer vorgehen."
+    },
+    {
+     "title": "Ukraine-Krieg: Merz: Deutschland ist bei Verhandlungen mit Russland gesetzt",
+     "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-merz-deutschland-ist-bei-verhandlungen-mit-russland-gesetzt/100269283.html",
+     "date": "2026-11-13T14:04:14.000Z",
+     "text": "Nach Gesprächen in Abu Dhabi könnten die Europäer erstmals direkt an Friedensverhandlungen mit Russland teilnehmen. Merz sieht Deutschland dabei sicher vertreten - doch kann er für Europa sprechen?"
+    },
+    {
+     "title": "Nvidia: Was wusste Trump über die Affären des Nvidia-Chefs?",
+     "url": "https://www.handelsblatt.com/politik/international/nvidia-was-wusste-trump-ueber-die-affaeren-des-nvidia-chefs/100269725.html",
+     "date": "2026-11-13T14:03:26.000Z",
+     "text": "Der Fall des Nvidia-CEOs wirft ein Schlaglicht auf die Nähe des Tech-Bosses zum US‑Präsidenten. Trump soll von Huangs Liebschaften gewusst haben."
+    },
+    {
+     "title": "Bundespräsidenten-Wahl: Ex-Weltmeister Berthold als AfD-Bundespräsidentenkandidat?",
+     "url": "https://www.handelsblatt.com/politik/deutschland/bundespraesidenten-wahl-ex-weltmeister-berthold-als-afd-bundespraesidentenkandidat/100269769.html",
+     "date": "2026-11-13T14:01:03.000Z",
+     "text": "Die AfD schickt einen eigenen Kandidaten ins Rennen um das Amt des Bundespräsidenten. Es sieht nach einem prominenten deutschen Ex-Fußballer aus."
+    },
+    {
+     "title": "+++ Bundespolitik +++: Merz hält an Stromsteuersenkung ab nächstem Jahr fest",
+     "url": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-merz-haelt-an-stromsteuersenkung-ab-naechstem-jahr-fest/100137034.html",
+     "date": "2026-11-13T13:58:00.000Z",
+     "text": "Senkung der Stromsteuer nur mit seriöser Gegenfinanzierung +++ Union und SPD loben Haushalt trotz ungelöster Stromsteuer +++ SPD schickt Petra Köpping in den Koalitionsausschuss +++ Der Newsblog."
+    },
+    {
+     "title": "Bundestag: Rekordetat steht - doch Merz kämpft weiter um Stromsteuer",
+     "url": "https://www.handelsblatt.com/politik/deutschland/bundestag-rekordetat-steht-doch-merz-kaempft-weiter-um-stromsteuer/100269597.html",
+     "date": "2026-11-13T13:54:51.000Z",
+     "text": "16 Stunden dauert es, bis der Bundeshaushalt 2027 steht. Zumindest fast. Von der Opposition hagelt es Kritik. Und eine noch offene Frage verfolgt den Kanzler sogar bis ins ferne Dublin."
+    },
+    {
+     "title": "Gleichgeschlechtliche Paare: Merkel zur Ehe für alle: „Ich würde heute dafür stimmen“",
+     "url": "https://www.handelsblatt.com/politik/deutschland/gleichgeschlechtliche-paare-merkel-zur-ehe-fuer-alle-ich-wuerde-heute-dafuer-stimmen/100269765.html",
+     "date": "2026-11-13T13:52:23.000Z",
+     "text": "Sie machte den Weg für die Abstimmung frei und votierte selbst mit Nein. Jetzt spricht Angela Merkel darüber, was sie damals umtrieb und warum ihre Stimme heute anders ausfiele."
+    },
     {
      "title": "US-Fintech: Robinhood will die nächste Revolution: Der Neobroker fordert die Wall-Street-Größen heraus",
      "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-robinhood-will-finanzwerte-ueber-eigene-blockchain-verkaufen/100267306.html",
@@ -505,12 +547,6 @@
      "text": "Die gescheiterte Pkw-Maut war noch teurer als bisher bekannt. Das Bundesverkehrsministerium gibt jetzt preis, wie hoch der Auftragswert für externe Rechtsberatung lag."
     },
     {
-     "title": "+++ Bundespolitik +++: SPD schickt nach Bas-Rücktritt offenbar Petra Köpping in den Koalitionsausschuss",
-     "url": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-spd-schickt-offenbar-koepping-fuer-bas-in-den-koalitionsausschuss/100137034.html",
-     "date": "2026-11-13T12:52:26.000Z",
-     "text": "Koalition verschiebt Einführung von Zuckersteuer auf 2028 +++ Plastiksteuer laut Unions- und SPD-Fraktion vorerst vom Tisch +++ Der Newsblog."
-    },
-    {
      "title": "Ukraine-Krieg: Kiew und Moskau setzen gegenseitige Angriffe fort",
      "url": "https://www.handelsblatt.com/video/politik/ukraine-krieg-kiew-und-moskau-setzen-gegenseitige-angriffe-fort/100269737.html",
      "date": "2026-11-13T12:49:03.000Z",
@@ -557,42 +593,6 @@
      "url": "https://www.handelsblatt.com/politik/deutschland/autobauer-warum-bei-mercedes-benz-werke-auf-dem-spiel-stehen/100269717.html",
      "date": "2026-11-13T11:49:40.000Z",
      "text": "Schwäche in China, hohe Kosten und ein Sparprogramm: Bei Mercedes wächst der Druck auf die deutschen Standorte. Nun legt der Vorstand nach – und stößt auf entschiedenen Widerstand."
-    },
-    {
-     "title": "Steffen Krach: Staatsanwaltschaft will Immunität des Berliner SPD-Chefs aufheben",
-     "url": "https://www.handelsblatt.com/politik/deutschland/berliner-spd-chef-staatsanwaltschaft-hannover-will-krachs-immunitaet-aufheben/100269712.html",
-     "date": "2026-11-13T11:40:15.000Z",
-     "text": "Seit Krachs Einzug ins Abgeordnetenhaus ruhen die Ermittlungen zum Verkauf eines Klinikgeländes in Lehrte. Ob das Parlament zustimmt, ist offen."
-    },
-    {
-     "title": "Lappen weg?: Ein Monat ohne Führerschein: So läuft das Fahrverbot ab",
-     "url": "https://www.handelsblatt.com/mobilitaet/motor/lappen-weg-ein-monat-ohne-fuehrerschein-so-laeuft-das-fahrverbot-ab/100269714.html",
-     "date": "2026-11-13T11:38:12.000Z",
-     "text": "TV-Moderatorin Barbara Schöneberger muss nach Medienberichten ihren Führerschein für einen Monat abgeben. Wichtige Fristen oder der beste Zeitpunkt: Was ein Monat Fahrverbot genau bedeutet."
-    },
-    {
-     "title": "+++ Geschäftszahlen +++: Tata Motors rutscht überraschend in die Verlustzone",
-     "url": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-tata-motors-rutscht-ueberraschend-in-die-verlustzone/24098412.html",
-     "date": "2026-11-13T11:31:08.000Z",
-     "text": "Cisco hebt Umsatzprognose an +++ Cartier-Mutter Richemont verdient im Halbjahr deutlich mehr +++ CTS Eventim bleibt bei vorsichtigem Ausblick +++ Der Newsblog."
-    },
-    {
-     "title": "Cloud-Probleme: Microsoft-Ausfall zeigt Risiken digitaler Abhängigkeit",
-     "url": "https://www.handelsblatt.com/technik/it-internet/cloud-probleme-microsoft-ausfall-zeigt-risiken-digitaler-abhaengigkeit/100269709.html",
-     "date": "2026-11-13T11:27:18.000Z",
-     "text": "Eine Großstörung bei Microsoft 365 hat weltweit Unternehmen und Behörden ausgebremst. Ein Blick auf Ursachen, Risiken sowie Alternativen und Ausweichmöglichkeiten."
-    },
-    {
-     "title": "Bundestag: Union und SPD loben Haushalt trotz ungelöster Stromsteuer",
-     "url": "https://www.handelsblatt.com/politik/deutschland/bundestag-union-und-spd-loben-haushalt-trotz-ungeloester-stromsteuer/100269708.html",
-     "date": "2026-11-13T11:26:28.000Z",
-     "text": "Der Bundeshaushalt 2027 steht - auch wenn eine Frage offen bleibt. SPD und Union sehen das Zahlenwerk trotz aller Kritik positiv und verweisen auf ihre eigenen Handlungszwänge."
-    },
-    {
-     "title": "USA: Trumps Zolldrohung: Mexiko soll Gruppe von Geflüchteten stoppen",
-     "url": "https://www.handelsblatt.com/video/politik/usa-trumps-zolldrohung-mexiko-soll-gruppe-von-gefluechteten-stoppen/100269694.html",
-     "date": "2026-11-13T11:25:00.000Z",
-     "text": "Hunderte Menschen sind am Dienstag im Süden Mexikos aufgebrochen, um in die USA zu migrieren. Der US-Präsident drohte dem Nachbarland mit einer Verdoppelung der Zölle, sollte es die Gruppe nicht stoppen."
     }
    ]
   },
@@ -636,6 +636,12 @@
      "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/die-deutsche-zahlungsbilanz-im-september-2026-1015818",
      "date": "2026-11-12T13:30:00.000Z",
      "text": "Die deutsche Leistungsbilanz verzeichnete im September 2026 einen Überschuss von 18,7 Mrd €. Das Ergebnis lag um 7,6 Mrd € über dem Niveau des Vormonats. Dahinter standen ein höherer Aktivsaldo im Warenhandel und insbesondere der Umschwung ins Plus im Bereich der „unsichtbaren“ Leistungstransaktionen, die neben Dienstleistungen auch Primär- und Sekundäreinkommen umfassen."
+    },
+    {
+     "title": "German balance of payments in September 2026",
+     "url": "https://www.bundesbank.de/en/press/press-releases/german-balance-of-payments-in-september-2026-1016044",
+     "date": "2026-11-12T13:30:00.000Z",
+     "text": "Germany’s current account recorded a surplus of €18.7 billion in September 2026, up €7.6 billion on the previous month’s level. This was caused by a larger surplus in the goods account and especially by the shift to a surplus in invisible current transactions, which comprise services as well as primary and secondary income."
     },
     {
      "title": "Bundesbank: Risks to financial stability remain elevated | The 2026 Financial Stability Review sees challenges from high market valuations, rising credit risk and sovereign debt, and artificial intelligence",
@@ -738,18 +744,25 @@
      "via": "SZ.de"
     },
     {
-     "title": "Merz sieht Wirtschaft in Deutschland langsam wieder auf Erholungskurs - EU-Schwerbehinderung",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3lKN0VPb1h4ODBWM3BTR1NlRk4wYVdEVHlIRmhKT3JwUDlJVk1xLXNIdTBmdjdWcmFOXzFQdlNIX2h0OXBCRmxZU25TQ0QxeDJEcndGZHpPTThfQ2RPNkFOREt5aTE1dHdjbkFpZFcyTjIzMEs3R2lPYnBpRXpVcXplb21zdkNOV1pLN2Q5dG5oVGR5LXlPdGg2NXZSYThkRHJ2NmpacWl2MkVRd1BHVHpvR0ltZnp5c096M1AyQWpzVElsWHJvalJ1d0w3T2M?oc=5",
-     "date": "2026-11-11T18:23:41.000Z",
-     "text": "Merz sieht Wirtschaft in Deutschland langsam wieder auf Erholungskurs EU-Schwerbehinderung",
-     "via": "EU-Schwerbehinderung"
-    },
-    {
      "title": "ZDF-Experte: Deutsche Wirtschaft erstaunlich widerstandsfähig - ZDFheute",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmxvNlJEVkxMcTIwY2gwaEtYVVJ3Yy1fNktWNFBBVktZcUx3NTJCV1Z3MUtsckNfY08zeWZqWW90YjlwVElVeFB6X0VrbkZPdGI2NzBkWE04V25sbkRqV2drSElXNHdWdzJzSGtPT0k0c2lXWVpnRTRTQThwQjAwaWJUX1RTQ2ItVUFfVG9MQzZiei1JZWpqU1dLenIwbHNTQ3c?oc=5",
      "date": "2026-11-12T03:33:00.000Z",
      "text": "ZDF-Experte: Deutsche Wirtschaft erstaunlich widerstandsfähig ZDFheute",
      "via": "ZDFheute"
+    },
+    {
+     "title": "News, Wirtschaft: Schwarz-Gruppe baut Rechenzentren in Deutschland aus - tixio - Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeURUaG5PVTAxbkRJd2xFZkZiMEdub3FqMm83VEVGZjVQcnNvVHlBU1hKcE1GS3ltZkRjX0FpUUxJVVZNYmZUUnJYT2ZTSjBGLXl6Z2k2WTEzZWtJVFpWa2FxS0JmM1FORzlBVHVWa0tGMWNabnlBZzlHcGhINklWQ1NNZUpTU29JSmN3dlZyVQ?oc=5",
+     "date": "2026-11-13T14:04:27.000Z",
+     "text": "News, Wirtschaft: Schwarz-Gruppe baut Rechenzentren in Deutschland aus tixio - Nachrichten",
+     "via": "tixio - Nachrichten"
+    },
+    {
+     "title": "Merz sieht Wirtschaft in Deutschland langsam wieder auf Erholungskurs - EU-Schwerbehinderung",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3lKN0VPb1h4ODBWM3BTR1NlRk4wYVdEVHlIRmhKT3JwUDlJVk1xLXNIdTBmdjdWcmFOXzFQdlNIX2h0OXBCRmxZU25TQ0QxeDJEcndGZHpPTThfQ2RPNkFOREt5aTE1dHdjbkFpZFcyTjIzMEs3R2lPYnBpRXpVcXplb21zdkNOV1pLN2Q5dG5oVGR5LXlPdGg2NXZSYThkRHJ2NmpacWl2MkVRd1BHVHpvR0ltZnp5c096M1AyQWpzVElsWHJvalJ1d0w3T2M?oc=5",
+     "date": "2026-11-11T18:23:41.000Z",
+     "text": "Merz sieht Wirtschaft in Deutschland langsam wieder auf Erholungskurs EU-Schwerbehinderung",
+     "via": "EU-Schwerbehinderung"
     },
     {
      "title": "Optimismus an der Börse - Dax erstmals über 27.000 Punkten - Allgemeine Zeitung",
@@ -835,6 +848,12 @@
    "focus": "Nur Wirtschaft, Arbeitsmarkt, Energie- und Strompreise, Haushalt. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
    "ok": true,
    "items": [
+    {
+     "title": "Elif Eralp fürchtet Islamisten – und will Berlin regieren",
+     "url": "https://nius.de/politik/der-eralp-komplex",
+     "date": "2026-11-13T14:03:22.000Z",
+     "text": "Spiegel-Panne: Eralp fürchtet Islamisten in der Linken. Was das für Berlins Rot-Grün-Rot bedeutet."
+    },
     {
      "title": "Gerstungen: Zulieferer-Pleite wird Abwasser 30 Prozent verteuern",
      "url": "https://nius.de/nius-live/gerstungen-abwasser-zulieferer-pleite",
@@ -1008,12 +1027,6 @@
      "url": "https://nius.de/nachrichten/dresdner-gericht-erklaert-grenzkontrollen-zu-polen-und-tschechien-in-zwei-faellen-fuer-rechtswidrig",
      "date": "2026-11-12T17:03:41.000Z",
      "text": "Zwei Männer haben sich vor dem Verwaltungsgericht Dresden erfolgreich gegen Kontrollen bei der Einreise nach Deutschland gewehrt. Das Gericht entschied, dass die vom Bundesinnenministerium angeordneten Kontrollen an den Grenzen zu Polen und Tschechien zu den jeweils maßgeblichen Zeitpunkten rechtswidrig waren."
-    },
-    {
-     "title": "Mercedes stoppt Investitionen in Deutschland und prüft Werksschließungen",
-     "url": "https://nius.de/wirtschaft/mercedes-stoppt-investitionen-in-deutschland-und-prueft-werksschliessungen",
-     "date": "2026-11-12T16:15:21.000Z",
-     "text": "Mercedes-Benz legt weitere Investitionen an seinen deutschen Standorten vorerst auf Eis."
     }
    ]
   }

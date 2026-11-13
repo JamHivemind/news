@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-13T13:56:58.285Z",
+ "fetched": "2026-11-13T14:17:56.257Z",
  "hours": 48,
  "sources": [
   {
@@ -59,33 +59,9 @@
   },
   {
    "name": "Gründerszene",
-   "ok": true,
-   "items": [
-    {
-     "title": "„Ein großer Fehler“: Bundesregierung will Millionen bei der Startup-Förderung streichen",
-     "url": "https://www.businessinsider.de/gruenderszene/grosser-fehler-bundesregierung-streicht-millionen-bei-startup-foerderung/",
-     "date": "2026-11-13T13:40:35.000Z",
-     "text": "Die Bundesregierung will die Förderung von Startup-Investitionen kürzen – die Grünen sprechen von einem Fehler."
-    },
-    {
-     "title": "Er heißt wie der Nvidia-Chef – und macht daraus einen Marketing-Coup",
-     "url": "https://www.businessinsider.de/gruenderszene/er-heisst-wie-der-nvidia-chef-und-macht-daraus-einen-marketing-coup/",
-     "date": "2026-11-13T11:21:13.000Z",
-     "text": "Er bekommt Anfragen zu Nvidia-Aktien und wird auf Affären angesprochen. Für einen jungen Gründer hat die Namensgleichheit mit Jensen Huang zwei Seiten."
-    },
-    {
-     "title": "Berliner KI-Startup Parloa baut OpenAI-Partnerschaft aus – und sichert sich besonderen Vorteil",
-     "url": "https://www.businessinsider.de/gruenderszene/ki-startup-parloa-baut-openai-partnerschaft-aus/",
-     "date": "2026-11-13T10:08:27.000Z",
-     "text": "Früher Zugang zu neuen KI-Modellen, gemeinsame Großkunden und ein neuer Vertriebskanal: Parloa vertieft seine Partnerschaft mit OpenAI."
-    },
-    {
-     "title": "Tiktok als Umsatztreiber – geht die Rechnung für Startups auf?",
-     "url": "https://www.businessinsider.de/gruenderszene/tiktok-als-umsatztreiber-geht-die-rechnung-fuer-startups-auf/",
-     "date": "2026-11-11T15:27:58.000Z",
-     "text": "Tiktok wird für Startups zum Vertriebskanal – doch wie profitabel sind Creator-Provisionen, virale Videos und Tiktok Shop wirklich?"
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 403",
+   "items": []
   },
   {
    "name": "EU-Startups",

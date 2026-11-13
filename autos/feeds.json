@@ -1,11 +1,23 @@
 {
- "fetched": "2026-11-13T13:56:20.631Z",
+ "fetched": "2026-11-13T14:17:20.915Z",
  "hours": 48,
  "sources": [
   {
    "name": "Auto Bild",
    "ok": true,
    "items": [
+    {
+     "title": "68 Euro pro Monat! Leapmotor T03 als Leasing-Schnapper",
+     "url": "https://www.autobild.de/artikel/leapmotor-t03-im-black-friday-leasing-b39e323-28896031.html",
+     "date": "2026-11-13T13:58:00.000Z",
+     "text": "Carwow bietet den Leapmotor T03 zum Black Friday für 68,48 Euro im Monat an. Beim Leasing sind jedoch 4000 Euro Sonderzahlung angesetzt."
+    },
+    {
+     "title": "Warum Miniatur-Wunderland-Gründer Braun auf den AUDI E5 schwört",
+     "url": "https://www.autobild.de/artikel/audi-e5-sportback-streit-um-import-des-china-audi-b39e323-28863871.html",
+     "date": "2026-11-13T13:58:00.000Z",
+     "text": "Er fährt ein Auto, das es in Deutschland nicht geben dürfte: Miniatur-Wunderland-Mitgründer Gerrit Braun. Wie zufrieden ist er mit seinem China-AUDI?"
+    },
     {
      "title": "Kaum gefahrener Toyota Aygo X jetzt deutlich unter Neupreis",
      "url": "https://www.autobild.de/artikel/gebrauchtwagen-angebot-toyota-aygo-x-jbl-9285760-28895991.html",
@@ -139,12 +151,6 @@
      "text": "Die Elektroauto-Förderung ist so nachgefragt, dass der Bund fast eine Milliarde Euro vorziehen will in 2027. Wer bekommt welchen Zuschuss? Ermitteln Sie Ihre E-Kaufprämie im Prämienrechner!"
     },
     {
-     "title": "Warum Miniatur-Wunderland-Gründer Braun auf den AUDI E5 schwört",
-     "url": "https://www.autobild.de/artikel/audi-e5-sportback-streit-um-import-des-china-audi-7bf70f0-28863871.html",
-     "date": "2026-11-12T13:44:00.000Z",
-     "text": "Er fährt ein Auto, das es in Deutschland nicht geben dürfte: Miniatur-Wunderland-Mitgründer Gerrit Braun. Wie zufrieden ist er mit seinem China-AUDI?"
-    },
-    {
      "title": "Erste Fahrt mit den Van-Vierlingen von Stellantis",
      "url": "https://www.autobild.de/artikel/kastenwagen-im-test-citroen-berlingo-fiat-dobl--opel-combo-peugeot-partner-94301b1-28894055.html",
      "date": "2026-11-12T13:37:00.000Z",
@@ -179,12 +185,6 @@
      "url": "https://www.autobild.de/artikel/gebrauchtwagen-angebot-mercedes-gla-250-4matic-amg-line-cf9b55a-28893799.html",
      "date": "2026-11-12T10:55:00.000Z",
      "text": "Für 29.490 Euro ist dieser Mercedes GLA 250 im AUTO BILD-Gebrauchtwagenmarkt gelistet. Alle Details zum Angebot."
-    },
-    {
-     "title": "Aktuell zehn Prozent \"Black Deals\"-Rabatt",
-     "url": "https://www.autobild.de/artikel/jeep-compass-e-hybrid-ab-380-euro-im-auto-abo-bei-faaren-7331d4c-28893591.html",
-     "date": "2026-11-12T10:47:00.000Z",
-     "text": "145 PS und knapp zehn Prozent Rabatt: Das SUV Jeep Compass startet im \"Black Deal\" ab 380 Euro im Auto-Abo. Alle Fakten und Kosten im Check."
     }
    ]
   },
@@ -193,13 +193,6 @@
    "focus": "Nur Klassiker, Youngtimer, Preise und Wertentwicklung. Doppelte mit dem Auto-Bild-Feed nur einmal.",
    "ok": true,
    "items": [
-    {
-     "title": "Opel Kadett GSi Superboss: Homologationsmodell für Südafrika - Auto Bild",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmNoc2pETC1oTlBLZ2ZLZ01neU9fR3pWd09XbnRvZEdzbGpYUnJrNUpuZEtZOXhTWW5hQkx0ZjRsRlZzN2VkVkFwbFBZZTV5WmE5TlZOZDIwenlIZlM1MkVpM3JYaXhMTkE0QjR3amIwN3lJWWZRY2J3Z3VlbVJYWlA3MVBmcHNXamdnQ1hLTGlDSjBVZnVQVkx3SEJJaXZ6eXQ5V1RTZHg?oc=5",
-     "date": "2026-11-13T09:54:00.000Z",
-     "text": "Opel Kadett GSi Superboss: Homologationsmodell für Südafrika Auto Bild",
-     "via": "Auto Bild"
-    },
     {
      "title": "Hasselhoffs K.I.T.T.-Pontiac: Warum die Auktion in Zürich scheiterte - Auto Bild",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkdLaFNsa1Q5VFNCd1lMQ2YzSHc2QkJwTzJWczJuY0tJM0NoRVFCeTlDUFNMVGVrdEwyX3JxdTN4SnkwTGlaNENTSTQ2aGZXZjNvcEN5eGJkQkpIMDVlVXZzTjhjY05nM1pBd3Q5aUQ0cnNGbi1NY1BSRk9GdTVJTw?oc=5",
@@ -254,6 +247,13 @@
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUNrR2pDYTVuN0E1TXR5dkI4TXIzWDVENGNDaXM2S1FYTF91RkhHbGlqVUdoVUM1Q3diV0RsVmdCWkVCVFZUUm9uakZvVjhxenRWRS1XX2ZJb0pwblBkUHJOd0doQmtUb19EOTBrMWdmOGlIS0RIT00yS2NCRXAxZWRIcXFCODRPdzNrU1dTZEh0NEFwNm96ZmNRRWdCREhQMzdFaEFQZl9HZkNlLVpjTTNUamhWeWFvaXhfSkEyYzA?oc=5",
      "date": "2026-11-12T18:20:00.000Z",
      "text": "Formel 1: Hülkenberg sorgt für Audi-Sensation im Regen von Brasilien Auto Bild",
+     "via": "Auto Bild"
+    },
+    {
+     "title": "68 Euro pro Monat! Leapmotor T03 als Leasing-Schnapper - Auto Bild",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOTJVd1RvbE5ZV01pRE9QS1pGQUFyX3dYa19SUmhCcmg2RjdqZzJVbm9yd0s0cnlNd2oyR3BSZXRraTQyelg0dDlKeFJaMEllU0dSQ1FDYU9KZXpieThJaXpzaWtyNjdDejBUN0JkbzZMQlltclNRVGY5dGVObGV2MjJfaDQ4dGdQWDdHb3NQZzBkUl9XSEE?oc=5",
+     "date": "2026-11-13T13:58:00.000Z",
+     "text": "68 Euro pro Monat! Leapmotor T03 als Leasing-Schnapper Auto Bild",
      "via": "Auto Bild"
     },
     {
@@ -317,13 +317,6 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ0xnSXlvcHRQdWtweDBBZkdjYVN6akV2RWpTWjhCekZpdEpsQWFQNjJXMm5lYVJFOVU4Q1lURVFiLVVmUWRuZkxuMUlVaVgxWmFpYlk3QlF0R09LN0lBQmxXbzVwYWJKaGpPeTlPUXNfYkd0QzRmd0JTZVlJTUVWNkFBQ3ZhUkZUQThwMTBrUGRRMXNDdmc?oc=5",
      "date": "2026-11-12T11:11:00.000Z",
      "text": "Gebrauchtwagen-Angebot: BMW M5 Touring Auto Bild",
-     "via": "Auto Bild"
-    },
-    {
-     "title": "Leasing-Schnapper? Nissan Pixo schon ab 69 Euro pro Monat - Auto Bild",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXzdhNzV1LVBfdEhiaTFlYWNaSS00d19OclAzVm5LalI4X1EtVG9fSURPSkptbUNEb1RfLXlhNUc1c1lJZ3VUUkpzREpPUzVEbTMyZWNDV1ZuNG5CZkFwYV9sTDRfTEpHSmFHU0FNRjlJLXNxZmFWazBLcW5lYUtYR3ZJRjJReldpMkNOcjZrMEE4TzFqZmwtS2J3?oc=5",
-     "date": "2026-11-11T14:00:00.000Z",
-     "text": "Leasing-Schnapper? Nissan Pixo schon ab 69 Euro pro Monat Auto Bild",
      "via": "Auto Bild"
     },
     {
@@ -402,6 +395,13 @@
      "date": "2026-11-13T05:00:00.000Z",
      "text": "Wird aus dem Renault Bridger ein Dacia für Europa? Auto Bild",
      "via": "Auto Bild"
+    },
+    {
+     "title": "Gebrauchter VW Caddy mit sieben Sitzen und Automatik zum Top-Preis - Auto Bild",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd056WVN6ZS1zV054Sk9PVEFLM1NqTzBlSG5XRy1aNnNCVWFla25nSDR3dVRVV2l5czlpeW1tQWp3VU0yLW5BeVllR19meTVYOWFZZXVQemE0bGVpSXRTRnM3VzJQTHB1RVdNM3FGYUg2VDhRdVYtdFdTNFQ5UDVjd3Y3UlVOeHdWQ2g2NmF6ZjM2emhM?oc=5",
+     "date": "2026-11-12T11:43:00.000Z",
+     "text": "Gebrauchter VW Caddy mit sieben Sitzen und Automatik zum Top-Preis Auto Bild",
+     "via": "Auto Bild"
     }
    ]
   },
@@ -417,17 +417,17 @@
      "via": "Auto Motor und Sport"
     },
     {
-     "title": "Mazda 2 vor dem Aus? CX-3 als möglicher Nachfolger ab 2027 - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEE1VFFJZ2dZZWQ5WDZEWWZSOHdLZGtuSzhpWDk2dzAxRVVZcVRJUmpmaFBJejFSQmhleGhrQjhkQUFKY05oYXZSS2cxN1d6SE1lT211ZUdxYlI5SkU3V25PSTI3TkVqczVJTU9wWG5XQUVFekxwa1dMV1F5Nld1Nk05OHA1eV9CdU1WMC1ZSmMxTTdWczgydDhpaUdVak8yTDRlandB?oc=5",
-     "date": "2026-11-12T14:05:02.000Z",
-     "text": "Mazda 2 vor dem Aus? CX-3 als möglicher Nachfolger ab 2027 Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
      "title": "Formel 1: Kleine gegen große Teams: Wer stimmt für neue Budget-Regeln? - Auto Motor und Sport",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3daN2Z2YXExMUl2UkRMSXc1Y3d0ZnpiYl9DM2wyWmlka1l1a3o0X19aSjE2M0JuWF9IZkZwUktvWEN3SzFPSXNydmphOC1pbGJkR28ycHhWdkd1a0k2bmJqSEdKX1Y3Q1VhYjR3VjBtQUNSRHhXSTY3RnVxQ3BMeGlTYVdqZ3ZpSlJRSXhPaU1zSVd1c05XVg?oc=5",
      "date": "2026-11-12T10:49:39.000Z",
      "text": "Formel 1: Kleine gegen große Teams: Wer stimmt für neue Budget-Regeln? Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Mazda 2 vor dem Aus? CX-3 als möglicher Nachfolger ab 2027 - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEE1VFFJZ2dZZWQ5WDZEWWZSOHdLZGtuSzhpWDk2dzAxRVVZcVRJUmpmaFBJejFSQmhleGhrQjhkQUFKY05oYXZSS2cxN1d6SE1lT211ZUdxYlI5SkU3V25PSTI3TkVqczVJTU9wWG5XQUVFekxwa1dMV1F5Nld1Nk05OHA1eV9CdU1WMC1ZSmMxTTdWczgydDhpaUdVak8yTDRlandB?oc=5",
+     "date": "2026-11-12T14:05:02.000Z",
+     "text": "Mazda 2 vor dem Aus? CX-3 als möglicher Nachfolger ab 2027 Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
@@ -452,9 +452,16 @@
      "via": "Auto Motor und Sport"
     },
     {
+     "title": "115 Elektromotoren im Vergleich: Sind chinesische Motoren besser als europäische? - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbGl4QWw3OHU2LW5MM1VoREhMUkE3Y1lyclVMV19kY1owcnFwdVhLQ081VnRLR0d3ZkVxRW1KWVd3LVZvbEMyVWg0SGdQNFAxOWh2MmJoU3hxcW1FTzJpenljSzJrbjZiTFljeWhFenlJZU1zMFVQZENiWVhfQWx0T1VVVV9YQlpIQmdDLWRrOGpEQnZDMjZyZEJrdWlaY1FVMG4zVmdROUlEeXJLMmhYdDY4b05mQlktcXdSWHZtbzRJR3AzRUktclNwQ2VrR3N0eFR5a1ZhbzJTR2ZpYVRCbHhHWjZvQQ?oc=5",
+     "date": "2026-11-12T07:06:26.000Z",
+     "text": "115 Elektromotoren im Vergleich: Sind chinesische Motoren besser als europäische? Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
      "title": "Scania-Diesel und Rolls-Royce-Antrieb: 1.800 PS für die schnelle Truppe - Auto Motor und Sport",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZy1JVmZvUjlQSWdVemRjMUxjbTJaWkl5dTlJaV9GbW11NHZYSVlFcnNQWjhyNTNpNnhyYzRRYUwwMGV5QkNNZEpMVFJ5cVhqMHdrYnJuS3g1WldlbndyUEQ1VEZXTjNfQjRpRVdNN3lJXzVSVW9wYWY3bnlKRDVyR3hXUV9lS3ZnMUQ3VERDanF4ZHVoblNVZ2hrVjVUS291UW1rRzJfWTVkcXdQalUzU3JwMmI2VzBRclRDNTRmVQ?oc=5",
-     "date": "2026-11-13T04:25:29.000Z",
+     "date": "2026-11-13T08:08:39.000Z",
      "text": "Scania-Diesel und Rolls-Royce-Antrieb: 1.800 PS für die schnelle Truppe Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
@@ -484,13 +491,6 @@
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWHgxR2RDU05lc2RNalNoSV8wUGRyS0hsVXdSOUlPZHZCdXhGOGVLTGdOTGh6a1pOQmpwRmdmSTJiby1lbGE2aW1CZ2lZcXpiMnVSZ193cksxZ1VYNVFZajEtU1FrYXplcGlCZmt3YTVJdHFYNlloekN5NWZla2h2TTlHalM2cWFJU0FCejlxbktjSTJfVE5PblZsWUlHczZYYjZTVHJ4bUJ2RXpnWndsVVdudExQMGJ0d0ZwdExiMA?oc=5",
      "date": "2026-11-13T12:06:54.000Z",
      "text": "E-Auto-Förderung einfach: Schau mal Deutschland, so macht man das in Luxemburg Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "115 Elektromotoren im Vergleich: Sind chinesische Motoren besser als europäische? - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbGl4QWw3OHU2LW5MM1VoREhMUkE3Y1lyclVMV19kY1owcnFwdVhLQ081VnRLR0d3ZkVxRW1KWVd3LVZvbEMyVWg0SGdQNFAxOWh2MmJoU3hxcW1FTzJpenljSzJrbjZiTFljeWhFenlJZU1zMFVQZENiWVhfQWx0T1VVVV9YQlpIQmdDLWRrOGpEQnZDMjZyZEJrdWlaY1FVMG4zVmdROUlEeXJLMmhYdDY4b05mQlktcXdSWHZtbzRJR3AzRUktclNwQ2VrR3N0eFR5a1ZhbzJTR2ZpYVRCbHhHWjZvQQ?oc=5",
-     "date": "2026-11-12T07:06:26.000Z",
-     "text": "115 Elektromotoren im Vergleich: Sind chinesische Motoren besser als europäische? Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
@@ -545,7 +545,7 @@
     {
      "title": "Schmerzgrenze gesucht: Innenraum-Check im neuen Dacia Spring - Auto Motor und Sport",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc2RBRl9CaFdiMmZWMUtqcVgyZDhLVW5BR3ktS1FhRE1oR2RLUWMtNklXTlFGMFQ4VUdrZFI3Q0FvTHJYNlI1SmNEWE5tWGhFUlVMZWwtd0hJQXo5TjVMc0RFeEgzWEpDcTVjTzktTFlNaFMwWFMtXy1VRFgyQ2NoS0NnZmV3Nk9WQmFlMnpZak8xZnJ5SXZRcVBuWGF0bS1YYkR4aXV5M0F1TUQ1?oc=5",
-     "date": "2026-11-13T06:17:12.000Z",
+     "date": "2026-11-13T05:26:25.000Z",
      "text": "Schmerzgrenze gesucht: Innenraum-Check im neuen Dacia Spring Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
@@ -759,6 +759,12 @@
    "ok": true,
    "items": [
     {
+     "title": "Fahrt im Fiat Tris: Ich bin so drei",
+     "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/fiat-tris-die-legendaere-ape-feiert-elektrische-auferstehung-201633295.html",
+     "date": "2026-11-13T14:06:08.000Z",
+     "text": "Das gefühlsechte Knattern fehlt, aber das Grinsen ist sofort wieder da. Als Fiat Tris feiert die legendäre Ape elektrische Auferstehung."
+    },
+    {
      "title": "Fünf am Freitag: Fahren, sitzen, schlafen",
      "url": "https://www.faz.net/aktuell/technik-motor/unsere-fuenf-fundstuecke-am-freitag-accg-201202878.html",
      "date": "2026-11-13T09:12:10.000Z",
@@ -775,12 +781,6 @@
      "url": "https://www.faz.net/aktuell/technik-motor/motor/mercedes-gle-und-gls-die-bisons-aus-stuttgart-im-grossen-update-accg-201623561.html",
      "date": "2026-11-12T08:12:07.000Z",
      "text": "Auch in der neuesten Auflage sind GLE und GLS von Mercedes-Benz zwei wunderbar altmodische SUV, die nicht nur den Amerikanern gefallen."
-    },
-    {
-     "title": "erscheint bald: „GTA 6“: Grippenspiel",
-     "url": "https://www.faz.net/aktuell/technik-motor/grippenspiel-der-hype-um-gta-6-ist-hochansteckend-201647456.html",
-     "date": "2026-11-11T14:00:11.000Z",
-     "text": "Am 19. November erscheint „Grand Theft Auto 6“ für die heimische Konsole. Dann wird gedaddelt, bis der Arzt kommt. Wenn man ihn nicht vorher schon besucht hat, immerhin ist die GTA-Grippe hoch ansteckend."
     }
    ]
   },
@@ -811,12 +811,6 @@
      "url": "https://www.spiegel.de/mobilitaet/e-scooter-tiktok-videos-befeuern-trend-zu-frisierten-e-rollern-spiegel-tv-a-c70f3892-b590-4630-9d89-e4771c94dc44#ref=rss",
      "date": "2026-11-11T17:21:00.000Z",
      "text": "Frisierte E-Roller treiben die Unfallzahlen nach oben, sie erreichen enorme Geschwindigkeiten. Jugendliche feiern die Raserei in millionenfach geklickten TikTok-Videos."
-    },
-    {
-     "title": "Hamburg: Autobahn A26-Ost - Senat beschließt Hafenautobahn ein zweites Mal genauso",
-     "url": "https://www.spiegel.de/mobilitaet/auto/hamburg-autobahn-a26-ost-senat-beschliesst-hafenautobahn-ein-zweites-mal-genauso-a-c693abe7-d00f-4b91-a651-424d34b38ac3#ref=rss",
-     "date": "2026-11-11T14:09:00.000Z",
-     "text": "Eine neue Autobahn durchs Moor – eine Klage von Umweltverbänden gegen die Pläne für die A26-Ost hatte Erfolg vor dem Bundesverwaltungsgericht. Die rot-grün regierte Stadt treibt das Milliardenprojekt trotzdem voran."
     }
    ]
   },
@@ -1028,12 +1022,6 @@
      "url": "https://www.electrive.net/2026/11/11/robotaxi-dienst-verne-bereitet-start-in-berlin-vor/",
      "date": "2026-11-11T14:30:00.000Z",
      "text": "Der Robotaxi-Anbieter Verne bereitet seinen Start in Deutschland vor. Das kroatische Unternehmen bestätigt gegenüber electrive, dass es seine operative Präsenz hierzulande aufbaut. Zwei Stellenanzeigen für den Standort Berlin geben Hinweise darauf, welche Strukturen entstehen sollen. Einen konkreten Starttermin nennt Verne bislang nicht."
-    },
-    {
-     "title": "Die Ladeinfrastruktur wächst – aber die Kosten auch",
-     "url": "https://www.electrive.net/2026/11/11/die-ladeinfrastruktur-waechst-aber-die-kosten-auch/",
-     "date": "2026-11-11T14:00:00.000Z",
-     "text": "Der Ausbau der Ladeinfrastruktur in Deutschland schreitet rasant voran. Mit der steigenden Zahl an Ladepunkten wachsen auch die strukturellen Herausforderungen. Komplexe Systemlandschaften, unklare Verantwortlichkeiten im Störungsfall und fehlende Servicekonzepte führen häufig zu kostspieligen Ausfällen und Betriebsunterbrechungen."
     }
    ]
   },
@@ -1163,6 +1151,12 @@
    "focus": "Nur Autoindustrie, Verbrenner-Aus und Verkehrspolitik mit Bedeutung für Autofans. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
    "ok": true,
    "items": [
+    {
+     "title": "Elif Eralp fürchtet Islamisten – und will Berlin regieren",
+     "url": "https://nius.de/politik/der-eralp-komplex",
+     "date": "2026-11-13T14:03:22.000Z",
+     "text": "Spiegel-Panne: Eralp fürchtet Islamisten in der Linken. Was das für Berlins Rot-Grün-Rot bedeutet."
+    },
     {
      "title": "Gerstungen: Zulieferer-Pleite wird Abwasser 30 Prozent verteuern",
      "url": "https://nius.de/nius-live/gerstungen-abwasser-zulieferer-pleite",
@@ -1336,12 +1330,6 @@
      "url": "https://nius.de/nachrichten/dresdner-gericht-erklaert-grenzkontrollen-zu-polen-und-tschechien-in-zwei-faellen-fuer-rechtswidrig",
      "date": "2026-11-12T17:03:41.000Z",
      "text": "Zwei Männer haben sich vor dem Verwaltungsgericht Dresden erfolgreich gegen Kontrollen bei der Einreise nach Deutschland gewehrt. Das Gericht entschied, dass die vom Bundesinnenministerium angeordneten Kontrollen an den Grenzen zu Polen und Tschechien zu den jeweils maßgeblichen Zeitpunkten rechtswidrig waren."
-    },
-    {
-     "title": "Mercedes stoppt Investitionen in Deutschland und prüft Werksschließungen",
-     "url": "https://nius.de/wirtschaft/mercedes-stoppt-investitionen-in-deutschland-und-prueft-werksschliessungen",
-     "date": "2026-11-12T16:15:21.000Z",
-     "text": "Mercedes-Benz legt weitere Investitionen an seinen deutschen Standorten vorerst auf Eis."
     }
    ]
   },
@@ -1414,13 +1402,6 @@
      "via": "Anwalt.de"
     },
     {
-     "title": "Audi e-tron Rückruf: EU nennt 42.981 Autos - Netz Trends",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvVGZIaGFZZHpTc2piRHZVYjlGR2dKVWRWUkRkRUd1T29fMXpnWU1NRXBvX3VCWXlUV0YxcTZvUC1KbjFIaVRZZUQxYXBGRFA4WV9nZ2U5QU9zYmlqUUlYdTZObHg1dXZmUnY3ajlpbGFRU29xYTg3Tg?oc=5",
-     "date": "2026-11-10T05:53:00.000Z",
-     "text": "Audi e-tron Rückruf: EU nennt 42.981 Autos Netz Trends",
-     "via": "Netz Trends"
-    },
-    {
      "title": "Erneuter Rückruf wegen gefährlicher Takata-Airbags: Opel- und Škoda-Modelle betroffen - Ruhr Nachrichten",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaU9xU3NiX2hpbThubkkyZW1MNThBSzdFbFZjTUthMm9XZ2Z3MWluejU1Z1daMHdCeXdDSEJFUUI4RlQxdll4M05SQVA1S3ZDUHpmQ1JxSUZyNVBfX3MzalBPRHhmaTJVRVFRYy1oVGRrb0gtemVpclJWalRTQmUwdmY0bDdxTTJJOGo3TDVmSzFSMWtNc3BRRWFPb3lROVNlTWJMaEEySlo2NFQ1bEdUb2hoZUJwN1VyODQtWDhkRTcxWXZDbVhkN3JEMEJNTFN6MmNkd0Z5LVNGdw?oc=5",
      "date": "2026-11-11T10:10:00.000Z",
@@ -1433,6 +1414,13 @@
      "date": "2026-11-11T09:03:32.000Z",
      "text": "Ford-Kuga-Rückruf ohne Ende? Brand an Ladesäule in den Niederlanden Anwalt.de",
      "via": "Anwalt.de"
+    },
+    {
+     "title": "Audi e-tron Rückruf: EU nennt 42.981 Autos - Netz Trends",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvVGZIaGFZZHpTc2piRHZVYjlGR2dKVWRWUkRkRUd1T29fMXpnWU1NRXBvX3VCWXlUV0YxcTZvUC1KbjFIaVRZZUQxYXBGRFA4WV9nZ2U5QU9zYmlqUUlYdTZObHg1dXZmUnY3ajlpbGFRU29xYTg3Tg?oc=5",
+     "date": "2026-11-10T05:53:00.000Z",
+     "text": "Audi e-tron Rückruf: EU nennt 42.981 Autos Netz Trends",
+     "via": "Netz Trends"
     }
    ]
   },
@@ -1507,13 +1495,6 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2VWUzlma1Jsa0xKNTREclRUZkQwR19vWi1sVkk0enBYeXVtZFQxOXBQc0ZNZHZ5c0NmQXlmcWZpTzJQZDhmVGVBOGd1TUVGRTZZOVZWdW96Wmg5blFxa1FOdEhFYVR3dTdJY2kxWWlwRmk5cmpWY0oxcFNxR3h4bUFjM29NY3kxaEgwaU4ydzFHUVJqbUZWMjk0WG5jQU9HRjFEcGNR?oc=5",
      "date": "2026-11-11T08:00:22.000Z",
      "text": "Zwölf Talente aus zehn Ländern kämpfen um den Status als Porsche-Junior 2027 Porsche Newsroom",
-     "via": "Porsche Newsroom"
-    },
-    {
-     "title": "Banzai Legacy Lab: Kultur in Bewegung - Porsche Newsroom",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2hkbUt1WlZmMTV1ZkVRc1hrQkhJX1NEbVZHcWF6UzZMYWlqVUtOV0VIeVJmSnhoOUVSUlJoNmN2aGRPZDkyeFhLbjRQYUhrdnVNaC1NcWtlT3B1Zms0Qm5pSU9LWEVpUjFUVGI4aFFnVU15alV4dUdFOGN0TTk3U2JSbEZtQ1RjT1FEYmNrbGhRNGNoZDNpem9DUTBHQzZXTEFyN0dTbw?oc=5",
-     "date": "2026-11-12T08:53:43.000Z",
-     "text": "Banzai Legacy Lab: Kultur in Bewegung Porsche Newsroom",
      "via": "Porsche Newsroom"
     },
     {
@@ -1622,20 +1603,6 @@
      "via": "Netzwelt"
     },
     {
-     "title": "Porsche 924: So begann die Geschichte der Polizei-Sportwagen in den Emiraten - Motorsport-Total.com",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTGM0cUJ4RlpCQmNhWElFX3hLZXZibGhON3RsVVFSaUk2TlJQUDB0S2NWcUUtVXIxMlNjQ1ZIVjN0dmxsZWVqbzd1bGhLQkh0WTdET0pxN3JDbms4TTIwc05DN2ZWMnZ2NFRJdFFDVkN4UWVVWWg0alRQRkFXamdLRERZZzJkTXpvTkRkclhtVlJWYlJWaFhUcXpFZWZPZ3BwYWRQWTJCMGZrU29GS0lFWTZQdXBHeDg4WTFBYm1xdE9xZ2V3ZHhPYlllNA?oc=5",
-     "date": "2026-11-12T10:22:04.000Z",
-     "text": "Porsche 924: So begann die Geschichte der Polizei-Sportwagen in den Emiraten Motorsport-Total.com",
-     "via": "Motorsport-Total.com"
-    },
-    {
-     "title": "Corvette E-Ray Convertible: Hybrid-Sportwagen für 94.000 US-Dollar versteigert - Tuningblog",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rQ1M4VFVlbGhxQWs1OTVUc2FMOWRkTmI2bzhuZVB3R05jZnRfb1kzTG1XMk14amNTN0JsUEYydzRYaUczOWdyWDN4NDJLZzc2M3ZxZkhpQ3U5QWNGNWVRN3laVnFHX3h3dlNiNnlqVjg3bExCNkF1V1MxSWFxTzA?oc=5",
-     "date": "2026-11-12T15:39:15.000Z",
-     "text": "Corvette E-Ray Convertible: Hybrid-Sportwagen für 94.000 US-Dollar versteigert Tuningblog",
-     "via": "Tuningblog"
-    },
-    {
      "title": "Betrunken und zu schnell: Junger Fahrer (20) überschlägt sich in Mühldorf mit Sportwagen - Innsalzach24",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdkdycGd0WnZaZVVuNW03SEFyc2N5VHJ1V2JhZFZLSnp0VjdSaTBqZm5QQWY0emFqUTE4RjczbE9IeUNNdGt5S3ZOQWdKNUZsb2o5QVlOanMxOFNRVk1SNThkZkZjMFBWcE9ZOVU3djhBcEFJUXpJbHZIZkdjTXJ1MEFsbEdYQWJvT1RvWnVRUFdLT1Ywb0pRZ2tIUnBOLXRLa3FnNUNCR2FaM0hqUXduSFkwVlMtaV9OTGlVQjRB?oc=5",
      "date": "2026-11-12T12:05:00.000Z",
@@ -1643,11 +1610,25 @@
      "via": "Innsalzach24"
     },
     {
+     "title": "Porsche 924: So begann die Geschichte der Polizei-Sportwagen in den Emiraten - Motorsport-Total.com",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTGM0cUJ4RlpCQmNhWElFX3hLZXZibGhON3RsVVFSaUk2TlJQUDB0S2NWcUUtVXIxMlNjQ1ZIVjN0dmxsZWVqbzd1bGhLQkh0WTdET0pxN3JDbms4TTIwc05DN2ZWMnZ2NFRJdFFDVkN4UWVVWWg0alRQRkFXamdLRERZZzJkTXpvTkRkclhtVlJWYlJWaFhUcXpFZWZPZ3BwYWRQWTJCMGZrU29GS0lFWTZQdXBHeDg4WTFBYm1xdE9xZ2V3ZHhPYlllNA?oc=5",
+     "date": "2026-11-12T10:22:04.000Z",
+     "text": "Porsche 924: So begann die Geschichte der Polizei-Sportwagen in den Emiraten Motorsport-Total.com",
+     "via": "Motorsport-Total.com"
+    },
+    {
      "title": "DTM 2027 ohne Marco Wittmann? BMW-Chef: \"Wollen wir nicht - aber Hypercar hat Priorität\" - Motorsport-Magazin.com",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcXA5aVNPeU8xdGtBVlFLaUs3YzFQdFpMekNDNW1Xc1lPZFdaRTc0RFY3TWNvQXBTS19YMU04cWJTVWhzNW5IbFBnUzJrWlVSZjYzTGJjdy0xRFZQYlZXbXZXU251Z3dYclg0VHZ2azVXSW1uUWxvbzRWLWRvSm81ekp0c04tS1F6NllLWUE0MzVYMF9kRkRnamxUTUVGeldQZW1OVTBiN3NyaXRoaUEzZnNIQlBuakxMZkxySEQ0cnpMck96R25zUVNyTGFHeV9U?oc=5",
      "date": "2026-11-11T09:05:00.000Z",
      "text": "DTM 2027 ohne Marco Wittmann? BMW-Chef: \"Wollen wir nicht - aber Hypercar hat Priorität\" Motorsport-Magazin.com",
      "via": "Motorsport-Magazin.com"
+    },
+    {
+     "title": "Corvette E-Ray Convertible: Hybrid-Sportwagen für 94.000 US-Dollar versteigert - Tuningblog",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rQ1M4VFVlbGhxQWs1OTVUc2FMOWRkTmI2bzhuZVB3R05jZnRfb1kzTG1XMk14amNTN0JsUEYydzRYaUczOWdyWDN4NDJLZzc2M3ZxZkhpQ3U5QWNGNWVRN3laVnFHX3h3dlNiNnlqVjg3bExCNkF1V1MxSWFxTzA?oc=5",
+     "date": "2026-11-12T15:39:15.000Z",
+     "text": "Corvette E-Ray Convertible: Hybrid-Sportwagen für 94.000 US-Dollar versteigert Tuningblog",
+     "via": "Tuningblog"
     },
     {
      "title": "Festnahme auf Mallorca: Deutsches Pärchen soll in Deutschland 23 Millionen Euro an Steuern hinterzogen haben - Mallorca Zeitung",
@@ -1783,17 +1764,17 @@
      "via": "Motorsport-Total.com"
     },
     {
-     "title": "Red-Bull-Talent Tsolov ohne Formel-1-Cockpit: Wäre die DTM eine Option? - Motorsport-Total.com",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVl9ueHluUXdyRUYzWmhLQ0prSGtjSGRnNDlUcDVSWmNKdnk2MWFkcDllWl9JQ013bDRnbTl4b2NCLWdYVFZlWjNXVXdhV3dGMzBlY2VjU0FLbFZENXNzb0lGSVFWTkRWcEUwVXhFMUZzYVBtMWctcmVuWkZVeklfb1ExQWpzRENldHQ1SGJ2Rlk4blpzOTdqUS0td25hMDM1cjNJS0xwZ21Ja3pROG4wdHBfVDJFZ0JINTdBalRn?oc=5",
-     "date": "2026-11-12T14:21:00.000Z",
-     "text": "Red-Bull-Talent Tsolov ohne Formel-1-Cockpit: Wäre die DTM eine Option? Motorsport-Total.com",
-     "via": "Motorsport-Total.com"
-    },
-    {
      "title": "\"Schade\": Toyotas WEC-Titelkampf, der keiner war - Motorsport-Total.com",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPek1TaXh0Zl9DWWRSLUdjclZWbWFkQVFhRzBNY0hVTDFpa1pzdGI5Y1l5eGQ5X3M4LTNQdFJtTV9KOGsxaEFXeWVkaXpnY3Z2N3RJMHAzLWVaTmxELWI0VkgxblUyeXNMOE9zQ2NYUjh4Mjh2QVg1RjJJYXhqQWpqV0RTMXBXbzVnVGE1TE5qVGpXd3hWcDdySHV0NA?oc=5",
      "date": "2026-11-11T07:30:04.000Z",
      "text": "\"Schade\": Toyotas WEC-Titelkampf, der keiner war Motorsport-Total.com",
+     "via": "Motorsport-Total.com"
+    },
+    {
+     "title": "Red-Bull-Talent Tsolov ohne Formel-1-Cockpit: Wäre die DTM eine Option? - Motorsport-Total.com",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVl9ueHluUXdyRUYzWmhLQ0prSGtjSGRnNDlUcDVSWmNKdnk2MWFkcDllWl9JQ013bDRnbTl4b2NCLWdYVFZlWjNXVXdhV3dGMzBlY2VjU0FLbFZENXNzb0lGSVFWTkRWcEUwVXhFMUZzYVBtMWctcmVuWkZVeklfb1ExQWpzRENldHQ1SGJ2Rlk4blpzOTdqUS0td25hMDM1cjNJS0xwZ21Ja3pROG4wdHBfVDJFZ0JINTdBalRn?oc=5",
+     "date": "2026-11-12T14:21:00.000Z",
+     "text": "Red-Bull-Talent Tsolov ohne Formel-1-Cockpit: Wäre die DTM eine Option? Motorsport-Total.com",
      "via": "Motorsport-Total.com"
     },
     {
