@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-13T13:38:53.444Z",
+ "fetched": "2026-11-13T13:57:21.904Z",
  "hours": 48,
  "sources": [
   {
@@ -102,6 +102,12 @@
    "name": "Spiegel Wirtschaft",
    "ok": true,
    "items": [
+    {
+     "title": "Öl-Versorgung erholt sich erstmals seit Beginn des Irankriegs etwas",
+     "url": "https://www.spiegel.de/wirtschaft/oel-versorgung-erholt-sich-erstmals-seit-beginn-des-irankriegs-etwas-a-115c8f18-2361-4368-8f4e-6b1462aa4652#ref=rss",
+     "date": "2026-11-13T13:47:00.000Z",
+     "text": "Auf den Ölmärkten herrscht seit dem Ausbruch des Irankrieges Ausnahmezustand. Nun übersteigt das weltweite Angebot laut IEA erstmals wieder die Nachfrage."
+    },
     {
      "title": "Microsoft: BSI betrachtet Ausfall als großes Problem für die Wirtschaft",
      "url": "https://www.spiegel.de/wirtschaft/microsoft-bsi-betrachtet-ausfall-als-grosses-problem-fuer-die-wirtschaft-a-2250258a-aef5-45ae-aa22-8e21c4107ee5#ref=rss",
@@ -215,12 +221,6 @@
      "url": "https://www.spiegel.de/wirtschaft/jensen-huang-nvidia-chef-tritt-nach-spionageaffaere-zurueck-a-776bb012-48a6-4c08-9939-a77fad020e47#ref=rss",
      "date": "2026-11-12T13:57:00.000Z",
      "text": "Er ist die zentrale Figur beim weltgrößten Chiphersteller, doch nun räumt Nvidia-Chef Jensen Huang seinen Posten. Hintergrund ist seine Affäre mit einer mutmaßlichen chinesischen Spionin. Eine vorübergehende Nachfolgerin steht bereits fest."
-    },
-    {
-     "title": "Finanzkriminalität: Zoll soll schlagkräftiger werden – Bundestag beschließt neue Befugnisse",
-     "url": "https://www.spiegel.de/wirtschaft/zoll-soll-schlagkraeftiger-werden-bundestag-beschliesst-neue-befugnisse-a-60710faa-d41e-4228-9e70-93f77bb5d02d#ref=rss",
-     "date": "2026-11-12T13:39:00.000Z",
-     "text": "Schätzungen zufolge werden jedes Jahr rund 100 ​Milliarden Euro an Schwarzgeld in ‌Deutschland gewaschen. Jetzt soll der Kampf gegen Organisierte Kriminalität forciert werden."
     }
    ]
   },
@@ -253,6 +253,12 @@
      "text": "Einblick in Jensen Huangs letzte Stunden als Nvidia-CEO +++ Die Hälfte der Beschäftigten bekommt Weihnachtsgeld +++ Mercedes stoppt alle neuen Investitionen in deutsche Standorte +++ alle Neuigkeiten im Unternehmen-Liveblog"
     },
     {
+     "title": "Chipfertiger wird Investor: TSMC will das „Nvidia der Zukunft“ finden",
+     "url": "https://www.faz.net/aktuell/wirtschaft/tsmc-investiert-in-openai-und-anthropic-auf-der-suche-nach-dem-naechsten-nvidia-201680330.html",
+     "date": "2026-11-13T13:43:04.000Z",
+     "text": "Der Chip-Fertiger aus Taiwan will seine hohen KI-Einnahmen für strategische Investitionen nutzen. Erste Ziele: Open AI und Anthropic. Das soll die ganze Industrie stabilisieren."
+    },
+    {
      "title": "Chefwechsel: „Hugo Boss ist nicht mehr erkennbar“",
      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/daniel-grieder-geht-wie-geht-es-nun-mit-hugo-boss-weiter-201679894.html",
      "date": "2026-11-13T13:34:53.000Z",
@@ -263,12 +269,6 @@
      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-in-der-krise-warum-chinas-markt-die-loehne-in-deutschland-gefaehrdet-201680591.html",
      "date": "2026-11-13T13:18:32.000Z",
      "text": "Die Erfolge von Mercedes in China haben die Kostenprobleme in Deutschland jahrelang verschleiert. Nun zeigt sich, dass ohne die Quersubventionierung aus Fernost die Löhne in der Heimat nicht mehr finanzierbar sind."
-    },
-    {
-     "title": "Weltweite IT-Störung: Microsoft gibt vorsichtige Entwarnung – „nachhaltige Verbesserung in Europa“",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-gibt-vorsichtige-entwarnung-nachhaltige-verbesserung-in-europa-accg-201679156.html",
-     "date": "2026-11-13T13:10:47.000Z",
-     "text": "Eine massive Microsoft-Störung führt dazu, dass Nutzer weltweit Outlook und andere Programme nur eingeschränkt verwenden können. Inzwischen laufen viele Systeme wieder besser."
     },
     {
      "title": "Microsoft-Störung: Monokultur ohne Plan B – Europa muss souverän werden",
@@ -325,16 +325,16 @@
      "text": "Der Energietechnikkonzern präsentiert sich in Bestform. Doch Vorstandschef Bruch will noch mehr."
     },
     {
+     "title": "Weltweite IT-Störung: Microsoft gibt vorsichtige Entwarnung – „nachhaltige Verbesserung in Europa“",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-gibt-vorsichtige-entwarnung-nachhaltige-verbesserung-in-europa-accg-201679156.html",
+     "date": "2026-11-13T13:10:47.000Z",
+     "text": "Eine massive Microsoft-Störung führt dazu, dass Nutzer weltweit Outlook und andere Programme nur eingeschränkt verwenden können. Inzwischen laufen viele Systeme wieder besser."
+    },
+    {
      "title": "Autokonzern in der Krise: Mercedes stellt jetzt selbst die Autofabrik Sindelfingen infrage",
      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/krise-mercedes-stellt-selbst-werk-sindelfingen-in-frage-accg-201680335.html",
      "date": "2026-11-13T12:53:55.000Z",
      "text": "Im Streit mit den Arbeitnehmern erhöht die Mercedes-Führung den Druck. Sie stoppt alle Investitionen an deutschen Standorten. Und konkretisiert ihre Pläne für mögliche Werksschließungen."
-    },
-    {
-     "title": "Robotaxis: Europa wird zum Versuchslabor der globalen Fahrdienste",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lyft-chef-david-risher-europa-wird-zum-testfeld-fuer-robotaxis-accg-201680570.html",
-     "date": "2026-11-13T12:47:48.000Z",
-     "text": "In Europa erproben amerikanische und chinesische Mobilitätsanbieter, was ihnen in der Heimat aus politischen Gründen versperrt ist: Zusammenarbeit. Auch der US-Anbieter Lyft ist dabei."
     },
     {
      "title": "Jensen Huang: Der Nvidia-Chef, die Chinesin und der Leerverkäufer",
@@ -361,6 +361,12 @@
      "text": "Kaum ein Videospiel wird so sehr erwartet wie „Grand Theft Auto VI“. Das zeigt nun auch der Datenverkehr der großen Internetanbieter."
     },
     {
+     "title": "Robotaxis: Europa wird zum Versuchslabor der globalen Fahrdienste",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lyft-chef-david-risher-europa-wird-zum-testfeld-fuer-robotaxis-accg-201680570.html",
+     "date": "2026-11-13T12:47:48.000Z",
+     "text": "In Europa erproben amerikanische und chinesische Mobilitätsanbieter, was ihnen in der Heimat aus politischen Gründen versperrt ist: Zusammenarbeit. Auch der US-Anbieter Lyft ist dabei."
+    },
+    {
      "title": "Outlook und Teams: Was Sie über den Microsoft-Ausfall wissen müssen",
      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/outlook-und-teams-was-sie-ueber-die-microsoft-stoerung-wissen-muessen-accg-201680619.html",
      "date": "2026-11-13T11:42:44.000Z",
@@ -371,12 +377,6 @@
      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gta-6-dieses-unternehmen-spendiert-seinen-mitarbeitern-einen-freien-tag-zum-zocken-accg-201680163.html",
      "date": "2026-11-13T10:20:08.000Z",
      "text": "Viele Fans des Videospiels Grand Theft Auto (GTA) nehmen sich extra für den Start des sechsten Teils frei. Ein Computerzubehör-Hersteller zeigt sich dabei besonders großzügig."
-    },
-    {
-     "title": "Nach Nvidia-Affäre: Das empfehlen Sicherheitsprofis gegen Honigfallen",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-und-die-honigfalle-so-schuetzen-sich-manager-vor-spionage-accg-201673325.html",
-     "date": "2026-11-13T06:51:50.000Z",
-     "text": "Jensen Huang ist über eine Affäre mit einer mutmaßlichen chinesischen Spionin gestürzt. Fachleute sind überzeugt, dass das kein Einzelfall ist. Auch deutsche Manager sollten auf manche Warnsignale achten."
     },
     {
      "title": "Immobilienpreise: „Als Käufer diktieren Sie momentan die Konditionen“",
@@ -414,6 +414,18 @@
    "name": "Handelsblatt",
    "ok": true,
    "items": [
+    {
+     "title": "US-Fintech: Robinhood will die nächste Revolution: Der Neobroker fordert die Wall-Street-Größen heraus",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-robinhood-will-finanzwerte-ueber-eigene-blockchain-verkaufen/100267306.html",
+     "date": "2026-11-13T13:45:37.000Z",
+     "text": "Robinhood hat den provisionsfreien Handel in den USA eingeführt. Nun prescht das Fintech auch bei der Tokenisierung voran. Das Unternehmen greift damit die Infrastruktur des Marktes an."
+    },
+    {
+     "title": "Cloud-Probleme: Langer Ausfall bei Microsoft löst gravierende Störungen aus",
+     "url": "https://www.handelsblatt.com/technik/it-internet/cloud-probleme-langer-ausfall-bei-microsoft-loest-gravierende-stoerungen-aus/100269542.html",
+     "date": "2026-11-13T13:37:32.000Z",
+     "text": "Unternehmen und Verbraucher müssen weltweit wegen einer Großstörung bei Microsoft massive Einschränkungen hinnehmen. Nach vielen Stunden kommen die Dienste wieder ins Laufen."
+    },
     {
      "title": "Ukraine-Krieg: Wieder Störung an Starlink – Kiew nutzt Alternative aus Israel",
      "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-wieder-stoerung-an-starlink-kiew-nutzt-alternative-aus-israel/100269609.html",
@@ -581,18 +593,6 @@
      "url": "https://www.handelsblatt.com/video/politik/usa-trumps-zolldrohung-mexiko-soll-gruppe-von-gefluechteten-stoppen/100269694.html",
      "date": "2026-11-13T11:25:00.000Z",
      "text": "Hunderte Menschen sind am Dienstag im Süden Mexikos aufgebrochen, um in die USA zu migrieren. Der US-Präsident drohte dem Nachbarland mit einer Verdoppelung der Zölle, sollte es die Gruppe nicht stoppen."
-    },
-    {
-     "title": "ZDF-Politbarometer: AfD laut Umfrage wieder deutlicher vor Union",
-     "url": "https://www.handelsblatt.com/politik/deutschland/zdf-politbarometer-afd-wieder-deutlicher-vor-union/100269688.html",
-     "date": "2026-11-13T11:24:10.000Z",
-     "text": "Zuletzt hatte die Union im ZDF-„Politbarometer“ den Rückstand auf die AfD etwas verkleinern können. Jetzt gehen die Prognosen für die CDU wieder zurück und die AfD käme auf 28 Prozent."
-    },
-    {
-     "title": "Bundesverfassungsgericht: BSW-Wahlergebnis - Karlsruhe entscheidet am Mittwoch",
-     "url": "https://www.handelsblatt.com/politik/deutschland/bundesverfassungsgericht-bsw-wahlergebnis-karlsruhe-entscheidet-am-mittwoch/100269676.html",
-     "date": "2026-11-13T11:22:10.000Z",
-     "text": "Dem BSW fehlten bei der letzten Bundestagswahl weniger als 10.000 Stimmen für den Einzug in den Bundestag. Im Streit um eine Neuauszählung steht jetzt eine Entscheidung aus Karlsruhe an."
     }
    ]
   },
@@ -668,13 +668,6 @@
    "ok": true,
    "items": [
     {
-     "title": "Konjunktur Deutschland: Sachverständigenrat warnt vor Finanzlücken – und fordert Steuererhöhungen - WirtschaftsWoche",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXQySVlXV29oa0g1bUx3R0h0ZmNUQTVoWXp4Rzc2Z0tjd2hCOEQwbHpTSjlUQlFRT2dJLTdnYm1CTXNxM1E2UW1sRjliMHI5TnZJQUNMck0zV1ZaLVJzZ0lkbWZuTFVXaERBVjByZzZFQnpnODNBdlp4bi1qa2Q4UkpCMm9hTHBKVEh5SGtEaVItbUdESjYtcDFPVGpLV0VGQjluTjhvdmhKZENUcF90cmFSSTY5QXR6M3I1Q0dsOU0xakxtTXhvRk5ISzMzaU9oNWlDeWNKNXZMcnJTMGdHLWJMSm9KUQ?oc=5",
-     "date": "2026-11-11T13:45:00.000Z",
-     "text": "Konjunktur Deutschland: Sachverständigenrat warnt vor Finanzlücken – und fordert Steuererhöhungen WirtschaftsWoche",
-     "via": "WirtschaftsWoche"
-    },
-    {
      "title": "Wirtschaft - Ethisch heikel: Zielfindungs-KI aus Deutschland - Inforadio",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1FVWW13TUxiMkZINnlGZ1pZQTh5c3YtLXI4ZkUwdEgzZ0l2VFNFQktwYlFxYzdyQjU3MFc3dTUxZWdraGZrYmJoZEpFaWpyZnRTNVlZZUQzeVoyamZyQWE4NDhZUDJfSFllUVN0WlAzLVJaOWE5d3pYMkNwamg0ZVpucU1lckpHcWtHbmpjZXltMVQ1a3ZCMlZlTmcxN1F1SUlzanVKNmhRWV94T3p1X3Y5cnhTc2NoY3pUeERaMnRHOWs3dWJHYmhNYzA0bTctQkE?oc=5",
      "date": "2026-11-13T09:35:00.000Z",
@@ -724,13 +717,6 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "Notfallchirurgie für die Wirtschaft: Economisten wollen Deutschland wieder nach vorne ... - Presseportal",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81YmR3OFpTM0I3ckJDUjA2T3RLWEY4TEVqaE8yelFiY213cEVQajNZWGlKZ2dlVmhTZXk0TXRVTG0yaHhDdEJhc3lXQmp3bEFwcFlSWEVrd3I?oc=5",
-     "date": "2026-11-13T06:00:09.000Z",
-     "text": "Notfallchirurgie für die Wirtschaft: Economisten wollen Deutschland wieder nach vorne ... Presseportal",
-     "via": "Presseportal"
-    },
-    {
      "title": "Creditreform Schuldneratlas: Jeder zehnte Erwachsene in Deutschland ist überschuldet - Spiegel",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUWJ2a2JwUWttS3BfOWliUXhjU1FINzdqMmJmSFhCRDRHaVN5dWNxU3RScDBjSEJlU1F0NllGRUVET1N6N3NaaFdfdUc2MnEtODJrcjRuT2tMWjZKaFlpV1loU1BNV29SMWRYMGFHeWpOSXpaU0VxUkNMd25HUC03LVd4S0Y4SjVkWEt4VkVLR25SekZjUzQzcE9COVdlUFVraXF3bllQeEMxSnM3bDJkU2o4M21pUFZWN3g1NDZ4VGNsMXNCVU9ua1g2cjE5VUNZNEdGVg?oc=5",
      "date": "2026-11-12T09:39:00.000Z",
@@ -738,11 +724,25 @@
      "via": "Spiegel"
     },
     {
+     "title": "Notfallchirurgie für die Wirtschaft: Economisten wollen Deutschland wieder nach vorne ... - Presseportal",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81YmR3OFpTM0I3ckJDUjA2T3RLWEY4TEVqaE8yelFiY213cEVQajNZWGlKZ2dlVmhTZXk0TXRVTG0yaHhDdEJhc3lXQmp3bEFwcFlSWEVrd3I?oc=5",
+     "date": "2026-11-13T06:00:09.000Z",
+     "text": "Notfallchirurgie für die Wirtschaft: Economisten wollen Deutschland wieder nach vorne ... Presseportal",
+     "via": "Presseportal"
+    },
+    {
      "title": "Druck auf Betriebsrat: Mercedes droht mit Werksschließungen und stoppt Investitionen - Wirtschaft - SZ.de - SZ.de",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHlXM3ZKaE81TUJDejJxLTJSTGZMQ0VLcm41M0tLWHBHTHNOTVUxZDZ3amVRNTI3Ql9PTDBpMXV0VW5RaFBYblpaTHU1VlI1RUMtbFpTeGFja3o2UHU2dXBhNTNYVnpxMFE4TGZpQThESEFHLUVEWmRUTlNRZ2FDZXN4TGFiQVE0TlN6LTc2ZzBWZ3poWXZiYmktaDJHN3BMMF9IRHdyU3NGTDRhTzlCSGpNM0J2dW8?oc=5",
      "date": "2026-11-12T18:20:47.000Z",
      "text": "Druck auf Betriebsrat: Mercedes droht mit Werksschließungen und stoppt Investitionen - Wirtschaft - SZ.de SZ.de",
      "via": "SZ.de"
+    },
+    {
+     "title": "Merz sieht Wirtschaft in Deutschland langsam wieder auf Erholungskurs - EU-Schwerbehinderung",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3lKN0VPb1h4ODBWM3BTR1NlRk4wYVdEVHlIRmhKT3JwUDlJVk1xLXNIdTBmdjdWcmFOXzFQdlNIX2h0OXBCRmxZU25TQ0QxeDJEcndGZHpPTThfQ2RPNkFOREt5aTE1dHdjbkFpZFcyTjIzMEs3R2lPYnBpRXpVcXplb21zdkNOV1pLN2Q5dG5oVGR5LXlPdGg2NXZSYThkRHJ2NmpacWl2MkVRd1BHVHpvR0ltZnp5c096M1AyQWpzVElsWHJvalJ1d0w3T2M?oc=5",
+     "date": "2026-11-11T18:23:41.000Z",
+     "text": "Merz sieht Wirtschaft in Deutschland langsam wieder auf Erholungskurs EU-Schwerbehinderung",
+     "via": "EU-Schwerbehinderung"
     },
     {
      "title": "ZDF-Experte: Deutsche Wirtschaft erstaunlich widerstandsfähig - ZDFheute",
@@ -759,13 +759,6 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "Merz sieht Wirtschaft in Deutschland langsam wieder auf Erholungskurs - EU-Schwerbehinderung",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3lKN0VPb1h4ODBWM3BTR1NlRk4wYVdEVHlIRmhKT3JwUDlJVk1xLXNIdTBmdjdWcmFOXzFQdlNIX2h0OXBCRmxZU25TQ0QxeDJEcndGZHpPTThfQ2RPNkFOREt5aTE1dHdjbkFpZFcyTjIzMEs3R2lPYnBpRXpVcXplb21zdkNOV1pLN2Q5dG5oVGR5LXlPdGg2NXZSYThkRHJ2NmpacWl2MkVRd1BHVHpvR0ltZnp5c096M1AyQWpzVElsWHJvalJ1d0w3T2M?oc=5",
-     "date": "2026-11-11T18:23:41.000Z",
-     "text": "Merz sieht Wirtschaft in Deutschland langsam wieder auf Erholungskurs EU-Schwerbehinderung",
-     "via": "EU-Schwerbehinderung"
-    },
-    {
      "title": "Dax-Konzerne steigern Gewinne trotz Autokrise - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMDlZUDU3UGJFcEMzNkxOcEdIZUJ3XzhFUDM1WWJwMkJTT1dkc3EzS2pxS3FQaE42cU5tbkh1WHdDb2JfN1JOMzhvUmNpelJuYWtRaWtqa3ZILXdISVphNG1EaGdrS25CYUE5aFBzZkNCRHREWENTYTM1TmdpX2J6ZzFFcDlQNldDTmlmUmpnUV9ORE01RVhpVmhLdDVxQXMxSllsWW1FcmlTVkNFQ3NFa0tvVkhuanhLaDVEYmJ3?oc=5",
      "date": "2026-11-12T19:00:00.000Z",
@@ -780,18 +773,18 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "In Deutschland: Mercedes prüft mögliche Werksschließungen in Deutschland - Nordbayerischer Kurier",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalN2QjJPTjJXYVV1SndMYnNPbEY4UzU4SlgzX3hqUXhUajY4dmV2NWlnMWk1R0k2blZyWUY0TThlOV9jdXVCU2Y4Sm5WSEtJcVJVdFZTN3dlRVJTbWxnTFJ3Yk8yc1dLenNBRVIxbkFBOFZBUHFqLWFtclp6NGRBMDRnb1NOZDdwVVNWQlEwQlNtQ2hwMWs3VzdYRWdCOUVONVVhV0FLZmhxWU5CbXlVS2VNRERONEVNYkVvUzh2Ty01MFBOOEt0SUEzbmFsYUJ5cG83RWlrV190aGlYQmc?oc=5",
-     "date": "2026-11-12T16:15:48.000Z",
-     "text": "In Deutschland: Mercedes prüft mögliche Werksschließungen in Deutschland Nordbayerischer Kurier",
-     "via": "Nordbayerischer Kurier"
-    },
-    {
      "title": "Chemie-Industrie profitiert von höheren Preisen - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYW5iVnM0WXdnRjEtWnVHNmQtS3Q0aVByR1lWS25kc0Zfb3ZxVm1lOE9MY195X1Y5bWtoZzlEMXhOOWxJbklITnJrbEJHdGNXMWpudkFNbXJCQXdhUHNXM1Rydml1SWVyalota3BrbjRWMjQ1Q1oteTlMUUdpbnZ6VlRya2FrUzA3QjF3LXRSazZNMDJwTzA4Wll2aFU4WERzcjBUOTNCRDlOSlF2UGR3WkVxWEpiQlc5SFl2Y3JSbVgyZw?oc=5",
      "date": "2026-11-11T22:30:00.000Z",
      "text": "Chemie-Industrie profitiert von höheren Preisen Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "In Deutschland: Mercedes prüft mögliche Werksschließungen in Deutschland - Nordbayerischer Kurier",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalN2QjJPTjJXYVV1SndMYnNPbEY4UzU4SlgzX3hqUXhUajY4dmV2NWlnMWk1R0k2blZyWUY0TThlOV9jdXVCU2Y4Sm5WSEtJcVJVdFZTN3dlRVJTbWxnTFJ3Yk8yc1dLenNBRVIxbkFBOFZBUHFqLWFtclp6NGRBMDRnb1NOZDdwVVNWQlEwQlNtQ2hwMWs3VzdYRWdCOUVONVVhV0FLZmhxWU5CbXlVS2VNRERONEVNYkVvUzh2Ty01MFBOOEt0SUEzbmFsYUJ5cG83RWlrV190aGlYQmc?oc=5",
+     "date": "2026-11-12T16:15:48.000Z",
+     "text": "In Deutschland: Mercedes prüft mögliche Werksschließungen in Deutschland Nordbayerischer Kurier",
+     "via": "Nordbayerischer Kurier"
     },
     {
      "title": "Siemens mit Rekordjahr - aber weniger Gewinn - Allgemeine Zeitung",
@@ -842,6 +835,18 @@
    "focus": "Nur Wirtschaft, Arbeitsmarkt, Energie- und Strompreise, Haushalt. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
    "ok": true,
    "items": [
+    {
+     "title": "Gerstungen: Zulieferer-Pleite wird Abwasser 30 Prozent verteuern",
+     "url": "https://nius.de/nius-live/gerstungen-abwasser-zulieferer-pleite",
+     "date": "2026-11-13T13:46:20.000Z",
+     "text": "Ein Drei-Personen-Haushalt soll rund 100 Euro mehr im Jahr zahlen, über die Hälfte wegen des Werks-Aus."
+    },
+    {
+     "title": "Nach Brandanschlag auf Reichelt-Auto: NGO-Aktivistin Kracher wirft NIUS-Chef „geistige Brandstiftung“ vor",
+     "url": "https://nius.de/kriminalitaet/nach-brandanschlag-auf-reichelt-auto-ngo-aktivistin-kracher-wirft-nius-chef-geistige-brandstiftung-vor",
+     "date": "2026-11-13T13:41:31.000Z",
+     "text": "Während die Polizei nach dem Brandanschlag auf das Auto von NIUS-Chefredakteur Julian Reichelt ermittelt, relativiert die linke Publizistin Veronika Kracher die Tat auf Bluesky: „Und seien wir ehrlich: die geistige Brandstiftung, die Reichelt täglich begeht, ist auch signifikant gefährlicher als die an seinem Auto.“"
+    },
     {
      "title": "Unbekannte demolieren Auto von Marburger AfD-Fraktionschef",
      "url": "https://nius.de/kriminalitaet/unbekannte-demolieren-auto-von-marburger-afd-fraktionschef",
@@ -1009,18 +1014,6 @@
      "url": "https://nius.de/wirtschaft/mercedes-stoppt-investitionen-in-deutschland-und-prueft-werksschliessungen",
      "date": "2026-11-12T16:15:21.000Z",
      "text": "Mercedes-Benz legt weitere Investitionen an seinen deutschen Standorten vorerst auf Eis."
-    },
-    {
-     "title": "Honey-Trap: Das älteste Gewerbe der Welt",
-     "url": "https://nius.de/kommentar/honey-trap-das-aelteste-gewerbe-der-welt",
-     "date": "2026-11-12T16:00:20.000Z",
-     "text": "Aktuell spricht die Welt über die Affäre von Nvidia-Chef Jensen Huang mit der mutmaßlichen chinesischen Spionin Alice Huang. Er ist ihr auf den Leim gegangen, weil sie ihm eine Liebesbeziehung vorgegaukelt hat. Er sah keinen anderen Ausweg – er trat als Nvidia-Chef zurück."
-    },
-    {
-     "title": "„Sauhaufen“-Eklat: CDU-Generalsekretär attackiert die SPD trotz „Fairnessabkommens“ scharf",
-     "url": "https://nius.de/politik/sauhaufen-eklat-cdu-generalsekretaer-attackiert-die-spd-trotz-fairnessabkommens-scharf",
-     "date": "2026-11-12T15:58:03.000Z",
-     "text": "Vor den Landtagswahlen in Schleswig-Holstein im April 2027 haben Union, SPD, FDP, Grüne und SSW ein Fairnessabkommen geschlossen. Nur benimmt sich ausgerechnet der CDU-Generalsekretär Lukas Kilian von Ministerpräsident Daniel Günther im Kieler Landtag daneben."
     }
    ]
   }
