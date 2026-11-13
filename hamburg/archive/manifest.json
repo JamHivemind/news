@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-13",
+      "file": "2026-11-13.html",
+      "headline": "Hafen: HHLA-Gewinn bricht um fast 25 Prozent ein",
+      "count": 15,
+      "sources": 5,
+      "cats": {
+        "Wirtschaft & Hafen": 3,
+        "Bauen & Wohnen": 1,
+        "Stadt & Politik": 3,
+        "Verkehr": 5,
+        "Polizei & Sicherheit": 1,
+        "Sport": 2
+      },
+      "ents": {
+        "Hafen": 2,
+        "Senat": 2,
+        "Elbtower": 1,
+        "Hapag-Lloyd": 1,
+        "Bürgerschaft": 2,
+        "Polizei": 1
+      }
+    },
+    {
       "date": "2026-11-12",
       "file": "2026-11-12.html",
       "headline": "40.000 Unterschriften gegen Kürzungen an Hamburgs Schulen",
