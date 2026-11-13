@@ -293,3 +293,17 @@ line.g-handle{stroke:#6d737b;stroke-width:2.6;stroke-linecap:round}
 /* Auto als freigestelltes Foto (CC BY 2.0, Valder137, bearbeitet) */
 div.garage-car{aspect-ratio:900/333;background:url(garage-993-turbo.webp) center/contain no-repeat;filter:drop-shadow(0 10px 8px rgba(0,0,0,.75));bottom:6px}
 @media (min-width:561px){div.garage-car{width:440px;bottom:4px}}
+
+/* Kaufen: Suchformular */
+.theme-garage .kaufen{margin-top:26px;padding:18px;border-radius:18px;border:1px solid var(--border);border-top:5px solid var(--yellow);background:var(--surface)}
+.theme-garage .kaufen > h2{font-family:Anton,Impact,"Arial Narrow Bold",sans-serif;font-weight:400;letter-spacing:.03em;font-size:clamp(1.6rem,4.5vw,2.2rem);color:var(--text)}
+.k-form{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:12px 0}
+.k-form label{display:grid;gap:4px;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);min-width:0}
+.k-form .k-wide{grid-column:1/-1}
+.k-form input,.k-form select{width:100%;font:inherit;font-size:1rem;font-weight:400;text-transform:none;letter-spacing:0;color:var(--text);background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:9px 10px}
+.k-form input:focus,.k-form select:focus{outline:2px solid var(--yellow);outline-offset:1px}
+.k-links{display:flex;flex-wrap:wrap;gap:8px}
+.k-btn{text-decoration:none;font-weight:800;font-size:.92rem;padding:10px 16px;border-radius:999px;background:var(--yellow);color:#111;transition:transform .15s}
+.k-btn:hover{transform:translateY(-2px)}
+.k-btn.k-claude{background:transparent;color:var(--text);border:2px solid var(--yellow)}
+@media (max-width:560px){.k-form{grid-template-columns:repeat(2,minmax(0,1fr))}}

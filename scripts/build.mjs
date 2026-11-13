@@ -13,6 +13,7 @@ import { renderFootball } from "./football.mjs";
 import { renderZonen } from "./zonen.mjs";
 import { renderWelt } from "./welt.mjs";
 import { renderModelle } from "./modelle.mjs";
+import { renderKaufen } from "./kaufen.mjs";
 import { renderGarage } from "./garage.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -247,7 +248,8 @@ function buildDashboard(name, template) {
   // Modelle im Blick (Autos): Vergleich mit Marktdaten aus data/markt.json (scripts/markt.mjs)
   // "modelle.oben": true → vor den Diagrammen statt danach
   const mod = cfg.modelle ? renderModelle(cfg, loadJson(join(dir, "data", "markt.json"), null), all) : "";
-  const dashboard = cfg.modelle?.oben ? mod + dash : dash + mod;
+  const kauf = renderKaufen(cfg);
+  const dashboard = cfg.modelle?.oben ? mod + kauf + dash : dash + mod + kauf;
 
   const page = (root, assets, isIndex) => {
     const nav = [`<a href="${root}../">Alle Dashboards</a>`];
