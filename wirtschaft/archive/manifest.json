@@ -1,6 +1,27 @@
 {
   "briefs": [
     {
+      "date": "2026-11-13",
+      "file": "2026-11-13.html",
+      "headline": "Mercedes stoppt Investitionen in Deutschland",
+      "count": 15,
+      "sources": 5,
+      "cats": {
+        "Unternehmen": 3,
+        "Arbeit & Soziales": 3,
+        "Börse & Märkte": 2,
+        "Zinsen & Geldpolitik": 1,
+        "Energie": 2,
+        "Politik & Handel": 2,
+        "Konjunktur": 2
+      },
+      "ents": {
+        "Mercedes": 1,
+        "Bundesbank": 1,
+        "Bundesregierung": 1
+      }
+    },
+    {
       "date": "2026-11-12",
       "file": "2026-11-12.html",
       "headline": "Wirtschaftsweise heben Wachstumsprognose deutlich an",
