@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-13T14:17:56.257Z",
+ "fetched": "2026-11-13T18:23:48.038Z",
  "hours": 48,
  "sources": [
   {
@@ -59,9 +59,27 @@
   },
   {
    "name": "Gründerszene",
-   "ok": false,
-   "error": "HTTP 403",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "„Ein großer Fehler“: Bundesregierung will Millionen bei der Startup-Förderung streichen",
+     "url": "https://www.businessinsider.de/gruenderszene/grosser-fehler-bundesregierung-streicht-millionen-bei-startup-foerderung/",
+     "date": "2026-11-13T13:40:35.000Z",
+     "text": "Die Bundesregierung will die Förderung von Startup-Investitionen kürzen – die Grünen sprechen von einem Fehler."
+    },
+    {
+     "title": "Er heißt wie der Nvidia-Chef – und macht daraus einen Marketing-Coup",
+     "url": "https://www.businessinsider.de/gruenderszene/er-heisst-wie-der-nvidia-chef-und-macht-daraus-einen-marketing-coup/",
+     "date": "2026-11-13T11:21:13.000Z",
+     "text": "Er bekommt Anfragen zu Nvidia-Aktien und wird auf Affären angesprochen. Für einen jungen Gründer hat die Namensgleichheit mit Jensen Huang zwei Seiten."
+    },
+    {
+     "title": "Berliner KI-Startup Parloa baut OpenAI-Partnerschaft aus – und sichert sich besonderen Vorteil",
+     "url": "https://www.businessinsider.de/gruenderszene/ki-startup-parloa-baut-openai-partnerschaft-aus/",
+     "date": "2026-11-13T10:08:27.000Z",
+     "text": "Früher Zugang zu neuen KI-Modellen, gemeinsame Großkunden und ein neuer Vertriebskanal: Parloa vertieft seine Partnerschaft mit OpenAI."
+    }
+   ]
   },
   {
    "name": "EU-Startups",
@@ -144,12 +162,6 @@
      "url": "https://sifted.eu/articles/six-european-scientists-building-startups-in-stealth/",
      "date": "2026-11-12T05:00:08.000Z",
      "text": ""
-    },
-    {
-     "title": "Fractile confirms £540m raise first revealed by Sifted",
-     "url": "https://sifted.eu/articles/fractile-confirms-540m-raise-first-revealed-by-sifted/",
-     "date": "2026-11-11T16:09:13.000Z",
-     "text": ""
     }
    ]
   },
@@ -188,22 +200,7 @@
    "name": "Google News: Startups Hamburg",
    "focus": "Nur echte Startup-Meldungen aus Hamburg und Norddeutschland (Gründung, Finanzierung, Produkt). Restaurants, Läden und Nachrufe ignorieren. Reicht 7 Tage zurück.",
    "ok": true,
-   "items": [
-    {
-     "title": "Startup Match am 19. November – Startups als Arbeitgeber kennenlernen : UHH - Universität Hamburg",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcW9GOWFkZVN6bURJWU90LXZFS1QwRFdHdnlsUmFsRE1qNkFjeElsZXZKcE1lZnVVcXR4Zkw3aW9QQVFpT05vYkRTM3dmaWxSUFAyRF9fYVd1d0hHSzNua25iX0ZYSXJ2SHN4ZXFnbHNabjN5Y3hJV2tpLTJDX0hQUg?oc=5",
-     "date": "2026-11-06T15:43:00.000Z",
-     "text": "Startup Match am 19. November – Startups als Arbeitgeber kennenlernen : UHH Universität Hamburg",
-     "via": "Universität Hamburg"
-    },
-    {
-     "title": "Female Entrepreneurship Week 2026 : UHH - Universität Hamburg",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ280ckdQQVpyTXRIazRyTGNBdlZMbl9YcXdnQ1kyTUp5ZGJKaGFaQlV3MG9WaUNhc3BRdlhxVHR2cHpOZG5Kc1ZCQTJvNlBjSFQ2R29GZ0VTZWZaY2N1d3pKWUROa2Y0TTkyNlI0TS1JOEpoTkhkU2hCRFprLU90T3pUSVJWSW5XeGNSampGcjVsRDhj?oc=5",
-     "date": "2026-11-06T15:01:00.000Z",
-     "text": "Female Entrepreneurship Week 2026 : UHH Universität Hamburg",
-     "via": "Universität Hamburg"
-    }
-   ]
+   "items": []
   },
   {
    "name": "Google News: Finanzierungsrunden DE",
@@ -216,13 +213,6 @@
      "date": "2026-11-12T09:02:00.000Z",
      "text": "Finanzierung: Münchner Start-up Agile Robots erhält 500 Millionen Dollar Logistik Heute",
      "via": "Logistik Heute"
-    },
-    {
-     "title": "SE3 holt sich 30 Millionen Dollar - Startbase",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55b205Nk8tUnJoRXFZcGItSkZVNTJWSVFaV0h5dXJuYUM4cE44SDY2bnk3X2FCMEdHTnBXaU96ajQ2U2Z2R3VJZFZSS0VHUVFueFZiR1lWbnpad0c1WDlwTFdDYzhzb29welFyYTc3QXF4dw?oc=5",
-     "date": "2026-11-12T08:36:45.000Z",
-     "text": "SE3 holt sich 30 Millionen Dollar Startbase",
-     "via": "Startbase"
     },
     {
      "title": "Luminal erhält 25 Millionen Dollar in einer Serie-A-Finanzierungsrunde unter Führung von Standard Capital - Unite.AI",
@@ -251,13 +241,6 @@
      "date": "2026-11-12T10:49:00.000Z",
      "text": "Ukrainischer Drohnenhersteller Uforce wirbt Millionen ein Ludwigsburger Kreiszeitung",
      "via": "Ludwigsburger Kreiszeitung"
-    },
-    {
-     "title": "Fractile erreicht Bewertung von 7 Milliarden Dollar in Series-C-Runde über 720 Millionen - Cryptopolitan",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45cUpxNDFOLWZadlFsQ0c4OUEwS0RadmszUkNaR1pmaHp4cnhRclF1TEVCNTJYQVZEb2VSdk9vV0lXTnJDdmRfSEVKY0NGT1JNREljWjVmT1FmRnY4RkxBQ0tLUHVBTjlaTHBfN2IxRkJUNHFsX3RvQkNuXzdZdFk?oc=5",
-     "date": "2026-11-11T17:00:52.000Z",
-     "text": "Fractile erreicht Bewertung von 7 Milliarden Dollar in Series-C-Runde über 720 Millionen Cryptopolitan",
-     "via": "Cryptopolitan"
     }
    ]
   }
