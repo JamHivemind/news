@@ -1,78 +1,51 @@
 {
-  "date": "2026-11-13",
-  "intro": "Große Runden bestimmen den Tag: Rüstungs- und Robotik-Startups sowie Chip-Neugründungen sammeln Hunderte Millionen ein. In Deutschland und Hamburg gibt es dagegen wenig Neues.",
+  "date": "2026-11-14",
+  "intro": "Ein ruhiger Samstag mit wenig Neuem aus Deutschland. Im Mittelpunkt stehen die geplanten Kürzungen bei der Startup-Förderung und die Folgen eines Chefwechsels bei Nvidia für die Finanzierung von KI-Startups.",
   "top": [
     {
-      "title": "Drohnen-Startup Uforce sammelt 700 Millionen Dollar ein",
-      "text": "Das ukrainische Drohnen-Startup Uforce hat 700 Millionen Dollar eingeworben, laut MarketScreener bei einer Bewertung von 6 Milliarden Dollar. Mit dabei sind Valor Equity Partners und der britische National Wealth Fund (ein staatlicher Fonds). Die Runde zeigt, wie viel Kapital derzeit in Verteidigungstechnik fließt.",
-      "url": "https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop/",
-      "source": "Sifted",
-      "category": "Finanzierungen"
+      "title": "Bund will Förderung für Startup-Investitionen kürzen",
+      "text": "Die Bundesregierung plant, Geld für die Förderung von Startup-Investitionen zu streichen. Die Grünen nennen das einen großen Fehler. Für junge Unternehmen kann weniger staatliche Unterstützung bedeuten, dass Geldgeber seltener einsteigen. Details zu Summen und Programmen stehen im Teaser nicht.",
+      "url": "https://www.businessinsider.de/gruenderszene/grosser-fehler-bundesregierung-streicht-millionen-bei-startup-foerderung/",
+      "source": "Gründerszene",
+      "category": "Förderung & Politik",
+      "tipp": "Gründer sollten ihre Finanzplanung nicht allein auf staatliche Förderung stützen und Alternativen prüfen."
     },
     {
-      "title": "SoftBank führt 500-Millionen-Dollar-Runde für Agile Robots",
-      "text": "Der Roboterhersteller Agile Robots erhält 500 Millionen Dollar. Angeführt wird die Runde vom japanischen Investor SoftBank. Roboter, die mit KI Aufgaben in Fabriken und Lagern übernehmen, ziehen damit weiter viel Geld an.",
-      "url": "https://sifted.eu/articles/softbank-leads-500m-round-for-agile-robots/",
-      "source": "Sifted",
-      "category": "Finanzierungen"
+      "title": "Nvidia-Abgang von Jensen Huang verunsichert KI-Startups",
+      "text": "Laut TechCrunch rechnen Investoren und Gründer nach dem Weggang von Nvidia-Chef Jensen Huang mit kleineren Finanzierungsschecks und niedrigeren Bewertungen. Nvidia hatte unter Huang sehr viel Geld in KI-Startups gesteckt. Auch Sifted sieht die europäische Tech-Szene davon betroffen.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch Startups",
+      "category": "Europa & Welt"
     },
     {
-      "title": "Chip-Startup Fractile bestätigt Finanzierung über 540 Millionen Pfund",
-      "text": "Das britische KI-Chip-Startup Fractile hat seine Runde über 540 Millionen Pfund bestätigt. Sifted hatte sie zuerst gemeldet. Laut Cryptopolitan liegt die Bewertung bei 7 Milliarden Dollar, es ist eine Series C (eine späte Wachstumsrunde).",
-      "url": "https://sifted.eu/articles/fractile-confirms-540m-raise-first-revealed-by-sifted/",
+      "title": "Accel führt 30-Millionen-Dollar-Runde für Rüstungs-Startup SE3",
+      "text": "Der Investor Accel führt eine Series-A-Runde (frühe Wachstumsfinanzierung) über 30 Millionen Dollar für SE3. Das Startup arbeitet an räumlicher KI für die Verteidigung. Damit fließt weiter Kapital in europäische Rüstungstechnik.",
+      "url": "https://sifted.eu/articles/accel-30m-spatial-ai-defence-startup-se3/",
       "source": "Sifted",
-      "category": "Deep Tech & Forschung"
+      "category": "Finanzierungen"
     }
   ],
   "entries": [
     {
-      "title": "Europas Chip-Finanzierung fast vervierfacht",
-      "summary": "Investoren setzen auf Herausforderer von Nvidia bei Chips für den KI-Betrieb (Inferenz). Die Finanzierung europäischer Chip-Startups hat sich fast vervierfacht, meldet Sifted.",
-      "url": "https://sifted.eu/articles/european-chips-funding-almost-quadruples-as-investors-back-nvidias-inference-challengers/",
+      "title": "Parloa vertieft Partnerschaft mit OpenAI",
+      "summary": "Das Berliner KI-Startup Parloa bekommt frühen Zugang zu neuen KI-Modellen von OpenAI. Dazu kommen gemeinsame Großkunden und ein neuer Vertriebskanal.",
+      "url": "https://www.businessinsider.de/gruenderszene/ki-startup-parloa-baut-openai-partnerschaft-aus/",
+      "source": "Gründerszene",
+      "category": "Gründungen & Produkte"
+    },
+    {
+      "title": "LangChain wird mit 3 Milliarden Dollar bewertet",
+      "summary": "Das KI-Agenten-Startup LangChain erreicht laut TechCrunch eine Bewertung von 3 Milliarden Dollar. Es nennt 7.000 Kunden für sein Werkzeug LangSmith, mit dem sich KI-Agenten verwalten lassen.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch Startups",
+      "category": "Europa & Welt"
+    },
+    {
+      "title": "Sechs europäische Forscher gründen Startups im Verborgenen",
+      "summary": "Sifted stellt sechs Wissenschaftler vor, die in Europa noch unter dem Radar Startups aufbauen. Ein Blick auf mögliche künftige Deep-Tech-Gründungen.",
+      "url": "https://sifted.eu/articles/six-european-scientists-building-startups-in-stealth/",
       "source": "Sifted",
       "category": "Deep Tech & Forschung"
-    },
-    {
-      "title": "SE3 holt 30 Millionen Dollar für KI-Verteidigung",
-      "summary": "Accel führt die Series A (erste größere Finanzierungsrunde) für das Startup SE3. Es entwickelt räumliche KI für den Verteidigungsbereich.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55b205Nk8tUnJoRXFZcGItSkZVNTJWSVFaV0h5dXJuYUM4cE44SDY2bnk3X2FCMEdHTnBXaU96ajQ2U2Z2R3VJZFZSS0VHUVFueFZiR1lWbnpad0c1WDlwTFdDYzhzb29welFyYTc3QXF4dw?oc=5",
-      "source": "Startbase",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Luminal erhält 25 Millionen Dollar",
-      "summary": "Das Startup sammelt in einer Series A unter Führung von Standard Capital 25 Millionen Dollar ein.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlNiSjU0QWlSR01zcE5WT1RSZVNHWUg3NXoyd3FrZi10MDlFckRmNl8yQ0I4VXdITHlHNk5RQ2RNOV9kUmpuZWd5MWdNTkFvXzZHYy1ZWkhLMHdDQUloMEIxUWxDOGN2QkRra0U2MXh2cDdUYWkyQWtjaFdvRzhvSU9ZdW8zS3FEOWVJUE83UXM?oc=5",
-      "source": "Unite.AI",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "KI-Startup Rox sammelt 100 Millionen Dollar",
-      "summary": "Das KI-Startup Rox hat 100 Millionen Dollar eingeworben. Details zu Investoren nennt die Meldung im frei lesbaren Teil nicht.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQems0bHVxTkdSV2xZOVlkbnF2ejI2UUw4UmM5VUVob1Z1WXZSZ1A0bFJySTc5UjByLWJtTkhLeEZ6UGZpbGFkYUlWRUM0aV9fT2dncGFfclBQUHNZb2VzUnZfZFhZOWgxZlp1aXNwQmdHblJGS2ZsbmMtMFA4WlU5ZzZHTXJOOWl5?oc=5",
-      "source": "n24.com.tr",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "EU Inc.: Gründen soll einfacher werden",
-      "summary": "Mit einer neuen europäischen Rechtsform soll das Gründen von Unternehmen einfacher werden, berichtet deutsche-startups.de. Ob und wann sie kommt, steht im frei lesbaren Teil nicht.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeEp3eVdfaHJuVldwTDAtb3gxNU41d20wNzFnci1NUTk0MTJYakNfdkhYeVZXaGdNTDN5T3BmX2N2Zi01clhYRGwwdE1WLW5STmlwbnJQbk92MWpNUmJmYkRDOFBjNUxJclFmZnVHVFlkMkpRV3NGMElReG9DS3ZoNHVCbTZhR0VJV1FCQmpKdXhKbnBodlgtbVNB?oc=5",
-      "source": "deutsche-startups.de",
-      "category": "Förderung & Politik"
-    },
-    {
-      "title": "Nectar startet KI-Agent für Influencer-Marketing",
-      "summary": "Der KI-Agent findet Creator für Marken, übernimmt die Ansprache und verfolgt die Ergebnisse von Kampagnen.",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch Startups",
-      "category": "Gründungen & Produkte"
-    },
-    {
-      "title": "Phota Labs will Fotos automatisch verbessern",
-      "summary": "Das Startup setzt auf KI, die Alltagsfotos selbst bearbeitet, statt ein weiteres Werkzeug zum Selbstbearbeiten zu liefern.",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "source": "TechCrunch Startups",
-      "category": "Gründungen & Produkte"
     }
   ]
 }
