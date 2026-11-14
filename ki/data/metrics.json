@@ -39,10 +39,6 @@
  "stocks": {
   "NVDA": [
    [
-    "2026-08-13",
-    225.3
-   ],
-   [
     "2026-08-14",
     225.16
    ],
@@ -300,14 +296,10 @@
    ],
    [
     "2026-11-13",
-    160.95
+    162.85
    ]
   ],
   "MSFT": [
-   [
-    "2026-08-13",
-    496.88
-   ],
    [
     "2026-08-14",
     495.4
@@ -566,14 +558,10 @@
    ],
    [
     "2026-11-13",
-    523.99
+    523.88
    ]
   ],
   "GOOGL": [
-   [
-    "2026-08-13",
-    346.36
-   ],
    [
     "2026-08-14",
     345.9
@@ -832,14 +820,10 @@
    ],
    [
     "2026-11-13",
-    295
+    295.77
    ]
   ],
   "META": [
-   [
-    "2026-08-13",
-    594.97
-   ],
    [
     "2026-08-14",
     589.85
@@ -1095,10 +1079,6 @@
    [
     "2026-11-12",
     623.61
-   ],
-   [
-    "2026-11-13",
-    635.26
    ]
   ]
  },
@@ -1111,41 +1091,41 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 5031,
+   "likes": 6120,
    "downloads": 21586,
    "task": "text-generation"
   },
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 976,
+   "likes": 1021,
    "downloads": 437039,
    "task": "text-to-image"
   },
   {
    "id": "NousResearch/Arete-27B",
-   "likes": 527,
+   "likes": 555,
    "downloads": 5545,
    "task": "text-generation"
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 11739,
+   "likes": 11789,
    "downloads": 2778909,
    "task": "image-to-video"
   },
   {
-   "id": "speridlabs/idol",
-   "likes": 2270,
-   "downloads": 31367,
-   "task": "image-to-3d"
-  },
-  {
    "id": "Qwen/Qwen3.8-27B",
-   "likes": 19832,
+   "likes": 19885,
    "downloads": 6960395,
    "task": "image-text-to-text"
+  },
+  {
+   "id": "speridlabs/idol",
+   "likes": 2301,
+   "downloads": 31367,
+   "task": "image-to-3d"
   }
  ],
- "updated": "2026-11-13T18:24:18.251Z",
+ "updated": "2026-11-14T02:23:44.751Z",
  "updatedDay": "2026-11-06"
 }
