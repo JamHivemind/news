@@ -1,121 +1,85 @@
 {
-  "date": "2026-11-13",
-  "intro": "Die EU will Abos im Netz leichter kündbar machen, und die versprochene Stromsteuer-Senkung wackelt. Dazu gibt es Warnungen vor Kanalhaien, Phishing-Mails und Fake-Shops.",
+  "date": "2026-11-14",
+  "intro": "Autofahrer müssen sich auf mögliche Handy-Blitzer einstellen, und Pakete in der Postfiliale werden ab Januar teurer. Dazu kommen Urteile zu Kindergeld und Grenzkontrollen sowie Warnungen vor Abo-Tricks und einer Betrugsmasche per Telefon.",
   "top": [
     {
-      "title": "EU will Abo-Kündigungen im Netz erleichtern",
-      "text": "Die EU-Kommission hat einen Vorschlag für den „Digital Fairness Act“ vorgelegt. Er soll Verbraucher im Netz besser schützen, unter anderem vor Abofallen, süchtig machendem Design und versteckten Kosten. Es ist ein Vorschlag, noch kein beschlossenes Gesetz. Ein Datum, ab dem Regeln gelten, nennen die Meldungen nicht.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzd6U2txdmpkb25qTXFwZmV1aVNPMmYwbGticy10cFBDTWdiSmREMm1MbFJMcW1TNUw1U3ZtTGZrUjh0Y2J2QTZqMHdxYmpZcG5OemFyZjdtMndIYXVneG1XM2hXS2FRMTFiaFRIcFpsTzJ3MXlGSWVFRF95WXpsS3BubHlfN01rbjlfRkpKYkxITGF4dmpoTlFaMy1mZERqSmUybUdFNU1TY0tWdjVZRE9HZlhFaTdzX3hPcDlR?oc=5",
-      "source": "Freie Presse",
+      "title": "Handy-Blitzer: Bund will Kontrollen bundesweit",
+      "text": "Bislang gibt es Kameras, die Handynutzung am Steuer erkennen, nur in Rheinland-Pfalz. Bundesverkehrsminister Bilger will sie bundesweit einführen, um Unfälle zu verhindern. Kritiker halten das für einen unverhältnismäßigen Eingriff in die Privatsphäre. Es ist bisher ein Plan, noch kein beschlossenes Gesetz.",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/handy-blitzer-kontrolle-ueberwachung-100.html",
+      "source": "tagesschau Inland",
       "category": "Neue Gesetze & Fristen",
-      "tipp": "Wer ein Abo loswerden will, kündigt schriftlich oder per E-Mail und hebt die Bestätigung auf."
+      "tipp": "Das Handy am Steuer in die Hand zu nehmen ist schon jetzt verboten; es lohnt sich, es vor der Fahrt wegzulegen."
     },
     {
-      "title": "Stromsteuer-Senkung kommt wohl doch nicht",
-      "text": "Die Senkung der Stromsteuer wird nach dem Haushaltskompromiss der Koalition vermutlich nicht kommen, obwohl sie versprochen war. Bei der Union ist der Ärger laut tagesschau groß. Der Verbraucherzentrale Bundesverband nennt das Aus der Senkung eine „Farce“. Für Haushalte bleibt der Strompreis damit zunächst ohne diese Entlastung.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html",
-      "source": "tagesschau Inland",
-      "category": "Neue Gesetze & Fristen"
+      "title": "DHL: Päckchen in der Filiale ab Januar teurer",
+      "text": "Wer ein kleines DHL-Päckchen in der Postfiliale bezahlt, soll ab Januar 2027 einen Euro mehr zahlen. Auch schwere Pakete werden teurer. Für Sendungen an Packstationen plant DHL günstigere Tarife. Wer oft verschickt, spart also künftig am Automaten.",
+      "url": "https://nius.de/nachrichten/dhl-verteuert-den-paketversand-in-der-filiale",
+      "source": "NIUS",
+      "category": "Geld, Verträge & Versicherung",
+      "tipp": "Vor dem Jahreswechsel verschicken oder die Packstation nutzen, sobald die neuen Preise feststehen."
     },
     {
-      "title": "Bundestag beschließt Kita-Startchancengesetz",
-      "text": "Der Bundestag hat das Startchancengesetz beschlossen. Es sieht mehr Förderung für Kita-Kinder und verbindliche Tests vor, laut Süddeutscher Zeitung auch Sprachtests und mehr Personal für Kitas in schwierigen Lagen. Kritiker fragen, ob die Förderung mit weniger Geld reicht.",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kita-startchancengesetz-100.html",
-      "source": "tagesschau Inland",
-      "category": "Neue Gesetze & Fristen"
+      "title": "Kindergeld auch für nicht erwerbstätige EU-Bürger",
+      "text": "Der Bundesfinanzhof hat in zwei Urteilen entschieden, dass auch nicht erwerbstätige EU-Bürger Kindergeld bekommen können. Voraussetzung sind ein Aufenthaltsrecht und ausreichende Mittel. Das betrifft vor allem arbeitslose Zuwanderer aus der EU. Das Gericht ist der höchste in Steuer- und Kindergeldfragen. Aktenzeichen nennt die Meldung nicht.",
+      "url": "https://nius.de/politik/kindergeld-eu-buerger-bfh",
+      "source": "NIUS",
+      "category": "Urteile"
     }
   ],
   "entries": [
     {
-      "title": "Bundeskabinett beschließt nationale Gasreserve",
-      "summary": "Die Bundesregierung will damit die Gasversorgung in Krisensituationen sichern. Das Kabinett hat den Aufbau beschlossen.",
-      "url": "https://www.tagesschau.de/inland/gasreserve-126.html",
-      "source": "tagesschau Inland",
-      "category": "Neue Gesetze & Fristen"
+      "title": "VG Dresden: Grenzkontrollen zu Polen und Tschechien rechtswidrig",
+      "summary": "Laut der Überschrift von Legal Tribune Online hat das Verwaltungsgericht Dresden die Grenzkontrollen zu Polen und Tschechien für rechtswidrig erklärt. Für Pendler und Reisende ändert sich damit nicht automatisch etwas; Details und Folgen stehen im Originalartikel.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUEycUZVaGRzZG5EUnRmREVZVHkweGxtZkxLWFVabWRVeVVKcGV6bGlZeEI4dDU3TUVJazNXSS1MYk0zU1dzeEU5OXR3eDFad2hiT1BpcU5TT09Ca0VPbENYeWZ0TDRuZWZhUUxqcDNHT2p5a2J1MXlPVVZLdkhtWU5wd0tPSldXNF83dDlEVEF4VXFzTWNDOEhuMVhfY3BZTXRsYlVuMkNGRzMwM0M2NnN1X04?oc=5",
+      "source": "Legal Tribune Online",
+      "category": "Urteile"
     },
     {
-      "title": "Bundesregierung will Befristungen erleichtern",
-      "summary": "Laut Finanztip droht Beschäftigten damit längere Unsicherheit, weil Arbeitsverträge leichter befristet werden könnten. Es ist ein Plan, noch nicht beschlossen.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaElHcTBMOW5LRGRNZTZBeWtxOTJYS2ZoMllHblV2NWJWSjFBVG5YeENsWjlxY3BpM0hzd2ZIeDQ4LU9FOFRnUkZIQTMyeGp5RDdpMF9wQlRHUXJTeWxOVGIyMF9jWVJTdl9aNkV6QkZOaUpWdXBpUUZfeHN4YnFHYTZ5UFJ5QmRqT095RTdNMEVkRWhXalBkcWRUQUNhR0UybmM3R3NaRVlBVkE?oc=5",
-      "source": "Finanztip",
+      "title": "Mutterschutzlohn für stillende Flugbegleiterinnen ohne Zeitlimit",
+      "summary": "Stillende Flugbegleiterinnen, die wegen des Stillens nicht fliegen dürfen, haben laut Haufe Anspruch auf Mutterschutzlohn ohne zeitliche Begrenzung. Das zeigt, dass Arbeitgeber in solchen Fällen weiterzahlen müssen.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGl2NHpqSEdkaGgtNnYyenY0VjIzb3AwTzdVV2VtN2lkYWVpcVZSR2s5QXgzSnpzNWVESGtPMXZUNG8weF9LLXUydm8ycGZvSEJydTFhbHFnaDB4OHJHbi1SYkZOdzQ4UzRjclNzSkRUdXJtYWg2Y0liY3hxS2JCNVk2VFhEUHJzdE9FMmctZUtmVzhRTDdmc3VmbUJKV2J3ZTVMd0pncGQya1JlVFR6am5QeFRCYkxFbzBjVTd0T212R1pwbnM1Sg?oc=5",
+      "source": "Haufe. Intelligenz, die bewegt.",
       "category": "Arbeit & Digitales"
     },
     {
-      "title": "Verwaltungsgericht Dresden kippt Grenzkontrollen in zwei Fällen",
-      "summary": "Zwei Männer haben sich erfolgreich gegen Kontrollen bei der Einreise nach Deutschland gewehrt. Das Gericht erklärte die Kontrollen an der Grenze zu Polen und Tschechien in diesen zwei Fällen für rechtswidrig.",
-      "url": "https://nius.de/nachrichten/dresdner-gericht-erklaert-grenzkontrollen-zu-polen-und-tschechien-in-zwei-faellen-fuer-rechtswidrig",
-      "source": "NIUS",
-      "category": "Urteile"
-    },
-    {
-      "title": "BGH hebt Urteil zu 40.000 Euro Abfindung für Mieterin auf",
-      "summary": "Eine Mieterin verlangte nach der Schlüsselübergabe 40.000 Euro Abfindung vom Vermieter. Der Bundesgerichtshof hob das Urteil laut Bericht auf. Aktenzeichen nennt die Meldung nicht.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQWoxUktjYkU3NmFCUk44eWhEamZzV0NWVkhmbEFnTlZiZUU2S1Y5M0xzaElEQTRTN0pNU3dFRUtmNTgwand6VjZoTE1IQ29sbUxSQk9aS3dnRS0yLW1td1NHTXQ5ZndYdGhxWEFYc25ETzhzc3N4Y0Q0Rm1ya3dCTmF5WHk2LS1wcXRoMkFWRzl4cTJRVVlYRVJhNHdxUnZRQVhyQWotY2FHSTlZYW5wWlVsTzlmeE9CaUJGOGdjeWdGQUlRTnpKdFQ3bWhRUQ?oc=5",
-      "source": "Gegen Hartz IV",
-      "category": "Miete & Wohnen"
-    },
-    {
-      "title": "BGH: Händler zahlen 260 Euro nach Abmahnurteil",
-      "summary": "Laut etailment müssen Händler nach einem BGH-Urteil 260 Euro zahlen, obwohl sie teilweise Erfolg hatten.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbDc1TnBPMU91UFhSQ1V6eVhEZ2MyekZSTng5Y0VzSjlzTTdQajBEcW5fX0lOZGxKbFNHQWVrckFIY1N0em5DNlgzVUlxWUVuTjdNcTR0cERCcjVkV3NQb0ppcnJSM0JrUC1CMmN5V01TX2JQeFpIVGhlaTlINDFWcklmUzdtLUZpczZmb0pFNWVRQUVvaTdQVkNaMXBvd25fQWc?oc=5",
-      "source": "etailment",
-      "category": "Urteile"
-    },
-    {
-      "title": "VG Köln: Weihnachtsmarkt verdrängt 60 Parkplätze",
-      "summary": "Das Verwaltungsgericht Köln hat sich mit einem Weihnachtsmarkt befasst, der 60 Parkplätze verdrängt. Details zum Urteil stehen im frei lesbaren Teil nicht.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFZIcE9PUXdHX1VzMmRVRUl5YVJjRlN3cVdDUGFtMW11S1o4UE94a2xpRmhvTE9zMkZvZk1DbHdlS1dHODhWVWdUR1NSTWVtSDZkRmhoOTNnWW9jeTBaMnFSZ3J3MV9sY1g3YTB5NXVLTklpQ245M0pkYWZoMnI4TmZpQ29GX3MtZG51ZWlrbVJvR2JSOXppWEZ4TFg0OXR4TzFiZjNVbzkzMEd3VHB2TWxrTGh3YURyVzctVDJSQW1IZw?oc=5",
-      "source": "LTO.de",
-      "category": "Urteile"
-    },
-    {
-      "title": "Verbraucherzentrale warnt vor Kanalhaien",
-      "summary": "In Langenfeld warnt die Beratungsstelle vor unseriösen Kanalfirmen, die mit Schnäppchen locken und dann abkassieren.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVhDNElnMl8xZmJaRlI2SzVqWWF4ZTRYYVdkakhHLTFpWWtCVUZtSzdNZmRxbWJTNkRPWWJSVmdIN0hCYmRrQXN0M1ppYkhWWE9jN1JaYU5qUGdycmNGbmFvT1F6dWI2SUZJT2E1ZWF3WW9NbFpPZmUzZy1hR2xISjFtSEowUjNWbDlaejVtMkgxS1B2QXF0UVlZMlFYVXZOejhudzFDNlNOa0MwQmR2aVEtNWhKVFBfQXdrTg?oc=5",
-      "source": "RP Online",
-      "category": "Warnungen & Betrug",
-      "tipp": "Bei Haustür- und Telefonangeboten nichts sofort unterschreiben und Preise vergleichen."
-    },
-    {
-      "title": "Gefälschte Easybank-Mail ist hochgefährlich",
-      "summary": "Die Verbraucherzentrale warnt vor einer angeblichen Easybank-Mail. Sie ist laut Giga ein Phishing-Versuch (Betrug, der an Zugangsdaten will).",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanR3S0pRZ0NIM1JsWUJMSDZnUmVzWDBVYk4tVnkyR0VMTF9Obkdpam5tNnBSZVFUX0ZTSFFqd1VSR0FvVjdKcXRQTDlacVpQVWhyZjlETVhBZ2ZxQW05SzRXZXNwQnhpaGxsNmpPcHkwZWYyNVJoLWpZNDItZ2s0VjlSd2k4X2hhckFtMm5FZTBFX2ZJRjRndGZybEtnRUM2ZkV0b0E3V3ZjYjA4NzBlZS1RamxkakRwV0VDQkxlem1vNzlGNXpaXw?oc=5",
-      "source": "Giga",
-      "category": "Warnungen & Betrug",
-      "tipp": "Bei Bank-Mails nie auf Links klicken, sondern die Bank über die bekannte App oder Webadresse öffnen."
-    },
-    {
-      "title": "Glasfaser-Vertreter setzen an der Haustür unter Druck",
-      "summary": "Die Verbraucherzentrale warnt vor Druck von Glasfaser-Vertretern an der Haustür.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3MzVDR0S0NqM3Q5NmVxMnFONTJyVHRKY3V5dHVGUXI1SVhUWldUMTktOGh5bVc0d0hsd0d0YXRObTZSVGRKQ0R3MlQ1dEN4a3E3MHVRMzZTeEo3ZWM5R294ZnNHRlBwWGxaYUNIM2ZHeHBlczNwZzlaZVY3amZJWXJTeUlzMDhYczlSOUZ5OVRzZHNjVjREMnk5WW1DaE9w0gGmAUFVX3lxTE5pRU55OGVOZlpibkRoeXYxWUlkWVJXbFVxbENHaTBxeGtMWTNJRk9yQmRZdW44c0ZNdlJCMUJEU2JqeFVKbS1tOW8xQ1RUalFrbTRrTEw3c3FxQWszT1g4WjNwSzF4aDl1THREeVFRWDd1SzRSb21KXy1fT0NHZVpZcFlwNmZVcHZNS250Wmc5N1pjR042SkNDUVpGLTNaT251Y1VZZkE?oc=5",
-      "source": "inside digital",
-      "category": "Warnungen & Betrug"
-    },
-    {
-      "title": "Fakeshops locken mit billigem Brennholz",
-      "summary": "Der Beobachter warnt vor Betrügern, die mit günstigem Brennholz locken.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenpIdGlUdndEUTRnblBqM09MVlM1UTN2VmtOc1RJWFk5b0J1M2JyazBlV3pLSFE3b0ljZm12amFpMXVqa01hc2J5emtrVzZpYWZFRlZQcXk3X2VGZ0pQWWRRSUZpSXItRGFfLWRnMWM3YUtPTzVkelpOaXJWYUU3Z1YzbkNmb1p2Tks2UjlQdGJLZkIyQmdLNEJaOV8zUUxXeTdJcDBWNTFSdzM3?oc=5",
-      "source": "Beobachter",
-      "category": "Warnungen & Betrug"
-    },
-    {
-      "title": "Verbraucherzentrale zieht erneut gegen Trade Republic vor Gericht",
-      "summary": "Im Streit um Zinsen geht die Verbraucherzentrale laut procontra erneut gegen den Anbieter Trade Republic gerichtlich vor.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa1lMQk52QkVGRmdCN0g4aEFSVkFjSzJvb0s5cElpclVEYTN6UDFHaUNpU29KVS1CVUh4Y3lPSFBqRTdlS05xRXhacE5rbzJaeHU4ZllzdmtBZV9FaktSTU82MkZPYjZTZENUM0k5S3NHd3pDU0xHa0QzZTk0bFFCNXpSdGlvcWhiclh0cEJnYklGTU1Pa212ekNtekN2dEdTaDUzVXljeFIxMUNfQkpucUtFUzJlRjRRSVdXNjlVSU5oYVhMTUphM2liT3JpVzJ1RVJCWnFR?oc=5",
-      "source": "procontra",
+      "title": "Beitragsservice gleicht wieder Meldedaten ab",
+      "summary": "Der Beitragsservice von ARD und ZDF gleicht wieder Meldedaten ab, meldet die Verbraucherzentrale Niedersachsen. Wer umgezogen ist oder neu gemeldet wurde, kann Post zum Rundfunkbeitrag bekommen.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdXhLUkk5dHZDUlpIaS0xZUdXZ0NxSm5hYWhvVTU2V1VnV2RXS2ZlNGI5ZHBUcWlkQXFYRUlJMmxDa0JUNEh5cVRMdzdsQ21QSmJwTmpUaUNmTnVtWGYxYlJoZlZ5RmhGZVgxQ0t0VDFkRGJTVzVFTXkxczZSeVJyYjVZekc3V2hRc2llcm1XY3RGQ2l0dUpPNWZnOW5YUmhfX1h1XzdXem1JcXZiZ2tPMmFVczZkbEZHUEtJamwwdk9OeDl4cEhKMmgzbU5XdDlwc0tF?oc=5",
+      "source": "Verbraucherzentrale Niedersachsen",
       "category": "Geld, Verträge & Versicherung"
     },
     {
-      "title": "Riester-Rente: Sparkassen-Kunden könnten zu viel gezahlt haben",
-      "summary": "Laut inFranken.de könnten Kunden von Sparkassen bei der Riester-Rente zu viel gezahlt haben.",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPLUpkRHJmM1N6SjFaWk5aSTBJYnh1cXE5MEQ3N1dIS1NjeTBzZUpuMl9GVndRcnNmNEpzeUhwUm04NWZEUnUxbVM1Wm1zV0dVU2stSHA0UGpPZU04OVVqNXczSGZJTmV6cjc2aXhvaVhqT3VJcmNTVVpQUXFncWkxVlh6d2tYajRVcFRrVm9IWWRrWW9jcnQ5cTIxbUY1N0VnRXh0NGVhckQwZExvaWctanprMHZzQTk0b2RXRGU4cURxQUhaUHVGSW1ONE9sMkNIWUlqR2Z5Z0EyN281YmZLYV9naUU2ZlphaWhrZElLRVV6djdnWjAzZm0wMnFOUWQ5?oc=5",
-      "source": "inFranken.de",
+      "title": "Verbraucherzentrale BW erzielt Erfolge gegen untergeschobene Abos",
+      "summary": "Die Verbraucherzentrale Baden-Württemberg meldet einen doppelten Erfolg gegen untergeschobene Abos. Wer ungewollt ein Abo bekommen hat, sollte nicht zahlen und der Forderung schriftlich widersprechen.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUE5KdS1CS2pwSXQ2UjVIeHVtNTYtLVFpWnlSYUlXeVJPbWxfNG9Db0dCVEZOWXdkcHNKakxjY0NHWHd2dzB3Z3BDcXh3bU0zUDRXRlpGeHBHMTlNLXVHWkFyUFphak9hcTgycVJlYVRmQVFEaWpVZUx0Tk8xSk45ZVltZ0JZczE1ZFJEUzI4U002aE1Tb29vUVc1YWF0WDZpQ2dmSURuX0IwR05uM3Q0?oc=5",
+      "source": "Verbraucherzentrale Baden-Württemberg",
+      "category": "Warnungen & Betrug"
+    },
+    {
+      "title": "Verbraucherschützer werfen Aldi Süd unlauteren Wettbewerb vor",
+      "summary": "Verbraucherschützer sehen bei der App von Aldi Süd unlauteren Wettbewerb. Ob und wie das ausgeht, ist offen; nach der Überschrift geht es um die Gestaltung der App.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3NRX0JZMThZaXRQVXV1cjIzVGhocTJhNDlkUG4wa0Z3VDBhTWo3MTIwNUNfSzNpZDBkOXlvRl9YcnkwalI3SDZCenhXRTNEX3RqZUlEdkpsNHBkdExtTzFia0hUQU1hSDhlT0tPQWlkcmpURXB3ZklOTldsdEJZQW04b3M0eWF1dWd5cXd6bzlyOWhZajQyVDI1Y3JFTWF2LVpUTDFwSnN5enpiMWVOZWJnUGcyYXU2ZVI2dTV1cVlST0gtSlN3?oc=5",
+      "source": "Merkur",
       "category": "Geld, Verträge & Versicherung"
     },
     {
-      "title": "Test: Umweltfonds sind nicht alle nachhaltig",
-      "summary": "Die Stiftung Warentest hat Fonds für Wind, Wasser und Solar geprüft. Einige sind nachhaltig, viele andere nicht.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZS1RaWpQUHc3Z0I1Z09DOXZTQVV2RzNOdTRhYmtiMk1SbFhRejB4bC12MUJlWDJ5Z2xpYzY0dFhjNXdSemdjM0l2WTJXMWwtenBzeEdOMGJWalpxVFo5cGtlMjhvSlMySlRaRHhJQ1NyYWZDcUdMR2VNMlNnTC1RYnpxa3dfdmlzM0VPZkFQajRKV1VH?oc=5",
+      "title": "Betrugsmasche mit Bremer Vorwahl 0421",
+      "summary": "Die Verbraucherzentrale warnt vor einer Betrugsmasche mit Anrufen unter der Bremer Vorwahl 0421. Bei unbekannten Nummern nichts herausgeben und im Zweifel auflegen.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmhQWmpuZ3pCZnlSbUh3UE9QalFLNWdSN0hQZzFmaTFLeXd3RnFnWW9UZTBoX2Y5SlkxX0ZGUHZTbDVXakNlNDFVYXpiTzNCY1Nxd20yUUpzQlItOWl6R0ZST19KTmkwY2xvNHZZYTFvcXJudnlLUHlGYlhHQUI2X3d1RjF4QVZacGEtbnY4MDNVSEJFblkwV1hPMXEtclVMd3ZSbFhOeG56WVdJWmV1U3V0RG1tVEMzSkRMTHRZQzVpcjJxbW0teGtn?oc=5",
+      "source": "Wochenblatt Reporter",
+      "category": "Warnungen & Betrug"
+    },
+    {
+      "title": "Wildunfall: Wann die Versicherung zahlt",
+      "summary": "Die Stiftung Warentest erklärt, wann die Versicherung nach einem Wildunfall zahlt. Im Herbst und Winter sind Wildunfälle häufiger, daher lohnt ein Blick in den eigenen Vertrag.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Qc1pScnpNTjhGRlBwSHNqeV9Xcy1TeW40MXV5dHVHTHhHYnk2ZkN3WG9lNkpaTGo4Vm1ra3RuN29NUUlxS25zN0dlRE5lT2J2SGdhVGZn?oc=5",
+      "source": "Stiftung Warentest",
+      "category": "Geld, Verträge & Versicherung"
+    },
+    {
+      "title": "Sofortrente im Vergleich",
+      "summary": "Die Stiftung Warentest hat Sofortrenten verglichen. Der Beitrag richtet sich an Spätentschlossene, die eine zusätzliche Rente wollen. Das Ergebnis steht hinter der Bezahlschranke.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yYXU2TF9XcTFpdHU3Tzg2RC1WR0FEMF80MDFNbFd5OUxtTFFONFNLOXJPd0FhTng5dVpPcHJ6LTBxZzZMYnhQV2txTlRydHpBVzhyYjhxLTlMQ0gxRUJpbVVB?oc=5",
       "source": "Stiftung Warentest",
       "category": "Tests"
     }
