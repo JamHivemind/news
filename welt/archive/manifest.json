@@ -1,6 +1,31 @@
 {
   "briefs": [
     {
+      "date": "2026-11-14",
+      "file": "2026-11-14.html",
+      "headline": "Trump trifft Putin und Xi zum ersten Dreiergipfel",
+      "count": 16,
+      "sources": 7,
+      "cats": {
+        "Weltpolitik": 2,
+        "Krieg & Konflikte": 4,
+        "Wirtschaft & Handel": 3,
+        "Hafen & Schifffahrt": 3,
+        "Europa": 2,
+        "Katastrophen & Klima": 2
+      },
+      "ents": {
+        "Ukraine": 2,
+        "Russland": 2,
+        "Iran": 3,
+        "USA": 6,
+        "China": 2,
+        "EU": 3,
+        "Israel": 2,
+        "Gaza": 1
+      }
+    },
+    {
       "date": "2026-11-13",
       "file": "2026-11-13.html",
       "headline": "Ukraine: USA wollen Europa an den Verhandlungstisch holen",

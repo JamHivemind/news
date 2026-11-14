@@ -1,6 +1,30 @@
 {
   "briefs": [
     {
+      "date": "2026-11-14",
+      "file": "2026-11-14.html",
+      "headline": "ChatGPT Wallet: KI-Agenten kaufen für dich ein",
+      "count": 15,
+      "sources": 7,
+      "cats": {
+        "Tools & Agenten": 3,
+        "Regulierung & Politik": 2,
+        "Business & Funding": 4,
+        "Claude & Anthropic": 1,
+        "KI im Alltag & Beruf": 4,
+        "Forschung & Deep Tech": 1
+      },
+      "ents": {
+        "OpenAI": 3,
+        "Nvidia": 3,
+        "Anthropic": 3,
+        "Meta": 1,
+        "Amazon": 1,
+        "Microsoft": 1,
+        "Google": 2
+      }
+    },
+    {
       "date": "2026-11-13",
       "file": "2026-11-13.html",
       "headline": "Anthropic-Börsengang: sechsfach überzeichnet",
