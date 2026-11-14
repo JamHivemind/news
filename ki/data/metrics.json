@@ -1079,6 +1079,10 @@
    [
     "2026-11-12",
     623.61
+   ],
+   [
+    "2026-11-13",
+    641.69
    ]
   ]
  },
@@ -1091,41 +1095,41 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 6120,
+   "likes": 6297,
    "downloads": 21586,
    "task": "text-generation"
   },
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 1021,
+   "likes": 1028,
    "downloads": 437039,
    "task": "text-to-image"
   },
   {
    "id": "NousResearch/Arete-27B",
-   "likes": 555,
+   "likes": 558,
    "downloads": 5545,
    "task": "text-generation"
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 11789,
+   "likes": 11802,
    "downloads": 2778909,
    "task": "image-to-video"
   },
   {
    "id": "Qwen/Qwen3.8-27B",
-   "likes": 19885,
+   "likes": 19898,
    "downloads": 6960395,
    "task": "image-text-to-text"
   },
   {
    "id": "speridlabs/idol",
-   "likes": 2301,
+   "likes": 2304,
    "downloads": 31367,
    "task": "image-to-3d"
   }
  ],
- "updated": "2026-11-14T02:23:44.751Z",
+ "updated": "2026-11-14T03:45:11.561Z",
  "updatedDay": "2026-11-06"
 }
