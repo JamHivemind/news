@@ -1,119 +1,85 @@
 {
-  "date": "2026-11-13",
-  "intro": "In Hamburg verhärten sich die Fronten beim Elbtower, bundesweit sinkt das Risiko einer Preisblase weiter. Die Banken bleiben beim Gewerbemarkt vorsichtig.",
+  "date": "2026-11-14",
+  "intro": "In Hamburg geht es heute um Mieten und Bauen: Eine Taskforce prüft Verdachtsfälle von Mietwucher, und die erste Haltestelle der U5 steht im Rohbau. Bundesweit kommt die geplante Bundesbaugesellschaft einen Schritt voran.",
   "top": [
     {
-      "title": "Elbtower: Streit um das Hochhaus verschärft sich",
-      "text": "Der Bauunternehmer Lupp erhöht beim Elbtower den Druck und will den Baukran abbauen. Der Bürgermeister lehnt das ab. Laut Abendblatt wird eine Einigung nicht wahrscheinlicher, und es steht im Raum, dass das Hochhaus noch niedriger wird. Für die Hafencity bleibt das Wahrzeichen damit ein Sorgenkind.",
-      "url": "https://www.abendblatt.de/hamburg/politik/article413658858/verhaertete-fronten-beim-elbtower-wird-das-hochhaus-noch-niedriger.html",
+      "title": "Mietwucher: Hamburger Taskforce prüft Wohnungen",
+      "text": "Eine Taskforce in Hamburg geht gemeldeten Verdachtsfällen von Mietwucher nach. Mietwucher heißt, dass die Miete deutlich über dem ortsüblichen Niveau liegt. Geprüft werden vor allem Größe und Ausstattung der Wohnungen. Mieter mit überhöhter Miete können so auf Hilfe hoffen, Vermieter sollten ihre Angaben sauber belegen können.",
+      "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/mietwucher-taskforce-nimmt-wohnungen-ins-visier,hamj-16494.html",
+      "source": "NDR Hamburg",
+      "category": "Politik & Recht",
+      "tipp": "Mieter, die eine überhöhte Miete vermuten, können den Fall melden und Größe und Ausstattung der Wohnung dokumentieren."
+    },
+    {
+      "title": "U5: Erste Haltestelle in der City Nord im Rohbau",
+      "text": "Die Hochbahn hat Richtfest für die erste Haltestelle der neuen U-Bahn-Linie U5 gefeiert. Die Station in der City Nord steht im Rohbau, ebenso der Abschnitt bis zur Sengelmannstraße. Laut Abendblatt wirbt der Verkehrssenator zugleich um Verständnis für Großbaustellen. Für Büro- und Wohnlagen entlang der Strecke ist das ein sichtbarer Fortschritt.",
+      "url": "https://www.abendblatt.de/hamburg/politik/article413654072/erste-u5-haltestelle-in-hamburg-feiert-richtfest-tunnel-hat-sich-herausgeputzt.html",
       "source": "Hamburger Abendblatt",
       "category": "Bau & Projekte"
     },
     {
-      "title": "Risiko einer Immobilienblase sinkt weiter",
-      "text": "Der empirica-Blasenindex (misst, wie stark Preise von den Mieten und Einkommen abheben) fällt im dritten Quartal um vier Punkte. In 262 von 400 Kreisen und Städten bleibt das Risiko dennoch mäßig bis hoch. Für Käufer heißt das: Der Preisdruck lässt nach, aber nicht überall.",
-      "url": "https://www.immobilienmanager.de/risiko-einer-wohnimmobilienblase-sinkt-weiter-12112026",
-      "source": "Immobilien Manager",
-      "category": "Markt Deutschland"
-    },
-    {
-      "title": "540 neue Wohnungen nahe der Otto-Zentrale",
-      "text": "Das Abendblatt nennt das Projekt nahe der Otto-Zentrale ein Hamburger Rekordprojekt, das rasant wächst. Es entstehen 540 neue Wohnungen. Weitere Details stehen im frei lesbaren Teil nicht.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRnJvZ19hV2pqTWpjMFRkZHN5UExrRjQtZjQycVpWVHFRQktUcUFPWGVleVBDMVhNQlFxa2paMmVYNU1ueVphaXcxMUZPV0N5R1hfRWUySGNDSEdBVUowUlR4cDYwZzZjSkdjOEY1V0haWjhreGVvYXhuY2Y1Tm9qa0FPdldJUmxOeUdSY2w5bS0tQUFXWDlTekJJOXBWUG1vV2llWWNGdXBjVnN2cTItVW1YVUJaMTluS1FVdXFzTlV5NjZrM195NU44ZDR1VmpPOXE2SGRTMWJyUQ?oc=5",
-      "source": "Hamburger Abendblatt",
-      "category": "Wohnungsmarkt Hamburg"
+      "title": "Bundesbaugesellschaft für bezahlbares Wohnen soll 2027 starten",
+      "text": "Die geplante Wohnungsbaugesellschaft des Bundes soll im Jahr 2027 an den Start gehen. Sie soll bezahlbaren Wohnraum schaffen. Details nennt die Quelle im frei lesbaren Teil nicht. Für die Branche ist wichtig, ob sie neben privaten Bauherren und städtischen Gesellschaften als zusätzlicher Akteur auftritt.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUF1U3I1MzUxbmNFOUliMUJCNTBCZGl1TjVVV0R1eDJGaDdKVUtuc1JtRFhzQTNPOXNkejFUM3ZuQndReloyQnpzbFM3NVJpWm5DblczQlJnNkFHRnB5MVFxOWlPUURrTWw2akJSX210MTQ2RDZSa1l4eEJjbDBvM045RUlOTmk1RUczQ0l0dmhaMUZ0TER4dDh6NTNBdnpVbU1xZThVbVJ6MjA?oc=5",
+      "source": "Immobilien Zeitung",
+      "category": "Politik & Recht"
     }
   ],
   "entries": [
     {
-      "title": "Pendler-Rechnung: Wo das Umland günstiger ist",
-      "summary": "Sechs Orte im Hamburger Umland punkten laut Abendblatt deutlich gegenüber der Stadt. Die Preisvorteile sind teils erst nach mehr als 80 Jahren durch Fahrtkosten aufgezehrt.",
-      "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413629497/immobilienkauf-im-hamburger-umland-wo-es-sich-fuer-pendler-wirklich-rechnet.html",
-      "source": "Hamburger Abendblatt",
+      "title": "Abrisshaus Holstenstraße: Frist verstrichen",
+      "summary": "Der Eigentümer des teilweise abgerissenen Hauses in Altona hat eine behördliche Frist zum Schutz der offenen Fassade verstreichen lassen. Ihm droht eine Geldstrafe, die früheren Bewohner demonstrieren vor Ort.",
+      "url": "https://www.ndr.de/nachrichten/hamburg/teilruine-in-der-holstenstrasse-eigentuemer-laesst-frist-verstreichen,holstenstrasse-134.html",
+      "source": "NDR Hamburg",
       "category": "Wohnungsmarkt Hamburg"
     },
     {
-      "title": "15 Hamburger wohnen jetzt in einem Büro",
-      "summary": "Ein Bürogebäude mit Blick auf Elbtower und Hafen wird laut Abendblatt bereits bewohnt: 15 Menschen leben dort.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSTJfQ096cWFUMnppQmNnUjVmSTJENFFuZTFWeGZlUmhGeERrU3RLY2tGQWJxek1sdHpWSXRScU1FbmR3ZWRMalNxV0NkS0UzWWxTTDNLMW9lcFVOazZVQjBHbG0tVjJ6T0RrMW5KdDI2anBWYzhUMFhaZG1ubk9ERkEwcnd6akpfTVcwQVU0VE1ydTFkWXNySjhSMHVKMjl1TGMwR3NHMGNkdHduRnpZdVU0OGVQZnF1RTRYcjk5TlJTV0dYX3JsOTlSQTEwdFVVd1pMWllXdjU1R2M?oc=5",
+      "title": "Boomtown Bergedorf? Zukunft des Bezirks",
+      "summary": "Das Abendblatt blickt auf Innovationspark, Oberbillwerder, das alte Körber-Areal und die neue Innenstadt. Es fragt, wo Bergedorf in zehn Jahren steht und was schiefgehen kann.",
+      "url": "https://www.abendblatt.de/hamburg/bergedorf/article413657086/boomtown-bergedorf-wie-unternehmer-in-die-zukunft-des-bezirks-blicken.html",
       "source": "Hamburger Abendblatt",
-      "category": "Büromarkt Hamburg"
+      "category": "Bau & Projekte"
     },
     {
-      "title": "pbb: Neugeschäft wächst auf 4,5 Milliarden Euro",
-      "summary": "Die Immobilienbank pbb legt nach neun Monaten um 14 Prozent zu. Beim Gewinn vor Steuern rechnet sie für 2026 mit dem unteren Ende ihrer Prognose.",
-      "url": "https://www.immobilienmanager.de/pbb-steigert-neugeschaeft-auf-4-5-milliarden-euro-12112026",
-      "source": "Immobilien Manager",
-      "category": "Zinsen & Finanzierung"
+      "title": "S4: Verzögerungen durch Sanierung drohen",
+      "summary": "Beim Bau der S-Bahn-Linie S4 zwischen Hamburg und Ahrensburg drohen Verspätungen und höhere Kosten, weil Bauarbeiten nicht gut abgestimmt sind. Für das Umland bleibt die Anbindung damit unsicher.",
+      "url": "https://www.abendblatt.de/hamburg/politik/article413673387/s4-bau-zwischen-hamburg-und-ahrensburg-verzoegerungen-durch-sanierung-drohen.html",
+      "source": "Hamburger Abendblatt",
+      "category": "Bau & Projekte"
     },
     {
-      "title": "pbb blickt pessimistisch auf den Immobilienmarkt",
-      "summary": "Die Deutsche Pfandbriefbank bewertet die Lage am Immobilienmarkt laut MarketScreener pessimistisch.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN2tTV2dPc1NSbUM1M2I4NDlnUjJseWVlTTg5X0xmNENaTjdyYllKa3IxRy0yYWlCUEVUdjZjRUVJQjJmUVRHajgtMUF2OEdhYzljTGlaWHdCQXFZRkJ1Z05leTZFZU9aWE1OeUd2UHhTaDl3Z1lxMmJ1dngyNlRmRDFFdnFlRWVGT05GSTBZWWN5aWV4LUFIRFVkZDBXeDZ2S3VmTmJGaUc1Vi1ROWlVY2RHRTE3SF9XS1p6Z1Q3aDBvWkJMNVRNcDREb3BBTzl6M3Jn?oc=5",
-      "source": "MarketScreener Deutschland",
-      "category": "Markt Deutschland"
-    },
-    {
-      "title": "Allianz senkt Bauzinsen",
-      "summary": "Die Allianz verbilligt ihre Baukredite. Die Berliner Morgenpost rechnet vor, was die Senkung für Kreditnehmer ausmacht.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNS05NjBHZXRCb2dUdVJhTl9CZnk5WXZnLXUtWXc3WDR0bmY5WlVGQl8xbTNiZ3UxWjBCckRkQjNTaGhnXzdCdVdVcFRvRXI1a1U4YTE3ZVdRVnNTNDNGY01IekVPZHNRai0xalFxM1lxT3c3YUNwMl93Y05fcHBwNG9aUWJReE1aMUlIWXhtYUx3UG5wcXdlYU8yNVdVaVp6THo0VjNZUWRsVTZFaExxRHhtTlhTcERGNVdEYjNTZUVpOUM0UTJab2xDOU5zYWp4?oc=5",
-      "source": "Berliner Morgenpost",
-      "category": "Zinsen & Finanzierung"
-    },
-    {
-      "title": "Stimmung bei Gewerbeimmobilien trübt sich weltweit ein",
-      "summary": "Die Erwartungen am Markt für Büros, Handel und Logistik sinken weltweit, meldet die Immobilien Zeitung.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWnhHOEt5M2hwMGtxZlJsNXZETnNPWERTVWh0dU1NQmdpZmpOLUhxSjFza1c3X29KZWplVkczYms4dlJXSEpnN2gyNTJ4UFRDd2NOUjRPbmxMZ3dMeXJSWHNjT1hKYnUyX3VUX05qcmE1OUY3cWtpMXlickJhZ2hmcURtUzJOaHhvRUt4bnAwNDJHRE8wUW5oQl9OUlBKUFZOcWVuaG13?oc=5",
+      "title": "Empirica erwartet steigende Mieten und fallende Kaufpreise",
+      "summary": "Das Forschungsinstitut Empirica rechnet laut Schlagzeile mit steigenden Mieten und sinkenden Kaufpreisen für Wohnungen und Häuser. Der Artikel ist nur als Teaser sichtbar.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZy1MYzFkWFhva2RtekZWZnpoMG00alJtOFZEdmxZX191VXhVYjB2dW01NFE1aFhXQnpxdDlrbldXVDlSWkF1OURBMWV5endYcFZXYnUxXzd5cU1wSlc3elZON3VWNk9Oc1RHbmRqQjZZMmFnX3paeEp2RGt5TTRCX0ZQNlNzTEJxLUNCTm14Zl80ZnRRd180enhmcGduRWpuckE?oc=5",
       "source": "Immobilien Zeitung",
       "category": "Markt Deutschland"
     },
     {
-      "title": "Große Deals tragen den Logistikmarkt",
-      "summary": "Am Logistikmarkt sorgen nach Angaben der Immobilien Zeitung vor allem einzelne Großabschlüsse für die Umsätze.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVZBaWtYSEcxTFNMQnRtU0RmdmRxRFp1ZFBLdVBkdnB4cklUcVR1RUNUd1dqMEFYc3hyUkZVMW5VNmg1SFdRa0VoSmIxMWZtbTdhaXY4ejk4VFRXbWs4TXAyT05FR3djeG1Td3NpVC1Yd1JrWHRMcHZoU2Q4azJ3Vm1ILWpxRGc?oc=5",
+      "title": "Bayernheim plant 350 geförderte Wohnungen in München",
+      "summary": "Die staatliche Wohnungsgesellschaft Bayernheim will in München 350 geförderte Wohnungen bauen. Das ist ein Beispiel für öffentlich getragenen Wohnungsbau in einer teuren Großstadt.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXFpSXpyWFNncU5rQS1tV3NPQjRlMGxTX0ZLRGo0UjZ4UDlDSGpmNzRmR0RjZW4yZUpNR29KZ3lEY1NGMmg3VnBOeVU0VXdPbVlYWk45SFNieHhVMEVpaWN0MllIRVdwRlhKZlhhcV9ONWNYNGxVeVF0UDV3XzY0OHlHNlVITFdkWUMzakMtUE4yWk9QTVItUWp0ZGRacVk?oc=5",
       "source": "Immobilien Zeitung",
-      "category": "Markt Deutschland"
+      "category": "Bau & Projekte"
     },
     {
-      "title": "Aareal Bank stockt Risikovorsorge auf",
-      "summary": "Die auf Gewerbeimmobilien spezialisierte Aareal Bank legt mehr Geld für mögliche Kreditausfälle zurück.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHlqSWlTSGtGdkJ3NDVBc0x2SXQ2WDVfU2tCWDhjNzFzYmU5dDdNV05WWjVyTm1qcHZhU2ExbjIyUkJSck53TTFEV0VzTC1TMW1OUVo0UkRLc3EzbWhJNnVlTHhBWVNXbWhBWXFlX0ZNZnZ0TE1Bal95eTA3eEVhS3VHQlhMRHJ4aV9ncQ?oc=5",
+      "title": "Augsburg setzt auf Bauturbo",
+      "summary": "Augsburg nutzt den Bauturbo, ein Gesetz für schnellere Genehmigungen, und will flexiblere Vorgaben machen. Ziel ist, schneller Wohnraum zu schaffen.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE8xMjlzQldfWVc0dXQ2Z3Y3T19sLVBjQkxkcExya3RieTZZUnVCNFp5SVpMSnVxXzgwelB6VHR1VjROOTY4Uk9haEk2bC1XSGNiZ2NiWDN2ZU1WZmZZZlVkaVc5T2sxRmtpdmNPbmpKdE1lYmI3Y0NCX0RBT3Btckk2bHE4TWZGRmFxT2s4cmJvV1NvbFNMWEdn?oc=5",
       "source": "Immobilien Zeitung",
-      "category": "Unternehmen & Deals"
+      "category": "Politik & Recht"
     },
     {
-      "title": "LEG hält Kurs aufs Jahresziel",
-      "summary": "Der Wohnungskonzern LEG peilt trotz widriger Umstände weiter sein Jahresziel an, schreibt die Immobilien Zeitung.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1lUUEZsdDR0V0RhcDkzSENjTS1PYWhEMzV1RFBUcG5zYi1NOEFEVy1QQzRSak9FODM0eEt5SklwOFdMMGJBV2xKSGdIbTVWX3MwSFU4STkxRmx2YmRFT1hqdTNRZWhuMjB4cktmak9abWZKQ29DMkxERXZWaHJJVEI2WDljczEzSWk0dWFQRHp6OWItWE91dHJBa0Q?oc=5",
-      "source": "Immobilien Zeitung",
-      "category": "Unternehmen & Deals"
-    },
-    {
-      "title": "Berliner Büromarkt: keine Entwarnung für 2027",
-      "summary": "Großabschlüsse beleben den Markt in Berlin, der Wettbewerb um Mieter bleibt aber intensiv.",
-      "url": "https://www.konii.de/news/berliner-bueromarkt-keine-entwarnung-fuer-2027/",
+      "title": "Balfin kauft Tietz-Haus in München",
+      "summary": "Die Investmentgruppe Balfin hat die Tietz-Immobilie gegenüber dem Münchner Hauptbahnhof gekauft und steigt damit in den deutschen Markt ein. Geplant ist ein Umbau zu einem gemischt genutzten Standort.",
+      "url": "https://www.konii.de/news/balfin-group-erwirbt-tietz-immobilie-in-muenchen-und-tritt-in-den-deutschen-markt-ein/",
       "source": "konii",
-      "category": "Markt Deutschland"
-    },
-    {
-      "title": "Energiekosten: Winterrisiken belasten Immobilienportfolios",
-      "summary": "Nach starken Preisanstiegen im Oktober gaben die Energie-Terminmärkte Anfang November nach. Hohe Spotpreise und begrenzte Gasspeicher erhöhen laut Energiemarktbericht den Kostendruck.",
-      "url": "https://www.konii.de/news/energiemarkt-terminmaerkte-geben-nach-winterrisiken-erhoehen-kostendruck-auf-immobilienportfolios/",
-      "source": "konii",
-      "category": "Markt Deutschland"
-    },
-    {
-      "title": "Principal verkauft Bürohaus im Duisburger Innenhafen",
-      "summary": "Das fast vollständig vermietete Gebäude mit rund 13.000 Quadratmetern gehört zum Ensemble „H2-Office“.",
-      "url": "https://www.immobilienmanager.de/principal-verkauft-buerohaus-im-duisburger-innenhafen-12112026",
-      "source": "Immobilien Manager",
       "category": "Unternehmen & Deals"
     },
     {
-      "title": "Panattoni vermietet zwei Logistikhallen in Könnern",
-      "summary": "Ein Textildienstleister mietet zwei Hallen mit zusammen rund 67.800 Quadratmetern im Logistikpark Halle (Saale) Nord.",
-      "url": "https://www.immobilienmanager.de/panattoni-meldet-grossabschluss-mit-textildienstleister-12112026",
-      "source": "Immobilien Manager",
+      "title": "Greenman OPEN verkauft sieben Supermarkt-Immobilien an PGIM",
+      "summary": "Der Fonds Greenman OPEN verkauft ein Portfolio mit 38.396 Quadratmetern Mietfläche in Berlin, Rhein-Ruhr, Stralsund und Magdeburg an PGIM. JLL beriet den Verkäufer.",
+      "url": "https://www.konii.de/news/greenman-open-verkauft-sieben-lebensmittelgeankerte-immobilien-in-deutschland-an-pgim/",
+      "source": "konii",
       "category": "Unternehmen & Deals"
     }
   ]
