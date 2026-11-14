@@ -1,122 +1,113 @@
 {
-  "date": "2026-11-13",
-  "intro": "Anthropic steht vor dem Börsengang und Nvidia verliert seinen Chef. Google bringt außerdem ein neues, günstiges Gemini-Modell in die Suche.",
+  "date": "2026-11-14",
+  "intro": "OpenAI lässt seine KI-Agenten künftig mit einer Wallet für Nutzer einkaufen, und neue Belege sprechen dafür, dass China trotz Verbots Nvidia-Chips nutzt. Rund um den Anthropic-Börsengang bleiben chinesische Anleger draußen.",
   "top": [
     {
-      "title": "Anthropic-Börsengang: sechsfach überzeichnet",
-      "text": "Laut Bloomberg übersteigt die Nachfrage nach Anthropic-Aktien das Angebot etwa um das Sechsfache. Der Handel soll am Donnerstag, 19. November, beginnen. Die begleitenden Banken drängen laut t3n auf einen höheren Ausgabepreis von 83 Dollar. Für Anleger ist es der erste große Börsengang eines reinen KI-Unternehmens.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0pUQzVjV3ltd2hkZ29PSjdjWElOb3dmUlNPSG5HMC01V1EzSnlQdUl0Tm9WNnhJdktOamVLa1JWOTF5SGJZYTFrNWpBbElkc1lGUklCUUNVLXhHNWM1M0JmaHZTTmVaODlldER3Ulc3Q19zVGtOUDl1NzdCQWNuYkR5LWRVcXFUOGFTQXFDUDlTb2VLVzE3Z1M2dnlfeFFwSVV0MEpNNzExRHNxTlpsZGcyTlE1bE5LbEdLNGVtczd3M2hra1E?oc=5",
-      "source": "Reuters",
-      "category": "Business & Funding"
+      "title": "ChatGPT Wallet: KI-Agenten kaufen für dich ein",
+      "text": "OpenAI startet die ChatGPT Wallet. Damit können KI-Agenten (Programme, die Aufgaben selbstständig erledigen) für ihre Nutzer bezahlen. Man hinterlegt eine Karte und bestätigt jeden Kauf per Face ID oder Fingerabdruck. Der Start ist begrenzt: Zunächst bekommen ihn nur ChatGPT-Pro-Kunden in den USA, in Deutschland ist er noch nicht verfügbar.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI News",
+      "category": "Tools & Agenten"
     },
     {
-      "title": "Nvidia-Chef Jensen Huang tritt zurück",
-      "text": "Huang ist mit sofortiger Wirkung als Chef des Chipherstellers Nvidia zurückgetreten, nachdem eine zweite Affäre bekannt wurde. Finanzchefin Colette Kress führt das Unternehmen vorerst. Nvidia liefert die Chips für fast alle großen KI-Modelle, daher beobachten Politik und Branche den Wechsel genau.",
-      "url": "https://the-decoder.de/nvidia-chef-huang-gestuerzt-finanzchefin-kress-uebernimmt-vorerst/",
+      "title": "Chinas Top-KI läuft offenbar auf gesperrten Nvidia-Chips",
+      "text": "Ein früherer OpenAI-Forscher will belegt haben, dass mehrere chinesische KI-Firmen ihre Modelle auf Nvidias neuesten Chips trainiert haben, obwohl die USA deren Export verbieten. Seine Methode liest typische Chip-Spuren aus den veröffentlichten Modelldaten. Das Ergebnis stammt von einer Einzelperson und ist noch nicht unabhängig bestätigt. Es dürfte die Debatte um schärfere Exportkontrollen anheizen.",
+      "url": "https://the-decoder.de/ex-openai-forscher-will-nutzung-sanktionierter-nvidia-chips-in-chinesischen-top-ki-modellen-nachgewiesen-haben/",
       "source": "The Decoder",
-      "category": "Business & Funding"
+      "category": "Regulierung & Politik"
     },
     {
-      "title": "Google bringt Gemini 4 Hydrogen in die Suche",
-      "text": "Google startet das neue Modell Gemini 4 Hydrogen weltweit in der Suche. Es soll verschachtelte Fragen und Tippfehler besser verstehen und visuellere Antworten liefern. Laut The Decoder löst es das bisherige Flash-Modell ab und ist günstiger als das größere Argon.",
-      "url": "https://the-decoder.de/google-stellt-gemini-4-hydrogen-vor-schnelles-ki-modell-fuer-den-alltag-fuer-weniger-geld/",
+      "title": "Anthropic-Börsengang: Chinesische Anleger bleiben draußen",
+      "text": "Beim geplanten Börsengang von Anthropic dürfen laut Bloomberg keine Anleger aus Festlandchina und Hongkong Aktien zeichnen. Banken lehnen entsprechende Kaufaufträge ab und verweisen auf US-Exportvorschriften. Schon beim SpaceX-Börsengang galten ähnliche Einschränkungen. Anthropics Produkte sind in beiden Regionen ohnehin nicht verfügbar.",
+      "url": "https://the-decoder.de/nach-spacex-vorbild-auch-beim-anthropic-ipo-bleiben-chinesische-bieter-aussen-vor/",
       "source": "The Decoder",
-      "category": "Modelle & Releases"
+      "category": "Business & Funding"
     }
   ],
   "entries": [
     {
-      "title": "Claude Meetings: Claude nimmt an Videocalls teil",
-      "summary": "Claude tritt als sichtbarer Teilnehmer in Videokonferenzen auf und erstellt live Protokolle, Dokumente und Whiteboards. Zunächst gibt es eine Beta für Team- und Enterprise-Tarife auf Google Meet.",
-      "url": "https://the-decoder.de/claude-meetings-anthropic-laesst-claude-als-teilnehmer-an-videoanrufe-andocken/",
-      "source": "The Decoder",
-      "category": "Claude & Anthropic"
-    },
-    {
-      "title": "Claude for Manufacturing gestartet",
-      "summary": "Anthropic bringt ein eigenes Claude-Angebot für Industrieunternehmen auf den Markt, kurz vor dem Börsengang.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWRmQ1BneGdsLUtIeUJmSS1HeUpjVnRib1o1cnJOamNsV3k1aGNFZnR4X0J2ZjdxR1VfcGg4VUt0dHBNWlQ1SDJXRDREaDZwYk80clNHVGdoeG5icjFOdFFHUmNQLWtYOV9RWkRudWRlQ3cyQzNRdVQyRllBalFjUlEtQ0Y5RnFnV1VNbmE4ckFDc1ZK?oc=5",
-      "source": "Manufacturing Dive",
-      "category": "Claude & Anthropic"
-    },
-    {
-      "title": "Klage will Entwicklung der stärksten KI-Modelle stoppen",
-      "summary": "Gemeinnützige Organisationen verklagen laut Reuters unter anderem OpenAI, Google und Anthropic. Sie wollen die Entwicklung der leistungsfähigsten KI-Systeme anhalten lassen.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
-      "source": "Reuters",
-      "category": "Regulierung & Politik"
-    },
-    {
-      "title": "Australien plant Pflichtprüfungen für KI-Konzerne",
-      "summary": "Die Regierung will die größten KI-Firmen gesetzlich zu unabhängigen Modellprüfungen und Sicherheitskontrollen verpflichten. Eine neue Aufsichtsbehörde soll das überwachen.",
-      "url": "https://the-decoder.de/australien-will-frontier-ki-firmen-zu-unabhaengigen-pruefungen-und-sicherheitskontrollen-zwingen/",
-      "source": "The Decoder",
-      "category": "Regulierung & Politik"
-    },
-    {
-      "title": "United Airlines sperrt KI-Agenten beim Buchen",
-      "summary": "Die Fluggesellschaft erlaubt nicht autorisierten KI-Agenten keine Buchungen mehr. Genannt werden Sicherheitsbedenken, aber auch wirtschaftliche Interessen.",
-      "url": "https://www.heise.de/news/United-Airlines-untersagt-KI-Agenten-das-Buchen-von-Fluegen-11523122.html",
-      "source": "heise online",
-      "category": "Tools & Agenten"
-    },
-    {
-      "title": "Google und Samsung bringen KI-Brillen im Dezember",
-      "summary": "Die ersten gemeinsamen KI-Brillen kommen im Dezember ab 395 US-Dollar auf den Markt. Ein Start in Europa ist noch nicht angekündigt.",
-      "url": "https://www.heise.de/news/Googles-KI-Brillen-starten-im-Dezember-ab-395-US-Dollar-11523374.html",
-      "source": "heise online",
-      "category": "KI im Alltag & Beruf"
-    },
-    {
-      "title": "Chatbots empfehlen gefälschte Online-Shops",
-      "summary": "Eine Studie zeigt: Wer sich von KI-Chatbots Einkaufsquellen nennen lässt, landet teils bei Fake-Shops oder riskanten Seiten. Im Test waren unter anderem Gemini, ChatGPT und Perplexity.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "title": "Claude Duet: Anthropics KI-Agent für Nicht-Programmierer",
+      "summary": "The Verge hat Claude Duet getestet, Anthropics KI-Agent für Privatnutzer ohne Programmierkenntnisse. Das Fazit fällt gemischt aus: etwas eigenwillig im Verhalten, aber überraschend hilfreich.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
       "source": "The Verge AI",
-      "category": "KI im Alltag & Beruf"
+      "category": "Claude & Anthropic"
     },
     {
-      "title": "Work-Slop: KI-Zwang im Büro bringt Mehrarbeit",
-      "summary": "Wenn Chefs KI-Einsatz erzwingen, entstehen laut t3n oft oberflächliche, schlecht geprüfte Arbeitsergebnisse („Work-Slop“). Einige Firmen rudern schon zurück.",
-      "url": "https://t3n.de/news/ki-slop-am-arbeitsplatz-chefs-konsequenzen-1773193",
+      "title": "SpaceX verdient ein Drittel seines Umsatzes mit Anthropic",
+      "summary": "Rund ein Drittel der SpaceX-Einnahmen stammt inzwischen von Anthropic. Damit ist die US-Regierung nicht mehr der größte Kunde des Raumfahrtkonzerns.",
+      "url": "https://t3n.de/news/spacex-strategiewechsel-anthropic-ki-nasa-1770765",
       "source": "t3n",
-      "category": "KI im Alltag & Beruf",
-      "tipp": "Prüfe KI-Entwürfe immer selbst, bevor du sie weitergibst."
+      "category": "Business & Funding"
     },
     {
-      "title": "Diktieren statt Tippen mit kostenlosen Tools",
-      "summary": "t3n stellt drei Open-Source-Programme zur Spracherkennung vor, mit denen sich Texte per Stimme schreiben lassen.",
-      "url": "https://t3n.de/news/diktieren-statt-tippen-diese-3-kostenlosen-ki-tools-machen-es-moeglich-1773040",
-      "source": "t3n",
-      "category": "KI im Alltag & Beruf",
-      "tipp": "Probiere eines der Diktier-Tools für eine E-Mail aus, statt sie zu tippen."
-    },
-    {
-      "title": "Cyberangriff auf Fireworks AI trifft Notion-Kunden",
-      "summary": "Hacker konnten über einen Angriff auf den KI-Dienstleister Fireworks AI Chatverläufe von Notion-Kunden einsehen. Es ist der zweite Datenvorfall bei Fireworks in zwei Monaten.",
-      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-      "source": "TechCrunch AI",
+      "title": "OpenAI startet Sicherheitsprodukte unter der Marke Daybreak",
+      "summary": "OpenAI steigt mit zwei neuen Produkten in das Geschäft mit IT-Sicherheit ein. Sie laufen unter dem Namen Daybreak. Details nennt die Meldung bisher kaum.",
+      "url": "https://the-decoder.de/openai-steigt-mit-daybreak-ins-cybersecurity-geschaeft-ein/",
+      "source": "The Decoder",
       "category": "Tools & Agenten"
     },
     {
-      "title": "Nebius plant 40 Milliarden Dollar für KI-Rechenzentren",
-      "summary": "Der Cloud-Anbieter will den Ausbau mit Kundenvorauszahlungen und Krediten finanzieren. Verzögerungen bei einem Microsoft-Rechenzentrum werfen Fragen zu diesem Modell auf.",
-      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "title": "Metas KI-Agent Muse ruft für Nutzer bei Firmen an",
+      "summary": "Muse kann für zahlende Abonnenten in den USA bei Unternehmen anrufen, vom Kabelanbieter bis zum Restaurant. Laut Meta nutzen den Agenten über 10 Millionen Menschen. Viele Firmen legen allerdings auf, sobald sie eine KI erkennen.",
+      "url": "https://the-decoder.de/metas-ki-agent-muse-greift-fuer-us-nutzer-zum-hoerer/",
+      "source": "The Decoder",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "LangChain erreicht 3 Milliarden Dollar Bewertung",
+      "summary": "Das Start-up hinter LangSmith, einem Werkzeug zur Verwaltung von KI-Agenten, wird mit 3 Milliarden Dollar bewertet. Es nennt 7.000 Kunden. Das zeigt, wie gefragt Software für den Betrieb von Agenten in Firmen ist.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "source": "TechCrunch AI",
       "category": "Business & Funding"
     },
     {
-      "title": "AlphaGenome 2 liest DNA zelltypspezifisch",
-      "summary": "Google DeepMind stellt ein KI-Modell vor, das genetische Varianten gezielt für einzelne Zelltypen bewertet statt pauschal. Es soll helfen, Krankheiten besser zu verstehen.",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "source": "Google DeepMind",
-      "category": "Forschung & Deep Tech"
+      "title": "Huangs Abgang verunsichert KI-Start-ups",
+      "summary": "Nvidia hat unter Jensen Huang zig Milliarden in KI-Start-ups gesteckt. Gründer und Investoren rechnen laut TechCrunch nun mit kleineren Finanzierungsrunden und niedrigeren Bewertungen.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI",
+      "category": "Business & Funding"
     },
     {
-      "title": "Elevenlabs bringt Scribe v3 für Echtzeit-Transkription",
-      "summary": "Die neuen Spracherkennungsmodelle sollen auch bei Hintergrundgeräuschen und durcheinanderredenden Sprechern genauer mitschreiben und Anrufer nicht mitten im Satz unterbrechen.",
-      "url": "https://the-decoder.de/elevenlabs-senkt-mit-scribe-v3-und-v3-live-die-fehlerrate-bei-der-spracherkennung/",
-      "source": "The Decoder",
-      "category": "Modelle & Releases"
+      "title": "ElevenLabs bringt Notiz- und Diktier-App für Teams",
+      "summary": "ElevenAI schreibt Meetings mit und kann Texte nach Diktat erfassen. Die App richtet sich an Teams und Unternehmen.",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch AI",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "Nvidia könnte Chips orten, hieß es intern",
+      "summary": "Nvidia soll einem US-Abgeordneten bestätigt haben, dass Schutzmaßnahmen gegen Chip-Schmuggel technisch machbar wären. Ein Branchenverband nannte sie öffentlich kaum umsetzbar. Es geht um Auflagen des geplanten Chip Security Act.",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "category": "Regulierung & Politik"
+    },
+    {
+      "title": "Amazon lässt Tausende KI-Agenten ein Tool programmieren",
+      "summary": "Amazon hat ein Werkzeug veröffentlicht, das komplett von KI-Bots geschrieben wurde. Viele Entwickler reagieren laut heise ablehnend.",
+      "url": "https://www.heise.de/news/Das-ist-bedauerlich-Amazon-laesst-Tausende-KI-Agenten-programmieren-11523014.html",
+      "source": "heise online",
+      "category": "Tools & Agenten"
+    },
+    {
+      "title": "Microsoft-365-Störung legt auch Copilot lahm",
+      "summary": "Ein weltweiter Ausfall betraf Exchange Online, Teams, SharePoint und den KI-Assistenten Copilot. Der E-Mail-Zugriff läuft laut heise inzwischen wieder an. Wer auf Cloud-Dienste angewiesen ist, sollte für solche Ausfälle einen Plan haben.",
+      "url": "https://www.heise.de/news/Microsoft-Cloud-Ausfall-E-Mails-weiterhin-nicht-zugreifbar-11524008.html",
+      "source": "heise online",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "\"Hey Gemini\" ersetzt bald \"Hey Google\"",
+      "summary": "Google gibt einem ersten smarten Produkt ein neues Aktivierungswort für Gemini. Weitere Geräte könnten folgen. Welches Gerät es ist, steht im Artikel.",
+      "url": "https://t3n.de/news/hey-gemini-aktivierung-google-1773438",
+      "source": "t3n",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "KI-Agenten haben keine neue Maya-Stätte entdeckt",
+      "summary": "Ein Google-Forscher behauptete, mit KI-Agenten eine unbekannte Maya-Stätte in Mexiko gefunden zu haben. Sie war aber schon im Vorjahr in einer Fachzeitschrift beschrieben worden. Der Fall zeigt, wie wichtig es ist, KI-Funde zu prüfen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "source": "The Verge AI",
+      "category": "Forschung & Deep Tech"
     }
   ]
 }
