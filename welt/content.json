@@ -1,19 +1,50 @@
 {
-  "date": "2026-11-13",
-  "intro": "Bei den Ukraine-Gesprächen sollen die Europäer künftig mit am Tisch sitzen, doch Putin bleibt hart. Im Iran-Krieg wird die Lage riskanter, und der Rücktritt des Nvidia-Chefs wird zum Thema in Washington.",
+  "date": "2026-11-14",
+  "intro": "Europa soll bei den Ukraine-Gesprächen mit am Tisch sitzen, und Trump will nächste Woche in China Putin und Xi treffen. Im Iran-Krieg bleibt die Lage gespannt, in den USA legte eine Störung kurz den Flugverkehr lahm.",
   "regionen": {
-    "Europa": "Die USA wollen Europa an den Ukraine-Gesprächen beteiligen, Putin beharrt aber auf Gebietsforderungen. Dazu kommen Bombendrohungen gegen Schulen und ein Generalstreik in Spanien.",
-    "Nahost": "Iran droht mit Angriffen auf US-Stützpunkte auch in Europa. Ein israelischer Luftangriff trifft ein Krankenhaus in Gaza, und die Huthi greifen eine saudische Pipeline an.",
-    "Asien": "Chinas Präsident Xi bekräftigt den Anspruch auf Taiwan. In Afghanistan dürfen Ärzte Frauen laut Spiegel nicht mehr behandeln.",
-    "Amerika": "Nach den Zwischenwahlen gewinnen die Demokraten einen Senatssitz in Mississippi. In Washington soll der zurückgetretene Nvidia-Chef Huang vor den Senat, in New York stürzt ein Gebäude ein.",
-    "Afrika": "Im Sudan-Krieg bleibt al-Obeid eine der am härtesten umkämpften Städte, Hunderttausende harren dort aus."
+    "Europa": "Fünf Staaten und die EU-Institutionen sollen Europa bei Gesprächen mit Russland vertreten. In Spanien demonstrieren Zehntausende kurz vor der Wahl gegen hohe Mieten.",
+    "Nahost": "Ein israelischer Angriff auf das Nasser-Krankenhaus im Gazastreifen fordert laut Hamas sechs Tote. Iran meldet Explosionen auf vier Tankern in der Straße von Hormus.",
+    "Asien": "In Shenzhen sollen sich Trump, Xi und Putin zu einem Dreiertreffen über Atomwaffen treffen. Auch der Iran-Krieg könnte dort Thema sein.",
+    "Amerika": "In den USA ruhte der Flugverkehr stundenlang, in New Orleans kenterte ein Flusskreuzfahrtschiff nach einer Kollision. In Washington soll der Senat die Nvidia-Affäre aufarbeiten.",
+    "Afrika": "Nahe der Grenze zum Sudan sammeln sich laut NZZ-Satellitenbildern Tausende Kämpfer auf einer äthiopischen Militärbasis. Experten fürchten einen Angriff auf die sudanesische Armee."
   },
   "top": [
     {
-      "title": "Ukraine: USA wollen Europa an den Verhandlungstisch holen",
-      "text": "Die US-Unterhändler Witkoff und Kushner kommen von Putin und kündigen in Dublin an, dass Europa künftig bei den Ukraine-Gesprächen dabei sein soll. Putin beharrt laut tagesschau aber weiter auf seinen Gebietsansprüchen. Beim Treffen der Europäischen Politischen Gemeinschaft (EPG, ein loser Zusammenschluss europäischer Staaten) einigten sich 39 Staaten laut Deutschlandfunk auf eine Charta: Über Sicherheitsfragen wollen sie erst nach Kriegsende mit Russland sprechen.",
-      "url": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
+      "title": "Trump trifft Putin und Xi zum ersten Dreiergipfel",
+      "text": "Das Weiße Haus kündigt für kommenden Donnerstag ein Dreiertreffen von Trump, Putin und Xi beim Apec-Gipfel in Shenzhen an. Es wäre das erste Treffen dieser drei Atommächte zusammen. Hauptthema ist der Abbau von Atomwaffen, auch der Iran-Krieg könnte zur Sprache kommen. Laut Spiegel will Trump dort nicht über die Ukraine reden, und Kanzler Merz bat ihn um „keine Überraschungen“.",
+      "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
       "source": "tagesschau",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Shenzhen",
+        "lat": 22.54,
+        "lon": 114.06
+      },
+      "hamburg": "Neue Absprachen der Atommächte betreffen auch Deutschlands Sicherheit, deshalb wird Berlin genau hinschauen.",
+      "stimmen": [
+        {
+          "source": "Spiegel",
+          "richtung": "links",
+          "url": "https://www.spiegel.de/ausland/donald-trump-trifft-wladimir-putin-und-xi-jinping-kommende-woche-in-china-a-8c11f808-645a-48b5-b7a1-fb85768c7994#ref=rss"
+        },
+        {
+          "source": "Deutschlandfunk",
+          "richtung": "mitte",
+          "url": "https://www.deutschlandfunk.de/us-regierung-trump-trifft-putin-und-xi-am-kommenden-donnerstag-100.html"
+        },
+        {
+          "source": "WELT",
+          "richtung": "rechts",
+          "url": "https://www.welt.de/politik/ausland/article6af7b9d79849eea0701e248e/usa-china-russland-weisses-haus-kuendigt-historisches-dreiertreffen-trumps-mit-xi-und-putin-an.html"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine-Gespräche: Europa bekommt ein Verhandlungsteam",
+      "text": "Die EU-Staats- und Regierungschefs haben sich in Dublin auf ein Team geeinigt. Deutschland, Frankreich, Großbritannien, Italien und Polen sollen gemeinsam mit den EU-Institutionen Europa bei Gesprächen mit Russland vertreten. Zuvor hatten die US-Unterhändler gesagt, Putin sei bereit, Europäer am Tisch zu akzeptieren. Unklar ist laut WELT noch, wer konkret mit den USA, Russland und der Ukraine verhandeln wird.",
+      "url": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-europaeer-einigen-sich-auf-verhandlungsteam-fuer-gespraeche-mit-russland-a-33f42a19-3d6f-4708-8372-a55f8583040a#ref=rss",
+      "source": "Spiegel",
       "category": "Krieg & Konflikte",
       "art": "konflikt",
       "ort": {
@@ -21,29 +52,29 @@
         "lat": 50.45,
         "lon": 30.52
       },
-      "hamburg": "Für Deutschland geht es um die eigene Sicherheit und um Geld: Kanzler Merz fordert laut WELT Europa auf, die Finanzlücke der Ukraine zu schließen.",
+      "hamburg": "Deutschland ist im Verhandlungsteam dabei und damit direkt an einer möglichen Friedenslösung für Europa beteiligt.",
       "stimmen": [
         {
-          "source": "Spiegel",
+          "source": "taz",
           "richtung": "links",
-          "url": "https://www.spiegel.de/ausland/krieg-gegen-ukraine-europaeer-formulieren-bedingungen-fuer-sicherheitsgespraeche-a-04895725-09d3-489a-9c25-368ec95b9467#ref=rss"
+          "url": "https://taz.de/Informeller-EU-Gipfel-in-Dublin/!6229802/"
+        },
+        {
+          "source": "Deutschlandfunk",
+          "richtung": "mitte",
+          "url": "https://www.deutschlandfunk.de/europa-legt-sich-auf-delegation-fuer-ukraine-friedensverhandlungen-fest-102.html"
         },
         {
           "source": "WELT",
           "richtung": "rechts",
-          "url": "https://www.welt.de/politik/ausland/article6af64bb850175c81de7a47da/us-unterhaendler-putin-bereit-fuer-europaeer-am-verhandlungstisch-selenskyj-sieht-das-als-fortschritt.html"
-        },
-        {
-          "source": "NZZ",
-          "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/ein-gefangenenaustausch-und-weitere-gespraeche-die-verhandlungen-in-abu-dhabi-bringen-keinen-durchbruch-ld.10060754"
+          "url": "https://www.welt.de/politik/ausland/article6af7520e15e28ea3dd919cef/ukraine-krieg-europa-schickt-ganzes-verhandlungsteam-zu-gespraechen-mit-russland.html"
         }
       ]
     },
     {
-      "title": "Iran droht mit Angriffen auf US-Stützpunkte in Europa",
-      "text": "Im Iran-Krieg ist nach den US-Zwischenwahlen unklar, wie es weitergeht. Teheran droht laut Spiegel mit Angriffen auf US-Stützpunkte auch in Europa. Die Revolutionsgarden sagen laut Reuters, sie hätten ein US-Frühwarnradar in Bahrain ins Visier genommen. Präsident Trump hält einen Deal mit Teheran laut Süddeutscher Zeitung für unnötig.",
-      "url": "https://www.spiegel.de/ausland/iran-droht-mit-angriffen-auf-us-stuetzpunkte-auch-in-europa-a-c1f311da-3602-4581-97af-29e89c00c491#ref=rss",
+      "title": "Iran-Krieg: Trump zieht Vance aus den Gesprächen ab",
+      "text": "Trump hat seinen Vize Vance öffentlich zurechtgewiesen, nachdem dieser den Iran-Krieg für die Wahlniederlage der Republikaner mitverantwortlich machte und für Verhandlungen warb. Laut Reuters sagt Trump, die USA bräuchten kein Abkommen mit Iran. Gleichzeitig wird spekuliert, dass Israels Premier Netanjahu neue Angriffe auf Iran plant. Oppositionschef Eisenkot warnt vor „gefährlichen Schritten“.",
+      "url": "https://www.spiegel.de/ausland/donald-trump-weist-jd-vance-zurecht-vize-soll-sich-nicht-um-iran-kuemmern-a-1b62d01a-55fd-4a6d-85c3-44b4558eed82#ref=rss",
       "source": "Spiegel",
       "category": "Krieg & Konflikte",
       "art": "konflikt",
@@ -52,247 +83,163 @@
         "lat": 35.69,
         "lon": 51.39
       },
-      "hamburg": "Der Hamburger Hafen spürt den Iran-Krieg laut NDR bereits.",
+      "hamburg": "Ein weiter eskalierender Iran-Krieg kann Öl- und Spritpreise auch in Deutschland nach oben treiben.",
       "stimmen": [
         {
-          "source": "Süddeutsche Zeitung",
-          "richtung": "links",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-trump-vance-deal-li.3579157"
-        },
-        {
-          "source": "FAZ",
-          "richtung": "rechts",
-          "url": "https://www.faz.net/aktuell/politik/ausland/mohsen-rezaei-irans-mann-der-europa-droht-201676291.html"
-        },
-        {
-          "source": "Reuters",
+          "source": "tagesschau",
           "richtung": "mitte",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "Nvidia-Affäre erreicht die US-Politik",
-      "text": "Nvidia-Chef Jensen Huang ist nach einer Affäre mit einer mutmaßlichen chinesischen Spionin zurückgetreten. Der US-Senat lädt ihn und Handelsminister Lutnick vor. Laut Medienberichten könnte die Sache auch für Präsident Trump zum Problem werden. Nvidia liefert Chips für den KI-Boom, daher beobachten Politik und Märkte den Fall genau.",
-      "url": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
-      "source": "tagesschau",
-      "category": "Weltpolitik",
-      "art": "wirtschaft",
-      "ort": {
-        "name": "Washington, D.C.",
-        "lat": 38.9,
-        "lon": -77.04
-      },
-      "hamburg": "Der Rücktritt drückte auch den deutschen Leitindex Dax ins Minus, wie tagesschau berichtet.",
-      "stimmen": [
-        {
-          "source": "Spiegel",
-          "richtung": "links",
-          "url": "https://www.spiegel.de/ausland/nvidia-affaere-jensen-huang-und-trumps-handelsminister-lutnick-muessen-sich-im-senat-erklaeren-a-14e96682-03e3-4763-a673-f16a0bcfd5d1#ref=rss"
+          "url": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html"
         },
         {
-          "source": "NIUS",
+          "source": "WELT",
           "richtung": "rechts",
-          "url": "https://nius.de/nachrichten/nvidia-chef-jensen-huang-tritt-zurueck"
-        },
-        {
-          "source": "NZZ",
-          "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/trump-will-von-nichts-gewusst-haben-doch-jetzt-holt-ihn-jensen-huangs-affaere-mit-einer-mutmasslichen-chinesischen-spionin-ein-ld.10060975"
+          "url": "https://www.welt.de/politik/ausland/article6af6b7145a72dceba1d60ff6/iran-krieg-trump-weist-vance-zurecht-und-zieht-ihn-von-iran-gespraechen-ab.html"
         }
       ]
     }
   ],
   "entries": [
     {
-      "title": "Ukrainische Drohne trifft russisches Kriegsschiff",
-      "summary": "Im Finnischen Meerbusen wurde ein russisches Kriegsschiff von einer ukrainischen Drohne getroffen. Laut BBC ist es vermutlich das erste Mal, dass ukrainische Drohnen ein russisches Schiff auf offener See angreifen.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Finnischer Meerbusen",
-        "lat": 60,
-        "lon": 26
-      }
-    },
-    {
-      "title": "Russland und Ukraine greifen trotz Gesprächen die Hauptstädte an",
-      "summary": "Ungeachtet der Friedensgespräche in Abu Dhabi haben sich beide Länder gegenseitig in den Hauptstädten angegriffen.",
-      "url": "https://www.welt.de/politik/ausland/article6af5327050175c81de7a247f/trotz-friedensgespraechen-russland-und-ukraine-greifen-gegenseitig-ihre-hauptstaedte-an.html",
-      "source": "WELT",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Kiew",
-        "lat": 50.45,
-        "lon": 30.52
-      }
-    },
-    {
-      "title": "Angriff auf Krankenhaus in Gaza: sechs Tote",
-      "summary": "Bei einem israelischen Angriff auf eine Klinik im Süden Gazas starben laut Behörden sechs Menschen. Israel sagt, er habe einem Hamas-Anführer gegolten. Ärzte ohne Grenzen kritisiert den Angriff.",
-      "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
-      "source": "tagesschau",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Gaza",
-        "lat": 31.5,
-        "lon": 34.47
-      }
-    },
-    {
-      "title": "Israels Oppositionschef warnt Netanjahu vor „gefährlichen Schritten“",
-      "summary": "Oppositionschef Eisenkot warnt den Premier. Laut tagesschau wird seit Tagen spekuliert, dass Netanjahu neue Angriffe auf den Iran plant.",
-      "url": "https://www.sueddeutsche.de/politik/israel-eisenkot-warnt-netanjahu-vor-gefaehrlichen-schritten-li.3579630",
-      "source": "Süddeutsche Zeitung",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Jerusalem",
-        "lat": 31.77,
-        "lon": 35.22
-      }
-    },
-    {
-      "title": "Huthi greifen saudische Ölpipeline an",
-      "summary": "Die Huthi im Jemen sagen, sie hätten eine Pumpstation an Saudi-Arabiens Ost-West-Pipeline angegriffen. Saudi-Arabien drängt zugleich die EU, die Huthi als Terrorgruppe einzustufen.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHNyWUhKaHR2QmJXUjJ6S0xNdDZnZmpKRzJQak9SWVc3cmttUGVfbk13NzBZclpqNnp5N1JFc0JYakw2Wl9hV3BYdm1mMnJQR3BKRFI2Zzh3cVRhTFFxejBSVWtTMkt2WTRGRUxFSkVocF83aFlIOU10Vk11d29TRERPcnFVWHRJYktFOUlGU0x4c0Q0UWVtT3JkUE91ZVNPQ09NTnhaMGxJajZxQnkwWTFvTzN4WnNpMTBYalNZOHFZdnUtX1VHeUVR?oc=5",
+      "title": "Vier Tanker in der Straße von Hormus getroffen",
+      "summary": "Iran meldet Explosionen auf vier Tankern in der Straße von Hormus. Getrennt davon bestreiten die USA, dass Iran ein Frühwarnradar in Bahrain angegriffen hat.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDQ2cWxyeTFpazFaX1ZNM2RoS0t2ZVpEa0JpMElTZVFMUElROEF5c20tMlU0dEszWFlEdkhfR2VOb3hEQmo3MjRtdVlSaEhkZnpKXzExbE5QcXItQ3Z6REoyY1Fpak9IUUplYWp6NTQ2UjBiNVk1WDN0MmJjaFRkOHNLdDYxMU9xOWhuMnVaTlNiVXJNTlhLYV9EZEpnd1oxYmF0cG82b2VkMURkYnkzZkZBX0hhWHM?oc=5",
       "source": "Reuters",
       "category": "Krieg & Konflikte",
       "art": "konflikt",
       "ort": {
-        "name": "Riad",
-        "lat": 24.71,
-        "lon": 46.68
+        "name": "Straße von Hormus",
+        "lat": 26.57,
+        "lon": 56.25
       }
     },
     {
-      "title": "Spanien: Generalstreik gegen die Wohnungskrise",
-      "summary": "Laut BBC beteiligen sich Zehntausende am Streik der großen Gewerkschaften, in Barcelona kam es zu Ausschreitungen. Reuters spricht von Millionen Teilnehmenden und vielen Festnahmen.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "title": "Gaza: Israelischer Angriff auf Nasser-Krankenhaus",
+      "summary": "Israels Armee sagt, sie habe einen Hamas-Anführer treffen wollen. Die Hamas nennt den Angriff ein Kriegsverbrechen und meldet sechs Tote und Dutzende Verletzte.",
+      "url": "https://www.spiegel.de/ausland/gaza-mehrere-tote-nach-israelischem-angriff-auf-nasser-krankenhaus-a-38b81b5b-b4ea-4d0b-978c-b50bf1a43084#ref=rss",
+      "source": "Spiegel",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
+      "ort": {
+        "name": "Chan Junis, Gazastreifen",
+        "lat": 31.35,
+        "lon": 34.3
+      }
+    },
+    {
+      "title": "Nvidia-Affäre: Senat lädt Huang und Handelsminister vor",
+      "summary": "Nach dem Rücktritt von Nvidia-Chef Huang soll der US-Senat klären, ob Chips nach China gelangten. Auch Handelsminister Lutnick steht unter Druck, weil sein Ministerium Warnungen ignoriert haben soll.",
+      "url": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+      "source": "tagesschau",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Washington",
+        "lat": 38.91,
+        "lon": -77.04
+      }
+    },
+    {
+      "title": "Stundenlanger Flugstopp in den USA",
+      "summary": "Eine Störung der Kommunikationssysteme legte die Starts in den USA lahm, Zehntausende Reisende strandeten. Die Regierung nennt veraltete Technik als Ursache, inzwischen fliegen die Maschinen wieder.",
+      "url": "https://www.deutschlandfunk.de/stundenlanges-flugverbot-in-den-usa-regierung-sieht-veraltete-technik-als-ursache-100.html",
+      "source": "Deutschlandfunk",
+      "category": "Wirtschaft & Handel",
+      "art": "wirtschaft",
+      "ort": {
+        "name": "USA",
+        "lat": 38.9,
+        "lon": -77.04
+      },
+      "hamburg": "Zeitweise waren auch Verbindungen aus Europa in die USA ausgesetzt."
+    },
+    {
+      "title": "Weltweite Microsoft-Störung geht auf eigenes Update zurück",
+      "summary": "Outlook, Teams und weitere Dienste fielen über einen Tag lang aus. Microsoft nennt ein Netzwerk-Update als Ursache und hat sich entschuldigt.",
+      "url": "https://www.deutschlandfunk.de/microsoft-probleme-gingen-auf-netzwerk-update-zurueck-104.html",
+      "source": "Deutschlandfunk",
+      "category": "Wirtschaft & Handel",
+      "art": "wirtschaft"
+    },
+    {
+      "title": "New Orleans: Kreuzfahrtschiff nach Kollision gekentert",
+      "summary": "Ein Tanker rammte im Hafen von New Orleans ein am Anleger liegendes Flusskreuzfahrtschiff, das kenterte. Alle Passagiere wurden gerettet, 32 kamen mit leichteren Verletzungen ins Krankenhaus.",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
+      "category": "Hafen & Schifffahrt",
+      "art": "katastrophe",
+      "ort": {
+        "name": "New Orleans",
+        "lat": 29.95,
+        "lon": -90.07
+      }
+    },
+    {
+      "title": "IEA: Ölmarkt kehrt zum Überangebot zurück",
+      "summary": "Weil die Ölexporte aus dem Golf sich erholen, wird laut Internationaler Energieagentur wieder mehr Öl angeboten als gebraucht. Das ist ein Gegengewicht zu den Spannungen in der Region.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWtzQXhRVUlUbWQ0VVloOTVjekFCcC1XQlNXNWNRcERHNDFEbnBNTTFhZjV3Qjk5bGxCaDhoRFE1Yi1mdGNoR3JCVXY5MmQ0ODVnUWRabHowUDhYSUNKOXV5X0lLQzRBbWNabUFMTzVlMzBNOUUyWTgyeUg1cW5sRjJtUHo3TldPOEY4S19xOGwwYjlkemFibktTVTltVF94WUg5ekdJczcyUlBHOHZ0V3EtdWdjU0JOVkY4?oc=5",
+      "source": "Reuters",
+      "category": "Wirtschaft & Handel",
+      "art": "wirtschaft",
+      "hamburg": "Ein Überangebot kann auf Dauer Heiz- und Spritpreise in Deutschland dämpfen."
+    },
+    {
+      "title": "Spanien: Zehntausende demonstrieren gegen hohe Mieten",
+      "summary": "Zwei Wochen vor der Parlamentswahl protestieren Menschen gegen steigende Mieten, meist friedlich. Das Parlament beschloss zudem mit einer Stimme Mehrheit ein Mieterschutz-Dekret, die konservative PP will es kippen.",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-proteste-wohnungsnot-100.html",
+      "source": "tagesschau",
       "category": "Europa",
       "art": "politik",
       "ort": {
-        "name": "Madrid",
+        "name": "Spanien",
         "lat": 40.42,
         "lon": -3.7
       }
     },
     {
-      "title": "Bombendrohungen gegen Tausende Schulen in Europa",
-      "summary": "Mehr als 6.000 italienische Schulen erhielten laut BBC eine Drohung, auch in Schottland und Nordirland gab es Warnungen. Die Behörden gehen von falschen Drohungen aus.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
+      "title": "EU: Entlastung für Industrie beim Emissionshandel",
+      "summary": "Betroffene Branchen bekommen befristet zusätzliche kostenlose Emissionszertifikate. Das sind Berechtigungen, die Firmen für ihren CO2-Ausstoß brauchen. Unterhändler von Parlament und Mitgliedstaaten haben sich geeinigt.",
+      "url": "https://www.tagesschau.de/ausland/europa/emissionshandel-eu-industrie-100.html",
+      "source": "tagesschau",
       "category": "Europa",
-      "art": "politik",
+      "art": "wirtschaft",
       "ort": {
-        "name": "Rom",
-        "lat": 41.9,
-        "lon": 12.5
-      }
-    },
-    {
-      "title": "Polen scheitert vor dem EuGH mit Klagen gegen das EU-Klimapaket",
-      "summary": "Das Verbrenner-Aus und weitere Teile des Pakets „Fit für 55“ bleiben in Kraft, entschied der Europäische Gerichtshof.",
-      "url": "https://nius.de/ausland/polen-scheitert-vor-dem-eugh-mit-klagen-gegen-eu-klimapaket",
-      "source": "NIUS",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Luxemburg",
-        "lat": 49.61,
-        "lon": 6.13
+        "name": "Brüssel",
+        "lat": 50.85,
+        "lon": 4.35
       },
-      "hamburg": "Das EU-Verbrenner-Aus gilt damit weiter, auch für Neuwagen in Deutschland."
+      "hamburg": "Entlastet werden Industriebetriebe in der EU, auch in Deutschland."
     },
     {
-      "title": "Klimagipfel COP31: Erde steuert auf 2,7 Grad zu",
-      "summary": "Laut Climate Action Tracker (einer unabhängigen Analyse) droht bei der aktuellen Klimapolitik eine Erwärmung von 2,7 Grad, statt der angestrebten höchstens 1,5 Grad. Die Weltklimakonferenz läuft in Antalya.",
-      "url": "https://taz.de/Berechnungen-von-Climate-Action-Tracker/!6229491/",
-      "source": "taz",
+      "title": "COP31 in Antalya: Staaten mit gegensätzlichen Zielen",
+      "summary": "Zur Halbzeit der UN-Klimakonferenz haben die Staats- und Regierungschefs ihre Prioritäten dargelegt. Sie liegen laut Reuters auseinander, nun beginnen die Verhandlungen.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNngtTTdNNWh2YXdsTUNwRVo3NHZIY3JqcU1zaVBZdGdiODBGMmtaNTRDN1JWbmlpNERtc1l2UzB3VGdwZnlJQktOWTFJdl9qX3RxUW5vWl9RWFJjRE5ZTzNhQnM1eTFUaEdTV2JwODF1dlRVRVBPSkkzdmhDdE0yUV93b1ZPdWpNazhxbFBWY0FEdmt6VUh0Ri1iQzc1YnNMOVA2TnIyYUhIaG1VeDdGejBaVQ?oc=5",
+      "source": "Reuters",
       "category": "Katastrophen & Klima",
-      "art": "katastrophe",
+      "art": "politik",
       "ort": {
         "name": "Antalya",
         "lat": 36.9,
-        "lon": 30.7
-      },
-      "hamburg": "Fridays for Future ruft heute auch in Hamburg zum Klimaprotest auf, die Polizei erwartet rund 3.000 Teilnehmende."
-    },
-    {
-      "title": "Xi: Wiedervereinigung mit Taiwan „muss“ kommen",
-      "summary": "Chinas Präsident Xi sagt, die Geschichte lasse sich nicht aufhalten und eine „Wiedervereinigung“ mit Taiwan müsse stattfinden.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanhBckZWOGZoOFJnUGpQNkR5b25Ibm5RYzZRWGJReUNkM2l0dWJPNUdwSUxFbDRGdHNsWm9qaG1ZVm9fNW0yNUdHanFFV2pza05kbjJWREE2ZEFHdVNIT0pmR3JEMUFnVkhFaXdXQ25oUHdEcWVMUGYxX1VSeGh1RGVBT3Bhc3RJckpsVWtfRkpSNTBnWTRzVm1EenJUOFhnOGF3STJXbDUyV3NtUXAtSjFqU1lOTmN0Zm1FSFRn?oc=5",
-      "source": "Reuters",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Peking",
-        "lat": 39.9,
-        "lon": 116.4
+        "lon": 30.71
       }
     },
     {
-      "title": "Afghanistan: Ärzte dürfen Frauen nicht behandeln",
-      "summary": "Die Taliban verbieten Frauen seit 2024, Ärztin zu werden. Nun dürfen Ärzte Frauen laut Spiegel nicht mehr behandeln.",
-      "url": "https://www.spiegel.de/ausland/afghanische-aerzte-duerfen-frauen-nicht-behandeln-a-dd90d617-ce6b-42c8-bf24-d98b2328837c#ref=rss",
-      "source": "Spiegel",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Kabul",
-        "lat": 34.53,
-        "lon": 69.17
-      }
-    },
-    {
-      "title": "Mississippi wählt erstmals seit 1982 einen Demokraten in den Senat",
-      "summary": "Scott Colom wird der erste schwarze Senator des Bundesstaats seit dem 19. Jahrhundert, in einem Staat, den Trump vor zwei Jahren mit 22 Punkten Vorsprung gewann.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Jackson",
-        "lat": 32.3,
-        "lon": -90.18
-      }
-    },
-    {
-      "title": "New York: Gebäude stürzt ein, mindestens acht Tote",
-      "summary": "In Brooklyn ist ein mehrstöckiges Haus eingestürzt. Die Zahl der Toten ist auf mindestens acht gestiegen.",
-      "url": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
-      "source": "tagesschau",
+      "title": "Brasilien: Bundesstaat Pará ruft Umweltnotstand aus",
+      "summary": "Nach Tausenden Waldbränden hat Pará den Notstand erklärt. Der Deutschlandfunk nennt das Wetterphänomen El Niño als Hintergrund.",
+      "url": "https://www.deutschlandfunk.de/el-ni-o-brasilianischer-bundesstaat-par-ruft-nach-tausenden-waldbraenden-den-umweltnotstand-aus-104.html",
+      "source": "Deutschlandfunk",
       "category": "Katastrophen & Klima",
       "art": "katastrophe",
       "ort": {
-        "name": "New York",
-        "lat": 40.65,
-        "lon": -73.95
+        "name": "Pará",
+        "lat": -3.8,
+        "lon": -52.5
       }
     },
     {
-      "title": "Sudan: Al-Obeid bleibt belagert",
-      "summary": "Keine Stadt im Sudan-Krieg ist so umkämpft wie al-Obeid. Trotzdem harren dort Hunderttausende Menschen aus, berichtet die NZZ.",
-      "url": "https://www.nzz.ch/international/sudan-krieg-drohnen-angst-und-alltag-im-belagerten-al-obeid-ld.10049270",
-      "source": "NZZ",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "al-Obeid",
-        "lat": 13.18,
-        "lon": 30.22
-      }
-    },
-    {
-      "title": "Hamburger Hafen: HHLA verliert, Eurogate trotzt",
-      "summary": "Der Hamburger Hafen spürt laut NDR Kälte, Iran-Krieg und Streiks. Der Hafenbetreiber HHLA verliert deutlich, Eurogate hält dagegen.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDBQRE12VzY3NWpaNGtieDEyWFBGUXN6VkhDTGNsUndtNXdMZ3lncEVKa0NFdmhyVVRHRHNqNGJlSmROY3hYX1hkVTZ3a2JIOE16a3ZjTGFheEwyM2otbDVfVTlqTGJ4QWdSQjNyVUo2WTMyRG9lZFBSWURocE9jZ212cHpLdkMtRC1kTURiS1hrSGphWW91ZEJzYUJhN2FSV3ZJNmJ5cURzR1I3a2RB?oc=5",
-      "source": "NDR.de",
+      "title": "HHLA senkt Jahresprognose nach Rückgang beim Umschlag",
+      "summary": "Der Hafenbetreiber HHLA rechnet für das Jahr mit weniger als zuvor geplant, weil weniger Ladung umgeschlagen wurde. Das berichtet Logistik Heute.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3Y4VVJqSzNtM1A0N0NPT2RUYmdNVGxHNzZfbkNWMjhlWThPdnNtejFZYVhuTjc0TEdNb08wZjFZcTBpcEZoOE84Y24yTE5JN3VNLWQxSFAtNVdWbWRKOW43anNsaDE4WkVBc0NkQm1rMnJBWjJ6dzVGcWxWdkxXSW9DbHFmbEcweXNfMk9SUmxXOWxXNm1UbzlYYjk1VUQ2RHZ0V0dPRkdLWWNaTHc?oc=5",
+      "source": "Logistik Heute",
       "category": "Hafen & Schifffahrt",
       "art": "wirtschaft",
       "ort": {
@@ -300,7 +247,21 @@
         "lat": 53.55,
         "lon": 9.99
       },
-      "hamburg": "Das betrifft Hamburg direkt: Es geht um den Hafen der Stadt."
+      "hamburg": "Der Hamburger Hafen ist ein großer Arbeitgeber, schwächere Zahlen der HHLA treffen die Stadt direkt."
+    },
+    {
+      "title": "Hamburg darf 286 Millionen Euro für Kaimauern im Hafen nutzen",
+      "summary": "Die EU genehmigt die Beihilfe für die Sanierung maroder Kaimauern im Hamburger Hafen.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdnBrM0hVZzkxUG0wTUpfdHpETGlBbExTWjlQQ21sVUNkdDBuRVBaX1BweVcxY3RzNXlHbmc2aDRMYjdqeUZ1eXY0WE5aam1tVUdiSWtfOUFrVHVTNVY1eWtQV3E4STltcmpIZXJ1WC03VTR5MndYQlMzNW1mODd5bjJNWERRbGIxVW1XRzVJZWdwcG4zbkRCZVExaEVxTkJfcjRyRXF5WXAzY1ZQWHpFaUFrQ1hxRGQ5cldLLTZhTDBYOXVGWlBJZU9EZHZudDQxcUNVemk5dUVQZw?oc=5",
+      "source": "Hamburger Abendblatt",
+      "category": "Hafen & Schifffahrt",
+      "art": "wirtschaft",
+      "ort": {
+        "name": "Hamburg",
+        "lat": 53.55,
+        "lon": 9.99
+      },
+      "hamburg": "Die Sanierung soll die Hafeninfrastruktur der Stadt sichern."
     }
   ]
 }
