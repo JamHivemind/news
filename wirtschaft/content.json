@@ -1,112 +1,121 @@
 {
-  "date": "2026-11-13",
-  "intro": "Mercedes stoppt Investitionen in Deutschland und die IG Metall droht mit ganztägigen Streiks. Gleichzeitig steht der Dax auf Rekordhoch, und die Zahl überschuldeter Menschen steigt.",
+  "date": "2026-11-14",
+  "intro": "Der Bundeshaushalt 2027 steht mit Rekordausgaben, bei der Stromsteuer bleibt aber vieles offen. Dazu sorgen leere Gasspeicher, der Microsoft-Ausfall und steigende Paketpreise für Gesprächsstoff.",
   "top": [
     {
-      "title": "Mercedes stoppt Investitionen in Deutschland",
-      "text": "Mercedes-Benz legt neue Investitionen an den deutschen Standorten auf Eis und prüft Werksschließungen. Auslöser ist der Streit mit der Arbeitnehmerseite über Kostensenkungen, bei dem keine Lösung in Sicht ist. Für Beschäftigte und Zulieferer in Deutschland erhöht das die Unsicherheit.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Unternehmen"
+      "title": "Haushalt 2027 beschlossen: Rekordausgaben, hohe Schulden",
+      "text": "Der Haushaltsausschuss des Bundestags hat den Etat für 2027 gebilligt. Laut NIUS sind 560,9 Milliarden Euro Ausgaben und mehr als 210 Milliarden Euro neue Schulden vorgesehen. Eine niedrigere Stromsteuer für private Haushalte fehlt bisher im Entwurf; Finanzminister Klingbeil knüpft sie an eine Gegenfinanzierung von rund fünf Milliarden Euro. Für Steuerzahler heißt das: Entlastungen bei den Energiekosten sind noch nicht sicher.",
+      "url": "https://nius.de/politik/bundeshaushalt-beschlossen-rekordausgaben-und-210-milliarden-euro-schulden",
+      "source": "NIUS",
+      "category": "Politik & Handel"
     },
     {
-      "title": "IG Metall beschließt ganztägige Streiks",
-      "text": "Im Tarifstreit der Metall- und Elektroindustrie sind ab sofort ganztägige Warnstreiks möglich. Das gab es zuletzt vor acht Jahren. Betroffen sein können Betriebe wie Autobauer und Maschinenbauer, in denen es um Lohn und Arbeitsbedingungen geht.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Huang-Rücktritt belastet Nvidia-Aktie und Wall Street",
-      "text": "Nach dem Rücktritt des Nvidia-Chefs Jensen Huang verlor die Aktie des Chipkonzerns deutlich an Wert. Die Wall Street schloss im Minus, und auch der Dax gab laut tagesschau nach. Nvidia gilt als Schlüsselfirma für den KI-Boom, deshalb schauen Anleger genau hin.",
-      "url": "https://www.spiegel.de/wirtschaft/spionage-affaere-nvidia-aktien-buessen-nach-jensen-huangs-ruecktritt-an-wert-ein-a-a7155d5a-d0f2-43d4-b287-1f89bcb863ea#ref=rss",
+      "title": "Gasspeicher fast leer: Ministerium plant Notfallgesetz",
+      "text": "Die deutschen Gasspeicher sind so leer wie selten, im Winter drohen laut Spiegel hohe Preise. Das Wirtschaftsministerium von Katherina Reiche bereitet nun ein Notfallgesetz und eine Reserve aus fossilen Kraftwerken vor. Für Haushalte und Betriebe hängt von der Umsetzung ab, wie stark Gas- und Strompreise in den kommenden Monaten steigen.",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/gasspeicher-in-deutschland-reiche-setzt-auf-alte-kohle-und-oelkraftwerke-a-27a31085-5bb0-4460-8bb5-0024af1d419e#ref=rss",
       "source": "Spiegel Wirtschaft",
-      "category": "Börse & Märkte"
+      "category": "Energie"
+    },
+    {
+      "title": "Microsoft-Ausfall: Netzwerk-Upgrade als Ursache",
+      "text": "Die stundenlange Störung bei Microsoft-Diensten wie Outlook ging laut Konzern auf ein Netzwerk-Upgrade zurück. Viele Unternehmen und Verbraucher waren weltweit betroffen, inzwischen läuft die Lage wieder besser. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) wertet den Vorfall laut Spiegel als Alarmsignal für die Wirtschaft.",
+      "url": "https://www.handelsblatt.com/technik/it-internet/nach-cloud-ausfall-microsoft-stoerung-ging-auf-netzwerk-upgrade-zurueck/100269813.html",
+      "source": "Handelsblatt",
+      "category": "Unternehmen",
+      "tipp": "Wichtige Termine und Kontakte zusätzlich außerhalb der Cloud sichern, damit ein Ausfall nicht die ganze Arbeit lahmlegt."
     }
   ],
   "entries": [
     {
-      "title": "Dax knackt erstmals 27.000 Punkte",
-      "summary": "Der deutsche Leitindex hat eine neue Rekordmarke erreicht, getragen von guter Stimmung am Aktienmarkt.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXltMTB4c3hKZldUYmF5UXRINnBXUkJJSUFKY0p3b0l0TlN0Y3dGYV9hendtR3FITjhhY1Z2Q3MzN1JsejNNMEJfeXJjZkFSOGlldnFFVE1wdHpEbjgySmt3X3VqQ09lMlZwNFR3SE5iUTMydmpQanZyd3NJQWhlM2FZSW9VWnZZbE5QWWZsZDljSThkLXJhVFk2Zk5xWC14OG05RjV0UzVjRl9XekFPbHVQY29Fc0ZONHV5NUJ2ekg1b2ZXNWVNODlYUHdMZw?oc=5",
-      "source": "Allgemeine Zeitung",
-      "category": "Börse & Märkte"
-    },
-    {
-      "title": "Bundesbank warnt vor erhöhten Risiken für Banken",
-      "summary": "Die Bundesbank sieht wachsende Gefahren im Finanzsystem, weil mehr Kredite nicht zurückgezahlt werden. Dazu kommen hohe Marktbewertungen, geringes Wachstum und hohe Staatsschulden. Das System gilt aber als widerstandsfähig.",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
+      "title": "DHL erhöht Paketpreise ab Januar 2027",
+      "summary": "Das kleinste Päckchen in der Filiale kostet ab Januar einen Euro mehr, auch schwere Pakete werden teurer. Für Packstationen plant DHL günstigere Tarife.",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/post-hebt-paketpreise-privatkunden-an-2027-100.html",
       "source": "tagesschau Wirtschaft",
-      "category": "Zinsen & Geldpolitik"
+      "category": "Unternehmen",
+      "tipp": "Weihnachtspakete noch in diesem Jahr aufgeben, denn die neuen Preise gelten erst ab 2027."
     },
     {
-      "title": "Kabinett beschließt nationale Gasreserve",
-      "summary": "Die Bundesregierung will damit die Gasversorgung in Krisensituationen absichern.",
-      "url": "https://www.tagesschau.de/inland/gasreserve-126.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Energie"
-    },
-    {
-      "title": "Mehr als sieben Millionen Erwachsene überschuldet",
-      "summary": "Laut Creditreform-Schuldneratlas ist jeder zehnte Erwachsene in Deutschland überschuldet. Die Zahl steigt das zweite Jahr in Folge.",
-      "url": "https://www.spiegel.de/wirtschaft/schulden-in-deutschland-jeder-zehnte-erwachsene-ist-ueberschuldet-a-6c3851b7-fc55-4574-bae8-71344e0ff43b#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Arbeit & Soziales",
-      "tipp": "Bei Geldsorgen früh zu einer kostenlosen Schuldnerberatung gehen, bevor sich Mahnungen häufen."
-    },
-    {
-      "title": "Kalte Progression kostet Steuerzahler gut 23 Milliarden Euro",
-      "summary": "Kalte Progression heißt: Gehalt steigt, aber durch den Steuertarif sinkt trotzdem die Kaufkraft. Für 2026 und 2027 summiert sich das laut Spiegel auf gut 23 Milliarden Euro.",
-      "url": "https://www.spiegel.de/wirtschaft/kalte-progression-steuerzahler-zahlen-2026-und-2027-gut-23-milliarden-euro-drauf-a-5755f76a-dd16-42d4-ba29-2cb4db616fa2#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "Stromsteuer-Senkung bleibt vorerst aus",
-      "summary": "Die Wirtschaft nennt das eine „herbe Enttäuschung“ und kritisiert den Kurs der Regierung.",
-      "url": "https://www.spiegel.de/wirtschaft/stromsteuer-wirtschaft-kritisiert-schlingerkurs-der-regierung-a-1b53162b-b41a-4462-9e5c-896a8a327156#ref=rss",
+      "title": "Ölmarkt entspannt sich erstmals seit Kriegsbeginn",
+      "summary": "Laut Internationaler Energieagentur übersteigt das weltweite Ölangebot erstmals seit Beginn des Irankriegs wieder die Nachfrage. Das kann Druck von den Spritpreisen nehmen.",
+      "url": "https://www.spiegel.de/wirtschaft/oel-versorgung-erholt-sich-erstmals-seit-beginn-des-irankriegs-etwas-a-115c8f18-2361-4368-8f4e-6b1462aa4652#ref=rss",
       "source": "Spiegel Wirtschaft",
       "category": "Energie"
     },
     {
-      "title": "Koalition einigt sich auf Haushalt 2027",
-      "summary": "CDU/CSU und SPD haben sich bei wichtigen Haushaltsfragen geeinigt, laut FAZ auf Kosten künftiger Jahre. Die Sozialausgaben bleiben hoch.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/cdu-csu-und-spd-einigen-sich-im-haushalt-auf-kosten-kuenftiger-jahre-201676865.html",
-      "source": "FAZ Wirtschaft",
+      "title": "Spritpreise sinken wegen Hoffnung auf Kriegsende",
+      "summary": "In Deutschland sinken die Spritpreise, weil die Hoffnung auf ein Kriegsende wächst.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGIyZDluVktfbmkwdWhKQzdyaGdCNXFPYmtEY2RuX1R3Z3dvMXBGbjE4QzhzR2t2V1JaYUhtUUExemNhTHlJZENDSDdERmc0a0JpVWJUNjAzZ2pneDBuU3IzdmpVZXhOalg5YmYwNS1WTS1FMUJlWmZva1otanJ2M1VoQTZYMkpVdUN4clkxQkFhMkQyWU8tTjJoMkZuc0dMNjNiZHRBaF9vN0VEY1IxOVYtRDN6dw?oc=5",
+      "source": "SZ.de",
+      "category": "Energie"
+    },
+    {
+      "title": "Haushalt kürzt beim Güterverkehr, DB Cargo unter Druck",
+      "summary": "Die Regierung streicht wie geplant Mittel für mehrere Güterverkehrsprogramme. Besonders die Bahn-Tochter DB Cargo ärgert sich, ihr droht eine Zerschlagung.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/teurer-gueterverkehr-haushaltsbeschluesse-belasten-bahnbranche-und-db-cargo-a-2fc455bd-96e6-4fc3-9ccb-f070af8cf393#ref=rss",
+      "source": "Spiegel Wirtschaft",
       "category": "Politik & Handel"
     },
     {
-      "title": "Wirtschaftsweise warnen vor wachsender Schuldenlast",
-      "summary": "Der Sachverständigenrat mahnt die Regierung, auch unbequeme Reformen anzugehen, weil die Schulden schnell steigen. Seine Prognose sieht deutlich höheres Wachstum.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftsweise-warnen-merz-und-klingbeil-heilige-kuehe-opfern-201673025.html",
-      "source": "FAZ Wirtschaft",
-      "category": "Konjunktur"
-    },
-    {
-      "title": "Warum die Inflation gefühlt höher ist",
-      "summary": "Die Inflation liegt bei 2,8 Prozent. Viele Menschen haben dennoch den Eindruck, dass es teurer ist, erklärt die FAZ.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/gefuehlte-inflation-in-deutschland-warum-2-8-prozent-falsch-wirken-201658905.html",
-      "source": "FAZ Wirtschaft",
-      "category": "Konjunktur"
-    },
-    {
-      "title": "Stahlgipfel: Wie geht es mit der Stahlindustrie weiter?",
-      "summary": "Hohe Energiepreise und weltweite Überkapazitäten setzen Deutschlands Stahlerzeuger unter Druck. Beim Nationalen Stahlgipfel geht es um ihre Zukunft.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/nationaler-stahlgipfel-welche-zukunft-hat-die-stahlindustrie-in-deutschland/100269568.html",
-      "source": "Handelsblatt",
+      "title": "VW verdient laut Studie nur noch zwölf Euro pro Auto",
+      "summary": "Sonderbelastungen drücken die Gewinnmarge von Volkswagen praktisch auf null. Auch ohne diese Zusatzlasten steht der Konzern demnach nicht besonders gut da.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/vw-verdient-offenbar-nur-noch-zwoelf-euro-pro-verkauftem-auto-a-0ac7334b-310b-4179-9a69-4ba1d62ddf7b#ref=rss",
+      "source": "Spiegel Wirtschaft",
       "category": "Unternehmen"
     },
     {
-      "title": "Altersvorsorgedepot ersetzt ab 2027 die Riester-Rente",
-      "summary": "Das neue Depot lockt mit staatlicher Förderung. Das Handelsblatt beantwortet die zwölf wichtigsten Fragen dazu.",
-      "url": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-die-zwoelf-wichtigsten-antworten-zum-altersvorsorgedepot/100265976.html",
-      "source": "Handelsblatt",
+      "title": "Siemens meldet Rekordjahr, aber weniger Gewinn",
+      "summary": "Der Technologiekonzern hat ein Rekordjahr hinter sich, verdient unter dem Strich aber weniger als zuvor.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVE5BZzF2cHBMV2ZlaGs1azhOWURINGdyYzB3Y2UzZHRkQjFmZktDTEdGa0JmbGpWZkZ2QjZlMHRQWjJ4ZlN3NmxrOTIzbml0Qm1YU043QjB0V2RwTkpwM3VKVXJaejIyRDV0SjVVMlYzU1ZIcUJhMUgxMGZublRORmYybzFXUGRTeWo1WVBRcDlvUW1tOExZcnJOWmxxNllrY1dEbFZQM0VDdmdqYnpEcTRnQ3hwMFZKNkE?oc=5",
+      "source": "Allgemeine Zeitung",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Verdi kündigt Warnstreiks bei privaten Banken an",
+      "summary": "Ab Montag sollen bundesweit Beschäftigte privater Banken die Arbeit niederlegen.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORWQ4akxhMlBOODhxOTdVMnJla2hnWldkcWIyN2M4Yml2bzFSZ3FJTGFFVFlpZzJMS3h0czMwMmJBT2hWNkJUemJEVWNjdU5JaVEzU3c5cnJZbUNyQ1hWNlo0SWdOWjAxZWtoaDF6ZlY3ZW9sZXlYYkNadVFvZHVUZFk0c2hpdGw4c2t4VVR6UzBQUVRBdnFHY2xSUVNiejVpQ0o0WlRNQUxWcEx6OHdwZHJjMUNERm1jTHJmTE9EOHNOdElsdkRaLVdLRnFtbjIx?oc=5",
+      "source": "Allgemeine Zeitung",
       "category": "Arbeit & Soziales"
     },
     {
-      "title": "Stundenlange Störung bei Microsoft-Diensten",
-      "summary": "Outlook und Teams waren am Donnerstag über Stunden nicht erreichbar. Viele Firmen und Verbraucher lassen ihre E-Mails über Outlook laufen.",
-      "url": "https://www.handelsblatt.com/technik/it-internet/e-mail-probleme-stundenlange-stoerung-bei-microsofts-cloud-e-mail/100269542.html",
+      "title": "Leistungsbilanz im September mit Überschuss von 18,7 Milliarden Euro",
+      "summary": "Die Leistungsbilanz misst Handel und Einkommen mit dem Ausland. Der Überschuss lag 7,6 Milliarden Euro über dem Vormonat, vor allem wegen des Warenhandels.",
+      "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/die-deutsche-zahlungsbilanz-im-september-2026-1015818",
+      "source": "Bundesbank",
+      "category": "Konjunktur"
+    },
+    {
+      "title": "EU gibt Industrie mehr kostenlose CO2-Zertifikate",
+      "summary": "EU-Parlament und Mitgliedstaaten haben sich geeinigt, der Industrie zusätzliche kostenlose Verschmutzungsrechte zu geben. Das soll Betriebe im Emissionshandel entlasten.",
+      "url": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Energie"
+    },
+    {
+      "title": "Vollkasko für E-Autos aus China fast doppelt so teuer",
+      "summary": "Chinesische Hersteller locken mit niedrigen Kaufpreisen, doch die Versicherung kostet bis zu 870 Euro mehr. Der Preisvorteil kann dadurch teils verschwinden.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/vollkasko-versicherung-fuer-chinesische-e-autos-fast-doppelt-so-teuer-accg-201679370.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Unternehmen",
+      "tipp": "Vor dem Kauf eines E-Autos die Versicherungskosten für das Modell vergleichen."
+    },
+    {
+      "title": "Deutschland will Chefvolkswirt-Posten bei der EZB",
+      "summary": "Bei der Nachfolge von EZB-Chefin Lagarde läuft laut FAZ alles auf den Spanier Hernández de Cos hinaus. Deutschland möchte sich den zweitwichtigsten Posten sichern, den des Chefvolkswirts.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ezb-personalpoker-deutschland-will-den-chefvolkswirt-201680913.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Zinsen & Geldpolitik"
+    },
+    {
+      "title": "Cyberangriff trifft Drohnenhersteller Quantum Systems",
+      "summary": "Nach dem Hackerangriff läuft die Suche nach den Tätern, vieles deutet auf einen russischen Hintergrund. Das Unternehmen beliefert unter anderem das ukrainische Militär.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "BMW öffnet seinen CO2-Pool für andere Hersteller",
+      "summary": "BMW liegt bei den Emissionen besser als vorgeschrieben und lässt Konkurrenten seine Bilanz mitnutzen. Das bringt dem Konzern finanzielle Vorteile.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-bmw-oeffnet-seinen-co-pool-fuer-die-konkurrenz/100269792.html",
       "source": "Handelsblatt",
       "category": "Unternehmen"
     }
