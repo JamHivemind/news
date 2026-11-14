@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-14T05:20:22.519Z",
+ "fetched": "2026-11-14T08:21:11.224Z",
  "hours": 48,
  "sources": [
   {
@@ -7,10 +7,10 @@
    "ok": true,
    "items": [
     {
-     "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-     "date": "2026-11-13T17:57:57.000Z",
-     "text": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent."
+     "title": "Warum in Polen schneller gebaut wird als in Deutschland",
+     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
+     "date": "2026-11-14T07:24:30.000Z",
+     "text": "Wird in Polen eine neue Straße oder Brücke errichtet, geht es deutlich schneller als westlich der Oder in Deutschland. Fachleuten zufolge gibt es dafür mehrere Gründe. Von Andre Kartschall und Jakub Paczkowski."
     },
     {
      "title": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
@@ -29,6 +29,12 @@
      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
      "date": "2026-11-13T20:22:33.000Z",
      "text": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick."
+    },
+    {
+     "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
+     "date": "2026-11-13T17:57:57.000Z",
+     "text": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent."
     },
     {
      "title": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
@@ -107,12 +113,6 @@
      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/mehr-menschen-ueberschuldet-schuldneratlas-100.html",
      "date": "2026-11-12T11:31:51.000Z",
      "text": "Die Zahl überschuldeter Menschen in Deutschland steigt im zweiten Jahr in Folge. Auslöser einer finanziellen Notlage sind häufig Krankheit, Sucht, Unfälle oder Arbeitslosigkeit. Betroffen sind vor allem Jüngere."
-    },
-    {
-     "title": "Was Experten raten: Wie es mit dem Jobwechsel klappen kann",
-     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/jobwechsel-beruf-neuorientierung-100.html",
-     "date": "2026-11-12T07:29:46.000Z",
-     "text": "Stellenstreichungen in der Industrie, Künstliche Intelligenz oder Unzufriedenheit können Gründe sein, sich beruflich neu zu orientieren. Doch was ist beim Jobwechsel zu beachten? Experten haben dafür Tipps. Von Lidia Wagner."
     }
    ]
   },
@@ -120,6 +120,18 @@
    "name": "Spiegel Wirtschaft",
    "ok": true,
    "items": [
+    {
+     "title": "Iran meldet zwei brennende Öl-Tanker in der Straße von Hormus",
+     "url": "https://www.spiegel.de/wirtschaft/service/iran-meldet-zwei-brennende-oel-tanker-in-der-strasse-von-hormus-a-872ff571-83d5-4520-9cd2-bdbdf570b95e#ref=rss",
+     "date": "2026-11-14T07:49:00.000Z",
+     "text": "Es fließt wieder Öl durch die Straße von Hormus, doch die Passage gilt als teuer und riskant. Nun berichtet Iran über Feuer auf zwei Tankern – angeblich verursacht durch Seeminen."
+    },
+    {
+     "title": "Kassenärzte schlagen Selbstzahler-Termine für Kassenpatienten vor",
+     "url": "https://www.spiegel.de/wirtschaft/soziales/kassenaerzte-schlagen-selbstzahler-termine-fuer-kassenpatienten-vor-a-4282bfbb-79a4-447b-b77b-812ed98bfc04#ref=rss",
+     "date": "2026-11-14T07:17:00.000Z",
+     "text": "Die Ärzte sind sauer über das Sparprogramm im Gesundheitswesen. Viele Praxen würden dann weniger Termine anbieten, warnt der Chef der Kassenärzte – es sei denn, Patienten zahlten aus eigener Tasche."
+    },
     {
      "title": "Jensen Huang ist narzisstisch wie Trump, schreibt der Biograf des Ex-Nvidia-Bosses",
      "url": "https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses-a-971f4125-2af3-4f22-8ad8-f59d6847c71e#ref=rss",
@@ -227,18 +239,6 @@
      "url": "https://www.spiegel.de/wirtschaft/bundeswehr-startet-onlineshop-und-verkauft-badeenten-mit-sturmgewehr-a-3435b089-f352-422c-b8eb-dbaa414a0211#ref=rss",
      "date": "2026-11-12T20:41:00.000Z",
      "text": "Im Angebot sind Vollmilchschokolade, Hoodies und Federtiere in Flecktarn: Die Bundeswehr verkauft nun Merch im eigenen Onlineshop. Zum Start gab es Kritik von der Linken. Und Server, die dem Ansturm nicht standhielten."
-    },
-    {
-     "title": "Mercedes-Benz: Vorstand stoppt Investitionen und prüft Werksschließungen in Deutschland",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-konzern-stoppt-investitionen-in-deutsche-werke-und-prueft-schliessungen-a-e7f79c73-ef81-4715-a6ad-a7033a1fac75#ref=rss",
-     "date": "2026-11-12T18:09:00.000Z",
-     "text": "Der Streit zwischen Management und Arbeitnehmervertretung bei Mercedes-Benz eskaliert. Intern droht der Vorstand drastische Maßnahmen an: Künftige Fahrzeuge könnten »ausschließlich im Ausland« produziert werden."
-    },
-    {
-     "title": "Volkswagen-Krise: VW verdient offenbar nur noch zwölf Euro pro verkauftem Auto",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/vw-verdient-offenbar-nur-noch-zwoelf-euro-pro-verkauftem-auto-a-0ac7334b-310b-4179-9a69-4ba1d62ddf7b#ref=rss",
-     "date": "2026-11-12T15:59:00.000Z",
-     "text": "Sonderbelastungen drücken bei Volkswagen die Gewinnmarge einer Studie zufolge praktisch auf null. Der Konzern steht beim Verdienst demnach auch nicht besonders gut da, wenn man die Zusatzlasten herausrechnet."
     }
    ]
   },
@@ -247,22 +247,22 @@
    "ok": true,
    "items": [
     {
+     "title": "Weltweite IT-Störung: Microsoft: Dienste für Verbraucher arbeiten nach Mega-Panne wieder",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-dienste-fuer-verbraucher-arbeiten-nach-mega-panne-wieder-accg-201679156.html",
+     "date": "2026-11-14T06:30:00.000Z",
+     "text": "Eine massive Microsoft-Störung führt dazu, dass Nutzer weltweit Outlook und andere Programme nur eingeschränkt verwenden können. Inzwischen laufen viele Systeme wieder besser."
+    },
+    {
      "title": "Misserfolg für Musk: Fehlschlag bei Starship-Testflug – Fangversuch gescheitert",
      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spacex-testflug-starship-booster-verfehlt-fangversuch-accg-201682589.html",
      "date": "2026-11-14T02:00:20.000Z",
      "text": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt ist das Starship erneut zu einem Testflug aufgebrochen – und es kommt zu Komplikationen."
     },
     {
-     "title": "Kommunikationsstörung: Nach landesweitem Flugverbot – Starts an US-Flughäfen wieder erlaubt",
+     "title": "Kommunikationsstörung: Landesweites US-Flugverbot wieder aufgehoben – in Europa droht noch Chaos",
      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/us-luftfahrtbehoerde-faa-stoppt-fluege-in-den-gesamten-usa-201682407.html",
      "date": "2026-11-14T00:13:00.000Z",
      "text": "Eine Kommunikationsstörung legt den Luftverkehr in den USA lahm. Die FAA stoppte sämtliche Starts im Land – erst zum zweiten Mal seit den Anschlägen vom 11. September 2001."
-    },
-    {
-     "title": "Weltweite IT-Störung: Microsoft gibt vorsichtige Entwarnung – „nachhaltige Verbesserung in Europa“",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-gibt-vorsichtige-entwarnung-nachhaltige-verbesserung-in-europa-accg-201679156.html",
-     "date": "2026-11-13T20:11:47.000Z",
-     "text": "Eine massive Microsoft-Störung führt dazu, dass Nutzer weltweit Outlook und andere Programme nur eingeschränkt verwenden können. Inzwischen laufen viele Systeme wieder besser."
     },
     {
      "title": "Business-Ticker: Alkoholverbot an Bahnhöfen: Bahn zieht positive Bilanz",
@@ -349,12 +349,6 @@
      "text": "Im Ringen um die EZB-Spitze läuft derzeit alles auf den Spanier Hernández de Cos hinaus. Deutschland will sich den zweitwichtigsten Posten sichern."
     },
     {
-     "title": "Jensen Huang: Der Nvidia-Chef, die Chinesin und der Leerverkäufer",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-und-jensen-huang-was-der-leerverkaeufer-culper-research-schon-frueher-ahnte-accg-201674198.html",
-     "date": "2026-11-12T05:21:59.000Z",
-     "text": "Eine mutmaßliche Spionin, Milliarden für KI-Chips und rätselhafte Geschäfte in Südostasien: Ein Leerverkäufer ahnt schon länger, dass da was nicht stimmt."
-    },
-    {
      "title": "Panne bei Microsoft: Warum Friedrich Merz trotz des Microsoft-Ausfalls noch E-Mails schreiben konnte",
      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/microsoft-ausfall-warum-bundesbehoerden-ungestoert-weiterarbeiteten-201680148.html",
      "date": "2026-11-13T14:10:04.000Z",
@@ -414,6 +408,36 @@
    "name": "Handelsblatt",
    "ok": true,
    "items": [
+    {
+     "title": "Rente: Mit der Aktie ins Alter: Die zwölf wichtigsten Antworten zum Vorsorgedepot",
+     "url": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-die-zwoelf-wichtigsten-antworten-zum-altersvorsorgedepot/100265976.html",
+     "date": "2026-11-14T08:04:00.000Z",
+     "text": "Das Altersvorsorgedepot ersetzt ab 2027 die Riester-Rente und lockt mit staatlicher Förderung. Das sorgt bei vielen Fachleuten für Begeisterung. Doch die neue Förderrente ist nicht in allen Belangen spitze."
+    },
+    {
+     "title": "Morning Briefing Plus: Eine dramatische Warnung auf 458 Seiten",
+     "url": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-eine-dramatische-warnung-auf-458-seiten/100269685.html",
+     "date": "2026-11-14T07:35:08.000Z",
+     "text": "Die Wirtschaftsweisen sehen eine Staatsschuldenkrise aufziehen und machen kluge Vorschläge, um sie zu vermeiden. Der Haushalt der Koalition sendet eine ganz andere Botschaft – leider."
+    },
+    {
+     "title": "Outlook und Teams: Microsoft-Dienste für Verbraucher arbeiten nach Störung wieder",
+     "url": "https://www.handelsblatt.com/technik/it-internet/outlook-und-teams-microsoft-dienste-fuer-verbraucher-arbeiten-nach-stoerung-wieder/100269854.html",
+     "date": "2026-11-14T07:24:26.000Z",
+     "text": "Ein massiver Ausfall von Microsoft-Diensten hatte weltweit Nutzer beeinträchtigt. Verbraucher können die Dienste nun wieder vollständig nutzen. Für Firmenkunden gilt das noch nicht."
+    },
+    {
+     "title": "Nach Internet-Drosselung: US-Senatoren wollen Antworten zu Starlink in der Ukraine",
+     "url": "https://www.handelsblatt.com/politik/international/nach-internet-drosselung-us-senatoren-wollen-antworten-zu-starlink-in-der-ukraine/100269853.html",
+     "date": "2026-11-14T07:05:46.000Z",
+     "text": "Die Ukraine ist unter anderem zur Drohnenabwehr auf Elon Musks Satelliten-Internet angewiesen - doch zuletzt hakte es damit. Senatoren der Demokraten laufen sich für eine Untersuchung warm."
+    },
+    {
+     "title": "Musks Autobauer: Tesla lässt ausgewählte Käufer Robotaxis vorbestellen",
+     "url": "https://www.handelsblatt.com/technik/it-internet/musks-autobauer-tesla-laesst-ausgewaehlte-kaeufer-robotaxis-vorbestellen/100269846.html",
+     "date": "2026-11-14T05:55:06.000Z",
+     "text": "Tesla will mit seinem Cybercab die Robotaxi-Branche aufrollen. Nun sollen einige der Wagen auch in Privatbesitz gehen - noch während die Firma wegen des Fahrzeugs Ärger mit einer US-Behörde hat."
+    },
     {
      "title": "Energiewende: Produktion von Sonnenstrom steuert auf Rekord zu",
      "url": "https://www.handelsblatt.com/politik/deutschland/energiewende-produktion-von-sonnenstrom-steuert-auf-rekord-zu/100269842.html",
@@ -563,36 +587,6 @@
      "url": "https://www.handelsblatt.com/politik/international/besuch-in-peru-papst-bei-rueckkehr-in-alte-dioezese-in-peru-gefeiert/100269558.html",
      "date": "2026-11-13T16:42:02.000Z",
      "text": "Leo XIV. ist zurück in der Großstadt Chiclayo, wo er acht Jahre lang Bischof war. Dabei spricht er nach seiner Krebs-OP auch das Thema Gesundheit an. Mehr als eine Million Menschen bejubeln ihn."
-    },
-    {
-     "title": "Bundespräsidenten-Wahl: Ex-Weltmeister Berthold als AfD-Bundespräsidentenkandidat?",
-     "url": "https://www.handelsblatt.com/politik/deutschland/bundespraesidenten-wahl-ex-weltmeister-berthold-als-afd-bundespraesidentenkandidat/100269769.html",
-     "date": "2026-11-13T15:58:53.000Z",
-     "text": "Die AfD schickt einen eigenen Kandidaten ins Rennen um das Amt des Bundespräsidenten. Es sieht nach einem prominenten deutschen Ex-Fußballer aus."
-    },
-    {
-     "title": "Today: Mercedes stoppt alle Investitionen in Deutschland | Wie GTA 6 zum Popkultur-Phänomen wurde",
-     "url": "https://www.handelsblatt.com/audio/today/today-wie-gta6-zum-popkultur-phaenomen-wurde/100269791.html",
-     "date": "2026-11-13T15:54:40.000Z",
-     "text": "Der Hype um das Videospiel hat schon vor dessen Veröffentlichung ein historisches Ausmaß angenommen. Und: Das Mercedes-Management will vorerst alle Investitionen in Deutschland streichen."
-    },
-    {
-     "title": "Bequem von zu Hause: Rente online regeln: Das bietet das DRV-Kundenportal",
-     "url": "https://www.handelsblatt.com/finanzen/steuern-recht/bequem-von-zu-hause-rente-online-regeln-das-bietet-das-drv-kundenportal/100269794.html",
-     "date": "2026-11-13T15:50:51.000Z",
-     "text": "Daten digital und papierlos von zu Hause aus zu bearbeiten, spart Zeit und Porto. So lässt sich rund um das Thema Rente vieles online im Kundenportal der Deutschen Rentenversicherung erledigen."
-    },
-    {
-     "title": "Krieg in Nahost: Sorgen im Machtzentrum der Wirtschaft: Israels Hightech-Branche hofft auf einen Politikwechsel",
-     "url": "https://www.handelsblatt.com/politik/international/israel-die-hightech-branche-hofft-auf-den-abschied-von-netanjahu/100264664.html",
-     "date": "2026-11-13T15:50:07.000Z",
-     "text": "Drei Jahre Krieg – und Israels Wirtschaft wächst weiter. Doch die Hightech-Branche befürchtet eine zunehmende Isolation des Landes und eine weitere Amtszeit Netanjahus."
-    },
-    {
-     "title": "Sorgfaltspflicht verletzt?: Autounfall am Zebrastreifen - Muss Radlerin mithaften?",
-     "url": "https://www.handelsblatt.com/mobilitaet/motor/sorgfaltspflicht-verletzt-autounfall-am-zebrastreifen-muss-radlerin-mithaften/100269579.html",
-     "date": "2026-11-13T15:45:30.000Z",
-     "text": "Mit dem Rad über den Zebrastreifen bei dichtem Verkehr und schlechter Sicht. Dann Zusammenstoß mit einem Pkw. Dessen Fahrer verlangt vollen Schadenersatz - wie entscheidet das Gericht?"
     }
    ]
   },
@@ -681,20 +675,6 @@
      "via": "SZ.de"
     },
     {
-     "title": "Wirtschaft - Ethisch heikel: Zielfindungs-KI aus Deutschland - Inforadio",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1FVWW13TUxiMkZINnlGZ1pZQTh5c3YtLXI4ZkUwdEgzZ0l2VFNFQktwYlFxYzdyQjU3MFc3dTUxZWdraGZrYmJoZEpFaWpyZnRTNVlZZUQzeVoyamZyQWE4NDhZUDJfSFllUVN0WlAzLVJaOWE5d3pYMkNwamg0ZVpucU1lckpHcWtHbmpjZXltMVQ1a3ZCMlZlTmcxN1F1SUlzanVKNmhRWV94T3p1X3Y5cnhTc2NoY3pUeERaMnRHOWs3dWJHYmhNYzA0bTctQkE?oc=5",
-     "date": "2026-11-13T09:35:00.000Z",
-     "text": "Wirtschaft - Ethisch heikel: Zielfindungs-KI aus Deutschland Inforadio",
-     "via": "Inforadio"
-    },
-    {
-     "title": "Mercedes stoppt alle weiteren Investitionen in Deutschland – Werksschließungen werden geprüft - WELT",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOREw4Um9XNlFxbkIzTW93QTFJMENNLVpOU2h1UFdiQzhEMERtOWhXeU4wVEtpb2VnbE1JUFpwMWdNbnFaZXQ2RTRxZWRSV0ExQm5uT3JPampqNi1ZN3IwTmhNVmxHdThCblU2UWJreVd0Zk1pd0tpTVJCcG1pTVhfTjA1WFd3akFuWmNSa1ItUEp4c1BYSlcwRGFzb3A1U05ocDNiYTluNGh0ZWlsd0E1ZlEzRDVXYm9mLUFrbmV3MklUN0psZldlcVVIWDY1bDlSenRhdTlzcGxLNnVrWWoxbm1vR0EydE1rTG1qclFKREo2dVE?oc=5",
-     "date": "2026-11-13T09:32:46.000Z",
-     "text": "Mercedes stoppt alle weiteren Investitionen in Deutschland – Werksschließungen werden geprüft WELT",
-     "via": "WELT"
-    },
-    {
      "title": "Creditreform Schuldneratlas: Jeder zehnte Erwachsene in Deutschland ist überschuldet - Spiegel",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUWJ2a2JwUWttS3BfOWliUXhjU1FINzdqMmJmSFhCRDRHaVN5dWNxU3RScDBjSEJlU1F0NllGRUVET1N6N3NaaFdfdUc2MnEtODJrcjRuT2tMWjZKaFlpV1loU1BNV29SMWRYMGFHeWpOSXpaU0VxUkNMd25HUC03LVd4S0Y4SjVkWEt4VkVLR25SekZjUzQzcE9COVdlUFVraXF3bllQeEMxSnM3bDJkU2o4M21pUFZWN3g1NDZ4VGNsMXNCVU9ua1g2cjE5VUNZNEdGVg?oc=5",
      "date": "2026-11-12T09:39:00.000Z",
@@ -707,6 +687,20 @@
      "date": "2026-11-13T20:27:00.000Z",
      "text": "Langer Ausfall bei Microsoft löst gravierende Störungen aus Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Wirtschaft - Ethisch heikel: Zielfindungs-KI aus Deutschland - Inforadio",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1FVWW13TUxiMkZINnlGZ1pZQTh5c3YtLXI4ZkUwdEgzZ0l2VFNFQktwYlFxYzdyQjU3MFc3dTUxZWdraGZrYmJoZEpFaWpyZnRTNVlZZUQzeVoyamZyQWE4NDhZUDJfSFllUVN0WlAzLVJaOWE5d3pYMkNwamg0ZVpucU1lckpHcWtHbmpjZXltMVQ1a3ZCMlZlTmcxN1F1SUlzanVKNmhRWV94T3p1X3Y5cnhTc2NoY3pUeERaMnRHOWs3dWJHYmhNYzA0bTctQkE?oc=5",
+     "date": "2026-11-13T09:35:00.000Z",
+     "text": "Wirtschaft - Ethisch heikel: Zielfindungs-KI aus Deutschland Inforadio",
+     "via": "Inforadio"
+    },
+    {
+     "title": "Mercedes stoppt alle weiteren Investitionen in Deutschland – Werksschließungen werden geprüft - WELT",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOREw4Um9XNlFxbkIzTW93QTFJMENNLVpOU2h1UFdiQzhEMERtOWhXeU4wVEtpb2VnbE1JUFpwMWdNbnFaZXQ2RTRxZWRSV0ExQm5uT3JPampqNi1ZN3IwTmhNVmxHdThCblU2UWJreVd0Zk1pd0tpTVJCcG1pTVhfTjA1WFd3akFuWmNSa1ItUEp4c1BYSlcwRGFzb3A1U05ocDNiYTluNGh0ZWlsd0E1ZlEzRDVXYm9mLUFrbmV3MklUN0psZldlcVVIWDY1bDlSenRhdTlzcGxLNnVrWWoxbm1vR0EydE1rTG1qclFKREo2dVE?oc=5",
+     "date": "2026-11-13T09:32:46.000Z",
+     "text": "Mercedes stoppt alle weiteren Investitionen in Deutschland – Werksschließungen werden geprüft WELT",
+     "via": "WELT"
     },
     {
      "title": "Warum bei Mercedes-Benz Werke auf dem Spiel stehen - Allgemeine Zeitung",
@@ -730,20 +724,6 @@
      "via": "tixio - Nachrichten"
     },
     {
-     "title": "News, Wirtschaft: Ifo: Materialengpässe in der Elektroindustrie verschärfen sich - tixio - Nachrichten",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWgtVFhEX2pvVkV2SGl6TDV4MXBLU1NjSXYtZmZfcWRaMTh4MHdqS1JwdzdPMlBfX3FDV01WVXdZTjdfM0N1OHc4NFdJOTBHeEt4VEh6eGVzU3hQMWZFUG9Ra0NUbnBZaG1UV3M4SjV3NlJ4SEoyZWd4NXJLNmdtUWpNTHZER3Nka1g1YkM2cm56UUhsbVNFb1BFbXpnZw?oc=5",
-     "date": "2026-11-13T07:33:29.000Z",
-     "text": "News, Wirtschaft: Ifo: Materialengpässe in der Elektroindustrie verschärfen sich tixio - Nachrichten",
-     "via": "tixio - Nachrichten"
-    },
-    {
-     "title": "DHL erhöht zum Jahreswechsel zahlreiche Paketpreise - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTR0TVc1MDFNRENldTUwbnRhczJocVZFY092SDVFYjgzMUZKUU1xZEJDNk5JbURwTlVoNmdEY3JnOTd5RTdyMmNCYnpxelhDc0t3ZGp0TE92MDdtVEtFamZuaHdYSVpiSTdUNzIweWRjbndVUGQ2akpkR2VFRXN0YTQ5czE1OGFRVHE5X1NabXhneWVsc0h1Z1pQR1A3cFZqZzZQWWR1b3daX3NxOVpLR05Zb2ZreC15NWNLUDl4LWt1eVlPeDdV?oc=5",
-     "date": "2026-11-13T09:28:00.000Z",
-     "text": "DHL erhöht zum Jahreswechsel zahlreiche Paketpreise Allgemeine Zeitung",
-     "via": "Allgemeine Zeitung"
-    },
-    {
      "title": "Welche Zukunft hat die Stahlindustrie in Deutschland? - Wirtschaft weltweit - Pforzheimer-Zeitung - PZ-news.de",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTWRjQ0dsMWxRQmMzYW03b3FyaHM2NTJuRlExSUQ3OGZhdGJxUF81WXV0Yl9sNEVBdE9td1NIcUwyRmdpOGl2eVc2ZlFIR2xqbFVNaVJkY3lHUzB1OFhxZFE3eGFEM1RWVjU1MllUQ3hVRmlMbEx1ZUMyQjJJQ1NPeTJnVXRlbFFaREk2V2lsR082S0V0XzhKNzdoSFplRXdja2lrZG5qdFV6aEZ5RFdXYWktZDg3VWRqQS1ubFJnOWNFNWJldHFUQmNOSWpobjA?oc=5",
      "date": "2026-11-13T03:03:00.000Z",
@@ -765,10 +745,24 @@
      "via": "Allgemeine Zeitung"
     },
     {
+     "title": "News, Wirtschaft: Ifo: Materialengpässe in der Elektroindustrie verschärfen sich - tixio - Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWgtVFhEX2pvVkV2SGl6TDV4MXBLU1NjSXYtZmZfcWRaMTh4MHdqS1JwdzdPMlBfX3FDV01WVXdZTjdfM0N1OHc4NFdJOTBHeEt4VEh6eGVzU3hQMWZFUG9Ra0NUbnBZaG1UV3M4SjV3NlJ4SEoyZWd4NXJLNmdtUWpNTHZER3Nka1g1YkM2cm56UUhsbVNFb1BFbXpnZw?oc=5",
+     "date": "2026-11-13T07:33:29.000Z",
+     "text": "News, Wirtschaft: Ifo: Materialengpässe in der Elektroindustrie verschärfen sich tixio - Nachrichten",
+     "via": "tixio - Nachrichten"
+    },
+    {
      "title": "Optimismus an der Börse - Dax erstmals über 27.000 Punkten - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXltMTB4c3hKZldUYmF5UXRINnBXUkJJSUFKY0p3b0l0TlN0Y3dGYV9hendtR3FITjhhY1Z2Q3MzN1JsejNNMEJfeXJjZkFSOGlldnFFVE1wdHpEbjgySmt3X3VqQ09lMlZwNFR3SE5iUTMydmpQanZyd3NJQWhlM2FZSW9VWnZZbE5QWWZsZDljSThkLXJhVFk2Zk5xWC14OG05RjV0UzVjRl9XekFPbHVQY29Fc0ZONHV5NUJ2ekg1b2ZXNWVNODlYUHdMZw?oc=5",
      "date": "2026-11-12T17:33:00.000Z",
      "text": "Optimismus an der Börse - Dax erstmals über 27.000 Punkten Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "DHL erhöht zum Jahreswechsel zahlreiche Paketpreise - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTR0TVc1MDFNRENldTUwbnRhczJocVZFY092SDVFYjgzMUZKUU1xZEJDNk5JbURwTlVoNmdEY3JnOTd5RTdyMmNCYnpxelhDc0t3ZGp0TE92MDdtVEtFamZuaHdYSVpiSTdUNzIweWRjbndVUGQ2akpkR2VFRXN0YTQ5czE1OGFRVHE5X1NabXhneWVsc0h1Z1pQR1A3cFZqZzZQWWR1b3daX3NxOVpLR05Zb2ZreC15NWNLUDl4LWt1eVlPeDdV?oc=5",
+     "date": "2026-11-13T09:28:00.000Z",
+     "text": "DHL erhöht zum Jahreswechsel zahlreiche Paketpreise Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
@@ -841,6 +835,30 @@
    "focus": "Nur Wirtschaft, Arbeitsmarkt, Energie- und Strompreise, Haushalt. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
    "ok": true,
    "items": [
+    {
+     "title": "Bühnenstar, YouTube-Phänomen, Häftling – Aufstieg und Absturz von Russell Brand",
+     "url": "https://nius.de/medien/aufstieg-und-absturz-von-russell-brand",
+     "date": "2026-11-14T08:01:23.000Z",
+     "text": "Lange galt er als schillerndste Figur der Medienbranche: Russell Brand. Jetzt wurde der britische Comedian von einem Gericht zu mehr als 10 Jahren Haft verurteilt – und weitere Vorwürfe stehen im Raum. Eine Netflix-Doku zeigt, wie der Brite vom gefeierten Comedian zum Hollywoodstar und jetzt zum Angeklagten wurde."
+    },
+    {
+     "title": "Deutschlands Selbstzerstörung ist zur Staatsräson geworden",
+     "url": "https://nius.de/analyse/deutschlands-selbstzerstoerung-ist-zur-staatsraeson-geworden",
+     "date": "2026-11-14T08:00:57.000Z",
+     "text": "Die regierenden Parteien betreiben die Zerstörung Deutschlands und pflegen eine opportunistische Feindschaft gegen das eigene Volk. Wie ist das möglich?"
+    },
+    {
+     "title": "Meine Antwort auf den Brandanschlag",
+     "url": "https://nius.de/kommentar/meine-antwort-auf-den-brandanschlag",
+     "date": "2026-11-14T08:00:28.000Z",
+     "text": "Brandanschlag auf Julian Reichelts Auto. Wer politisch den Boden bereitet hat, erfahren Sie hier."
+    },
+    {
+     "title": "Nahles rechnet mit 800.000 Jobverlusten durch KI – es könnten acht Millionen sein",
+     "url": "https://nius.de/wirtschaft/nahles-rechnet-mit-800-000-jobverlusten-durch-ki-es-koennten-acht-millionen-sein",
+     "date": "2026-11-14T06:30:00.000Z",
+     "text": "Da hat Andrea Nahles wohl eine Null vergessen. Aber ganz offensichtlich mit Absicht. Sie rechnet in den nächsten 15 Jahren mit 800.000 Jobs, die durch KI wegfallen oder gestrichen werden. 8 Millionen wäre eine realistische Einschätzung."
+    },
     {
      "title": "Tanker rammt Kreuzfahrtschiff auf dem Mississippi",
      "url": "https://nius.de/ausland/tanker-rammt-kreuzfahrtschiff-auf-dem-mississippi",
@@ -996,30 +1014,6 @@
      "url": "https://nius.de/politik/kindergeld-eu-buerger-bfh",
      "date": "2026-11-13T09:35:54.000Z",
      "text": "Zwei Urteile: Nicht erwerbstätige EU-Bürger können Kindergeld bekommen, wenn Aufenthaltsrecht und Mittel vorliegen."
-    },
-    {
-     "title": "Auto von NIUS-Chefredakteur Julian Reichelt abgefackelt",
-     "url": "https://nius.de/berlin/brandanschlag-auto-chefredakteur-julian-reichelt",
-     "date": "2026-11-13T07:46:29.000Z",
-     "text": "Am Freitagmorgen wurde das Auto von NIUS-Chefredakteur Julian Reichelt in Berlin angezündet."
-    },
-    {
-     "title": "Bundeshaushalt beschlossen: Rekordausgaben und 210 Milliarden Euro Schulden",
-     "url": "https://nius.de/politik/bundeshaushalt-beschlossen-rekordausgaben-und-210-milliarden-euro-schulden",
-     "date": "2026-11-13T06:28:31.000Z",
-     "text": "Der Haushaltsausschuss des Bundestages hat am frühen Freitagmorgen den Bundeshaushalt für 2027 gebilligt – mit Rekordausgaben von 560,9 Milliarden Euro und mehr als 210 Milliarden Euro Neuverschuldung."
-    },
-    {
-     "title": "USA mit fast einer halben Million Abschiebungen in einem Jahr",
-     "url": "https://nius.de/ausland/usa-donald-trump-abschiebungen-ice",
-     "date": "2026-11-13T06:07:57.000Z",
-     "text": "Die US-Regierung meldet binnen eines Jahres fast eine halbe Million Abschiebungen."
-    },
-    {
-     "title": "Microsoft-Chaos: Störung bei Outlook, Teams und Copilot",
-     "url": "https://nius.de/news/microsoft-stoerung-outlook-teams-copilot",
-     "date": "2026-11-13T05:52:04.000Z",
-     "text": "Stundenlange Störung bei Microsofts Cloud-Angeboten wie Outlook, Teams und dem KI-Assistenten Copilot. Viele Unternehmen und Verbraucher waren betroffen."
     }
    ]
   }
