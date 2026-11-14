@@ -1,114 +1,100 @@
 {
-  "date": "2026-11-13",
-  "intro": "Im Hafen schwächelt der Containerumschlag, und der Streit um den Elbtower verschärft sich. Die Hochschulen müssen laut Abendblatt bis zu 15 Prozent ihrer Studienplätze abbauen.",
+  "date": "2026-11-14",
+  "intro": "Am Wochenende muss der Verkehr in Hamburg auf der A1 und an der Nordkanalbrücke mit Sperrungen rechnen. Gleichzeitig kommt die neue U-Bahn-Linie U5 mit dem ersten fertigen Rohbau sichtbar voran.",
   "top": [
     {
-      "title": "Hafen: HHLA-Gewinn bricht um fast 25 Prozent ein",
-      "text": "Hamburgs Hafenbetreiber HHLA verdient deutlich weniger. Er nennt die Kosten für die Automatisierung seiner Terminals und die Folgen von Streiks als Gründe. Auch der Containerumschlag im Hafen sank leicht, die Hafenverwaltung nennt unter anderem die Kälte zu Jahresbeginn. Für den Hafen und damit für viele Jobs in der Stadt ist das ein schwaches Signal.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/gewinn-von-hamburgs-hafenbetreiber-hhla-bricht-um-fast-25-prozent-ein,hhla-158.html",
+      "title": "U5: Erste Haltestelle in der City Nord im Rohbau fertig",
+      "text": "Die Hochbahn hat Richtfest für die erste Haltestelle der neuen U-Bahn-Linie 5 in der City Nord gefeiert. Der Streckenabschnitt bis zur Sengelmannstraße steht im Rohbau. Die U5 soll nach Angaben der Mopo 29 Kilometer lang werden und 24 Haltestellen bekommen. Für Pendler ist das ein sichtbares Zeichen, dass das Milliardenprojekt vorankommt.",
+      "url": "https://www.ndr.de/nachrichten/hamburg/richtfest-fuer-erste-u5-haltestelle-erster-abschnitt-im-rohbau-steht,ubahn-166.html",
       "source": "NDR Hamburg",
+      "category": "Verkehr"
+    },
+    {
+      "title": "A1 Richtung Bremen bis Sonntagabend voll gesperrt",
+      "text": "Wegen eines Fahrbahnschadens nahe der Norderelbbrücke ist die A1 in Richtung Bremen von Samstagmorgen bis Sonntagabend voll gesperrt. Laut Abendblatt folgt eine Woche später eine weitere Sperrung. Autofahrer sollten das Wochenende großräumig umplanen.",
+      "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-ab-morgen-frueh-in-eine-richtung-gesperrt,aeins-168.html",
+      "source": "NDR Hamburg",
+      "category": "Verkehr",
+      "tipp": "Vor Fahrten Richtung Bremen die aktuelle Verkehrslage prüfen und mehr Zeit einplanen."
+    },
+    {
+      "title": "Kaimauern im Hafen: Hamburg darf 286 Millionen zahlen",
+      "text": "Die Deutsche Verkehrs-Zeitung berichtet, dass Hamburg die Erneuerung maroder Kaimauern im Hafen mit 286 Millionen Euro unterstützen darf. Kaimauern sind die Uferwände, an denen Containerschiffe festmachen. Sie sind für den Hafenbetrieb entscheidend. Weitere Einzelheiten stehen im Teaser nicht.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQXBmbWFDSXlRbHM1RVFtaG5Pd2ZMZU9iS09aU05kUEt0cTZHc2JOUGpjdElBcGlNemVzZjNPMGNDLXN3TXEtRjhmdGhaV2VYTnNFUHJzem1iZGd2aTFUZ1dLRnZaU3ZNQktGTmYzczE0ZnVENkxtY2hkRG9NZ1V2MmZEMFA2UllWQmtldTFQS0NoT2NITy04b1k2M1pYbklVbzJkZXJXalBJckJXcTVzMU9sQ084MUZzVFE?oc=5",
+      "source": "DVZ - Deutsche Verkehrs-Zeitung",
       "category": "Wirtschaft & Hafen"
-    },
-    {
-      "title": "Elbtower: Streit um das Hochhaus verschärft sich",
-      "text": "Der Bauunternehmer Lupp erhöht den Druck und will den Kran am Elbtower abbauen. Der Bürgermeister lehnt das ab. Laut Abendblatt wird eine Einigung nicht wahrscheinlicher, und das Hochhaus könnte am Ende niedriger ausfallen als geplant.",
-      "url": "https://www.abendblatt.de/hamburg/politik/article413658858/verhaertete-fronten-beim-elbtower-wird-das-hochhaus-noch-niedriger.html",
-      "source": "Hamburger Abendblatt",
-      "category": "Bauen & Wohnen"
-    },
-    {
-      "title": "Uni Hamburg und HAW müssen Studienplätze abbauen",
-      "text": "Die Hochschulen müssen laut Abendblatt bis zu 15 Prozent ihrer Studienplätze streichen. Die HAW (Hochschule für Angewandte Wissenschaften) trifft es besonders hart. Für Studieninteressierte heißt das: Der Wettbewerb um Plätze dürfte härter werden.",
-      "url": "https://www.abendblatt.de/hamburg/politik/article413643987/bis-zu-15-prozent-so-viele-studienplaetze-muessen-uni-hamburg-und-haw-abbauen.html",
-      "source": "Hamburger Abendblatt",
-      "category": "Stadt & Politik"
     }
   ],
   "entries": [
     {
-      "title": "Hapag-Lloyd verdient dank hoher Frachtraten mehr",
-      "summary": "Obwohl der Umsatz stagniert, steigt der Gewinn der Hamburger Reederei im dritten Quartal deutlich. Grund sind hohe Preise für den Containertransport.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/Hamburger-Reederei-Hapag-Lloyd-rechnet-mit-hoeherem-Gewinn,hapaglloyd-128.html",
-      "source": "NDR Hamburg",
-      "category": "Wirtschaft & Hafen"
-    },
-    {
-      "title": "Weniger Ausbildungsstellen in Hamburg",
-      "summary": "Der Arbeitsagentur wurden 9.314 Ausbildungsstellen gemeldet, 1.051 weniger als im Vorjahr. Laut Abendblatt erreicht die Zahl der Hamburger ohne Ausbildungsplatz zugleich ein Fünf-Jahres-Hoch.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/weniger-menschen-haben-in-hamburg-eine-ausbildung-begonnen,ausbildungsbilanz-104.html",
-      "source": "NDR Hamburg",
-      "category": "Wirtschaft & Hafen"
-    },
-    {
-      "title": "Köhlbrandbrücke: Zustand der Rampen „ungenügend“",
-      "summary": "Das Abendblatt fragt, wie lange die für den Hafen wichtige Brücke noch hält. Der Zustand der Rampen ist demnach ungenügend.",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcXB3NlQyMFFyb2ZnZV8xNEZ0LTloQTZKVWlMSGtnbHZpTXlFTVFCNDRpd3dPcnpZcS14U3kwOGpGYko0T1F3YVdyWnFFTVRJY2NxX1pHd2Z0SjVnaW5wcDdkUEJwTkpPdTJTVFlrcHQ4TG1rTC1qZmZ2blJhYjFNb0lYQklJYnA1V2FZWU4xaDlKbl92Qkg4OExxYk5ucDRZai1VeTZoMEE1Nk5tUUplYXNUbWNsSFJLc2xuVkZBaGtYQXJremQyNFNnSGc4ZFU0cllUZ2lMN2xtUFZlaHBleTg0QzFCdUlNZFlBdTVqSWtnaUJZNnVOZkhxSQ?oc=5",
+      "title": "Schanzenstraße bleibt länger gesperrt als geplant",
+      "summary": "Die wichtige Straße im Schanzenviertel sollte Ende 2026 wieder für Autos öffnen, das klappt laut Abendblatt nicht. Geschäftsleute sind verärgert, die Bahn nennt Gründe.",
+      "url": "https://www.abendblatt.de/hamburg/altona/article413666310/schanzenstrasse-in-hamburg-laenger-gesperrt-als-geplant-geschaeftsleute-genervt.html",
       "source": "Hamburger Abendblatt",
       "category": "Verkehr"
     },
     {
-      "title": "Harburg: Tempo 30 auf sieben Abschnitten geplant",
-      "summary": "Gründe sind Lärmschutz in der Nacht, spielende Kinder und Schulen. Das Abendblatt listet die betroffenen Straßenabschnitte.",
-      "url": "https://www.abendblatt.de/hamburg/harburg/article413633679/harburg-auf-sieben-abschnitten-soll-bald-tempo-30-gelten.html",
+      "title": "S4 nach Ahrensburg: Verzögerungen drohen",
+      "summary": "Die geplante S-Bahn-Linie S4 soll Hamburg mit dem Umland verbinden. Laut Abendblatt drohen Verspätungen und höhere Kosten, weil Bauarbeiten nicht gut abgestimmt sind.",
+      "url": "https://www.abendblatt.de/hamburg/politik/article413673387/s4-bau-zwischen-hamburg-und-ahrensburg-verzoegerungen-durch-sanierung-drohen.html",
       "source": "Hamburger Abendblatt",
       "category": "Verkehr"
     },
     {
-      "title": "Anwohnerparken: Behörde lehnt längere Zeiten ab",
-      "summary": "Die Verkehrsbehörde will die Zeiten für Anwohnerparken nicht ausweiten, obwohl die Parkplatzsuche abends oft lang dauert.",
-      "url": "https://www.mopo.de/hamburg/streitpunkt-anwohnerparken-behoerde-lehnt-ausweitung-der-zeiten-ab/5084972",
-      "source": "Hamburger Morgenpost",
+      "title": "Nordkanalbrücke am Wochenende gesperrt",
+      "summary": "Eine vorgezogene Leitungssanierung beginnt, deshalb ist die Nordkanalbrücke am Wochenende gesperrt. Das meldet die Stadt Hamburg.",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQ2lUVkM5OEY0OHBtMDMtWVZUZ0phb0R5TXVuRnRkRDVnQm1lRzFpeWljd0JDZmVpVHFMM0hNcDdZdjhfSGhWRHFNdi1FMGVha0Y2SVBZd20yckFLRXBoVUVrdXNONUg4VmgteERVeTNPaWVYWTRTcWM3UVFqSHNCclI5U3NfOTBXMnRuNUMtajlqVzE4MnU3UEQ4ZGJzUUJzbTFiY1hXQ3NjM3RtLVFmLWpCbXpPYk55cDh1clI1Q2F1UXFrZjhtbmVJUWVTN0V2OEh2eGF3cFVDMG5ERS13OERhNmhfajNsQkpsSGJhYlR4aWFXXzdZRDhaLU93M2Zicjc3aU1R?oc=5",
+      "source": "hamburg.de (Senat & Behörden)",
       "category": "Verkehr"
     },
     {
-      "title": "Zwei wichtige Verbindungen am Wochenende gesperrt",
-      "summary": "Die Verkehrsbehörde warnt Autofahrer vor einer Doppelsperrung. Dazu gehört die Nordkanalbrücke, wo eine vorgezogene Leitungssanierung beginnt. Dort wird der Verkehr umgeleitet.",
-      "url": "https://www.mopo.de/hamburg/doppel-sperrung-am-wochenende-verkehrsbehoerde-warnt-hamburgs-autofahrer/5084705",
-      "source": "Hamburger Morgenpost",
-      "category": "Verkehr",
-      "tipp": "Am Wochenende mehr Zeit einplanen und die Umleitungen vorab prüfen."
-    },
-    {
-      "title": "Ochsenwerder Landscheideweg vom 16. bis 18. November gesperrt",
-      "summary": "Der Landscheideweg ist drei Tage lang voll gesperrt. Das meldet hamburg.de.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRWtzbUxhR0VEd1VpQmdYaF95Z1E2TlA2SDd4UTFLY0JJb0JHODNqWUk5cUgzNzJaa05POER1dEpIcl9RSGYyaW5CbGoyOWUwTXJhb2w4cl9yWWwzT1VURXNONWpMSjdjQWZYZk9SWnBEajlQazlxLU1jMG1VdTZzeG85clF0dS1OY3hyUE80X0M1dUIzOVdkbDg2cFlyVnV2b0h6ZVZMV1NRTkVCM2hHSEtDSnB6bXZSbTYyUlA0Z24tbVR2ZzU5RHV2NWRaN0tjdXc4aGNyRGs?oc=5",
-      "source": "Hamburg.de",
+      "title": "Bund will bei E-Bussen bremsen",
+      "summary": "Nahverkehr Hamburg berichtet über Pläne des Bundes, die Förderung von E-Bussen zu drosseln. Der Beitrag beschreibt, was das für Hamburg bedeutet.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVFUSHR1VmlwS2lvd09tYVhZMnVRTXQ2Z1hJYWZqTUJ6OTFpWmFKQi1JZ0RwRkZERHNVdkIyUzUxQWhreU1PcFRiM1pLWlNLV08tMmJOcV92RFlGOXNsRjltY0hRMDFmd05YdWQ5amg1RUJqOEUtbmVqaEMyTFdlMll4ZUVMR1Vud0NZdk95NVFGOXllZktHRmdpUDRSMFRZTjhsUXZhTFZBeV8xcm51cjNGU2xrY2V3b0ZhY1VpdEVBaWc?oc=5",
+      "source": "NAHVERKEHR HAMBURG",
       "category": "Verkehr"
     },
     {
-      "title": "Bürgerschaft beschließt Kauf von Drohnenabwehr",
-      "summary": "Hamburg kauft Drohnenabwehrsysteme für rund vier Millionen Euro. Besonders die Finanzierung war in der Debatte umstritten.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUlRaVERuU2ZUSTkyRkt4VHVRNDY4cmdWMnhxaHZTNUNMMWR6U1RUb2VhNU9wSFBIeXFTazIzTEYtYzNGSHFCVDUtdHF1T25JMXZ6SXZtZHBHdXJTN0tmZl9QMlJTbThrRFg5VkNDR2ZiZlFYT2w3a1c4VktSNERfY285OVBkdW5rTGhmR0Y4N2N1TlBBSHplU1NWRUszVHBvLXF1QklNVTN3VE5nOV83TTNicnh3WnFRX1VMZzN6WU51Zw?oc=5",
-      "source": "NDR.de",
+      "title": "Mietwucher: Taskforce prüft gemeldete Wohnungen",
+      "summary": "Eine Taskforce geht Verdachtsfällen von überhöhten Mieten nach. Geprüft werden vor allem Wohnungsgröße und Ausstattung.",
+      "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/mietwucher-taskforce-nimmt-wohnungen-ins-visier,hamj-16494.html",
+      "source": "NDR Hamburg",
+      "category": "Bauen & Wohnen"
+    },
+    {
+      "title": "Abrisshaus Holstenstraße: Frist verstrichen",
+      "summary": "Bis zum 13. November sollte der Eigentümer die offene Fassade schützen. Laut Abendblatt ist nichts passiert, ehemalige Bewohner demonstrieren vor Ort.",
+      "url": "https://www.abendblatt.de/hamburg/altona/article413651526/frist-der-behoerde-abgelaufen-noch-immer-kein-geruest-am-abrisshaus-holstenstrasse.html",
+      "source": "Hamburger Abendblatt",
+      "category": "Bauen & Wohnen"
+    },
+    {
+      "title": "Neue Unterkunft für 190 Geflüchtete in Bergstedt geplant",
+      "summary": "An der Bergstedter Chaussee soll auf einem brachliegenden Grundstück eine Unterkunft für 190 Menschen entstehen. Das Abendblatt fasst zusammen, was bisher bekannt ist.",
+      "url": "https://www.abendblatt.de/hamburg/wandsbek/article413673870/neue-fluechtlingsunterkunft-in-bergstedt-geplant-was-bislang-bekannt-ist.html",
+      "source": "Hamburger Abendblatt",
       "category": "Stadt & Politik"
     },
     {
-      "title": "Klimapolitik entzweit Senat und Opposition",
-      "summary": "Zum Klimastreik von Fridays for Future erwartet die Polizei in Hamburg rund 3.000 Teilnehmende. In der Bürgerschaft wird über Tempo und Kosten der Klimapolitik gestritten.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0YwT3lycE45bWlyZDhCOFlvenI3YnVENmpVU2duZU40TjNvLWVJRG4waUhHZjVYQUdMOEM4aEpHRUdILUY2S1l1R1FFZHNfWXhSNzBDSkpuSnJNa0VrNEI1ekI2b1VUU2ZrZ1R6UmdBbzBEN0JCMFhpdW1yMExzMmNlaEViUmdqcEduV21iaG9Nc0lPWjFHLXg2RUtFLXlKZjk1X0Qwc2Rvc0U?oc=5",
-      "source": "NDR.de",
-      "category": "Stadt & Politik"
-    },
-    {
-      "title": "HafenCity-Schüsse: Streit um Firma und Geld im Hintergrund",
-      "summary": "Nach den Schüssen in der HafenCity berichtet die Mopo, dass es dem 68-jährigen Täter um ein Unternehmen, Macht und Geld ging.",
-      "url": "https://www.mopo.de/hamburg/polizei/schuesse-in-der-hafencity-der-blutige-rachefeldzug-des-uwe-e-68/5084569",
-      "source": "Hamburger Morgenpost",
+      "title": "Sturmflut-Übung mit Hunderten Einsatzkräften",
+      "summary": "Feuerwehr, Technisches Hilfswerk und Bundeswehr haben die jährliche Übung für den Ernstfall absolviert. Hamburg trainiert damit den Schutz vor Hochwasser.",
+      "url": "https://www.ndr.de/nachrichten/hamburg/sturmflut-hamburg-uebt-fuer-ernstfall,kurzehh-4890.html",
+      "source": "NDR Hamburg",
       "category": "Polizei & Sicherheit"
     },
     {
-      "title": "Boris Herrmann wird Zweiter bei der Route du Rhum",
-      "summary": "Der Hamburger Weltumsegler beendet bei seiner ersten Solo-Regatta mit der neuen Malizia 4 den Atlantik-Klassiker als Zweiter seiner Klasse.",
-      "url": "https://www.ndr.de/sport/mehr_sport/herrmann-zweiter-bei-route-du-rhum-starkes-solo-debuet-mit-der-malizia-4,segeln-702.html",
-      "source": "NDR Hamburg",
-      "category": "Sport"
+      "title": "Fridays for Future: Tausende demonstrieren in Hamburg",
+      "summary": "Nach NDR-Angaben zogen etwa 2.800 Menschen durch die Innenstadt. Sie kritisieren die Klimapolitik des Bundes.",
+      "url": "https://www.mopo.de/hamburg/klima-demo-von-fridays-for-future-tausende-in-hamburg-auf-der-strasse/5086856",
+      "source": "Hamburger Morgenpost",
+      "category": "Stadt & Politik"
     },
     {
-      "title": "Vuskovic kehrt nach vier Jahren Sperre zurück",
-      "summary": "Transfermarkt.de erklärt laut Mopo, wie der Marktwert des Verteidigers nach der Rückkehr neu bestimmt wird.",
-      "url": "https://www.mopo.de/sport/hsv/eine-der-spannendsten-personalien-so-bekommt-vuskovic-einen-neuen-marktwert/5084561",
+      "title": "Influencer \"LanglebePapa\" muss ins Gefängnis",
+      "summary": "Das Amtsgericht Hamburg verurteilte den 33-Jährigen zu einem Jahr und drei Monaten Haft ohne Bewährung. Er hatte Menschen heimlich gefilmt und im Netz vorgeführt.",
+      "url": "https://www.mopo.de/hamburg/gericht/menschen-fuer-klicks-vorgefuehrt-haftstrafe-fuer-influencer-langlebepapa/5085924",
       "source": "Hamburger Morgenpost",
-      "category": "Sport"
+      "category": "Polizei & Sicherheit"
     }
   ]
 }
