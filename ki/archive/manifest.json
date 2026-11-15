@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-15",
+      "file": "2026-11-15.html",
+      "headline": "Anthropic-Chef zweifelt vor dem Börsengang",
+      "count": 16,
+      "sources": 7,
+      "cats": {
+        "Business & Funding": 3,
+        "Modelle & Releases": 3,
+        "Claude & Anthropic": 1,
+        "Tools & Agenten": 4,
+        "KI im Alltag & Beruf": 2,
+        "Regulierung & Politik": 1,
+        "Forschung & Deep Tech": 2
+      },
+      "ents": {
+        "Anthropic": 6,
+        "Nvidia": 2,
+        "OpenAI": 2,
+        "Google": 2,
+        "Amazon": 1
+      }
+    },
+    {
       "date": "2026-11-14",
       "file": "2026-11-14.html",
       "headline": "ChatGPT Wallet: KI-Agenten kaufen für dich ein",
