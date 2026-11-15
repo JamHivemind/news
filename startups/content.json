@@ -1,51 +1,43 @@
 {
-  "date": "2026-11-14",
-  "intro": "Ein ruhiger Samstag mit wenig Neuem aus Deutschland. Im Mittelpunkt stehen die geplanten Kürzungen bei der Startup-Förderung und die Folgen eines Chefwechsels bei Nvidia für die Finanzierung von KI-Startups.",
+  "date": "2026-11-15",
+  "intro": "Am Wochenende ist die Startup-Szene ruhig. Auffällig ist eine große Finanzierungsrunde, dazu kommen Einordnungen zu Liefer-Apps und zu europäischen Deals mit Asien.",
   "top": [
     {
-      "title": "Bund will Förderung für Startup-Investitionen kürzen",
-      "text": "Die Bundesregierung plant, Geld für die Förderung von Startup-Investitionen zu streichen. Die Grünen nennen das einen großen Fehler. Für junge Unternehmen kann weniger staatliche Unterstützung bedeuten, dass Geldgeber seltener einsteigen. Details zu Summen und Programmen stehen im Teaser nicht.",
-      "url": "https://www.businessinsider.de/gruenderszene/grosser-fehler-bundesregierung-streicht-millionen-bei-startup-foerderung/",
-      "source": "Gründerszene",
-      "category": "Förderung & Politik",
-      "tipp": "Gründer sollten ihre Finanzplanung nicht allein auf staatliche Förderung stützen und Alternativen prüfen."
+      "title": "Uforce sammelt 700 Millionen Dollar ein",
+      "text": "Das Unternehmen Uforce hat laut aktien.news eine Series A über 700 Millionen Dollar abgeschlossen. Series A heißt: die erste große Finanzierungsrunde nach der Startphase. Zu den Geldgebern nennt die Überschrift nichts. Die Summe ist für eine so frühe Phase sehr hoch.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONGZ1MlduRkROd0Rsek5PcWNTYWU3SUNhWWlHbVJXa1RxSHA4NHczYjI2VW5JUVVMbDBZdnNOZjFvMTAzZVlsQzlkZ2d5OElFMHpIUUtwcFpWemNrb2tYOWNPam95UFVFNktHU1ljdElVcktvUkN0SnpJY2tFSjRXMg?oc=5",
+      "source": "aktien.news",
+      "category": "Finanzierungen"
     },
     {
-      "title": "Nvidia-Abgang von Jensen Huang verunsichert KI-Startups",
-      "text": "Laut TechCrunch rechnen Investoren und Gründer nach dem Weggang von Nvidia-Chef Jensen Huang mit kleineren Finanzierungsschecks und niedrigeren Bewertungen. Nvidia hatte unter Huang sehr viel Geld in KI-Startups gesteckt. Auch Sifted sieht die europäische Tech-Szene davon betroffen.",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "source": "TechCrunch Startups",
+      "title": "Liefer-Apps leben von wenigen Supernutzern",
+      "text": "Neue Daten von US-Bundesbehörden zeigen, dass Apps wie Uber Eats und Doordash stark von wenigen Nutzenden abhängen, die viel Geld ausgeben. Für Gründer im Liefergeschäft heißt das: Der Umsatz hängt an einer kleinen, treuen Gruppe.",
+      "url": "https://www.businessinsider.de/gruenderszene/liefer-apps-brauchen-ihre-supernutzer-wie-neue-daten-der-us-bundesbehoerden-zeigen/",
+      "source": "Gründerszene",
       "category": "Europa & Welt"
     },
     {
-      "title": "Accel führt 30-Millionen-Dollar-Runde für Rüstungs-Startup SE3",
-      "text": "Der Investor Accel führt eine Series-A-Runde (frühe Wachstumsfinanzierung) über 30 Millionen Dollar für SE3. Das Startup arbeitet an räumlicher KI für die Verteidigung. Damit fließt weiter Kapital in europäische Rüstungstechnik.",
-      "url": "https://sifted.eu/articles/accel-30m-spatial-ai-defence-startup-se3/",
+      "title": "Samsungs Jahr voller Europa-Deals",
+      "text": "Sifted blickt auf Samsungs Zukäufe und Beteiligungen in der europäischen Tech-Szene in diesem Jahr zurück. Der Text liegt hinter einer Bezahlschranke, mehr als die Überschrift ist nicht lesbar.",
+      "url": "https://sifted.eu/articles/samsung-european-tech/",
       "source": "Sifted",
-      "category": "Finanzierungen"
+      "category": "Exits & Übernahmen"
     }
   ],
   "entries": [
     {
-      "title": "Parloa vertieft Partnerschaft mit OpenAI",
-      "summary": "Das Berliner KI-Startup Parloa bekommt frühen Zugang zu neuen KI-Modellen von OpenAI. Dazu kommen gemeinsame Großkunden und ein neuer Vertriebskanal.",
-      "url": "https://www.businessinsider.de/gruenderszene/ki-startup-parloa-baut-openai-partnerschaft-aus/",
-      "source": "Gründerszene",
-      "category": "Gründungen & Produkte"
-    },
-    {
-      "title": "LangChain wird mit 3 Milliarden Dollar bewertet",
-      "summary": "Das KI-Agenten-Startup LangChain erreicht laut TechCrunch eine Bewertung von 3 Milliarden Dollar. Es nennt 7.000 Kunden für sein Werkzeug LangSmith, mit dem sich KI-Agenten verwalten lassen.",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "source": "TechCrunch Startups",
+      "title": "Europas Tech-Szene und Asien rücken näher zusammen",
+      "summary": "Laut Bankern sollen sich europäische Tech-Firmen und Asien in den nächsten fünf Jahren deutlich näher kommen. Details sind nicht frei lesbar.",
+      "url": "https://sifted.eu/articles/why-european-tech-asia-get-closer-next-five-years-gp-bullhound/",
+      "source": "Sifted",
       "category": "Europa & Welt"
     },
     {
-      "title": "Sechs europäische Forscher gründen Startups im Verborgenen",
-      "summary": "Sifted stellt sechs Wissenschaftler vor, die in Europa noch unter dem Radar Startups aufbauen. Ein Blick auf mögliche künftige Deep-Tech-Gründungen.",
-      "url": "https://sifted.eu/articles/six-european-scientists-building-startups-in-stealth/",
-      "source": "Sifted",
-      "category": "Deep Tech & Forschung"
+      "title": "Gründer mit Nvidia-Chef-Namen nutzt die Aufmerksamkeit",
+      "summary": "Ein junger Gründer heißt wie Jensen Huang und bekommt Anfragen zu Nvidia-Aktien. Die Namensgleichheit hat für ihn zwei Seiten, schreibt Gründerszene.",
+      "url": "https://www.businessinsider.de/gruenderszene/er-heisst-wie-der-nvidia-chef-und-macht-daraus-einen-marketing-coup/",
+      "source": "Gründerszene",
+      "category": "Gründungen & Produkte"
     }
   ]
 }
