@@ -1,114 +1,99 @@
 {
-  "date": "2026-11-14",
-  "intro": "Samstag in der Garage: Ein Urquattro mit RS-4-V8, ein Filmauto ohne Käufer und eine BMW-Warnung wegen Brandgefahr. Dazu DTM-Gerüchte und Youngtimer, die im Wert klettern.",
+  "date": "2026-11-15",
+  "intro": "Sonntagsfutter für Benzinbrüder: Ein neuer Bentley mit 666 PS und ohne Hybrid, das frühe Aus für den Rimac Nevera und Ärger um die deutschen Mercedes-Werke. Dazu ein paar DTM-Schätzchen.",
   "top": [
     {
-      "title": "Urquattro mit RS-4-V8: Restomod aus Großbritannien",
-      "text": "Ein britisches Start-up baut den Audi Urquattro neu auf, mit V8 aus dem RS 4, Kompressor und überarbeitetem Design. Restomod heißt: alte Optik, moderne Technik. Wer so einen Fünfzylinder-Mythos mit Achtzylinder-Herz will, muss laut Auto Bild tief in die Tasche greifen.",
-      "url": "https://www.autobild.de/artikel/audi-quattro-restomod-0c4839c-28588309.html",
+      "title": "Bentley Supersports: 666 PS, Hinterradantrieb, kein Hybrid",
+      "text": "Der neue Bentley Supersports zeigt laut Auto Bild auf Rumäniens Traumstraße Transfăgărășan, wie viel Sportwagen im Continental GT steckt. Er hat 666 PS, Hinterradantrieb und rund 500 Kilo weniger Gewicht. Ein Hybridantrieb ist nicht an Bord. Gummi geben ausdrücklich erlaubt.",
+      "url": "https://www.autobild.de/artikel/bentley-supersports-tanz-der-vampire-in-den-karpaten-149e606-28892399.html",
       "source": "Auto Bild",
-      "category": "Klassiker & Youngtimer"
+      "category": "Neue Modelle & Fahrberichte"
     },
     {
-      "title": "BMW: Behörde rät 720.000 Besitzern, draußen zu parken",
-      "text": "Die US-Verkehrssicherheitsbehörde NHTSA fordert Besitzer von mehr als 720.000 BMW auf, ihre Autos im Freien abzustellen. Grund ist eine mögliche Brandgefahr. Ob und wie viele Autos in Deutschland betroffen sind, steht in den vorliegenden Texten nicht.",
-      "url": "https://www.focus.de/auto/bmw-fahrer-in-den-usa-sollen-fahrzeuge-nur-im-freien-parken_e69ad5d8-e352-4058-a4d3-535610808fee.html",
-      "source": "Focus Auto",
-      "category": "Rückrufe & Regeln",
-      "tipp": "Wer einen BMW fährt, schaut beim Hersteller oder in der Rückrufdatenbank des KBA nach der eigenen Fahrgestellnummer."
+      "title": "Rimac Nevera: Produktion endet nach 71 Exemplaren",
+      "text": "Der elektrische Hypercar Rimac Nevera wird vorzeitig eingestellt. Laut InsideEVs wurden nur 71 Stück gebaut, geplant waren 190. Die Frankfurter Rundschau schreibt von einer Flaute im Luxussegment der Elektroautos. Für Sammler heißt das: Die Zahl der Neveras bleibt klein.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMHhBSzB4bnFhcEVBWTdZNnlxLWQ0WUdfcU5xQzRRNUxBb2hWdk5VemFFWGRlSnprQ3V3a00zQk9NdGdBMmlKMWt6NmVNTnU3R1RreWJTVUw0Y0xPWEpsZjBYU1Z0c3Mya0JIVDMtc211QVhyRUNBT01nVEpiZWRXaQ?oc=5",
+      "source": "InsideEVs.de",
+      "category": "Sportwagen & Elfer"
     },
     {
-      "title": "K.I.T.T.-Pontiac findet in Zürich keinen Käufer",
-      "text": "Der Pontiac Firebird Trans Am aus „Knight Rider“, mit dem David Hasselhoff selbst durch Europa tourte, ist bei einer Auktion in Zürich unverkauft geblieben. Auto Bild fragt, warum das Filmauto trotz Kultstatus keinen neuen Besitzer fand. Ein Dämpfer für den Markt der Filmwagen.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU2pkTWlKeDB6djZwajRFQ3BKeXBkSEp3aU5uNkdkQ2ZHejVCLTJsblJQZ2dEZnBJQ0RDQ0hacTBWazVUc21uMW42YUhOT3pYaUNBTm5tbnVkRHMySFRkYXc4Q1JLUlFVb0NVaE0tbVRXMWpnLWdGV0htclR4TWd1VQ?oc=5",
-      "source": "Auto Bild",
-      "category": "Markt & Preise"
+      "title": "Mercedes stoppt Investitionen in deutsche Werke",
+      "text": "Ohne Einigung mit Betriebsrat und IG Metall will Mercedes nicht mehr in deutsche Werke investieren. Ein Montage- und ein Powertrain-Werk stehen zur Disposition. Betriebsrat und IG Metall weisen die Drohung zurück, der Vorstand verweist auf den Kostendruck.",
+      "url": "https://www.heise.de/news/Mercedes-stoppt-Investitionen-in-Deutschland-und-prueft-Werksschliessungen-11523770.html",
+      "source": "heise Autos",
+      "category": "Hersteller & Branche"
     }
   ],
   "entries": [
     {
-      "title": "Thomas Preining und Manthey-Porsche legen in der DTM vor",
-      "summary": "Das Motorsport-Magazin sieht in Thomas Preining und dem Manthey-Porsche einen neuen Maßstab in der DTM. Mehr als die Überschrift liegt uns nicht vor, der Artikel lohnt den Klick.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHItWDJWZGw3ekxvUDBDYW9YbU5mc0lwTHoybzYtNWVTT0kxcXZwVExLWk1TbUZESHBOdUdZM2VrSHNBcDhaLVRSdEZoV20wSnIydF9iWXFGOVhpd0JWbHhEWDhWWlZjd20wUU94SFI1NEtidFJEWkJpTHd4ekprN2xNR2xDVUYxLWFtOU5VU3I2OEhsVTRrSUY1TzEyUENYdU9kTlcwbUYzMUFxVXpVMW91aw?oc=5",
-      "source": "Motorsport-Magazin.com",
+      "title": "Porsche Motorsport feiert 75 Jahre Erfolgsgeschichte",
+      "summary": "Der Porsche Motorsport Hub blickt auf ein Jahr voller Höhepunkte zum 75-jährigen Jubiläum zurück.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFlVTUpQdEFsTXZ4UGcyUmxOcVRiamU0c1lzTmd4V1djdC1hX1pkOU1icGdrdEFBcjVSeEVSSzRpa0lMTGUtUWdtREVVUG1rVjUtdFZrUng1dXpmMW93c2FtMDR0NGlCVTdpQ0l0SmxLbkM5SWN2VUpjZFN6LXlDOWZoN1YxRnh1VXQ1el93WXh3LTF0?oc=5",
+      "source": "Porsche Motorsport Hub",
       "category": "Motorsport"
     },
     {
-      "title": "Wittmann in der DTM 2027? BMW setzt auf das Hypercar",
-      "summary": "Laut BMW-Chef will man Marco Wittmann nicht verlieren, doch das Hypercar-Programm hat Priorität. Ob er 2027 in der DTM fährt, ist offen.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcXA5aVNPeU8xdGtBVlFLaUs3YzFQdFpMekNDNW1Xc1lPZFdaRTc0RFY3TWNvQXBTS19YMU04cWJTVWhzNW5IbFBnUzJrWlVSZjYzTGJjdy0xRFZQYlZXbXZXU251Z3dYclg0VHZ2azVXSW1uUWxvbzRWLWRvSm81ekp0c04tS1F6NllLWUE0MzVYMF9kRkRnamxUTUVGeldQZW1OVTBiN3NyaXRoaUEzZnNIQlBuakxMZkxySEQ0cnpMck96R25zUVNyTGFHeV9U?oc=5",
-      "source": "Motorsport-Magazin.com",
-      "category": "Motorsport"
-    },
-    {
-      "title": "Opel Kadett GSi 16V Superboss: Rekord-Homologationsmodell",
-      "summary": "Der Superboss entstand als Homologationsmodell für Südafrika, also als Straßenversion für den Rennsport, und hielt lange einen Rekord. Ein Stück Opel-Geschichte abseits der Klassiker-Standards.",
-      "url": "https://www.autobild.de/artikel/opel-kadett-gsi-16v-s-superboss-homologationsmodell-4bdab0b-28556763.html",
-      "source": "Auto Bild",
+      "title": "Welche AMG-C-Klasse gab es 1995 für DTM und ITC?",
+      "summary": "Auto Motor und Sport erinnert an den Rennwagen, den AMG 1995 für DTM und ITC baute. Dazu passt: Eine DTM-C-Klasse von Jörg van Ommen kommt 2026 zur Auktion.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDJLdkt2c2VOX1hERTRzRFo2SzI2WHZxNW9HaWpreUQ4Qi1fVW0xQm05aUYwSGo4SS1DazRMSnNQZHR4bmRyMldtMkVmcnhpeUFfRUFxUTFTVk9reEhtUlNpRXdrcHg5cEtNNUM2Rkp3YmhTMjhVS3U3Q0w0dkRRUlFHLTVPazBWVXVJdC0zTzYwOHRlMkJHZU1sMkUwUDVFVnhhR1Z0UHBKcThoNG5fdQ?oc=5",
+      "source": "Auto Motor und Sport",
       "category": "Klassiker & Youngtimer"
     },
     {
-      "title": "60 Jahre Porsche 911 S: der erste Elfer mit mehr Biss",
-      "summary": "24auto.de blickt auf 60 Jahre 911 S zurück, den ersten besonders scharfen Elfer. Passend zum Jubiläum für alle, die frühe Modelle lieben.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVJYZkpZX2lXOV8ydE9GeTFiQmtzaU5iMzRMdkdSejhRR2pWNDBnVkpDaGl4YVJyTXNETGdJaUZDd0FkUDRqMkVkQTk4NWpyYTY0UVVITkRENTRhenVHRkVhMFFXNWdHb1d2NlFCRDBBZkNndDdRdjFfdXItUlV0VEtuUGRRMVJjN09LMUtoa051MDZWZnd0OWNWNDVGNWNqZFU5Yjln?oc=5",
-      "source": "24auto.de",
-      "category": "Sportwagen & Elfer"
+      "title": "Toyota S-FR: Kommt 2027 ein günstiger Hinterrad-Roadster?",
+      "summary": "Motor1 spekuliert über einen bezahlbaren Roadster mit Hinterradantrieb schon im Jahr 2027. Bestätigt ist das nicht.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZX3o0eHZBWjRRcFBxRFRMTDE1NTdncUxUc2pfS3JHeng2cW11QVZiQ2QwamV4eXhHUkVCeXBYSlBFaHJKZW1BR3JZaEZhVVNYOElRU2EwUEM3MjRNRWZRc0VQZjNXWEduWVFmZmlpMHJpT0pXc1BuQzZqMA?oc=5",
+      "source": "Motor1.com Deutschland",
+      "category": "Neue Modelle & Fahrberichte"
     },
     {
-      "title": "Volvo 850 T5-R mit 435 PS steht zum Verkauf",
-      "summary": "Ein getunter Volvo 850 T5-R leistet 435 PS und wird angeboten. Der brave Familienkombi der Neunziger als Sleeper.",
-      "url": "https://www.autobild.de/artikel/gebrauchtwagen-volvo-850-t5-r-74b2ce8-28894255.html",
-      "source": "Auto Bild",
-      "category": "Klassiker & Youngtimer"
+      "title": "Sanrivatti One mit Judd-V10: Fährt man wirklich so",
+      "summary": "Auto Motor und Sport hat den Sportwagen mit Rennmotor-V10 gefahren und fragt, wie alltagstauglich er ist.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDMyVDJmUkJkdm8xYjltbjVfLVpYUmJrVDNCYW1zYm4tbGhIQVNqaVNKZTEtUVBiMERQUXdxTkluRmNnOFEta1BWX25yRGN4R2JiWW1HS2VWYzB3UGxzVVFEeDVDczM2VUh0M29WeFVEaXU3ZmVKNFhqdkVRZDU3RHl2VTVLM1RKdFNDcXIyc3hKNXFaWkp4XzEydERuRGllTVlNTU51WQ?oc=5",
+      "source": "Auto Motor und Sport",
+      "category": "Neue Modelle & Fahrberichte"
     },
     {
-      "title": "Horse Powertrain stellt V8 für Hybrid-Supersportwagen vor",
-      "summary": "Horse Powertrain zeigt einen neuen V8 für einen Hybrid-Supersportwagen. Laut Automobilwoche entsteht er für Lotus: noch ein Zeichen, dass Achtzylinder bei Supersportwagen nicht aussterben.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaG1sZDhoYmIyaWJ3Vjl3RTI0ejZjd3IwUHRua2xWSXBGUXlCczQyUXFnMUJxQzBoZWNPbUxzRGpsQUw4aXFtZEkzb3VlU0taOVpXamJ2Z1E4V2FyRTIxX3FMWm1OWGRubUpmSUpoSmpDLXNmQ2RIZzItOFVHU0pDZkhudEt4SUNlTWYxQnluQmx5RzliNk1WRHN4Zmw?oc=5",
-      "source": "ecomento.de",
-      "category": "Hersteller & Branche"
+      "title": "Porsche Cayenne S Electric gegen Lucid Gravity im Vergleich",
+      "summary": "Auto Motor und Sport stellt Fahrdynamik und Reichweite der beiden Elektro-SUVs gegenüber.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTRRS2xzdmdmTV96OW40Yl80Ul91WG1BVUZ2S1NHdDlqV1VqRmZRV3FFcjE2N3ZCalkzMlEtZ0RMUW5PUG02YmNUMER1TkpaRTZXZVBfaVJZOTVKMnAzcVQwSUFiaEFrVmg0VUJYbVh4VWpTMjVRa1dlU0ozZm1TbWdiRkM3MFpRaldmZ200bmkwU1lhRzRzWEo2SkhERWpVVFo2S1JLVUFVUTlESGxWVmRuWnVNQVZJeTF1Z0lKdGd3TlE?oc=5",
+      "source": "Auto Motor und Sport",
+      "category": "Neue Modelle & Fahrberichte"
     },
     {
-      "title": "GWM will mit Hybrid-Supersportwagen den Ferrari SF90 übertreffen",
-      "summary": "Der chinesische Hersteller GWM plant einen Hybrid-Supersportwagen, der den Ferrari SF90 übertreffen soll. Bisher ist das eine Ansage, gefahren ist noch nichts.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHJuRTlwVUdPQWZ2T2FfUUhKQ1h4Y1hCanlVRmR1S1BaS0EwOWpObTgtQkJGRHNCUW5tT0xLOGFQa2E0N3A0RnpzUUFMalFDLThINF9SQVJGMTY4LXZQZlpyS1R6MWh4MFhOYjZLd1hyRHVXMEZSUnpSNUw5dVQ0aUhlWEl6dGM4M3c?oc=5",
-      "source": "Tuningblog",
-      "category": "Sportwagen & Elfer"
+      "title": "Fiat Tris: Die Ape feiert elektrische Auferstehung",
+      "summary": "Das gefühlsechte Knattern fehlt, aber das Grinsen kommt sofort zurück, schreibt die FAZ nach der Probefahrt.",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/fiat-tris-die-legendaere-ape-feiert-elektrische-auferstehung-201633295.html",
+      "source": "FAZ Technik & Motor",
+      "category": "Neue Modelle & Fahrberichte"
     },
     {
-      "title": "Mercedes 2027: neue AMG-Modelle und G-Klasse Cabrio",
-      "summary": "Focus fasst zusammen, was Mercedes für 2027 plant: viele Elektro- und Hybridmodelle, neue AMG und ein G-Klasse Cabrio.",
-      "url": "https://www.focus.de/auto/news/mercedes-benz-die-neuheiten-2027-im-ueberblick_3f6725f2-3200-4c04-8e1b-c2cb4070856c.html",
+      "title": "Alfa Romeo: Giulia und Stelvio werden überarbeitet",
+      "summary": "Junior, Giulia und Stelvio bekommen 2027 ein Update. Das neue kompakte SUV und die Giulietta sollen erst 2028 folgen.",
+      "url": "https://www.focus.de/auto/news/alfa-romeo-die-neuheiten-2027-im-ueberblick_3494c8e9-d3da-4786-bf05-64726546e9ac.html",
       "source": "Focus Auto",
       "category": "Neue Modelle & Fahrberichte"
     },
     {
-      "title": "Klassiker-Preise: Talbot Samba, Fiat Uno und Honda Civic legen kräftig zu",
-      "summary": "Auto Motor und Sport nennt drei Kleinwagen-Youngtimer, deren Werte um bis zu 100 Prozent gestiegen sind. Die genauen Zahlen stehen im Artikel.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWG1FNFR3ekVvWHNJT29xeGxwZXdQT3lhMXlEUi12cHlmclQweGJKckRmR3pKbVBUbHF4eEhyV255ZmM0Sk91YmE3TFkwVUtQTWJMWmY3aGUwVlhhaWF5VDgtQ3ZmQUF2aW41Vk5CaXM0MFVsVk45aXpUbHhFTEM1QWVkV3dWV1ZkX2VOZ2JxTlRLVEFDNkJjR1pGaksyZkVpcVBhc2lfVWN0cnM?oc=5",
-      "source": "Auto Motor und Sport",
-      "category": "Markt & Preise"
-    },
-    {
-      "title": "Toyota C-HR: Rückruf wegen möglichem Antriebsverlust",
-      "summary": "Toyota ruft den C-HR wegen eines möglichen Antriebsverlusts in die Werkstatt. Zahl der Autos und Baujahre nennt die Überschrift nicht; Details im Artikel.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdnlwVVJZYWxFZzRHRjlMOWozWTk2Uzg2ZnlxMTZzaGo3dXE5YXluZ0dCWENUNHhZMVBGWUFtUU9razhiNjhHVktZZ0F3OE5aRDdqOTRQLUM3Q3hOQy1HcTBoSHIzaE0tb2hoSlJIbjA3S0dqcVR4T0NDdnpYNTlxdG5UZS1xZEFzUzBadGJEZ3VMWFBaWmtoYnItTjRQRFVZbDZGN3RpV0UtVmx5UG9GOEk1ZC1ScGVqaHVaSGVVTVdpUEJ2LUVkNHNPYTE4akE?oc=5",
-      "source": "autoservicepraxis.de",
+      "title": "Rückruf: VW-Konzern ruft 4,6 Millionen Autos wegen Lenkung zurück",
+      "summary": "Betroffen sind laut Ruhr Nachrichten verschiedene Modelle. Wann die Werkstatttermine gelten, nennt die Überschrift nicht.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWnVIV2JxU2RHQTB1RWJaSDM3T2Ezc3ZSODBIOEJ3YUdMb2RMV0hpT1IteTQtdWN0WkloZnBFNzYxN2VpTlA1d0NPNjZ5cXVBWGVDRUJZaUE5SVFRanVxMjBQUkkzS19kOUMzNVU2TzB1bWhsZlZ6Tlpoc19BaVVTcDI3MV9BRWxLdWxwajVhTS14bDl1c1F0dEpTWjB3Y2xybjhOU19BTG9WaFlBRmVDejJ3bjZFQ2dUbzhtMEVJNHVDdFdURWZIV3YwZVpwcHYwbzB1SDFGbDFGUlFGdDBz?oc=5",
+      "source": "Ruhr Nachrichten",
       "category": "Rückrufe & Regeln"
     },
     {
-      "title": "Audi-Rückruf 23A6 betrifft A6, A5, A4 und Q5",
-      "summary": "Audi ruft Modelle von A6, A5, A4 und Q5 unter der Aktionsnummer 23A6 zurück. Halter prüfen am besten per Fahrgestellnummer, ob ihr Wagen dabei ist.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdEc2QU1yTmh3YldGay1vaEt6LUM2SWFHREFpUE41aHZYcURNVGd4TU9LZTgtcGZ5XzVXRWo3MmpLbnpzV2pKay1seTZVUVhDR3NVaU1LdHVKdUpDSDE1OGdDWFJHanVoLUhNV3R0Tmtab1pfM2JUaUxaT2xRYTBWYllWbFdTaXJwMnNmS25aUUI5ZDJKSkVMd0xqZkFWR1kxRnJscg?oc=5",
-      "source": "Anwalt.de",
+      "title": "Rückruf: BMW rät 720.000 Fahrern in den USA zum Parken im Freien",
+      "summary": "Die US-Behörde warnt laut BILD vor einem Risiko bei rund 720.000 BMW. Die Autos sollen nicht in Garagen stehen.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVlpNc2FUNnVYcUJFUnE2QnVnanhPOWh6d00xcXRWMGhjUWJBdFM0Rm9hQmJQQVVDc3dsYkVUYVZVWC1wT3pJTUlzV3BUaTdYWDU3RnBxME9zR3pxVjJrRXEzUUV2LUFNV3JySXNsMGtkU2FyZ2U1SUVPei0tS2s1S2wyV0ZJZzVsT1E2TXVBczVUR1J2YW5fbkFzVk1FLVd3QnhyNlVoZ1ZZZ3VOVWd1UzllWHRoYUJhQThxZEVsU0FSQTRadUNpS0VJNVlnczAxUjhWVnRRcjdIOVE?oc=5",
+      "source": "BILD",
       "category": "Rückrufe & Regeln"
     },
     {
-      "title": "E-Auto-Kaufprämie: Budget reicht wohl nicht lange",
-      "summary": "Das Geld für die staatliche E-Auto-Prämie ist laut Spiegel schneller weg als geplant. Die Regierung will die Förderung deshalb an einer entscheidenden Stelle ändern.",
-      "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-budget-fuer-kaufpraemie-begrenzt-was-jetzt-passiert-a-76c4ccde-2757-414f-89d6-bc9ed69840bf#ref=rss",
-      "source": "Spiegel Mobilität",
-      "category": "Markt & Preise"
+      "title": "Rückruf: Über 70.000 VW und Cupra wegen Brandgefahr",
+      "summary": "Mehr als 70.000 Autos der beiden Marken sind betroffen, meldet Ruhr Nachrichten.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZjh5Q1FPam00RnJhZG9sdVYtYldmRHNQQzd2M0NfUGJZS3FiaDdMVXBGOUdSVTV2MWhYd3VHMFNhd3JEYTR2ZklhT0JMMFFQTkZ5U0xpenlRakszM2g0YloyclU4YVNRbHo0NHlOMEM2X1lCdE9jZXJZcEZmZThBeXQtVzVRZFlVVmpBb3ZrRWxZUEU5cXdyaGZDRDZWZVk3dE1TRWRGVzZwd1hsa0JBdFhvMTNseHYwY1ZkWDJQa0hIUTNr?oc=5",
+      "source": "Ruhr Nachrichten",
+      "category": "Rückrufe & Regeln"
     }
   ]
 }
