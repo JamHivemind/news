@@ -1,6 +1,25 @@
 {
   "briefs": [
     {
+      "date": "2026-11-15",
+      "file": "2026-11-15.html",
+      "headline": "Microsoft-Störung ist behoben",
+      "count": 12,
+      "sources": 6,
+      "cats": {
+        "Unternehmen": 5,
+        "Arbeit & Soziales": 3,
+        "Politik & Handel": 1,
+        "Energie": 2,
+        "Konjunktur": 1
+      },
+      "ents": {
+        "China": 1,
+        "Mercedes": 1,
+        "ifo": 1
+      }
+    },
+    {
       "date": "2026-11-14",
       "file": "2026-11-14.html",
       "headline": "Haushalt 2027 beschlossen: Rekordausgaben, hohe Schulden",

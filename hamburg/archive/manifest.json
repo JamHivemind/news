@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-15",
+      "file": "2026-11-15.html",
+      "headline": "Tausende wandern durch den U5-Tunnel",
+      "count": 13,
+      "sources": 5,
+      "cats": {
+        "Verkehr": 2,
+        "Wirtschaft & Hafen": 3,
+        "Bauen & Wohnen": 1,
+        "Stadt & Politik": 3,
+        "Kultur & Freizeit": 1,
+        "Sport": 2,
+        "Polizei & Sicherheit": 1
+      },
+      "ents": {
+        "HVV": 1,
+        "Hafen": 2,
+        "Senat": 1,
+        "Polizei": 1,
+        "FC St. Pauli": 1
+      }
+    },
+    {
       "date": "2026-11-14",
       "file": "2026-11-14.html",
       "headline": "U5: Erste Haltestelle in der City Nord im Rohbau fertig",
