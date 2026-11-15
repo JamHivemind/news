@@ -1,123 +1,92 @@
 {
-  "date": "2026-11-14",
-  "intro": "Der Bundeshaushalt 2027 steht mit Rekordausgaben, bei der Stromsteuer bleibt aber vieles offen. Dazu sorgen leere Gasspeicher, der Microsoft-Ausfall und steigende Paketpreise für Gesprächsstoff.",
+  "date": "2026-11-15",
+  "intro": "Wirtschaftlich dominieren drei Themen: der weltweite Microsoft-Ausfall, Sparpläne bei Rente und Gesundheit sowie der Verkauf der Meyer Werft. Dazu kommt der Wirbel um Nvidia, den wichtigsten Chip-Lieferanten der KI-Branche.",
   "top": [
     {
-      "title": "Haushalt 2027 beschlossen: Rekordausgaben, hohe Schulden",
-      "text": "Der Haushaltsausschuss des Bundestags hat den Etat für 2027 gebilligt. Laut NIUS sind 560,9 Milliarden Euro Ausgaben und mehr als 210 Milliarden Euro neue Schulden vorgesehen. Eine niedrigere Stromsteuer für private Haushalte fehlt bisher im Entwurf; Finanzminister Klingbeil knüpft sie an eine Gegenfinanzierung von rund fünf Milliarden Euro. Für Steuerzahler heißt das: Entlastungen bei den Energiekosten sind noch nicht sicher.",
-      "url": "https://nius.de/politik/bundeshaushalt-beschlossen-rekordausgaben-und-210-milliarden-euro-schulden",
-      "source": "NIUS",
-      "category": "Politik & Handel"
+      "title": "Microsoft-Störung ist behoben",
+      "text": "Eine stundenlange Störung hatte zentrale Cloud-Dienste von Microsoft weltweit lahmgelegt, Firmen und Privatnutzer waren betroffen. Laut Microsoft laufen jetzt wieder alle Systeme, Hinweise auf einen Angriff gebe es nicht. Der Ausfall zeigt, wie abhängig viele Betriebe von wenigen Cloud-Anbietern sind.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Unternehmen"
     },
     {
-      "title": "Gasspeicher fast leer: Ministerium plant Notfallgesetz",
-      "text": "Die deutschen Gasspeicher sind so leer wie selten, im Winter drohen laut Spiegel hohe Preise. Das Wirtschaftsministerium von Katherina Reiche bereitet nun ein Notfallgesetz und eine Reserve aus fossilen Kraftwerken vor. Für Haushalte und Betriebe hängt von der Umsetzung ab, wie stark Gas- und Strompreise in den kommenden Monaten steigen.",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/gasspeicher-in-deutschland-reiche-setzt-auf-alte-kohle-und-oelkraftwerke-a-27a31085-5bb0-4460-8bb5-0024af1d419e#ref=rss",
+      "title": "Rente: CSU will höhere Abschläge für Frührentner",
+      "text": "Weil der Bundeshaushalt knapp ist, will die Regierung der Rentenversicherung weniger Milliarden überweisen. Um die Lücke zu schließen, sollen laut Spiegel die Abschläge für Frührentner steigen. Abschläge sind Kürzungen der Rente, wenn man früher in Rente geht. Wer vorzeitig aufhören will, muss also mit weniger rechnen.",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen-a-e30254e8-833b-4ad1-ab30-a6114735d64b#ref=rss",
       "source": "Spiegel Wirtschaft",
-      "category": "Energie"
+      "category": "Arbeit & Soziales"
     },
     {
-      "title": "Microsoft-Ausfall: Netzwerk-Upgrade als Ursache",
-      "text": "Die stundenlange Störung bei Microsoft-Diensten wie Outlook ging laut Konzern auf ein Netzwerk-Upgrade zurück. Viele Unternehmen und Verbraucher waren weltweit betroffen, inzwischen läuft die Lage wieder besser. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) wertet den Vorfall laut Spiegel als Alarmsignal für die Wirtschaft.",
-      "url": "https://www.handelsblatt.com/technik/it-internet/nach-cloud-ausfall-microsoft-stoerung-ging-auf-netzwerk-upgrade-zurueck/100269813.html",
-      "source": "Handelsblatt",
-      "category": "Unternehmen",
-      "tipp": "Wichtige Termine und Kontakte zusätzlich außerhalb der Cloud sichern, damit ein Ausfall nicht die ganze Arbeit lahmlegt."
+      "title": "MSC steht vor dem Kauf der Meyer Werft",
+      "text": "Die letzte bedeutende deutsche Kreuzfahrtschiff-Werft geht wohl an die weltgrößte Reederei MSC. Der Bund will MSC ein Kaufrecht einräumen, der Vertrag soll kommende Woche unterzeichnet werden. Für die Beschäftigten und den Standort ist offen, wie es weitergeht.",
+      "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Unternehmen"
     }
   ],
   "entries": [
     {
-      "title": "DHL erhöht Paketpreise ab Januar 2027",
-      "summary": "Das kleinste Päckchen in der Filiale kostet ab Januar einen Euro mehr, auch schwere Pakete werden teurer. Für Packstationen plant DHL günstigere Tarife.",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/post-hebt-paketpreise-privatkunden-an-2027-100.html",
+      "title": "Nvidia nach dem Rücktritt von Jensen Huang",
+      "summary": "Mit Huang verliert Nvidia seinen visionären Vordenker. Die tagesschau fragt, was das für das Unternehmen und die Konkurrenz bedeutet.",
+      "url": "https://www.tagesschau.de/wirtschaft/nvidia-ruecktritt-folgen-ki-branche-100.html",
       "source": "tagesschau Wirtschaft",
-      "category": "Unternehmen",
-      "tipp": "Weihnachtspakete noch in diesem Jahr aufgeben, denn die neuen Preise gelten erst ab 2027."
+      "category": "Unternehmen"
     },
     {
-      "title": "Ölmarkt entspannt sich erstmals seit Kriegsbeginn",
-      "summary": "Laut Internationaler Energieagentur übersteigt das weltweite Ölangebot erstmals seit Beginn des Irankriegs wieder die Nachfrage. Das kann Druck von den Spritpreisen nehmen.",
-      "url": "https://www.spiegel.de/wirtschaft/oel-versorgung-erholt-sich-erstmals-seit-beginn-des-irankriegs-etwas-a-115c8f18-2361-4368-8f4e-6b1462aa4652#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Energie"
-    },
-    {
-      "title": "Spritpreise sinken wegen Hoffnung auf Kriegsende",
-      "summary": "In Deutschland sinken die Spritpreise, weil die Hoffnung auf ein Kriegsende wächst.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGIyZDluVktfbmkwdWhKQzdyaGdCNXFPYmtEY2RuX1R3Z3dvMXBGbjE4QzhzR2t2V1JaYUhtUUExemNhTHlJZENDSDdERmc0a0JpVWJUNjAzZ2pneDBuU3IzdmpVZXhOalg5YmYwNS1WTS1FMUJlWmZva1otanJ2M1VoQTZYMkpVdUN4clkxQkFhMkQyWU8tTjJoMkZuc0dMNjNiZHRBaF9vN0VEY1IxOVYtRDN6dw?oc=5",
-      "source": "SZ.de",
-      "category": "Energie"
-    },
-    {
-      "title": "Haushalt kürzt beim Güterverkehr, DB Cargo unter Druck",
-      "summary": "Die Regierung streicht wie geplant Mittel für mehrere Güterverkehrsprogramme. Besonders die Bahn-Tochter DB Cargo ärgert sich, ihr droht eine Zerschlagung.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/teurer-gueterverkehr-haushaltsbeschluesse-belasten-bahnbranche-und-db-cargo-a-2fc455bd-96e6-4fc3-9ccb-f070af8cf393#ref=rss",
-      "source": "Spiegel Wirtschaft",
+      "title": "US-Senat lädt Huang und Handelsminister Lutnick vor",
+      "summary": "Die Aufarbeitung der Spionageaffäre beginnt: Es geht um mögliche Chip-Lieferungen nach China.",
+      "url": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+      "source": "tagesschau Wirtschaft",
       "category": "Politik & Handel"
     },
     {
-      "title": "VW verdient laut Studie nur noch zwölf Euro pro Auto",
-      "summary": "Sonderbelastungen drücken die Gewinnmarge von Volkswagen praktisch auf null. Auch ohne diese Zusatzlasten steht der Konzern demnach nicht besonders gut da.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/vw-verdient-offenbar-nur-noch-zwoelf-euro-pro-verkauftem-auto-a-0ac7334b-310b-4179-9a69-4ba1d62ddf7b#ref=rss",
+      "title": "Kassenärzte: Selbstzahler-Termine als Ausweg",
+      "summary": "Der Chef der Kassenärzte warnt, viele Praxen würden wegen des Sparprogramms weniger Termine anbieten. Patienten müssten dann selbst zahlen, um schneller dranzukommen.",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/kassenaerzte-schlagen-selbstzahler-termine-fuer-kassenpatienten-vor-a-4282bfbb-79a4-447b-b77b-812ed98bfc04#ref=rss",
       "source": "Spiegel Wirtschaft",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Siemens meldet Rekordjahr, aber weniger Gewinn",
-      "summary": "Der Technologiekonzern hat ein Rekordjahr hinter sich, verdient unter dem Strich aber weniger als zuvor.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVE5BZzF2cHBMV2ZlaGs1azhOWURINGdyYzB3Y2UzZHRkQjFmZktDTEdGa0JmbGpWZkZ2QjZlMHRQWjJ4ZlN3NmxrOTIzbml0Qm1YU043QjB0V2RwTkpwM3VKVXJaejIyRDV0SjVVMlYzU1ZIcUJhMUgxMGZublRORmYybzFXUGRTeWo1WVBRcDlvUW1tOExZcnJOWmxxNllrY1dEbFZQM0VDdmdqYnpEcTRnQ3hwMFZKNkE?oc=5",
-      "source": "Allgemeine Zeitung",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Verdi kündigt Warnstreiks bei privaten Banken an",
-      "summary": "Ab Montag sollen bundesweit Beschäftigte privater Banken die Arbeit niederlegen.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORWQ4akxhMlBOODhxOTdVMnJla2hnWldkcWIyN2M4Yml2bzFSZ3FJTGFFVFlpZzJMS3h0czMwMmJBT2hWNkJUemJEVWNjdU5JaVEzU3c5cnJZbUNyQ1hWNlo0SWdOWjAxZWtoaDF6ZlY3ZW9sZXlYYkNadVFvZHVUZFk0c2hpdGw4c2t4VVR6UzBQUVRBdnFHY2xSUVNiejVpQ0o0WlRNQUxWcEx6OHdwZHJjMUNERm1jTHJmTE9EOHNOdElsdkRaLVdLRnFtbjIx?oc=5",
-      "source": "Allgemeine Zeitung",
       "category": "Arbeit & Soziales"
     },
     {
-      "title": "Leistungsbilanz im September mit Überschuss von 18,7 Milliarden Euro",
-      "summary": "Die Leistungsbilanz misst Handel und Einkommen mit dem Ausland. Der Überschuss lag 7,6 Milliarden Euro über dem Vormonat, vor allem wegen des Warenhandels.",
-      "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/die-deutsche-zahlungsbilanz-im-september-2026-1015818",
-      "source": "Bundesbank",
-      "category": "Konjunktur"
-    },
-    {
-      "title": "EU gibt Industrie mehr kostenlose CO2-Zertifikate",
-      "summary": "EU-Parlament und Mitgliedstaaten haben sich geeinigt, der Industrie zusätzliche kostenlose Verschmutzungsrechte zu geben. Das soll Betriebe im Emissionshandel entlasten.",
-      "url": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
-      "source": "tagesschau Wirtschaft",
+      "title": "Straße von Hormus: Iran meldet brennende Öltanker",
+      "summary": "Iran berichtet von Feuer auf drei Tankern, angeblich durch Seeminen. Öl fließt wieder, die Passage gilt aber als teuer und riskant.",
+      "url": "https://www.spiegel.de/wirtschaft/service/iran-meldet-zwei-brennende-oel-tanker-in-der-strasse-von-hormus-a-872ff571-83d5-4520-9cd2-bdbdf570b95e#ref=rss",
+      "source": "Spiegel Wirtschaft",
       "category": "Energie"
     },
     {
-      "title": "Vollkasko für E-Autos aus China fast doppelt so teuer",
-      "summary": "Chinesische Hersteller locken mit niedrigen Kaufpreisen, doch die Versicherung kostet bis zu 870 Euro mehr. Der Preisvorteil kann dadurch teils verschwinden.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/vollkasko-versicherung-fuer-chinesische-e-autos-fast-doppelt-so-teuer-accg-201679370.html",
-      "source": "FAZ Wirtschaft",
-      "category": "Unternehmen",
-      "tipp": "Vor dem Kauf eines E-Autos die Versicherungskosten für das Modell vergleichen."
-    },
-    {
-      "title": "Deutschland will Chefvolkswirt-Posten bei der EZB",
-      "summary": "Bei der Nachfolge von EZB-Chefin Lagarde läuft laut FAZ alles auf den Spanier Hernández de Cos hinaus. Deutschland möchte sich den zweitwichtigsten Posten sichern, den des Chefvolkswirts.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ezb-personalpoker-deutschland-will-den-chefvolkswirt-201680913.html",
-      "source": "FAZ Wirtschaft",
-      "category": "Zinsen & Geldpolitik"
-    },
-    {
-      "title": "Cyberangriff trifft Drohnenhersteller Quantum Systems",
-      "summary": "Nach dem Hackerangriff läuft die Suche nach den Tätern, vieles deutet auf einen russischen Hintergrund. Das Unternehmen beliefert unter anderem das ukrainische Militär.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
+      "title": "KI als Waffe gegen Banken und ihre Kunden",
+      "summary": "Cyberkriminelle automatisieren Angriffe mit KI, Banken wehren sich ebenfalls mit KI. Experten sprechen von einem Wettlauf der Systeme.",
+      "url": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html",
       "source": "tagesschau Wirtschaft",
       "category": "Unternehmen"
     },
     {
-      "title": "BMW öffnet seinen CO2-Pool für andere Hersteller",
-      "summary": "BMW liegt bei den Emissionen besser als vorgeschrieben und lässt Konkurrenten seine Bilanz mitnutzen. Das bringt dem Konzern finanzielle Vorteile.",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-bmw-oeffnet-seinen-co-pool-fuer-die-konkurrenz/100269792.html",
+      "title": "IG Metall in der Zwickmühle",
+      "summary": "Die Krise der Industrie überschattet die Tarifrunde, während es einzelnen Firmen so gut geht wie nie. Das erschwert der Gewerkschaft die Lage.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/ig-metall-in-der-zerreissprobe-die-gewerkschaft-steht-vor-einem-dilemma-accg-201666487.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "Solarförderung für kleine Anlagen soll bleiben",
+      "summary": "Die Einspeisevergütung für Anlagen bis 25 Kilowatt soll erhalten bleiben. Beim Gesamtpaket zur Energiepolitik sind Union und SPD noch uneins.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/energiepolitik-solarfoerderung-fuer-kleine-anlagen-soll-bleiben/100269915.html",
       "source": "Handelsblatt",
+      "category": "Energie"
+    },
+    {
+      "title": "Mercedes-Benz: Werke stehen auf dem Spiel",
+      "summary": "Die Allgemeine Zeitung fragt, warum bei Mercedes-Benz Werke auf dem Spiel stehen. Details sind nur über den Artikel einsehbar.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVHU0angtWDdaNzdNVjlpQW5RSnpHdjh6bXhlNXRZcVEtdjN1SnZOTURCZ19zS3lVcmpKakJiUHRKdXpzcXFySlg1SVV1TTZldGFqV0FmcDhGZzRQM1ZYdXNPTlEzSFBpdWZSN2U0alJUUHU4VHJsU01YLUJfRTVJMjE4bnBCNlpPb3U1bGNwa3E4OWNOQ2xhSmN6WHJQNlF2azExX19lZ3drVzRlRTlxNzh5eFBKUUdZanVFUnczSlNnenFX?oc=5",
+      "source": "Allgemeine Zeitung",
       "category": "Unternehmen"
+    },
+    {
+      "title": "Ifo: Materialengpässe in der Elektroindustrie nehmen zu",
+      "summary": "Laut Ifo-Institut verschärfen sich die Engpässe bei Material in der Elektroindustrie.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWgtVFhEX2pvVkV2SGl6TDV4MXBLU1NjSXYtZmZfcWRaMTh4MHdqS1JwdzdPMlBfX3FDV01WVXdZTjdfM0N1OHc4NFdJOTBHeEt4VEh6eGVzU3hQMWZFUG9Ra0NUbnBZaG1UV3M4SjV3NlJ4SEoyZWd4NXJLNmdtUWpNTHZER3Nka1g1YkM2cm56UUhsbVNFb1BFbXpnZw?oc=5",
+      "source": "tixio - Nachrichten",
+      "category": "Konjunktur"
     }
   ]
 }
