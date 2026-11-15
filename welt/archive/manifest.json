@@ -1,6 +1,32 @@
 {
   "briefs": [
     {
+      "date": "2026-11-15",
+      "file": "2026-11-15.html",
+      "headline": "USA bieten Ukraine laut Selenskyj Nato-Beitritt gegen Donbass-Rückzug",
+      "count": 15,
+      "sources": 8,
+      "cats": {
+        "Krieg & Konflikte": 5,
+        "Europa": 2,
+        "Weltpolitik": 4,
+        "Katastrophen & Klima": 1,
+        "Hafen & Schifffahrt": 2,
+        "Wirtschaft & Handel": 1
+      },
+      "ents": {
+        "Ukraine": 2,
+        "USA": 5,
+        "NATO": 1,
+        "Israel": 2,
+        "Gaza": 2,
+        "EU": 2,
+        "Iran": 1,
+        "Russland": 1,
+        "China": 1
+      }
+    },
+    {
       "date": "2026-11-14",
       "file": "2026-11-14.html",
       "headline": "Trump trifft Putin und Xi zum ersten Dreiergipfel",
