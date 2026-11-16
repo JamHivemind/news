@@ -1,6 +1,30 @@
 {
   "briefs": [
     {
+      "date": "2026-11-16",
+      "file": "2026-11-16.html",
+      "headline": "Neue Regeln für PayPal und Klarna ab 20. November",
+      "count": 13,
+      "sources": 11,
+      "cats": {
+        "Neue Gesetze & Fristen": 2,
+        "Geld, Verträge & Versicherung": 2,
+        "Urteile": 2,
+        "Miete & Wohnen": 2,
+        "Arbeit & Digitales": 1,
+        "Warnungen & Betrug": 3,
+        "Tests": 1
+      },
+      "ents": {
+        "PayPal": 1,
+        "Verbraucherzentrale": 3,
+        "BGH": 2,
+        "Mieter": 2,
+        "BVerfG": 1,
+        "Stiftung Warentest": 1
+      }
+    },
+    {
       "date": "2026-11-15",
       "file": "2026-11-15.html",
       "headline": "Selbstzahler-Termine: Kassenärzte-Chef erwartet Zwei-Klassen-Wartezeiten",
