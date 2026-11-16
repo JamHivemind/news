@@ -1,99 +1,119 @@
 {
-  "date": "2026-11-15",
-  "intro": "Hamburg schaut in den Untergrund: Tausende haben den U5-Tunnel besichtigt. Im Hafen sieht es dagegen schwieriger aus, und in Moorburg rollen die Rodungen für die A26-Ost an.",
+  "date": "2026-11-16",
+  "intro": "Der Hafen bekommt 286 Millionen Euro aus Brüssel für neue Kaimauern. In Moorburg rollen die Bagger für die A26 Ost, und die Elbphilharmonie-Plaza verliert viele Besucher.",
   "top": [
     {
-      "title": "Tausende wandern durch den U5-Tunnel",
-      "text": "Die Hochbahn hat den Tunnel der künftigen U5 für Besucher geöffnet, zu Fuß ging es von der Haltestelle City Nord bis zur Sengelmannstraße. Laut Abendblatt kamen rund 7.000 Hamburger. Die fahrerlose U5 soll im 90-Sekunden-Takt fahren und mit Weichen vor jeder Haltestelle Störungen besser abfangen.",
-      "url": "https://www.abendblatt.de/hamburg/politik/article413671306/u5-tunneltour-im-video-hier-ist-ja-richtig-liebe-hineingeflossen.html",
-      "source": "Hamburger Abendblatt",
-      "category": "Verkehr"
-    },
-    {
-      "title": "A26-Ost: Rodungen in Moorburg haben begonnen",
-      "text": "Am Fürstenmoordamm wurden Flächen für die geplante Autobahn gerodet, berichtet der Naturschutzbund Nabu. Der Verband klagt seit Jahren gegen den Bau und zeigt sich entsetzt. Damit wird das umstrittene Projekt auf dem Boden sichtbar.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/neuer-anlauf-fuer-die-a26-ost,a26ost-100.html",
-      "source": "NDR Hamburg",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Hafen unter Druck: HHLA senkt Jahresprognose",
-      "text": "Der Hamburger Hafen spürt laut NDR Kälte, den Iran-Krieg und Streiks. Der Betreiber HHLA verliert deutlich, während Eurogate sich besser hält. Die HHLA hat nach dem Rückgang beim Umschlag ihre Prognose für das Jahr gesenkt. Das betrifft einen der wichtigsten Arbeitgeber der Stadt.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDBQRE12VzY3NWpaNGtieDEyWFBGUXN6VkhDTGNsUndtNXdMZ3lncEVKa0NFdmhyVVRHRHNqNGJlSmROY3hYX1hkVTZ3a2JIOE16a3ZjTGFheEwyM2otbDVfVTlqTGJ4QWdSQjNyVUo2WTMyRG9lZFBSWURocE9jZ212cHpLdkMtRC1kTURiS1hrSGphWW91ZEJzYUJhN2FSV3ZJNmJ5cURzR1I3a2RB?oc=5",
+      "title": "EU gibt 286 Millionen Euro für Hamburgs Kaimauern",
+      "text": "Die EU genehmigt Hamburg 286 Millionen Euro für neue Kaimauern im Hafen. Eine Kaimauer ist die Mauer, an der Schiffe zum Be- und Entladen festmachen. Das Geld hilft, die Anlagen des Hafens zu erneuern.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVDNzQmdtLTJicTAtNld5R2hmaU1FeFlMZFRNTVFjNHMtV2FUUF96WHRmdFNDMGZ4Z3hOM3RjWXhDTHJzQ3JJYVJYVFF2bzdFZ0pmejR1Vkg5ZFM1WUVuVFhmZE1BcGd4dW9mT2dVeHVObFQ0Q2dxbkpzdlViQVN0SGJVUUViYlhtMy1PdzZPX0lmOC1PcDFINm9hb3VTS1B2T3NyVE95WUJfTTh5aHlNRUMxZ0lTeG55Sm9XOVZSaThqWWhXajdJOA?oc=5",
       "source": "NDR.de",
       "category": "Wirtschaft & Hafen"
+    },
+    {
+      "title": "Elbphilharmonie-Plaza: Eintritt vergrault Besucher",
+      "text": "Seit die Aussichtsplattform Eintritt kostet, kommen deutlich weniger Menschen, laut NDR rund 40 Prozent weniger. Das zeigt eine Anfrage der CDU an den Senat. Zehn Jahre lang war der Panoramablick gratis.",
+      "url": "https://www.ndr.de/nachrichten/hamburg/elbphilharmonie-plaza-eintrittspreis-sorgt-fuer-besucherrueckgang,elphi-124.html",
+      "source": "NDR Hamburg",
+      "category": "Kultur & Freizeit"
+    },
+    {
+      "title": "A26 Ost: Bagger roden im Moor",
+      "text": "Für die umstrittene Autobahn A26 Ost haben die Rodungen in Moorburg begonnen. Naturschützer kritisieren das scharf und sagen, sie hätten keine Möglichkeit gehabt, rechtlich dagegen vorzugehen.",
+      "url": "https://www.mopo.de/hamburg/rodungen-fuer-umkaempfte-neue-autobahn-jetzt-rollen-die-bagger-im-moor/5089223",
+      "source": "Hamburger Morgenpost",
+      "category": "Bauen & Wohnen"
     }
   ],
   "entries": [
     {
-      "title": "Taskforce gegen hohe Mieten: 1.490 Fälle",
-      "summary": "Die meisten Mieter melden sich aus Eppendorf und Winterhude. Die Taskforce bearbeitet derzeit 1.490 Fälle.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/taskforce-gegen-hohe-mieten-in-hamburg-beliebte-gegenden-vorn,miete-136.html",
+      "title": "U5 soll auf Knopfdruck zusätzliche Bahnen bekommen",
+      "summary": "Hamburgs neue U-Bahn-Linie U5 soll alle 90 Sekunden fahren. Züge können auf dem Gegengleis überholen, bei Bedarf kommen zusätzliche Bahnen dazu.",
+      "url": "https://www.mopo.de/hamburg/erstaunliche-technik-hamburgs-neue-u-bahn-kann-sogar-ueberholen/5088668",
+      "source": "Hamburger Morgenpost",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Senatorin fordert günstigeren Strom für die Industrie",
+      "summary": "Vor dem Stahlgipfel verlangt Wirtschaftssenatorin Melanie Leonhard eine tragfähige Lösung. Der Norden hat viel Windstrom, doch die Industrie zahlt zu viel.",
+      "url": "https://www.mopo.de/hamburg/politik/strompreis-zu-hoch-senatorin-fordert-endlich-tragfaehige-loesung/5089090",
+      "source": "Hamburger Morgenpost",
+      "category": "Wirtschaft & Hafen"
+    },
+    {
+      "title": "Containerumschlag im Hafen legt wieder zu",
+      "summary": "Der Hamburger Hafen gewinnt beim Containerumschlag wieder an Dynamik, berichtet das Fachportal Fruchthandel.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUYtMkxqNlNseDl1WHJMeWRtR3VRYTIyVWZHS0V0b29tSVh5UXBwZ2VtUV9IM0kzdktGSVdkSUVRcTNUSmtwekJPX2lzc2MtMjJrRmhLbWhSNmhGV2FFM1NSOGlDSG93V2sydVIyNVozaUdfdFRjRnRMbjJwUHE4bGgwbGZGM2VrQVo5cHhLX003WkdvWlA4ZWtiN1FPdw?oc=5",
+      "source": "Fruchthandel",
+      "category": "Wirtschaft & Hafen"
+    },
+    {
+      "title": "Leonhard reist mit großer Delegation nach Finnland",
+      "summary": "Bei der mehrtägigen Reise geht es um IT, kritische Infrastruktur und Zivilschutz. Mehr als 30 Personen begleiten die Wirtschaftssenatorin.",
+      "url": "https://www.ndr.de/nachrichten/hamburg/kooperation-wirtschaftssenatorin-leonhard-besucht-finnland,kurzehh-4904.html",
       "source": "NDR Hamburg",
+      "category": "Stadt & Politik"
+    },
+    {
+      "title": "Tschentscher warnt am Volkstrauertag vor Populismus",
+      "summary": "In seiner Rede auf dem Friedhof Ohlsdorf rief der Bürgermeister zum Einsatz für die Demokratie auf und warnte vor antidemokratischen Anfeindungen.",
+      "url": "https://www.ndr.de/nachrichten/hamburg/volkstrauertag-tschentscher-fordert-einsatz-fuer-demokratie,volkstrauertag-174.html",
+      "source": "NDR Hamburg",
+      "category": "Stadt & Politik"
+    },
+    {
+      "title": "Microsoft-Ausfall: Mailprobleme und Hafenrundfahrten ohne Tickets",
+      "summary": "Der Cloud-Ausfall hat auch in Hamburg Mails gestört. Anbieter von Hafenrundfahrten konnten zeitweise keine Tickets ausstellen, die Behörden blieben gelassen.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWRNQmFPck9tdjBWRi16Z0NJYjJjdHk4SWpnMlNVWXZjQTI5Q3dfZHIwVTlNNWo2eGFheENLRkNaUmlmZWVoaXZfNFh0UVY1QXptWXNWTmIwQzZQVWZMQU8wTldRTU52NGhieHlqdjFiYkR0bHZsVFBjTXBjQy1Pc1U0bUoxV0Y3QkF5N2JWNWs0a1JBODdNTV9pLXZmRWJBVkdqWENHaVpoNkJENFhCUnJBdw?oc=5",
+      "source": "NDR.de",
+      "category": "Wirtschaft & Hafen"
+    },
+    {
+      "title": "Hamburger Apotheke bietet Video-Arzt auf Kassenkarte",
+      "summary": "In einer Apotheke können sich Patienten per Video von Hausärzten mit deutschem Kassensitz behandeln lassen. Abgerechnet wird über die Krankenkassenkarte.",
+      "url": "https://www.abendblatt.de/hamburg/politik/article413673692/lasse-oberste-berghaus-holt-den-tele-hausarzt-in-seine-hamburger-apotheke.html",
+      "source": "Hamburger Abendblatt",
+      "category": "Stadt & Politik"
+    },
+    {
+      "title": "Initiative will Elbtower alternativ nutzen",
+      "summary": "„Tower to the People“ will 14 Stockwerke des Hochhauses für nachhaltige Firmen und Forschung nutzen und sammelt dafür per Crowdfunding Geld.",
+      "url": "https://www.mopo.de/hamburg/alternative-elbtower-nutzung-initiative-startet-spendensammlung/5088981",
+      "source": "Hamburger Morgenpost",
       "category": "Bauen & Wohnen"
     },
     {
-      "title": "Hamburg darf 286 Millionen Euro für marode Kaimauern übernehmen",
-      "summary": "Für die maroden Kaimauern im Hafen darf die Stadt 286 Millionen Euro übernehmen, berichtet das Abendblatt.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdnBrM0hVZzkxUG0wTUpfdHpETGlBbExTWjlQQ21sVUNkdDBuRVBaX1BweVcxY3RzNXlHbmc2aDRMYjdqeUZ1eXY0WE5aam1tVUdiSWtfOUFrVHVTNVY1eWtQV3E4STltcmpIZXJ1WC03VTR5MndYQlMzNW1mODd5bjJNWERRbGIxVW1XRzVJZWdwcG4zbkRCZVExaEVxTkJfcjRyRXF5WXAzY1ZQWHpFaUFrQ1hxRGQ5cldLLTZhTDBYOXVGWlBJZU9EZHZudDQxcUNVemk5dUVQZw?oc=5",
-      "source": "Hamburger Abendblatt",
-      "category": "Wirtschaft & Hafen"
-    },
-    {
-      "title": "Senat veröffentlicht Managergehälter",
-      "summary": "Eine Chefin eines städtischen Unternehmens bekam laut Abendblatt 300.000 Euro im Monat.",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTmQ1ZWlnM0dKOHFGQVJ1enRiRmJLczM3V2VZc3F6cVhhZ013eklKWGRqaldaVWRaWEJjcGZOLUFyX0JxQTZnX2xXaERMQk5lRlF2TXAtdlMwcURwZTU0NHdHaXByQUhVY2NtMFdVQUZxbU40SmxPb19wVW40UEh3RHQ4OEd3SXRRWGx6X2tmU1FqRGloZS1MWXhsaDR2QnUzSEkyYWg0TlBZQlhxMzdSZ2xJNUVSQTk3WGE1SEI3dTZOWnZVUnpkaFJEY0NkWVUyeWJBWDdLdUNxUnd6WkpPRm9rTFdUWGNxd1Fobg?oc=5",
-      "source": "Hamburger Abendblatt",
-      "category": "Stadt & Politik"
-    },
-    {
-      "title": "2.500 Menschen bei PRÜF-Demo",
-      "summary": "Zum ersten Jahrestag der Demos zogen laut Polizei etwa 2.500 Menschen durch die Stadt. Sie fordern, dass das Bundesverfassungsgericht Parteien prüft, die der Verfassungsschutz als rechtsextrem einstuft.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/erneute-pruef-demo-gegen-rechtsextremismus-in-hamburg,demo-842.html",
-      "source": "NDR Hamburg",
-      "category": "Stadt & Politik"
-    },
-    {
-      "title": "Kampnagel baut im laufenden Betrieb um",
-      "summary": "Das Kulturzentrum startet seine bauliche Transformation, ohne den Spielbetrieb zu stoppen.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSlBBSTdXdmVTYk0wRjdrZE9QT3k0XzJ4RlQxWDdTRXQ1eEYzai05TkQzdDlaZWFGbkRFdHFlWlFmVTJrZVYtLVdHQXVlR1NKSTJPSjV1RHBOTWNWYWxxMzB2X044LVc0WElBVUFfeU9CVXZuTkprOGNfZHFZZVFTcy0zY2M3ZFc0dFVOMDVWNG1KMnNmeFZpYW52MDdMNHdnQ3p4YlFWdkJHZFpkVEVzVnpfM3NTVnM3Qy13RUlrdHhxUmJ5bkY1ZGtWc1hqM0E?oc=5",
-      "source": "Hamburg.de",
+      "title": "Hafenmuseum: Hamburg will es doch noch verwirklichen",
+      "summary": "Die Stadt sucht einen neuen Weg zum geplanten Hafenmuseum, berichtet die FAZ.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM1ZhaTBYN2kxcXJKQWo3c3YzaTNrb2w3QnFzY0hRaklXRjVfeE4wRmo2UXZuT1BENVNIMW9DdF9BWExrY1Jhc1hEQ01TNG56SndnaWZMaThCZ09WNm5XS3h2RGtOWHk5cE9KS1ZKdGF6NEtLbmZMTHN4T1Zpa1o1U19Hd1IzRjh0RXIzTC1ET2JyUm5QOE9yTkdGWDlEUVFRLW5pVHAxUU93anVKbzQzaFY3a3B4ZzNicW9MdVU3UFRKTEd2bm9pUlFILVl6WU5telhHQkl5UUVCU2FNaGlFOFYteVc?oc=5",
+      "source": "FAZ",
       "category": "Kultur & Freizeit"
     },
     {
-      "title": "Neues Altersvorsorgedepot: Vorsicht vor teuren Angeboten",
-      "summary": "Die Stadt warnt vor teuren Angeboten und davor, vorschnell abzuschließen.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUVRROWJWOVpMNUJoTDFaZGphc3ZpbFRPeWVKdVFqX3BodUh2NkpOVXU3TFhtUmVLdUc3WkxfdzgtRnVxWjdZTDBjNlBPYzgxUGphR1gzRVVHVXpxY0dEN2l3dzYxcmJpeXlfek82azhyU2JFWFJrOEJuVWJQSzlQX2F4cjVNSUxwQWtXamhHc2UtMUNCcHJ0SVB3YktPaEcyNDk0Q2p4Y01MU1M1RkxtWExvRWlBbDlMRnlLMThiajN0dndOV210RHZFZTNYRmw3YnpITURLRQ?oc=5",
-      "source": "Hamburg.de",
-      "category": "Stadt & Politik",
-      "tipp": "Angebote zum Altersvorsorgedepot in Ruhe vergleichen und nicht unter Zeitdruck abschließen."
-    },
-    {
-      "title": "Eppendorf: Traditions-Fischgeschäft schließt nach fast 80 Jahren",
-      "summary": "Das Geschäft mit Bistro, bekannt für seinen hausgemachten Fischsalat, macht zu.",
-      "url": "https://www.mopo.de/hamburg/unendlich-traurig-traditions-fischgeschaeft-schliesst-nach-fast-80-jahren/5087376",
-      "source": "Hamburger Morgenpost",
-      "category": "Wirtschaft & Hafen"
-    },
-    {
-      "title": "St. Pauli: Zehn Stunden Debatte bei der Mitgliederversammlung",
-      "summary": "Die Mitglieder entscheiden über brisante Anträge, besonders beim Streit um Ultras. Präsident Göttlich greift persönlich ein.",
-      "url": "https://www.mopo.de/sport/fc-st-pauli/hitziger-streit-um-ultras-und-herz-von-st-pauli-goettlich-greift-persoenlich-ein/5087940",
-      "source": "Hamburger Morgenpost",
-      "category": "Sport"
-    },
-    {
-      "title": "HC Hamburg verspielt Sechs-Tore-Führung in Erlangen",
-      "summary": "Nach starkem Start verliert das Team erneut. Trainer Jansen ärgert sich deutlich.",
-      "url": "https://www.mopo.de/sport/handball-hamburg/meine-fresse-hc-hamburg-verspielt-sechs-tore-fuehrung-jansen-bedient/5088015",
-      "source": "Hamburger Morgenpost",
-      "category": "Sport"
-    },
-    {
-      "title": "Altona: Kontrolle deckt illegale Wettterminals auf",
-      "summary": "Bei einem Großeinsatz stießen Einsatzkräfte auf illegale Wettterminals und gefälschte Identitäten.",
-      "url": "https://www.abendblatt.de/hamburg/altona/article413676587/grosseinsatz-in-altona-illegale-wettbueros-und-falsche-identitaeten-enttarnt.html",
+      "title": "Ex-Shishabar in Hohenfelde wird doch keine Vorschule",
+      "summary": "Die Kita-Erweiterung in dem Lokal, das nach tödlichen Schüssen geschlossen wurde, ist geplatzt. Nun werden neue Mieter gesucht.",
+      "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article413654289/shishabar-wird-doch-nicht-zur-vorschule-jetzt-werden-neue-mieter-gesucht.html",
       "source": "Hamburger Abendblatt",
+      "category": "Bauen & Wohnen"
+    },
+    {
+      "title": "Vuskovic feiert HSV-Comeback nach vierjähriger Sperre",
+      "summary": "Der Verteidiger bestritt gegen Hajduk Split sein erstes Spiel nach der Sperre und bedankte sich unter Tränen bei den Fans.",
+      "url": "https://www.ndr.de/sport/fussball/Bundesliga-Hamburg-HSV-Mario-Vuskovic-Hajduk-Split,hsv-2382.html",
+      "source": "NDR Hamburg",
+      "category": "Sport"
+    },
+    {
+      "title": "Zverev gewinnt Auftakt bei den ATP Finals",
+      "summary": "Der Hamburger Tennisprofi schlägt den Spanier Jodar im ersten von drei Gruppenspielen souverän.",
+      "url": "https://www.ndr.de/sport/mehr_sport/atp-finale-zverev-feiert-auftaktsieg-gegen-jodar,zverev-1752.html",
+      "source": "NDR Hamburg",
+      "category": "Sport"
+    },
+    {
+      "title": "Vermisster Elfjähriger vom Dom wohlbehalten gefunden",
+      "summary": "Nach einem Großeinsatz fand die Polizei den Jungen in der Nacht zu Sonntag in einem Bus bei Reinbek. Der Dom war am Abend teilweise gesperrt.",
+      "url": "https://www.ndr.de/nachrichten/hamburg/elfjaehriger-vermisst-hamburger-dom-am-abend-teilweise-gesperrt,dom-162.html",
+      "source": "NDR Hamburg",
       "category": "Polizei & Sicherheit"
     }
   ]
