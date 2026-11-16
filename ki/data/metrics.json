@@ -1100,26 +1100,26 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 7615,
+   "likes": 7621,
    "downloads": 27037,
    "task": "text-generation"
   },
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 1234,
+   "likes": 1239,
    "downloads": 571067,
    "task": "text-to-image"
   },
   {
    "id": "Qwen/Qwen3.8-27B",
-   "likes": 20166,
-   "downloads": 6547772,
+   "likes": 20173,
+   "downloads": 6763402,
    "task": "image-text-to-text"
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 12124,
-   "downloads": 2754355,
+   "likes": 12128,
+   "downloads": 2789021,
    "task": "image-to-video"
   },
   {
@@ -1130,11 +1130,11 @@
   },
   {
    "id": "Zyphra/ZONOS3-Mini",
-   "likes": 420,
+   "likes": 421,
    "downloads": 39862,
    "task": "text-to-speech"
   }
  ],
- "updated": "2026-11-16T10:01:47.587Z",
+ "updated": "2026-11-16T10:47:17.494Z",
  "updatedDay": "2026-11-06"
 }
