@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-16",
+      "file": "2026-11-16.html",
+      "headline": "Anthropic geht an die Börse: Rekord-Börsengang im Test",
+      "count": 14,
+      "sources": 7,
+      "cats": {
+        "Business & Funding": 3,
+        "Regulierung & Politik": 2,
+        "Tools & Agenten": 1,
+        "KI im Alltag & Beruf": 3,
+        "Modelle & Releases": 1,
+        "Claude & Anthropic": 2,
+        "Forschung & Deep Tech": 2
+      },
+      "ents": {
+        "Anthropic": 4,
+        "OpenAI": 5,
+        "Nvidia": 2,
+        "Apple": 1,
+        "Google": 1
+      }
+    },
+    {
       "date": "2026-11-15",
       "file": "2026-11-15.html",
       "headline": "Anthropic-Chef zweifelt vor dem Börsengang",
