@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-16T05:17:59.541Z",
+ "fetched": "2026-11-16T05:19:31.639Z",
  "hours": 80,
  "sources": [
   {
@@ -320,6 +320,12 @@
    "ok": true,
    "items": [
     {
+     "title": "BND-Affäre: Wie die Geheimnisse aus der Geheimdienstzentrale verschwanden",
+     "url": "https://www.sueddeutsche.de/politik/bnd-manfred-d-august-hanning-dokumentendiebstahl-geheimdienst-li.3580228",
+     "date": "2026-11-16T05:08:27.000Z",
+     "text": "Manfred D. hat vier BND-Präsidenten als Büroleiter gedient. Nun wird ihm vorgeworfen, weit mehr als 2000 streng vertrauliche Dokumente aus dem Bundesnachrichtendienst geschmuggelt zu haben. Er soll dafür Chauffeure, Leibwächter und seine Privilegien benutzt haben."
+    },
+    {
      "title": "Newsblog zu Nahost: Bericht: Dritter US-Flugzeugträger erreicht Nahen Osten",
      "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-bahrain-us-flugzeugtraeger-uss-theodore-roosevelt-us-militaer-li.3579157",
      "date": "2026-11-16T03:12:07.000Z",
@@ -333,7 +339,7 @@
     },
     {
      "title": "Südamerika-Reise: Papst mahnt am Amazonas zu Umweltschutz",
-     "url": "https://www.sueddeutsche.de/politik/papst-leo-xiv-religion-katholische-kirche-umwelt-umweltschutz-amazonas-regenwald-klimawandel-klimaschutz-klimakrise-li.3580932",
+     "url": "https://www.sueddeutsche.de/politik/papst-leo-xiv-mahnt-umweltschutz-amazonas-li.3580932",
      "date": "2026-11-16T00:52:02.000Z",
      "text": "Gegen Ende seiner Südamerika-Reise warnt Leo XIV. vor einer Zerstörung des weltgrößten Regenwalds. Dabei macht er deutlich, dass die Wirtschaft aus seiner Sicht strenge Grenzen braucht."
     },
@@ -402,12 +408,6 @@
      "url": "https://www.sueddeutsche.de/politik/ukraine-nato-russland-krieg-donbass-li.3580812",
      "date": "2026-11-15T13:53:00.000Z",
      "text": "Diese Idee präsentierten die US-Verhandler in Abu Dhabi, berichtet der ukrainische Präsident Selenskij. Er macht klar: Kiew wird keine Gebiete abtreten – außer nach einer Volksabstimmung."
-    },
-    {
-     "title": "Schwarz-Rot: Merz und Klingbeil unter Druck, Koalition in der Krise",
-     "url": "https://www.sueddeutsche.de/politik/schwarz-rot-friedrich-merz-lars-klingbeil-spd-machtkampf-hubertus-heil-li.3580696",
-     "date": "2026-11-15T13:42:19.000Z",
-     "text": "Bundeskanzler und CDU-Chef Friedrich Merz wird zu große Nachgiebigkeit gegenüber den Sozialdemokraten vorgeworfen. Derweil kämpft auch der SPD-Chef um seine Macht."
     }
    ]
   },
@@ -807,6 +807,12 @@
      "text": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
     },
     {
+     "title": "Watch: New York teen reunites with cat missing after building collapse",
+     "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-16T04:36:45.000Z",
+     "text": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public."
+    },
+    {
      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
      "date": "2026-11-14T22:09:40.000Z",
@@ -994,17 +1000,17 @@
      "via": "Reuters"
     },
     {
-     "title": "Microsoft restores service to Outlook and Teams after global outage - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5",
-     "date": "2026-11-14T07:24:34.000Z",
-     "text": "Microsoft restores service to Outlook and Teams after global outage Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "ASEAN, China fail to conclude South China Sea code of conduct - Reuters",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1RJdXlfUmlvM01RTEVHbEIzRzA0eTYxLWVtMGdlOEhXT1hyRHl0ejhBMjBvSGFVU25SUTNsMXJXV3ZhRkRldDJOd3VMTWdqSTdpQ0FXcHl4aGtUbzNQWWdnSlpQWkM3d1d1VldFeE4wNmMwZUhrVEdyQnlTdTBTNDM1a3oxRVZCS0pTRnpSLXRMbFVOM1VrUWY2bWFZQU41VDV5cg?oc=5",
      "date": "2026-11-15T13:38:00.000Z",
      "text": "ASEAN, China fail to conclude South China Sea code of conduct Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Microsoft restores service to Outlook and Teams after global outage - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5",
+     "date": "2026-11-14T07:24:34.000Z",
+     "text": "Microsoft restores service to Outlook and Teams after global outage Reuters",
      "via": "Reuters"
     },
     {
@@ -1965,18 +1971,18 @@
      "via": "Logistik Heute"
     },
     {
-     "title": "Hamburger Hafen: Containerumschlag in Hamburg gewinnt wieder an Dynamik - Fruchthandel",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUYtMkxqNlNseDl1WHJMeWRtR3VRYTIyVWZHS0V0b29tSVh5UXBwZ2VtUV9IM0kzdktGSVdkSUVRcTNUSmtwekJPX2lzc2MtMjJrRmhLbWhSNmhGV2FFM1NSOGlDSG93V2sydVIyNVozaUdfdFRjRnRMbjJwUHE4bGgwbGZGM2VrQVo5cHhLX003WkdvWlA4ZWtiN1FPdw?oc=5",
-     "date": "2026-11-13T09:00:07.000Z",
-     "text": "Hamburger Hafen: Containerumschlag in Hamburg gewinnt wieder an Dynamik Fruchthandel",
-     "via": "Fruchthandel"
-    },
-    {
      "title": "Wie Hamburg sein Hafenmuseum doch noch verwirklichen will - FAZ",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM1ZhaTBYN2kxcXJKQWo3c3YzaTNrb2w3QnFzY0hRaklXRjVfeE4wRmo2UXZuT1BENVNIMW9DdF9BWExrY1Jhc1hEQ01TNG56SndnaWZMaThCZ09WNm5XS3h2RGtOWHk5cE9KS1ZKdGF6NEtLbmZMTHN4T1Zpa1o1U19Hd1IzRjh0RXIzTC1ET2JyUm5QOE9yTkdGWDlEUVFRLW5pVHAxUU93anVKbzQzaFY3a3B4ZzNicW9MdVU3UFRKTEd2bm9pUlFILVl6WU5telhHQkl5UUVCU2FNaGlFOFYteVc?oc=5",
      "date": "2026-11-13T09:11:41.000Z",
      "text": "Wie Hamburg sein Hafenmuseum doch noch verwirklichen will FAZ",
      "via": "FAZ"
+    },
+    {
+     "title": "Hamburger Hafen: Containerumschlag in Hamburg gewinnt wieder an Dynamik - Fruchthandel",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUYtMkxqNlNseDl1WHJMeWRtR3VRYTIyVWZHS0V0b29tSVh5UXBwZ2VtUV9IM0kzdktGSVdkSUVRcTNUSmtwekJPX2lzc2MtMjJrRmhLbWhSNmhGV2FFM1NSOGlDSG93V2sydVIyNVozaUdfdFRjRnRMbjJwUHE4bGgwbGZGM2VrQVo5cHhLX003WkdvWlA4ZWtiN1FPdw?oc=5",
+     "date": "2026-11-13T09:00:07.000Z",
+     "text": "Hamburger Hafen: Containerumschlag in Hamburg gewinnt wieder an Dynamik Fruchthandel",
+     "via": "Fruchthandel"
     },
     {
      "title": "HHLA meldet Gewinneinbruch - verkehrsrundschau.de",
@@ -1998,13 +2004,6 @@
      "date": "2026-11-12T10:53:24.000Z",
      "text": "HHLA: Abschreibungen, Streiks und Probleme an Containerterminals lassen Gewinn einbrechen 4investors.de",
      "via": "4investors.de"
-    },
-    {
-     "title": "Hafenwirtschaft: Der Gewinn der HHLA bricht ein - WELT",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3Jkd0pkcmVJbUQ3bVZlaFQ5dTZPdk5vZHVyeFo2Vk1vYTc5R1VfdGxpajdER1dOSUFLMWw3ZThSVE85bE4wVmZfODEzeFFfaGE1T2VjYmVaUW9fWUc1NTR3SmxNLUJKTTJzYjdXaWFXMnRsaVJKempyalhXTEVPLXlyWGFrNFJlLS1nd0M4ZXRZVE5kTmU4RzF3TFY5eUJfVmF5MnNIY1lHWUtYY3o1UW1YVzhQM29XcnR6R1J1cw?oc=5",
-     "date": "2026-11-12T10:19:33.000Z",
-     "text": "Hafenwirtschaft: Der Gewinn der HHLA bricht ein WELT",
-     "via": "WELT"
     },
     {
      "title": "Harburger Binnenhafen: Das Rostschiff und sein süßes Geheimnis – hier lohnt ein tiefer Blick - Hamburger Abendblatt",
@@ -2049,6 +2048,13 @@
      "via": "NDR.de"
     },
     {
+     "title": "Hafenwirtschaft: Der Gewinn der HHLA bricht ein - WELT",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3Jkd0pkcmVJbUQ3bVZlaFQ5dTZPdk5vZHVyeFo2Vk1vYTc5R1VfdGxpajdER1dOSUFLMWw3ZThSVE85bE4wVmZfODEzeFFfaGE1T2VjYmVaUW9fWUc1NTR3SmxNLUJKTTJzYjdXaWFXMnRsaVJKempyalhXTEVPLXlyWGFrNFJlLS1nd0M4ZXRZVE5kTmU4RzF3TFY5eUJfVmF5MnNIY1lHWUtYY3o1UW1YVzhQM29XcnR6R1J1cw?oc=5",
+     "date": "2026-11-12T10:19:33.000Z",
+     "text": "Hafenwirtschaft: Der Gewinn der HHLA bricht ein WELT",
+     "via": "WELT"
+    },
+    {
      "title": "Umschlag in Hamburg weiter im Minus - THB - Täglicher Hafenbericht",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHpEamFvX2ExRlBLVHc2cDZMV1czaXlNekREb2xabVdTM1ZraWU3OW5JTlpwSDJZUXV3TUJTYl9Dd0VmQjByR2xaLVJoM2YwV0lrTDVnY3lZcVJXb3ZPWkE5VGFIZ3BGZWh0YkJrTmpCUkhiWnhZem1pTENnbDNMY3k2WmdHNFRPRVlNUk9nSGFxcHc?oc=5",
      "date": "2026-11-12T14:10:16.000Z",
@@ -2056,18 +2062,18 @@
      "via": "THB - Täglicher Hafenbericht"
     },
     {
-     "title": "Marode Köhlbrandbrücke: Hamburgs Hafen droht der Infarkt - taz.de",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1YUlVcHhfb084NGU4UmVMbFdKdUN2VTBtX1lUaS1zamhnRFJZSWdUZHRTUDJHYnl6a2FwVnAtR21TVXBTZFVTQ1BUdVRnaXpjdkZrZGlSSnhoVUFiamc?oc=5",
-     "date": "2026-11-12T16:43:17.000Z",
-     "text": "Marode Köhlbrandbrücke: Hamburgs Hafen droht der Infarkt taz.de",
-     "via": "taz.de"
-    },
-    {
      "title": "Automatisierung und Portfoliobereinigung belasten Neunmonatsergebnis der HHLA - Fruchthandel",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbHA3ay1BaHVtc2JMd1pEek92Rm5hd2RRYzhrRmlPa0pqeWc1dXRfUzZLU1NuejJsazdPSHBFaGt4WENiN0pWSmhUMUlZSmhMSjZoYVlnMlRLRm04UC1HamxIV3dBWXpfR2JPcGFWUkFYNkphSC1wdDVsUnZPM3hmeVlJSGFDV29IemFhZThRdllxdkw2bkxnTkNsMVNKSmV5aGhYRGJFbndGOS11Y05N?oc=5",
      "date": "2026-11-12T07:22:54.000Z",
      "text": "Automatisierung und Portfoliobereinigung belasten Neunmonatsergebnis der HHLA Fruchthandel",
      "via": "Fruchthandel"
+    },
+    {
+     "title": "Marode Köhlbrandbrücke: Hamburgs Hafen droht der Infarkt - taz.de",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1YUlVcHhfb084NGU4UmVMbFdKdUN2VTBtX1lUaS1zamhnRFJZSWdUZHRTUDJHYnl6a2FwVnAtR21TVXBTZFVTQ1BUdVRnaXpjdkZrZGlSSnhoVUFiamc?oc=5",
+     "date": "2026-11-12T16:43:17.000Z",
+     "text": "Marode Köhlbrandbrücke: Hamburgs Hafen droht der Infarkt taz.de",
+     "via": "taz.de"
     },
     {
      "title": "\"König der Löwen\" in Hamburg: Mark Forster ist Stargast der Jubiläumsgala - t-online – Hamburg",
@@ -2084,18 +2090,18 @@
      "via": "t-online – Hamburg"
     },
     {
-     "title": "HHLA: Mehr Umsatz, doch der Gewinn stürzt ab - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdktWT0JvbjVWTXUyek5hLUJxU0xCalFrb0FCRkh0MWlMZUdiNTR4MHhaWWJxYm8wYmFMMGM0RWRpckM5NTRhVnREaVAzSHpwc0x2and1bnlrcEpmOXFfdXgxZEk4NGpEeEpqQUtRSXNmY0JNQ1pYV3dZR3VKVmhxMENTY2hBQQ?oc=5",
-     "date": "2026-11-12T18:08:00.000Z",
-     "text": "HHLA: Mehr Umsatz, doch der Gewinn stürzt ab MOPO",
-     "via": "MOPO"
-    },
-    {
      "title": "Mit 90-Grad-Sauna: Besonderes Hausboot fährt auf der Elbe - t-online – Hamburg",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX2JTbHBzQVZvN29PeDhsX3RUbW9BNWpXZlRBSTNTc0F2OGdxcmY5TWtRN0tkX3c3dC1senVLWC0tUkpaV1hZT1FMSTVIWVZrN2hRRW4tREY5alR0b0N1Sll0bkdyUVg2Ymp3TFloR3oxdkJXeGd4ZjhDMFlseWRtSUtrN3VGZFFvUEc2MUlmUThiVU5IeVNCNUJiX3ZmOXcxOEhkR1NDcUt2WTI0cEdfS21wQ0s4SEs1cDNnWjFqTTJzQQ?oc=5",
      "date": "2026-11-14T01:28:00.000Z",
      "text": "Mit 90-Grad-Sauna: Besonderes Hausboot fährt auf der Elbe t-online – Hamburg",
      "via": "t-online – Hamburg"
+    },
+    {
+     "title": "HHLA: Mehr Umsatz, doch der Gewinn stürzt ab - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdktWT0JvbjVWTXUyek5hLUJxU0xCalFrb0FCRkh0MWlMZUdiNTR4MHhaWWJxYm8wYmFMMGM0RWRpckM5NTRhVnREaVAzSHpwc0x2and1bnlrcEpmOXFfdXgxZEk4NGpEeEpqQUtRSXNmY0JNQ1pYV3dZR3VKVmhxMENTY2hBQQ?oc=5",
+     "date": "2026-11-12T18:08:00.000Z",
+     "text": "HHLA: Mehr Umsatz, doch der Gewinn stürzt ab MOPO",
+     "via": "MOPO"
     },
     {
      "title": "Hamburg, News, Regional: Hamburger Hafen verzeichnet leichtes Umschlagminus - tixio - Nachrichten",
@@ -2126,18 +2132,18 @@
      "via": "Schiffe und Kreuzfahrten"
     },
     {
-     "title": "Tanker kracht in Passagierschiff nahe Hafen von New Orleans - blue News",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYi1Bekdtdm5hOTdBOGtNT2tRNk15R3BtUThDQ0t0RmR3SmdPbjROd1ljaDIwNUs1N29CdTN3QUdNeUZONG12aTE1SlhaY0pNUUx6Zk1DcFkyQlNCbVB1U3Z3SjhTQmgyWlEyazY3VGhfQzAtUXowZHBzb1hlSUs4R19LY1lLY04zV1QtYktuUWRoMTRKMFlNYmJ1NG5rRmJza213?oc=5",
-     "date": "2026-11-13T20:58:00.000Z",
-     "text": "Tanker kracht in Passagierschiff nahe Hafen von New Orleans blue News",
-     "via": "blue News"
-    },
-    {
      "title": "Nach Schüssen in HafenCity: So hat Todesschütze Uwe E. mich übers Ohr gehauen - Hamburger Abendblatt",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZzgxYTZUY0o1VnAtQjlkcDRNdEVMUFRRZ19lRmt2VFRSbkhCb1pGRTZNNW9pVkpRWjkwTmNadEZ0dFJaeE8tekYwZFZpQ2FTbTZteE5aWmYyd0JMMnhxVkR5cXQtaEF3TEJFbEhiN1dOSUd6eTRRTGtCRFUyMEpBMVhqZlEwbUtxdDBFUlp3cXl3MC1fdUstcU9XZF9RVmlUNVJiN1B0V3NCUmRQV3NpOUdHQVhsRFdYRlY2R29fbzFEV1JITlpBY3BYYWdmS2ticFlDanB5amMzQQ?oc=5",
      "date": "2026-11-13T04:51:00.000Z",
      "text": "Nach Schüssen in HafenCity: So hat Todesschütze Uwe E. mich übers Ohr gehauen Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Tanker kracht in Passagierschiff nahe Hafen von New Orleans - blue News",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYi1Bekdtdm5hOTdBOGtNT2tRNk15R3BtUThDQ0t0RmR3SmdPbjROd1ljaDIwNUs1N29CdTN3QUdNeUZONG12aTE1SlhaY0pNUUx6Zk1DcFkyQlNCbVB1U3Z3SjhTQmgyWlEyazY3VGhfQzAtUXowZHBzb1hlSUs4R19LY1lLY04zV1QtYktuUWRoMTRKMFlNYmJ1NG5rRmJza213?oc=5",
+     "date": "2026-11-13T20:58:00.000Z",
+     "text": "Tanker kracht in Passagierschiff nahe Hafen von New Orleans blue News",
+     "via": "blue News"
     },
     {
      "title": "Hamburger Hafen und Logistik: Automation, portfolio shifts hit 9M results - Wallstreet Online",

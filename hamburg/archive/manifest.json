@@ -1,6 +1,30 @@
 {
   "briefs": [
     {
+      "date": "2026-11-16",
+      "file": "2026-11-16.html",
+      "headline": "EU gibt 286 Millionen Euro für Hamburgs Kaimauern",
+      "count": 16,
+      "sources": 6,
+      "cats": {
+        "Wirtschaft & Hafen": 4,
+        "Kultur & Freizeit": 2,
+        "Bauen & Wohnen": 3,
+        "Verkehr": 1,
+        "Stadt & Politik": 3,
+        "Sport": 2,
+        "Polizei & Sicherheit": 1
+      },
+      "ents": {
+        "Hafen": 2,
+        "Senat": 3,
+        "Elbphilharmonie": 1,
+        "Elbtower": 1,
+        "HSV": 1,
+        "Polizei": 1
+      }
+    },
+    {
       "date": "2026-11-15",
       "file": "2026-11-15.html",
       "headline": "Tausende wandern durch den U5-Tunnel",
