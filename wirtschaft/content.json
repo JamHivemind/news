@@ -1,92 +1,100 @@
 {
-  "date": "2026-11-15",
-  "intro": "Wirtschaftlich dominieren drei Themen: der weltweite Microsoft-Ausfall, Sparpläne bei Rente und Gesundheit sowie der Verkauf der Meyer Werft. Dazu kommt der Wirbel um Nvidia, den wichtigsten Chip-Lieferanten der KI-Branche.",
+  "date": "2026-11-16",
+  "intro": "Die Wirtschaft wächst, doch das Handwerk schlägt Alarm und die Industrie baut trotz Umsatzplus Stellen ab. Dazu kommen die Folgen des Microsoft-Ausfalls und der Streit um die Rentenreform.",
   "top": [
     {
-      "title": "Microsoft-Störung ist behoben",
-      "text": "Eine stundenlange Störung hatte zentrale Cloud-Dienste von Microsoft weltweit lahmgelegt, Firmen und Privatnutzer waren betroffen. Laut Microsoft laufen jetzt wieder alle Systeme, Hinweise auf einen Angriff gebe es nicht. Der Ausfall zeigt, wie abhängig viele Betriebe von wenigen Cloud-Anbietern sind.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Rente: CSU will höhere Abschläge für Frührentner",
-      "text": "Weil der Bundeshaushalt knapp ist, will die Regierung der Rentenversicherung weniger Milliarden überweisen. Um die Lücke zu schließen, sollen laut Spiegel die Abschläge für Frührentner steigen. Abschläge sind Kürzungen der Rente, wenn man früher in Rente geht. Wer vorzeitig aufhören will, muss also mit weniger rechnen.",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen-a-e30254e8-833b-4ad1-ab30-a6114735d64b#ref=rss",
-      "source": "Spiegel Wirtschaft",
+      "title": "Handwerk warnt vor „stillem Sterben der Betriebe“",
+      "text": "Handwerkspräsident Dittrich fürchtet, dass die Branche bis zu 80.000 Arbeitsplätze pro Jahr verlieren könnte. Gründe sind weniger Aufträge und steigende Kosten. Viele Inhaber hätten die Zuversicht verloren und machten zu. Das trifft Kunden, die Handwerker brauchen, und Beschäftigte in kleinen Betrieben.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html",
+      "source": "tagesschau",
       "category": "Arbeit & Soziales"
     },
     {
-      "title": "MSC steht vor dem Kauf der Meyer Werft",
-      "text": "Die letzte bedeutende deutsche Kreuzfahrtschiff-Werft geht wohl an die weltgrößte Reederei MSC. Der Bund will MSC ein Kaufrecht einräumen, der Vertrag soll kommende Woche unterzeichnet werden. Für die Beschäftigten und den Standort ist offen, wie es weitergeht.",
-      "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Unternehmen"
+      "title": "Industrie macht mehr Umsatz, aber 140.000 Jobs fallen weg",
+      "text": "Laut einer Studie meldet die Industrie das dritte Quartalsplus in Folge, auch dank des KI-Booms. Gleichzeitig verschwinden in allen Branchen immer mehr Stellen. Mehr Umsatz bedeutet also nicht automatisch mehr Beschäftigung.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/studie-industrie-steigert-umsatz-doch-140.000-jobs-fallen-weg/100270074.html",
+      "source": "Handelsblatt",
+      "category": "Konjunktur"
+    },
+    {
+      "title": "Microsoft-Ausfall: Lage entspannt sich, Abhängigkeit bleibt Thema",
+      "text": "Nach der stundenlangen weltweiten Störung bei Microsoft-Diensten spricht der Konzern von deutlichen Verbesserungen, vor allem in Europa und Nordamerika. Ein Sicherheitsexperte warnt, viele Firmen seien digital abhängig. Wer auf Cloud-Dienste setzt, sollte für den Ernstfall Alternativen haben.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
+      "source": "tagesschau",
+      "category": "Unternehmen",
+      "tipp": "Wichtige Dokumente und Kontakte auch offline oder bei einem zweiten Anbieter sichern."
     }
   ],
   "entries": [
     {
-      "title": "Nvidia nach dem Rücktritt von Jensen Huang",
-      "summary": "Mit Huang verliert Nvidia seinen visionären Vordenker. Die tagesschau fragt, was das für das Unternehmen und die Konkurrenz bedeutet.",
-      "url": "https://www.tagesschau.de/wirtschaft/nvidia-ruecktritt-folgen-ki-branche-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Unternehmen"
+      "title": "Konjunkturausblick: Gekaufter Aufschwung",
+      "summary": "Die Wirtschaft wächst, aber das Vertrauen der Unternehmer ist schwach. Das Handelsblatt Research Institute bleibt vorsichtig.",
+      "url": "https://www.handelsblatt.com/politik/konjunktur/hri-konjunkturausblick-gekaufter-aufschwung-es-mangelt-am-vertrauen-von-unternehmern/100268399.html",
+      "source": "Handelsblatt",
+      "category": "Konjunktur"
     },
     {
-      "title": "US-Senat lädt Huang und Handelsminister Lutnick vor",
-      "summary": "Die Aufarbeitung der Spionageaffäre beginnt: Es geht um mögliche Chip-Lieferungen nach China.",
-      "url": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "Kassenärzte: Selbstzahler-Termine als Ausweg",
-      "summary": "Der Chef der Kassenärzte warnt, viele Praxen würden wegen des Sparprogramms weniger Termine anbieten. Patienten müssten dann selbst zahlen, um schneller dranzukommen.",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/kassenaerzte-schlagen-selbstzahler-termine-fuer-kassenpatienten-vor-a-4282bfbb-79a4-447b-b77b-812ed98bfc04#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Straße von Hormus: Iran meldet brennende Öltanker",
-      "summary": "Iran berichtet von Feuer auf drei Tankern, angeblich durch Seeminen. Öl fließt wieder, die Passage gilt aber als teuer und riskant.",
-      "url": "https://www.spiegel.de/wirtschaft/service/iran-meldet-zwei-brennende-oel-tanker-in-der-strasse-von-hormus-a-872ff571-83d5-4520-9cd2-bdbdf570b95e#ref=rss",
+      "title": "Solarförderung für kleine Anlagen soll wohl bleiben",
+      "summary": "Wirtschaftsministerin Reiche wollte private Solaranlagen nicht mehr fördern. Bei den Verhandlern von SPD und CDU zeichnet sich nun eine Kehrtwende ab.",
+      "url": "https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss",
       "source": "Spiegel Wirtschaft",
       "category": "Energie"
     },
     {
-      "title": "KI als Waffe gegen Banken und ihre Kunden",
-      "summary": "Cyberkriminelle automatisieren Angriffe mit KI, Banken wehren sich ebenfalls mit KI. Experten sprechen von einem Wettlauf der Systeme.",
-      "url": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "IG Metall in der Zwickmühle",
-      "summary": "Die Krise der Industrie überschattet die Tarifrunde, während es einzelnen Firmen so gut geht wie nie. Das erschwert der Gewerkschaft die Lage.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/ig-metall-in-der-zerreissprobe-die-gewerkschaft-steht-vor-einem-dilemma-accg-201666487.html",
+      "title": "CSU fordert höhere Abschläge für Frührentner",
+      "summary": "In der Rentenreform erhöht die CSU den Druck auf die SPD. Offen ist, ob das Kabinett noch dieses Jahr entscheidet.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/csu-fordert-hoehere-abschlaege-fuer-fruehrentner-streit-mit-spd-eskaliert-accg-201684748.html",
       "source": "FAZ Wirtschaft",
       "category": "Arbeit & Soziales"
     },
     {
-      "title": "Solarförderung für kleine Anlagen soll bleiben",
-      "summary": "Die Einspeisevergütung für Anlagen bis 25 Kilowatt soll erhalten bleiben. Beim Gesamtpaket zur Energiepolitik sind Union und SPD noch uneins.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/energiepolitik-solarfoerderung-fuer-kleine-anlagen-soll-bleiben/100269915.html",
+      "title": "Merz fordert Sozialreformen „jetzt“, Union drängt auf niedrigere Stromsteuer",
+      "summary": "Der Kanzler räumte ein, sein Ziel „Deutschland 2040“ bisher nicht ausreichend erklärt zu haben. Was die Regierung als Nächstes angeht, ließ er offen.",
+      "url": "https://nius.de/politik/merz-fordert-sozialreformen-jetzt-parteikollegen-draengen-auf-niedrigere-stromsteuer",
+      "source": "Handelsblatt",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "Streit um Bezahlschranke für Arzttermine",
+      "summary": "Mit privat bezahlten Sprechstunden sollen Kassenpatienten schneller Facharzttermine bekommen. Grüne und Patientenschützer halten das für ungerecht.",
+      "url": "https://www.spiegel.de/wirtschaft/gruene-und-patientenschuetzer-warnen-vor-bezahlschranke-fuer-arzttermine-a-c1c3b771-a1ec-41f4-9818-034799ca96e5#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "Italien verhängt 805 Millionen Euro Strafe gegen Meta",
+      "summary": "Facebook las Fotogalerien von 20 Millionen Android-Nutzern ohne wirksame Einwilligung aus. Die Funktion muss binnen 60 Tagen abgeschaltet werden.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen-a-3347008b-5b9a-4955-82be-f7aa6f7e20ef#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "40 Amazon-Satelliten bei Raketenabsturz zerstört",
+      "summary": "Die Vulcan-Rakete versagte kurz nach dem Start in Florida. Amazons Internetdienst Leo, ein Konkurrent von Starlink, verzögert sich erneut.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/40-amazon-satelliten-bei-absturz-von-vulcan-rakete-zerstoert-accg-201686018.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Bund verzichtet auf KfW-Dividende",
+      "summary": "Die staatliche Förderbank soll den Haushalt 2027 und 2028 auf andere Weise um rund eine Milliarde Euro entlasten. Ursprünglich waren weitreichendere Pläne vorgesehen.",
+      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/foerderbank-bund-verzichtet-auf-kfw-dividende-und-neues-kfw-gesetz/100270031.html",
+      "source": "Handelsblatt",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "Deutsche Häfen bereiten sich auf Atomantrieb vor",
+      "summary": "Bald werden nuklear angetriebene Handelsschiffe erwartet. Die Debatte darüber verläuft kontrovers.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/logistik-deutsche-haefen-bereiten-sich-auf-atomantrieb-vor/100269158.html",
       "source": "Handelsblatt",
       "category": "Energie"
     },
     {
-      "title": "Mercedes-Benz: Werke stehen auf dem Spiel",
-      "summary": "Die Allgemeine Zeitung fragt, warum bei Mercedes-Benz Werke auf dem Spiel stehen. Details sind nur über den Artikel einsehbar.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVHU0angtWDdaNzdNVjlpQW5RSnpHdjh6bXhlNXRZcVEtdjN1SnZOTURCZ19zS3lVcmpKakJiUHRKdXpzcXFySlg1SVV1TTZldGFqV0FmcDhGZzRQM1ZYdXNPTlEzSFBpdWZSN2U0alJUUHU4VHJsU01YLUJfRTVJMjE4bnBCNlpPb3U1bGNwa3E4OWNOQ2xhSmN6WHJQNlF2azExX19lZ3drVzRlRTlxNzh5eFBKUUdZanVFUnczSlNnenFX?oc=5",
-      "source": "Allgemeine Zeitung",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Ifo: Materialengpässe in der Elektroindustrie nehmen zu",
-      "summary": "Laut Ifo-Institut verschärfen sich die Engpässe bei Material in der Elektroindustrie.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWgtVFhEX2pvVkV2SGl6TDV4MXBLU1NjSXYtZmZfcWRaMTh4MHdqS1JwdzdPMlBfX3FDV01WVXdZTjdfM0N1OHc4NFdJOTBHeEt4VEh6eGVzU3hQMWZFUG9Ra0NUbnBZaG1UV3M4SjV3NlJ4SEoyZWd4NXJLNmdtUWpNTHZER3Nka1g1YkM2cm56UUhsbVNFb1BFbXpnZw?oc=5",
-      "source": "tixio - Nachrichten",
-      "category": "Konjunktur"
+      "title": "Stahlindustrie: Welche Zukunft hat sie in Deutschland?",
+      "summary": "Vor dem Stahlgipfel wird über die Perspektiven der Branche diskutiert.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTWRjQ0dsMWxRQmMzYW03b3FyaHM2NTJuRlExSUQ3OGZhdGJxUF81WXV0Yl9sNEVBdE9td1NIcUwyRmdpOGl2eVc2ZlFIR2xqbFVNaVJkY3lHUzB1OFhxZFE3eGFEM1RWVjU1MllUQ3hVRmlMbEx1ZUMyQjJJQ1NPeTJnVXRlbFFaREk2V2lsR082S0V0XzhKNzdoSFplRXdja2lrZG5qdFV6aEZ5RFdXYWktZDg3VWRqQS1ubFJnOWNFNWJldHFUQmNOSWpobjA?oc=5",
+      "source": "PZ-news.de",
+      "category": "Energie"
     }
   ]
 }
