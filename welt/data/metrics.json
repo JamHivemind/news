@@ -259,7 +259,7 @@
    ],
    [
     "2026-11-16",
-    95.23
+    94.85
    ]
   ],
   "GC=F": [
@@ -521,7 +521,7 @@
    ],
    [
     "2026-11-16",
-    3887.2
+    3875.9
    ]
   ],
   "^GDAXI": [
@@ -947,16 +947,7 @@
    ]
   ]
  },
- "quakes": [
-  {
-   "mag": 6.4,
-   "place": "30 km WSW of Lata, Solomon Islands",
-   "time": "2026-11-09T03:34:59.466Z",
-   "lon": 165.5616,
-   "lat": -10.8669,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16"
-  }
- ],
+ "quakes": [],
  "gdacs": [
   {
    "type": "TC",
@@ -971,5 +962,5 @@
    "url": "https://www.gdacs.org/report.aspx?eventid=1001346&episodeid=10&eventtype=TC"
   }
  ],
- "updated": "2026-11-16T02:37:23.093Z"
+ "updated": "2026-11-16T04:03:06.361Z"
 }
