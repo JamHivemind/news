@@ -1095,41 +1095,41 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 7432,
-   "downloads": 24470,
+   "likes": 7548,
+   "downloads": 27037,
    "task": "text-generation"
   },
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 1138,
-   "downloads": 517948,
+   "likes": 1191,
+   "downloads": 571067,
    "task": "text-to-image"
   },
   {
    "id": "Qwen/Qwen3.8-27B",
-   "likes": 20047,
+   "likes": 20131,
    "downloads": 6547772,
    "task": "image-text-to-text"
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 11967,
+   "likes": 12069,
    "downloads": 2754355,
    "task": "image-to-video"
   },
   {
-   "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-   "likes": 3136,
-   "downloads": 1708637,
-   "task": "image-text-to-text"
+   "id": "Comfy-Org/MiniMax-H3-Image",
+   "likes": 413,
+   "downloads": 1973388,
+   "task": "text-to-image"
   },
   {
-   "id": "Comfy-Org/MiniMax-H3-Image",
-   "likes": 393,
-   "downloads": 1615613,
-   "task": "text-to-image"
+   "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+   "likes": 3170,
+   "downloads": 1708637,
+   "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-15T09:56:50.410Z",
+ "updated": "2026-11-16T02:37:21.413Z",
  "updatedDay": "2026-11-06"
 }

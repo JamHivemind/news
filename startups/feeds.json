@@ -1,6 +1,6 @@
 {
- "fetched": "2026-11-15T09:56:28.748Z",
- "hours": 48,
+ "fetched": "2026-11-16T02:36:55.113Z",
+ "hours": 80,
  "sources": [
   {
    "name": "deutsche-startups.de",
@@ -14,10 +14,24 @@
    "ok": true,
    "items": [
     {
+     "title": "JawBuddy – und der Kampf gegen das Zähneknirschen - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1VxbWYwdEFVUS01b1l6bjR3UVh5UGlEQ3AwX2xtWHd0OEFrbThITlRyc1pDaXZUSVA1NGJOZF81Vm96ZVVRM1VFTi1kbHAtMkFib3BfWV82VFRZVElvZ0dlWXZpU3IxTUJUM05HRE81NzYyY3JZNUhOUUJReTFYTF8wTWRQWWdGdmItd0dGWFY3VzlwbXBrZg?oc=5",
+     "date": "2026-11-13T10:59:10.000Z",
+     "text": "JawBuddy – und der Kampf gegen das Zähneknirschen deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    },
+    {
      "title": "Die besten Startup Jobs in der digitalen Wirtschaft - deutsche-startups.de",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5QlhKQ0VtWVIwSGw0SVNhUmEyaFVKR3VIeTVQb3pId1p6OWlGS2RjNEJ4XzJ0WHlhTVlyOWw5dDl2WkVyMW85N3J2QkNOalp0REdJU29vX1BUUER4blpvZUxmemJUSUdDc2ZFS3dxSU4?oc=5",
-     "date": "2026-11-13T16:41:28.000Z",
+     "date": "2026-11-15T00:13:36.000Z",
      "text": "Die besten Startup Jobs in der digitalen Wirtschaft deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    },
+    {
+     "title": "+++ Agile Robots +++ sennder +++ SE3 Labs +++ Ratepay +++ Redalpine +++ Xentral +++ - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3BGdWNFeUE4WGJFXzE5cll0Z3JTU0RXUTI3OVhfZFZpZFU5dEQ4VFhPQjR4eU5BUzNSZjJpVzZHUnU0YXJRMlZWV3Brd0NzM1RzUmdnZVVnOUYta0ZFRkRaa2Rxd0l6NzhqdDBmb1lld3VlNHhSaC11VElHWmliZUp5QW1oMkkzRjkzcE1HeXpCMC02b0FoSlJlNGZVMnJrRlE?oc=5",
+     "date": "2026-11-14T09:04:41.000Z",
+     "text": "+++ Agile Robots +++ sennder +++ SE3 Labs +++ Ratepay +++ Redalpine +++ Xentral +++ deutsche-startups.de",
      "via": "deutsche-startups.de"
     }
    ]
@@ -26,6 +40,12 @@
    "name": "Gründerszene",
    "ok": true,
    "items": [
+    {
+     "title": "Jensen Huang beweist es: Amerikas Religion ist der Gründerkult",
+     "url": "https://www.businessinsider.de/gruenderszene/jensen-huang-beweist-es-amerikas-religion-ist-der-gruenderkult/",
+     "date": "2026-11-15T11:32:12.000Z",
+     "text": "Am Mittwochnachmittag stand ich im sechsten Stock von Saks Fifth Avenue in einer schwarzen Tom-Ford-Jacke aus genarbtem Leder im Wert von 10.000 Dollar – der „Uniform“ von Jensen Huang, Mitbegründer und Geschäftsführer von Nvidia –, während Joseph Rosenfeld, ein Imageberater für Tech-Gründer und Finanziers, mich musterte. „Die Ausstrahlung des Outfits“, sagte er, „dieser Typ hat [&hellip;]"
+    },
     {
      "title": "Liefer-Apps brauchen ihre Supernutzer, wie neue Daten der US-Bundesbehörden zeigen",
      "url": "https://www.businessinsider.de/gruenderszene/liefer-apps-brauchen-ihre-supernutzer-wie-neue-daten-der-us-bundesbehoerden-zeigen/",
@@ -63,9 +83,21 @@
    "ok": true,
    "items": [
     {
+     "title": "Starling founder Anne Boden plots new AI-powered bank",
+     "url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
+     "date": "2026-11-15T16:33:09.000Z",
+     "text": ""
+    },
+    {
      "title": "Inside Samsung’s year of European deal making",
      "url": "https://sifted.eu/articles/samsung-european-tech/",
      "date": "2026-11-13T11:00:39.000Z",
+     "text": ""
+    },
+    {
+     "title": "Why European tech and Asia will be ‘a lot closer’ in next five years, according to bankers",
+     "url": "https://sifted.eu/articles/why-european-tech-asia-get-closer-next-five-years-gp-bullhound/",
+     "date": "2026-11-13T05:00:24.000Z",
      "text": ""
     }
    ]
@@ -75,6 +107,18 @@
    "focus": "Nur Europa-Bezug oder sehr große Runden",
    "ok": true,
    "items": [
+    {
+     "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+     "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+     "date": "2026-11-15T23:30:00.000Z",
+     "text": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+    },
+    {
+     "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+     "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+     "date": "2026-11-15T18:29:14.000Z",
+     "text": "A new Kickstarter campaign aims to usher in the “return of the human internet.”"
+    },
     {
      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
@@ -86,6 +130,12 @@
      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
      "date": "2026-11-13T19:37:57.000Z",
      "text": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+    },
+    {
+     "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+     "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+     "date": "2026-11-12T19:11:00.000Z",
+     "text": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
     }
    ]
   },
