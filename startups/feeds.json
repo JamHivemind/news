@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T05:20:35.942Z",
+ "fetched": "2026-11-17T05:22:20.310Z",
  "hours": 48,
  "sources": [
   {
@@ -10,44 +10,27 @@
   },
   {
    "name": "deutsche-startups.de (Google News)",
-   "focus": "Ersatzweg, falls der direkte Feed ausfällt (sperrt GitHub-Server). Doppelte nur einmal nehmen.",
-   "ok": true,
-   "items": [
-    {
-     "title": "EFS-AG Vertriebsdirektion Knapp Bürojob/ Unterstützung in der Datenaufnahme - deutsche-startups.de",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT3N4OE0wRnBKbzJzM2pkY0tkNmJiWHpuMXpUSmNHZGdEVEdLMEVycFJLZEJ0TG50ZXZCXzVJN3BLV19hSjZqSTktT0lPMVZJcndKZGRmakNweU9YUzVkSzZ1VEt2QzNzZ0o3RHBuZkxLc1ktWWFkUHVFZlA2TG9ZMThidXcyMW5ZVmh4WllveVlNcG9FQjdDYU1MVjJGcWFZWW5BazVBaTc2Q2FmdTd6NnJoZlRvWkRRbTdWcGlvNEdOb25PLWhuWUg4YzRORV90aWZBdEFtN1JvVkI3VlFn?oc=5",
-     "date": "2026-11-16T09:47:12.000Z",
-     "text": "EFS-AG Vertriebsdirektion Knapp Bürojob/ Unterstützung in der Datenaufnahme deutsche-startups.de",
-     "via": "deutsche-startups.de"
-    },
-    {
-     "title": "+++ Agile Robots +++ Unicorn +++ Apcura +++ Roll-up +++ Spreefreunde +++ Quint Computing +++ - deutsche-startups.de",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVB4eFB2YmQyNDI5c0RGY2FTNE5tRGJEVWJSbl9TdXhUSldqcXhYU0IzZ0FQY0dhbHhtZXlSTDhDTmxMMExWSHRuM29uRHRBS0gyM1JCQU9COWV3Yi0wcHZuX3FHLVU5ZGZEbHlsWl9FSkxlRmx5emk5eTh0SGhUa0tSaHdmejg5OW1lX2x6dU4wS1g4Q3JLN0Zyem5ENlphRVFkS1V3QmFoaFRReFE?oc=5",
-     "date": "2026-11-16T06:56:22.000Z",
-     "text": "+++ Agile Robots +++ Unicorn +++ Apcura +++ Roll-up +++ Spreefreunde +++ Quint Computing +++ deutsche-startups.de",
-     "via": "deutsche-startups.de"
-    },
-    {
-     "title": "5 neue Startups: Biwak, tilde, DearBelly, better bites, Dear Noah - deutsche-startups.de",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3RXX0hJaVdKZ1NxdmZsUVNFSW9nODJJYjZKQks4WWN2SnR0ajF6VklraWxHbFNnQkZzRDRVVjgweWFCc200bndHdF94MXNwNDdIdTZoREFZUFZiTGdNRl83Mk5VSHNFRHpYX0s3MkpMaXV0eDZIQl9sTTJ5NWt1cXc1ODVycElHemMwRDBsVWVMSFpycG45RjhkT2hjVDhoSlItRkpJSjE?oc=5",
-     "date": "2026-11-16T13:11:23.000Z",
-     "text": "5 neue Startups: Biwak, tilde, DearBelly, better bites, Dear Noah deutsche-startups.de",
-     "via": "deutsche-startups.de"
-    },
-    {
-     "title": "Wie Salufast mit Fastenkuren ein Millionengeschäft aufbaut - deutsche-startups.de",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDZtYkUyMU95aXBJTGd4WS1jUVBkcEk2VWZ4cjZEckFKaXgweW15aFN1UXJLTUJhYlIxeVROS1VQZ0prZE8tZXQzMlJHZ2JnSV9qTGRXeXVrOXFsMlJSdHRvUjAxSTl1dTN5dXVkdmhoblgxQ0VpOTdRTE9mdktEa3ppRkZaSHlYVDVKLUpvaVpRYUdzYXRmMHZYY2pZVHVvRDBsNmNwaVBYRkdEY0pB?oc=5",
-     "date": "2026-11-16T07:59:31.000Z",
-     "text": "Wie Salufast mit Fastenkuren ein Millionengeschäft aufbaut deutsche-startups.de",
-     "via": "deutsche-startups.de"
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 429",
+   "items": []
   },
   {
    "name": "Gründerszene",
-   "ok": false,
-   "error": "HTTP 403",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "„Ein großer Fehler“: Bundesregierung will Millionen bei der Startup-Förderung streichen",
+     "url": "https://www.businessinsider.de/gruenderszene/regierung-merz-streicht-millionen-startup-foerderung-gruene-sprechen-von-grossem-fehler/",
+     "date": "2026-11-16T09:08:30.000Z",
+     "text": "Die Bundesregierung will die Förderung von Startup-Investitionen durch Business Angels im kommenden Jahr deutlich zurückfahren. Im Haushaltsentwurf für 2027 sind für das Invest-Programm nur noch 30 Millionen Euro vorgesehen. Im laufenden Jahr waren es noch 44 Millionen Euro. Das entspricht einer Kürzung um knapp 32 Prozent."
+    },
+    {
+     "title": "Jensen Huang beweist es: Amerikas Religion ist der Gründerkult",
+     "url": "https://www.businessinsider.de/gruenderszene/jensen-huang-beweist-es-amerikas-religion-ist-der-gruenderkult/",
+     "date": "2026-11-15T11:32:12.000Z",
+     "text": "Am Mittwochnachmittag stand ich im sechsten Stock von Saks Fifth Avenue in einer schwarzen Tom-Ford-Jacke aus genarbtem Leder im Wert von 10.000 Dollar – der „Uniform“ von Jensen Huang, Mitbegründer und Geschäftsführer von Nvidia –, während Joseph Rosenfeld, ein Imageberater für Tech-Gründer und Finanziers, mich musterte. „Die Ausstrahlung des Outfits“, sagte er, „dieser Typ hat den nötigen Elan. Er ist der Typ, der sagt: ‚Wenn ich es sehe, schnappe ich es mir.‘“"
+    }
+   ]
   },
   {
    "name": "EU-Startups",
@@ -166,9 +149,17 @@
   },
   {
    "name": "Google News: Startups Hamburg",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Nur echte Startup-Meldungen aus Hamburg und Norddeutschland (Gründung, Finanzierung, Produkt). Restaurants, Läden und Nachrufe ignorieren. Reicht 7 Tage zurück.",
+   "ok": true,
+   "items": [
+    {
+     "title": "Gute Nachrichten fürs Reeperbahn Festival: Finanzierung für 2027 ist gesichert - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFg5a0dpVGYzeWN1SHdxVm1LWm02dkVfZnlsODFXS0xtZnN0TUN1b2l3YmtEZ0xCOUVySVNwaUNNY21xa1dNbmdYYVBmbkYtOVJybnU5SzVQNVhBc0RldXZrYzlaRDhDczlGS2N1Tks1a09mRXY5dTlMTnM5WFV0MGItQVFpYld5LU5PNWtiMjk4UkRtTGZSaV9xT1BMOTRWSnJPREJRZGprX0NJYWl1dFdn?oc=5",
+     "date": "2026-11-13T08:00:00.000Z",
+     "text": "Gute Nachrichten fürs Reeperbahn Festival: Finanzierung für 2027 ist gesichert NDR.de",
+     "via": "NDR.de"
+    }
+   ]
   },
   {
    "name": "Google News: Finanzierungsrunden DE",

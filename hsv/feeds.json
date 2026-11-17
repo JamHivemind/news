@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T05:20:17.933Z",
+ "fetched": "2026-11-17T05:22:00.245Z",
  "hours": 48,
  "sources": [
   {
@@ -58,239 +58,232 @@
   },
   {
    "name": "kicker (Google News)",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
-  },
-  {
-   "name": "Hamburger Abendblatt (Google News)",
-   "focus": "Nur HSV-Meldungen, keine Liveticker.",
+   "focus": "Nur HSV-Meldungen. Doppelte mit dem direkten kicker-Feed nur einmal.",
    "ok": true,
    "items": [
     {
-     "title": "Neue Details zu HSV-Chaoten von Bremen: Wendet die Polizei spezielle Taktik an? - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVFRKcGJFUHh5RUYwY3lUYWh0VEwwaFRISkdQXzdZeGdTWmhyYTEwUllHdm5qbTdiRTliZnNLZHgzeXZRSWtUcl9KZnRZMVZPQzZlNTNpUF96YThyUVNmaE9uV1FxdVBSUlNJN0tEalFDemRnNXNfWkhma2N3cGlqQTRIMTVreEZwSE9tVEU3azg3MEJBbGw0V1BEdmhjVXJ2UDFBbDAxZThDZFJzeTRacWpSUU1BQzlqd3VNYW12aGlRcUxiZS1xS1ZuYw?oc=5",
-     "date": "2026-11-17T04:07:00.000Z",
-     "text": "Neue Details zu HSV-Chaoten von Bremen: Wendet die Polizei spezielle Taktik an? Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Gut mit dem Ball, aber einmal zu passiv: Vuskovic feiert Comeback für den HSV - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeW11Wmd0OVhFZkNuaE5VM3dXWjhfRmRKYTNBaEJUckQta2ZjeVcxY3FfY1dBVVNIRkVKWjJSTWh1SGVUY1pDUnV1SWc0Q0NSdEd1RTVESm9NaEdMblhFNE52WlpvMFFsN0RmVUZlN3ZjT2ZLdGptNEFNRHVSM0VUU2M5OVNST19Sd2pJdENyeDVOWGZ3WFE?oc=5",
+     "date": "2026-11-15T13:21:58.000Z",
+     "text": "Gut mit dem Ball, aber einmal zu passiv: Vuskovic feiert Comeback für den HSV Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Nächste Muskelverletzung! HSV-Schlüsselspieler fällt im Nordderby aus - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzhBeWxXWjdvSHJoX2puR2YwQ2ZqWjI2V3pHa0F3aVNvVkNfeXJLZEhfR3JtM1RfYWhONE03d2xlOThoRXAyNzVTS2VNSlJnN1FGLXNXOHJ1Z0hWTnlmTlhzaG9GX0lKdUhWeEc3c0h3MWh3djdfdkduLVFXZVpVLWRPc1YxYnpnMFJ1ZkxDUzFSSEhBaW1IakVIeUszdGdSTUU5UFFwSUd6U3Q1TjVPSlcyM0pBeEo4SVJYcEZZTTFtUQ?oc=5",
-     "date": "2026-11-16T16:04:00.000Z",
-     "text": "Nächste Muskelverletzung! HSV-Schlüsselspieler fällt im Nordderby aus Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Spielereignisse | Hannover 96 - Hamburger SV II 1:2 | 11. Spieltag | Frauen-Regionalliga Nord 2026/27 - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTRZcEJPWlJYaGJUUlNpazlTVnRvWE9UNlV0Z09TYkNvYXFPSllMMDZzY0d6c3h1QVVhYmxoZ3VLSVNzVzQwdlAwR19seWs2WW4yQlhwZThiWmR1QkJQMWtwNExNOFYzbjVKenlrenZsSk9VRk5EMkVDeHFkMHRzdTdaa3AxMnVacm1wSk9ZLXFGVGpZ?oc=5",
+     "date": "2026-11-15T16:57:26.000Z",
+     "text": "Spielereignisse | Hannover 96 - Hamburger SV II 1:2 | 11. Spieltag | Frauen-Regionalliga Nord 2026/27 Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "HSV-Talente stürmten beim Vuskovic-Comeback: Wer kehrt gegen Bremen zurück? - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbUJtWXR3eHk2d3JLbGx3TEtKWDhlWHkzZ21COXQxN2NXRmVTS3N5VU1jTGZRQ3RsZkhqdkxINVRmZ01reFF5TjJtUUNFUjNSeXlkQ3pSbWwtelUxOUZtQk1VT0N6MUFpVFFLX09ISnlja0dQVVRZdDhTVGtuajBFMS1tQW83RHdONHZmLTh6OWQxX0NiZDRhM0VzSUxwUl9VQldpTXVfRDloUGNPRTgtX3FJdENLSXd2VEZ5RVZFRVVnUHZuZDFxQnhzT25xdw?oc=5",
-     "date": "2026-11-16T17:30:00.000Z",
-     "text": "HSV-Talente stürmten beim Vuskovic-Comeback: Wer kehrt gegen Bremen zurück? Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Gut mit dem Ball, aber einmal zu passiv: Vuskovic feiert Comeback für den HSV - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTEFZOEdWZmVvR1pDdjM0RlJqMjNoZU9MNWdTNklQaG9vQmNBZmwtNGVnTVh3dTIydGtEWkthSFlVTlVnZkxNUEhncElVWHR5WGhmd1gtbllZck9adUU2WDUxWWJqTndhYkFldnlKdE93OWxQNmVLazhoQkNGd0I4cFFEcHczU2lrV2tLODZ3UQ?oc=5",
+     "date": "2026-11-15T14:02:07.000Z",
+     "text": "Gut mit dem Ball, aber einmal zu passiv: Vuskovic feiert Comeback für den HSV Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Jatta-Überraschung beim HSV – und eine ganz besondere Derby-Geschichte - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWdZU1YtMUhTRXVrM3FCcnRWeDFfbFlmSWw4QTg0SnNnVlozcmtDbTFCMEJIMmNxZjF5YUVfcVA2aFUtb3dBNDdIeVFIeFdSRTNSNU05LXM3Y1dZQnZaeE1ZS3dFS2wwanFzRE41SlM0VGJoT19MRktsV1RTd1VvNVdTdVlMUUtCUEs3S0l4eWpkT29HSi1NWDBnd0RvNS1RbzBvMmRBSlJZcFJvSWRTaWdmUkxUaTRCODMxQTVxTGlfX0hrR2c?oc=5",
-     "date": "2026-11-16T12:13:40.000Z",
-     "text": "Jatta-Überraschung beim HSV – und eine ganz besondere Derby-Geschichte Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Hamburger SV gegen Hajduk Split im Datenvergleich | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27 - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWFhhSWpOOHg4M2xBcTBrbjdJMld6XzE2Y1RWc24yREstWk9rY2ZaMVJvejA0aDJoUENyS1k2N2QwOXpzNVh4X0RQczBHVmhCX181SDFXRGhtaXFOczRsZk44RzMwbVB1eWdOUTh4NEQ1VHVMaWM0dWpRWmpBS05OYjhoYzJfT05Ua1drYi1weW1Nb0x3SkdydkNpZi13WXZFOHZhYlVNMko?oc=5",
+     "date": "2026-11-15T11:23:52.000Z",
+     "text": "Hamburger SV gegen Hajduk Split im Datenvergleich | KW46 | Fußball-Vereine Freundschaftsspiele 2026/27 Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Hamburg-News: Baustopp in Oberbillwerder bis 2027,und Mario Vuskovic vor HSV-Comeback - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmhEaW9hbFZ0Z08zWktkOWdLd2FKMGU0SDV5UnhDTS1VRDlMYVRuSFBPWF91ZXIwNlZpSjcyVTF3cDcxRE11QlJKazF5NmU1U1hnZXpsaDg5YWlYT21aZWpBZXFTVE40Tks4cVFMVG5LS1NNeE9qd2Nrc3pFVWlQcEYyTlpRWVBZWWxmU1EzZ3dGdXhwc3pZcUJsNDg3YmNTVUtZS0I5Qk5XLUhzMVJrV1EzbFZUbjFFaUFrLXRxQjh5YjFWVVBYN1hoQWx6LVQtUzBQT3ZR?oc=5",
-     "date": "2026-11-16T15:30:00.000Z",
-     "text": "Hamburg-News: Baustopp in Oberbillwerder bis 2027,und Mario Vuskovic vor HSV-Comeback Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "\"Dunkle Phasen, aber aufgeben war keine Option\": Vuskovic feiert sein Comeback - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOGl0Nk1aVk9VTzUyc0hJdnNJaWgzbEhvcTBKRUt5ejZMa2FZM0FWUXYzTmdkc3JVcWEyYnFQaUJwczQxRm1wNUMtWGxJc3RZcE9zbzFHa2UxQTN4X2RPSkJnTjhxN3hxeUd6cTZZeG53YmtObGtUa0l3WWttTDdqN1U1NGV0QTdGQUhKSjVpeng2UWJ1Q3ZTR19GQl9IZ1VLSUpJaTlSc1FsUy03NE5jTmZR?oc=5",
+     "date": "2026-11-15T11:20:00.000Z",
+     "text": "\"Dunkle Phasen, aber aufgeben war keine Option\": Vuskovic feiert sein Comeback Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "HSV-Check: Mario Vuskovic und die Nordderby-Elf - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1puX3laRk5KaFAwRFhEeFpVakQzM0dhbHFSb0hPYlB5QlZOdVJoUElxYTBaLWttWXJDZC1HeUp6VEJwOTNQbTZEWm5TbWJyX0d2d0ZzWWNXTDRJS3k4bGZSQTB3MjJVRDBVQVA3LXVNWmFmb1RQc3hTVEtjRGhqdzlDZUNqRUx5OFlzaGVwWVc5YjNIRzFVXzdPeml0RlJ5MFE?oc=5",
-     "date": "2026-11-16T15:01:21.000Z",
-     "text": "HSV-Check: Mario Vuskovic und die Nordderby-Elf Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Gänsehaut-Stimmung und Jatta-Ausgleich: Vuskovics Comeback im Video | Highlights - HSV vs. Split | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWs5SzRzd2stUWNjVFI5dUVnc1A4UGNhXzREcFA2Qm5zaGsyVlFPcXRVQmpwWjlsTDVLT2FMYlRhblBsQUpLd1g1dWNjdFFQbVItRzJQVXhIeUFjLXFPRzJ0V0p4aXlXek1LUFJFZ0tpRXFHV2Yya2dqc3lETTFEenZIVXVVX0R0N2twZkU5WUs1dHdjN0hoMU0wM21JOVBvOVJ5dGdR?oc=5",
+     "date": "2026-11-15T18:15:32.000Z",
+     "text": "Gänsehaut-Stimmung und Jatta-Ausgleich: Vuskovics Comeback im Video | Highlights - HSV vs. Split | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "HSV: Mittelfeld-Alarm im Nordderby – Remberg gibt neue Prognose ab - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUVneUVkZWlUVmNIOG5Bc25ZLVRuZUhneTlRV1B3bFlsakZSb04xZ29mWFJ4TGxzTHpPV0lYOHJzMVdUNThUNW53MUNuS1gtQ0U1UmxqZDVNYTVKdndjS3lwd2ZyVlR0TzRIdlNnY29hQktic2Y0ekJtOXZ4QlRCV2stckFTU1ZCNzE5ZWNubXdITGFNYlBMTGw5SVAxUEN1Q0g1cXFkWXJyV1MxblpSamtBd1RhVV9ta01qSndTQnRxakE?oc=5",
-     "date": "2026-11-16T04:07:00.000Z",
-     "text": "HSV: Mittelfeld-Alarm im Nordderby – Remberg gibt neue Prognose ab Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Polzin gehen die Optionen aus: Auch Sambi Lokonga fällt verletzt aus - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeDdfQl9jUThlUVRCbXdfeGxXUHRkVDlHMEtQeW8zS0tjaTF2RjJ4QXFNeW9jbWh6aUFNTlBXY1gtNGVJTjVxWkZGWldIblFBYlNfcUJvNkFEMFZXRTJ6ZkFpZ0pIYzdsLXR2eWxBMFRMMjlfa0FIQVRxZHJIU2tQYkdxcngyYTlBR1BpeXVTQ3NlbE1OV3VPRTR6SmZ6bmVGRFpBWXA2Mklldw?oc=5",
+     "date": "2026-11-16T17:03:52.000Z",
+     "text": "Polzin gehen die Optionen aus: Auch Sambi Lokonga fällt verletzt aus Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Vuskovic-Doku: Emotionale Szenen und eine Überraschung – gibt es Teil zwei? - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGptRkt0Y25GS0pzeUxSZlR6TElVQkE2SmdDZTRXam1BbElVY0czQ0hMODJQREpXN0ttTzRtTFhXMThyMUQyV1BWeTBIcG1GcjFLVnVlcl9pbExRREM2eWdGVTE3aEdJdF9HcDJDRHNUVUJmWklIZW1QanJnWmdWbWlab3F2ZEhlV3hQTmxrX1NhRnZwMXJrYUFrUzBJY3FJREVDcTRjMkRYVVdoT3pzaVQwWkRza3dGQVpGeGV5V0ZzOWljSHFBVXZB?oc=5",
-     "date": "2026-11-16T21:59:00.000Z",
-     "text": "Vuskovic-Doku: Emotionale Szenen und eine Überraschung – gibt es Teil zwei? Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "\"Eine unfassbar gute Kombo\": Wie der HSV in Berlin die Elite stürzte - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTnJ3anN2YlFwY04yUk9HQ0F0TFpOamFaMHE0NzlfWS1rMUZST2FyR19QTmktZUNsNHFSWHZJTXJTSjY5VDJrMGg3TFV6MDBUeTNvWTlPRFhGRUtSUkpyNGhHRThsLVQ3eDh5NENCQ0pmbC15cWZhTkxvdW1jNUdxdEdtZlFFSWlBSWswandFdDZMMDk4YmxBQTd4bDU4bUt6Q2ZhVTRicw?oc=5",
+     "date": "2026-11-16T11:02:00.000Z",
+     "text": "\"Eine unfassbar gute Kombo\": Wie der HSV in Berlin die Elite stürzte Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Mario Vuskovic erhält spezielles Geschenk von HSV-Fans: Wie Polzin ihn bewertet - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT3dVa2ZpX21XYU9XS2JNV011WXhzWDJiNnJtYzZyQVNHYkM4Q0FaQnpzRnJ6V1JRVHI4R183SmZhTG5uVlBZcExBRVZtSmJ4aXlicGswOVFxM3NvNHJiaUdMd21KNzAxdGQ3c0FNV2dQUHdwWUQxa3h3QUZ6M2cyQ3pEaDVFV2dTU1lJZE9jbW4wNjA2aENoaFRVRDVSeG1lazlNSXd3Wm5HY1ItX01GLXdCTkNlZEZjRHllV2ZqQ1VfaWo2SUcyWTBuNXpPajFzWEEw?oc=5",
-     "date": "2026-11-15T18:29:00.000Z",
-     "text": "Mario Vuskovic erhält spezielles Geschenk von HSV-Fans: Wie Polzin ihn bewertet Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Mit Video: Gut mit dem Ball, aber einmal zu passiv: Vuskovic feiert Comeback für den HSV - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSVN0SGZoVXlCNXZIdVJNcWNWV1VlWEYzblZ2NXYtZmZHR1pIYXVXMk55Wml6TEZZejM1NkNHWU1PM3I0VlI0ZlFUOGNWOHBvbjlfZEdvSF8ycGFzdUJ4RzBtQmJGZXRtNGRrOVJhX1F4aE82X0hnclpiZWptQzdzNkZkbDRBd3loMXAxdzczX0tLNDlRTzQ4?oc=5",
+     "date": "2026-11-15T16:20:00.000Z",
+     "text": "Mit Video: Gut mit dem Ball, aber einmal zu passiv: Vuskovic feiert Comeback für den HSV Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "HSV gegen Hajduk Split: Diese Note erhielt Mario Vuskovic bei seiner Rückkehr - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0tBM0hZYXRqLWxUWVQtNFhWMTNtYUxhNTd3M0RRRzA1UklzZTFWNzZXdDhMU1pyMDNlQ0VFeGpOZDlJdl9salVDNjNiUF9POWhYNEh2NmlqMXI5Z3plZUdsZnU0a3I4N3h3cWtKczYzMDFfbEFxZEJtSDNiX3hQWUpqR0ZLWkxGLWQ3bmVYU001TDl3bzl3QTN4QkFGeW9xa0xkTnU0QjdqeTNkYXczNWxXWjJEQldNSXpXdDJkU1pUSGcxWjRXVTVqZGs5TWtu?oc=5",
-     "date": "2026-11-15T15:57:00.000Z",
-     "text": "HSV gegen Hajduk Split: Diese Note erhielt Mario Vuskovic bei seiner Rückkehr Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Vuskovic: Große Emotionen, kleine nächste Schritte - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVVaamkwdVE4NVZrV3hPZEVwT0wtOTIwSVpBRTZVN0x1bVpmeEVINzBtN3JjYUVYeGVmaThJbUNGYXhBQ0pFOGtJa3lrM0xjQU94cHp3d1Vrbk94YTlsaGFrZS1OaDF3UWdEYW1pSV9RV3QzT3k2MWl0MG5FaWpwYVE5M3dKdVBfZmJmbXNHbFpfQQ?oc=5",
+     "date": "2026-11-15T17:16:16.000Z",
+     "text": "Vuskovic: Große Emotionen, kleine nächste Schritte Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Mario Vuskovic gibt bei HSV-Comeback Bewerbungsschreiben für Derby ab - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oRmVZc2QxdkRPWGtQTTJncVh3UkxLTnE5YUhBLXYxLTJrTFNxR2xkZUloTnByZ2lKcThuTjlBTWd2cTFXUXBBb0dRS0dlaGxHeTdmTHNRTkZtTHNueWFtQ01vVDNXN1JFaGc?oc=5",
-     "date": "2026-11-15T13:20:00.000Z",
-     "text": "Mario Vuskovic gibt bei HSV-Comeback Bewerbungsschreiben für Derby ab Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Mit Video: Eintracht besiegt RB klar - Sorgen um Leipzigs Starke - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdjk4VzBHVk1tbEVTTU1BLTYzdkdKWDQtVHhycmw5cC0tUWJXU0xUcHdoWk5hQ04xWXZ4VlNBZnRsTW5pNW0yaU43LTVrMjNvelR6NkR6SXJZdVZjMmlKdlJRVWY4c2x4Zm44LVd0ZkxJd0szRXJReE54ZkdFdHdpSjNGUU5OM05kaDBzeGVtaEQyNEU?oc=5",
+     "date": "2026-11-15T18:09:00.000Z",
+     "text": "Mit Video: Eintracht besiegt RB klar - Sorgen um Leipzigs Starke Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Ist das bitter: Nächster verletzter HSV-Stammspieler beim Test gegen Split - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMVlLZmt3ckJ3Z2lPV1VJMUswM0tZdGxUTlVXR0lraXRDaGhBaVRTOGUzS1B1emxzc2J3UjR1aUNlMU9CeEp4cU5pbXBJQkhRdm1PSXgxaFRoejhEb0RncHVwTEMwYUR4dFhGWEE3SUNWRFBTVlMyQ2l2WE1ubU9RRkNCVUhzMEpfNUQxTFhLY0V0SXNoMXBjNHlzeG9GQ01pSTQ5cmFLSUVNNzJsVnA1MmJjNUlROEh4alAtTjN2QTZrM0kxdC1ZQk5pM1MySks1ZXUw?oc=5",
-     "date": "2026-11-15T14:15:19.000Z",
-     "text": "Ist das bitter: Nächster verletzter HSV-Stammspieler beim Test gegen Split Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Sportnachrichten | Alle Fußball & Sport News | Live-Ticker & Ergebnisse - kicker - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBpclltRllsUllJdDhUQlcwcFJrWlozYUhINnlnUFlYN0Q2Ym03NGZVcFpqQzBoVEhrRnc?oc=5",
+     "date": "2026-11-15T20:39:00.000Z",
+     "text": "Sportnachrichten | Alle Fußball & Sport News | Live-Ticker & Ergebnisse - kicker Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Eimsbütteler TV: „So können wir zehn Jahre in der Regionalliga spielen“ - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR3Q3dnR2S0w2anZXamxnaXkxOVNxR1hzTnJtQ3hMdk5nOVVLaTN0cFVKWTV4Y3h0RlBwMUd3NVBLOGtZcVViRDhNOHVwNHRsSlJCT05tOXkxQjViRXFsdkVCLTZtQjVNRlE3RGE4YTlETTZ0cVRxbjNMYWtnWDR3VUdXSTNmSkg4TTRrX0ZWZmo0clRjdEN2UG43MXU1aGZNVTYwYnZ0NF9JRzFaYWJZdm9abzVKbFozY0N0NXJtR0RhUQ?oc=5",
-     "date": "2026-11-16T04:45:00.000Z",
-     "text": "Eimsbütteler TV: „So können wir zehn Jahre in der Regionalliga spielen“ Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Neues Profil im RB-Angriff: Guiu und der zweite Start - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOek5zVFRrbk5LRUFGTTh5LTFXTjB0Rk9weDlRUjg0dkhlVzRzYTlOTDVjR0RFOVNadl9vU2RsdG5sREJ3RGZrUHg1ZVpGb0NzT3VKNnp5NlAzSlFtRDl2Z1dTd0V6WG81ZHVtVkZ2SUJEbUNIdGVzRUI4Y0NVT0F1TEJmZ3hhM3M5QVhkQVVyUkJITjlG?oc=5",
+     "date": "2026-11-15T09:45:06.000Z",
+     "text": "Neues Profil im RB-Angriff: Guiu und der zweite Start Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Nur eine Eishalle für ganz Hamburg: Vater startet Eishockey-Rettungsaktion - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM05vUGtrQTFKSFZWZEI4UkE3YlBzYlJta2ttOWpmazd2dGlEWUx3NExBelJ4TmR6S2k3eXlzaVdPY0VXaHR3THBXUFpGTUFXa1YwMmUwVHd2Mml1TFkwcDFLc3dsU1pRVlVYemItMTZLYk1ENy1mdVZ1c0l3VnQ2MmR6WTR5U0RvX0daR1JxU3lCZlhVQkpuNHk5UWhic0tGenFHN184TzFKcFZhS0p1dXJwU1R4bEdweFpRbmtVYnNESlJNOGszNWhtOHRfVFBIWUZfRVJn?oc=5",
-     "date": "2026-11-16T05:16:00.000Z",
-     "text": "Nur eine Eishalle für ganz Hamburg: Vater startet Eishockey-Rettungsaktion Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Last-Minute-Sieg als Brustlöser? Drochtersen/Assel schöpft neuen Mut im Titelrennen - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWZWY19jbF8wZFlGTE5BcWVTaklUM01yNGItbjJGWXdzbEZfMndOQm9vUk1BXzc5bWF4dzByRGZhVklGTTJXVkJYTFN3UVJUNXVLcU8ybXc0a0RYS29LdTNrNm5vR3lyb2JnVy1RSlVRckVTbExGQVNibFJpUko2MDBqU3NLRUtsT3JyREFUYm9fSF83eHcwbGxNZmtGNFRUaHEwME9qWUJVZ3Y3QnpnRkhiOTRweXFLMm5jUzlJaw?oc=5",
+     "date": "2026-11-16T09:00:16.000Z",
+     "text": "Last-Minute-Sieg als Brustlöser? Drochtersen/Assel schöpft neuen Mut im Titelrennen Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Rettungshundestaffel: Vermisste Kinder – Bergedorfer ASB-Team kennt Wettlauf gegen die Zeit - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMWc5NWRyREdhT0dXMWNJWXZJSmtueEVOZmx6NEFqM3ExWjJER2t3Znc0OVBHbkRnZnlKaGJZTHRYcEVjd01DODdhYkRISEJGd3NVUnJma3RyUnBlNnBQVGlFbUVOU2RYRHVXY1o2V292OV9CSmV0WHI2Mll3Q1oxcGpra0lFRXV6OGtfdS1KU1hYOThQYkNLQzNHM0NlVmFMUk1sR0VQM2QxRXJBOG90SUx1RGRidHZEYWdkaWp6ZGFXMHA0NnJJM21MN3FBTFk3OExj?oc=5",
-     "date": "2026-11-16T12:00:00.000Z",
-     "text": "Rettungshundestaffel: Vermisste Kinder – Bergedorfer ASB-Team kennt Wettlauf gegen die Zeit Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Havertz lobt Lijnders: \"Generell ein überragender Trainer\" | Assistent aus den Niederlanden | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlBUTmc5N2pLWjEwYmNNOWw5aF9raU9KY0Y1Ti1hV0JMR0JMVkJfZGs3VzYyeklUNWdoRWhBUHNHQU9XWHVjV0F1ZmpvZDR0akI1Z1h2eFpHdVhKRkpINHpXaV9TalhfcmUwZXdQbkJQSlp2WnR2aVFDUFYzeExuZ29FUU44ZThSQVFaQVF2NThjc2U3UERV?oc=5",
+     "date": "2026-11-15T19:46:10.000Z",
+     "text": "Havertz lobt Lijnders: \"Generell ein überragender Trainer\" | Assistent aus den Niederlanden | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Jacke spenden, Glühwein bekommen: Goldkehlchen laden zu Aktion auf Hamburger Kiez - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMzVNMjJKN1I2R0M3bjhuTXlEMWFpamthU0Q1ZkRsckk2WTRLeVpreERHSkduUmdyMXU5Ml93NjVfblEyOFNSMEFtcl9hNjk1SU5RUVNzSklqMGo3TXpjQmtFLTVoYy14NllGb0RJVjlra0ItN0N3UkNxTHUyNFBXQ19XZ2twMUExWlZrUHN5OG1vcm9YT3dHdndxZ1RUTnBaSkJya1VDZmNnRHFBOVFhMmFtZkVLYWRGd1d1bDUzZ211Vl9YWjJmbGtHQk1ZUlpMVDd0UjN0c2d2d3Q0c1VOYXNrc3plck8zRUNBbQ?oc=5",
-     "date": "2026-11-16T17:30:00.000Z",
-     "text": "Jacke spenden, Glühwein bekommen: Goldkehlchen laden zu Aktion auf Hamburger Kiez Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Burrow-Gala lässt Steelers keine Chance | NFL - Highlights | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPemJQWlBOdE9QM1hrVzVFa190LXhBUDBZMFg4VWpYSVM5eWpjRVQ4N0l3Y1VuQjAzMTg1NGVUWXFRSF9TOGszNDZJcng4bWlpb2Z6dkpyZHJVV0Z2QTk2Tnl0S04zM1Z6aWlISDJmVEYyR3QwdmpRaENBMnBQN1YyZDVn?oc=5",
+     "date": "2026-11-16T04:51:37.000Z",
+     "text": "Burrow-Gala lässt Steelers keine Chance | NFL - Highlights | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Lichterfestival Lumagica eröffnet mit neuem Waldweg - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdXVSWXBoVTBha2VjUms3bnVHRUI2b3h4Y3RFOG1zUG1Qa0haa0dxRTB3NU1VcWNIU2lzVFh5NVAtdTZmZnRRMGRvWGgwS1pjTlBJQ05mbWRzT3BfWk15ZHNQVWk3dzNmeGYyS1Q1X3M3N05PVS0xTFlFR3RFa2xsOHd6WHB2OEZQV0h3V3NjR1FSTWxVQXBqZlphZ0lzV0NHZk1hSW5iM1d2dw?oc=5",
-     "date": "2026-11-16T16:19:30.000Z",
-     "text": "Lichterfestival Lumagica eröffnet mit neuem Waldweg Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Erst Shorthander, dann zweimal Powerplay: Straubing schlägt Frankfurt - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUUhKQ3JwTEVTdG1BcHR6NTVQZXVIeW1uLV9RbWFTcHhoQmplVDQ3ZE9EWk5oM1dtUjZjd1pleWRwY2xjNndQZ1RJYnhMMFdVMnN2RjJQbzBFQTBkOWoyanRPMVV3RGRQaFJqaU5LM1pPMHZCYkMxODFvS1hsMUo1NkRpOUtsb0ZmM0VOeHVlV3hxblItTzhwb3poNWZPU01yNjJDeElQVQ?oc=5",
+     "date": "2026-11-15T19:17:00.000Z",
+     "text": "Erst Shorthander, dann zweimal Powerplay: Straubing schlägt Frankfurt Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Millerntalk: Neuer Aufsichtsrat und Rekord-Gewinne - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONXZOUXFqd2JXb2FaU3Q4c1dIYVA0MHU3Yld0UzVIWnVnZ2hYcl9ocllhOE41VFdmdlhXQnZwcnd4bEJnMzRDY1ZQNlJtUXhhZGRPY1MzQndERFlrbGZTSEdHd215MG1JX3ZJaVBuTnVBNFNXUUd1VzRKY2dBcWxJRjJ5Q0J3QkpQNkhxVzhjZUN0NTdVbVZMVjZ2TzZRU1NWRGtRd3dn?oc=5",
-     "date": "2026-11-16T15:42:23.000Z",
-     "text": "Millerntalk: Neuer Aufsichtsrat und Rekord-Gewinne Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Jaguars machen Hausaufgaben gegen Titans | NFL - Highlights | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFFMN0tmQTMtVXg3UDBPa0V4NzRfUXJGRlAxUlUyeTFwMkxNRUFjd3dIZ2NNTVZJR2hPMUVoRkVHM2dnekZOendUc3UzVExpZmlPTUVHM1dRWTZWX1RScnFUVUYxWWdZWmpRUXBabmhEcWRqb1VlUmFuamViSHRwcm53?oc=5",
+     "date": "2026-11-15T23:30:35.000Z",
+     "text": "Jaguars machen Hausaufgaben gegen Titans | NFL - Highlights | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Jüdisches Museum: Ex-Senator schlägt prominentes Gebäude an der Alster vor - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSmhGclNQNFJ5aUJ1bHFRVWpnRlFqNzNoU256MXhzRU5WS05ZeEZ5R1VvNWVsSUgzd3cwb2lqVEdiU2pIaFRIVkpXbUZSQVZsZHptcVZndmdCR293SEVyVkxKdE9VbXBWU0NtVks2WXJ4LVFLMGtpTnhGVGJOVUlPZXVpR1J4b3k5aGtUMWV5YU9oeDZYeXJTbm8tZ2ZSeXdOX1ZubU5vZUNNdjJwYTcwM244VEl2U3pwam1fMENlV20zc0luWnI1QlVrdXY0VlJ0S2dpUjJ3?oc=5",
-     "date": "2026-11-17T04:35:00.000Z",
-     "text": "Jüdisches Museum: Ex-Senator schlägt prominentes Gebäude an der Alster vor Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Mahomes und Co. zaubern: Chiefs schlagen Falcons deutlich | NFL - Highlights | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXB2SzRJNTNVLW1fR2FYNEZld2I2MUdEWVR5X3JEYjhXUkZqcVBELW9uMXgwdU0xOTJXN1gxcGN5bGtXRnBFYW1GV2VqczFXcjJLUWxVbG9TOXlXX1NibFpDLXdSaVRacjcxSzloLUtQM2dqQUh1Z2thOG5jTnhxbmRMZUYyY25HZVJwTmJ0dUJ1STVmNUE?oc=5",
+     "date": "2026-11-15T23:52:10.000Z",
+     "text": "Mahomes und Co. zaubern: Chiefs schlagen Falcons deutlich | NFL - Highlights | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Umstrittene Rodungsaktion für A26-Ost: Umweltverbände reichen neue Klage ein - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMGx0anJzcDZVbXduekpUaUx5SDh5UENBeTBoTmp6LXZSd3Mxc3RQSkk0TEoxYmQtZWdHYmc1Sll5NW5GTkJzVXQ2cWZXb2t6MDNHQVRqSG05NXVSaWZzVjNfd2FCbk9xTmtIUzFFRHBuc1kxd3FpS0VIY2ZRM1VhdjNrdV9GNDcwUDRwdHZGQWV4dmdpbFYwUW9wT0o2Q0dOdjRjbXNoeDF5ZThIOUtfcnViNVhfLUNTd2lEN2N4LURNeWptUVE?oc=5",
-     "date": "2026-11-16T15:00:00.000Z",
-     "text": "Umstrittene Rodungsaktion für A26-Ost: Umweltverbände reichen neue Klage ein Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "\"In den ersten 30 Minuten übertrumpft\": De la Fuente würdigt England | Erste Pleite für Spanien seit März 2024 | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1d3ZXNia1BUVktIa2w0ZlFzQjBpNVFjN3BNMWNlcGhyZGVNTzVqYnlBZ1UtQkFtR21uSFp0eENKZG1EQ19Ga2pkakE5U2tqT21lbi1sQmhJMkdxOHdtV1Q5WUhHNDdCUGRpNnRQLXJRU3RnRV9NYXNNUjFiLUVnVXZjVVdSWVNKT3p4OEZpWi01a09Za3lvd2RUd2VEbGFGTTdWam53?oc=5",
+     "date": "2026-11-16T08:59:01.000Z",
+     "text": "\"In den ersten 30 Minuten übertrumpft\": De la Fuente würdigt England | Erste Pleite für Spanien seit März 2024 | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Bau-Flaute im Kreis Segeberg: „Wohnungsbau enorm nach unten gerauscht“ - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMG9DNWM0RHdwVUF6M1BSVXJwVUFsdmlBazh0RjRVT3R0TkpaUDNmVmozYk84T1RsNElXUk1HS2VyR0lDUDY3MjhNdGd0X3Qyd1hsdjFjVkdHV3EtYWl1QjFjaHA0ZjZxLTlBSmRsYlZuM3VsNllfVGlOTlU0dVQ0VlZoUGZLY01yeHd2Vm1EX2JTX3Z0dFdTenN5T1ZwNldvZ1kyZ3lna0t1TkdfY0xaemFKUDRJX1JPLWlINTlHWFhUcklkM2t3dTl3cG1BSlo0Z2hKOXc4bkZiUWl2MmVj?oc=5",
-     "date": "2026-11-16T17:20:00.000Z",
-     "text": "Bau-Flaute im Kreis Segeberg: „Wohnungsbau enorm nach unten gerauscht“ Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "17-Punkte-Comeback: Browns schocken Texans | NFL - Highlights | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUFNYmtGVXQ3OEN0UEhLNnpwdGVrb0I1Q1RHa1hDenh6azg2VmxQbm05RkxSbXpnUDR1dVpNSWhQMkQwRThVS05DRUN5ZlpCQXMyeUNxUXRHMy1VZVRpZGM1czVNQlZRVlltU2Z4M3JVa2pHcG5kc3lDNTRxUnFRdmVKdw?oc=5",
+     "date": "2026-11-15T23:28:18.000Z",
+     "text": "17-Punkte-Comeback: Browns schocken Texans | NFL - Highlights | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Wassergraben, Strohburg, VIP-Dogwalk: Reithalle in Tangstedt wird Hunde-Parcours - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONFBzb1JBVjZrV1RGZTVobHRLNkpuM0haSngzanlkX2tXM2tSWjBFaVBFa2JZWEx6REN0VXo3V2xGNUFPVnVVQURBNkw2ODJkc19uRTBFZ3ZCN0JhQjgzNUhqamx0LTJSaUM1ODRoclNnYndEeDQtTFp5WXo3MFNrbEQ0dEkydV9OM2xRcFJSWWh2clB3YTlmbm1uaUs3bzI0Zzh1NWxQX1RtdHFMS1JsYUlOcXVpVFBDSzkwTXoyQm12bUFpUGRLZWNMdVcyZ21sSHk5TGFTUGVNQURIbDcwRQ?oc=5",
-     "date": "2026-11-15T11:00:05.000Z",
-     "text": "Wassergraben, Strohburg, VIP-Dogwalk: Reithalle in Tangstedt wird Hunde-Parcours Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Eisenschmids Doppelpack bringt München auf Siegkurs | Eishockey - Highlights by MagentaSport | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObnNZdmhtQ1VkbVM4RW5zLXNzVkNwTVo2cmZOMU9hQzhSTGhVdHNvTG1zUk15Ni0xWGE5U2lxekp1aFpwZFV6NEFhbVpNam15THYwQU5ubTBjQTVmQUdEZkNGRDAxdWNlZncxYmJjSlN1dGN4YUtwWk1QaklZM0twTnowYTJPMmpadTlUcjl1alhPZw?oc=5",
+     "date": "2026-11-15T17:07:47.000Z",
+     "text": "Eisenschmids Doppelpack bringt München auf Siegkurs | Eishockey - Highlights by MagentaSport | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Neuer Aufsichtsrat, Rekord-Gewinne: Wer entscheidet bei St. Pauli über das Geld? - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN01VSnJGdndyQ2xKbko5THdSUGlLSTFHSDYwWjJxSkVtckpwWThIQ05mWDBQQzVTaUlZQjZGTlo3cmV4TGFjTE9WYXptbUFyaEVhUWo4Y0lBeno3elZDOTNZWlVIWnZhQ25LN2lzWG55bDlqWU5vTTlSRVdaT3VSREdxeGtybmtJTXM3eHd2RkZxT3Q3d3g2LXJiaTN5SE9NZlI1QzN0dEJNNUFNWGpZMXZCNlljbzMyd2RRUTdIc19kUEVYTC1ZanVfbi10Zw?oc=5",
-     "date": "2026-11-16T11:07:00.000Z",
-     "text": "Neuer Aufsichtsrat, Rekord-Gewinne: Wer entscheidet bei St. Pauli über das Geld? Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Brown mit drei Assists: Adler siegen nach langem Hin und Her | Eishockey - Highlights by MagentaSport | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRk9GSWM5QlA2ZXU1dVA4ZkZFb2pHWXU1eEpYbl92a1NOV0paTEJoUWtub3B1YkF0U1FoVGZ2Z1F0MzhHcW1QY2M1TWNZRjlHVlRIUkhpVmlhR3ByVDFqRDlva0ZZOFJYcFBIclJZU3dxcUpGWUhCcjdSMzBRVlNfMXRsdS1Ga1JnZ1VfSVh3emd4am5EQlliZk9QRQ?oc=5",
+     "date": "2026-11-15T19:37:53.000Z",
+     "text": "Brown mit drei Assists: Adler siegen nach langem Hin und Her | Eishockey - Highlights by MagentaSport | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Rot-Grün will Abschiebehaft neu regeln - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT0ZyVkRWMXZrbFIyNDh6VnhQZms4eEpGcGhxRFpJeFZ5bGlrV2kxZzNkeUZDV0V2SjJSRVdOYXc5bmFpdWlmWEVJUkNFLU9EQXlCQVUtSFU0dWw2akRJdkowYkQwX0pUY3NnbGJSUXM1UTJ6b1NaU0NEb0g0QWhHSDhpcC1GTWhIUzV1QnU0OUZhdmtpZ2FYYWkwbkNOZFlZWE80?oc=5",
-     "date": "2026-11-16T13:06:01.000Z",
-     "text": "Rot-Grün will Abschiebehaft neu regeln Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Dank starkem Wolf: Favoritenschreck Schwenningen düpiert auch Berlin - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGJ6cUFJSnVYT25nYW1VaXFlb2UyNFkzc3h5RzhmMUZRTHRtU3V4bjBZcVdvTWs0M2ZmSDBHLVNtTm1JZW1xdXRtNHphclpmRklja0tDVVJJRVhkclg5QzU5bXZqa0Y2ZzFmTmtKTzZvbTlSeFlldnNUamo4bEN2T3JWb3BOZzF3cDlnZDV5TWhlVkpNT2dia1lRN01CWEFmZk1lbFBpdw?oc=5",
+     "date": "2026-11-15T21:55:29.000Z",
+     "text": "Dank starkem Wolf: Favoritenschreck Schwenningen düpiert auch Berlin Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Treffen der Stahlindustrie soll „Umsetzungsgipfel” sein - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV3QtWGFndXhPUkc2ZnFYWUNJaENtdVlMZTZXeEpYTmU4eWhaUkozRlVsUFJ6bnVvTmhWUldZOVc0OTlhYWN2ajdrY1htVTBBQkhsbWxOWUZkRDB2UEJtbmQwVHBZUVFoTzEwa2N5bGhTcHAzRF9XWjJmdHFzMndiVXFBZWtSU1JfaDk5M19XX2t6OXhHVHlMQ21lMi10VFVaUjdYOWd5NHBsRXk1Sk0wQUxvMXRydm0xUUFrNg?oc=5",
-     "date": "2026-11-16T02:46:01.000Z",
-     "text": "Treffen der Stahlindustrie soll „Umsetzungsgipfel” sein Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Draisaitl & Co. entführen Punkte aus Toronto - Bouchard mit dem goldenen Treffer | NHL Highlights | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM0ViNkVGSVA0UzZ0aXBjN1g0RnliNXdkd3pMT3VQUzJVOENuWl9MSjJZT1dNVHdiNmlCcThuUHNyNXozYXRnVW1BU2FJcFF5QVNJVjNPcHZCS2M1cGJWTTJxMmZvejBXUWw0MjZRTGcwbExOcVJpMDlELWxDSTRyZHctbFhQZWhBQm9QMjBuYjJmeXMycEhkc1NMSmYxV2dKNzhzaFpUUFNFWHFUZlU0XzNB?oc=5",
+     "date": "2026-11-15T10:01:12.000Z",
+     "text": "Draisaitl & Co. entführen Punkte aus Toronto - Bouchard mit dem goldenen Treffer | NHL Highlights | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Kostenlose E-Paper-Schulung – entdecken Sie das Hamburger Abendblatt neu - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQckd0SWdTMXBCc0RhY3ZtbW5ueU9PQXpHcGt5MGJFYkhsczBVcHE1LWY2QU5qWWdHY0ZuZFhJUDdORmhnNU52NzRMd3YxY2QyMy1FaU9PZ2psUE5XVHdKRkdlZl9pUEpfTEhUMF9mSWxoN1ZyNkI5MnhYNjVvRzhBc1hxdnBFWUxyZTJIZk40RjZZRmdvNTZlQ3d3SnRhUlY2SVEwNDc3N0NZejQ3VXhFbU5pNlVPeUdvcWVPSWZxVklkSXZ0?oc=5",
-     "date": "2026-11-16T16:58:30.000Z",
-     "text": "Kostenlose E-Paper-Schulung – entdecken Sie das Hamburger Abendblatt neu Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Erster Toilet Bowl 2026: Colts gewinnen wieder | NFL - Highlights | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMkFkR01QM0dkN1diMzZmQzhRV3V1aDl1NDhLZ2VfVHdXckkxdGJJYlgyZTZOeWZnWWFiRVFQSWNVeFphU0Q1OU1VSXFlaVdEQTdwVEJlMjFFeWdnSGVSaXIwam1mVjg0ZnJZc1Z0X0hBMy1meGZKNmRKQmpqRUNVdDNUalc5cUJV?oc=5",
+     "date": "2026-11-15T23:43:52.000Z",
+     "text": "Erster Toilet Bowl 2026: Colts gewinnen wieder | NFL - Highlights | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Urteil im Mordprozess um Tod einer Frau erwartet - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzdHOWQ3NXQ1TG53ejBVbXRhcTh4MFlyck9HR05aZ2oyRzBvMkFCV08tTHRhanhNZTNKNURWSldIMnNydW9qTUN4N2NzRW5aOF9xWmxhZjZ0MzYxM3pXVVZQbnJ1b1FtSHNSN3dQTjY1YXZ5TDVxVXlBaFBFRUNoWldXamRGUUZrb212c2JrbVVOMkpDTGxfZEZTN1hEVVEyUEtSREwyd0ZzbndkdEdR?oc=5",
-     "date": "2026-11-17T02:36:00.000Z",
-     "text": "Urteil im Mordprozess um Tod einer Frau erwartet Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Bei Cousins-Comeback: Vikings dominieren Packers | NFL - Highlights | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVlFZWkzVnJOSUtQWm5Kd0UwNGVkVlR1N0pFRUVOWk9ucHE0dEdjY1RHc0RpRGs4U3FjczZYbHA0WVh4X3RNLV9FZFJ5ZnJKd0MwSnNIUTZBX3NzNGJUY0hfVnZMUUFlZHUwZEtpOU54eTF5ZnlsUXpXblZOZ3Z1bnlDcFduajJVS2hZ?oc=5",
+     "date": "2026-11-15T23:38:45.000Z",
+     "text": "Bei Cousins-Comeback: Vikings dominieren Packers | NFL - Highlights | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Millionenschaden nach Brand von Reetdachhaus in Schenefeld - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzBRb2pwNFgydlgxVWh1M0M4VUM3NDA5ZXJ1VjVpN0tDZXVsLWtieHNwVmMzLThRZVlia0hVUTVaVnF2cVlIMnpMSXNFeU9IU3VyUjVmOTctZUU4TmVMakNFSVBQc1ljamtmZ2lod1NUOTNOY0FWVkpzWGtaM1oyLXRubUsxd1FzRmdwNHM5X2p3UUw4eDlvRWtHWWdhWGtXcVRtR3JsYzd1WVJleG1Oc21SeUsyLVZQM2JnTDZjNDlaeDg?oc=5",
-     "date": "2026-11-16T15:19:53.000Z",
-     "text": "Millionenschaden nach Brand von Reetdachhaus in Schenefeld Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Effiziente Wolfsburger crashen die Party bei Müllers Meilenstein | Eishockey - Highlights by MagentaSport | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYllURFBwcWNaSzhKUWRXcVZNOHdJekJ3UGE0Z1JCRDdXY0RUbTJZdVcyNDNuQ3lzbFdnWEJlVHMxUnBQaXNkUUctekh0VXU2VjdfWkZ1blZabGduTVBLbGZZSS13eVNydGpIX1NwcEhPSko1bW80amJnSHZXY2dZNExSaV80QkFzTEFWSkkxVnk2N3ItU2xwY1JMLUxlQXRTMWVF?oc=5",
+     "date": "2026-11-15T19:45:45.000Z",
+     "text": "Effiziente Wolfsburger crashen die Party bei Müllers Meilenstein | Eishockey - Highlights by MagentaSport | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Bargeld gegen Gutschein: Grüne kritisieren die Bezahlkarte für Flüchtlinge und bieten „Wechselstube“ an - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEhuZzhLMnMwcWVOZkU1dU5fXzNnczVsaHlpX3p0VTFSUXNOTWtlM05RZzFWZV9kb3lkWEJTbHRTLTJxWnY5R3k1WVFzc01KMHlCdk9OaENFaHoyall5ZGo1c1VkNUwtMUNXVEdQTFBGTFpyMHhfdHBIdWNDNk96VUZaZFF1ejN0SDNSNGJ3M1Nzd1JrZV92Y3FhaTdOTExFNFBwSWI1R3BRLUVYREtVTVRvY3BGUkI5eC0w?oc=5",
-     "date": "2026-11-16T04:30:00.000Z",
-     "text": "Bargeld gegen Gutschein: Grüne kritisieren die Bezahlkarte für Flüchtlinge und bieten „Wechselstube“ an Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Keine Chance für Arizona: Rams überrollen Cardinals | NFL - Highlights | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNjJVSEppTTQ5QmJVelNsUVg3OXVTNzJ0LVNWRW40UDh0S2dvdm9GVXRPdEFYVmM4TUxyeHFLekZHUnplTGtFNmx3a0FkWElUOUZkNU04WWQzSmNqVjhBWlRxdFdzMFZjRVBPaG5ZdnBfX29MQURBRXBtcXZPWFE2ZFRfcUo4YjNXcWthaUFCV3c1UQ?oc=5",
+     "date": "2026-11-16T01:16:00.000Z",
+     "text": "Keine Chance für Arizona: Rams überrollen Cardinals | NFL - Highlights | Video Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "Smarte Brillen – Ministerin warnt vor heimlichen Aufnahmen - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MMnFEbVZjRnJuaklSMzhaa1puLVo4Z0w5N2JUcjhSZF9KVk5QXzVwVXA5RDJmQXJ4SlNrNG9PVE9ZcHhQbHBEYUZtR2dEQ2ZjTkpFaWthNGtMeFB3U19zY3poTThNUldrVnhkdA?oc=5",
-     "date": "2026-11-17T04:36:00.000Z",
-     "text": "Smarte Brillen – Ministerin warnt vor heimlichen Aufnahmen Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Spätes Comeback: Ice Tigers im Penaltyschießen zur Tabellenführung | Eishockey - Highlights by MagentaSport | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS210UnotcWRIb1ZiV3E5WTlrOGV2QkFXc1h6RU9hZzRNdjRDTFpHdjZxdmRTdkVDOU5uc3dVSG5SY1h5Sjg5RU5PcGthSmpCbXk1Rmxld1VSWllsZGg4WnB4NVVIR2tWYmhIenZzNXhacURHd2RvZXhOV21uSHVGZk9ONk9rcndEd211bkREdHdmczlzSjVtZ01JYkF1YnFweVhRVlIzWQ?oc=5",
+     "date": "2026-11-15T20:09:56.000Z",
+     "text": "Spätes Comeback: Ice Tigers im Penaltyschießen zur Tabellenführung | Eishockey - Highlights by MagentaSport | Video Kicker",
+     "via": "Kicker"
     }
    ]
+  },
+  {
+   "name": "Hamburger Abendblatt (Google News)",
+   "ok": false,
+   "error": "HTTP 429",
+   "items": []
   },
   {
    "name": "Hamburger Morgenpost (Google News)",
    "focus": "Nur HSV-Meldungen.",
    "ok": true,
    "items": [
-    {
-     "title": "HSV-Schock vorm Nordderby: Polzin gehen die Optionen aus - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzhfU1pYNkpoU3Y3VnN1UXBKb2pYb1ZucmFrTkNtMXNHdzV6eDBWZlZxaVZCcjF4ZExGZE5FLV85LTJ3Q2hYUGVNaDJ1R2VVMTVQYVlZM2hBaHlrZE9vZDR3VkJwcFNCNlNHVnZ5Rnd3ZXBKblBRbEhLUk5FVUdsRjFXcENwSXpnOE9sOFF3OTF3Tk92LVpHU19SM215aC1iOVljV3hZbGxUOXBzSlZERUlFd1gxakVCU2IzT2FR?oc=5",
-     "date": "2026-11-16T17:04:00.000Z",
-     "text": "HSV-Schock vorm Nordderby: Polzin gehen die Optionen aus MOPO",
-     "via": "MOPO"
-    },
     {
      "title": "Kinofilm über HSV-Star Mario Vuskovic: Luka musste weinen - MOPO",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3lUU2p2dTFBOFhUdURia1dPYjFWOHRMblZESmtOTW1CWVRsZ3kxM3ZMdmpFUGxrdXVKcFg4RExFUmRuWTBJdHVNX0NDcFJDRXpqTm80emdwcHRwcUJJUHhWbUFEYzY5c0lPUjE2eGJkc0ZxaDBFQzdpRWMyUi1QTE9NVU5mallQR0JHYzNlbzFEbjdjX1Q2eGxlTVZMZzRhRDJINFY3WC1rd1NERU1zQ2I5cTkzd2dzaUE?oc=5",
@@ -299,10 +292,10 @@
      "via": "MOPO"
     },
     {
-     "title": "Vuskovic überrascht mit Traumquote! Alle Zahlen: So lief das HSV-Comeback des Kroaten - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFcxT3RzWl9La0lOLWdibm13bGxFTWdvNXZ0YWwxX29IRGVPbjk2c0ExbFNOei0xa29GdmZhdzlRM3Vob09YZjd3M1U1S2dmMEJvYTR6bDZhX3JfS2VZSjA2eTNFWU5zX1ZQWnhCcnNjRWlHQUJYSDNQOUxHOW5IYXRualk3elNUdUxLbWhfektHSURteE1WN01tX0U2M3VuQ3VpYS0yY0hpMmw2TEJEaWtlbF93QWtJS240Szlkcw?oc=5",
-     "date": "2026-11-15T19:58:44.000Z",
-     "text": "Vuskovic überrascht mit Traumquote! Alle Zahlen: So lief das HSV-Comeback des Kroaten MOPO",
+     "title": "HSV-Schock vorm Nordderby: Polzin gehen die Optionen aus - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzhfU1pYNkpoU3Y3VnN1UXBKb2pYb1ZucmFrTkNtMXNHdzV6eDBWZlZxaVZCcjF4ZExGZE5FLV85LTJ3Q2hYUGVNaDJ1R2VVMTVQYVlZM2hBaHlrZE9vZDR3VkJwcFNCNlNHVnZ5Rnd3ZXBKblBRbEhLUk5FVUdsRjFXcENwSXpnOE9sOFF3OTF3Tk92LVpHU19SM215aC1iOVljV3hZbGxUOXBzSlZERUlFd1gxakVCU2IzT2FR?oc=5",
+     "date": "2026-11-16T17:04:00.000Z",
+     "text": "HSV-Schock vorm Nordderby: Polzin gehen die Optionen aus MOPO",
      "via": "MOPO"
     },
     {
@@ -313,13 +306,6 @@
      "via": "MOPO"
     },
     {
-     "title": "„Maximal overrated!“ Werder-Profi stichelt vor dem Derby gegen den HSV - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWtKQ3JsQWlCUy1oT08tb1BkQmNfVEh0bDA2Q0dYMUtCN05mdElFWUFjY1pybUxZcE5DbFJJRVZVUXNTbXA2enh3MldDU0dyYWtJSTlsQ2pIQ2JXTmFxNnVYemNDOHBiN1hKeC1kaFgyWFhMaVhKakVvbVp0STJ1NEhDa1c0eVFQYThrM0pWczY5MnJxTV9XUjRkNy1XZy1sa3RsLVAtS3k?oc=5",
-     "date": "2026-11-16T08:54:13.000Z",
-     "text": "„Maximal overrated!“ Werder-Profi stichelt vor dem Derby gegen den HSV MOPO",
-     "via": "MOPO"
-    },
-    {
      "title": "Vier Jahre gewartet: Vuskovic erlebt emotionalen Gänsehaut-Moment beim HSV - MOPO",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkVZWnR5Sk1yYldjSHE2RnNBajNXbTk2S2xsX21vX214OTF0a05jMFJFRFVaYktzOTZONUQ3REljdWZLcmZLdHc0R25yc3hRMVY4Yi15bzNJTTZnS3FXMUQ5aFRLenJVS203WW5BWUpFb1BaSWpWRmVOUFVhQUxRU2VYOFZENHNfcEtwbmFlbjl2a2l0R2NrVXM0VWM4QlhBRTdvY3RXaDJleFZQaTBlek1R?oc=5",
      "date": "2026-11-16T08:52:00.000Z",
@@ -327,11 +313,11 @@
      "via": "MOPO"
     },
     {
-     "title": "„Liegt mir fern“: So ordnet Polzin die Auftritte der HSV-Youngster ein - HSV24",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2w1U2MxS2xHelJnSjZzNG51VFlKSng3OG5IUzIyRGp0OUt6b3BYY3hSZ2tIY1RLZEtob2w4VDJzbzl2UGpHclBGZFRCeVVaSV93MmhyYjlUalJLb3NMaFRCTk4tUGR6bFZtVTZ3TVg2TzZUa0lBbFpLNkk1NHhFclhibWhKOVdBRGt0UEJOUFJtbUxobWgtQjFuWWFrcDc3MDYzU0cySGU?oc=5",
-     "date": "2026-11-16T21:25:00.000Z",
-     "text": "„Liegt mir fern“: So ordnet Polzin die Auftritte der HSV-Youngster ein HSV24",
-     "via": "HSV24"
+     "title": "„Maximal overrated!“ Werder-Profi stichelt vor dem Derby gegen den HSV - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWtKQ3JsQWlCUy1oT08tb1BkQmNfVEh0bDA2Q0dYMUtCN05mdElFWUFjY1pybUxZcE5DbFJJRVZVUXNTbXA2enh3MldDU0dyYWtJSTlsQ2pIQ2JXTmFxNnVYemNDOHBiN1hKeC1kaFgyWFhMaVhKakVvbVp0STJ1NEhDa1c0eVFQYThrM0pWczY5MnJxTV9XUjRkNy1XZy1sa3RsLVAtS3k?oc=5",
+     "date": "2026-11-16T08:54:13.000Z",
+     "text": "„Maximal overrated!“ Werder-Profi stichelt vor dem Derby gegen den HSV MOPO",
+     "via": "MOPO"
     },
     {
      "title": "Auch Bayern und Dortmund wollten ihn: Der irre Aufstieg von HSV-Juwel Lemke (17) - MOPO",
@@ -341,24 +327,10 @@
      "via": "MOPO"
     },
     {
-     "title": "Nach Kroatien-Sieg: Luka spricht über HSV-Comeback von Mario - HSV24",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONS1ZNUVya0Naa0J2ejg0QVZVTkJiYXVBSlNNOWFjWXNzLWUzc2FYRy1yMUZ0SkpIbmh3RUI3TDVLa2drT2ZKdUhnb1JoYUpXRnRlSlBJdHgxVThZLTBsWUtiX05JQlZwZ1RTR0l2UmEwSWlTVnpCX0tncUNYb0dwaldKY2t6bTlLRjRQY3JVeFdMUWFvTmtzYlVFdEhKbU0?oc=5",
-     "date": "2026-11-16T10:52:00.000Z",
-     "text": "Nach Kroatien-Sieg: Luka spricht über HSV-Comeback von Mario HSV24",
-     "via": "HSV24"
-    },
-    {
      "title": "„Darauf kann ich aufbauen“: HSV-Profi Jatta meldet sich mit besonderer Premiere zurück - MOPO",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSEIzNjJFZnRqYUxFSXJMTVpWeTgyY3FLTFRYS1A1SWhJdFJkWE9GdDl4Z0hZdUU3OGw3UUMwbHpuYVd5QkozQmtWeUlwVmg0cmJLU01EbkliRlgyYXdDaU1xek1wWWdoU3Foekx0QmFHV0RTQkU4TFg5RlhZUEZRN0ZBNm1McUZPbmJLbHFMMXpOd21DTUdXV2dzVF9IUElxNHNFbW94VE5oaVNrUk1HZ0FBcHVxeEtrODJUQUhxUQ?oc=5",
      "date": "2026-11-16T08:19:01.000Z",
      "text": "„Darauf kann ich aufbauen“: HSV-Profi Jatta meldet sich mit besonderer Premiere zurück MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Wie einst beim HSV: NFL-Star verletzt sich in München beim Jubeln - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTE5LREV0MTdKNnpIbG5RbldLcnJxTWdWYkVKUzFDR0ZIRWpxUjFiZkZILTVxbGxVWC1lUWpTWlpNU2Rzbm1UaTFiTGE0dF9RcGFZQ1IwN3lOZXZkbFY5c1gtblhfQWlnaWpBenlLaW9Tb0I1OEgyWEduN3FoM0t1eUwyMnd1ckNFYjNKVWRFWE5IQmNNQTNGZ0oxYmwzd2l5ZDdjVy13OEhyRWJv?oc=5",
-     "date": "2026-11-16T17:03:54.000Z",
-     "text": "Wie einst beim HSV: NFL-Star verletzt sich in München beim Jubeln MOPO",
      "via": "MOPO"
     },
     {
@@ -369,10 +341,101 @@
      "via": "MOPO"
     },
     {
-     "title": "Bereit fürs Nordderby: HSV-Stürmer Otto Stange trifft im DFB-Trikot - HSV24",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOUpnMzkyOU4wNFpvV3p4OTVyeDViVFV3RmZaNjVRbERQYzRqSXRFeVdCY3NFdkNCZ2xsNm9xVUl5WkRxaTZoT0EyZmVkd2dteTJ5RXpQU0EySi13NEROUmJreVUtazVBU3hOMlZpMTc0dVg4dGJrZmtmZFhnU0RzelFjZEhramxSYlNwcmptTXFIMEIzcldJOUlBRGFTWDBFZXNSR3ZCVDlnQQ?oc=5",
-     "date": "2026-11-16T17:08:00.000Z",
-     "text": "Bereit fürs Nordderby: HSV-Stürmer Otto Stange trifft im DFB-Trikot HSV24",
+     "title": "Vuskovic überrascht mit Traumquote! Alle Zahlen: So lief das HSV-Comeback des Kroaten - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFcxT3RzWl9La0lOLWdibm13bGxFTWdvNXZ0YWwxX29IRGVPbjk2c0ExbFNOei0xa29GdmZhdzlRM3Vob09YZjd3M1U1S2dmMEJvYTR6bDZhX3JfS2VZSjA2eTNFWU5zX1ZQWnhCcnNjRWlHQUJYSDNQOUxHOW5IYXRualk3elNUdUxLbWhfektHSURteE1WN01tX0U2M3VuQ3VpYS0yY0hpMmw2TEJEaWtlbF93QWtJS240Szlkcw?oc=5",
+     "date": "2026-11-15T19:58:44.000Z",
+     "text": "Vuskovic überrascht mit Traumquote! Alle Zahlen: So lief das HSV-Comeback des Kroaten MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Vuskovic verrät besondere Überraschung zum Geburtstag - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHdMcXQwVEo1RUJXa1RvQnBwVmdBdGM2WFZBY2JZZ251aFZWV3ZJLXpRRU9BeVI4S2ZYbjVNV3VaX2RCdzFvMHlPZHluT3NLVHU5bW9GTkZnR2FaMWpiU1FoZUFoRUx0d3lIYmt0MUpNTjNCWVdsWHFCWG5URElmTEdLMV9KWVc3WEtPbTdyalVtTTVDZzU2VGl2MGRpZjNzZldHTDNWT2lUR0FVSjZNcjRFV2xWZjg?oc=5",
+     "date": "2026-11-15T18:30:37.000Z",
+     "text": "Vuskovic verrät besondere Überraschung zum Geburtstag MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Wie einst beim HSV: NFL-Star verletzt sich in München beim Jubeln - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTE5LREV0MTdKNnpIbG5RbldLcnJxTWdWYkVKUzFDR0ZIRWpxUjFiZkZILTVxbGxVWC1lUWpTWlpNU2Rzbm1UaTFiTGE0dF9RcGFZQ1IwN3lOZXZkbFY5c1gtblhfQWlnaWpBenlLaW9Tb0I1OEgyWEduN3FoM0t1eUwyMnd1ckNFYjNKVWRFWE5IQmNNQTNGZ0oxYmwzd2l5ZDdjVy13OEhyRWJv?oc=5",
+     "date": "2026-11-16T17:03:54.000Z",
+     "text": "Wie einst beim HSV: NFL-Star verletzt sich in München beim Jubeln MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "HSV – Split im Liveticker: So läuft das Vuskovic-Comeback - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX281WVVnTnB0blRtX0tiazFZRjNuTWJIaU5CcUFOUkFTSWRQSHF6OVJzc1pTN21XTk5GbVc1SWxpZTFPVmhCYmhrNXlQaUpvXzA5emVQRG9ZZzZxdUVIUUNfejZwV1V1emVpZ2VXanpSMnpzMTdhXzhvQ3ZKd1c1cExQeW9MWHRRTjJJNTNoYmVBMmpjRXVRdHJvNE5zTG5abmV4dWxRWQ?oc=5",
+     "date": "2026-11-15T15:54:00.000Z",
+     "text": "HSV – Split im Liveticker: So läuft das Vuskovic-Comeback MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Nach 1467 Tagen: Vuskovic feiert sein HSV-Comeback - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3M1ZlV1QmVDNk51NnZkVDRKbGhaMXVOU2xyd3QxV3FJZUdVWTNOQW5LeUhlLWxOUmkwUlJFVG5nekY3X1FYaHBxRVF6MDZVczc5eXdNSWZIQ1E0a3ZzQlRwU1lORGkyREhLeFRhZzBSSWVzaXFEWmZKaWN1dmxXMUlYTS1kNWhVOU9sY1Y4bDVhNzI5TGprUUN5UUNweW56b2RtZjRrN0dZcTllME9OMXRwbw?oc=5",
+     "date": "2026-11-15T10:39:00.000Z",
+     "text": "Nach 1467 Tagen: Vuskovic feiert sein HSV-Comeback MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Vuskovic zurück: Der Volkspark erlebt einen Gänsehaut-Tag - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZXJYN1M0dEFRcFdESk1uVEl5MVhvUEhFbE5NVmoyQlpkcEZQTEkzQjhIMEhLRUNNcVNyLXpBZUhKSFNiRlh2T2ZseTZVWXBKYVdRb2lXcm5uTXZESEpDdmtLU3ZxajAxUVFYVEN4T2NaTmFzZHJPZXNVZjU1Q0oxcUEwak80TkpCTUQzcndkd3RTZ3NEeGR2N292QU1uQmpPRE5nNTVQUWlUaHMtNmZ3NmkzZm54U05kUHZ1aQ?oc=5",
+     "date": "2026-11-15T16:04:12.000Z",
+     "text": "Vuskovic zurück: Der Volkspark erlebt einen Gänsehaut-Tag MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Vom Boyband-Sänger zum Werder-Boss: Ansage an HSV - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTThMcksxVk9sX2loY3dhR1Z2MnduaERUUDF2VWhtMVhqSW84UXBhT0d3aUpVZ3p4dm9seUFrcDBycm5zOXdYRGltMjcydHU3WXdKUHRTczVIM3RPaEtpTV82Yy05TFVWXzU1M283eFNjVlhfc0dVSmFWb2hkTXdtaUlQWkFfUTVucXdPMVR4ZkhQSTBzSThFSTh3YzY5UVN5U3ZLdk5wOUlZM2NGWlhSN1BnLVUydWxRcmEwQm9R?oc=5",
+     "date": "2026-11-15T14:41:54.000Z",
+     "text": "Vom Boyband-Sänger zum Werder-Boss: Ansage an HSV MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Vuskovic kehrt zurück – doch beim HSV fehlt plötzlich alles - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUUJGX2NGQk1VZWl5eGYxTHNLakpTWWFPMDN3NFd0LVVWUHI1WWhVMmUwLUR4azZad2hJY2d4ZVVnTGFCbU52WjBaUXpGLVlTdXEzWDZ1TGF6SEcxUS1RcmJBaEIxN2xub24yNGlYYVdpclpMYTlnaW13Y0RsbjdvNjdSNWd5RFU1aGVrZlI2Rl9vVl9ObEJmSlV3aFhvaEEzMkN0ZEtYZEw?oc=5",
+     "date": "2026-11-15T10:56:28.000Z",
+     "text": "Vuskovic kehrt zurück – doch beim HSV fehlt plötzlich alles MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "HSV – Split im Liveticker: So läuft das Vuskovic-Comeback - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNG55aV9ON0RrWlZrendoSGRNSUF3SmVMTV8zTW1mWVZUN1NXQVF5SDA2OGNWd0pxZk1UUU1veEhtbUllelEwTkhnVmRSd2ZOWE96QTBjaEhlaVlJLUpiVndodnpEbThKejFGRll3dVJJcm9fcmNrRkJPS1RxMEtnX1lvOGZDM09IeXZBRkJ3R3lCOVVlVUFOS2hkeFg2b01tLWdLTTVhNE1INDNPRmhhRGtVQ01uVkJCT3JMc19xcFlMc2R2?oc=5",
+     "date": "2026-11-15T14:49:00.000Z",
+     "text": "HSV – Split im Liveticker: So läuft das Vuskovic-Comeback MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "„Es gab dunkle Phasen“: Vuskovic spricht vor HSV-Comeback über seine Leidenszeit - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeEx5V0VkOHJrUktWT1lDaFlKOVd3bU9aYjhNQUJjTXBKTFBGWlJtWU8xM3labWNmaHFTbG43ZzBuRjVwM1g1UkJxZlNsXzJhbkJjaVc0NDVZbW51dzZZekl5VlNLaHowOTlUR2lsS2hjQkpQR0Fxc1gwWTg0MEw3TXNEV3pZWlR1azRtMVRKVGNFQXY5WnZhVW5jY2ZOS1Z4OGtqbDZkcG9QTjR4aUxzYjROaGYxYW8?oc=5",
+     "date": "2026-11-15T09:30:29.000Z",
+     "text": "„Es gab dunkle Phasen“: Vuskovic spricht vor HSV-Comeback über seine Leidenszeit MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "(+) Vuskovic zurück: Wird er sofort HSV-Stammspieler? - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObk1lY2FTZEtnNEFqalp2ZjVxSnhaSXk0TkhHMG5iUFNsRUFPQ0xKTnZDSThaMUM4UUszOHNDS09jcDB3YVppZjNnQnd6SlBsZ1A1dmtaY0kzM09FY0NvZFJYeHpCVUJZVDk5TGQ1cElfX004T0dIdDRrVGpUalctZEtpZFRKRFJMdjBpbFdNRzBQazhWRWphVm9INXdPVzdJaElaNWdB?oc=5",
+     "date": "2026-11-15T07:17:43.000Z",
+     "text": "(+) Vuskovic zurück: Wird er sofort HSV-Stammspieler? MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Nach Kroatien-Sieg: Luka spricht über HSV-Comeback von Mario - HSV24",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONS1ZNUVya0Naa0J2ejg0QVZVTkJiYXVBSlNNOWFjWXNzLWUzc2FYRy1yMUZ0SkpIbmh3RUI3TDVLa2drT2ZKdUhnb1JoYUpXRnRlSlBJdHgxVThZLTBsWUtiX05JQlZwZ1RTR0l2UmEwSWlTVnpCX0tncUNYb0dwaldKY2t6bTlLRjRQY3JVeFdMUWFvTmtzYlVFdEhKbU0?oc=5",
+     "date": "2026-11-16T10:52:00.000Z",
+     "text": "Nach Kroatien-Sieg: Luka spricht über HSV-Comeback von Mario HSV24",
+     "via": "HSV24"
+    },
+    {
+     "title": "HSV – Split im Liveticker: So läuft das Vuskovic-Comeback - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3Q3NlNNaUc5UEVXZ1g1MEhwdHJNdEg0Zk5HQjc2RnF0WXk0VlBuLUVqUHZsa2FrWUFxV1Nya3lXSEFyZHk5WmpNMTVZVUF3d1hFZWJaNWhzcWE2NEFCQ3ptSF9pRXpUT2ZDREN3WkdwZVRCTWpzYXkzT0RKdUpHOXNUbV9Oay0tOFFnY19vajVtZW5mSUtZOUZsd1JSbWQ3VWFYTUx3VVQxMUk?oc=5",
+     "date": "2026-11-15T15:44:00.000Z",
+     "text": "HSV – Split im Liveticker: So läuft das Vuskovic-Comeback MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "„Liegt mir fern“: So ordnet Polzin die Auftritte der HSV-Youngster ein - HSV24",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2w1U2MxS2xHelJnSjZzNG51VFlKSng3OG5IUzIyRGp0OUt6b3BYY3hSZ2tIY1RLZEtob2w4VDJzbzl2UGpHclBGZFRCeVVaSV93MmhyYjlUalJLb3NMaFRCTk4tUGR6bFZtVTZ3TVg2TzZUa0lBbFpLNkk1NHhFclhibWhKOVdBRGt0UEJOUFJtbUxobWgtQjFuWWFrcDc3MDYzU0cySGU?oc=5",
+     "date": "2026-11-16T21:25:00.000Z",
+     "text": "„Liegt mir fern“: So ordnet Polzin die Auftritte der HSV-Youngster ein HSV24",
      "via": "HSV24"
     },
     {
@@ -380,6 +443,13 @@
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEl4ZEpiSGI5NnZrSFN5QjJMMy02bmZNVXpNdzl5cE1INDgzdkQybnVwTTdJakhvUWRTa3M2bmdWZDEzUE5TRnVscXlmbFRnMVFaa3pDVWNXbmU1SmhUVHBhQ2J0NWhSMkhodEstbHZfRlVFYTlyTVNGZjFzeWRCWWg3Q3VsSFBnUDRBNklQS1lDOS1tc1lWVVBKbw?oc=5",
      "date": "2026-11-16T14:09:00.000Z",
      "text": "Vuskovic-Einsätze in der U21? Das sagt HSV-Trainer Polzin HSV24",
+     "via": "HSV24"
+    },
+    {
+     "title": "Bereit fürs Nordderby: HSV-Stürmer Otto Stange trifft im DFB-Trikot - HSV24",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOUpnMzkyOU4wNFpvV3p4OTVyeDViVFV3RmZaNjVRbERQYzRqSXRFeVdCY3NFdkNCZ2xsNm9xVUl5WkRxaTZoT0EyZmVkd2dteTJ5RXpQU0EySi13NEROUmJreVUtazVBU3hOMlZpMTc0dVg4dGJrZmtmZFhnU0RzelFjZEhramxSYlNwcmptTXFIMEIzcldJOUlBRGFTWDBFZXNSR3ZCVDlnQQ?oc=5",
+     "date": "2026-11-16T17:08:00.000Z",
+     "text": "Bereit fürs Nordderby: HSV-Stürmer Otto Stange trifft im DFB-Trikot HSV24",
      "via": "HSV24"
     },
     {
@@ -404,39 +474,11 @@
      "via": "HSV24"
     },
     {
-     "title": "Vuskovic verrät besondere Überraschung zum Geburtstag - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHdMcXQwVEo1RUJXa1RvQnBwVmdBdGM2WFZBY2JZZ251aFZWV3ZJLXpRRU9BeVI4S2ZYbjVNV3VaX2RCdzFvMHlPZHluT3NLVHU5bW9GTkZnR2FaMWpiU1FoZUFoRUx0d3lIYmt0MUpNTjNCWVdsWHFCWG5URElmTEdLMV9KWVc3WEtPbTdyalVtTTVDZzU2VGl2MGRpZjNzZldHTDNWT2lUR0FVSjZNcjRFV2xWZjg?oc=5",
-     "date": "2026-11-15T18:30:37.000Z",
-     "text": "Vuskovic verrät besondere Überraschung zum Geburtstag MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "HSV – Split im Liveticker: So läuft das Vuskovic-Comeback - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX281WVVnTnB0blRtX0tiazFZRjNuTWJIaU5CcUFOUkFTSWRQSHF6OVJzc1pTN21XTk5GbVc1SWxpZTFPVmhCYmhrNXlQaUpvXzA5emVQRG9ZZzZxdUVIUUNfejZwV1V1emVpZ2VXanpSMnpzMTdhXzhvQ3ZKd1c1cExQeW9MWHRRTjJJNTNoYmVBMmpjRXVRdHJvNE5zTG5abmV4dWxRWQ?oc=5",
-     "date": "2026-11-15T15:54:00.000Z",
-     "text": "HSV – Split im Liveticker: So läuft das Vuskovic-Comeback MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Vuskovic zurück: Der Volkspark erlebt einen Gänsehaut-Tag - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZXJYN1M0dEFRcFdESk1uVEl5MVhvUEhFbE5NVmoyQlpkcEZQTEkzQjhIMEhLRUNNcVNyLXpBZUhKSFNiRlh2T2ZseTZVWXBKYVdRb2lXcm5uTXZESEpDdmtLU3ZxajAxUVFYVEN4T2NaTmFzZHJPZXNVZjU1Q0oxcUEwak80TkpCTUQzcndkd3RTZ3NEeGR2N292QU1uQmpPRE5nNTVQUWlUaHMtNmZ3NmkzZm54U05kUHZ1aQ?oc=5",
-     "date": "2026-11-15T16:04:12.000Z",
-     "text": "Vuskovic zurück: Der Volkspark erlebt einen Gänsehaut-Tag MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "HSV – Split im Liveticker: So läuft das Vuskovic-Comeback - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcFNOYXlzUGM4ZTRtZUtUY3Fydlk2QmthUnpLMXZPWV9OMzRReU1xcFMtcHl2Z2JodHQybjRvVXB1VnBVSEFnOXVxNTd6dk1UWWZ6SExULUNSb29yc1Fsb2lVX013NDNPODBObWlhZjYxbXpUWTR6bmlUVkxuOGM1dk9JUS1qdEVUVWpYRmNndjU5d050V18zLUZ1WFpvRlYyTFA4TGpWUUNXdlNobW5hQmotSQ?oc=5",
-     "date": "2026-11-15T15:26:00.000Z",
-     "text": "HSV – Split im Liveticker: So läuft das Vuskovic-Comeback MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "HSV – Split im Liveticker: So läuft das Vuskovic-Comeback - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3Q3NlNNaUc5UEVXZ1g1MEhwdHJNdEg0Zk5HQjc2RnF0WXk0VlBuLUVqUHZsa2FrWUFxV1Nya3lXSEFyZHk5WmpNMTVZVUF3d1hFZWJaNWhzcWE2NEFCQ3ptSF9pRXpUT2ZDREN3WkdwZVRCTWpzYXkzT0RKdUpHOXNUbV9Oay0tOFFnY19vajVtZW5mSUtZOUZsd1JSbWQ3VWFYTUx3VVQxMUk?oc=5",
-     "date": "2026-11-15T15:44:00.000Z",
-     "text": "HSV – Split im Liveticker: So läuft das Vuskovic-Comeback MOPO",
-     "via": "MOPO"
+     "title": "HSV ohne Sambi Lokonga gegen Werder Bremen? Das sagt Polzin - HSV24",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNjJfWl9nejR1Sk9xUlM0YnFhRnNXTkNLUXc2UFFmVTJmWVJqN2l2OTUyWk1wQkp4elllWHFpR1gtbXA0eG5hanUtTTdBY0ZoN2dVRFJINi1HS1FEX183XzZod3FUU3BaMFBKZHdCc2NSY3lYT0x0eGs2bm9mUUhpU0tCQ19VVEV2OGVEQlpNMHV0OTVualNn?oc=5",
+     "date": "2026-11-15T17:01:00.000Z",
+     "text": "HSV ohne Sambi Lokonga gegen Werder Bremen? Das sagt Polzin HSV24",
+     "via": "HSV24"
     },
     {
      "title": "HSV gegen Werder Bremen: So läuft die Nordderby-Woche - HSV24",
@@ -451,48 +493,6 @@
      "date": "2026-11-16T07:40:00.000Z",
      "text": "Überraschung beim HSV: Heute sehen sich die Vuskovic-Brüder HSV24",
      "via": "HSV24"
-    },
-    {
-     "title": "„Verdient verloren“: HSV-Leader mit klaren Worten zum Nordderby - HSV24",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHhhYnkxdHBFdjFNLUtNaXpjMlMtLU5ZeXM0UHdmXzFEWFlfeDdIZEtDSUcyTVhXVjFrTWVJVzU2Q2x0STVBcUVUVXMxRXBxbURtNi1Ha2k3QV9oQWQ2SkhqeHJEaTUtYTZjX1Nma1V1WkFsQUlWU1pQRzJLUGVVQllnNmxaNmVRckZkYWwzVno5bjg2bDQyemJzZlFWV3M?oc=5",
-     "date": "2026-11-16T13:07:02.000Z",
-     "text": "„Verdient verloren“: HSV-Leader mit klaren Worten zum Nordderby HSV24",
-     "via": "HSV24"
-    },
-    {
-     "title": "Bitter: Sambi Lokonga fehlt dem HSV in Bremen! Wer ihn ersetzen könnte - HSV24",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWE00Rm9DSnJiZlZKVEdJRjhucXdHc0lHemF6SjE0Sm9PbEItT1RBaWJhMWtELUN1LVRKNkdjcWZSUDR2dmEtZVdLclZWckZQaU15RkNqblc0a0JLMlRqMHh0UlpuUVZkT2VnTDlNVlJQSGNhT3RTRm1iSGlCM0FVTmIzOVVIRk1KWFhBN0tybjEwYTlxSUt6aGxERm9KZGFjMk5kY1BBd04zRlk?oc=5",
-     "date": "2026-11-16T16:14:00.000Z",
-     "text": "Bitter: Sambi Lokonga fehlt dem HSV in Bremen! Wer ihn ersetzen könnte HSV24",
-     "via": "HSV24"
-    },
-    {
-     "title": "Hajduk-Boss lockte Ex-HSV-Profi Sonny Kittel einst nach Polen - HSV24",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1ZCNFF6WW5WeG40QVlaLU9Sa2NmYVpteWsyWlJmUGc0T2pOc0RuR1ZkRXA0QjgzUTJMWW1sWkRBWHRrbGg2cUtkRkJOaWJhTUtKWFVzaGY1TGdybWxhN2p2MEExSmh1OVktTnpPQl9xUU5HS0tsZ2tqTFhOeXNIVGpGZmwzdW43dVBMckdfUmFETU1UeHRRLWJST1NMWGdf?oc=5",
-     "date": "2026-11-16T22:01:00.000Z",
-     "text": "Hajduk-Boss lockte Ex-HSV-Profi Sonny Kittel einst nach Polen HSV24",
-     "via": "HSV24"
-    },
-    {
-     "title": "Vom Boyband-Sänger zum Werder-Boss: Ansage an HSV - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTThMcksxVk9sX2loY3dhR1Z2MnduaERUUDF2VWhtMVhqSW84UXBhT0d3aUpVZ3p4dm9seUFrcDBycm5zOXdYRGltMjcydHU3WXdKUHRTczVIM3RPaEtpTV82Yy05TFVWXzU1M283eFNjVlhfc0dVSmFWb2hkTXdtaUlQWkFfUTVucXdPMVR4ZkhQSTBzSThFSTh3YzY5UVN5U3ZLdk5wOUlZM2NGWlhSN1BnLVUydWxRcmEwQm9R?oc=5",
-     "date": "2026-11-15T14:41:54.000Z",
-     "text": "Vom Boyband-Sänger zum Werder-Boss: Ansage an HSV MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Nach Ende von Ex-HSV-Boss Boldt: Hannover holt neuen Manager - HSV24",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEVIX0hKd3g3SmFhQlFxNlJZQ1RjMW9VRU9WSS1WQ2VpWkdnVUEzclhEczlfNWNnMTVtR0ZSVDhWUHBXX0IxQldFWlh0UW45S1dsWHhCd1A2c3VMZS1jd2JnNHRkNnlCSUxZVkFjb1Z0a0JfV0o4QmdaaHVUWlN2RXFfQW1ja0pleHYtWWR1aFhYTEgtVHZPRFYyTWEydw?oc=5",
-     "date": "2026-11-16T13:21:00.000Z",
-     "text": "Nach Ende von Ex-HSV-Boss Boldt: Hannover holt neuen Manager HSV24",
-     "via": "HSV24"
-    },
-    {
-     "title": "Vuskovic kehrt zurück – doch beim HSV fehlt plötzlich alles - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUUJGX2NGQk1VZWl5eGYxTHNLakpTWWFPMDN3NFd0LVVWUHI1WWhVMmUwLUR4azZad2hJY2d4ZVVnTGFCbU52WjBaUXpGLVlTdXEzWDZ1TGF6SEcxUS1RcmJBaEIxN2xub24yNGlYYVdpclpMYTlnaW13Y0RsbjdvNjdSNWd5RFU1aGVrZlI2Rl9vVl9ObEJmSlV3aFhvaEEzMkN0ZEtYZEw?oc=5",
-     "date": "2026-11-15T10:56:28.000Z",
-     "text": "Vuskovic kehrt zurück – doch beim HSV fehlt plötzlich alles MOPO",
-     "via": "MOPO"
     }
    ]
   },
@@ -850,9 +850,220 @@
   },
   {
    "name": "NDR (Google News)",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Nur HSV-Meldungen.",
+   "ok": true,
+   "items": [
+    {
+     "title": "\"Vier Jahre davon geträumt\": Vuskovic feiert emotionales HSV-Comeback - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3A0UlZWS3pUeDNEMzVLYVpsbHpGSTN3RHRDUGY1X1FXcDhDVXY4TEpSb2RJVlJ5SXRXQWZXclVHdC1TbjYyWDgtUVk5R3l4SWtaalVwcUdOOWtQT2YxYXVRVWdPMDl5ZjBTc0NJbjVCWU9mbk1SWGs4QzhVNzd1ZGVzVjB4SXRoMFBVVk1qblM1dnVXOUpWRXBvTGhlMm8?oc=5",
+     "date": "2026-11-15T19:41:07.000Z",
+     "text": "\"Vier Jahre davon geträumt\": Vuskovic feiert emotionales HSV-Comeback NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Mario Vušković zurück beim HSV - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnR4RHV0NEhzQlpYdjN3akFmMnQ3bElVaFl2Tl9qNTVBaWRrUnE0RlpLaG0wRWFmSmVKNXhSZ1JON2RLRkVQN21IT0dVOHYwVmJpUEVXVzdWUWt1MjFuSGY0M1Zsckk2RnM4Ny1CblZQWjdXV3g4MjhRaXBreXl0cnBEbl8xNHZvNU1pZzVrZw?oc=5",
+     "date": "2026-11-16T15:08:25.000Z",
+     "text": "Mario Vušković zurück beim HSV NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Mario Vuskovic feiert Comeback bei HSV-Testspiel gegen Split - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcDc1UHE4WGduYjdqNnJSa3N0Y29YV1ZCVktiSmg3cUx5ZU5OaXpLZThUcE1MTEs3MTVOcnk5TDhVZDdHaXdWZ1hleDdoNUxrdS1oWGRmbmM2YjBpWkNYWmZZNDdkNnJuRzBBbFdaalBWU2V6VkgwbFZkb2lLYlFEVGhpVW1TdEJsLTlVZjZubWhwaWtWeU16SEVhb01TZDZjN1QtaE5kcGhMMmtoaXBHaVNoWjgzdE5KR0xKUlRkRXFLeFlnaktwTDlrSQ?oc=5",
+     "date": "2026-11-15T21:05:47.000Z",
+     "text": "Mario Vuskovic feiert Comeback bei HSV-Testspiel gegen Split NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Vuskovic trägt wieder das HSV-Trikot - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaERPRW92U1VzTEZWTGRIQjNTdDVIRUlIRkMwcFNyX05Nb2FjSzJKczg2Vk9TUC1KOUVyV3VaYURWZGFjUVBnZWdMS2VsdWl2M05nODlRdnVJQWlIQVRILU95UzgtVlZHNkhTWlhwY3FxbVZfdFdLeU1LZFBnYnBYdkdyVl9rOUhzbGxvVDhWbw?oc=5",
+     "date": "2026-11-15T15:56:00.000Z",
+     "text": "Vuskovic trägt wieder das HSV-Trikot NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Spielstatistik Bay. München - 1. FC Köln - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UdEpJYjJkaFhMc2xpTGpVZWw4VmR4VlFTOUNVb3lrNjBhaXN2eHlNWklzdXdlMDJURG1jX05aZ0VxY050eVhpTENUVjNsNjgtQ190X29hanRCd3dCalEtUlIwUjVteWt4NkpLaw?oc=5",
+     "date": "2026-11-16T23:20:49.000Z",
+     "text": "Spielstatistik Bay. München - 1. FC Köln NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Mehr Nachrichten vom 16.11.2026 - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaVFKWGc5ZjlValpZd3REZklBNGVLRGs3T2k2a2lQY1ZxQ0tDcnZHQ0ItdGJMOVVPQ1hob1NhLUhRa3g2elNpQkIzX0xCXy1tamFrZHpCVm40cVpQSWt1TnJraFYxWVJWcUZoa3JFRWJ4SW9wcEV1dUZWWmRvQnZTQ1V5ODVIT2RudFJSbXVKQlFtZVR6RmtnbDlQcW9veHBQS3I0RUxqLU5rQnI2Tko2aw?oc=5",
+     "date": "2026-11-16T13:30:00.000Z",
+     "text": "Mehr Nachrichten vom 16.11.2026 NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "NDR Info 15:00 | 16.11.2026 - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LUmJxVWctZzMtajZ0bXRDMmRaQ3NBZWZXNU9QQ0VyelRPdk4tZzNkZWR2c2NtSlBOLW5hSDBjVFlYN1BWUE9wVWdiU0FtVjVIN2ZUOE9PN0RzeU52eHdMcDNqR0VwRC01cDllNWMxdVlfcGctRnVn?oc=5",
+     "date": "2026-11-16T20:45:00.000Z",
+     "text": "NDR Info 15:00 | 16.11.2026 NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Rückkehr nach langer Sperre - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaEZkM2lKQVhpRDViekhFMkpUbWQ4TEtpcHllSzI5SmhTQWNHVjhvbE5LbVFSRWZkRkFSNXpWem1oVmpJcHhkTkcweERWby0xSU02UHZGLXVtdGcyalU4VkZzU1ZTMm9HdEx1bDFXQ1Z3Ui1YY0N2TFNwbWhfQ0FkdHEtdHdPSmVVaV8wVWZIY2xvMDJvZEFvUFVoSjl1ZWtDbTAwX3RDZW9hU2dSNUV5RGlmRDJRaml4NmZz?oc=5",
+     "date": "2026-11-16T11:37:16.000Z",
+     "text": "Rückkehr nach langer Sperre NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Eintracht Braunschweig wählt Präsidium und Aufsichtsrat neu - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1RYcEl5RU5KSlRwLVdkNHZVSDNicE16R3BmYmJVbm9uVjliTzFmN25IMDJSUWZzaXdGNGhrVWczak44R0s2MWV6dUxWQ0xLX201bU5lOHR4cWtId0hycDdtMVoyZVk5ZWpQeDNGQ2NIUy1VZjB5SjltLVZQVDBtNXNYa1g5aWVMb0xsZ0dJMVFxMzN0NFRQc0toSHo3ZU5EZ25DMWFheFJMZHp2R3YycmxRYWs?oc=5",
+     "date": "2026-11-16T09:31:00.000Z",
+     "text": "Eintracht Braunschweig wählt Präsidium und Aufsichtsrat neu NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Verein \"tatkräftig e. V.\": Ehrenamtliche Helfer für einen Tag - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUllvZ2w1VmhITVY3bXVyQjVHckUzTnJubFdMY1pyUnY3VHdWQ3Z3YktQOXMyUkgwVk83dHRqUFBWQW93emNDUXNfMnlyRG14U29WN20yNmd1bWVZWndzX2t1dkYtY1lNMl9oSUZlTFNjTDdKaFZaOG0tWlpNM2FiVG5SWlZnR1NoUzVwaWdRLTVLa1J1MlhCRk5oTmpfQXJFRWJ4d1lSamtFV0JDbnRqWG5jQm5rTVlIVXgteVhVX3VnR21IRnZtcA?oc=5",
+     "date": "2026-11-15T21:05:41.000Z",
+     "text": "Verein \"tatkräftig e. V.\": Ehrenamtliche Helfer für einen Tag NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Ex-Nationalspielerin Kemme neu im Aufsichtsrat - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3JFUTlUWXA3QzNnSXQ0ZW1UakpXMVl2eDRDOURZcVhNUkg1MDBXZFlDRTJzcHdSZWRKbVJIZGlMZ0FfTGJJLWJhOVVyRi1ESVJaNS1WWW5qcC12VlRqNXZEa0tBNVVmQjhZMTlNaXdGTUg3RUxvTXNhY1dNcUJiM01BcTU3Z1dVZ19TUXBtV0t0cURnZDJZcmV3eldFcDNKNVRRb0pWeDFscWhGX0xDUGVR?oc=5",
+     "date": "2026-11-16T09:37:16.000Z",
+     "text": "Ex-Nationalspielerin Kemme neu im Aufsichtsrat NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Hannover wird zum Ruhr-Gebiet: 96 stellt neuen Sportdirektor vor - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlllUEo0RTZveVY1VUN1VG9lZzFpd051eG93QzV3R0N0NlMzR1ZBbW1ZRkkxQzhacGxOTGhuSGNqUmluQlF0Z1dmRlF0NVhIVEFzczI3Sko5dW5kU0YwVTFqYkxtY2I2WDJHZnppZ1FyTnNheFluNVFGandzVjNaVTAwUjl5bjljOEpsZ19ueVZqaDdpS0lONGoxVkFnZnJrM0U4LUxwakdtaXNBRnNTTHJRUEQtVUJ0MzBWNGc4MA?oc=5",
+     "date": "2026-11-16T11:27:39.000Z",
+     "text": "Hannover wird zum Ruhr-Gebiet: 96 stellt neuen Sportdirektor vor NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Hannover 96 holt Ruhr als Sportdirektor - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWN1MFRhZFlJWkk4VzI1WFhvN2hyajdkQmxlMEpVX3Q1Tk1SeDZ2d2dqenpVWXU3eDRrczdISEZCOFFZVTdBLWg2X1J1Vjk3NmNLTi00RWxuWmhVX0tWd1NLWWdCdnpTdEprYzVEMm9WSjBSYzBQY3V6aHVaNU5mbmFQV01yU3o4NWN6UWJDMVo2NXhkREloeGtHVUZ1N0JBR0RvdkZJUjZSdlgw?oc=5",
+     "date": "2026-11-16T11:26:00.000Z",
+     "text": "Hannover 96 holt Ruhr als Sportdirektor NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Salzgitter: Stahlbranche fordert mehr konkrete Zusagen - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaF9LcVFLMkhSb1lwMlhFNElQbUNGUjZpbHZKWUVlUDZybEJ5Sy1lcDU0N0I0Z2hCLVZvR2xjNjMtbm1pRF9nR21nMjhMbGlyU3pkUGdGUFNjNUZtZUIwREF1TmQyYU1OZHJoc2dQWUtSVmp4M2pFeUVON191QlhpVnM1NFAtRWM4bXJoY0xReldiSUI1eHFOdjFkcGdOQ0ZJTlBjVlZsRkkzWFVG?oc=5",
+     "date": "2026-11-16T15:02:45.000Z",
+     "text": "Salzgitter: Stahlbranche fordert mehr konkrete Zusagen NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Manuela Schwesig als Ministerpräsidentin in MV wiedergewählt - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb0p3d1VqVThBTnE3a3RnSUQxdnV5TG92X28xWTYySEhvRGhmQWR4ZTh4a3NmTmRpS2tsUlVkU0RqMklvVWt3VTdCaVJobGNIYnlMYkdxdXFHZlJtU09fNlBuNGkxZGVTSDI1ZVM2V2ZzTUFrMDJsLWRUVExsUm9URFl3T2Vfbm5XUF9HWGVHb1MweTNkcm0xVXVKYVVsaUJVNHI0RC1WbWpUcmhYMEhzR0VzWm5qZjJl?oc=5",
+     "date": "2026-11-16T16:33:05.000Z",
+     "text": "Manuela Schwesig als Ministerpräsidentin in MV wiedergewählt NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Negativserie hält an - THW Kiel unterliegt bei Füchsen Berlin - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQllxaFFsXzc5T1pNaGo4ZGd1b3hLYXh4SFNZRk9oVGp0OFk0UzJUMDdoX3FjTnF5LUU0Y0IzUlg0dzl0NXJsLUNXS1d3V25lUnhrQVI5Vy1QZlR5cUZaTmk2aXUtd0NIeC1RMUF4ckhJQlkzTkMyZ210N0E5enhPeUtLdGUxRHN5T3V6Z0lTYlBIdUllMEpJNGlIeTlscWlFcGNFT3FuZDZ4M3BhUE1SM3RGcw?oc=5",
+     "date": "2026-11-15T15:48:00.000Z",
+     "text": "Negativserie hält an - THW Kiel unterliegt bei Füchsen Berlin NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "TSV Hannover-Burgdorf verliert beim VfL Gummersbach - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYjJBSHVEMmd2MDVpMDIzaHRGR2NncXRLRFpGRjZ4czhJX2lLSFJkTC1XUHRuUi02Z29rWklOWWYyTDFlWlE0WUVQaDVNWWJMUkVtQ3Z3OWNwbmxUdk5LTUZGb05WRWEtcVVsdkJ4ZXRDb3hCNEhlSnNNZ1lVS0ZHMkx2TklJQWYzdHFJSWx2OE9qcUVIZU5lUEdKZUxUWm5WZ2k1YldTT2NsM1RkbHY0?oc=5",
+     "date": "2026-11-15T19:54:00.000Z",
+     "text": "TSV Hannover-Burgdorf verliert beim VfL Gummersbach NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Hamburg Towers und HC Hamburg: Zwei Clubs, zwei Sportarten, ein Problem - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdFJUMGhvM3ZmdTFsVTR4dWpxczZLc2pGMWJneGNSQXJWTGh1REt0Ulp1YzNDSTNCUVBwZVIzMnJOZkwtMjJ1YW4zWmVQbV9pRmhpNmMwVlNjbGlzTDFGZW5CZ2FnLWY0RUFkNTYta0ZGVDcwWVd6LVZsY0pqVVFpa0VjR1R6NGRBbWl6a0pQWG4tN1A2ZnB4VUxsQ0xyV05nbktsM2FKci01ZzhQM0pCVTlHVUJkMVJ6eWpjbE1BUVJraVZIdGIwZg?oc=5",
+     "date": "2026-11-16T13:36:00.000Z",
+     "text": "Hamburg Towers und HC Hamburg: Zwei Clubs, zwei Sportarten, ein Problem NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Leichtathletik-Talent Johanna Martin geht in die USA - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkJYUV9RcXVZNXZIa2Q4X3ZKNlZYdEpGMUZfVEdQUGstU2dQU2pJVUZ6ZzByNjdEbDBBUTJzQVgtSlNtT193UkswWkRjdkNKckFLVFg2YTVsYlJ5dnEtMTZlUFlnS1Y0TGtSRGRwZ0dXUl9Sa1pCM2FuVzNhbU1maTZwSnpMNEFYWjRiZ0gyeXFXeHFobXE4TzVWYTdCYkM2U1E?oc=5",
+     "date": "2026-11-16T15:26:15.000Z",
+     "text": "Leichtathletik-Talent Johanna Martin geht in die USA NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Das illegale Geschäft mit dem Torf - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLTNTQldJcUJQaFg1RTJGTFJqcHZfUUdYQWtiSWtsRWtWZWYzZVpRUXJKbEJaSDdjWTFYLXJ3b0JJTWJUanVjYjNTVlIwVVEyZ1dBYmRwaFlSZG93UFZ6am90YnVkbzNwalpQMmYxRVV3RWFxeGtmY3hGaDZPLUdwWTRKR0lRX0g4U1owR24tMHVtNHlT?oc=5",
+     "date": "2026-11-16T15:27:16.000Z",
+     "text": "Das illegale Geschäft mit dem Torf NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Hamburgs Wirtschaftssenatorin Leonhard besucht Finnland - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEs2UUctQ0pZZWV0cE40YzEyQkdaTGNxeG94THZEbEdabjN6dUZReGlxYVBVc09Kckc5WnFlc1hGdWs1TEZIRjE1bC1LWmRnMFBocjc4YVpXbUt3QXhyQk93QUpVZlMtcUFIMmVQNTBmN01LY3VBbFNQaWpYZUN6UDJ6STFmMmZVWXkyYlVXaHhZUklhRFpueE93X1M2MWQ0djdzZTk3VnVQbUtFcFZBVnIzR1lSZw?oc=5",
+     "date": "2026-11-15T11:07:04.000Z",
+     "text": "Hamburgs Wirtschaftssenatorin Leonhard besucht Finnland NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Stade: Fünftes Deutsches LNG-Terminal eröffnet - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSnB1UVJzallWeXc1d1VEZTljd1VBY2I0S0FQbTY1VkVHMEdHeW85cXdDQUlVQ3A5V29yRGc2b0lvd0Z4T3pNNWlodU1IMlFUZmVOcHZaZ3Vscm9PT2FWazN2STRCUmgzQ1JfMXA0dWotR0t3M3AtSVZxZlNjMUpGRGxRcGlDYlZycEF6ekc4ck8tOXlPMFYxbEtyNVZOMk1tYzlUag?oc=5",
+     "date": "2026-11-16T20:45:00.000Z",
+     "text": "Stade: Fünftes Deutsches LNG-Terminal eröffnet NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Heftige Kritik an Selbstzahler-Terminen für Kassenpatienten - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT3liM3RDOGtvZUg2eWlPZVFVQmwtb0Y3b0R0X3k3aWpyMWhPN3Jtbm1rZWZXYTZaLXUwcEo5RVZBQ1NnOHNaOGlaX0tEVDRhaHlQQzBoY0FUTkFGdHJfLWdMOXgwSVEwXzliWFZBcjVyYkxpYjFTdGo0RU1McmNJWlEtdlhXcXhtb3BLckNtaXBjZHhQa3hhQzhYX285eWJxSHZnekRTY1VYY243aF81R205Z20xQQ?oc=5",
+     "date": "2026-11-16T21:03:48.000Z",
+     "text": "Heftige Kritik an Selbstzahler-Terminen für Kassenpatienten NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "NDR Info 17:00 | 16.11.2026 - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkJMZEZIZE4zWGZPYWRtZ1NvTFl3SndjVW42WUNaZkN4Z2dsWFE4X2JjbVUwVjZGUUhFdXJHVGZQaGFZMnlHTEhkR3JXSFB1TmU1OUxUTXctbXBfN1o5OUxGZGJDRkowRVhBWkN6MWJ3MENPY214bmIxcFA1UUt3N1lqdw?oc=5",
+     "date": "2026-11-16T16:16:52.000Z",
+     "text": "NDR Info 17:00 | 16.11.2026 NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Unfall in Barmbek-Nord: Rettungswagen stößt mit Pkw zusammen - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmwxUGZHRFZ2N1U0ZUtyZjZ0NDJpdkdnTGplZ1djR3FwazlIRzNpN2lDN2ZuNTNkNUFJaWZGdDl3cTBRQjg1a3ZoZ09ySFJxZGJPYW5JN2JKRUJxU2JpMF93TzZzZVQ2aU5sY1NsazJxaTdmZV92TkJXVU1HeldWYldqQkhZQWZ0bG4xZ29jeVZ2U0R6ZVJ6NW1rVGxQU1dHMUxaME9rZk5xNmdINXc4MXpveWlxQUpsVHc?oc=5",
+     "date": "2026-11-15T09:08:40.000Z",
+     "text": "Unfall in Barmbek-Nord: Rettungswagen stößt mit Pkw zusammen NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Stahlgipfel in Salzgitter: Branche sucht Wege aus der Krise - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmRMVzdIeUloZUZRYm0yTXk2LTJaVW54dER2NnlTOHAyME9ocE51aTZEcndDVGlGd3BNbWdmb1FTUjV4OWVDYUVQV19LSDhBMWFOY3B4SGQxM01mSUhWSXlrRFNJOXcyTVlVRTR3VF9zLVBtOG96alhzNWhkc0lhWmNscHEwejQ5RDhNa3pYQU4tXzF6bXM4NzBUN1pmQ2k5Mnd1eHBMb3RjbHNDeDNacF9vNA?oc=5",
+     "date": "2026-11-16T21:05:07.000Z",
+     "text": "Stahlgipfel in Salzgitter: Branche sucht Wege aus der Krise NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Flensburgs Pytlick nach Pleite in Magdeburg enttäuscht - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb04wWFlOemctZ0Y2UDJuRFpfLXFycmhuNDNYdjIzWmxDaVZsV2hEZVhJa1pHRkJFRkhRM01ucTM3NW9wdF9VSnRmSFN0bGY1WFZnMkRyU3plTThqTHFjeFFmNzd0LWRUTFlRSmdUSUtrSFNiZWMwTktFTEZHNFFVcnBodEI4ejBCQzNSeHpoN0hOZG04SlpTWlJwWnJqT2d5ZU9GMTZ2eDJEaXRm?oc=5",
+     "date": "2026-11-15T16:19:00.000Z",
+     "text": "Flensburgs Pytlick nach Pleite in Magdeburg enttäuscht NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "NDR Info 21:45 | 16.11.2026 - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFpjc21UcmJQbk1zQllfU25ZQkhWdUVlTC1xYUpXWGVob1djRGFwdGFhamJKYkZONFhtbk1hRGo5UU56aTJST2dzTDdhVDR1eHgtYkVXS0dxUFB5ZEphMFJndDFJSFZRYzRkUUNsekNoaG5YSEFES3JQWDQwNGdEaG5Idw?oc=5",
+     "date": "2026-11-16T21:09:31.000Z",
+     "text": "NDR Info 21:45 | 16.11.2026 NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Schwesig im ersten Wahlgang wiedergewählt - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUk9SRWxoTFBUdGVQZkhQN0RtQUlRSkl1ZDBpQ0VEdVkweDlMMk9DdmJkcVNMNnlSaW5OR19WQWdSR2VEd0ZJeEZyMzNJM2NNbHFMSkx6XzVvaHhyZ2hHWjFyRy1HNW9jQjAzNkVERjhOZUdHMFVOY2luOURmaXgwRWZ2RFVDWnB1VjY5WnMyRFdVem1CTEROOTdmZUFBUQ?oc=5",
+     "date": "2026-11-16T15:27:18.000Z",
+     "text": "Schwesig im ersten Wahlgang wiedergewählt NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Dritte Amtszeit: Manuela Schwesig zur Landeschefin gewählt - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXRvXzI5NVZFa0dVdWdjRGhsV0xYMUlMOEZaM2xZMUEzT3A1UUh4aWlMZWpsUFFCLXYwYXNzYkFQVzg1V3FRRV94LXkwM3ZNZWFBcWF2R3NCVHlhdXBPdXBTbWpxM1pxTnAzWjk5YW8yMmpWcnVTcVZINHpNVy12UzVFM1JXWGJsb01xWk0yYmlQSVQyRWIxYmllSlE5anAwdVFuN0tjUVFVRmU0Ti04NVVvdw?oc=5",
+     "date": "2026-11-16T21:02:46.000Z",
+     "text": "Dritte Amtszeit: Manuela Schwesig zur Landeschefin gewählt NDR.de",
+     "via": "NDR.de"
+    }
+   ]
   },
   {
    "name": "Sportschau (Google News)",
@@ -898,38 +1109,9 @@
   },
   {
    "name": "SPORT1 (Google News)",
-   "focus": "Nur HSV-Meldungen, keine Gerüchte ohne Quelle.",
-   "ok": true,
-   "items": [
-    {
-     "title": "\"Ich habe Kane sehr geholfen, den Ballon d'Or zu gewinnen\" - SPORT1",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMW5IelF6Vk14UWREdm40cnVqSExranY5SEdWM1YtZmh1b2dXZHVtZUFITDlXMVZmT0l1aktMTmtRYUFXMzdlMzV5dGlHYUxRTTBhaUhoNi15TXpoUTc1MjhVX2wtR2xwMTlfRmZFRFJHTWtBUGlNdnN5SzlIWkYtNWZySXZPaFY0T2hXbTFDbXcwVkljeGZHeHY2RG5IUnV6Q01YcEdNQTRGemZyUGM5NWJTOENyOENlRDB5a25fNFpHU3hYdkhSajJB?oc=5",
-     "date": "2026-11-16T10:52:00.000Z",
-     "text": "\"Ich habe Kane sehr geholfen, den Ballon d'Or zu gewinnen\" SPORT1",
-     "via": "SPORT1"
-    },
-    {
-     "title": "Hamburg: Auch Vizekapitän Sambi Lokonga verletzt - SPORT1",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0hoMmtjSjdYbGk1cGFOR2U0eDVtRXZTeTg1bi01bDlXVnlNSlNXemQ4U1VBWU5QRnFncFZYT2p1N0dtQ3A5X09Bam9XcTlKQW1uc3YzZ3NWSVRlNTVCN05sVGhWVnJ5VlduLXdoTGxlUEhUclRFSlZ3dzVEY3Q0LUxhSGptWm5vbzhvWElyYjNHOHc1X0gxeXIzLXhLVlZwMXhPekFR?oc=5",
-     "date": "2026-11-16T17:38:00.000Z",
-     "text": "Hamburg: Auch Vizekapitän Sambi Lokonga verletzt SPORT1",
-     "via": "SPORT1"
-    },
-    {
-     "title": "Über 50.000 bei Vuskovic-Comeback nach Dopingsperre - SPORT1",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3JCZldYNy0zbWE1ZXc4bXpzQ0NVVDhJeE5nTHRmN2xsMHBKd2hmc0tlR1pqSmRmTnRsNGQ4aFE3ZmNtVUhDQnZHdU1CanhIYjZjYVNRYXhkYjdRUFRqVmVhVWI3cnoyY2VwVlJIb204S29MMU9obVZTa09zbTE1dW1scGw2Y3VlVEtrWnd2R1FHRzhLU3JlRktFVWhlaDIzaWlMa1R2S2ZqUWM?oc=5",
-     "date": "2026-11-15T15:59:00.000Z",
-     "text": "Über 50.000 bei Vuskovic-Comeback nach Dopingsperre SPORT1",
-     "via": "SPORT1"
-    },
-    {
-     "title": "HSV-Profi Vuskovic vor Comeback: \"Aufgeben ist keine Option\" - SPORT1",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblhBWkJ0V1ZfM1RDMWc1TXBkUjJEVDV6OHoybkJaQnhBNmR2bTRfaUZsbWFwZzZuRml4SkNydVBxTzVhbUVjYlpqZTl0YnA2SFVFeGlXZDEybGNjWVJpNjVvOWlZaGtGeGZIellIRU5JVHNiLUtFQm5IZzJjZi1FN3ItT0owRnd2RWN3aklJLW10X1Q3bnFpZHFuc3JHSjRwU3c3VmNZZnpsXzhtNF9MaXp3?oc=5",
-     "date": "2026-11-15T10:28:00.000Z",
-     "text": "HSV-Profi Vuskovic vor Comeback: \"Aufgeben ist keine Option\" SPORT1",
-     "via": "SPORT1"
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 429",
+   "items": []
   },
   {
    "name": "Sportschau Bundesliga",
@@ -952,73 +1134,9 @@
   },
   {
    "name": "Google News: HSV Frauen & Nachwuchs",
-   "focus": "Frauen, zweite Mannschaft, Nachwuchs. Reicht 7 Tage zurück.",
-   "ok": true,
-   "items": [
-    {
-     "title": "HSV-Splitter – der Liveticker rund um die Rothosen - HSV",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UYnZmS3AxQi1oUzNxMDdZdDdDVFItNUJiVjdHSURDbWxQbVVfVUowYm84S2l1eGNDLUctOEhWME5lS0dYbFhpTWJ4eU4?oc=5",
-     "date": "2026-11-17T04:58:09.000Z",
-     "text": "HSV-Splitter – der Liveticker rund um die Rothosen HSV",
-     "via": "HSV"
-    },
-    {
-     "title": "Kantersieg im Kellerduell - HSV-Frauen gewinnen mühelos gegen Mainz - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2hEdDd0NjhUWjRKb3ZfbUdRdEFiVzRDU3FVQWd5TGxHemVPejE2S2c1OXhYMklLczVQVTZzbFFFNTlmeHNGSDQ1SlFTekIwb3UtZUJDUVF0aXZXTGVtQmtnR3hDQ1dXaGZwUXZIU2ktdVd4MWpaak10aWphRjB6dVpzU092U2d5OTFZRTlmVF9obHhOdmU0cGVYLTFJNmFjSjFHd005aVVCZFpTSVdNMHVwSGRnMElBTGdfN2dn?oc=5",
-     "date": "2026-11-13T20:04:37.000Z",
-     "text": "Kantersieg im Kellerduell - HSV-Frauen gewinnen mühelos gegen Mainz NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Kickers Emden beendet Durststrecke mit Kantersieg beim HSV II - FuPa ⚽️",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0oxZGJFRWpsclVFWTREbFJKYk9xdUR4X1NzX1dnd1FzLXh5bVRSblhTZVA5cGdobFJGTTBlN0hDUF9CN3hYSHUwMUFyRE9VT2RzV2dQbndJSnRMaWs4d0F0SzdNbkNlcHEwNWN4SWZDTlFOaWlsdU5MdElfRmZBM01tbEhoM3NQT0N0c2lHbENFN3NHUV82akF0NA?oc=5",
-     "date": "2026-11-16T18:30:00.000Z",
-     "text": "Kickers Emden beendet Durststrecke mit Kantersieg beim HSV II FuPa ⚽️",
-     "via": "FuPa ⚽️"
-    },
-    {
-     "title": "HSV-Frauen feiern besonderen Abend im Volkspark - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVJ1bGRXV0ZOQjJIOXZJV1dISzJPQzB4M0V1ZjBYSHN2Q1Y0YVA0aHZZNG8yTG1pQ0t1dFZQemFBd190OUxmSkNnbDl1NHFfTWZOUFlHdGJ4UC1UOGg1TXI2SDRYd04yVEc5aUpIUXZVNHRUUy1lVlMtRE9aVnFTZWs5R0ljczVIaU5LTjVacmFvaFNMTlozbGR5UnlQUHFMZXV0UktZaHBHN3B3NzJ2N1B5eEFpTzRM?oc=5",
-     "date": "2026-11-13T19:49:58.000Z",
-     "text": "HSV-Frauen feiern besonderen Abend im Volkspark MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Regionalliga: Kickers Emden gewinnt 5:1 beim HSV II - Liveticker zum Nachlesen - OZ online",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0dVcE9vTzhSRjF0OHJFdDBTMWZhM0ZlVjNuRi1xeE5OMmNXMVlvUklhQnRyUDFSVHFUNTQ0UE1oTGhYWkpCZjVxMlkxVEE3RFl6YnBCTWlGUEhpbWdOOXFSYlBxRkJJenhxV3h4a2g0b2l0S3h5b080aU1wRmRWeDRDTnhjdnhiYlNTa3NKVE5yVC1EblVaSE9ySURKanRNWDBuMGFn?oc=5",
-     "date": "2026-11-14T14:53:00.000Z",
-     "text": "Regionalliga: Kickers Emden gewinnt 5:1 beim HSV II - Liveticker zum Nachlesen OZ online",
-     "via": "OZ online"
-    },
-    {
-     "title": "HSV Frauen gegen Mainz 05 heute live: Wer überträgt im TV und Stream? - swp.de",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVERiZHlhTnljMUJBd0gyWHJtOXRKYjl6ZXlHbUc5UFl1Zl9kUVQ5dUNlaE9GRVBhbWRrTUREN1B4SXFfNXgxSjFZWGsyZ3ZwVlBiOGJJUG9QRkJIdFZiMm1memRaX2pVdnI1RVZYUGFBbzBLZ0hWcERmdGs1Rm9wNmU3MWRGd1JOdVVYQzM1ajJZMUNTMktYVzB2Y3pfcGo2cG90aFIzSmprZXhYRVhpRVpPTkFKU2VhblE?oc=5",
-     "date": "2026-11-13T07:07:00.000Z",
-     "text": "HSV Frauen gegen Mainz 05 heute live: Wer überträgt im TV und Stream? swp.de",
-     "via": "swp.de"
-    },
-    {
-     "title": "HSV braucht dringend Sieg: Hier läuft das Spiel gegen Mainz 05 jetzt live im TV - t-online – Hamburg",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdGp1VVZHTXNPdGc0NEJBWkszTVlPeVNWeUpHOHd6WmZaeWdSYTBLYWdGek4wVUtiWG1nMUVfb3VmcVgzVHdmNWRyRjNPWEZHdkFJVFQwcnc2NmtUTVJzcHFWSGpZZVpoRDBuTE10M0RKb01YNUhoZ2pXVGswVnZsM3lkdWxvbDZXcTg2OXZvZ0VBU1B4WElBSzMxTVpMRjVpcENtZjhBWEViN1pIa2JyUXJjX2oyUjVwc0dhWjBrRjBpdi1SZkNwTHpWOTVBNVRh?oc=5",
-     "date": "2026-11-13T13:23:00.000Z",
-     "text": "HSV braucht dringend Sieg: Hier läuft das Spiel gegen Mainz 05 jetzt live im TV t-online – Hamburg",
-     "via": "t-online – Hamburg"
-    },
-    {
-     "title": "Norderstedt muss nach Lübeck, HSV II sollte gegen Emden punkten - FuPa ⚽️",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXNCSjJKTFYwQS1iSHZWNkVldG9VT2xSMlF5M1V4SEhLSFAyOEdpd0FQdEZUNWdXN2JOLXU1dU9KXzJscVhTc0NGOHoxcXQxbFJCZnNDSzBDSjV1N3pmb0ljcHRPRldPWEU2QmNIMDI5UDJRQ0trNE5ta3FhWHBEb1JvRXQ3enh0dGc5X3dvUzdsN3NJb2FEUmdNVzN1dw?oc=5",
-     "date": "2026-11-12T18:21:00.000Z",
-     "text": "Norderstedt muss nach Lübeck, HSV II sollte gegen Emden punkten FuPa ⚽️",
-     "via": "FuPa ⚽️"
-    },
-    {
-     "title": "Rückrundenstart: Kickers Emden will sich nach Spezialtraining gegen HSV II belohnen - OZ online",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMW1TQndkamswaTNGV0ZhM2ZDNzJlOUFWb3VyUmFqaWtacHVGckY3UVNoV215Um8tSDZSZEJhSW9PZUpWamhrbXpXWi0yQTgwZ1pNSDFGZUFSZENTRU9BSXVob1llenFCWmZXTElWc3c3MWZ6MmNWZmZjWDNIeDR3Y2FOQVRNMGZWWU4wUXVUdGpnclN6bUhobWR3U29tTExYMWxIVWp2ZzFYUGs?oc=5",
-     "date": "2026-11-13T14:46:00.000Z",
-     "text": "Rückrundenstart: Kickers Emden will sich nach Spezialtraining gegen HSV II belohnen OZ online",
-     "via": "OZ online"
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 429",
+   "items": []
   }
  ]
 }

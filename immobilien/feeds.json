@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T05:20:21.771Z",
+ "fetched": "2026-11-17T05:22:04.971Z",
  "hours": 48,
  "sources": [
   {
@@ -382,6 +382,12 @@
      "text": "Im Hamburger Prozess um die Sprengung der Nord-Stream-Pipelines in der Ostsee ging es um das Verhalten des mutmaßlichen Sabotage-Teams."
     },
     {
+     "title": "Zwei Verletzte bei Unfall in der Nähe des Hamburger Flughafens",
+     "url": "https://www.ndr.de/nachrichten/hamburg/zwei-verletzte-bei-unfall-in-der-naehe-des-hamburger-flughafens,kurzehh-4914.html",
+     "date": "2026-11-17T05:18:23.000Z",
+     "text": "In der Nähe des Hamburger Flughafens sind am Montagabend zwei Autos zusammengestoßen. Ein Autofahrer wurde schwer, der andere leicht verletzt."
+    },
+    {
      "title": "Blockade an HAW Hamburg: Studierende protestieren gegen Kürzungen",
      "url": "https://www.ndr.de/nachrichten/hamburg/blockade-an-haw-hamburg-studierende-protestieren-gegen-kuerzungen,kurzehh-4912.html",
      "date": "2026-11-16T19:28:00.000Z",
@@ -392,12 +398,6 @@
      "url": "https://www.ndr.de/nachrichten/hamburg/haftanstalt-gefangener-attackiert-pflegekraft,kurzehh-4908.html",
      "date": "2026-11-15T11:09:32.000Z",
      "text": "Die Frau wurde in die Krankenstation gerufen und dort unvermittelt angegriffen und geschlagen. Ihre Kollegen kamen schnell zu Hilfe."
-    },
-    {
-     "title": "Hamburgs Wirtschaftssenatorin Leonhard besucht Finnland",
-     "url": "https://www.ndr.de/nachrichten/hamburg/kooperation-wirtschaftssenatorin-leonhard-besucht-finnland,kurzehh-4904.html",
-     "date": "2026-11-15T11:07:04.000Z",
-     "text": "Bei ihrer mehrtägigen Reise geht es um IT, kritische Infrastruktur und Zivilschutz. Begleitet wird Leonhard von einer 40-köpfigen Delegation."
     },
     {
      "title": "Neue Verkehrsführung am Eppendorfer Markt",
@@ -702,6 +702,12 @@
    "ok": true,
    "items": [
     {
+     "title": "Börse am 16. November: Sieben Punkte, die für Anleger wichtig sind",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+     "date": "2026-11-17T05:20:00.000Z",
+     "text": "Nach einem neuen Rekord am vergangenen Donnerstag blicken Anleger zum Wochenbeginn auf zahlreiche Konjunkturzahlen. Steht dem Dax eine weitere Gewinnwoche bevor?"
+    },
+    {
      "title": "Morning Briefing Podcast: Auto: Elon Musk sieht, was deutsche Autobauer nicht sehen",
      "url": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-auto-elon-musk-sieht-was-deutsche-autobauer-nicht-sehen/100270421.html",
      "date": "2026-11-17T05:03:13.000Z",
@@ -874,12 +880,6 @@
      "url": "https://www.handelsblatt.com/politik/international/flugverkehr-us-fluggesellschaft-united-airlines-behebt-grossflaechige-it-stoerung/100270372.html",
      "date": "2026-11-16T22:52:31.000Z",
      "text": "Noch immer sind in den USA die Nachwehen des großen Flugstopps von Freitag zu spüren – zugleich meldet eine Airline neue Probleme."
-    },
-    {
-     "title": "US-Elektroautobauer: Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
-     "url": "https://www.handelsblatt.com/politik/deutschland/us-elektroautobauer-tesla-will-drei-milliarden-euro-in-werk-in-gruenheide-stecken/100270272.html",
-     "date": "2026-11-16T21:10:43.000Z",
-     "text": "Pläne für einen Ausbau der Tesla-Fabrik in Grünheide bei Berlin gibt es schon länger. Nun nennt das Unternehmen konkrete Zahlen. In ein paar Jahren sollen autonome Cybercabs vom Band rollen."
     }
    ]
   },
@@ -931,8 +931,8 @@
   },
   {
    "name": "Google News: Makler-Berichte Hamburg",
-   "focus": "Marktberichte großer Makler zu Hamburg (Büro, Wohnen, Investment). Reicht 14 Tage zurück; nur Berichte, keine Werbung.",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 429",
    "items": []
   }
  ]
