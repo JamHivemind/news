@@ -1,12 +1,223 @@
 {
- "fetched": "2026-11-17T05:17:01.303Z",
+ "fetched": "2026-11-17T05:18:46.983Z",
  "hours": 48,
  "sources": [
   {
    "name": "Anthropic (Google News)",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Neue Claude-Modelle, Funktionen, Claude Code, Produkt-Updates. Bevorzugt Einträge von anthropic.com",
+   "ok": true,
+   "items": [
+    {
+     "title": "The Anthropic IPO Is Coming. I Wouldn't Buy on Day 1, I'd Do This Instead - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVlncHhXUkVTcDZ3cFFWVU9ZWWtHX2FZLUN4MThsLTlwNkpyUTVIRGR1Z2VQZXFsblVFOWNncnF0VkJiNFNrZUtmcUQzRTd4TV9RRW13cFdUNTdaTmJvaklsRmU3UjNfSWx2NHJQV3R3RGtoY3UtcUxJX0d4SW5DeUFWSFNBRzYwckZ4Z1F1TkZYUV9xVDRMVGhmNW9uZw?oc=5",
+     "date": "2026-11-16T20:55:02.000Z",
+     "text": "The Anthropic IPO Is Coming. I Wouldn't Buy on Day 1, I'd Do This Instead Yahoo Finance",
+     "via": "Yahoo Finance"
+    },
+    {
+     "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
+     "date": "2026-11-16T23:45:50.000Z",
+     "text": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO - CNBC",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWsta3NJMEZJLTlRcHl5TGVlU0oyODVkT2xJV3NmWWR2dXhOSTZCeTBRSFlQV180eTNHbW9hM0ZwaTZaejNQMUU4SHZpQm5aRnFodkNrQVFrNUFTV2I5bHBJUk5URDFmTm1UQnRQcXpVbDgyb3hreGowR0otMDZweHVMbFhuT1A4MWpyNnNPc2VJNUZOckhaQWR2cWxGZEHSAaQBQVVfeXFMT2ZTeDRvb2NxdVZfVUNtelBYSGVjY1NodS1UVXJxb21CV05PYkVLOEN4VGpUa0Y0bXRVaHdJQlN5dzY4U1pRakxpMjVod05TSnU5UmVJel9pRkhReDlNd1ZuOWNDSGxRU0RjaGdDdUsxTVduRGdXU0RPQmlBTFdpRjdnT3h3LVJ5WEk2c3cxUFozeGVGZEhWSFdkRnNoVHdPOFptLWw?oc=5",
+     "date": "2026-11-16T17:50:09.000Z",
+     "text": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO CNBC",
+     "via": "CNBC"
+    },
+    {
+     "title": "Anthropic IPO: Which Funds Own It, and Which ETFs Will Follow? - Morningstar",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmsxZEZzYml5YzdXODI5S1BJS2xhTDN2UWhTZ09ubmVnTFdCOWVhNUtLY0NTTGEwUGpYdnNLZHBCS1N0aWVOMGg3b1NORkljU3BZUjZsazE1dGlzYUhnSlAtZEs3YTdtaVY2VnhpSHdMa0YxUkxoWEpZUE9kRWF5WHI3LTBzMHI5Vk5KUnZJanpvdE1yWWtMRmhOY24yX3c?oc=5",
+     "date": "2026-11-16T15:55:19.000Z",
+     "text": "Anthropic IPO: Which Funds Own It, and Which ETFs Will Follow? Morningstar",
+     "via": "Morningstar"
+    },
+    {
+     "title": "Anthropic has an unusual plan to keep its employees from insider trading - Business Insider",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjNSSlhMdnBsYUNPLUZ4YV83aXcxUXBvYVBnblEtNWt3cjktWmlxdlNUalFKTUlXcEhjSkNmNjBOelJGcDZwYkZ4UkdrTzlkZmVic1d2R1dTMDk0dG1ialljZlZMcldvb3p2OXdBQVFxTzE2a1FxSFdUQmlhYmViazRLZHBHbWZySGxiTGdodmphUWozMGI2M193bUVBdw?oc=5",
+     "date": "2026-11-16T20:12:00.000Z",
+     "text": "Anthropic has an unusual plan to keep its employees from insider trading Business Insider",
+     "via": "Business Insider"
+    },
+    {
+     "title": "Anthropic Prices Its IPO Wednesday. Here’s What Investors Need To Know - Investopedia",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2Yyd1R5SkNxSldhdjFxZUU2a21FM3c4eVdFTl96Z3loeHk5cjBYYlNuVzhNdXRNaU1OREVUZHRoWUY0Z1l2UDNQV3dtX1JEU2dBOTZDNUxvaHRPTWxUYzFyNHpjeC1acVJJSjM0d3BYOVp2SE9rMGdqVkVyaHhybXVmMnhhQmZkQUZDa1FRWmVOeERib0dFMDMtTENpaV84Zk1mQmVHT2ZJaTA?oc=5",
+     "date": "2026-11-16T18:51:10.000Z",
+     "text": "Anthropic Prices Its IPO Wednesday. Here’s What Investors Need To Know Investopedia",
+     "via": "Investopedia"
+    },
+    {
+     "title": "AI stock boom nears its end as Anthropic IPOs, with hiring near 50,000 a month and growth slowing - Fortune",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUVEcERRWEhnamZGX2xOMmZfRnJ3NHowR1pCRGVoOThUVk5VUm1Tb1gxZFlMcUlkc1R5RG1PUFktaG9ZQTFxM0lVWXBUNW8waGFubzNtZlExdXdLYU9VM29EUFdrcjlfb3FJc21CMGxLVUpvSjFpNTdpRThhOHhFckczdjVraTVnbU5kQzNaQzV2bGVpMHhrVFZITnIzZWVMT2c?oc=5",
+     "date": "2026-11-16T15:56:00.000Z",
+     "text": "AI stock boom nears its end as Anthropic IPOs, with hiring near 50,000 a month and growth slowing Fortune",
+     "via": "Fortune"
+    },
+    {
+     "title": "Watch Anthropic IPO: What Australian Investors Need to Know - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONE5Sb3d0Y3czLWduYjBrcU1QU3hzTENuNnBncTJjMnVoT3F4R3kwSDJrZFBmN3k3N0VNLTRtbDZORUJqeEJnRjlkWEZSZUhXSm1RQzJMel9nSkw2WFA3b3JHOGk3NEhVUHJEWmtrVjk3V1FCak1BZFBWRFZuazdha2k5Rk12NUkxc1I5WW1YenBRX0dWRXVhS0xsYUVUMHBxM1pDNGtibWZxQzg?oc=5",
+     "date": "2026-11-17T04:15:01.000Z",
+     "text": "Watch Anthropic IPO: What Australian Investors Need to Know Bloomberg.com",
+     "via": "Bloomberg.com"
+    },
+    {
+     "title": "Anthropic promises to pursue humanity’s benefit. Its IPO filing gives it wiggle room - AP News",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDBQUWx1WG8xT3E3UVgzQUpRUEVJNnhmWElUMk1ESEZWWEZ0TWNUQzA5SzhsZEV0Zk94bXptUTNaREtaUmRIT0RtWE1tTHpVRDFmUWtleFJrTXBkVEx0TENpZXZHX3NhVmd5eUVwdEQ2YmVJRHV2anFPRjBrSl82Wnp3anRGemY2V3lvUzBjamhpdkVWZXZWWQ?oc=5",
+     "date": "2026-11-16T13:06:00.000Z",
+     "text": "Anthropic promises to pursue humanity’s benefit. Its IPO filing gives it wiggle room AP News",
+     "via": "AP News"
+    },
+    {
+     "title": "Who Is Anthropic Kidding? - The Atlantic",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXcxRTJRa2oySnFCTk1vaERsVVFxTzZ2dW4zcU9oSU9oZVIyOGZxdU81M2habUtrTFFCSDhkRXg3bzMzWWZHYnBMUmx1TVQzZjc5Si00UzlMZFM0cEtHaUc2WDBXcE5SSjhmdFZEY19xeVpKX2pBSE4zM3cxZWY5Yg?oc=5",
+     "date": "2026-11-16T12:00:00.000Z",
+     "text": "Who Is Anthropic Kidding? The Atlantic",
+     "via": "The Atlantic"
+    },
+    {
+     "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao - CNBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oLVJBMUQycUtqY2tvU1p3WlRDVW5sa0h6Z1V3SzBNb1BwMVZRSF9sdkV5NmtJVVk5NVlNOUhtUXp0YlF6UFRWZHlWMXN5d0hzNERQSDRZYUUxRHZydVFDYkxOZGVxOFBkcHlOc0xaMGx0UXIy0gF6QVVfeXFMTlk4eUZfR2ZwYVJqd1ZfOGlnM2duYi1vSmlmbU1Wb1RpZUtSRFpIdmRpbC1CVEY5YVMyVEhZLWlTNXpubXBveDdrZkoxVWwxMXk0SlJHMDVnTTZibzlncEJ5M29rUEM1RV9WUDR4UjVrMHV1aG4td2dLelE?oc=5",
+     "date": "2026-11-16T16:08:16.000Z",
+     "text": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao CNBC",
+     "via": "CNBC"
+    },
+    {
+     "title": "Anthropic's Dario Amodei is 'just setting himself up' with IPO, veteran tech investor warns - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR0VnRWFnN0o3am4ydmh5a3hTenhOU29heTF4MGxYZy03R1VGNC1FNU5Wd2lDRzhMLWJoYmQydTk1ZzlOTXNHaGVhVlFiUmNSUGkzUjdkSGtDemJXTWdITkZGdzlKZDByR2Zhb05pZ1dOOV9yeG9HclNXb2xFbF9yZFMxelMxb0l4SF9RRGFrUnlXa1JQSGR2aFVubW9mNzB2bWZfa0FkMXhpbUx0MVNOYnEyUTRHbFhLOFhWR1AxMU9FTnNTVmJQU3V3WFFpa1JEb2FJb3A1OTgxMFB1RklMTlQzdkVZdw?oc=5",
+     "date": "2026-11-16T13:52:29.000Z",
+     "text": "Anthropic's Dario Amodei is 'just setting himself up' with IPO, veteran tech investor warns Yahoo Finance",
+     "via": "Yahoo Finance"
+    },
+    {
+     "title": "Watch Big Take: All Eyes on Anthropic’s IPO - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRGJ5QTJldlhHRUR6RTNjc1otMEFDUHlfWXhRUjFmdkYzRjZKOXNzSUJCNGF1TkVNOU1KWEEyYXVHVGpVX0FJMzlLUzdYOGJ5V1RNWU1OLXoxbjNNbXVmdWFzdWZlVnB5T282NFI3dk5LcE1HeUZNZndCRF9KM0p6VTJva0ZaMmFlM1V2cnQ2N05va2hKQ2c?oc=5",
+     "date": "2026-11-17T00:08:35.000Z",
+     "text": "Watch Big Take: All Eyes on Anthropic’s IPO Bloomberg.com",
+     "via": "Bloomberg.com"
+    },
+    {
+     "title": "Anthropic’s IPO Won’t Dramatically Alter the Stock Market, but It Will Increase Concentration - Morningstar",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZHRsTmd2T2oycVB5ZVQzWlV6Uk1GTGFFX2xHLWRfVTN6MGpTakk1UTlUdXoxcGFJMmxWanh4UEZUNE84NzhWOFJQQ1ZqRkNSNUVMYzkxNGN4M0EzaHZnVmh5N09Wd1ZrM2VsWlg5R19nR05NUnlRQ3psY1Z4M3JZY1oySmpFcGpWOFN5WGJ3czBWT1AzMmRUcHFHcnJkdEVpR09PUEdsM0NjTGl2NEJqNVVqV0pGMUQtVUVwRUlsWDh0RFdV?oc=5",
+     "date": "2026-11-16T10:17:39.000Z",
+     "text": "Anthropic’s IPO Won’t Dramatically Alter the Stock Market, but It Will Increase Concentration Morningstar",
+     "via": "Morningstar"
+    },
+    {
+     "title": "Anthropic IPO guide: Everything you need to know - CNBC",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLU0lVTlg1SkFpbXFSd2FtWk9CUndzSjNqV0U3TUNMazRUV0hySTJNQTl1WlB5czJXZHF0a3BGZnVzTW1vN1d2U1Zuem9sdjBvRHJDOHIyTXhYQ3hTOWlrdjI2ZmE5LXZyNTFsa3VPNW9lUTlKT1HSAXtBVV95cUxOYUstYWlKeDI0VkVkV1hRZnIyTm5UOGdfV2NMandlaTFpV2NDakFMNDJjR0RYX0pFZEtSY0dmdEJKUjRjN1JmOVFBSy1jazNBeVJ4ZUxzd3VhSHZKT0ZjZngwaHRRaDZpZTlfVGNOS3JrRkU0bEZfYW45ZFE?oc=5",
+     "date": "2026-11-16T14:22:24.000Z",
+     "text": "Anthropic IPO guide: Everything you need to know CNBC",
+     "via": "CNBC"
+    },
+    {
+     "title": "Anthropic's IPO Takes Place on November 19. Investors Will Learn These 3 Key Details. - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmdkNWxJVjFsb28zUVFzSDdVTEF0NUdDVmRXZnlXdWpqRFVObDVDa01iM2Y0aU1JR3pJQzZJOGhtZmppMDlzSF9LZGl4cEZFYkxwRy1LdlhGT1FrdTlqNmtRMVBkOHZJSUYzaXA4ekZ4MjJkTFN4TjNHR181S2xrall1VFBYUklxa0ZRRzB2ZlFJOEplVnF1TndNaFQ5Z0lr?oc=5",
+     "date": "2026-11-16T17:59:02.000Z",
+     "text": "Anthropic's IPO Takes Place on November 19. Investors Will Learn These 3 Key Details. Yahoo Finance",
+     "via": "Yahoo Finance"
+    },
+    {
+     "title": "Anthropic Faces a Longer Wait Than SpaceX to Join Stock Indexes - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVhxVzJmTGluQ2c1ZF9WS1hEUDhRcUpOazlVTnd1eDJoWW0xV291ejdCQ1pWdndCQ0wyRjAtS3lQY3g4SlNUUUpBWXNISmhva1l4Yjk5dU0wRDFDTi00YTBBYThzaWxrY1A3cHphLXlTVUk5azJCa0h5UXB4V1NsX21GZndDcUxNeTFtNHRpSjVaTEJfaEIyV1JtRmlyM2dJRjJTWUQtbFR0U004cnUxbnBhUVk?oc=5",
+     "date": "2026-11-16T23:06:22.000Z",
+     "text": "Anthropic Faces a Longer Wait Than SpaceX to Join Stock Indexes Bloomberg.com",
+     "via": "Bloomberg.com"
+    },
+    {
+     "title": "This Anthropic proxy play is getting traders' attention – here's where they see it going - CNBC",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PWHljLVlQOE40YnVQZnN6STRfUFRvX1Bvck1Ca2pnVUFLd2NrdklBV29VQkQ2S3I2MWJwZHNUMnJ6UmlJdjJvZ2JUcFZRVUVfeTBXTFBadjAxblhWT185aUNrQ21Wc1FzUFpQbTVGOGNZaEVZaHZBQTl4ZTJoZ9IBgwFBVV95cUxPOVUyTExtT3dOZFdMaDhSVXJVSEl2Zmsxb2Z3Qk51dFhvY2E1VTBPLVNwS2FpYVRaUEF5aXZZUHQyVEhHcFYxSUlzZk43Y1NmVFQyU0xSNFRZQlI4UUFDSXdCNWMydkp0aGw4emJiVFR4RFVyRWh4RTFMak5SdGRzcXRfRQ?oc=5",
+     "date": "2026-11-16T19:06:11.000Z",
+     "text": "This Anthropic proxy play is getting traders' attention – here's where they see it going CNBC",
+     "via": "CNBC"
+    },
+    {
+     "title": "Anthropic IPO could be a referendum on AI, says CIO - CNBC",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTnNZNmF1S3NKb3NXZ01qM013QlFacjlNUC1MZFFvNHZZb3JIblI0OVpUUlRYUHl2eDE4cUh4N01aUl9tRkVhT1hEbWh3eS1NdkhtX2J0WEo2UlVOUlVIM1luXzQ5ODN5T080RlhxRFc3S2pqelduSkFfVURqWmdDR19xNi0zaVdzTjJxQTU1R0hHQ2FHTTJjeg?oc=5",
+     "date": "2026-11-17T02:04:42.000Z",
+     "text": "Anthropic IPO could be a referendum on AI, says CIO CNBC",
+     "via": "CNBC"
+    },
+    {
+     "title": "Everything you need to know ahead of Anthropic's IPO - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkN1VHFrREJneU9DdUV5UVBuT29PM1hOdXN5aU5udTZqc21yV1VMS0VySEJqa1NrLWlhcTdYdVM1Nmo3MDdJWWtEc2JRWDVrVXBKX2tJS0t4TTg0eG4zLVJqWFBNNUlCd1hDR3YxeHlvUmFqdks1cHFQUGk5U2RaX2JuYnl5REFlN0pRX25DdU9SX2s?oc=5",
+     "date": "2026-11-16T12:40:26.000Z",
+     "text": "Everything you need to know ahead of Anthropic's IPO Yahoo Finance",
+     "via": "Yahoo Finance"
+    },
+    {
+     "title": "The Investors Set to Win Big in Anthropic’s IPO - WSJ",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGJLdWJHSUxsNW9wWEdzVEVVazhoUF9JelpHaWVfS2l2N0NUQ1VLdktRdlZnMW1taDQ0cGpuQ3pWVGZaMW9jc3JTZmJ3WDQtZnBVeEtwbjB2QW90OGlVV3hXWGVhQVJpMGJfR3h1S0JrdnVGdXBiZm1yemh5VkRfV2NGcXozRWdQcUNUUFdraFVjQnliVEU5Qw?oc=5",
+     "date": "2026-11-16T10:30:00.000Z",
+     "text": "The Investors Set to Win Big in Anthropic’s IPO WSJ",
+     "via": "WSJ"
+    },
+    {
+     "title": "Nasdaq 100 Plunges as Nvidia Earnings, Anthropic IPO on Horizon - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWtEOGtHd0VyaHpJRnEzcDYtRklURlFfcFByaFNfQ2dhLVJTbkFoSklXeDd3X1dwdVRRR2JVYVRxazF4NGFzd1o5TVZsR0xWbWFuYnd3eU1fRzNBMWNUY1FzeFZLcWQzWFRPT0Y4SmRCUUVleTVIZzFkRmhCQ1pKMjNlSTVjMGI4aTZnd3k5d3lPUG1XTFpnSHlHN2Zoa3BKUk1hUFdKdUczX20xNFEwNDU1Yw?oc=5",
+     "date": "2026-11-16T21:19:10.000Z",
+     "text": "Nasdaq 100 Plunges as Nvidia Earnings, Anthropic IPO on Horizon Bloomberg.com",
+     "via": "Bloomberg.com"
+    },
+    {
+     "title": "Anthropic's IPO keeps getting revised ahead of the IPO - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXMzY1g5a1hzRnl0UjEtSnh4aFNrekNsaTJCVnQtdi1mN2xRZXJ3eGxEaDZVODFsODdMWkxibGhwTmFyNTNKSl9uR3RIcGVrOWRhWGFTRFphRGFoakNyZ05PZnRMcXJYWmJjVlpoRzNfN1N6OVdYOXBXY3pyQjd0VTRUakgydUJBSUptXzdPMHpoTS1uQWlJdE90eG9KNmt2d3c?oc=5",
+     "date": "2026-11-16T15:54:46.000Z",
+     "text": "Anthropic's IPO keeps getting revised ahead of the IPO Yahoo Finance",
+     "via": "Yahoo Finance"
+    },
+    {
+     "title": "ALumni Ventures' Laura Rippy: Anthropic IPO unlocks venture capital recycling - CNBC",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNFQ4cXJFQk5zYjFpXzVmbTdOdndqNXFPdDVXYkN1TmZWUENQeUQxRnpJc2VsbkRNNGM2TEVxODJvZjZnc2pZMHBzeW9kZG1HeG8tYUpYNDBDcHBJcEJqTVg5SE1WTHU5Y2ZXUzI0c0Z5R0V2M1NNSmNKR2N6NV9yMnVGOTlpYXVOelMxZFRXanlkcElUM3JvZVBDMEI5dmVXaFJNeGdJaEdNOVQ0ZEhpSG1LU24xQ2RRNGc?oc=5",
+     "date": "2026-11-16T22:54:46.000Z",
+     "text": "ALumni Ventures' Laura Rippy: Anthropic IPO unlocks venture capital recycling CNBC",
+     "via": "CNBC"
+    },
+    {
+     "title": "Could Anthropic’s IPO Reverse the Market’s Sentiment on AI? - The Motley Fool",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTZrQVB3LWJSdGhaem52ZjJ2cXVlbURnd05NWTgzVTNGQzlGQmVzRGg5RHBWOWh6ek40b0RTdnl4a3R3c0ZaLU1ERGtzdFRUdnhUUEpaU2NfXy1adHFsWkVhVUpualZXZUlxeVZab09vVDJpR2JkTF9pVUFSUGRlU3RBQTNCYjlRWnd0MzZsUlNzVEFnM2ZmR2xFRjJIX0xwUVR3?oc=5",
+     "date": "2026-11-16T22:17:00.000Z",
+     "text": "Could Anthropic’s IPO Reverse the Market’s Sentiment on AI? The Motley Fool",
+     "via": "The Motley Fool"
+    },
+    {
+     "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmszM1lzclB2RFRmdXhEOE54WUJHUUUwNnl5MzVPVXpRS2hIS0t3Xy02dExtRnFUb21aWmNmc3pWTDBYb1ZpVWZMQUdLU01xQndwOEV0THZhWGp4bUZhX19tUnlmNGszYjF3a1ItVGhJRlNrR2ZlTVJ3ZzJZNG01MnNucnRkS0xwN3NnOUZFTTVTLXZ5bzRkVkUzSW4?oc=5",
+     "date": "2026-11-16T20:36:03.000Z",
+     "text": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip Yahoo Finance",
+     "via": "Yahoo Finance"
+    },
+    {
+     "title": "Altimeter's Gerstner: We're putting in for $5 billion on Anthropic's IPO - CNBC",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWtBdGJTSWNZS2NVWi1ZTkM0VzNfZ3JEY2NRZldXNkJxNlIxYU8zaEx0T1ljT1NNdHA4bWhfN0h4VmFIVWM0NzhJaC05VXpVWmRsZm9pbVFZWkVyZWdFdXJoLTVtZEdhRm0tY1huNFV4dkRNMGNjRHRPT3o0R21VMGZUUnBXak9sWWZ6czc4NjVvRE1yUHA5YlRjb0lWT1h0TUR0TUc4S19rV0dweXVZ?oc=5",
+     "date": "2026-11-16T17:31:00.000Z",
+     "text": "Altimeter's Gerstner: We're putting in for $5 billion on Anthropic's IPO CNBC",
+     "via": "CNBC"
+    },
+    {
+     "title": "Updating our coordinated vulnerability disclosure policy timelines - Anthropic",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmdyVmc1MjVDcWtuV0NsWG44R3ZzQU5rX1BkVHNkR1NlN2w4cFRselR2dTVLOS1EcjlRbU1idlVSMW11bGFWaFZjN2tydks4VkJUR1dlcXY3b2dZX1k5aE5NMUxFck5kQWZtcXlKNHF3bC1ZZXJTa0xjMDNIN1l3TlF6ZzlwMF8z?oc=5",
+     "date": "2026-11-16T14:32:51.000Z",
+     "text": "Updating our coordinated vulnerability disclosure policy timelines Anthropic",
+     "via": "Anthropic"
+    },
+    {
+     "title": "Watch Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS3dNT1ZmNzdYX21idWdaclc3X2xQQ1JsU3MtTURiMFNfM29XTW5yV0RrVC1DZFdJR1dfVHg1eWFjdFhqei1sZDNDTmh4YjNDVEdhNkJ2VWNKOG5iNHRkODkxS3BxemliUUhlWl92S2JxMW9FVThqME5rRjBST1Q5aw?oc=5",
+     "date": "2026-11-17T00:54:31.000Z",
+     "text": "Watch Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues Bloomberg.com",
+     "via": "Bloomberg.com"
+    },
+    {
+     "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGowX3ljRUhFOUtMR2diRUJHR2xTalpGZExTNFRKTExUQTQ2cUtNQXZfWEVRM3BMYldsOEh2czRtSmJZVExCakN0Q2VaWVRWWmFSYjRsRFBqNzRucXh1c2pIcW84aDUzdkhjY3pyZFFkVjRSN2gzU0dNM1NEWXI2WHIxdXl0OTB4OVM3QVVsSXg5V2NUQVVLVmZJWURyaWhXOUxyTWE3cm1qVXRQTFktZWQ0Y3hmaWlaenFrTi1jc3ZPSTFlWUVEbXRaYUVQOU0?oc=5",
+     "date": "2026-11-16T09:59:51.000Z",
+     "text": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week Yahoo Finance",
+     "via": "Yahoo Finance"
+    }
+   ]
   },
   {
    "name": "OpenAI News",

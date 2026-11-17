@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T05:17:10.214Z",
+ "fetched": "2026-11-17T05:18:55.401Z",
  "hours": 48,
  "sources": [
   {
@@ -10,9 +10,38 @@
   },
   {
    "name": "deutsche-startups.de (Google News)",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Ersatzweg, falls der direkte Feed ausfällt (sperrt GitHub-Server). Doppelte nur einmal nehmen.",
+   "ok": true,
+   "items": [
+    {
+     "title": "EFS-AG Vertriebsdirektion Knapp Bürojob/ Unterstützung in der Datenaufnahme - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT3N4OE0wRnBKbzJzM2pkY0tkNmJiWHpuMXpUSmNHZGdEVEdLMEVycFJLZEJ0TG50ZXZCXzVJN3BLV19hSjZqSTktT0lPMVZJcndKZGRmakNweU9YUzVkSzZ1VEt2QzNzZ0o3RHBuZkxLc1ktWWFkUHVFZlA2TG9ZMThidXcyMW5ZVmh4WllveVlNcG9FQjdDYU1MVjJGcWFZWW5BazVBaTc2Q2FmdTd6NnJoZlRvWkRRbTdWcGlvNEdOb25PLWhuWUg4YzRORV90aWZBdEFtN1JvVkI3VlFn?oc=5",
+     "date": "2026-11-16T09:47:12.000Z",
+     "text": "EFS-AG Vertriebsdirektion Knapp Bürojob/ Unterstützung in der Datenaufnahme deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    },
+    {
+     "title": "+++ Agile Robots +++ Unicorn +++ Apcura +++ Roll-up +++ Spreefreunde +++ Quint Computing +++ - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVB4eFB2YmQyNDI5c0RGY2FTNE5tRGJEVWJSbl9TdXhUSldqcXhYU0IzZ0FQY0dhbHhtZXlSTDhDTmxMMExWSHRuM29uRHRBS0gyM1JCQU9COWV3Yi0wcHZuX3FHLVU5ZGZEbHlsWl9FSkxlRmx5emk5eTh0SGhUa0tSaHdmejg5OW1lX2x6dU4wS1g4Q3JLN0Zyem5ENlphRVFkS1V3QmFoaFRReFE?oc=5",
+     "date": "2026-11-16T06:56:22.000Z",
+     "text": "+++ Agile Robots +++ Unicorn +++ Apcura +++ Roll-up +++ Spreefreunde +++ Quint Computing +++ deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    },
+    {
+     "title": "5 neue Startups: Biwak, tilde, DearBelly, better bites, Dear Noah - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3RXX0hJaVdKZ1NxdmZsUVNFSW9nODJJYjZKQks4WWN2SnR0ajF6VklraWxHbFNnQkZzRDRVVjgweWFCc200bndHdF94MXNwNDdIdTZoREFZUFZiTGdNRl83Mk5VSHNFRHpYX0s3MkpMaXV0eDZIQl9sTTJ5NWt1cXc1ODVycElHemMwRDBsVWVMSFpycG45RjhkT2hjVDhoSlItRkpJSjE?oc=5",
+     "date": "2026-11-16T13:11:23.000Z",
+     "text": "5 neue Startups: Biwak, tilde, DearBelly, better bites, Dear Noah deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    },
+    {
+     "title": "Wie Salufast mit Fastenkuren ein Millionengeschäft aufbaut - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDZtYkUyMU95aXBJTGd4WS1jUVBkcEk2VWZ4cjZEckFKaXgweW15aFN1UXJLTUJhYlIxeVROS1VQZ0prZE8tZXQzMlJHZ2JnSV9qTGRXeXVrOXFsMlJSdHRvUjAxSTl1dTN5dXVkdmhoblgxQ0VpOTdRTE9mdktEa3ppRkZaSHlYVDVKLUpvaVpRYUdzYXRmMHZYY2pZVHVvRDBsNmNwaVBYRkdEY0pB?oc=5",
+     "date": "2026-11-16T07:59:31.000Z",
+     "text": "Wie Salufast mit Fastenkuren ein Millionengeschäft aufbaut deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    }
+   ]
   },
   {
    "name": "Gründerszene",

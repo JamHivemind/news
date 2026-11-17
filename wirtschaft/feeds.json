@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T05:17:26.327Z",
+ "fetched": "2026-11-17T05:19:07.961Z",
  "hours": 48,
  "sources": [
   {
@@ -593,9 +593,156 @@
   },
   {
    "name": "Google News: Konjunktur",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "Konjunktur: Industrie in Deutschland streicht trotz gestiegener Umsätze Stellen - DIE ZEIT",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUwzbm5tR3JRVGlIZVVHMjMySjB3a0JYODVITWs1MkJ0Zl93NThSVm5DaVJxOXZadmpFQjVpU0Z5enM4VjNKSGJSdHduNVVUNlg5a1lGNHFuMUdrc3hXRkdkWlQ0cWFFUGRaV2hRV3NLcVBjOTVJeXh5ZE9IVGE1dnE3NXRZdWwyekxkTHNOd2Z4Q0wzQkc0azF0WHdXQQ?oc=5",
+     "date": "2026-11-16T09:48:59.000Z",
+     "text": "Konjunktur: Industrie in Deutschland streicht trotz gestiegener Umsätze Stellen DIE ZEIT",
+     "via": "DIE ZEIT"
+    },
+    {
+     "title": "Deutsche Wirtschaft bleibt pessimistisch - IWD",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZVNleE5YZEYwWks1N2NTdGlnX0Y4VWpLRk9kOVZiMEd3WGtSY20wV3pLOVJZRFBzdGhPRm85NnJ0elFaelN3MGcxWVF6eUdydlFjSjBEcWNGVWhFMkoyYkpRalYtZEtiMjFlZHloRkVoUWg1RFVvMFljSDMzYVdvcg?oc=5",
+     "date": "2026-11-16T07:10:00.000Z",
+     "text": "Deutsche Wirtschaft bleibt pessimistisch IWD",
+     "via": "IWD"
+    },
+    {
+     "title": "Ifo: Stromkonzerne nutzten Marktmacht in Gaspreiskrise - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMXNyaGZicTlBc1FjcUVka1NJU0V0cTRkdnZTY2Znck9URXZWRVdiT2djTW9tSVVMdU5ic2JGSXpMenhZclJCUllpUHdRSlowM1Fxdno1bVQ5eVpPQzJfN0g2VTRMNEx2Q3Y5VDN0d1pCdklCMkxub3JNSTlTcnloTzdTSVl1eDBaS2M2bl9oenI1SkRtQ0ZSam00OWNqSnVsNHJVczJCbE83MDNaWE1CY2dveVMxNU9yT3BQLUNnMWtIM2NaVFdXZg?oc=5",
+     "date": "2026-11-16T13:50:00.000Z",
+     "text": "Ifo: Stromkonzerne nutzten Marktmacht in Gaspreiskrise Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Wirtschaftskrise in Deutschland: Handwerk warnt vor »stillem Sterben der Betriebe« - Spiegel",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1dGX3VmempBV2h3MWQ2NTVsdElkaFJ2elVGVDZzV2ZpQmkzT25UWEZhV3N5MlNzc1h3NWd5bV91Ym01RkZ0RW5pLWRWZHBSaV9EYWIxenEzRERVR1VFWi1pREY4eU5ZZDhXTnRyMlFrTG9VSjlDbkxoYTh6TUV0enlzdFhQazVoV3YwQ3drYUFQQ1I1d1l3T2F6SlF3V3NHRzlEWk9iQlpPNk5kcjQyMlJEREx5ZjZDUmZ1TVhHcWVtUlhBek9ZUnVuU2g?oc=5",
+     "date": "2026-11-15T08:52:00.000Z",
+     "text": "Wirtschaftskrise in Deutschland: Handwerk warnt vor »stillem Sterben der Betriebe« Spiegel",
+     "via": "Spiegel"
+    },
+    {
+     "title": "Chinas Wirtschaft verliert weiter an Schwung - Onetz",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeEh0NmYxTmk4d2h2ZllVNHB2aTVGV1lrNTY2T3h3T0drOVo2ZmNkd21ETGg5Q3lyT3ZlZlFUNXA0UnZoUXZEYkVkSHBYb1lzZzA2RFlQa3NQLXYtXzJqTE1qaUZCMWo5cm41VWtlZFJNckhCbGdvdmxPUkRzRnd4WGZVMVlQMVJ5bEVzQmdvcnc?oc=5",
+     "date": "2026-11-16T08:01:14.000Z",
+     "text": "Chinas Wirtschaft verliert weiter an Schwung Onetz",
+     "via": "Onetz"
+    },
+    {
+     "title": "Analyse – Industrie macht mehr Umsatz und baut dennoch Jobs ab - nd-aktuell.de",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanBwVmhITGVnb0V4Mk9pLW9jTzZaVGkyLVRZWVZLNXpqcmp0SERmVzJ6SVg3Mm5OUS1VaW5fN0p1WUVIbUNXcnJsU2prQlJQbl9jdHZkQlR5b0R1VG5ETnZqQWJidDN3NnZUSmljNE5GVUhGcDNOaUpVckdVVm1mOFhDQ3Q4bExNOUNTR0dFS1NoaUczN2EzMXJpTnRmOWtiTjVpdHBDYTNMazA?oc=5",
+     "date": "2026-11-16T07:34:45.000Z",
+     "text": "Analyse – Industrie macht mehr Umsatz und baut dennoch Jobs ab nd-aktuell.de",
+     "via": "nd-aktuell.de"
+    },
+    {
+     "title": "Stahl soll Zukunft bleiben - Aber wie? - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlhHa0dVRlg1M2p2M2NyT2x0Q2FZSWM4M3VOTG16Vy05c3RfRU1sN25GYVJZUC05N0lYWWFsUVZxXzVXQXpjZ2xON3pLY3BCYnNENGZZc1BGb3VHTXRqNTZ2U0liY3RORDB0cFdsd0pUNDg5dlB0R3JCS0hIbk9MbnNuUW1kdzd5Q3FBcDFoNlMyMmRYWno2c0Z2V2JaYkdvc0t0OGx2Sm12dGNQblE5NA?oc=5",
+     "date": "2026-11-16T14:55:00.000Z",
+     "text": "Stahl soll Zukunft bleiben - Aber wie? Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Tesla will drei Milliarden Euro in Werk in Grünheide stecken - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamVCT0NPUjlWdTU3d1hJRDg0UHc2dVhDeFJDTENWV2t1WFZrZ3d2Q1FkdXE2bWxYdU1aQjRlUkdMYjgtN3ZjeGxVcUlQM2VqRkZnaC1IOTBkU2wxYXdBMVFqVHNQVmFqZWI4LS1ncVNGTnE3Vm80T0tPZlk3eUFseWpHSDF3a2x6T3R5WUt3WlFzU29HNk10dDBQWk9Pakt3LXV5ZHRka2JWUlhXZWJ6WjFYX2tBX2FERDBBeVUwWml5c1lacFNlOGFGUXYzeUFuTGZR?oc=5",
+     "date": "2026-11-16T21:10:00.000Z",
+     "text": "Tesla will drei Milliarden Euro in Werk in Grünheide stecken Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Deutsche Medizintechnik bleibt Exportschlager - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcU15OFZucjJqZ2VEUW9RV3cyRkVZV185VnlaWU9qWENJR1RiUUxLNTRBd3hmY0FuWDJkSm4xRHlMejNkYThONGRYS25DRzVFT2JjZ29abWliNnZxZTFKZEdzcUdRRGdBWFdHVEc5NjJiX0NWbUFYUWtmTHlNdmJKSnpKSm4zeFJWS0lER3JDSDRYTm9JVm9FejY5SjV1eWZYTFBzZVNPTlVsZ1AwYzkwTWNPRzJhMjVpc3B2aDl3?oc=5",
+     "date": "2026-11-16T18:15:00.000Z",
+     "text": "Deutsche Medizintechnik bleibt Exportschlager Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Zugverkehr zwischen Berlin und Hannover massiv gestört - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTlpBaEhtbExzNGp1SE1UR2liSURsbVRzUUVWSGtPUnA4bWZHd2d2VHlQN3ZZUFpRN0xXZXZ6Q0h6N3BNdTRGamNTN0pDamdtUkZvOEcybjRtLU4yek1qeFE1Zm1SLVZMOTVzbmhxVl9nQlBpR051OFZZZTdaSXRYMW50czFqR19PWlF5UHQ0dFZTU3VVQmpWRmh1bWc3WXE2TEF4UDQybzlaZFYxMDdlNnFvY0JZTENYbGljZnc3OHRGNGh0dVg3Y1ZrNA?oc=5",
+     "date": "2026-11-16T17:58:00.000Z",
+     "text": "Zugverkehr zwischen Berlin und Hannover massiv gestört Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Anklage gegen zwei Ex-Vorstände von Knaus Tabbert - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNlF2Z1VUUGtiMmJmZmZYYUQ2V2sxTDloNm1UVlJEcWFleXVYcGdQRGlERDg1S3c0UzVXZFdiWVd4WkFMZWxSZ19STnV2UWlMb29TM3R0QjZObUhNd0s5eHZyXzVwR09pZXdTcW05SWZqeFEtSkdiZFFGS2lMWGc2ZGNVaHhnLW9tX1UyYkFFRVZoeFhWWUFfb2JMXzlaQ2J3RGlvbFh2TUtCc1VCQXpHVGFCUHA5cjcwQ09aVzdmbFl4NER3?oc=5",
+     "date": "2026-11-16T16:14:00.000Z",
+     "text": "Anklage gegen zwei Ex-Vorstände von Knaus Tabbert Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Mercedes erweitert Funktionen beim automatisierten Fahren - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbUtPMjhGRDZIYnU4VGp3dnpqOTJDZU9mdlZhSTZLRk9PNDVxYjludWZyS0NwMVFBeXR2bk9MR0dfZVNrSEpPOS1IZFVMUGtBOE1OMmliMVJDV3RKMmljcTR3X3VBVHdxamFoS0RIY05lVVg3ZTUwczZCWlQ2WE41MWhKMi01d2Ezck5LUFBlaThNSXFYdnBpVmR6aFRhRWpBNFNBSEY0amltS2g2WjhnQUVBbU1GcGNxRWUwWjdQNjI3T2U5cS1GalJNWjRiUQ?oc=5",
+     "date": "2026-11-16T14:00:00.000Z",
+     "text": "Mercedes erweitert Funktionen beim automatisierten Fahren Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Neue Regeln für TV-Verträge – Karlsruhe weist Klagen ab - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWRiYmEyUlBZNXBieDNtRXktQjFRZEluZjJmSHltWl9NenVoTk1mWnctWnBNdkNLVkpibTF2a2Z5eWhqTjdlYXVUMVM5Wi1VaXFHRUQ3d0lZaGQ5R3Zuamp3RUVBSDEyOVl5WHBpa1hmb2pwYlZlZUZvdDREaEt3ZFRSX1ZoZXR1X1BBU2ZXcXZrMk1jZVdNZ2huN0gxenJVbUs2dFdIZ3NsU1lCWTQzWFpyaWp4dUdUYTlpVGVra1pZN0VrV1RUeF9hZw?oc=5",
+     "date": "2026-11-16T12:53:00.000Z",
+     "text": "Neue Regeln für TV-Verträge – Karlsruhe weist Klagen ab Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Stahlgipfel: Branche dringt auf Entlastung beim Strompreis - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYjB5cm40bWxsQWJFTVlsY2VyVExUb3VTd203MjRySmtHMlJfd0FMOEt5RTA1TnVPZG9qZE55WDlWQzdBNGtseVJEQnRFdl9XLXMtVmpqUng0LS16NjVQN20yd21pVlA5NFVOZXlzSUNOdTRxeWRPdVRDZDNOUG1sVHlOZkNpcHN1WGRTMnBsXzc3bExoTGY0dWVqWnRXaXVyQUduLUxzUU1wNWg2MDlNbmxaMGdsRk93WVhnSzNqRjZTakdua19SWl95S0dxQQ?oc=5",
+     "date": "2026-11-16T11:00:00.000Z",
+     "text": "Stahlgipfel: Branche dringt auf Entlastung beim Strompreis Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Bund will Boni von Bahn-Managern an Zielvorgaben knüpfen - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT0VqbkNfYU5Zdl9KT3JKRWVHQlNtY0RSYTlQU1FWSTMxSWFaX3lUT2tuREtPZjY4ZVRhTUd6ZTAxRWhOYlRaY0N3eklsblVsdzJJTDQ3LV8wUjh0YXJpRkM2bVhsTmNkNmFEMVJ5a3lPSXdRSGY5UkdMakFmanZ3NTdZMXFkVDJWLWdCb2RJUDhtcjJFOWZwQjFaVHRIaXpVMnlJb2tDZ1ZyNUluTkcxYkRwbkFzM0VwS29jekUxbnd5TW9jMjZlUExhVEM5UQ?oc=5",
+     "date": "2026-11-16T09:19:00.000Z",
+     "text": "Bund will Boni von Bahn-Managern an Zielvorgaben knüpfen Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Hohe Lebenskosten: Nur die Hälfte der Menschen kann sparen - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT2hZZTUwdVF0LUxpQTBIMTItbGFsNUtuU194R0NmTDJZcXk0Qko2OUVEWXZZWHBYbEREQk1SOGNGd1VzRW4wcEtZa3dYUW9SdnVGeHVKZlcyTzdwcTlQZ0lONlR0Ri0xVFc5MUtVNVBMZEZZNTliS3ZDVEJjWFQ4bV9GMHU5QTNwak5nanJpQ1RFZVBiSWtMX1BZdXpOY0NENTFYb1RtdWJUb0F3YTlPWUw2UUstTkJLT3VVaXVrajZpQ3NuMWUyS1B4SXJUWm8?oc=5",
+     "date": "2026-11-15T20:00:00.000Z",
+     "text": "Hohe Lebenskosten: Nur die Hälfte der Menschen kann sparen Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Kein Erfolg für Klagen gegen Sonderkündigung für TV-Verträge - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYjZTWkR2eEdOMmk2azg3aDh3a2RUYmNLbjVaU09lNU1oREo5eVRiZDBXeGRPWFM3WDlCRVBDUF9icTlKZ0cyeWRaa2VxZ2dVOFVRT2lNYmprcDVTTlZWRkhaam0xeElxb1lDS0xuakUwYUEyaVVUb1dkMDdycW52LXpyT2QyQ0lrcmgwM3VfbjZBM1pTSFdCY0EyUzJFa256NmhFX2lUSHFxLUQyRnR6a3JqWVU2TGNKMlVtanNzaDBDR2c1WF9jbmRieDlpaDhzaEtFeFYxQQ?oc=5",
+     "date": "2026-11-16T09:26:00.000Z",
+     "text": "Kein Erfolg für Klagen gegen Sonderkündigung für TV-Verträge Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "EZB-Vize warnt vor wachsenden Cyberrisiken durch KI - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcHBsOXBpQlMtcTFRT1p3ei1taDhJLWZWQ3JBMDVSMFlEYW9jVDJvQzUtQkZLU2Uzb2FfVU1IZTNRWVVINWw0X0c0MFFzMG5xVVNnYnlYenZ2eC1KM3dlak42dDl1eEcwSlF6ZVZjaU5yY1dYYVRwNDNMTDItWWNSWlJ4V2VnZ3Y5d1hPd042Ri1IOU1qYTI0aDctbHVpTHM0LTJ4T0ZZNGx5cDVaTkxwcEQtbDdqQllBMzlWYnRjRW56eU1IeFE?oc=5",
+     "date": "2026-11-16T08:58:00.000Z",
+     "text": "EZB-Vize warnt vor wachsenden Cyberrisiken durch KI Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Industrie steigert Umsatz - doch 140.000 Jobs fallen weg - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3ZMSWtRUmNUUmNYQ3QwLWN0WVZEamZVc2xJQzhIeDhBMFhveUxtX2JYd1ZtTVVyTEVYMjRLcXZxMmViZkRLRENsU0dpM0o3a3NVREpjaERBaDJsNGR0TGw2aGNrNDd4OVlJekw5S2gyZWdMUVAxWUNlTjFyYmNSd1dwYXhUTFUxRXhwSS0xTXpLRHZKVTZyZDEtT0VGdXVYOUxDRGZGOVVLOGdQcG9NR2VfR0xETWJwSk5aeWtQcVA5TXBvSnV1Rg?oc=5",
+     "date": "2026-11-15T18:00:00.000Z",
+     "text": "Industrie steigert Umsatz - doch 140.000 Jobs fallen weg Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Tesla will drei Milliarden Euro in Werk in Deutschland stecken - Der Standard",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGg5R3hNbFR4dmVtcFNHM04zNGhGRVNIbEVlNXgzRnJhWjE5NEJ2MlhtMjBDY3lhQ1d0RVhfWnk1a3M2VnpGQWVuSDNSUHNRbVRraldaYWFqbkZlTEQzWmdZekpEUjVMU3RYendCQlJsUE4yU3lJbDMyZFhBbHk3cV9GT2pXVEdmU2ZGRHZxYlk5cU9SUUpHQnlCdF95UkluUmkxdEFGckprLTdUUHVoZk02cFZiMHcz?oc=5",
+     "date": "2026-11-16T14:17:00.000Z",
+     "text": "Tesla will drei Milliarden Euro in Werk in Deutschland stecken Der Standard",
+     "via": "Der Standard"
+    },
+    {
+     "title": "VW-Chef Blume will 2030 Rekordrendite erreichen - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNklyZDBaRjIyUXZMVGdvNE5RRUplbjJlRFVuRWdsaHA4ejJKYmdlVUtpbzh2NGVsOUJ2cF9wZEhBT0Y4b2w3eXkwR081bVFxMU1MN3FCMXFYLTBjQ2k1SXNfX3FaaGQ1NHJlQ01zWmJXOGQwdU82cnpzNmo0ZnhTVi1xSmVJdlA4MkU3QzByYVhWdWdIQi1UMy1QbG5neUNObE9KeXRQdXJlS1JPNk5nZzR3X1pvQ0FBbjQ5TDFldTQ?oc=5",
+     "date": "2026-11-15T13:02:00.000Z",
+     "text": "VW-Chef Blume will 2030 Rekordrendite erreichen Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    }
+   ]
   },
   {
    "name": "NIUS",

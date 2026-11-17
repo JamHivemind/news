@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T05:16:53.973Z",
+ "fetched": "2026-11-17T05:18:39.646Z",
  "hours": 48,
  "sources": [
   {
@@ -885,14 +885,28 @@
   },
   {
    "name": "Google News: Wohnungsmarkt Hamburg",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "Elbtower, Mieten, Senatsdisziplin: Wie die Grünen um ihre Basis buhlen - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaG8xSUp5UFA3cUl4YVFWN0RnNTBxazhmOGxfNU9lVlk1X0ZIMEp6amJfdGV3SkJvRHNzZnVIajk1V1hkTG9FZlJEMTl2cFFiWEZHU1BSU2FpczhyTGsta0dNYVM0NWFVeUx0QzNPS0NZWmFVQ3ZlNnhnd01tUWtGOExpOENGS3NVZm1zNDFxT1RTb3pyOWNKVVR6WjZqbVBobFUyamViU2xER2ktQXU2Y0sxR2w1SGFiRjg0dkpVSFlvbHlMQTdTbGVueTJkSkhwdUNEMms2QVJRVFE?oc=5",
+     "date": "2026-11-16T15:26:06.000Z",
+     "text": "Elbtower, Mieten, Senatsdisziplin: Wie die Grünen um ihre Basis buhlen Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Die Sorgen der Gen Z in Hamburg: „Egal, was wir machen, es ist nicht genug“ - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRERrZVFiVjVocWg1UGtNNFV0TFpzSlIyd3VQeF9HX3RuWm1oWTNnZFNXWnhJMkhTMDFMTk4tTjNLMXZrdjNmeWdxa014Y1dGRVNtQ0ZobnVhNHZRNnUxTklGdXpoSC1zNENqQzBPTjNYRVFxVkFqby12TUp2TkVFbWt5Qlp3YldUbGkxMUZhV3Jaa195OEVibVpmN1Q3SXhqREdsanJWNFJ1dDJZR1J5MnkydFVldFgxUDdDNUIyUmNZSW9uRTRIT3NqUkNJLVNTdGxuTXJjSUxLMmM?oc=5",
+     "date": "2026-11-16T10:55:00.000Z",
+     "text": "Die Sorgen der Gen Z in Hamburg: „Egal, was wir machen, es ist nicht genug“ Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    }
+   ]
   },
   {
    "name": "Google News: Büromarkt Hamburg",
-   "ok": false,
-   "error": "HTTP 429",
+   "focus": "Büromarkt Hamburg. Reicht 7 Tage zurück, weil Marktberichte selten erscheinen.",
+   "ok": true,
    "items": []
   },
   {
@@ -917,8 +931,8 @@
   },
   {
    "name": "Google News: Makler-Berichte Hamburg",
-   "ok": false,
-   "error": "HTTP 429",
+   "focus": "Marktberichte großer Makler zu Hamburg (Büro, Wohnen, Investment). Reicht 14 Tage zurück; nur Berichte, keine Werbung.",
+   "ok": true,
    "items": []
   }
  ]

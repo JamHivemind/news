@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T05:16:46.335Z",
+ "fetched": "2026-11-17T05:18:32.896Z",
  "hours": 48,
  "sources": [
   {
@@ -692,15 +692,241 @@
   },
   {
    "name": "hamburg.de (Senat & Behörden)",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Offizielle Mitteilungen von Senat und Behörden: Entscheidungen, Termine, Bauprojekte. Keine Veranstaltungswerbung.",
+   "ok": true,
+   "items": [
+    {
+     "title": "Schutzangebote in Hamburg - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdlZUbktoX1lGS3BQTlUzM3lvb2xZODdrdEhFR21neVJOSG52R19CVVptT29fY19BYkxoQmJ3eWQxcXB3cE1Sa3FyZDdwX0dQUG5qZHdPY0x1bkw3ZElkbmN5WkFPeGlVaFpYNWVCTmk3S3BpUGsxVEhra1pKZTJpQUtCcXAxUU5taTVLczUyZ3NtZ3ZKdkZUVDBaX3hFVzJkb1h2bE1zbFNTTWNQV2ZEV2ZZa25hUEZLVHhmZ1NIbVFDRy0tTDZkOWdjU2R3anEwRTdBZG5FQ01zZw?oc=5",
+     "date": "2026-11-16T16:53:09.000Z",
+     "text": "Schutzangebote in Hamburg Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Beratungsangebote in Hamburg - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT1hwNkVmeVFwX1U4UjJYZVlRVmprSDFSUUlsUDFFT3l4RlVweHVtYnpqOThEMjV5Q1RCRXZ3eXVHM3VXaDNXcTg1dS01Z3NWdG1IODN2aHV5TkVHT2RXMnRfVzBIM3JYSml6Rzc1eEdPMkdjNjc5VU8tRXRCdkNKcWllSHZTckNidkNkMnRRbU1tSW11cWtPNVdRX1NsQnF6NHpyQ202RUlkZHU2UXQtNFJMeUI1SjdxcVVuTWNnb2hwVFhYbW5QNjZNRGZjWEJfYlFuWnh0MUhHSUk2bHc?oc=5",
+     "date": "2026-11-16T16:53:09.000Z",
+     "text": "Beratungsangebote in Hamburg Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Gewalt ist ein Kreislauf - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1F6amdxODNYRDVPRS1wQjNFLWdzb21STVJtUmtaUjdlUjZrVkRQa3dXd2N2azJCdGlXZ2hkUFYwcjdteDZQZDQwbjhSaGdOaTVoNWxBQlV1Ty1fTlRsMkd3UllZdlItazY1aXQ2bXIwekRTS1Z0N1l5d1hqNjhVVDQyZnFkZExBeTF0RE8xOWhORFQ2V2k4dm9la295dXRxSnh6MXhuTTgzYjlyUTlWcU9ua1UtS0RpNE1vaU5mTnR1YkJ3Z3cxalQ3aTVPdTVUU3UzNXQyOXg1VkVCaHpiNTNIems4Rkk1a1Ztak85RjNrZw?oc=5",
+     "date": "2026-11-16T16:53:09.000Z",
+     "text": "Gewalt ist ein Kreislauf Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Einschränkungen - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN1N1Wk5tSGhlSjdwMk43N1dMZVVhMmhtQTVNVENfLTQtVFJCY3N6Y2VKQzZPelVfWlJfSElDazBUaUgwWjliOGQ3ZzFSajNaS3JMaVZ0MHJkblR1ZG5hLTdhdUF4cENDbjY4dHl6aXFjdHY2S1dxR090aEdXQWRYMk9iVXBORkpKdE5yeGZlVU04NDRSbU5EcWl2THl1UGwyRElhQXV3?oc=5",
+     "date": "2026-11-16T12:23:14.000Z",
+     "text": "Einschränkungen Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Sind kurz mal weg... - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zczJYdW1aMmtZLXpUVnUxUHpTZjFHdC1aaE1ubFNHWUpOeUVfdHlIUjJFUGZpRURPY2h3QTV5OXdBY3dJZzRHMWNGdzQwa3FjSjhjMmk3ZVUxcVlJSDE5NWs5eWJhU1YxaHctbzliUFZlYnFERzhmR19JcHlOZw?oc=5",
+     "date": "2026-11-16T16:03:55.000Z",
+     "text": "Sind kurz mal weg... Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Neue Sitzbänke und mehr Bäume am Alten Wall - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRGFoTGwwMG0xWjF6Q2VRMHI2NXRoNlFVUUgzeTFUazl1VVV6cVVXUlRzb0l5dC1MZXZKZVZ5LUROSkxXWGdwcW95SmlUcmx3RHhYYzdXd1lJbkFMbXpWSjl2SzRUMGxiWm1LUF9xU2thMnFSaklHM3NBc0x5YXNIbFRTSE1OVUJBUm5NX3dlSzVkeVNyTWlaNi1BWWdRTlFfZGp3eHJYRVloRHJsWDhobEJyMVhGQmhVWVBvbXZYcWNWd0ZsV2RMbXdHZGM5bmpPMl9qLXoybldXcXVCakpJUzNUS090dHJzUlo5eDVGdG1lLXlOV1pFWTItRGxnVklwQ1RtUWRKZWw?oc=5",
+     "date": "2026-11-16T13:15:00.000Z",
+     "text": "Neue Sitzbänke und mehr Bäume am Alten Wall Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Girls‘Day und Boys‘Day - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSVRhem9fMVlGbUtRb29xYTRHblM3Zll0Wk5QZl9WZXVCTmZpSjBPUlZXVEVkSEk3N3drcDBKT3QwM1F2UUFMZHE1T0FTcm12RkUyWm5vZzNodnlFck1CQ2tLaG00MVpzbWJPSUo4QWtiX3FmeGt4VXRCaUx3NDNZa1ZtMUF3WmJ2eGZ3QjMxeV95Q0RKbDlacWRlcDFrZkRYc2JfX2F3SXl2YWFFcWluRVpYMFNaUFlNcXVRdFFEVUxGSnhEcDVndXZWLXMxRHZwQUxLcUswMHo2ZjhOUkdDMGVMSQ?oc=5",
+     "date": "2026-11-16T13:08:09.000Z",
+     "text": "Girls‘Day und Boys‘Day Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Revisorische Prüfleistungen - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRnZ2RGFRZjNUOGdLR3BrUDZhYjJoWEZISFEyaDBVV2VtaFBFaVI5RzBxVmZPdGpqaXRvYVMtcTI2cTBjd3F3bVJxd1JIZ3dreW5uMjBQZloxeFVFNnVMVmZId3NjV20tTnVBMzF2WWEycEU4SVlTOE1OdlR3VFQydllRY0Q4bUpXdXJ3RFZvcHY5U2lUVDc0VVNmZEszVXotcmc1UFI3N2x1X0ZFNzJNZU03VjY2WExWTFE1ZDdmUTFCLXY3UHBUV1hGQkJES1d3?oc=5",
+     "date": "2026-11-16T11:13:12.000Z",
+     "text": "Revisorische Prüfleistungen Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "COP 31 in Antalya: Umweltsenatorin Fegebank reist zur Weltklimakonferenz - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZVpjVU5maE5IOFhBS0o2Skp4czVlNzBseUpDTWRYaHJhNmdZM1JXTmEyemVLZThRTVJpNmpkY3VBSVEtRVlPQTd4Z3EtRC01bGdOOVFWY0lKNDhTU2ZfeHRuaFNoQW43eVQ2WjNaUUhfQTVxTGRHM3NKeHAwY2Zzd0FHWjJCV0xlbm5TLXFMRHdtMlZ1cF9HbTdYYVNLbTk5X3lOVXZRTDBUQmNfV2VkaFctSFJUdGxGS1FkYUJDbWNJODhOdkFTTnJqR0JTcGRTdW84SndPVGU4QTlEUmVqRGhVUQ?oc=5",
+     "date": "2026-11-16T11:15:00.000Z",
+     "text": "COP 31 in Antalya: Umweltsenatorin Fegebank reist zur Weltklimakonferenz Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Abpflastern-Wettbewerb 2026: Neuer Rekord an entsiegelten Flächen in Hamburg - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ1cyY3JkajhVNUJmOEVkaTZCS2JTR0RzeHFKZjJFbmFQNVNYWU85OTdkVXhnSlhudWNrVnhBak1ZOVFNZ2V6b3Z3X2wtTGNwQ01pbFpHamk4R2ZnUFRvTVJWMUJuWDNRbXpCQU9LcHBDSkVaTlR3RmIzVzFuMGRPTDlDUGU5bXNYSDNLbDYwRXNnVkItVmNBY21Md2hlX29YOGpoMC1zU2pVRzVtcjNqUm5CWmE4NWFmWG9rOXhZZGg?oc=5",
+     "date": "2026-11-16T09:00:00.000Z",
+     "text": "Abpflastern-Wettbewerb 2026: Neuer Rekord an entsiegelten Flächen in Hamburg Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Senatorin Dr. Leonhard mit Wirtschaftsdelegation zu Gesprächen in Helsinki - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ2hIRjJrLXlVUDVreTg2djdzNG9FU1l0Tkg4WDdlU2ZyMjZiQm1leGc2bUlvVVlMdV9iNzYwTEEwOHF4SzRfRWhjbW1qaXlGWDlyTDZLLWNhTE5uaHJ4MFM2QTVtVzhfUTk2Z281MEZIbnFmZEg1Qkl2a3RXMmhQcEU2Y3BIZlJrMnRtQzVaUy0yOHBmLTVQSTlxZi1rMjQxYVd1R3VGWVc3cWZNMVQxeFZDTXhGR3ZsQkVNRmFrUzJYNFZzZUlsNEtmOVF2Rl9mNWE2UlVqUGlsdGxuZnl3eUkzczBfdDZJT2V3Q2UtQUkzcGl1dEpqbWVDandEUQ?oc=5",
+     "date": "2026-11-16T08:30:00.000Z",
+     "text": "Senatorin Dr. Leonhard mit Wirtschaftsdelegation zu Gesprächen in Helsinki Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "SO-Pool - Los 4 - Rahmenvereinbarung für Planungs- u. Sachverständigenleistungen - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQenBJYktsWWpaaElBVWlUaWNDazBza204VDNMRFRQZUlEbDBiREF5d3VMU3VsUmU5X3p5NEJzMGZKU2M1Ylp5Ri11R1FkQ2hVbS02dUpqeU9icWRlYTVNWm8tN24tY1lSemdnbnEyY1F4UkhES0k2TXloU1R4SmFFLWJ4UUtQTXgzMnRIMGdCUnZLTEVIY24xSVd6T3VQeEpScDk2eG1hNU1mN2hGekdvODNydk9QT1lGTGp5cENoWTdoMkwzeEVITkhUVnY0ekx1dUhwbldRN1FBN001U0RQSUlnR0dkWjYtTDRQdVZ6bTRtNVZsckZZQUFwaExlMVhvMGdQbjNuUzlId0VwbE1hRw?oc=5",
+     "date": "2026-11-16T08:53:12.000Z",
+     "text": "SO-Pool - Los 4 - Rahmenvereinbarung für Planungs- u. Sachverständigenleistungen Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Hamburg gedenkt der Opfer von Krieg und Gewalt - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDJHdm1DODN2R0l1WjdmejBPU1k0Nk1mb3lmbnJtWGJzMGRpQVRiRHVQeDFDaFZqTktiNE9qd29jd1FCYVpzOHJzaEcySU1oQXM1YnhKd2pMNWg2TDlud294LWduRFFqX1RZS1VjRUF1Rm91Q3Ffa2FXQjBMUGswV0RqdlZWM0VtQ0VCU1BybUtiYnV2RnQ5UXVJS1EtekFjRUZWdWRsdktsU2JtMGZUbnhIWnJIZWZFdU5qMVhacWk?oc=5",
+     "date": "2026-11-15T13:30:00.000Z",
+     "text": "Hamburg gedenkt der Opfer von Krieg und Gewalt Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Neue Zahlen im Breitbandatlas verfügbar - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQktLWGFILVJzVld6bTd2NHVIQTc3MGVqMWhkcFJBZWh5X2FuTkVCek94T2tWS3RDNkYwZmlYVjB3NHB5blUyWnMwSHdFaU4ybi1zWHRsR3hLeVJnTFNIX1lPcUFIa3BIV1pwaGs2MjVEd0lvY1c1WFYtclh6bFhOWmlNTjdlMlBuaDR3VGNzMFdEOVk4dUFLNUdDU0JDUlBTQloyeGtwVnFHaXJ4QWItMWs5QmMxYlhadTdQVkV3UkhldUNCVml4QTh0OU45MVdodzBXOUltR2p2bG1IQmFQbTF3aDhvZjQ?oc=5",
+     "date": "2026-11-16T07:53:05.000Z",
+     "text": "Neue Zahlen im Breitbandatlas verfügbar Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "EU-Kommission gibt grünes Licht für Hamburger Hafeninvestitionen - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGNMUVJqSk5Yb0xUeFNDMTUyb3JCTnZyR21acFZvV2xmeDBzSzBSWEhWX0JGZFRObFl0a3pNN2RoMVhVSkhkSThPTnpaNGhOdjJ5NVc2eFl6ZHlNYldidmtQSHFpb0ZYU3JmR1dRRFpWVTBhZ1IxLVBlVUZMVEZYbDJKNmswTkNPbDZSbU1CM1JnNnJwRUNlUkxTUWRrTXoxc1NJY2RhSVNDYUZma0dj?oc=5",
+     "date": "2026-11-15T11:00:00.000Z",
+     "text": "EU-Kommission gibt grünes Licht für Hamburger Hafeninvestitionen Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Herbst - Schule Marckmannstraße",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoYWQ1WWJtbDBfeG1qQ0pTQUxka29WR2NYOElQTkluTHAyc2k3WTF2NWxGQzJsT2ZfWW1ZR3RUUl9UOHdEUFo2Q1dBMEhBckpBZzBXWEIwUlNqejlRYXRGV212QjhTYjJlZXBEcDdn?oc=5",
+     "date": "2026-11-17T02:54:31.000Z",
+     "text": "Herbst Schule Marckmannstraße",
+     "via": "Schule Marckmannstraße"
+    },
+    {
+     "title": "Tag der offenen Tür am 27. November 2026 - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14YXVFaDJnV1BkX0JEVzlSbm9zWml3SEtsTkNpRUFubEVZZ3Nja3Y4VnRaSnpFb2R5MVdQTFVUNVZOUDRLNHV1Tm9VRV9FY3BGaHc?oc=5",
+     "date": "2026-11-15T18:55:04.000Z",
+     "text": "Tag der offenen Tür am 27. November 2026 Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Touren durch den Alten Elbtunnel - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaUNaa1Mza2xqdW4yX1JlQkJCX3UybnlMcXlRNjhiTld1U05OaW1Dc29DUDJFaTRrNkcycENMRWdFRWprTXhMamM1b1dseG42bzdpU0dBWVZERkVES2prR3FsNGhGMXE2cUVJbUFhWjVCR1dMUU1jcVg5aTRsZW9fZWkxSHVYMGFhSlFJMWZCZXo?oc=5",
+     "date": "2026-11-15T21:26:13.000Z",
+     "text": "Touren durch den Alten Elbtunnel Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "E-Zigaretten richtig entsorgen - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW94bHdweXVYYmZqLW5RYkdTNk9kQnVMRFdCdzdSa29jdzdXMXZjLVE5TXA3NWxoMEU5VmlpVmxfY194WHZHVUJBQ29rLXNucWZDRG9HOUQ2dHRxd2d3NUlZaUM1SGttSUJIRE0tV1R0MEpsZXBqZEc3OWIzWUY4azJ3c3V3bDkxYTlVTjV1SWVwU0VWOTRDR3RVZmdiRWxrSlBTWTBSTzE3UFd4MTNGUFZkUkdGU2Y5RjFBcVJRbnN1WGNuaF83SDU2Yw?oc=5",
+     "date": "2026-11-15T21:26:12.000Z",
+     "text": "E-Zigaretten richtig entsorgen Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "ÖA-IDG-159-26 Bauliche Verbesserung Georgswerder Bogen 9 - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOelpZZWNFZ0x6TnVZYi1xb0pTOE53cVlLY1pZSmhFQ29jZTA2WFJFcWt0RVpGNWRJQkxyWTd5d1lPWlh0MUktTWgwT3otSFhyUkRsQkd2MFFnTW9BeVE3aGRSUlY2bEZBOXlkOF9CMGt1aDZMX0N2bS01My05RXBnTFl5Tk5wN2ZJeHB3Sk1makRNdzlSRXM1WEJ6WGl5X2w2T0h6dnJn?oc=5",
+     "date": "2026-11-16T12:53:13.000Z",
+     "text": "ÖA-IDG-159-26 Bauliche Verbesserung Georgswerder Bogen 9 Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "SO-Pool - Los 5 - Rahmenvereinbarung für Planungs- u. Sachverständigenleistungen - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQQzZxUXRKZURXd3pMd1Z2aTF6aWEwU2NGQ3VqajdEbnpObzlmQ1RqMGNhSWZmR2lCc1BJWjYxSmFyc1pWTGlJWDdaNzR3QTFTUWhGZzJZbG5maldiVlhwb0pvaUozbFQxd1pXN0l1MHgzczk2WTZFVEpzbnNacjRWZW9zNGpZSkF5RFFPRFZPTHdZb3JMZ3dwUkUxVmhUTmRsZ2FHOThpSE1XNFdNdWs0OEk5ZUcwbkVhZHFja25keVBGb0EtcEZDZjNRLVR2cWhFZk9WUl8tSmZBczhNTWFINUhtRHNNMTNrUkg2X0VsTmsxUFU3bXd0UXFGbW8wNURfUUdsd0ZuUlVIZkRLRTkxaQ?oc=5",
+     "date": "2026-11-16T09:03:09.000Z",
+     "text": "SO-Pool - Los 5 - Rahmenvereinbarung für Planungs- u. Sachverständigenleistungen Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "SO-Pool - Los 3 - Rahmenvereinbarung für Planungs- u. Sachverständigenleistungen - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNY0l6b0FNdHlCN1FKNkw1cnJqMHNTTjE5NmtpXzJfQ2JzTENPUHYwRnZpOWhwRGcxWGN2QW5LTENxZV9CS0V3ckRDbFBuVExzYTFNQ25Xbm9lMDBzQmM0OGYwNjBKcU9PZWpLcWpFV2laSC11ZVE5bFgxVnJxVEtlYmlQQ0VzOG43VlE2UlBOaTlZZi1POVdqZFVNTV83dnZJRmVZVE1sdloyWGNUR0pJdFJocVdQZHVWM3h0OEpiQUFSZ0o1dXhiX3FNelFNOVZpc0hHeThONWJKdEc3REhKVmR3Q3ZTbS1QczBqSjcycHN1VXlOcXhmMXdLUHcwQm1aYWtraFUwVW93NzZLZ2RTVA?oc=5",
+     "date": "2026-11-16T08:48:09.000Z",
+     "text": "SO-Pool - Los 3 - Rahmenvereinbarung für Planungs- u. Sachverständigenleistungen Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "SO-Pool - Los 2 - Rahmenvereinbarung für Planungs- u. Sachverständigenleistungen - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMmE5Tk9SZzViUW95UkdqQmctbVBKcW5CUFBWODRxU3J2LU9WczBLZUI5czdwVmlLbGgwSXVseVkzZmVtbEpOOWkwMmdiYzZXdUZIUjQ2SE5uWmlaNkZQWVo2Sms3aUszUEEzYURzc2N6NnpQRGhCTmNUVmpqZnU1VzRvQ3lwUHlOYVdMZk9PVnh4TEo4OERGTVdwWE1kM0ZUeEYxME1scUQ1SVBTdXV4S05jdWg4bXdWcmtTU0s0TjRjeWJwcExaTE5WcW1lZ1QzdjhLMTRNMnhuZjFoMHVRa1BGY0MxV0RPNENTVEZJenlNUEpGMjZiX0QzakJ0ZkwxN0FidWl4T3BMbEpMRUtHUw?oc=5",
+     "date": "2026-11-16T08:43:09.000Z",
+     "text": "SO-Pool - Los 2 - Rahmenvereinbarung für Planungs- u. Sachverständigenleistungen Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Was Stolpersteine mit Demokratie zu tun haben - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUZPdEdnVmVBRGZ2em40Q2xpY0Z6aHJhVmZyRE5SdjVaU3lieHFoYUJwekJENEM1QThTU3pJSTcwX0dZM2FnWE02U1BVV1plQWJMM0JLODRpemVqbDBHWmUyM2x6eHdWZTljMG9BVnFnRjRIS3dHQmRrbjlIUHpwcy0tMXJyM0lOT2htUVlnc2xMQmIyUDRrRWlFQnhUU28?oc=5",
+     "date": "2026-11-16T23:44:32.000Z",
+     "text": "Was Stolpersteine mit Demokratie zu tun haben Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Neues Altersvorsorgedepot: Vorsicht vor teuren Angeboten und vorschnellen Abschlüssen - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUVRROWJWOVpMNUJoTDFaZGphc3ZpbFRPeWVKdVFqX3BodUh2NkpOVXU3TFhtUmVLdUc3WkxfdzgtRnVxWjdZTDBjNlBPYzgxUGphR1gzRVVHVXpxY0dEN2l3dzYxcmJpeXlfek82azhyU2JFWFJrOEJuVWJQSzlQX2F4cjVNSUxwQWtXamhHc2UtMUNCcHJ0SVB3YktPaEcyNDk0Q2p4Y01MU1M1RkxtWExvRWlBbDlMRnlLMThiajN0dndOV210RHZFZTNYRmw3YnpITURLRQ?oc=5",
+     "date": "2026-11-15T22:15:32.000Z",
+     "text": "Neues Altersvorsorgedepot: Vorsicht vor teuren Angeboten und vorschnellen Abschlüssen Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Projektwoche Kunst vom 9.11. — 13.11.26 - Schule Alsterredder",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSzRPQkF0VHA2R1JVVnBlX3cyY0d0ZEZLMXZQN0xWcFBfX3JncUl2MWRQVmltY0Z1anNDTndFaUVCcXVrREJxSVJMSEhGWF9MTHphRENySWt4YVdNeTF6Wl92dTdKUFp0MEsxa3ltTWxjc1h2Nm5rSjNLaHc3Rk9SSGVn?oc=5",
+     "date": "2026-11-17T04:45:42.000Z",
+     "text": "Projektwoche Kunst vom 9.11. — 13.11.26 Schule Alsterredder",
+     "via": "Schule Alsterredder"
+    },
+    {
+     "title": "Weihnachtsfeier St. Simeon - Grundschule Goosacker",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeWlLTzlySmZsU2dtSzRFN2VOelRER2E2ZWhGQURDVDlidDYtZHM5VGFTeWJyRWZSb0I3UGhJN2o4VXdGSGdLay01NThSOERCbldBRGdDWmF5MUNFSm80X0ZiYmVCRXUtV0VpYmlBOXJMQU8zLVkwUlpHelJOMVB3MA?oc=5",
+     "date": "2026-11-17T00:39:44.000Z",
+     "text": "Weihnachtsfeier St. Simeon Grundschule Goosacker",
+     "via": "Grundschule Goosacker"
+    },
+    {
+     "title": "LEG Klasse 1 und 4 (schulfrei für Jahrg. 1+4) - Grundschule Goosacker",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0xka0VSMHBDVFlTbmZnUFlyNDJLLWEyTEVqZkhaUEdRRlBUYjJaeGdfZ2wtblFadDN0anUzSFM5OUJlY0p4Nm1kQ2U0eTNXSEQ0ZkIzSjNKQXVNN3NVT2g3b09XeldubVRZVW55SWtDVGJwR01TeldxTlQ0T1pBbDNpU2RaOVJMWE9MTWZoQmE1czVubHc?oc=5",
+     "date": "2026-11-17T00:39:43.000Z",
+     "text": "LEG Klasse 1 und 4 (schulfrei für Jahrg. 1+4) Grundschule Goosacker",
+     "via": "Grundschule Goosacker"
+    },
+    {
+     "title": "John Neumeier - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXNMd0h2Wl8ybDBBaUFyTDNjMHhPRmZLM01DaUUya2VxbG4yQ3B4VndMQXpBTHhDel9hQ284N3FXVXdIdjJ4ZTY3MDZkRWx1MmRsQ0lTbFFQZWdLUkwxd2d5OWR3Tk9wMEJuNk9JVnloMWFPaE5uNmRxb2Q0SXNGckJBeHNlMFl1OWswWmZ5bjZtLXZ3MlFfcllOMA?oc=5",
+     "date": "2026-11-16T13:11:55.000Z",
+     "text": "John Neumeier Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Uwe Seeler: Festakt zur Verleihung der Ehrenbürgerschaft - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjZkSDU3S0Y4NmNFMXlrUnZtVWdkX3R3MDZVSUpsWnVwQ1h2eU1SWG5GUVJUTUdCSlFqWDhDbDJoX250TG00bnp2VkQ0dVk2bldpVGlLVk5aZ1pBR2otRExnMzRQVG5LaTIyX3UzMGlFUTlCXzJwRHV5VjgxOXFPc1lpQng4RmxodTFKZmZ1cTNKdWNkVlViZlItMXpOaVY2?oc=5",
+     "date": "2026-11-15T20:13:43.000Z",
+     "text": "Uwe Seeler: Festakt zur Verleihung der Ehrenbürgerschaft Hamburg.de",
+     "via": "Hamburg.de"
+    }
+   ]
   },
   {
    "name": "NIUS (Google News)",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Nur Meldungen mit Hamburg-Bezug. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
+   "ok": true,
+   "items": [
+    {
+     "title": "Kritik zu „Wild Horse Nine“: Wenn der CIA Urlaub auf der Osterinsel macht – und einer sterben will - NIUS",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BNnRyWlFrdkdKRkl5OERIQXpDbVBxMTBxYWY4Yy0wLXJHY2MwRFJodFhWbTZieE9LUHJiQUEtYmJrajRuT2F2WUpJM3NhbFd1VnozdmxJVzZCYk5CR2F5MzZGTnBkVWhIQmxhNnY5MFBRajZN?oc=5",
+     "date": "2026-11-16T23:30:04.000Z",
+     "text": "Kritik zu „Wild Horse Nine“: Wenn der CIA Urlaub auf der Osterinsel macht – und einer sterben will NIUS",
+     "via": "NIUS"
+    },
+    {
+     "title": "Islamistische Posts: Gericht bestätigt Ausweisung eines Afghanen - NIUS",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYWpBMXc1WVBheU5RdDd2RkRHT2hURnBoNUNBcUJKdFdVSnJDWkotbzN1SkNydHNsbDVwVnFLdHE4VWRBQzdSbGZlaUhDbkJmb2VBQWhILVJRdng1TjRnZlhDS0lQMWRZQzRQTVhab1BQa1NlQTRQUTZoZWpjM2c5RkVZeDlpa3dwVGw0R3FHYw?oc=5",
+     "date": "2026-11-16T15:23:53.000Z",
+     "text": "Islamistische Posts: Gericht bestätigt Ausweisung eines Afghanen NIUS",
+     "via": "NIUS"
+    }
+   ]
   }
  ]
 }

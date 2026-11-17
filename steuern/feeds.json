@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T05:17:12.024Z",
+ "fetched": "2026-11-17T05:18:57.126Z",
  "hours": 48,
  "sources": [
   {
@@ -57,25 +57,20 @@
   },
   {
    "name": "Google News: Gewerbesteuer",
-   "ok": true,
-   "items": [
-    {
-     "title": "„Steueroase“ war einmal: Bad Wörishofen verlangt künftig deutlich mehr Gewerbesteuer - Augsburger Allgemeine",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd0p1Q2l0TWgyTWNSck56THFDbWtNMUpmNHlBcl9UdjJrei1CeV9YRjF3aW83cGgwckhQSnNhYnV4V09RS0drcnpmdVRqOFZ5amlQV1N0US1tdkxjdEVTdWRzcnhvN2ZITG5Rd0JQZXpsaUctZzJDeHFkeFVYZ3lQMXNRclA4dXI4eDlzMkMyUU5qUmdpMzNxWVdWak53YXpTMENMR2lVNk9raC0zbldmZjRkamttb0RYT2FIVGE1OUJKdGthelFMUG1vRWdCb2lLRGp6U0tsdVRxUFk?oc=5",
-     "date": "2026-11-16T03:40:43.000Z",
-     "text": "„Steueroase“ war einmal: Bad Wörishofen verlangt künftig deutlich mehr Gewerbesteuer Augsburger Allgemeine",
-     "via": "Augsburger Allgemeine"
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 429",
+   "items": []
   },
   {
    "name": "Google News: Sonderwirtschaftszonen",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 429",
    "items": []
   },
   {
    "name": "Google News: BFH und BVerfG",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 429",
    "items": []
   },
   {
@@ -93,7 +88,8 @@
   },
   {
    "name": "LTO (Google News)",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 429",
    "items": []
   },
   {
