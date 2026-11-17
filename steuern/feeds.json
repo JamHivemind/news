@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T03:49:33.196Z",
+ "fetched": "2026-11-17T05:17:12.024Z",
  "hours": 48,
  "sources": [
   {
@@ -45,44 +45,15 @@
   },
   {
    "name": "Google News: Grundsteuer",
-   "focus": "Länder- und bundesweite Meldungen, keine Einzelfall-Ratgeber",
-   "ok": true,
-   "items": [
-    {
-     "title": "Grundsteuer rauf, Kita-Beiträge stabil? Grüne nennen Bedingungen in Dresden - Die Sachsen News",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDY4YmJ0WHVwVXl6d1pESzYzWFJqTzhFVGZzZ0tmYWZOM3V1bjRIbWpTVUUwbVFXTC1uNk1KUzJRNEkwd3ZpeDBFNXEzRkxmMWNOdWxTOEFhNGRmMDZBS19JZFdmeHY1d1ltM0Q2b3pKb2ZyWGc3NXRhMXA3TlJLTTU0a2VocklpYmk2UmdpQVpMRWJtZ1doUHNfY1lpRVFTa1l6ejBBOWg2bzZSQ05iY1dqbDU0SWJtWEpsdC1ubVUzX0U?oc=5",
-     "date": "2026-11-16T12:13:44.000Z",
-     "text": "Grundsteuer rauf, Kita-Beiträge stabil? Grüne nennen Bedingungen in Dresden Die Sachsen News",
-     "via": "Die Sachsen News"
-    },
-    {
-     "title": "Grundsteuer in Hamburg: Dieses Urteil wird entscheidend - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmE5SmFxTlByV0tjdm9WTHRIYTIzVDd5d0lyRUI1MFBWeGN5WFZ1VkQyaDVrLWU4eExUNm5Dc0V6Tko1WFNzaEVEUHAwUTMxbGRLamFub2E0UE9tREVmMGRua0pGMDNaRmVReU53V0t2ZkZ5ZEFUQVk5VTZ2T1JUa00wemozTTg4amtpUkJnaWc3ZWxTazZTV0hQZzhnS0NLRDdMS3F0aW9BNG4yM3RPQkVuMTEtQQ?oc=5",
-     "date": "2026-11-16T11:09:44.000Z",
-     "text": "Grundsteuer in Hamburg: Dieses Urteil wird entscheidend MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Eiterfeld passt Grundsteuer 2027 an: Gemeinde nennt steigende Kosten und Sanierungsstau als Gründe - fuldainfo.de",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3VWRnJ6ZUNKQVpDMDUwVHAtYnYtVGV3QVRpQ3lvNkVJYkh5ZERERjkyV25jdmRDcHFUdXhNbDhvd1BBZUJlaE5VcGdQVXVQejl6V2h2RXRfSzNqczM5eGI3bnE4QU5rMDM0R3VaWlNsMEtmSnZtbldXZGFIbXp2eVRNQXp2aGtDYU5yM3JFSldtMGUwQ3JNUlRMNmEyYUQxSkRLWHhCSGctRzl1SlktVDFJa0o0SzdoNklia1VEZVgxQQ?oc=5",
-     "date": "2026-11-16T13:45:15.000Z",
-     "text": "Eiterfeld passt Grundsteuer 2027 an: Gemeinde nennt steigende Kosten und Sanierungsstau als Gründe fuldainfo.de",
-     "via": "fuldainfo.de"
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 429",
+   "items": []
   },
   {
    "name": "Google News: Grunderwerbsteuer",
-   "ok": true,
-   "items": [
-    {
-     "title": "Grunderwerbsteuer nach dem Hausbau: Wann das Finanzamt die Baukosten nachträglich besteuert - openPR.de",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeU92MmUyMHF6YnJoVnVxTVpvLTFaMUNNN0lLV3dJQTJQbjNETlZYcEZyR2stYjFzeVNTc1o4TU00MEpJRC1sM0ZHSVd1dml5TkFmTmR2Z3NxTmg0YUJEV29qSVNBdUwyeWotcTg0eVVPWnZWYTRfNW9TYXNqMkxRdUZ3TEhKamRaZ0NSQ0FxOXN3ZmF5T0tlV0NXUkxDekVYTDh4X2ZJZ1c5MTdxRWhrRkU4Sm9sbk5aZjFLcV9PbmtWelBaVDdkZE9SVQ?oc=5",
-     "date": "2026-11-16T19:12:00.000Z",
-     "text": "Grunderwerbsteuer nach dem Hausbau: Wann das Finanzamt die Baukosten nachträglich besteuert openPR.de",
-     "via": "openPR.de"
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 429",
+   "items": []
   },
   {
    "name": "Google News: Gewerbesteuer",
@@ -109,9 +80,16 @@
   },
   {
    "name": "Google News: Steuergesetze",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "Bundestag beschließt Jahressteuergesetz 2026 - RSM Ebner Stolz",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRE1EX0gyeEhlOWdvQ2ZVeU9qSnE3ZkYtbjFrcTFjdDJLb0ZtekJ6SC1hVUF5OGJyTmR5d204UHFPX1hqLXlLYnloWjY3SGFSRTZTdXVlMndZeUozWkJRY3pfY0Z4UDV0X0ZCbllLSEFUYmdwYkJadEc2QzJ6S0IwYXctQmZqV0hGZWZ5WVhvT1NoREpDaHRTTTFZdjZFZDBVdXlHOWhtekxOeWdqMm5QTERwazNWTmp6OE5TNTRHTmRsMEZndFdmSUxR?oc=5",
+     "date": "2026-11-16T13:25:06.000Z",
+     "text": "Bundestag beschließt Jahressteuergesetz 2026 RSM Ebner Stolz",
+     "via": "RSM Ebner Stolz"
+    }
+   ]
   },
   {
    "name": "LTO (Google News)",
@@ -143,6 +121,12 @@
    "focus": "Nur Steuern, Grundsteuer, Erbschaft, Abgaben und Standortfragen. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
    "ok": true,
    "items": [
+    {
+     "title": "Gratis-Leberkäse für Nicht-Rassisten: Wie „Antirassismus“ zur Marketingmasche verkommt",
+     "url": "https://nius.de/kommentar/gratis-leberkaese-fuer-nicht-rassisten",
+     "date": "2026-11-17T04:00:00.000Z",
+     "text": "Mit 150 kostenlosen Leberkässemmeln will eine Nürnberger Metzgerei ein Zeichen gegen Rassismus setzen. Dabei soll offenbar die Annahme eines Brötchens von einer schwarzen Verkäuferin als Beleg für eine nicht-rassistische Haltung gelten. Doch durch die Verknüpfung mit einer Werbe-Aktion wird ein schwerwiegendes gesellschaftliches Problem wie Rassismus nicht etwa bekämpft – sondern banalisiert."
+    },
     {
      "title": "Die „Gen Z“ gehört nicht auf die Straße, sondern vor den Richter",
      "url": "https://nius.de/guten-morgen-deutschland/gen-z-gehoert-vor-den-richter",
@@ -316,12 +300,6 @@
      "url": "https://nius.de/kriminalitaet/schuesse-geschaefte-bielefeld-schutzgelderpressung-mafia",
      "date": "2026-11-16T11:15:58.000Z",
      "text": "Nach Schüssen auf Geschäfte in Bielefeld und Umgebung wurde nun ein weiterer Tatverdächtiger festgenommen. Es handelt sich um eine ganze Serie von Anschlägen auf Geschäfte. Es geht um Schutzgelderpressung. Dahinter soll die „Gen‑Z‑Mafia“ stecken."
-    },
-    {
-     "title": "Brüssel genehmigt Commerzbank-Übernahme ohne Auflagen",
-     "url": "https://nius.de/wirtschaft/bruessel-genehmigt-commerzbank-uebernahme-ohne-auflagen",
-     "date": "2026-11-16T10:57:37.000Z",
-     "text": "Die EU-Kommission hat der italienischen Großbank Unicredit die Übernahme der Commerzbank erlaubt."
     }
    ]
   }

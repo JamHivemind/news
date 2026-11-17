@@ -1,6 +1,30 @@
 {
   "briefs": [
     {
+      "date": "2026-11-17",
+      "file": "2026-11-17.html",
+      "headline": "Anthropic geht an die Börse – Preisfestlegung am Mittwoch",
+      "count": 16,
+      "sources": 9,
+      "cats": {
+        "Business & Funding": 3,
+        "Regulierung & Politik": 1,
+        "KI im Alltag & Beruf": 3,
+        "Tools & Agenten": 3,
+        "Forschung & Deep Tech": 4,
+        "Modelle & Releases": 1,
+        "Claude & Anthropic": 1
+      },
+      "ents": {
+        "Anthropic": 2,
+        "OpenAI": 5,
+        "Nvidia": 1,
+        "Google": 1,
+        "Alibaba/Qwen": 1,
+        "Apple": 2
+      }
+    },
+    {
       "date": "2026-11-16",
       "file": "2026-11-16.html",
       "headline": "Anthropic geht an die Börse: Rekord-Börsengang im Test",
