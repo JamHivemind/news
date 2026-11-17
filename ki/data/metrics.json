@@ -39,6 +39,11 @@
    "cs.AI": 82,
    "cs.LG": 78,
    "cs.CL": 37
+  },
+  "2026-11-17": {
+   "cs.AI": 135,
+   "cs.LG": 252,
+   "cs.CL": 160
   }
  },
  "stocks": {
@@ -1100,41 +1105,41 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 9190,
+   "likes": 9385,
    "downloads": 29567,
    "task": "text-generation"
   },
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 1336,
+   "likes": 1354,
    "downloads": 609130,
    "task": "text-to-image"
   },
   {
    "id": "Qwen/Qwen3.8-27B",
-   "likes": 20293,
+   "likes": 20316,
    "downloads": 6763402,
    "task": "image-text-to-text"
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 12277,
+   "likes": 12304,
    "downloads": 2789021,
    "task": "image-to-video"
   },
   {
    "id": "Comfy-Org/MiniMax-H3-Image",
-   "likes": 497,
+   "likes": 503,
    "downloads": 2294065,
    "task": "text-to-image"
   },
   {
    "id": "Zyphra/ZONOS3-Mini",
-   "likes": 490,
+   "likes": 497,
    "downloads": 69946,
    "task": "text-to-speech"
   }
  ],
- "updated": "2026-11-17T05:22:51.613Z",
+ "updated": "2026-11-17T08:36:17.467Z",
  "updatedDay": "2026-11-06"
 }

@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T05:22:22.498Z",
+ "fetched": "2026-11-17T08:35:52.268Z",
  "hours": 48,
  "sources": [
   {
@@ -7,18 +7,18 @@
    "ok": true,
    "items": [
     {
-     "title": "Erbschaftsteuer ohne Zugriff auf den Nachlass - Anwalt.de",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3NfTTl0YmZVLUVackh6dzVWYlFqWFBnTGdBVE5yLWktYmdTMGNYOXlIcDFQeHRPUWFMMjZpc0ZTNlJfbHJnYlFkUGUybEZNNmlERWlUeE1sSjZSam5CbkpLYUcxSWxaRnEyZjlfOVRyU1lsRkMwbnRHR3R1XzhhVkhLS0xjSEtqemY4TVhlUlpSdmhPOWc?oc=5",
-     "date": "2026-11-16T15:23:10.000Z",
-     "text": "Erbschaftsteuer ohne Zugriff auf den Nachlass Anwalt.de",
-     "via": "Anwalt.de"
-    },
-    {
      "title": "Tag: Erbschaftsteuer - Windkraft-Journal",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tVEJyVUh1TDJwRHRieVZiRW9mSVlUMDZDOWdCNDE2aGkxSUQ0ejF6Vi1jbnhLWHdVZUJJeVV2VUZTTVRsb3EtOTJOc3JkOGx2aHBQZHdZejVzWV9mODM5dUVB?oc=5",
      "date": "2026-11-16T14:32:20.000Z",
      "text": "Tag: Erbschaftsteuer Windkraft-Journal",
      "via": "Windkraft-Journal"
+    },
+    {
+     "title": "Erbschaftsteuer ohne Zugriff auf den Nachlass - Anwalt.de",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3NfTTl0YmZVLUVackh6dzVWYlFqWFBnTGdBVE5yLWktYmdTMGNYOXlIcDFQeHRPUWFMMjZpc0ZTNlJfbHJnYlFkUGUybEZNNmlERWlUeE1sSjZSam5CbkpLYUcxSWxaRnEyZjlfOVRyU1lsRkMwbnRHR3R1XzhhVkhLS0xjSEtqemY4TVhlUlpSdmhPOWc?oc=5",
+     "date": "2026-11-16T15:23:10.000Z",
+     "text": "Erbschaftsteuer ohne Zugriff auf den Nachlass Anwalt.de",
+     "via": "Anwalt.de"
     },
     {
      "title": "BFH setzt Grenzen für Erbschaftsteuer-Härtefälle - openPR.de",
@@ -45,9 +45,38 @@
   },
   {
    "name": "Google News: Grundsteuer",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Länder- und bundesweite Meldungen, keine Einzelfall-Ratgeber",
+   "ok": true,
+   "items": [
+    {
+     "title": "Grundsteuer steigt deutlich: Warum müssen Bürger mehr zahlen? - OSTHESSEN|NEWS",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdkdDc3AyX1RYck90NkhlelN1b2x5RFJNYWpXRGYtdWhfNUhscmJSQmFSOTJONmhrYjZLc3Zha0pfY3phOHVnN0p4aHExQXV3OHhleExiZW9Dd2o3WEpIcjVNVkp3X2hYaHVxcHNMZkhjZGpKeUNqaF9aOXhRWU42WmxaMUdZcmFvR2FCUFc3cjJhS2JJYWtxbmpvZGlBUFVjSzAzUw?oc=5",
+     "date": "2026-11-17T08:03:18.000Z",
+     "text": "Grundsteuer steigt deutlich: Warum müssen Bürger mehr zahlen? OSTHESSEN|NEWS",
+     "via": "OSTHESSEN|NEWS"
+    },
+    {
+     "title": "Grundsteuer in Hamburg: Dieses Urteil wird entscheidend - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmE5SmFxTlByV0tjdm9WTHRIYTIzVDd5d0lyRUI1MFBWeGN5WFZ1VkQyaDVrLWU4eExUNm5Dc0V6Tko1WFNzaEVEUHAwUTMxbGRLamFub2E0UE9tREVmMGRua0pGMDNaRmVReU53V0t2ZkZ5ZEFUQVk5VTZ2T1JUa00wemozTTg4amtpUkJnaWc3ZWxTazZTV0hQZzhnS0NLRDdMS3F0aW9BNG4yM3RPQkVuMTEtQQ?oc=5",
+     "date": "2026-11-16T11:09:44.000Z",
+     "text": "Grundsteuer in Hamburg: Dieses Urteil wird entscheidend MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Grundsteuer rauf, Kita-Beiträge stabil? Grüne nennen Bedingungen in Dresden - Die Sachsen News",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDY4YmJ0WHVwVXl6d1pESzYzWFJqTzhFVGZzZ0tmYWZOM3V1bjRIbWpTVUUwbVFXTC1uNk1KUzJRNEkwd3ZpeDBFNXEzRkxmMWNOdWxTOEFhNGRmMDZBS19JZFdmeHY1d1ltM0Q2b3pKb2ZyWGc3NXRhMXA3TlJLTTU0a2VocklpYmk2UmdpQVpMRWJtZ1doUHNfY1lpRVFTa1l6ejBBOWg2bzZSQ05iY1dqbDU0SWJtWEpsdC1ubVUzX0U?oc=5",
+     "date": "2026-11-16T12:13:44.000Z",
+     "text": "Grundsteuer rauf, Kita-Beiträge stabil? Grüne nennen Bedingungen in Dresden Die Sachsen News",
+     "via": "Die Sachsen News"
+    },
+    {
+     "title": "Eiterfeld passt Grundsteuer 2027 an: Gemeinde nennt steigende Kosten und Sanierungsstau als Gründe - fuldainfo.de",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3VWRnJ6ZUNKQVpDMDUwVHAtYnYtVGV3QVRpQ3lvNkVJYkh5ZERERjkyV25jdmRDcHFUdXhNbDhvd1BBZUJlaE5VcGdQVXVQejl6V2h2RXRfSzNqczM5eGI3bnE4QU5rMDM0R3VaWlNsMEtmSnZtbldXZGFIbXp2eVRNQXp2aGtDYU5yM3JFSldtMGUwQ3JNUlRMNmEyYUQxSkRLWHhCSGctRzl1SlktVDFJa0o0SzdoNklia1VEZVgxQQ?oc=5",
+     "date": "2026-11-16T13:45:15.000Z",
+     "text": "Eiterfeld passt Grundsteuer 2027 an: Gemeinde nennt steigende Kosten und Sanierungsstau als Gründe fuldainfo.de",
+     "via": "fuldainfo.de"
+    }
+   ]
   },
   {
    "name": "Google News: Grunderwerbsteuer",
@@ -64,9 +93,23 @@
   },
   {
    "name": "Google News: Gewerbesteuer",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "Taufkirchner Gewerbesteuer steigt nur auf Mindestmaß – Grüne scheitern mit höherem Satz - Merkur",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTVAwaFVqNTU2dUp1Y0xmTV9nTE9OVGhNUEZXeUU4X2FEdlFfT1lZNnNieFBSczE2cThobno2cDdZUFluSTE5elhGbXdIdWtYRmM2QmZScm1HUkFTZm5vc0NOSG1nM2Ewd0FwZnZMSDIwOFZaem1sYWhjX0VZS0VDX1JfbzgwLVlUeTF0TGlxV2xaQjV3S0xWUGp6Y3Z1c1hURmM3SHZDU2p2UDZCdTBacDNVQnpDRWV4NG1xVy0ydDhNd0lzVjUxT29tUmthYUlyN29VbFFCUFd3UHQ2SXFmaFgzTlIyU1I2Z2t3Z3RXdE1lZFhHeG51Z2R1eFVaam5LdEdFYzFnRUMzS2c?oc=5",
+     "date": "2026-11-17T05:34:00.000Z",
+     "text": "Taufkirchner Gewerbesteuer steigt nur auf Mindestmaß – Grüne scheitern mit höherem Satz Merkur",
+     "via": "Merkur"
+    },
+    {
+     "title": "„Steueroase“ war einmal: Bad Wörishofen verlangt künftig deutlich mehr Gewerbesteuer - Augsburger Allgemeine",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd0p1Q2l0TWgyTWNSck56THFDbWtNMUpmNHlBcl9UdjJrei1CeV9YRjF3aW83cGgwckhQSnNhYnV4V09RS0drcnpmdVRqOFZ5amlQV1N0US1tdkxjdEVTdWRzcnhvN2ZITG5Rd0JQZXpsaUctZzJDeHFkeFVYZ3lQMXNRclA4dXI4eDlzMkMyUU5qUmdpMzNxWVdWak53YXpTMENMR2lVNk9raC0zbldmZjRkamttb0RYT2FIVGE1OUJKdGthelFMUG1vRWdCb2lLRGp6U0tsdVRxUFk?oc=5",
+     "date": "2026-11-16T03:40:43.000Z",
+     "text": "„Steueroase“ war einmal: Bad Wörishofen verlangt künftig deutlich mehr Gewerbesteuer Augsburger Allgemeine",
+     "via": "Augsburger Allgemeine"
+    }
+   ]
   },
   {
    "name": "Google News: Sonderwirtschaftszonen",
@@ -121,6 +164,13 @@
      "date": "2026-11-17T00:42:52.000Z",
      "text": "Zur Anwendung von § 163 Abs. 1 Satz 1 AO im Erbschaftste ... / 3. Das Urteil des BFH v. 25.2.2026 – II R 1/22 Haufe. Intelligenz, die bewegt.",
      "via": "Haufe. Intelligenz, die bewegt."
+    },
+    {
+     "title": "Gutachterauftrag für Grundbesitzwert ausreichend für AdV | Steuern - Haufe. Intelligenz, die bewegt.",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODZnMTR4Y092UUdyR2Q5b3Fhdm5DZUh6YnFTemI5Yl8zWDFuQW40aUJ0WFRUanFwejRteVFfYndveHBWVW1zcDF0Vm9UcEY4ck9Td1F1YVZVTWlCUVdac19UQXB1SU8yMnp6cnFKYTlicHotRG5qbERhckhIY3dNN2szTWpSTUpXS1ZnRjF2YXhfMV9qSVR1ZVIzb0ZvWkNoNDBDTENYQ1NqZ0x5LTZCVV95WHpnWEdxZ2c?oc=5",
+     "date": "2026-11-17T07:10:41.000Z",
+     "text": "Gutachterauftrag für Grundbesitzwert ausreichend für AdV | Steuern Haufe. Intelligenz, die bewegt.",
+     "via": "Haufe. Intelligenz, die bewegt."
     }
    ]
   },
@@ -129,6 +179,54 @@
    "focus": "Nur Steuern, Grundsteuer, Erbschaft, Abgaben und Standortfragen. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
    "ok": true,
    "items": [
+    {
+     "title": "Klopps übler Jubel-Befehl",
+     "url": "https://nius.de/kommentar/klopps-uebler-jubel-befehl",
+     "date": "2026-11-17T08:02:40.000Z",
+     "text": "Bundestrainer Klopp möchte, dass Felix Nmecha seinen Jubel für Jesus unterlässt. Antonio Rüdiger darf den Tauhid Finger weiterhin zeigen. In der Nationalmannschaft herrscht zweierlei Glaubensfreiheit."
+    },
+    {
+     "title": "Deutsche Bank: Mega-Leak enthüllt Geschäfte mit Russland, Epstein und Trump",
+     "url": "https://nius.de/news/deutsche-bank-mega-leak-enthuellt-geschaefte-mit-russland-epstein-und-trump",
+     "date": "2026-11-17T07:58:43.000Z",
+     "text": "Millionen interne Dokumente der Deutschen Bank enthüllen brisante Details zu Russlandgeschäften, Steuermodellen, Jeffrey Epstein und Donald Trump."
+    },
+    {
+     "title": "Razzia in Neukölln: Hisbollah-naher Moscheeverein verboten",
+     "url": "https://nius.de/nachrichten/razzia-in-neukoelln-hisbollah-naher-moscheeverein-verboten",
+     "date": "2026-11-17T07:17:20.000Z",
+     "text": "Razzia in Berlin: Hisbollah-naher Moscheeverein in Neukölln verboten. Die Polizei durchsucht 28 Objekte, das Vereinsvermögen wurde beschlagnahmt."
+    },
+    {
+     "title": "Rocker-Razzia: NRW verbietet „Hells Angels“-Ableger in Mönchengladbach",
+     "url": "https://nius.de/news/rocker-razzia-nrw-verbietet-hells-angels-ableger-in-moenchengladbach",
+     "date": "2026-11-17T06:32:45.000Z",
+     "text": "NRW verbietet „Hells Angels“-Ableger in Mönchengladbach. Ermittler prüfen auch Verbindungen zu kriminellen Clans und den „Grauen Wölfen“."
+    },
+    {
+     "title": "El Hierro unter Migrationsdruck: „Vor der ganzen Hafenmauer sind unzählige Flüchtlinge“",
+     "url": "https://nius.de/nius-live/el-hierro-migranten-migrationsdruck",
+     "date": "2026-11-17T06:17:18.000Z",
+     "text": "El Hierro unter Migrationsdruck: Karin Kamm berichtet bei NIUS über Tausende Migranten, volle Häfen, Notunterkünfte und Militär."
+    },
+    {
+     "title": "Energiewende: Ökonomen warnen vor weiteren 50 Milliarden Euro Förderkosten",
+     "url": "https://nius.de/wirtschaft/energiewende-oekonomen-warnen-vor-weiteren-50-milliarden-euro-foerderkosten",
+     "date": "2026-11-17T06:14:10.000Z",
+     "text": "26 Ökonomen warnen vor zusätzlichen Förderkosten von 50 Milliarden Euro allein für Biogas durch die geplante EEG-Reform von Schwarz-Rot."
+    },
+    {
+     "title": "Haushalt 2027: Schwarz-Rot verschärft Stellenabbau bei Bundespolizei, Zoll und Bundeswehr",
+     "url": "https://nius.de/politik/haushalt-2027-schwarz-rot-verschaerft-stellenabbau-bei-bundespolizei-zoll-und-bundeswehr",
+     "date": "2026-11-17T06:00:27.000Z",
+     "text": "Schwarz-Rot verschärft die Sparvorgaben für 2027. Auch Bundespolizei, BKA, Zoll und Bundeswehr werden in die Stelleneinsparungen einbezogen."
+    },
+    {
+     "title": "Arbeitslosigkeit: Bundesagentur für Arbeit steuert auf 18,7 Milliarden Euro Schulden zu",
+     "url": "https://nius.de/wirtschaft/arbeitslosigkeit-bundesagentur-fuer-arbeit-steuert-auf-18-7-milliarden-euro-schulden-zu",
+     "date": "2026-11-17T05:37:45.000Z",
+     "text": "Bundesagentur für Arbeit erwartet 2027 ein Defizit von 8,2 Milliarden Euro. Die Schulden beim Bund könnten auf 18,7 Milliarden Euro steigen."
+    },
     {
      "title": "Gratis-Leberkäse für Nicht-Rassisten: Wie „Antirassismus“ zur Marketingmasche verkommt",
      "url": "https://nius.de/kommentar/gratis-leberkaese-fuer-nicht-rassisten",
@@ -260,54 +358,6 @@
      "url": "https://nius.de/nachrichten/schnelle-termine-beim-facharzt-koennte-es-bald-nur-noch-fuer-selbstzahler-geben",
      "date": "2026-11-16T12:36:16.000Z",
      "text": "Gibt es schnelle Termine beim Facharzt bald nur noch für Selbstzahler?"
-    },
-    {
-     "title": "Schwesig erneut zur Ministerpräsidentin gewählt",
-     "url": "https://nius.de/politik/schwesig-erneut-zur-ministerpraesidentin-gewaehlt",
-     "date": "2026-11-16T12:23:18.000Z",
-     "text": "Gleich mehr bei NIUS."
-    },
-    {
-     "title": "Krankenkassen-Sparpaket: Pharmakonzern MSD zieht vor das Verfassungsgericht",
-     "url": "https://nius.de/nachrichten/krankenkassen-sparpaket-pharmakonzern-msd-zieht-vor-das-verfassungsgericht",
-     "date": "2026-11-16T12:20:51.000Z",
-     "text": "Die Bundesregierung will die Krankenkassen entlasten und dafür unter anderem die Arzneimittelhersteller stärker zur Kasse bitten. Der Pharmakonzern MSD hat gegen zentrale Vorschriften des Spargesetzes Verfassungsbeschwerde eingelegt."
-    },
-    {
-     "title": "Vulcan-Fehlstart: Amazon verliert 40 Internet-Satelliten",
-     "url": "https://nius.de/wirtschaft/amazon-verliert-40-satelliten",
-     "date": "2026-11-16T12:14:03.000Z",
-     "text": "Die ULA-Rakete versagte zehn Minuten nach dem Start. Amazons Netz Leo soll Musks Starlink Konkurrenz machen."
-    },
-    {
-     "title": "Wohlfühlabend statt Regierungskritik: Lanz in Millionärsstädtchen in Bayern",
-     "url": "https://nius.de/kommentar/wohlfuehlabend-statt-regierungskritik-lanz-in-millionaersstaedtchen-in-bayern",
-     "date": "2026-11-16T12:10:21.000Z",
-     "text": "Er ist Deutschlands wichtigster Polit-Talker. Im bayerischen Bad Tölz trat Markus Lanz jetzt vor einem Publikum auf, das seine Mischung aus wohltemperierter Kritik und Optimismus feierte."
-    },
-    {
-     "title": "Bund zahlt 80.000 Euro an muslimische Pfadfinder",
-     "url": "https://nius.de/gesellschaft/bund-muslimische-pfadfinder-80000-euro",
-     "date": "2026-11-16T11:44:08.000Z",
-     "text": "Die Bundesregierung hat dem Bund Muslimischer Pfadfinderinnen und Pfadfinder Deutschlands für 2026 80.000 Euro bewilligt."
-    },
-    {
-     "title": "Merz: Zahlen für Haushalt geben Stromsteuersenkung her",
-     "url": "https://nius.de/politik/merz-zahlen-fuer-haushalt-geben-stromsteuersenkung-her",
-     "date": "2026-11-16T11:37:09.000Z",
-     "text": "Die Union dringt auf die Senkung der Stromsteuer: Bundeskanzler Merz (CDU) sagte: „Wir wissen, dass wir jetzt liefern müssen. Die Zahlen für den Haushalt geben eine Senkung der Stromsteuer her“, so Merz."
-    },
-    {
-     "title": "Restaurant serviert kein Halal-Fleisch – Muslime fordern Schließung",
-     "url": "https://nius.de/ausland/restaurant-serviert-kein-halal-fleisch-muslime-fordern-schliessung",
-     "date": "2026-11-16T11:19:02.000Z",
-     "text": "Vor einem indischen Restaurant im Londoner Stadtteil Hammersmith haben am Freitagabend Hunderte Menschen demonstriert. Sie forderten die Schließung des Lokals, dessen Betreiber öffentlich damit wirbt, kein Halal-Fleisch anzubieten."
-    },
-    {
-     "title": "Schüsse auf Geschäfte in Bielefeld: SEK fasst Deutsch-Türken (15)",
-     "url": "https://nius.de/kriminalitaet/schuesse-geschaefte-bielefeld-schutzgelderpressung-mafia",
-     "date": "2026-11-16T11:15:58.000Z",
-     "text": "Nach Schüssen auf Geschäfte in Bielefeld und Umgebung wurde nun ein weiterer Tatverdächtiger festgenommen. Es handelt sich um eine ganze Serie von Anschlägen auf Geschäfte. Es geht um Schutzgelderpressung. Dahinter soll die „Gen‑Z‑Mafia“ stecken."
     }
    ]
   }
