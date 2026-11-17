@@ -258,8 +258,8 @@
     95.84
    ],
    [
-    "2026-11-16",
-    95.51
+    "2026-11-17",
+    91.6
    ]
   ],
   "GC=F": [
@@ -521,7 +521,11 @@
    ],
    [
     "2026-11-16",
-    3866.9
+    3853
+   ],
+   [
+    "2026-11-17",
+    3870.2
    ]
   ],
   "^GDAXI": [
@@ -784,10 +788,6 @@
    [
     "2026-11-13",
     26749.95
-   ],
-   [
-    "2026-11-16",
-    26741.94
    ]
   ]
  },
@@ -939,11 +939,20 @@
    ],
    [
     "2026-11",
-    1.105
+    1.101
    ]
   ]
  },
- "quakes": [],
+ "quakes": [
+  {
+   "mag": 6.6,
+   "place": "148 km WSW of Tual, Indonesia",
+   "time": "2026-11-16T21:11:20.515Z",
+   "lon": 131.4868,
+   "lat": -6.0804,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu"
+  }
+ ],
  "gdacs": [
   {
    "type": "TC",
@@ -956,7 +965,19 @@
    "lon": 80.2,
    "lat": 15.8,
    "url": "https://www.gdacs.org/report.aspx?eventid=1001346&episodeid=10&eventtype=TC"
+  },
+  {
+   "type": "TC",
+   "art": "Wirbelsturm",
+   "level": "Orange",
+   "name": "Tropical Cyclone AKVAN-26",
+   "country": "India",
+   "from": "2026-11-16",
+   "to": "2026-11-17",
+   "lon": 87.2,
+   "lat": 11.6,
+   "url": "https://www.gdacs.org/report.aspx?eventid=1001351&episodeid=2&eventtype=TC"
   }
  ],
- "updated": "2026-11-16T10:47:21.929Z"
+ "updated": "2026-11-17T02:33:20.083Z"
 }
