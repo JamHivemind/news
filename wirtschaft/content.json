@@ -1,100 +1,106 @@
 {
-  "date": "2026-11-16",
-  "intro": "Die Wirtschaft wächst, doch das Handwerk schlägt Alarm und die Industrie baut trotz Umsatzplus Stellen ab. Dazu kommen die Folgen des Microsoft-Ausfalls und der Streit um die Rentenreform.",
-  "top": [
-    {
-      "title": "Handwerk warnt vor „stillem Sterben der Betriebe“",
-      "text": "Handwerkspräsident Dittrich fürchtet, dass die Branche bis zu 80.000 Arbeitsplätze pro Jahr verlieren könnte. Gründe sind weniger Aufträge und steigende Kosten. Viele Inhaber hätten die Zuversicht verloren und machten zu. Das trifft Kunden, die Handwerker brauchen, und Beschäftigte in kleinen Betrieben.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html",
-      "source": "tagesschau",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Industrie macht mehr Umsatz, aber 140.000 Jobs fallen weg",
-      "text": "Laut einer Studie meldet die Industrie das dritte Quartalsplus in Folge, auch dank des KI-Booms. Gleichzeitig verschwinden in allen Branchen immer mehr Stellen. Mehr Umsatz bedeutet also nicht automatisch mehr Beschäftigung.",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/studie-industrie-steigert-umsatz-doch-140.000-jobs-fallen-weg/100270074.html",
-      "source": "Handelsblatt",
-      "category": "Konjunktur"
-    },
-    {
-      "title": "Microsoft-Ausfall: Lage entspannt sich, Abhängigkeit bleibt Thema",
-      "text": "Nach der stundenlangen weltweiten Störung bei Microsoft-Diensten spricht der Konzern von deutlichen Verbesserungen, vor allem in Europa und Nordamerika. Ein Sicherheitsexperte warnt, viele Firmen seien digital abhängig. Wer auf Cloud-Dienste setzt, sollte für den Ernstfall Alternativen haben.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
-      "source": "tagesschau",
-      "category": "Unternehmen",
-      "tipp": "Wichtige Dokumente und Kontakte auch offline oder bei einem zweiten Anbieter sichern."
-    }
-  ],
-  "entries": [
-    {
-      "title": "Konjunkturausblick: Gekaufter Aufschwung",
-      "summary": "Die Wirtschaft wächst, aber das Vertrauen der Unternehmer ist schwach. Das Handelsblatt Research Institute bleibt vorsichtig.",
-      "url": "https://www.handelsblatt.com/politik/konjunktur/hri-konjunkturausblick-gekaufter-aufschwung-es-mangelt-am-vertrauen-von-unternehmern/100268399.html",
-      "source": "Handelsblatt",
-      "category": "Konjunktur"
-    },
-    {
-      "title": "Solarförderung für kleine Anlagen soll wohl bleiben",
-      "summary": "Wirtschaftsministerin Reiche wollte private Solaranlagen nicht mehr fördern. Bei den Verhandlern von SPD und CDU zeichnet sich nun eine Kehrtwende ab.",
-      "url": "https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Energie"
-    },
-    {
-      "title": "CSU fordert höhere Abschläge für Frührentner",
-      "summary": "In der Rentenreform erhöht die CSU den Druck auf die SPD. Offen ist, ob das Kabinett noch dieses Jahr entscheidet.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/csu-fordert-hoehere-abschlaege-fuer-fruehrentner-streit-mit-spd-eskaliert-accg-201684748.html",
-      "source": "FAZ Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Merz fordert Sozialreformen „jetzt“, Union drängt auf niedrigere Stromsteuer",
-      "summary": "Der Kanzler räumte ein, sein Ziel „Deutschland 2040“ bisher nicht ausreichend erklärt zu haben. Was die Regierung als Nächstes angeht, ließ er offen.",
-      "url": "https://nius.de/politik/merz-fordert-sozialreformen-jetzt-parteikollegen-draengen-auf-niedrigere-stromsteuer",
-      "source": "Handelsblatt",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "Streit um Bezahlschranke für Arzttermine",
-      "summary": "Mit privat bezahlten Sprechstunden sollen Kassenpatienten schneller Facharzttermine bekommen. Grüne und Patientenschützer halten das für ungerecht.",
-      "url": "https://www.spiegel.de/wirtschaft/gruene-und-patientenschuetzer-warnen-vor-bezahlschranke-fuer-arzttermine-a-c1c3b771-a1ec-41f4-9818-034799ca96e5#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Italien verhängt 805 Millionen Euro Strafe gegen Meta",
-      "summary": "Facebook las Fotogalerien von 20 Millionen Android-Nutzern ohne wirksame Einwilligung aus. Die Funktion muss binnen 60 Tagen abgeschaltet werden.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen-a-3347008b-5b9a-4955-82be-f7aa6f7e20ef#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "40 Amazon-Satelliten bei Raketenabsturz zerstört",
-      "summary": "Die Vulcan-Rakete versagte kurz nach dem Start in Florida. Amazons Internetdienst Leo, ein Konkurrent von Starlink, verzögert sich erneut.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/40-amazon-satelliten-bei-absturz-von-vulcan-rakete-zerstoert-accg-201686018.html",
-      "source": "FAZ Wirtschaft",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Bund verzichtet auf KfW-Dividende",
-      "summary": "Die staatliche Förderbank soll den Haushalt 2027 und 2028 auf andere Weise um rund eine Milliarde Euro entlasten. Ursprünglich waren weitreichendere Pläne vorgesehen.",
-      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/foerderbank-bund-verzichtet-auf-kfw-dividende-und-neues-kfw-gesetz/100270031.html",
-      "source": "Handelsblatt",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "Deutsche Häfen bereiten sich auf Atomantrieb vor",
-      "summary": "Bald werden nuklear angetriebene Handelsschiffe erwartet. Die Debatte darüber verläuft kontrovers.",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/logistik-deutsche-haefen-bereiten-sich-auf-atomantrieb-vor/100269158.html",
-      "source": "Handelsblatt",
-      "category": "Energie"
-    },
-    {
-      "title": "Stahlindustrie: Welche Zukunft hat sie in Deutschland?",
-      "summary": "Vor dem Stahlgipfel wird über die Perspektiven der Branche diskutiert.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTWRjQ0dsMWxRQmMzYW03b3FyaHM2NTJuRlExSUQ3OGZhdGJxUF81WXV0Yl9sNEVBdE9td1NIcUwyRmdpOGl2eVc2ZlFIR2xqbFVNaVJkY3lHUzB1OFhxZFE3eGFEM1RWVjU1MllUQ3hVRmlMbEx1ZUMyQjJJQ1NPeTJnVXRlbFFaREk2V2lsR082S0V0XzhKNzdoSFplRXdja2lrZG5qdFV6aEZ5RFdXYWktZDg3VWRqQS1ubFJnOWNFNWJldHFUQmNOSWpobjA?oc=5",
-      "source": "PZ-news.de",
-      "category": "Energie"
-    }
-  ]
+ "date": "2026-11-17",
+ "intro": "Die EU gibt grünes Licht für die Commerzbank-Übernahme durch Unicredit, die Stahlbranche fordert beim Stahlgipfel günstigeren Strom, und die Nvidia-Affäre belastet weiter die Börsen.",
+ "top": [
+  {
+   "title": "EU genehmigt Übernahme der Commerzbank durch Unicredit",
+   "text": "Brüssel hat die Übernahme der Commerzbank durch die italienische Großbank Unicredit freigegeben. Unicredit arbeitet laut Spiegel seit zwei Jahren darauf hin. Für Kunden ändert sich zunächst nichts. Für Beschäftigte und den Bankenplatz Deutschland ist es ein entscheidender Schritt.",
+   "url": "https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss",
+   "source": "Spiegel Wirtschaft",
+   "category": "Unternehmen"
+  },
+  {
+   "title": "Stahlgipfel: Branche fordert verlässlichen Strompreis",
+   "text": "Beim Stahlgipfel in Salzgitter verlangte die Branche Entlastung beim Strompreis, weil Strom für die Stahlherstellung ein entscheidender Kostenfaktor ist. Tagesschau fragt, was der Erhalt der deutschen Stahlindustrie kosten darf. Es geht um Arbeitsplätze und die Abhängigkeit von Importen. Die EU will europäischen Stahl zugleich gegen die Konkurrenz aus China stärken.",
+   "url": "https://www.tagesschau.de/wirtschaft/stahlgipfel-klimawandel-produktion-100.html",
+   "source": "tagesschau Wirtschaft",
+   "category": "Energie"
+  },
+  {
+   "title": "Nvidia-Affäre erschüttert weiter die Börsen",
+   "text": "Der Spiegel berichtet, dass Nvidia eine Rückkehr von Ex-Chef Jensen Huang offenbar ausschließt. Das Handelsblatt schreibt, dass schärfere US-Exportkontrollen für KI-Chips Trumps Asienreise überschatten. Nvidia ist einer der wertvollsten Konzerne der Welt, Kursschwankungen treffen deshalb viele Anleger und Fonds.",
+   "url": "https://www.spiegel.de/wirtschaft/nvidia-konzern-schliesst-rueckkehr-von-jensen-huang-offenbar-aus-a-81b915e6-b63f-4074-a333-b1cdec5a3990#ref=rss",
+   "source": "Spiegel Wirtschaft",
+   "category": "Börse & Märkte"
+  }
+ ],
+ "entries": [
+  {
+   "title": "Industrie macht mehr Umsatz und baut trotzdem Stellen ab",
+   "summary": "Die deutsche Industrie steigerte laut Berichten den Umsatz, streicht aber Jobs. Das zeigt, dass höhere Erlöse nicht automatisch mehr Beschäftigung bedeuten.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUwzbm5tR3JRVGlIZVVHMjMySjB3a0JYODVITWs1MkJ0Zl93NThSVm5DaVJxOXZadmpFQjVpU0Z5enM4VjNKSGJSdHduNVVUNlg5a1lGNHFuMUdrc3hXRkdkWlQ0cWFFUGRaV2hRV3NLcVBjOTVJeXh5ZE9IVGE1dnE3NXRZdWwyekxkTHNOd2Z4Q0wzQkc0azF0WHdXQQ?oc=5",
+   "source": "DIE ZEIT",
+   "category": "Arbeit & Soziales"
+  },
+  {
+   "title": "Deutsche Wirtschaft bleibt pessimistisch",
+   "summary": "Eine Auswertung des Instituts der deutschen Wirtschaft zeigt weiter trübe Stimmung bei den Unternehmen.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZVNleE5YZEYwWks1N2NTdGlnX0Y4VWpLRk9kOVZiMEd3WGtSY20wV3pLOVJZRFBzdGhPRm85NnJ0elFaelN3MGcxWVF6eUdydlFjSjBEcWNGVWhFMkoyYkpRalYtZEtiMjFlZHloRkVoUWg1RFVvMFljSDMzYVdvcg?oc=5",
+   "source": "IWD",
+   "category": "Konjunktur"
+  },
+  {
+   "title": "Handwerk warnt vor „stillem Sterben der Betriebe“",
+   "summary": "Das Handwerk warnt laut Spiegel in der Wirtschaftskrise vor einem schleichenden Verschwinden von Betrieben.",
+   "url": "https://www.spiegel.de/wirtschaft/unternehmen/handwerk-warnt-vor-stillem-sterben-der-betriebe-a-8ae8249b-be4e-467e-b6c8-dce66525f1e0#ref=rss",
+   "source": "Spiegel",
+   "category": "Konjunktur"
+  },
+  {
+   "title": "Ifo: Stromkonzerne nutzten in der Gaspreiskrise ihre Marktmacht",
+   "summary": "Laut dem Ifo-Institut haben Stromkonzerne in der Gaspreiskrise Marktmacht eingesetzt. Das ist für die Debatte über Strompreise und Regulierung wichtig.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMXNyaGZicTlBc1FjcUVka1NJU0V0cTRkdnZTY2Znck9URXZWRVdiT2djTW9tSVVMdU5ic2JGSXpMenhZclJCUllpUHdRSlowM1Fxdno1bVQ5eVpPQzJfN0g2VTRMNEx2Q3Y5VDN0d1pCdklCMkxub3JNSTlTcnloTzdTSVl1eDBaS2M2bl9oenI1SkRtQ0ZSam00OWNqSnVsNHJVczJCbE83MDNaWE1CY2dveVMxNU9yT3BQLUNnMWtIM2NaVFdXZg?oc=5",
+   "source": "Allgemeine Zeitung",
+   "category": "Energie"
+  },
+  {
+   "title": "Energieverbrauch der deutschen Industrie sinkt",
+   "summary": "Wegen hoher Preise und geringerer Produktion hat die Industrie 2025 weniger Energie verbraucht. Kohle wird dabei immer unwichtiger.",
+   "url": "https://www.tagesschau.de/wirtschaft/energie/energieverbrauch-deutsche-industrie-100.html",
+   "source": "tagesschau Wirtschaft",
+   "category": "Energie"
+  },
+  {
+   "title": "Tesla will drei Milliarden Euro in Grünheide investieren",
+   "summary": "Das Werk in Brandenburg soll für Robotaxis erweitert werden. Ministerpräsident Woidke begrüßt das.",
+   "url": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-investiert-milliardensumme-fuer-robotaxi-bau-in-deutschland-a-65132952-1c63-4862-b2ce-f82c5def838f#ref=rss",
+   "source": "Spiegel Wirtschaft",
+   "category": "Unternehmen"
+  },
+  {
+   "title": "Koalitionsausschuss im Kanzleramt",
+   "summary": "Die Koalition kommt heute zu einem Spitzentreffen zusammen. Laut Handelsblatt stehen viele ungelöste Probleme an.",
+   "url": "https://www.handelsblatt.com/politik/deutschland/spitzentreffen-im-kanzleramt-darum-geht-es-im-koalitionsausschuss/100270401.html",
+   "source": "Handelsblatt",
+   "category": "Politik & Handel"
+  },
+  {
+   "title": "Mehr Firmengründungen als seit elf Jahren",
+   "summary": "Laut einer Volksbank-Analyse wagen mehr Menschen den Schritt in die Selbstständigkeit, besonders im KI-Bereich.",
+   "url": "https://www.handelsblatt.com/politik/deutschland/volksbank-analyse-so-viele-firmengruendungen-wie-seit-elf-jahren-nicht-mehr/100270393.html",
+   "source": "Handelsblatt",
+   "category": "Konjunktur"
+  },
+  {
+   "title": "Demokraten könnten Trumps Zölle nach den Midterms angreifen",
+   "summary": "Ab Januar haben die Demokraten die Mehrheit im US-Kongress. Experten sind laut Spiegel skeptisch, ob sie die Zölle wirklich stoppen können.",
+   "url": "https://www.spiegel.de/wirtschaft/service/donald-trump-koennen-die-demokraten-nach-den-us-midterms-die-zoelle-wirklich-stoppen-a-93d3e5c2-9594-424c-bf96-cb2f925e009b#ref=rss",
+   "source": "Spiegel Wirtschaft",
+   "category": "Politik & Handel"
+  },
+  {
+   "title": "Regierungspläne könnten Strom teurer machen",
+   "summary": "Laut FAZ sollen allein für Biogas 50 Milliarden Euro zusätzlich gezahlt werden, obwohl die Regierung die Förderkosten senken wollte. Noch ist nichts beschlossen.",
+   "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/eeg-reform-drohen-durch-biogas-foerderung-50-milliarden-euro-mehrkosten-201688005.html",
+   "source": "FAZ Wirtschaft",
+   "category": "Energie"
+  },
+  {
+   "title": "Chinas Wirtschaft verliert weiter an Schwung",
+   "summary": "Die Wachstumsdaten aus China fallen schwächer aus. Für Exportnationen wie Deutschland ist das ein Risiko.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeEh0NmYxTmk4d2h2ZllVNHB2aTVGV1lrNTY2T3h3T0drOVo2ZmNkd21ETGg5Q3lyT3ZlZlFUNXA0UnZoUXZEYkVkSHBYb1lzZzA2RFlQa3NQLXYtXzJqTE1qaUZCMWo5cm41VWtlZFJNckhCbGdvdmxPUkRzRnd4WGZVMVlQMVJ5bEVzQmdvcnc?oc=5",
+   "source": "Onetz",
+   "category": "Konjunktur"
+  }
+ ]
 }
