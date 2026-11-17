@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T05:18:55.401Z",
+ "fetched": "2026-11-17T05:20:35.942Z",
  "hours": 48,
  "sources": [
   {
@@ -45,21 +45,9 @@
   },
   {
    "name": "Gründerszene",
-   "ok": true,
-   "items": [
-    {
-     "title": "„Ein großer Fehler“: Bundesregierung will Millionen bei der Startup-Förderung streichen",
-     "url": "https://www.businessinsider.de/gruenderszene/regierung-merz-streicht-millionen-startup-foerderung-gruene-sprechen-von-grossem-fehler/",
-     "date": "2026-11-16T09:08:30.000Z",
-     "text": "Die Bundesregierung will die Förderung von Startup-Investitionen durch Business Angels im kommenden Jahr deutlich zurückfahren. Im Haushaltsentwurf für 2027 sind für das Invest-Programm nur noch 30 Millionen Euro vorgesehen. Im laufenden Jahr waren es noch 44 Millionen Euro. Das entspricht einer Kürzung um knapp 32 Prozent."
-    },
-    {
-     "title": "Jensen Huang beweist es: Amerikas Religion ist der Gründerkult",
-     "url": "https://www.businessinsider.de/gruenderszene/jensen-huang-beweist-es-amerikas-religion-ist-der-gruenderkult/",
-     "date": "2026-11-15T11:32:12.000Z",
-     "text": "Am Mittwochnachmittag stand ich im sechsten Stock von Saks Fifth Avenue in einer schwarzen Tom-Ford-Jacke aus genarbtem Leder im Wert von 10.000 Dollar – der „Uniform“ von Jensen Huang, Mitbegründer und Geschäftsführer von Nvidia –, während Joseph Rosenfeld, ein Imageberater für Tech-Gründer und Finanziers, mich musterte. „Die Ausstrahlung des Outfits“, sagte er, „dieser Typ hat den nötigen Elan. Er ist der Typ, der sagt: ‚Wenn ich es sehe, schnappe ich es mir.‘“"
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 403",
+   "items": []
   },
   {
    "name": "EU-Startups",
@@ -178,17 +166,9 @@
   },
   {
    "name": "Google News: Startups Hamburg",
-   "focus": "Nur echte Startup-Meldungen aus Hamburg und Norddeutschland (Gründung, Finanzierung, Produkt). Restaurants, Läden und Nachrufe ignorieren. Reicht 7 Tage zurück.",
-   "ok": true,
-   "items": [
-    {
-     "title": "Gute Nachrichten fürs Reeperbahn Festival: Finanzierung für 2027 ist gesichert - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFg5a0dpVGYzeWN1SHdxVm1LWm02dkVfZnlsODFXS0xtZnN0TUN1b2l3YmtEZ0xCOUVySVNwaUNNY21xa1dNbmdYYVBmbkYtOVJybnU5SzVQNVhBc0RldXZrYzlaRDhDczlGS2N1Tks1a09mRXY5dTlMTnM5WFV0MGItQVFpYld5LU5PNWtiMjk4UkRtTGZSaV9xT1BMOTRWSnJPREJRZGprX0NJYWl1dFdn?oc=5",
-     "date": "2026-11-13T08:00:00.000Z",
-     "text": "Gute Nachrichten fürs Reeperbahn Festival: Finanzierung für 2027 ist gesichert NDR.de",
-     "via": "NDR.de"
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 429",
+   "items": []
   },
   {
    "name": "Google News: Finanzierungsrunden DE",

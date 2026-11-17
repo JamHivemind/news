@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-17",
+      "file": "2026-11-17.html",
+      "headline": "Ukraine: Über 70 Tote nach Angriff, neue Attacken auf Kiew",
+      "count": 15,
+      "sources": 10,
+      "cats": {
+        "Krieg & Konflikte": 5,
+        "Weltpolitik": 3,
+        "Katastrophen & Klima": 2,
+        "Wirtschaft & Handel": 1,
+        "Europa": 1,
+        "Hafen & Schifffahrt": 3
+      },
+      "ents": {
+        "Ukraine": 2,
+        "Russland": 3,
+        "USA": 3,
+        "EU": 4,
+        "Iran": 2,
+        "China": 1
+      }
+    },
+    {
       "date": "2026-11-16",
       "file": "2026-11-16.html",
       "headline": "Iran-Konflikt: Öltanker gesunken, dritter US-Flugzeugträger vor Ort",

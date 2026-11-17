@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T05:18:39.646Z",
+ "fetched": "2026-11-17T05:20:21.771Z",
  "hours": 48,
  "sources": [
   {
@@ -905,8 +905,8 @@
   },
   {
    "name": "Google News: Büromarkt Hamburg",
-   "focus": "Büromarkt Hamburg. Reicht 7 Tage zurück, weil Marktberichte selten erscheinen.",
-   "ok": true,
+   "ok": false,
+   "error": "HTTP 429",
    "items": []
   },
   {

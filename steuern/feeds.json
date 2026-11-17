@@ -1,70 +1,70 @@
 {
- "fetched": "2026-11-17T05:18:57.126Z",
+ "fetched": "2026-11-17T05:20:37.523Z",
  "hours": 48,
  "sources": [
   {
    "name": "Google News: Erbschaftsteuer",
+   "ok": false,
+   "error": "HTTP 429",
+   "items": []
+  },
+  {
+   "name": "Google News: Grundsteuer",
+   "focus": "Länder- und bundesweite Meldungen, keine Einzelfall-Ratgeber",
    "ok": true,
    "items": [
     {
-     "title": "Erbschaftsteuer ohne Zugriff auf den Nachlass - Anwalt.de",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3NfTTl0YmZVLUVackh6dzVWYlFqWFBnTGdBVE5yLWktYmdTMGNYOXlIcDFQeHRPUWFMMjZpc0ZTNlJfbHJnYlFkUGUybEZNNmlERWlUeE1sSjZSam5CbkpLYUcxSWxaRnEyZjlfOVRyU1lsRkMwbnRHR3R1XzhhVkhLS0xjSEtqemY4TVhlUlpSdmhPOWc?oc=5",
-     "date": "2026-11-16T15:23:10.000Z",
-     "text": "Erbschaftsteuer ohne Zugriff auf den Nachlass Anwalt.de",
-     "via": "Anwalt.de"
+     "title": "Grundsteuer in Hamburg: Dieses Urteil wird entscheidend - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmE5SmFxTlByV0tjdm9WTHRIYTIzVDd5d0lyRUI1MFBWeGN5WFZ1VkQyaDVrLWU4eExUNm5Dc0V6Tko1WFNzaEVEUHAwUTMxbGRLamFub2E0UE9tREVmMGRua0pGMDNaRmVReU53V0t2ZkZ5ZEFUQVk5VTZ2T1JUa00wemozTTg4amtpUkJnaWc3ZWxTazZTV0hQZzhnS0NLRDdMS3F0aW9BNG4yM3RPQkVuMTEtQQ?oc=5",
+     "date": "2026-11-16T11:09:44.000Z",
+     "text": "Grundsteuer in Hamburg: Dieses Urteil wird entscheidend MOPO",
+     "via": "MOPO"
     },
     {
-     "title": "Tag: Erbschaftsteuer - Windkraft-Journal",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tVEJyVUh1TDJwRHRieVZiRW9mSVlUMDZDOWdCNDE2aGkxSUQ0ejF6Vi1jbnhLWHdVZUJJeVV2VUZTTVRsb3EtOTJOc3JkOGx2aHBQZHdZejVzWV9mODM5dUVB?oc=5",
-     "date": "2026-11-16T14:32:20.000Z",
-     "text": "Tag: Erbschaftsteuer Windkraft-Journal",
-     "via": "Windkraft-Journal"
+     "title": "Grundsteuer rauf, Kita-Beiträge stabil? Grüne nennen Bedingungen in Dresden - Die Sachsen News",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDY4YmJ0WHVwVXl6d1pESzYzWFJqTzhFVGZzZ0tmYWZOM3V1bjRIbWpTVUUwbVFXTC1uNk1KUzJRNEkwd3ZpeDBFNXEzRkxmMWNOdWxTOEFhNGRmMDZBS19JZFdmeHY1d1ltM0Q2b3pKb2ZyWGc3NXRhMXA3TlJLTTU0a2VocklpYmk2UmdpQVpMRWJtZ1doUHNfY1lpRVFTa1l6ejBBOWg2bzZSQ05iY1dqbDU0SWJtWEpsdC1ubVUzX0U?oc=5",
+     "date": "2026-11-16T12:13:44.000Z",
+     "text": "Grundsteuer rauf, Kita-Beiträge stabil? Grüne nennen Bedingungen in Dresden Die Sachsen News",
+     "via": "Die Sachsen News"
     },
     {
-     "title": "BFH setzt Grenzen für Erbschaftsteuer-Härtefälle - openPR.de",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSll6OEtiQUZweFQ5d24tYm5JVDI5dUtFVUlRQVhBSWJ5a2JMeTJYaVNZNU1Tbm9QWkt4VGY4cWZJYW1FRGp6cUhLU3U3VExwcWpxQURNSlFjZUl0c1M4OWdZVkJ2OUVpNnR5bFczRWRoWGJYSzR5cVZiUElxS3BYczBvZWpnLUxSOEszTzdDNWV1R21Ld3c?oc=5",
-     "date": "2026-11-16T13:52:00.000Z",
-     "text": "BFH setzt Grenzen für Erbschaftsteuer-Härtefälle openPR.de",
-     "via": "openPR.de"
-    },
-    {
-     "title": "Erbschaftsteuer 2026: Hauseigentümer sollten jetzt handeln - Gegen Hartz IV",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0pqWkhTT1JSUFB6TzlaZzFCbWZJc2dFQnlmdGlhMnRHNUZkV2FuSEd2YUUtWDBzWUp4VzBzVGpTMGg4YUpPa0NBQ2pwMHNZX1lpTlNjNUlNMF9EdkloeGNGZS1kanRpS2dPTkM0VGNQcGd4SXQ2REpVdExKdUU1Tm5WWnpZV1F2UTNsNEZneFg4MnFG?oc=5",
-     "date": "2026-11-15T10:39:01.000Z",
-     "text": "Erbschaftsteuer 2026: Hauseigentümer sollten jetzt handeln Gegen Hartz IV",
-     "via": "Gegen Hartz IV"
-    },
-    {
-     "title": "Marcos-Nachlass: Opposition fordert Eintreibung von rund 203 Milliarden Peso Erbschaftsteuer - Klajoo",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ2JsS2t1VXJvYVdqMWN5cWpkaEhoc0U3ODZUVUVtOXhlM1Fhb3pFRXcwckp2SnZjVjV6cWtjS05sSHlOR3RQRmxaenU0bnNuXy1vZ1V2akJTVU4za2cya2t2SUhKQTBWem1nM0hTQ1VGb0R5bGZPWDVPb2x4VVlWODJSVXgxZWpaRG1WbC1TbGxRRVBySU1UOE5vR0tkUnFkajFVM0d2TEp6enR2Z19TWEpIa0RSRWYtbUxGZkdPQQ?oc=5",
-     "date": "2026-11-16T06:40:52.000Z",
-     "text": "Marcos-Nachlass: Opposition fordert Eintreibung von rund 203 Milliarden Peso Erbschaftsteuer Klajoo",
-     "via": "Klajoo"
+     "title": "Eiterfeld passt Grundsteuer 2027 an: Gemeinde nennt steigende Kosten und Sanierungsstau als Gründe - fuldainfo.de",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3VWRnJ6ZUNKQVpDMDUwVHAtYnYtVGV3QVRpQ3lvNkVJYkh5ZERERjkyV25jdmRDcHFUdXhNbDhvd1BBZUJlaE5VcGdQVXVQejl6V2h2RXRfSzNqczM5eGI3bnE4QU5rMDM0R3VaWlNsMEtmSnZtbldXZGFIbXp2eVRNQXp2aGtDYU5yM3JFSldtMGUwQ3JNUlRMNmEyYUQxSkRLWHhCSGctRzl1SlktVDFJa0o0SzdoNklia1VEZVgxQQ?oc=5",
+     "date": "2026-11-16T13:45:15.000Z",
+     "text": "Eiterfeld passt Grundsteuer 2027 an: Gemeinde nennt steigende Kosten und Sanierungsstau als Gründe fuldainfo.de",
+     "via": "fuldainfo.de"
     }
    ]
   },
   {
-   "name": "Google News: Grundsteuer",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
-  },
-  {
    "name": "Google News: Grunderwerbsteuer",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "Grunderwerbsteuer nach dem Hausbau: Wann das Finanzamt die Baukosten nachträglich besteuert - openPR.de",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeU92MmUyMHF6YnJoVnVxTVpvLTFaMUNNN0lLV3dJQTJQbjNETlZYcEZyR2stYjFzeVNTc1o4TU00MEpJRC1sM0ZHSVd1dml5TkFmTmR2Z3NxTmg0YUJEV29qSVNBdUwyeWotcTg0eVVPWnZWYTRfNW9TYXNqMkxRdUZ3TEhKamRaZ0NSQ0FxOXN3ZmF5T0tlV0NXUkxDekVYTDh4X2ZJZ1c5MTdxRWhrRkU4Sm9sbk5aZjFLcV9PbmtWelBaVDdkZE9SVQ?oc=5",
+     "date": "2026-11-16T19:12:00.000Z",
+     "text": "Grunderwerbsteuer nach dem Hausbau: Wann das Finanzamt die Baukosten nachträglich besteuert openPR.de",
+     "via": "openPR.de"
+    }
+   ]
   },
   {
    "name": "Google News: Gewerbesteuer",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "„Steueroase“ war einmal: Bad Wörishofen verlangt künftig deutlich mehr Gewerbesteuer - Augsburger Allgemeine",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd0p1Q2l0TWgyTWNSck56THFDbWtNMUpmNHlBcl9UdjJrei1CeV9YRjF3aW83cGgwckhQSnNhYnV4V09RS0drcnpmdVRqOFZ5amlQV1N0US1tdkxjdEVTdWRzcnhvN2ZITG5Rd0JQZXpsaUctZzJDeHFkeFVYZ3lQMXNRclA4dXI4eDlzMkMyUU5qUmdpMzNxWVdWak53YXpTMENMR2lVNk9raC0zbldmZjRkamttb0RYT2FIVGE1OUJKdGthelFMUG1vRWdCb2lLRGp6U0tsdVRxUFk?oc=5",
+     "date": "2026-11-16T03:40:43.000Z",
+     "text": "„Steueroase“ war einmal: Bad Wörishofen verlangt künftig deutlich mehr Gewerbesteuer Augsburger Allgemeine",
+     "via": "Augsburger Allgemeine"
+    }
+   ]
   },
   {
    "name": "Google News: Sonderwirtschaftszonen",
-   "ok": false,
-   "error": "HTTP 429",
+   "ok": true,
    "items": []
   },
   {
@@ -88,8 +88,7 @@
   },
   {
    "name": "LTO (Google News)",
-   "ok": false,
-   "error": "HTTP 429",
+   "ok": true,
    "items": []
   },
   {
