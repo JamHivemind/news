@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T02:32:44.775Z",
+ "fetched": "2026-11-17T03:49:30.493Z",
  "hours": 48,
  "sources": [
   {
@@ -160,24 +160,9 @@
   },
   {
    "name": "Google News: Startups Hamburg",
-   "focus": "Nur echte Startup-Meldungen aus Hamburg und Norddeutschland (Gründung, Finanzierung, Produkt). Restaurants, Läden und Nachrufe ignorieren. Reicht 7 Tage zurück.",
-   "ok": true,
-   "items": [
-    {
-     "title": "Gute Nachrichten fürs Reeperbahn Festival: Finanzierung für 2027 ist gesichert - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFg5a0dpVGYzeWN1SHdxVm1LWm02dkVfZnlsODFXS0xtZnN0TUN1b2l3YmtEZ0xCOUVySVNwaUNNY21xa1dNbmdYYVBmbkYtOVJybnU5SzVQNVhBc0RldXZrYzlaRDhDczlGS2N1Tks1a09mRXY5dTlMTnM5WFV0MGItQVFpYld5LU5PNWtiMjk4UkRtTGZSaV9xT1BMOTRWSnJPREJRZGprX0NJYWl1dFdn?oc=5",
-     "date": "2026-11-13T08:00:00.000Z",
-     "text": "Gute Nachrichten fürs Reeperbahn Festival: Finanzierung für 2027 ist gesichert NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Hamburg & Schleswig-Holstein: Finanzierung des Hamburger Reeperbahn-Festivals gesichert - n-tv.de",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX29iM1Z1ZmtHcENYU1R4ZW1XWUtQTFc4NXFBcFIzRHA3Rno3N2FHSjl1ajBsT0tkS3ZuNTF1ZXU3ODlDWnlqTTh3S0MxX21BRHF0Qkttc2haOHF2RENpeWlsTkQ3TEo1UEhUc1dScWwydlNMbWFoNnA4b3BVM3czTFRkRlh0WUF4VDFoeEF4NGFmVUZlMnM0NE13c2l5bHNodHB4V2kyaWlESGZycWNpcWhzbWFKa1lyUkRwVkxjSkI5blJ2Um1WbHVaZ3hrZDFR?oc=5",
-     "date": "2026-11-13T18:11:00.000Z",
-     "text": "Hamburg & Schleswig-Holstein: Finanzierung des Hamburger Reeperbahn-Festivals gesichert n-tv.de",
-     "via": "n-tv.de"
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 429",
+   "items": []
   },
   {
    "name": "Google News: Finanzierungsrunden DE",

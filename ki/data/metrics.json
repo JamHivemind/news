@@ -298,6 +298,10 @@
    [
     "2026-11-13",
     162.85
+   ],
+   [
+    "2026-11-16",
+    156.14
    ]
   ],
   "MSFT": [
@@ -556,6 +560,10 @@
    [
     "2026-11-13",
     523.88
+   ],
+   [
+    "2026-11-16",
+    517.99
    ]
   ],
   "GOOGL": [
@@ -814,6 +822,10 @@
    [
     "2026-11-13",
     295.77
+   ],
+   [
+    "2026-11-16",
+    283.72
    ]
   ],
   "META": [
@@ -1072,6 +1084,10 @@
    [
     "2026-11-13",
     641.69
+   ],
+   [
+    "2026-11-16",
+    626.41
    ]
   ]
  },
@@ -1084,41 +1100,41 @@
  "hf": [
   {
    "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 8908,
+   "likes": 9039,
    "downloads": 29567,
    "task": "text-generation"
   },
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 1325,
+   "likes": 1329,
    "downloads": 609130,
    "task": "text-to-image"
   },
   {
    "id": "Qwen/Qwen3.8-27B",
-   "likes": 20281,
+   "likes": 20285,
    "downloads": 6763402,
    "task": "image-text-to-text"
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 12252,
+   "likes": 12266,
    "downloads": 2789021,
    "task": "image-to-video"
   },
   {
    "id": "Comfy-Org/MiniMax-H3-Image",
-   "likes": 492,
+   "likes": 496,
    "downloads": 2294065,
    "task": "text-to-image"
   },
   {
    "id": "Zyphra/ZONOS3-Mini",
-   "likes": 474,
+   "likes": 482,
    "downloads": 69946,
    "task": "text-to-speech"
   }
  ],
- "updated": "2026-11-17T02:33:14.390Z",
+ "updated": "2026-11-17T03:49:58.771Z",
  "updatedDay": "2026-11-06"
 }
