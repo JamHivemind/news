@@ -1,266 +1,261 @@
 {
-  "date": "2026-11-16",
-  "intro": "Im Nahen Osten spitzt sich die Lage um den Iran zu, in Estland und Tschechien geht es um Sicherheit und Pressefreiheit. Für Hamburg zählen vor allem die Seewege am Roten Meer und in der Straße von Hormus.",
-  "regionen": {
-    "Europa": "Estland schließt wegen eines mutmaßlichen Sabotageangriffs seine Grenzen zu Russland, in Prag demonstrieren Hunderttausende gegen eine Medienreform, auf den Kanaren kommen Rekordzahlen an Migranten an.",
-    "Nahost": "Ein dritter US-Flugzeugträger ist im Nahen Osten, der Iran meldet Angriffe auf Öltanker in der Straße von Hormus, im Jemen ziehen sich Regierungstruppen von der Meerenge Bab al-Mandab zurück.",
-    "Amerika": "In den USA sorgte ein Ausfall der Flugsicherung für Chaos, in Guatemala gilt in einer Drogenhochburg der Ausnahmezustand.",
-    "Afrika": "Der Südsudan verschiebt seine Wahlen zum dritten Mal auf 2027."
+ "date": "2026-11-17",
+ "intro": "Russland und die Ukraine greifen sich weiter massiv an, während Europa erste Gespräche über ein Kriegsende vorbereitet. Dazu kommen neue Pläne für ein EU-Abschiebezentrum in Ruanda und Sorgen um die Schifffahrt am Roten Meer.",
+ "regionen": {
+  "Europa": "Die Ukraine wird weiter schwer angegriffen, Kiew meldet neue Attacken und über 70 Tote in Komyschuwacha; zugleich bereiten Europas Unterhändler erste Vorgespräche vor, und die EU beschließt neue Russland-Sanktionen. In Prag protestieren 400.000 Menschen gegen die Pläne zum Rundfunk.",
+  "Nahost": "Die Huthi-Miliz gewinnt im Jemen weiter Gelände, die USA haben einen dritten Flugzeugträger in die Region verlegt. Jordanien verschärft nach zwei Anschlägen seine Anti-Terror-Gesetze, die EU plant Sanktionen gegen den Iran.",
+  "Asien": "Japan beklagt eine Verletzung seines Luftraums durch mutmaßlich russische Flugzeuge. Auf der Weltklimakonferenz in Antalya hat die entscheidende Phase begonnen.",
+  "Amerika": "Die USA verschärfen die Exportregeln für KI-Chips, um China zu bremsen. Papst Leo XIV. besucht zum Abschluss seiner Südamerika-Reise Anden und Amazonasgebiet.",
+  "Afrika": "Fünf EU-Staaten wollen 2027 ein Abschiebezentrum in Ruanda eröffnen. In Südafrika forderten zwei Schusswaffenangriffe 17 Tote."
+ },
+ "top": [
+  {
+   "title": "Ukraine: Über 70 Tote nach Angriff, neue Attacken auf Kiew",
+   "text": "Rund zwei Wochen nach dem russischen Luftangriff auf Komyschuwacha im Süden der Ukraine ist die Suche beendet: Die Behörden zählen über 70 Tote. Kiew meldet weitere Angriffe, nach ukrainischen Angaben wurden zwei Dnipro-Brücken getroffen. Russland berichtet von einem Rekord-Drohnenangriff und einem Treffer an der Krim-Brücke. Parallel führten europäische Unterhändler erste Vorgespräche mit den USA und der Ukraine über ein Kriegsende.",
+   "url": "https://www.deutschlandfunk.de/suche-beendet-ueber-70-tote-nach-russischem-luftangriff-auf-komyschuwacha-102.html",
+   "source": "Deutschlandfunk",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Ukraine",
+    "lat": 50.45,
+    "lon": 30.52
+   },
+   "hamburg": "Der Krieg wirkt weiter auf Energiepreise und Sicherheitslage in Deutschland; die Verhandlungsrunde entscheidet mit, ob Europa mit am Tisch sitzt.",
+   "stimmen": [
+    {
+     "source": "Spiegel",
+     "richtung": "links",
+     "url": "https://www.spiegel.de/ausland/ukraine-krieg-zahl-der-toten-nach-luftangriff-bei-saporischschja-steigt-auf-72-a-704dd230-ca93-47b5-a667-eedff30bc9a8#ref=rss"
+    },
+    {
+     "source": "BBC",
+     "richtung": "mitte",
+     "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "source": "WELT",
+     "richtung": "rechts",
+     "url": "https://www.welt.de/politik/ausland/article6afbcda9bfa018bfcc989921/ukraine-zwei-wichtige-bruecken-in-kiew-bei-russischen-angriffen-getroffen.html"
+    }
+   ]
   },
-  "top": [
+  {
+   "title": "Fünf EU-Staaten planen Abschiebezentrum in Ruanda",
+   "text": "Deutschland, Dänemark, Österreich, Griechenland und die Niederlande wollen laut Berichten 2027 ein „Rückkehrzentrum“ in Ruanda eröffnen. Dorthin sollen abgelehnte Asylbewerber gebracht werden, wenn ihre Herkunftsländer sie nicht aufnehmen. Die NZZ verweist auf Kritik von Menschenrechtlern. Wie das praktisch laufen soll, ist offen.",
+   "url": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html",
+   "source": "tagesschau",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Ruanda",
+    "lat": -1.94,
+    "lon": 30.06
+   },
+   "hamburg": "Deutschland ist an dem Vorhaben direkt beteiligt; es betrifft die deutsche Asylpolitik und Fragen der Unterbringung vor Ort.",
+   "stimmen": [
     {
-      "title": "Iran-Konflikt: Öltanker gesunken, dritter US-Flugzeugträger vor Ort",
-      "text": "Nach Angaben der iranischen Revolutionsgarden ist in der Straße von Hormus ein Tanker mit mehr als zwei Millionen Barrel Öl gesunken. Gleichzeitig hat mit der USS „Theodore Roosevelt“ ein dritter US-Flugzeugträger den Nahen Osten erreicht. Was die USA damit vorhaben, bleibt unklar. Die Straße von Hormus ist eine der wichtigsten Öl-Routen der Welt.",
-      "url": "https://www.deutschlandfunk.de/iranische-revolutionsgarden-oeltanker-gesunken-104.html",
-      "source": "Deutschlandfunk",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Straße von Hormus",
-        "lat": 26.57,
-        "lon": 56.25
-      },
-      "hamburg": "Spannungen in der Straße von Hormus können Ölpreise und damit auch Spritpreise in Deutschland beeinflussen.",
-      "stimmen": [
-        {
-          "source": "Spiegel",
-          "richtung": "links",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-dritter-us-flugzeugtraeger-erreicht-nahen-osten-a-97da317f-1d1c-41c8-ae22-22a908b3b203#ref=rss"
-        },
-        {
-          "source": "WELT",
-          "richtung": "rechts",
-          "url": "https://www.welt.de/politik/ausland/article6af966ad4495f9bd85b80873/nahost-iran-meldet-explosionen-an-oeltankern-in-der-strasse-von-hormus-us-militaerstuetzpunkt-angegriffen.html"
-        }
-      ]
+     "source": "Süddeutsche Zeitung",
+     "richtung": "links",
+     "url": "https://www.sueddeutsche.de/politik/ruanda-abschiebezentrum-deutschland-asylpolitik-rueckkehrzentrum-li.3581059"
     },
     {
-      "title": "Estland schließt ab Dezember alle Grenzübergänge zu Russland",
-      "text": "Eine Drohnenfabrik in Estland wurde am Wochenende angegriffen. Estland macht russische Agenten verantwortlich und schließt ab 1. Dezember seine drei Grenzübergänge. Das Land unterstützt die Ukraine unter anderem mit Drohnen.",
-      "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
-      "source": "tagesschau",
-      "category": "Europa",
-      "art": "konflikt",
-      "ort": {
-        "name": "Tallinn",
-        "lat": 59.44,
-        "lon": 24.75
-      },
-      "hamburg": "Sabotage gegen Rüstungsfirmen ist auch für Deutschland ein Sicherheitsthema.",
-      "stimmen": [
-        {
-          "source": "taz",
-          "richtung": "links",
-          "url": "https://taz.de/Sabotageversuch-in-Estland/!6230290/"
-        },
-        {
-          "source": "NZZ",
-          "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/estland-schliesst-grenzen-zu-russland-nach-sabotageakt-auf-ruestungsfirma-ld.10064620"
-        }
-      ]
+     "source": "BBC",
+     "richtung": "mitte",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Hunderttausende demonstrieren in Prag gegen Medienreform",
-      "text": "In Tschechien protestieren riesige Menschenmengen dagegen, dass der öffentlich-rechtliche Rundfunk künftig aus Staatsmitteln statt über Gebühren bezahlt werden soll. Die Regierung versucht zu beschwichtigen. Kritiker fürchten mehr politischen Einfluss auf die Sender.",
-      "url": "https://www.sueddeutsche.de/politik/tschechien-medienreform-prag-demonstration-oeffentlich-rechtlicher-rundfunk-li.3580911",
-      "source": "Süddeutsche Zeitung",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Prag",
-        "lat": 50.08,
-        "lon": 14.44
-      },
-      "stimmen": [
-        {
-          "source": "FAZ",
-          "richtung": "rechts",
-          "url": "https://www.faz.net/aktuell/politik/ausland/massenprotest-in-prag-400-000-gegen-babiss-medienreform-accg-201685448.html"
-        },
-        {
-          "source": "Spiegel",
-          "richtung": "links",
-          "url": "https://www.spiegel.de/ausland/tschechien-massenproteste-gegen-rundfunkreform-a-a936f58f-3277-403f-b795-591524b7a9de#ref=rss"
-        }
-      ]
+     "source": "FAZ",
+     "richtung": "rechts",
+     "url": "https://www.faz.net/aktuell/politik/ausland/erstes-eu-abschiebezentrum-soll-2027-in-ruanda-eroeffnen-201686820.html"
     }
-  ],
-  "entries": [
+   ]
+  },
+  {
+   "title": "Huthi rücken im Jemen vor, USA verstärken Flotte",
+   "text": "Die vom Iran unterstützte Huthi-Miliz nimmt im Jemen erneut strategisch wichtiges Gelände ein, laut taz auch rund um die Meerenge Bab al-Mandab. Die BBC warnt vor Folgen für die Weltwirtschaft. Zugleich hat das US-Militär laut Medienberichten einen dritten Flugzeugträger in den Nahen Osten verlegt.",
+   "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Bab al-Mandab, Jemen",
+    "lat": 12.58,
+    "lon": 43.33
+   },
+   "hamburg": "Die Meerenge liegt auf der Seeroute zwischen Asien und Europa; Störungen können Frachtraten und Lieferzeiten für den Hamburger Hafen beeinflussen.",
+   "stimmen": [
     {
-      "title": "Jemen: Regierungstruppen verlassen Meerenge Bab al-Mandab",
-      "summary": "Nach Kämpfen mit der Huthi-Miliz ziehen sich die Regierungstruppen von der strategisch wichtigen Meerenge zurück. Laut BBC haben die Huthis damit die Kontrolle über die Wasserstraße.",
-      "url": "https://www.deutschlandfunk.de/regierungstruppen-ziehen-sich-nach-kaempfen-mit-huthi-miliz-von-meerenge-bab-al-mandab-zurueck-102.html",
-      "source": "Deutschlandfunk",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Bab al-Mandab",
-        "lat": 12.58,
-        "lon": 43.33
-      },
-      "hamburg": "Die Meerenge liegt auf der Seeroute zwischen Asien und Europa, die auch Schiffe nach Hamburg nutzen."
+     "source": "taz",
+     "richtung": "links",
+     "url": "https://taz.de/Krieg-im-Jemen/!6230323/"
     },
     {
-      "title": "Selenskyj fordert Aufhebung der Starlink-Beschränkungen",
-      "summary": "Der ukrainische Präsident bittet die USA und Elon Musk, die Drosselung des Satelliten-Internets aufzuheben. Das langsame Netz erschwere die Abwehr russischer Angriffe.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Kyjiw",
-        "lat": 50.45,
-        "lon": 30.52
-      }
+     "source": "tagesschau",
+     "richtung": "mitte",
+     "url": "https://www.spiegel.de/ausland/iran-krieg-dritter-us-flugzeugtraeger-erreicht-nahen-osten-a-97da317f-1d1c-41c8-ae22-22a908b3b203#ref=rss"
     },
     {
-      "title": "Datenleck zeigt mehr als eine halbe Million russische Kriegstote",
-      "summary": "Ein Datenleck in Moskau gibt laut NZZ Einblick in eine vom Kreml verheimlichte Zahl von Todesopfern im Ukraine-Krieg.",
-      "url": "https://www.nzz.ch/international/ukraine-krieg-mehr-als-eine-halbe-million-russische-todesopfer-ld.10063290",
-      "source": "NZZ",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Moskau",
-        "lat": 55.75,
-        "lon": 37.62
-      }
-    },
-    {
-      "title": "Israel: Wahl ohne klaren Sieger, Netanjahu wirbt um Einheitsregierung",
-      "summary": "Die Parlamentswahl brachte keine eindeutige Mehrheit. Oppositionspolitiker Eisenkot sucht Koalitionspartner, der geschäftsführende Premier Netanjahu wirbt für eine Einheitsregierung.",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
-      "source": "tagesschau",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Jerusalem",
-        "lat": 31.77,
-        "lon": 35.21
-      }
-    },
-    {
-      "title": "COP31 in Antalya geht in die entscheidende Woche",
-      "summary": "Nun reisen die Ministerinnen und Minister an. Für Bundesumweltminister Schneider gibt es viel zu tun, der Erfolg hängt wohl auch von Geldzusagen ab.",
-      "url": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html",
-      "source": "tagesschau",
-      "category": "Katastrophen & Klima",
-      "art": "politik",
-      "ort": {
-        "name": "Antalya",
-        "lat": 36.9,
-        "lon": 30.7
-      }
-    },
-    {
-      "title": "Rekord: Rund 1.500 Migranten erreichen die Kanaren an einem Tag",
-      "summary": "Der Zustrom aus Westafrika erreicht einen Tagesrekord. Besonders angespannt ist die Lage auf der kleinen Insel El Hierro.",
-      "url": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
-      "source": "tagesschau",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "El Hierro",
-        "lat": 27.74,
-        "lon": -18.02
-      }
-    },
-    {
-      "title": "128 Länder beraten in Genf über Regeln für KI-Waffen",
-      "summary": "Ab Montag verhandeln Regierungen über ein internationales Regelwerk für autonome Waffen mit künstlicher Intelligenz, sogenannte Killerroboter.",
-      "url": "https://www.deutschlandfunk.de/128-laender-beraten-ab-montag-ueber-beschraenkungen-fuer-ki-waffensysteme-und-killerroboter-104.html",
-      "source": "Deutschlandfunk",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Genf",
-        "lat": 46.2,
-        "lon": 6.14
-      }
-    },
-    {
-      "title": "Nvidia-Affäre setzt US-Handelsminister Lutnick unter Druck",
-      "summary": "Der Spiegel berichtet, Handelsminister Lutnick gerate in der Spionage- und Sexaffäre um Nvidia in Bedrängnis. Es geht um Chip-Exporte nach China.",
-      "url": "https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck-a-d5a8dd06-a4ad-4dae-a33c-fb6a530f956a#ref=rss",
-      "source": "Spiegel",
-      "category": "Wirtschaft & Handel",
-      "art": "politik",
-      "ort": {
-        "name": "Washington",
-        "lat": 38.91,
-        "lon": -77.04
-      }
-    },
-    {
-      "title": "US-Flugverkehr nach Netzausfall wieder im Anlauf",
-      "summary": "Ein Ausfall des Flugsicherungsnetzes hatte in den USA Chaos ausgelöst. Die Flüge sollen wieder aufgenommen werden.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
-      "source": "Reuters",
-      "category": "Wirtschaft & Handel",
-      "art": "wirtschaft"
-    },
-    {
-      "title": "Amazon verliert 40 Satelliten bei Fehlstart",
-      "summary": "Der Start einer Vulcan-Rakete scheiterte. An Bord waren 40 Satelliten für Amazons Internetdienst Leo.",
-      "url": "https://www.deutschlandfunk.de/vulcan-rakete-versagt-nach-start-amazon-verliert-40-leo-satelliten-102.html",
-      "source": "Deutschlandfunk",
-      "category": "Wirtschaft & Handel",
-      "art": "wirtschaft"
-    },
-    {
-      "title": "Südsudan verschiebt Wahlen zum dritten Mal",
-      "summary": "Die für den 22. Dezember geplanten Wahlen sollen nun 2027 stattfinden. Kritiker werfen Präsident Kiir vor, seine Macht zu monopolisieren.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/wahlen-in-suedsudan-werden-auf-2027-verschoben-accg-201684760.html",
-      "source": "FAZ",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Juba",
-        "lat": 4.85,
-        "lon": 31.58
-      }
-    },
-    {
-      "title": "Guatemala ruft Ausnahmezustand in Zacapa aus",
-      "summary": "In der Grenzregion, einer Drogenhochburg, wurden zuletzt mindestens 17 Menschen bei bewaffneten Angriffen getötet.",
-      "url": "https://www.spiegel.de/ausland/guatemala-ruft-ausnahmezustand-in-drogenhochburg-zacapa-aus-a-40fe25c5-5d39-420e-b71c-60e4a270f0a3#ref=rss",
-      "source": "Spiegel",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Zacapa",
-        "lat": 14.97,
-        "lon": -89.53
-      }
-    },
-    {
-      "title": "HHLA senkt nach Umschlagrückgang die Jahresprognose",
-      "summary": "Der Hamburger Hafenlogistiker erwartet für das Jahr weniger als geplant, nachdem der Umschlag zurückgegangen ist.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3Y4VVJqSzNtM1A0N0NPT2RUYmdNVGxHNzZfbkNWMjhlWThPdnNtejFZYVhuTjc0TEdNb08wZjFZcTBpcEZoOE84Y24yTE5JN3VNLWQxSFAtNVdWbWRKOW43anNsaDE4WkVBc0NkQm1rMnJBWjJ6dzVGcWxWdkxXSW9DbHFmbEcweXNfMk9SUmxXOWxXNm1UbzlYYjk1VUQ2RHZ0V0dPRkdLWWNaTHc?oc=5",
-      "source": "Logistik Heute",
-      "category": "Hafen & Schifffahrt",
-      "art": "wirtschaft",
-      "ort": {
-        "name": "Hamburg",
-        "lat": 53.55,
-        "lon": 9.99
-      },
-      "hamburg": "Das betrifft direkt Hamburgs Hafen und dessen Beschäftigte."
-    },
-    {
-      "title": "EU gibt 286 Millionen Euro für Hamburger Kaimauern",
-      "summary": "Die EU-Kommission hat Fördergeld für neue Kaimauern im Hamburger Hafen freigegeben.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVDNzQmdtLTJicTAtNld5R2hmaU1FeFlMZFRNTVFjNHMtV2FUUF96WHRmdFNDMGZ4Z3hOM3RjWXhDTHJzQ3JJYVJYVFF2bzdFZ0pmejR1Vkg5ZFM1WUVuVFhmZE1BcGd4dW9mT2dVeHVObFQ0Q2dxbkpzdlViQVN0SGJVUUViYlhtMy1PdzZPX0lmOC1PcDFINm9hb3VTS1B2T3NyVE95WUJfTTh5aHlNRUMxZ0lTeG55Sm9XOVZSaThqWWhXajdJOA?oc=5",
-      "source": "NDR.de",
-      "category": "Hafen & Schifffahrt",
-      "art": "wirtschaft",
-      "ort": {
-        "name": "Hamburg",
-        "lat": 53.55,
-        "lon": 9.99
-      },
-      "hamburg": "Das Geld fließt direkt in die Hafenanlagen der Stadt."
+     "source": "WELT",
+     "richtung": "rechts",
+     "url": "https://www.welt.de/politik/ausland/video6afb188b8c74195fa20c3396/iran-verhandlungen-drohkulisse-aufgebaut-neuer-us-flugzeugtraeger-schuert-sorge-vor-eskalation.html"
     }
-  ]
+   ]
+  }
+ ],
+ "entries": [
+  {
+   "title": "Japan beklagt Luftraumverletzung durch russische Flugzeuge",
+   "summary": "Zwei mutmaßlich russische Flugzeuge drangen nahe Okinoshima in den japanischen Luftraum ein. Tokio spricht von einem schweren Eingriff.",
+   "url": "https://www.sueddeutsche.de/politik/japan-russland-luftraum-li.3581703",
+   "source": "Süddeutsche Zeitung",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Japan",
+    "lat": 35.68,
+    "lon": 139.69
+   }
+  },
+  {
+   "title": "EU verhängt neue Sanktionen gegen Russland",
+   "summary": "Betroffen sind Russlands reichste Unternehmerin, Propagandisten, Hackergruppen und Banken.",
+   "url": "https://www.sueddeutsche.de/politik/ministertreffen-in-bruessel-eu-sanktioniert-russische-propaganda-fabrik-und-banken-li.3581497",
+   "source": "tagesschau",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Brüssel",
+    "lat": 50.85,
+    "lon": 4.35
+   }
+  },
+  {
+   "title": "Weltklimakonferenz: Australien legt Entwurf für Abschlusserklärung vor",
+   "summary": "In Antalya hat die entscheidende Phase begonnen. Der erste Entwurf der Abschlusserklärung liegt jetzt auf dem Tisch.",
+   "url": "https://www.tagesschau.de/ausland/asien/klimakonferenz-abschlusserklaerung-100.html",
+   "source": "tagesschau",
+   "category": "Katastrophen & Klima",
+   "art": "politik",
+   "ort": {
+    "name": "Antalya, Türkei",
+    "lat": 36.9,
+    "lon": 30.7
+   }
+  },
+  {
+   "title": "EU plant neue Sanktionen gegen den Iran",
+   "summary": "Anlass sind Hackerangriffe auf Kühlsysteme von Supermarktketten. Die Außenminister beraten darüber.",
+   "url": "https://www.deutschlandfunk.de/hackerangriffe-auf-kuehlsysteme-eu-plant-neue-sanktionen-gegen-den-iran-102.html",
+   "source": "Deutschlandfunk",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Iran",
+    "lat": 35.69,
+    "lon": 51.39
+   }
+  },
+  {
+   "title": "Bericht: Französische Soldaten seit Monaten in der Ukraine",
+   "summary": "Der Sender RFI berichtet von einer französischen Einheit, die Truppen schulen soll. Eine offizielle Bestätigung nennen die Berichte nicht.",
+   "url": "https://www.welt.de/politik/ausland/article6afae8ac5dc4e94a2532a539/ukraine-krieg-franzoesische-soldaten-sollen-seit-monaten-in-der-ukraine-sein.html",
+   "source": "WELT",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Ukraine",
+    "lat": 50.45,
+    "lon": 30.52
+   }
+  },
+  {
+   "title": "USA verschärfen Exportregeln für KI-Chips",
+   "summary": "Die Regierung will China bei der KI-Entwicklung bremsen. Auch fünf Länder geraten laut FAZ stärker unter Beobachtung.",
+   "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-china-export-handel-lutnick-bessent-trump-halbleiter-nvidia-li.3578585",
+   "source": "Süddeutsche Zeitung",
+   "category": "Wirtschaft & Handel",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Washington",
+    "lat": 38.91,
+    "lon": -77.04
+   }
+  },
+  {
+   "title": "Massenprotest in Prag gegen Umbau des Rundfunks",
+   "summary": "400.000 Menschen protestieren gegen die Pläne der Regierung Babiš. Der Regierungschef will nicht nachgeben.",
+   "url": "https://www.faz.net/aktuell/politik/ausland/kampf-um-rundfunk-babis-will-nach-grossprotest-in-prag-nicht-nachgeben-201687312.html",
+   "source": "FAZ",
+   "category": "Europa",
+   "art": "politik",
+   "ort": {
+    "name": "Prag",
+    "lat": 50.08,
+    "lon": 14.44
+   }
+  },
+  {
+   "title": "Jordanien verschärft nach zwei Anschlägen die Anti-Terror-Gesetze",
+   "summary": "Das Königreich gilt als Stabilitätsanker der Region. Die NZZ sieht nun seine Verwundbarkeit.",
+   "url": "https://www.nzz.ch/international/terroranschlaege-in-jordanien-koenig-verspricht-harte-reaktion-ld.10056591",
+   "source": "NZZ",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Amman, Jordanien",
+    "lat": 31.95,
+    "lon": 35.93
+   }
+  },
+  {
+   "title": "Drohnen greifen Frachtschiffe vor Rumäniens Küste an",
+   "summary": "Die Lage für den Seehandel im Schwarzen Meer wird gefährlicher; Rumänien investiert in Sicherheit.",
+   "url": "https://www.nzz.ch/international/drohnenangriffe-im-schwarzen-meer-rumaenien-investiert-in-die-sicherheit-ld.10063486",
+   "source": "NZZ",
+   "category": "Hafen & Schifffahrt",
+   "art": "konflikt",
+   "ort": {
+    "name": "Constanța, Rumänien",
+    "lat": 44.18,
+    "lon": 28.65
+   }
+  },
+  {
+   "title": "EU gibt grünes Licht für 286 Millionen Euro Kaimauern im Hamburger Hafen",
+   "summary": "Hamburg darf die Mammutinvestition in neue Kaimauern vornehmen. Die EU-Kommission hat das Vorhaben genehmigt.",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZnh2TF9oUUtOMG52Rmp3Y05BUlFnWGJ6TEpHb1hmYWNpOUhXb253Qm40bEdUcEUycVd1UUl3SGlha2QtZ25rejhVbElmcElVUFp0TUtEVXFrcU5hbGZmbWFJSFlqRC1iMm80ZWdqWjVyWjZ6cTloREZIN0xUdVlNZFA5NkNydnZFZC1HUHduSUFQVzBndkZUdm5PclpSS21GRXpnekVKN25tZlRsQVdsWEFYZ24tOVI4bDJMbVdmRE1tOExEQkpxTEItY1Utdw?oc=5",
+   "source": "NDR",
+   "category": "Hafen & Schifffahrt",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Hamburg",
+    "lat": 53.55,
+    "lon": 10
+   },
+   "hamburg": "Die neuen Kaimauern stärken die Zukunft des Hafens als Arbeitgeber und Umschlagplatz für die Stadt."
+  },
+  {
+   "title": "Containerumschlag in Hamburg gewinnt wieder an Dynamik",
+   "summary": "Der Hafen meldet wieder mehr Schwung beim Umschlag von Containern. Zugleich meldet die HHLA laut Branchenportal einen Gewinneinbruch.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUYtMkxqNlNseDl1WHJMeWRtR3VRYTIyVWZHS0V0b29tSVh5UXBwZ2VtUV9IM0kzdktGSVdkSUVRcTNUSmtwekJPX2lzc2MtMjJrRmhLbWhSNmhGV2FFM1NSOGlDSG93V2sydVIyNVozaUdfdFRjRnRMbjJwUHE4bGgwbGZGM2VrQVo5cHhLX003WkdvWlA4ZWtiN1FPdw?oc=5",
+   "source": "Fruchthandel",
+   "category": "Hafen & Schifffahrt",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Hamburg",
+    "lat": 53.55,
+    "lon": 10
+   },
+   "hamburg": "Für den Hafen Hamburg ist der Umschlag der wichtigste Wirtschaftsfaktor."
+  },
+  {
+   "title": "Orange Warnung: Tropensturm AKVAN-26",
+   "summary": "Das Warnsystem GDACS gibt Stufe Orange. Der Sturm erreicht bis 102 km/h; rund 16 Millionen Menschen liegen im Gebiet von Tropensturm-Winden.",
+   "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001351",
+   "source": "GDACS",
+   "category": "Katastrophen & Klima",
+   "art": "katastrophe"
+  }
+ ]
 }
