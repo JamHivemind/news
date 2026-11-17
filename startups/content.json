@@ -1,71 +1,92 @@
 {
-  "date": "2026-11-16",
-  "intro": "Ruhiger Start in die Woche: Zwei Finanzierungsrunden für Chip- und Robotik-Start-ups, dazu ein neues KI-Bankprojekt in Großbritannien. Die direkten Feeds von deutsche-startups.de und EU-Startups fielen aus, daher ist die Auswahl klein.",
-  "top": [
-    {
-      "title": "Bharat Semi sammelt 24 Mio. Dollar für KI-Sensorchips ein",
-      "text": "Das indische Chip-Start-up hat eine Seed-Runde (frühe erste Finanzierung) über 24 Millionen US-Dollar abgeschlossen. Es entwickelt Chips für KI-Sensoren und nennt nach eigenen Angaben Designaufträge unter anderem von General Atomics. Das Ziel ist der globale Markt.",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "source": "TechCrunch Startups",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Robotik-Start-up Mosaico aus Italien holt 7,5 Mio. Euro",
-      "text": "Das italienische Start-up will das Datenproblem der KI in der Robotik lösen. Es hat laut Sifted 7,5 Millionen Euro eingesammelt. Roboter brauchen große Mengen passender Trainingsdaten, daran hapert es oft.",
-      "url": "https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/",
-      "source": "Sifted",
-      "category": "Deep Tech & Forschung"
-    },
-    {
-      "title": "Starling-Gründerin plant neue KI-Bank",
-      "text": "Anne Boden, die Gründerin der britischen Digitalbank Starling, plant laut Sifted eine neue, KI-gestützte Bank. Details sind in der Meldung nur angerissen. Es zeigt, wie stark KI inzwischen auch Gründungen im Finanzsektor prägt.",
-      "url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
-      "source": "Sifted",
-      "category": "Europa & Welt"
-    }
-  ],
-  "entries": [
-    {
-      "title": "Fintech: KI-Backoffice-Lösungen werden zur Massenware",
-      "summary": "Sifted beschreibt, dass sich im Markt für KI-gestützte Fintech-Verwaltungssoftware viele Anbieter drängeln. Wer bestehen will, braucht etwas, das sich nicht kopieren lässt.",
-      "url": "https://sifted.eu/articles/ai-native-fintech-crowding/",
-      "source": "Sifted",
-      "category": "Europa & Welt"
-    },
-    {
-      "title": "Großbritannien: Verbot von Wettbewerbsverboten könnte Start-ups schaden",
-      "summary": "Sifted argumentiert, dass ein Verbot von Wettbewerbsklauseln (Regeln, die Mitarbeitern den Wechsel zur Konkurrenz verbieten) für junge Firmen nachteilig sein könnte.",
-      "url": "https://sifted.eu/articles/uk-non-compete-rules-change-against/",
-      "source": "Sifted",
-      "category": "Förderung & Politik"
-    },
-    {
-      "title": "Drei Lehren von Einsteins Universität für Europa",
-      "summary": "Sifted beschreibt, was Europa von einer Spitzenuniversität für die Verbindung von Forschung und Gründung lernen kann.",
-      "url": "https://sifted.eu/articles/einsteins-university-has-three-lessons-to-teach-europe/",
-      "source": "Sifted",
-      "category": "Deep Tech & Forschung"
-    },
-    {
-      "title": "JawBuddy kämpft gegen Zähneknirschen",
-      "summary": "Das Start-up JawBuddy will Menschen helfen, die nachts mit den Zähnen knirschen. deutsche-startups.de stellt es vor.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1VxbWYwdEFVUS01b1l6bjR3UVh5UGlEQ3AwX2xtWHd0OEFrbThITlRyc1pDaXZUSVA1NGJOZF81Vm96ZVVRM1VFTi1kbHAtMkFib3BfWV82VFRZVElvZ0dlWXZpU3IxTUJUM05HRE81NzYyY3JZNUhOUUJReTFYTF8wTWRQWWdGdmItd0dGWFY3VzlwbXBrZg?oc=5",
-      "source": "deutsche-startups.de",
-      "category": "Gründungen & Produkte"
-    },
-    {
-      "title": "Flaming Hydra will E-Books wieder besitzbar machen",
-      "summary": "Eine neue Kickstarter-Kampagne will E-Book-Besitz und digitales Verleihen neu denken. Das Projekt wirbt mit der „Rückkehr des menschlichen Internets“.",
-      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-      "source": "TechCrunch Startups",
-      "category": "Gründungen & Produkte"
-    },
-    {
-      "title": "Reeperbahn Festival: Finanzierung für 2027 gesichert",
-      "summary": "Das Hamburger Festival hat die Finanzierung für das kommende Jahr zusammen, meldet der NDR.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFg5a0dpVGYzeWN1SHdxVm1LWm02dkVfZnlsODFXS0xtZnN0TUN1b2l3YmtEZ0xCOUVySVNwaUNNY21xa1dNbmdYYVBmbkYtOVJybnU5SzVQNVhBc0RldXZrYzlaRDhDczlGS2N1Tks1a09mRXY5dTlMTnM5WFV0MGItQVFpYld5LU5PNWtiMjk4UkRtTGZSaV9xT1BMOTRWSnJPREJRZGprX0NJYWl1dFdn?oc=5",
-      "source": "NDR.de",
-      "category": "Hamburg & Norddeutschland"
-    }
-  ]
+ "date": "2026-11-17",
+ "intro": "Aus Berlin kommt ein Dämpfer für die Gründerszene: Die Bundesregierung will bei der Förderung von Business Angels sparen. In Europa dagegen füllen sich die Kassen, etwa bei Plural.",
+ "top": [
+  {
+   "title": "Bund will Förderung für Business Angels kürzen",
+   "text": "Die Bundesregierung will laut Gründerszene die staatliche Förderung von Startup-Investitionen durch Business Angels (private Geldgeber) im kommenden Jahr deutlich zurückfahren. Die Grünen sprechen von einem großen Fehler. Für junge Firmen kann das die Suche nach der ersten Finanzierung schwerer machen. Es ist bisher ein Plan der Regierung.",
+   "url": "https://www.businessinsider.de/gruenderszene/regierung-merz-streicht-millionen-startup-foerderung-gruene-sprechen-von-grossem-fehler/",
+   "source": "Gründerszene",
+   "category": "Förderung & Politik"
+  },
+  {
+   "title": "Plural sammelt neuen Fonds über 1 Milliarde Euro ein",
+   "text": "Der europäische Geldgeber Plural hat laut Sifted einen frischen Fonds von 1 Milliarde Euro aufgelegt. Er soll in „nicht offensichtliche Firmen“ investieren. Das zeigt, dass für europäische Startups weiter viel Kapital bereitsteht.",
+   "url": "https://sifted.eu/articles/plural-new-fund-e1bn/",
+   "source": "Sifted",
+   "category": "Finanzierungen"
+  },
+  {
+   "title": "Intergrid erhält 23,5 Millionen Euro für KI-gesteuerte Energiesysteme",
+   "text": "Das Start-up bekommt 23,5 Millionen Euro für Energiesysteme, die per KI gesteuert werden. Investoren nennt der frei lesbare Teil nicht. Energie und KI bleiben gefragte Themen bei Geldgebern.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTFZSGd2Z216YlN1aEI1MnN5RUN5YnZUWm5HaEc5WlB4YUFtOGIyR0EwNTVKZmpPb3RtRjlreHRvVXpfc1B6andnN1pVdEZnV204RGNpNk54WE1tWTJ3aUZjc0RidV91dUpHWERrVzhZcml3MUkxelh1N28wd25DZ2xyU1h2S3FyTWNnU1BqSUlIcW4wdldjVGZrQWlEb0o4R0V3?oc=5",
+   "source": "Startbase",
+   "category": "Finanzierungen"
+  }
+ ],
+ "entries": [
+  {
+   "title": "Mosaico holt 7,5 Millionen Euro",
+   "summary": "Das Start-up hat laut Startbase 7,5 Millionen Euro eingesammelt.",
+   "url": "https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/",
+   "source": "Startbase",
+   "category": "Finanzierungen"
+  },
+  {
+   "title": "Daisyturner erhält 6 Millionen Euro",
+   "summary": "Das Start-up bekommt 6 Millionen Euro frisches Kapital.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80eWUyaHNkTThxcEpibEFEcDNkbHEwUnU5NmM2VUJIMHZ4OFNJeFM4MFJkdGZJVWl2bEZXZEhudFRsa2M5bVpIRzZJVEM5U0RRbms4bzhZa2V0S0xnZTd0U3pSVVRRcXhnOHI1bjZJYk1fUQ?oc=5",
+   "source": "Startbase",
+   "category": "Finanzierungen"
+  },
+  {
+   "title": "Cybersecurity-Start-up Corma wird nach drei Monaten eine Milliarde wert",
+   "summary": "Nur drei Monate nach Produktstart sammelt Corma 125 Millionen Dollar in einer Series A ein, angeführt von NEA.",
+   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "source": "TechCrunch Startups",
+   "category": "Finanzierungen"
+  },
+  {
+   "title": "Freshworks-Ehemalige sammeln 53 Millionen Dollar für KI-Kundensoftware",
+   "summary": "Dreamteam will mit einer KI-basierten CRM-Software (Kundenverwaltung) gegen Salesforce und HubSpot antreten. Mehr als 100 Kunden in 13 Ländern nutzen sie schon.",
+   "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+   "source": "TechCrunch Startups",
+   "category": "Gründungen & Produkte"
+  },
+  {
+   "title": "Island macht Bildschirmzeit zum Spiel",
+   "summary": "Die App aus dem Programm Y Combinator belohnt Nutzer, die ihr Handy-Limit einhalten, mit Feldfrüchten und Tieren in einem Farmspiel.",
+   "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+   "source": "TechCrunch Startups",
+   "category": "Gründungen & Produkte"
+  },
+  {
+   "title": "Batterie-Start-up Our Next Energy geht per SPAC an die Börse",
+   "summary": "Nach einer Beinahe-Pleite wählt das Unternehmen den Börsengang über eine SPAC (Mantelgesellschaft). TechCrunch fragt, ob es im harten Batteriemarkt bestehen kann.",
+   "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+   "source": "TechCrunch Startups",
+   "category": "Exits & Übernahmen"
+  },
+  {
+   "title": "Fintech Majority soll mit Rebtel fusionieren",
+   "summary": "Das von Peter Thiel unterstützte Fintech Majority steht laut Sifted vor der Fusion mit Rebtel.",
+   "url": "https://sifted.eu/articles/thiel-fintech-majority-rebtel-merge/",
+   "source": "Sifted",
+   "category": "Exits & Übernahmen"
+  },
+  {
+   "title": "Starling-Bank-Chef tritt zum Jahresende ab",
+   "summary": "Der Chef der britischen Digitalbank Starling verlässt das Unternehmen Ende 2026.",
+   "url": "https://sifted.eu/articles/starling-ceo-to-step-down/",
+   "source": "Sifted",
+   "category": "Europa & Welt"
+  },
+  {
+   "title": "Europas „World-Model“-Start-ups im Überblick",
+   "summary": "Sifted kartiert die europäischen Firmen, die KI-Modelle für die physische Welt entwickeln.",
+   "url": "https://sifted.eu/articles/europe-world-models-mapped/",
+   "source": "Sifted",
+   "category": "Deep Tech & Forschung"
+  }
+ ]
 }
