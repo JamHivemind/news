@@ -1,113 +1,99 @@
 {
-  "date": "2026-11-16",
-  "intro": "Heute gibt es Tempo auf allen Ebenen: Audi zeigt mit dem Nuvolari einen 1001-PS-Supersportwagen, Rimac stoppt den elektrischen Nevera, und Knight Riders Kult-Pontiac findet keinen Käufer.",
-  "top": [
-    {
-      "title": "Audi Nuvolari: 1001 PS als Ausblick auf Audis Zukunft",
-      "text": "Der Supersportwagen Nuvolari leistet 1001 PS und gilt laut Auto Bild als Leuchtturm und Markenbotschafter. Er soll zeigen, wohin es bei Audi künftig gehen soll. Die Technik koppelt laut auto motor und sport Allrad, Rekuperation (Strom aus Bremsenergie) und aktive Aerodynamik.",
-      "url": "https://www.autobild.de/artikel/audi-nuvolari-erste-fahrt-28879743.html",
-      "source": "Auto Bild",
-      "category": "Neue Modelle & Fahrberichte"
-    },
-    {
-      "title": "Rimac stoppt den Nevera nach 71 statt 190 Autos",
-      "text": "Mate Rimac beendet die Produktion des elektrischen Hypercars Nevera zum Jahreswechsel, geplant waren 190 Stück, gebaut wurden 71. Die Nachfrage nach Elektro-Hypercars schwächelt, Verbrenner liegen in dem Segment im Trend. Für Sammler dürfte der Nevera damit selten bleiben.",
-      "url": "https://www.focus.de/auto/news/rimac-beendet-produktion-des-nevera-nach-71-statt-190-autos_5a7cde75-cbcc-45fe-9018-65689cc79b8c.html",
-      "source": "Focus Auto",
-      "category": "Hersteller & Branche"
-    },
-    {
-      "title": "Knight-Rider-Pontiac findet in Zürich keinen Käufer",
-      "text": "Der Pontiac Firebird Trans Am aus der Serie „Knight Rider“ gehört zu den bekanntesten Filmautos. Mit diesem Modell tourte David Hasselhoff selbst durch Europa. Bei einer Auktion in Zürich fand er trotzdem keinen neuen Besitzer.",
-      "url": "https://www.autobild.de/artikel/k.i.t.t.-ist-zu-teuer-62792b8-28875787.html",
-      "source": "Auto Bild",
-      "category": "Markt & Preise"
-    }
-  ],
-  "entries": [
-    {
-      "title": "Mercedes SLS AMG: Was kostet ein nie gefahrener Flügeltürer?",
-      "summary": "Der SLS AMG ist bei Sammlern sehr gefragt, die Preise steigen weiter. Auto Bild fragt, was ein Neuwagen-Exemplar ohne Kilometer kostet.",
-      "url": "https://www.autobild.de/artikel/mercedes-sls-amg-2011-gebrauchtwagen-angebot-28895511.html",
-      "source": "Auto Bild",
-      "category": "Klassiker & Youngtimer"
-    },
-    {
-      "title": "Opel Kadett GSi Superboss: Der Rekord-Kadett aus Südafrika",
-      "summary": "Der Kadett GSi 16V S Superboss war ein Homologationsmodell (Straßenversion für die Rennzulassung) für den südafrikanischen Markt und hielt lange einen Rekord.",
-      "url": "https://www.autobild.de/artikel/opel-kadett-gsi-16v-s-superboss-homologationsmodell-eea2bc2-28556763.html",
-      "source": "Auto Bild",
-      "category": "Klassiker & Youngtimer"
-    },
-    {
-      "title": "60 Jahre Porsche 911 S",
-      "summary": "Die WELT blickt auf sechs Jahrzehnte des Elfer S zurück.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkRuY1lCWHMxY3ZtbWpHX3U5b2RKZ0VBNHUtcldLemE3TkdJcGYyOER6ai0zWkRpb1lvd29RX0JfSDNzbW85YVU4cjFDb0t5cGNoZDZManhBWTl5M0E2NU1GblFydnBiV1JueTNVRVVlS1RYa3F0NVJMYl9HcWVXWVFTX1RLT0JQZUY2Ym5FeEpDRlNn?oc=5",
-      "source": "WELT",
-      "category": "Sportwagen & Elfer"
-    },
-    {
-      "title": "VW XL1 mit 1.672 km bei Catawiki-Auktion",
-      "summary": "Der Sparwagen-Exot mit nur 1.672 Kilometern auf der Uhr kommt bei Catawiki unter den Hammer. auto motor und sport fragt, ob er im Alltag fahrbar ist.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOME5WQnR1Z3p1alVHeGxlMkRpZGRYUEZzb290X3hpako1VW1wRTlHd1ZHRUdrc1pqa1VDRzg1ekNQcXhxU1RkcUdYVDZSby1IWkRlSUd2WlI2dEpaYTBsOFo2TF9ONk9Wb3hmb01GZGRlNVo0WEY4YUtURVE1ODZxZXhyY19TY1dVQVpWeXlMZ3dSTVV6T182M1FtLWRjcnppV3N4WDN1RGdwYU1VTUtWQ3VoeHNFX1Ns?oc=5",
-      "source": "auto motor und sport",
-      "category": "Markt & Preise"
-    },
-    {
-      "title": "BMW M1 AHG Studie: 350 PS und Procar-Optik",
-      "summary": "Auto motor und sport nennt den Preis der Studie im Stil des Rennwagens BMW M1 Procar mit 350 PS.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOanRFMTNLREJkcG1iMDNUeWQyMFRkUHNkZFFoNl9SRi1aYUZySW1zMTNQMWZSQ2wyLWl1bm5CbDI2RTRSVVV2UkJ1YXRSS1AxY195WW5iMnd0MTZ2YXlGNFJfVzZ0M1BIclF2ZkdFUUU5dFdlV0tUWVppT0E3YTNZWVdPSDRvQWRNZk1MdC15UkdVZmVXV2NWX1lMSFBQZ2pMUnc?oc=5",
-      "source": "auto motor und sport",
-      "category": "Neue Modelle & Fahrberichte"
-    },
-    {
-      "title": "Porsche-Junior 2027: Fünftägige Sichtung abgeschlossen",
-      "summary": "Porsche hat die fünftägige Sichtung für den Nachwuchsfahrer-Kader 2027 beendet.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeWtwMjRLOENaOW95RWhmSzlnRjVQM3Rya1NZWlVjX1F5bHo2YlExYzM2QmtENDJvM09TUGtWNGJ6aVh6ZnBTcEdxaDlhWFo3eWdOOEJRR2d3TE8xR1RtRVN6bUEweVJBMGJES0NkZlZ2NFZfbHFxbnNLSF81VHhHTzF0S0o5X0pjZG1wN0tqVlBXTDFqSUgzLTVkWHg4V29CUjNFZWN5YWI?oc=5",
-      "source": "Porsche Newsroom",
-      "category": "Motorsport"
-    },
-    {
-      "title": "DTM: HRT droht Verlust von Rookie Finn Wiebelhaus",
-      "summary": "Motorsport-Total meldet, dass dem DTM-Team HRT der Rookie Finn Wiebelhaus verloren gehen könnte.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2VQT2xsbkJCVHFHTEhVdU5SRDQxbkJpYlE1YV9oMEVmbzFMamwwaVpMVEVVQkNuNkhTdDJvN21sc2NHRmYwaUh5VUdxQTBIVzJMeDdZY2hqb3dwLUN4cXNoOVhaV21SVEJZd2hPNVBjb0V4aWdJeFhOMkRhSi1ybXMyTjlmckVVTzhsQ3R2ZzNrX3piZUwtRjFqUXZKX2g0OWlsbW5xTjdSek9JVklYLThaMGxTUQ?oc=5",
-      "source": "Motorsport-Total.com",
-      "category": "Motorsport"
-    },
-    {
-      "title": "Porsche AG: Zurück in der Gewinnzone",
-      "summary": "Eine Aktienanalyse sieht Porsche wieder in der Gewinnzone und nennt als Ziel 15 Prozent Rendite. Offen ist, ob Konzernchef Leiters die Marke stabilisieren kann.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHl1bzR4MXNqUGlWY2VnZnBEN01qcG0yRWQ5QjYwektFMEtpTjFRaUFfellJOVRlN3g2WElUNDVuSk9ySDMwNnZTaUdhcS1QbTg0UEtTc1UtdEVrelMxOXVOM1Jaa1J1Q2NwWWpCdEFvZmQ2YTd2UVEybTBMYzRSVk53UExUaVNpZWs0QVJScE9sMGFoTVgwaDFBWlB1aTFyTmJDX2pJcmRQVEpsc2FR?oc=5",
-      "source": "AktienCheck.de",
-      "category": "Hersteller & Branche"
-    },
-    {
-      "title": "Mercedes: Streit um Werkschließungen eskaliert",
-      "summary": "Zwei deutsche Werke könnten schließen, falls Mercedes die Kosten nicht senkt. Betriebsrat und IG Metall weisen die Drohung zurück.",
-      "url": "https://www.kfz-betrieb.vogel.de/standort-debatte-bei-mercedes-eskaliert-a-41cd0c84e41eb81af2c3198eda6eb308/",
-      "source": "kfz-betrieb",
-      "category": "Hersteller & Branche"
-    },
-    {
-      "title": "Tesla lässt ausgewählte Käufer Robotaxis vorbestellen",
-      "summary": "Eine nicht genannte Zahl selbstfahrender Fahrzeuge soll an Privatleute gehen. Autonom fahren dürfen sie nur in wenigen Regionen.",
-      "url": "https://www.kfz-betrieb.vogel.de/tesla-laesst-ausgewaehlte-kaeufer-robotaxis-vorbestellen-a-5ca5067842621896bed99dbda447b6b7/",
-      "source": "kfz-betrieb",
-      "category": "Hersteller & Branche"
-    },
-    {
-      "title": "Rückruf: 4,6 Millionen Autos von VW, Audi, Škoda und Seat",
-      "summary": "Laut weekend.at sind 4,6 Millionen Fahrzeuge der Konzernmarken betroffen. Betroffene sollten bei Händler oder Hersteller nach Details und Terminen fragen.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKaUxCZ3EyNkFkcnVPVUxYcVdBZnp5bTM4VkdCMURvTWJkZjNvQ0tfSFVwZlJ4QlJ2OUdHVDItNGxoU1k3bXI2WHFYdkt6OGpPWU41eVZkSFVSWXUxZW44bDJWVWFvdFpWU2t5cHRwREl6V3QtTHpZeDBuLTEwMFU?oc=5",
-      "source": "weekend.at",
-      "category": "Rückrufe & Regeln"
-    },
-    {
-      "title": "Opel-Rückruf: 61.680 Autos per Fahrgestellnummer prüfen",
-      "summary": "Opel ruft 61.680 Autos zurück. Ob das eigene Auto betroffen ist, lässt sich über die Fahrgestellnummer (FIN) prüfen.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGswUlluVUdBNF9jX1BFUkNFRWJoUUtFOUo0SWtUVEIwcUUydm1fbEx1NGJvWXRaSXVERUFxNERVQlZ5ZTh6a1dRR3RlZFNoQUZvbjY5ZWhDRVB2aHdnWHZiYTh2Unh4MjAyQjFVdUZROWF4S04yVC1kc09MYUFGRg?oc=5",
-      "source": "Netz Trends",
-      "category": "Rückrufe & Regeln"
-    }
-  ]
+ "date": "2026-11-17",
+ "intro": "Heute wird’s elektrisch und trotzdem laut: Der BMW M3 kommt 2027 zunächst als Stromer, beim Elfer legt Porsche Hand an die Hardware, und ein Audi sprengt in den USA die 700.000-Dollar-Marke.",
+ "top": [
+  {
+   "title": "BMW M3 kommt 2027 erst mal elektrisch – erste Fahrt",
+   "text": "Der neue M3 rollt laut Focus Auto 2027 zunächst als reine Elektroversion zu den Sportwagenfans. Die Tester nahmen schon Platz im Prototyp und waren beim ersten Rennstrecken-Einsatz beeindruckt. Auto Bild stellt die Frage, ob ein Stromer die typische M-Freude am Fahren liefern kann. Ob das Benzin im Blut mitmacht, entscheidet am Ende der Handschalter-Fan selbst.",
+   "url": "https://www.focus.de/auto/fahrberichte/technik-erste-fahrt-im-bmw-m3-elektro_4b43b5c2-1448-405b-b271-970ee23c9f4a.html",
+   "source": "Focus Auto",
+   "category": "Neue Modelle & Fahrberichte"
+  },
+  {
+   "title": "Elfer noch schneller: Porsche rüstet den 911 auf",
+   "text": "Mit frischer Hardware wertet Porsche den 911 auf, schreibt die FAZ. Das verjüngte Infotainment verzichtet auf Schnickschnack. Das Auto Bild verspricht zudem eine Neuerung, die es bei einem Serien-Porsche noch nie gab, nennt sie im frei lesbaren Teil aber nicht.",
+   "url": "https://www.faz.net/aktuell/technik-motor/motor/was-den-porsche-911-jetzt-noch-schneller-macht-accg-201621669.html",
+   "source": "FAZ Technik & Motor",
+   "category": "Sportwagen & Elfer"
+  },
+  {
+   "title": "Neuer Audi sprengt in den USA die 700.000-Dollar-Marke",
+   "text": "Ein neuer Audi stellt laut T-Online einen Rekord auf: superstark und superteuer. In den USA soll der Sportwagen 700.000 Dollar kosten. Mehr verraten die frei lesbaren Teile nicht.",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1JaVkVfd1ZneWRMOXFxOWlmam96RjJ1YUw5NkUwRWFlQkF1Sk9KZTgwdC10VkU0eFhuWFFCSE0zekVjNWpwZ01oR3BCcUREMmxISG5wdk5JTFp5OEtmblNpZEZGcEswclRmZFZibHFKcDdDRktvUmp3V18xTkJnYXJWWHdsdnVjMFdDcUZXWDdOMG9TQzl6bkNpWTV3UjNKRVNZdGZ2WGtXTEdObncwMVY0R2FmUU9lUEtndEVBVnEwYnVOM25YWXFKaw?oc=5",
+   "source": "T-Online",
+   "category": "Markt & Preise"
+  }
+ ],
+ "entries": [
+  {
+   "title": "Als der 911 zum Supersportler wurde",
+   "summary": "Das Handelsblatt blickt in die Oldtimer-Geschichte, als der Elfer zum Supersportwagen aufstieg.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUll6djYwVmt2aC1sTDhibmFDejhOMXlUR0pXSHlLSFNnc0pzS1pNeWhHMG15Zmh1Yi1iZ2hBQTlPaGZZazd6VGpjZXRtNEU0QXQyZnczNUxtTk9aSmVPYnRJZEJabmZIMTFQYU5TUjNoeXpZYTNQOXBVYnZvZVpzbE45VnJwZVFJbWs4UXhLQU0wWW5tNWJyR3UxODZzXzJnb3JSVmNyUkJZbmpIQUpwSWI5bzBwbGc?oc=5",
+   "source": "Handelsblatt",
+   "category": "Klassiker & Youngtimer"
+  },
+  {
+   "title": "Porsche-Spende: Röhrl-Zitate und 300 PS für einen guten Zweck",
+   "summary": "Auto Motor und Sport berichtet über eine Porsche-Spendenaktion mit Walter Röhrl.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUxUVFFiVEZKLUozM2RUVWFpSFVRYTJabGRPS0pqSDMtWlNYb1FIZEVHQmE1Wk11bjYxUnpjSEVGYUFTR2dTdlZxU0tTY2tKdUdjMjJROC1PeDc2QTlieGtKRXhETlpUa3BWRjRERDRILWJBa3FRYTAzSGtRYmhXeDlBTVduMUFHRUI2LUtzTXJubTZMSGg5bWdPYjZQZDVkZWNSc1I5ZjBLQW03UEdUdW5RTQ?oc=5",
+   "source": "Auto Motor und Sport",
+   "category": "Szene & Termine"
+  },
+  {
+   "title": "Hasselhoffs K.I.T.T.-Pontiac: Auktion in Zürich gescheitert",
+   "summary": "Das berühmte Filmauto fand bei der Versteigerung keinen Käufer. Auto Bild erklärt, warum.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXQ5QUh0V01MalBlMmRhYjdHVS1VOWExTVBfSWU5SHgwLV85c0lGcU1SUnB3ekFvcjhNdjFMSUNNNV9QOVFWdVdQMzBvMmhLdEh3LVR2QXBOUGN6QUtzQzVteTdSZXd2M3F0RC1nTEI4ZTdKdW42Mk1fUVlrTEI5Ug?oc=5",
+   "source": "Auto Bild",
+   "category": "Klassiker & Youngtimer"
+  },
+  {
+   "title": "BMW zeigt heimlich gebauten M7-Prototyp",
+   "summary": "Die M GmbH hatte in den 1990er Jahren einen Super-Siebener gebaut. Jetzt kommt er erstmals ans Licht.",
+   "url": "https://www.focus.de/auto/news/bmw-enthuellt-m7-prototyp-der-heimlicn-gebaut-wurde_eece3a88-862a-4595-8d91-e1cee13b9410.html",
+   "source": "Focus Auto",
+   "category": "Klassiker & Youngtimer"
+  },
+  {
+   "title": "400-km/h-Stromer endet nach nur 71 Exemplaren",
+   "summary": "Der Elektro-Supersportwagen wird nicht weitergebaut. Der Chef sieht laut Merkur die Aufgabe als erfüllt an.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVZjV1JMeHJlVG9hZ1c2ZUdZRzUxVXBaVm9NNHlaTGRIZldyN3JYMDdRcDZqZWd0Nk1fNFFsVmx3dHM1OU4yN29rWHFwNnJ4V2VPcXdIS21SRHc1RHFOeVllNldrMzc0cHRBeVlGbXZubHBfRmdfOHE2WXlwcFRzVXlnYlJ2UzI1d2hLTEhoTzY2NFQ5M295azc5TUlBVXIxb0pNZDRhUUhodw?oc=5",
+   "source": "Merkur",
+   "category": "Hersteller & Branche"
+  },
+  {
+   "title": "Audi-Comeback in der DTM 2027?",
+   "summary": "Motorsport-Total fragt, ob Audi 2027 als Stammteam in die DTM zurückkehrt. Bei Audi laufe es „an allen Ecken und Enden“.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORGxZeE8xWWEwM3ZzTUlTbGNEMS0xNUc1S0lkSERNN3FpZ28wQmdDV0ZMM1lTQ1ZIeDNtUE05VFhBZWVmQy1UVzJqaXlIVnJyc0tLYUxkbkxVbG1UWFNMMDZtQ3dGSS1RUDk3T2dVWXNYQ1F2SUh0OEdaU2M0N3czYlJxN2kxMVF1WXdjUlRBeWtDSmRIbGJGbHNsQ2tKSGMtcTZmRFdLNkJmd1picDFqOGNYZWJJRXVJbGtvYkZBQQ?oc=5",
+   "source": "Motorsport-Total.com",
+   "category": "Motorsport"
+  },
+  {
+   "title": "Audi A2 e-tron: Erster Test",
+   "summary": "Auto Motor und Sport glaubt, dass der neue A2 Audi aus der Krise fahren kann. Electrive nennt ihn ein kompaktes Auto der Oberklasse, das in keine klassische Kategorie passt.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDFXRDNCRFRaT2pYcUxTb1J5R0NfR1hKUzFKTGkzUjBsQnR1a19PczVuUk9LX1RxcmF0S0p0Q0FveXdFSURFalNJOHFQb3QwMnpxdWx6Z3czbmpUa1JHNkZZUU10UDhUcHBCMGstaFZjcmFBQ1RtbVd2Q3Q0ZzdEdnRHTWg5WTV1UFJ1dFJVeDVzM1pCRHhpX1dHNjJYVXF1NHJPVzFxa3pydw?oc=5",
+   "source": "Auto Motor und Sport",
+   "category": "Neue Modelle & Fahrberichte"
+  },
+  {
+   "title": "Tesla will drei Milliarden Euro in Grünheide stecken",
+   "summary": "Das Werk bei Berlin wird ausgebaut. Laut electrive soll dort ab 2029 das Robotaxi Cybercab entstehen.",
+   "url": "https://www.electrive.net/2026/11/16/tesla-kuendigt-milliarden-ausbau-fuer-gigafactory-gruenheide-an/",
+   "source": "electrive",
+   "category": "Hersteller & Branche"
+  },
+  {
+   "title": "Tesla Cybercab: 30.000 Dollar mit Haken",
+   "summary": "Tesla verkauft das Robotaxi ohne Lenkrad und Pedale für 29.990 Dollar. Dazu kommt eine Abogebühr von 299 Dollar, die Tesla mit einem Monat Vorlauf erhöhen kann.",
+   "url": "https://www.focus.de/auto/news/tesla-cybercab-im-abo-29-990-dollar-kaufpreis-plus-300-dollar_91139df7-8491-4d90-b76a-7d14bcbf4b60.html",
+   "source": "Focus Auto",
+   "category": "Hersteller & Branche"
+  },
+  {
+   "title": "Rückruf: 720.796 BMW sollen draußen parken",
+   "summary": "Wegen eines Problems mit der Wasserpumpe ruft BMW in den USA 720.796 Autos zurück. Bis zur Reparatur sollen sie nicht in Garagen stehen.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDhZQ05SbW8zUXM1N0ZnTEJEM0xFU293UUtBT0hFcE5MVGQ2c1JkNzJZSlVpamNiVU1mX0hqaXNzLW5ZZ0NEQUg1MWJBeDUzczJLUmg3UVNaUnlCb1JQWFYzQlBwNVdQTDUyclBFUnBFczlHRGVqczUtS1RzU1RYeFZINkIxQmlFVWN6RGlPcXYyUklGd1ZVTm8wQ0txQ0ZmM2VYTzlFU2xNZ2FnTFE?oc=5",
+   "source": "AktienCheck.de",
+   "category": "Rückrufe & Regeln"
+  }
+ ]
 }
