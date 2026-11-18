@@ -263,7 +263,11 @@
    ],
    [
     "2026-11-17",
-    92.81
+    93.14
+   ],
+   [
+    "2026-11-18",
+    92.61
    ]
   ],
   "GC=F": [
@@ -529,7 +533,11 @@
    ],
    [
     "2026-11-17",
-    3861.7
+    3864.2
+   ],
+   [
+    "2026-11-18",
+    3801.4
    ]
   ],
   "^GDAXI": [
@@ -799,7 +807,7 @@
    ],
    [
     "2026-11-17",
-    26341.56
+    26045.37
    ]
   ]
  },
@@ -951,7 +959,7 @@
    ],
    [
     "2026-11",
-    1.101
+    1.099
    ]
   ]
  },
@@ -959,9 +967,9 @@
   {
    "mag": 6.6,
    "place": "148 km WSW of Tual, Indonesia",
-   "time": "2026-11-16T21:11:20.515Z",
+   "time": "2026-11-16T21:11:20.376Z",
    "lon": 131.4868,
-   "lat": -6.0804,
+   "lat": -6.0602,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu"
   }
  ],
@@ -969,27 +977,15 @@
   {
    "type": "TC",
    "art": "Wirbelsturm",
-   "level": "Red",
-   "name": "Tropical Cyclone MURASU-26",
-   "country": "India",
-   "from": "2026-11-01",
-   "to": "2026-11-03",
-   "lon": 80.2,
-   "lat": 15.8,
-   "url": "https://www.gdacs.org/report.aspx?eventid=1001346&episodeid=10&eventtype=TC"
-  },
-  {
-   "type": "TC",
-   "art": "Wirbelsturm",
    "level": "Orange",
    "name": "Tropical Cyclone AKVAN-26",
    "country": "India",
    "from": "2026-11-16",
-   "to": "2026-11-17",
-   "lon": 87.3,
-   "lat": 12,
-   "url": "https://www.gdacs.org/report.aspx?eventid=1001351&episodeid=3&eventtype=TC"
+   "to": "2026-11-18",
+   "lon": 86.9,
+   "lat": 13,
+   "url": "https://www.gdacs.org/report.aspx?eventid=1001351&episodeid=6&eventtype=TC"
   }
  ],
- "updated": "2026-11-17T10:19:45.930Z"
+ "updated": "2026-11-18T02:33:27.148Z"
 }

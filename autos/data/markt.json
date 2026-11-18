@@ -11,11 +11,31 @@
      "min": 500000,
      "max": 500000,
      "kmMedian": 113800
+    },
+    {
+     "datum": "2026-11-18",
+     "anzahl": 1,
+     "median": 500000,
+     "p25": 500000,
+     "p75": 500000,
+     "min": 500000,
+     "max": 500000,
+     "kmMedian": 113800
     }
    ],
    "hamburg": {
-    "datum": "2026-11-12",
+    "datum": "2026-11-18",
     "angebote": [
+     {
+      "haendler": "BRALO Automobile GmbH",
+      "ort": "Hamburg",
+      "titel": "Porsche 911 Turbo Coupe",
+      "jahr": "1995",
+      "km": 19011,
+      "preis": 255993,
+      "url": "https://www.autoscout24.de/angebote/porsche-911-turbo-coupe-wls-2-unfallfrei-scheckheft-benzin-rot-cat_ma57gr100070ge284va284tr480682-18c95a8a-a952-43f2-891b-cd06f9b08b07",
+      "quelle": "AutoScout24"
+     },
      {
       "haendler": "DAVID Finest Sports Cars DFSC GmbH",
       "ort": "Hamburg",
@@ -60,10 +80,20 @@
      "min": 39900,
      "max": 795993,
      "kmMedian": 118925
+    },
+    {
+     "datum": "2026-11-18",
+     "anzahl": 64,
+     "median": 84993,
+     "p25": 76967,
+     "p75": 94075,
+     "min": 39900,
+     "max": 795993,
+     "kmMedian": 118925
     }
    ],
    "hamburg": {
-    "datum": "2026-11-12",
+    "datum": "2026-11-18",
     "angebote": [
      {
       "haendler": "Fineeleven",
@@ -76,16 +106,6 @@
       "quelle": "Elferspot"
      },
      {
-      "haendler": "Carthema Automobilhandel",
-      "ort": "Hamburg",
-      "titel": "Porsche 911 Carrera Coupe",
-      "jahr": "1994",
-      "km": 148000,
-      "preis": 74900,
-      "url": "https://www.autoscout24.de/angebote/porsche-911-993-6-gang-xenon-18-zoll-benzin-schwarz-cat_ma57gr100070ge284va266tr480682-95678e9a-aa6e-499c-b3d2-40b9ed3a0391",
-      "quelle": "AutoScout24"
-     },
-     {
       "haendler": "Hallier Classic Cars GmbH",
       "ort": "Ahrensburg",
       "titel": "Porsche 911 Carrera Cabriolet",
@@ -93,16 +113,6 @@
       "km": 117075,
       "preis": 84000,
       "url": "https://www.autoscout24.de/angebote/porsche-911-911-cabrio-tiptronic-22-jahre-1-besitzer-benzin-blau-cat_ma57gr100070ge284va265tr480682-3b863123-8d36-4d17-bafe-56cb7204431a",
-      "quelle": "AutoScout24"
-     },
-     {
-      "haendler": "H&M Automobile GmbH",
-      "ort": "Pinneberg",
-      "titel": "Porsche 911 Carrera Cabriolet",
-      "jahr": "1997",
-      "km": 83201,
-      "preis": 85999,
-      "url": "https://www.autoscout24.de/angebote/porsche-911-carrera-cabriolet-tiptronic-leder-klima-benzin-silber-cat_ma57gr100070ge284va265tr480682-28676e7a-72f3-4b65-bb29-007fed1c14ec",
       "quelle": "AutoScout24"
      },
      {
@@ -139,10 +149,20 @@
      "min": 44997,
      "max": 109997,
      "kmMedian": 87882
+    },
+    {
+     "datum": "2026-11-18",
+     "anzahl": 37,
+     "median": 64900,
+     "p25": 58950,
+     "p75": 74000,
+     "min": 42997,
+     "max": 109997,
+     "kmMedian": 89700
     }
    ],
    "hamburg": {
-    "datum": "2026-11-12",
+    "datum": "2026-11-18",
     "angebote": [
      {
       "haendler": "DAVID Finest Sports Cars DFSC GmbH",
@@ -150,7 +170,7 @@
       "titel": "Porsche 911 Carrera 4S Coupe",
       "jahr": "2007",
       "km": 184367,
-      "preis": 44997,
+      "preis": 42997,
       "url": "https://www.autoscout24.de/angebote/porsche-911-carrera-4s-handschalter-bose-sport-chrono-benzin-silber-cat_ma57gr100070ge286va2954tr480682-c55be1f3-b2a6-4da0-81dc-c235c5d88881",
       "quelle": "AutoScout24"
      },
@@ -188,10 +208,20 @@
      "min": 67480,
      "max": 120000,
      "kmMedian": 44900
+    },
+    {
+     "datum": "2026-11-18",
+     "anzahl": 30,
+     "median": 81921,
+     "p25": 78150,
+     "p75": 89900,
+     "min": 67480,
+     "max": 120000,
+     "kmMedian": 42400
     }
    ],
    "hamburg": {
-    "datum": "2026-11-12",
+    "datum": "2026-11-18",
     "angebote": [
      {
       "haendler": "Blue Carline GmbH",
@@ -227,10 +257,20 @@
      "min": 5999,
      "max": 118500,
      "kmMedian": 140000
+    },
+    {
+     "datum": "2026-11-18",
+     "anzahl": 303,
+     "median": 33500,
+     "p25": 25000,
+     "p75": 43320,
+     "min": 5999,
+     "max": 118500,
+     "kmMedian": 140000
     }
    ],
    "hamburg": {
-    "datum": "2026-11-12",
+    "datum": "2026-11-18",
     "angebote": [
      {
       "haendler": "Rehders Automobile GmbH",
@@ -316,5 +356,5 @@
    }
   }
  },
- "abgerufen": "2026-11-12"
+ "abgerufen": "2026-11-18"
 }

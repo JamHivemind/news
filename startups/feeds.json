@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17T10:18:55.684Z",
+ "fetched": "2026-11-18T02:32:38.456Z",
  "hours": 48,
  "sources": [
   {
@@ -14,13 +14,6 @@
    "ok": true,
    "items": [
     {
-     "title": "EFS-AG Vertriebsdirektion Knapp Bürojob/ Unterstützung in der Datenaufnahme - deutsche-startups.de",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT3N4OE0wRnBKbzJzM2pkY0tkNmJiWHpuMXpUSmNHZGdEVEdLMEVycFJLZEJ0TG50ZXZCXzVJN3BLV19hSjZqSTktT0lPMVZJcndKZGRmakNweU9YUzVkSzZ1VEt2QzNzZ0o3RHBuZkxLc1ktWWFkUHVFZlA2TG9ZMThidXcyMW5ZVmh4WllveVlNcG9FQjdDYU1MVjJGcWFZWW5BazVBaTc2Q2FmdTd6NnJoZlRvWkRRbTdWcGlvNEdOb25PLWhuWUg4YzRORV90aWZBdEFtN1JvVkI3VlFn?oc=5",
-     "date": "2026-11-16T09:47:12.000Z",
-     "text": "EFS-AG Vertriebsdirektion Knapp Bürojob/ Unterstützung in der Datenaufnahme deutsche-startups.de",
-     "via": "deutsche-startups.de"
-    },
-    {
      "title": "Wie Salufast mit Fastenkuren ein Millionengeschäft aufbaut - deutsche-startups.de",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDJBNzUyYUZ1RkZ4UzVYTlhJRXA3OHhnSkR1OWdJUS1hMjh0TmRDMmloa0NnckdlS1Z5dFd5djJZWndyQzhZRFh0UDVILVRWcUlFd0JmU3UzUXlFZ1RWb3lzTFI5ZERtY1dVV0ZvSkFNT0EyMW9WdHJ0Z094RkVSemVvcXg3ZEtla0xOQjhuekRpWFBFTXQwQlBBaHZiaXQ5dlhUeEJzYw?oc=5",
      "date": "2026-11-16T07:16:22.000Z",
@@ -32,6 +25,13 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVB4eFB2YmQyNDI5c0RGY2FTNE5tRGJEVWJSbl9TdXhUSldqcXhYU0IzZ0FQY0dhbHhtZXlSTDhDTmxMMExWSHRuM29uRHRBS0gyM1JCQU9COWV3Yi0wcHZuX3FHLVU5ZGZEbHlsWl9FSkxlRmx5emk5eTh0SGhUa0tSaHdmejg5OW1lX2x6dU4wS1g4Q3JLN0Zyem5ENlphRVFkS1V3QmFoaFRReFE?oc=5",
      "date": "2026-11-16T06:56:22.000Z",
      "text": "+++ Agile Robots +++ Unicorn +++ Apcura +++ Roll-up +++ Spreefreunde +++ Quint Computing +++ deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    },
+    {
+     "title": "Software & IT - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0dnNCOW9BZ1lidklncWtzS184d2ZPU3F5ZG9rZ1VueTFRUWw4YVdXTi1jSTJuX1ppa3U5Y0t6TWRRMkxOYWg2bHZ5WmZETWo3b0d3eDJGa3FISGR0czJZSEVTQTM1UFg3MDhLREd6ZmE?oc=5",
+     "date": "2026-11-17T04:25:14.000Z",
+     "text": "Software & IT deutsche-startups.de",
      "via": "deutsche-startups.de"
     },
     {
@@ -52,25 +52,109 @@
      "url": "https://www.businessinsider.de/gruenderszene/regierung-merz-streicht-millionen-startup-foerderung-gruene-sprechen-von-grossem-fehler/",
      "date": "2026-11-16T09:08:30.000Z",
      "text": "Die Bundesregierung will die Förderung von Startup-Investitionen durch Business Angels im kommenden Jahr deutlich zurückfahren. Im Haushaltsentwurf für 2027 sind für das Invest-Programm nur noch 30 Millionen Euro vorgesehen. Im laufenden Jahr waren es noch 44 Millionen Euro. Das entspricht einer Kürzung um knapp 32 Prozent."
-    },
-    {
-     "title": "Jensen Huang beweist es: Amerikas Religion ist der Gründerkult",
-     "url": "https://www.businessinsider.de/gruenderszene/jensen-huang-beweist-es-amerikas-religion-ist-der-gruenderkult/",
-     "date": "2026-11-15T11:32:12.000Z",
-     "text": "Am Mittwochnachmittag stand ich im sechsten Stock von Saks Fifth Avenue in einer schwarzen Tom-Ford-Jacke aus genarbtem Leder im Wert von 10.000 Dollar – der „Uniform“ von Jensen Huang, Mitbegründer und Geschäftsführer von Nvidia –, während Joseph Rosenfeld, ein Imageberater für Tech-Gründer und Finanziers, mich musterte. „Die Ausstrahlung des Outfits“, sagte er, „dieser Typ hat den nötigen Elan. Er ist der Typ, der sagt: ‚Wenn ich es sehe, schnappe ich es mir.‘“"
     }
    ]
   },
   {
    "name": "EU-Startups",
-   "ok": false,
-   "error": "HTTP 403",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "AI drug discovery giant Isomorphic Labs raises €4.5 billion in blockbuster funding round",
+     "url": "https://www.eu-startups.com/2026/11/ai-drug-discovery-giant-isomorphic-labs-raises-e4-5-billion-in-blockbuster-funding-round/",
+     "date": "2026-11-17T15:30:36.000Z",
+     "text": "Isomorphic Labs, an AI company focussed on designing and developing new medicines, today announced a €4.5 billion ($5 billion) Series C financing round to accelerate the scientific breakthroughs and proprietary AI advances. The round was co-led by Greenoaks and Sequoia Capital, alongside Andreessen Horowitz, with continued significant investment from Alphabet. The round also included participation […] The post AI drug discovery giant Isomorphic Labs raises €4.5 billion in blockbuster funding rou"
+    },
+    {
+     "title": "Opinion: Maintaining the open web is central to Europe’s AI sovereignty ambitions",
+     "url": "https://www.eu-startups.com/2026/11/opinion-maintaining-the-open-web-is-central-to-europes-ai-sovereignty-ambitions/",
+     "date": "2026-11-17T15:04:31.000Z",
+     "text": "Europe’s ambitions for AI sovereignty depend on giving its startups the resources to succeed, innovate and compete with established companies. As it stands, the EU remains heavily reliant on digital technologies developed and managed from elsewhere, raising questions about its ability to control the systems underpinning its economy. In June this year, the European Commission […] The post Opinion: Maintaining the open web is central to Europe’s AI sovereignty ambitions appeared first on EU-Startu"
+    },
+    {
+     "title": "Model ML is Europe’s newest Unicorn with €227 million raise to put AI agents to work in finance makes",
+     "url": "https://www.eu-startups.com/2026/11/model-ml-is-europes-newest-unicorn-with-e227-million-raise-to-put-ai-agents-to-work-in-finance-makes/",
+     "date": "2026-11-17T12:50:16.000Z",
+     "text": "London-based Model ML, an AI platform developing personalised agents for financial and professional services, has raised €227 million ($250 million) in Series B funding at a €1.3 billion ($1.5 billion) valuation – in order to support the expansion of its research and engineering teams in London and New York, further product development and larger deployments […] The post Model ML is Europe’s newest Unicorn with €227 million raise to put AI agents to work in finance makes appeared first on EU-Sta"
+    },
+    {
+     "title": "Impact Unleashed: Jack Mardack on building companies that scale positive change",
+     "url": "https://www.eu-startups.com/2026/11/impact-unleashed-jack-mardack-on-building-companies-that-scale-positive-change/",
+     "date": "2026-11-17T10:15:09.000Z",
+     "text": "What if the supposed tradeoff between commercial success and positive impact was not an unavoidable reality of business, but a problem of business design? That is the central argument behind Impact Unleashed: Building Companies that Scale Positive Change, the new book by Jack Mardack, co-founder of global employment platform Oyster. Drawing on his experience building […] The post Impact Unleashed: Jack Mardack on building companies that scale positive change appeared first on EU-Startups ."
+    },
+    {
+     "title": "Barcelona-based Fermat raises €7.26 million for its AI operating system for fashion and luxury brands",
+     "url": "https://www.eu-startups.com/2026/11/barcelona-based-fermat-raises-e7-26-million-for-its-ai-operating-system-for-fashion-and-luxury-brands/",
+     "date": "2026-11-17T09:20:13.000Z",
+     "text": "Fermat, a Barcelona-based AI platform for the fashion industry, has raised €7.26 million ($8 million) in Seed funding to open a New York office and expand its software from a design tool to full garment production. The round was led by Kibo Ventures and Lunar Ventures, with participation from London-based PROfounders Capital. Masia Ventures, Blue […] The post Barcelona-based Fermat raises €7.26 million for its AI operating system for fashion and luxury brands appeared first on EU-Startups ."
+    },
+    {
+     "title": "Denmark’s Commit Biologics secures €54 million Seed funding to advance cancer and autoimmune therapies",
+     "url": "https://www.eu-startups.com/2026/11/denmarks-commit-biologics-secures-e54-million-seed-funding-to-advance-cancer-and-autoimmune-therapies/",
+     "date": "2026-11-17T09:01:50.000Z",
+     "text": "Copenhagen-based BioTech startup Commit Biologics has raised €54 million ($60 million) in Seed funding to develop new treatments for cancer and autoimmune diseases. The investment will help the Danish company bring its first drug candidate closer to clinical trials. The final close was led by Ackermans & van Haaren, with participation from additional new investors […] The post Denmark’s Commit Biologics secures €54 million Seed funding to advance cancer and autoimmune therapies appeared first on"
+    },
+    {
+     "title": "Profitable French InsurTech Previsia raises €3.8 million in Seed funding for its AI risk-prevention platform",
+     "url": "https://www.eu-startups.com/2026/11/profitable-french-insurtech-previsia-raises-e3-8-million-in-seed-funding-for-its-ai-risk-prevention-platform/",
+     "date": "2026-11-17T07:47:03.000Z",
+     "text": "Previsia, a French InsurTech startup building an all-in-one AI risk-prevention platform for businesses, brokers, and insurers, has raised €3.8 million in a Seed funding round. The round was led by IRDI and ARIS, two independent French investment funds with strong regional roots. The raise comes as Previsia, founded in Toulouse just three years ago, reports […] The post Profitable French InsurTech Previsia raises €3.8 million in Seed funding for its AI risk-prevention platform appeared first on E"
+    },
+    {
+     "title": "Swappie co-founder’s AI HealthTech startup Treat raises €3 million to streamline private healthcare",
+     "url": "https://www.eu-startups.com/2026/11/swappie-co-founders-ai-healthtech-startup-treat-raises-e3-million-to-streamline-private-healthcare/",
+     "date": "2026-11-17T06:20:35.000Z",
+     "text": "Treat, a Helsinki-based HealthTech startup co-founded by Swappie co-founder Sami Marttinen, has raised €3 million in a pre-Seed funding round. The round was led by byFounders, an early backer of Lovable, alongside Illusian, the investment vehicle of Supercell founder Ilkka Paananen. “Private healthcare across the globe is bogged down by fragmented systems and mismatched Incentives. […] The post Swappie co-founder’s AI HealthTech startup Treat raises €3 million to streamline private healthcare ap"
+    },
+    {
+     "title": "EXCLUSIVE: Backed by Google’s first investor, RHISE AI raises €2.66 million to build Europe’s sovereign personal AI",
+     "url": "https://www.eu-startups.com/2026/11/exclusive-backed-by-googles-first-investor-munichs-rhise-ai-raises-e2-66-million-to-build-europes-sovereign-personal-ai/",
+     "date": "2026-11-17T06:00:18.000Z",
+     "text": "RHISE AI Technologies, the Munich-based startup behind Lucie, a personal AI designed for Europe, has raised an angel round of €2.66 million (just under $3 million, or $2.925 million to be exact). The angel round saw participation from more than 40 investors, including Andy Bechtolsheim, co-founder of Arista Networks and the first outside investor in […] The post EXCLUSIVE: Backed by Google’s first investor, RHISE AI raises €2.66 million to build Europe’s sovereign personal AI appeared first on E"
+    },
+    {
+     "title": "Alecto lands €18 million to scale its AI-powered law firm beyond property transactions",
+     "url": "https://www.eu-startups.com/2026/11/alecto-lands-e18-million-to-scale-its-ai-powered-law-firm-beyond-property-transactions/",
+     "date": "2026-11-16T16:09:10.000Z",
+     "text": "Alecto, a British AI-native law firm, has raised a €18 million ($20 million) Seed round, to support the company’s expansion into additional areas of consumer law and new geographies, with its first international launch planned for 2027. The round was led by Insight Partners, with participation from Firstminute Capital, Blue Lion Global, Andrena Ventures, FJ Labs, […] The post Alecto lands €18 million to scale its AI-powered law firm beyond property transactions appeared first on EU-Startups ."
+    }
+   ]
   },
   {
    "name": "Sifted",
    "ok": true,
    "items": [
+    {
+     "title": "The Family cofounder sentenced to 16 months in prison",
+     "url": "https://sifted.eu/articles/the-family-oussama-ammar-sentenced-prison/",
+     "date": "2026-11-17T15:40:45.000Z",
+     "text": ""
+    },
+    {
+     "title": "Exclusive: Munich-based humanoid startup Vesoma seeks €50m",
+     "url": "https://sifted.eu/articles/exclusive-munich-based-humanoid-startup-vesoma-seeks-e50m/",
+     "date": "2026-11-17T15:07:38.000Z",
+     "text": ""
+    },
+    {
+     "title": "Robotics startup Genesis AI raises $500m backed by Nvidia",
+     "url": "https://sifted.eu/articles/genesis-ai-raises-500m/",
+     "date": "2026-11-17T14:00:45.000Z",
+     "text": ""
+    },
+    {
+     "title": "Isomorphic Labs raises $5bn backed by Sequoia and A16z",
+     "url": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/",
+     "date": "2026-11-17T12:55:56.000Z",
+     "text": ""
+    },
+    {
+     "title": "EQT and FirstMark back trio of H Company alumni in $30m seed round",
+     "url": "https://sifted.eu/articles/remanence-30m-seed-round/",
+     "date": "2026-11-17T12:03:08.000Z",
+     "text": ""
+    },
     {
      "title": "Europe's world models startups: mapped",
      "url": "https://sifted.eu/articles/europe-world-models-mapped/",
@@ -124,12 +208,6 @@
      "url": "https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/",
      "date": "2026-11-16T05:00:44.000Z",
      "text": ""
-    },
-    {
-     "title": "Starling founder Anne Boden plots new AI-powered bank",
-     "url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
-     "date": "2026-11-15T16:33:09.000Z",
-     "text": ""
     }
    ]
   },
@@ -138,6 +216,30 @@
    "focus": "Nur Europa-Bezug oder sehr große Runden",
    "ok": true,
    "items": [
+    {
+     "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+     "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+     "date": "2026-11-18T01:44:21.000Z",
+     "text": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+    },
+    {
+     "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+     "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+     "date": "2026-11-17T18:04:16.000Z",
+     "text": "The company uses agentic AI to make supply chains faster and more reliable."
+    },
+    {
+     "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+     "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+     "date": "2026-11-17T14:26:46.000Z",
+     "text": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business."
+    },
+    {
+     "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
+     "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
+     "date": "2026-11-17T14:00:00.000Z",
+     "text": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had."
+    },
     {
      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
@@ -161,18 +263,6 @@
      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
      "date": "2026-11-16T12:30:00.000Z",
      "text": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
-    },
-    {
-     "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-     "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-     "date": "2026-11-15T23:30:00.000Z",
-     "text": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics."
-    },
-    {
-     "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-     "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-     "date": "2026-11-15T18:29:14.000Z",
-     "text": "A new Kickstarter campaign aims to usher in the “return of the human internet.”"
     }
    ]
   },
@@ -203,32 +293,18 @@
      "via": "Startbase"
     },
     {
-     "title": "Fermat: KI-Modestartup aus Barcelona holt 8 Mio. Dollar und zieht nach New York - Trending Topics",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSW83dVYwOGRudUN5STN4X0F1OTFSSDFQd3VsVEVjNzFrRWVHY2dwcmEwZzRzWk1aREFnUFVWOVg1V0pWSWk1b1JySkFlYThzbjZvVEIwMjltckp2cHk3clJVVzZOanhWSTlaLUg2eHQ1ZXNJNzI2WHVVd2pkRXhCUzBXc2FBdF9rbVFlRnVPSEJwSm1OV1JlTEp0QW13WkJBdUVIaHBWNmZJSDFE?oc=5",
-     "date": "2026-11-17T08:48:01.000Z",
-     "text": "Fermat: KI-Modestartup aus Barcelona holt 8 Mio. Dollar und zieht nach New York Trending Topics",
-     "via": "Trending Topics"
-    },
-    {
-     "title": "6 Millionen Euro für Daisyturner - Startbase",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80eWUyaHNkTThxcEpibEFEcDNkbHEwUnU5NmM2VUJIMHZ4OFNJeFM4MFJkdGZJVWl2bEZXZEhudFRsa2M5bVpIRzZJVEM5U0RRbms4bzhZa2V0S0xnZTd0U3pSVVRRcXhnOHI1bjZJYk1fUQ?oc=5",
-     "date": "2026-11-16T12:11:59.000Z",
-     "text": "6 Millionen Euro für Daisyturner Startbase",
+     "title": "MediPulse erhält 2,6 Millionen Euro für KI-gestützte Praxisverwaltung - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFRveHJyQTdZaVdfMzJDWU93WS1aaVVJRVZSVVBxb2VhaDdOc1drX1ZyR3JkS2pvVkQtdmdySGpfYVdxVVdVOFdSMTk3cnZjaFhMV054aWxtRjM3YVNhVzdscTYtTEFjMkFzRjdlTnVoaEgtWVMxRWJmM05DeXM2aTFYeWpGVENFWWo0TFlfUk5IMUpLaTNfZ3hIdk1lMVhFQ19lUw?oc=5",
+     "date": "2026-11-17T14:00:00.000Z",
+     "text": "MediPulse erhält 2,6 Millionen Euro für KI-gestützte Praxisverwaltung Startbase",
      "via": "Startbase"
     },
     {
-     "title": "Mosaico holt sich 7,5 Millionen Euro - Startbase",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzMWxUMmN6a1ZQMXB6OG5iWENrWFNXWmdpemlVcS1EVW41NGhaM09lSEEzNkpLVVJRZXJiUktBZE55QUlBY09CWG8xaVdKU3pwWktOb1VobzVpYkk2Vjhha05saXBkb2R5akRqVk05YXBfaVdT?oc=5",
-     "date": "2026-11-16T11:08:31.000Z",
-     "text": "Mosaico holt sich 7,5 Millionen Euro Startbase",
-     "via": "Startbase"
-    },
-    {
-     "title": "Intergrid erhält 23,5 Millionen Euro für KI-gesteuerte Energiesysteme - Startbase",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTFZSGd2Z216YlN1aEI1MnN5RUN5YnZUWm5HaEc5WlB4YUFtOGIyR0EwNTVKZmpPb3RtRjlreHRvVXpfc1B6andnN1pVdEZnV204RGNpNk54WE1tWTJ3aUZjc0RidV91dUpHWERrVzhZcml3MUkxelh1N28wd25DZ2xyU1h2S3FyTWNnU1BqSUlIcW4wdldjVGZrQWlEb0o4R0V3?oc=5",
-     "date": "2026-11-16T07:51:30.000Z",
-     "text": "Intergrid erhält 23,5 Millionen Euro für KI-gesteuerte Energiesysteme Startbase",
-     "via": "Startbase"
+     "title": "700 Millionen Finanzierung für KI-Selbstevolution-Startup – Chen Danqi gibt offiziell ihren Beitritt bekannt - eu.36kr.com",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NRXhoTUlmNHJJR0pGNFRxTGFkM3B2Yk5aUThqeU5UejkyT1h5NHFIbGVWa1lBTlVJazBTRjluTlZISkdILW1OdEZkd3M0THg3T21N?oc=5",
+     "date": "2026-11-16T17:42:00.000Z",
+     "text": "700 Millionen Finanzierung für KI-Selbstevolution-Startup – Chen Danqi gibt offiziell ihren Beitritt bekannt eu.36kr.com",
+     "via": "eu.36kr.com"
     }
    ]
   }

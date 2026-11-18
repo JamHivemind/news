@@ -49,10 +49,6 @@
  "stocks": {
   "NVDA": [
    [
-    "2026-08-17",
-    225.01
-   ],
-   [
     "2026-08-18",
     219.74
    ],
@@ -307,13 +303,13 @@
    [
     "2026-11-16",
     156.14
+   ],
+   [
+    "2026-11-17",
+    155.46
    ]
   ],
   "MSFT": [
-   [
-    "2026-08-17",
-    480.35
-   ],
    [
     "2026-08-18",
     481.63
@@ -569,13 +565,13 @@
    [
     "2026-11-16",
     517.99
+   ],
+   [
+    "2026-11-17",
+    506.24
    ]
   ],
   "GOOGL": [
-   [
-    "2026-08-17",
-    344
-   ],
    [
     "2026-08-18",
     344.2
@@ -831,13 +827,13 @@
    [
     "2026-11-16",
     283.72
+   ],
+   [
+    "2026-11-17",
+    280.2
    ]
   ],
   "META": [
-   [
-    "2026-08-17",
-    568.97
-   ],
    [
     "2026-08-18",
     543.67
@@ -1093,6 +1089,10 @@
    [
     "2026-11-16",
     626.41
+   ],
+   [
+    "2026-11-17",
+    618.87
    ]
   ]
  },
@@ -1104,42 +1104,42 @@
  },
  "hf": [
   {
-   "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "likes": 9403,
-   "downloads": 29567,
-   "task": "text-generation"
-  },
-  {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 1359,
-   "downloads": 609130,
+   "likes": 1470,
+   "downloads": 727110,
    "task": "text-to-image"
   },
   {
    "id": "Qwen/Qwen3.8-27B",
-   "likes": 20328,
-   "downloads": 6763402,
+   "likes": 20439,
+   "downloads": 6942530,
    "task": "image-text-to-text"
   },
   {
+   "id": "higurashi-ai/Haru-4B",
+   "likes": 510,
+   "downloads": 4445,
+   "task": "audio-to-audio"
+  },
+  {
    "id": "Lightricks/LTX-2.5",
-   "likes": 12313,
-   "downloads": 2789021,
+   "likes": 12406,
+   "downloads": 2828071,
    "task": "image-to-video"
   },
   {
-   "id": "Comfy-Org/MiniMax-H3-Image",
-   "likes": 505,
-   "downloads": 2294065,
-   "task": "text-to-image"
+   "id": "thinkingmachines/Inkling-2-Small",
+   "likes": 442,
+   "downloads": 18359,
+   "task": "image-text-to-text"
   },
   {
-   "id": "Zyphra/ZONOS3-Mini",
-   "likes": 498,
-   "downloads": 69946,
-   "task": "text-to-speech"
+   "id": "unsloth/Qwen3.8-27B-GGUF",
+   "likes": 6142,
+   "downloads": 6827598,
+   "task": ""
   }
  ],
- "updated": "2026-11-17T10:19:37.984Z",
+ "updated": "2026-11-18T02:33:12.404Z",
  "updatedDay": "2026-11-06"
 }
