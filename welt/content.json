@@ -1,261 +1,294 @@
 {
- "date": "2026-11-17",
- "intro": "Russland und die Ukraine greifen sich weiter massiv an, während Europa erste Gespräche über ein Kriegsende vorbereitet. Dazu kommen neue Pläne für ein EU-Abschiebezentrum in Ruanda und Sorgen um die Schifffahrt am Roten Meer.",
+ "date": "2026-11-18",
+ "intro": "Die Ukraine hat die Krim-Brücke schwer getroffen, kurz bevor sich Trump, Xi und Putin in China treffen. Am Golf spitzt sich der Konflikt zwischen den USA und dem Iran weiter zu.",
  "regionen": {
-  "Europa": "Die Ukraine wird weiter schwer angegriffen, Kiew meldet neue Attacken und über 70 Tote in Komyschuwacha; zugleich bereiten Europas Unterhändler erste Vorgespräche vor, und die EU beschließt neue Russland-Sanktionen. In Prag protestieren 400.000 Menschen gegen die Pläne zum Rundfunk.",
-  "Nahost": "Die Huthi-Miliz gewinnt im Jemen weiter Gelände, die USA haben einen dritten Flugzeugträger in die Region verlegt. Jordanien verschärft nach zwei Anschlägen seine Anti-Terror-Gesetze, die EU plant Sanktionen gegen den Iran.",
-  "Asien": "Japan beklagt eine Verletzung seines Luftraums durch mutmaßlich russische Flugzeuge. Auf der Weltklimakonferenz in Antalya hat die entscheidende Phase begonnen.",
-  "Amerika": "Die USA verschärfen die Exportregeln für KI-Chips, um China zu bremsen. Papst Leo XIV. besucht zum Abschluss seiner Südamerika-Reise Anden und Amazonasgebiet.",
-  "Afrika": "Fünf EU-Staaten wollen 2027 ein Abschiebezentrum in Ruanda eröffnen. In Südafrika forderten zwei Schusswaffenangriffe 17 Tote."
+  "Europa": "Die Ukraine beschädigt die Krim-Brücke schwer, Russland trifft Brücken in Kiew. Europäische Unterhändler führen erste Vorgespräche über ein Kriegsende, und in Serbien tritt ein neues Parlament zusammen.",
+  "Nahost": "Die USA und der Iran greifen sich in der Golfregion erneut gegenseitig an, ein dritter US-Flugzeugträger ist vor Ort. Im Jemen erobern die Huthi eine wichtige Meerenge zurück, und in Israel geht der Parlamentsvorsitz an die Opposition.",
+  "Asien": "In Shenzhen hat der APEC-Gipfel begonnen, morgen folgt das Dreiergespräch von Xi, Trump und Putin. Die UN-Klimakonferenz tagt in Antalya in der Türkei.",
+  "Amerika": "In den USA gewinnen die Demokraten den letzten offenen Senatssitz in Alaska. Kanada schaut wegen der US-Zölle auf die Autoindustrie Richtung China.",
+  "Afrika": "Im Sudan gehen laut UN fast drei Viertel der Kriegstoten in diesem Jahr auf Drohnen zurück."
  },
  "top": [
   {
-   "title": "Ukraine: Über 70 Tote nach Angriff, neue Attacken auf Kiew",
-   "text": "Rund zwei Wochen nach dem russischen Luftangriff auf Komyschuwacha im Süden der Ukraine ist die Suche beendet: Die Behörden zählen über 70 Tote. Kiew meldet weitere Angriffe, nach ukrainischen Angaben wurden zwei Dnipro-Brücken getroffen. Russland berichtet von einem Rekord-Drohnenangriff und einem Treffer an der Krim-Brücke. Parallel führten europäische Unterhändler erste Vorgespräche mit den USA und der Ukraine über ein Kriegsende.",
-   "url": "https://www.deutschlandfunk.de/suche-beendet-ueber-70-tote-nach-russischem-luftangriff-auf-komyschuwacha-102.html",
-   "source": "Deutschlandfunk",
+   "title": "Ukraine trifft die Krim-Brücke schwer",
+   "text": "Die Ukraine hat die Brücke zwischen Russland und der besetzten Krim nach massiven Angriffen teilweise zerstört. Präsident Selenskyj bestätigt, dass ein Brückenbogen eingestürzt ist; Moskau spricht von kleineren Schäden und beruft eine Krisensitzung ein. Die USA kritisierten die ukrainische Zielwahl, Verteidigungsminister Pistorius nannte diese Kritik „ziemlich dumm“. Russland griff gleichzeitig zwei Brücken in Kiew an.",
+   "source": "tagesschau",
    "category": "Krieg & Konflikte",
    "art": "konflikt",
    "ort": {
-    "name": "Ukraine",
-    "lat": 50.45,
-    "lon": 30.52
+    "name": "Krim-Brücke",
+    "lat": 45.31,
+    "lon": 36.51
    },
-   "hamburg": "Der Krieg wirkt weiter auf Energiepreise und Sicherheitslage in Deutschland; die Verhandlungsrunde entscheidet mit, ob Europa mit am Tisch sitzt.",
+   "hamburg": "Deutschland kauft neue Flugabwehrraketen für die Ukraine, um sie vor dem Winter zu schützen.",
    "stimmen": [
     {
      "source": "Spiegel",
      "richtung": "links",
-     "url": "https://www.spiegel.de/ausland/ukraine-krieg-zahl-der-toten-nach-luftangriff-bei-saporischschja-steigt-auf-72-a-704dd230-ca93-47b5-a667-eedff30bc9a8#ref=rss"
+     "url": "https://www.spiegel.de/ausland/ukraine-so-gelang-der-ukraine-der-einsturz-der-kertschbruecke-a-7f0b9aa4-abb6-4a53-b33d-669b89aeadb6#ref=rss"
     },
     {
      "source": "BBC",
      "richtung": "mitte",
-     "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
     },
     {
      "source": "WELT",
      "richtung": "rechts",
-     "url": "https://www.welt.de/politik/ausland/article6afbcda9bfa018bfcc989921/ukraine-zwei-wichtige-bruecken-in-kiew-bei-russischen-angriffen-getroffen.html"
+     "url": "https://www.welt.de/politik/ausland/plus6afc1cda6837d711cd2c7e27/zerstoerte-bruecke-der-tag-an-dem-die-krim-von-einem-asset-zu-einem-risiko-fuer-russland-wird.html"
     }
-   ]
+   ],
+   "url": "https://www.tagesschau.de/ausland/europa/selenskyj-teilzerstoerung-krim-bruecke-100.html"
   },
   {
-   "title": "Fünf EU-Staaten planen Abschiebezentrum in Ruanda",
-   "text": "Deutschland, Dänemark, Österreich, Griechenland und die Niederlande wollen laut Berichten 2027 ein „Rückkehrzentrum“ in Ruanda eröffnen. Dorthin sollen abgelehnte Asylbewerber gebracht werden, wenn ihre Herkunftsländer sie nicht aufnehmen. Die NZZ verweist auf Kritik von Menschenrechtlern. Wie das praktisch laufen soll, ist offen.",
-   "url": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html",
-   "source": "tagesschau",
+   "title": "APEC-Gipfel in Shenzhen: Dreiertreffen mit Xi, Trump und Putin",
+   "text": "In Shenzhen hat der Wirtschaftsgipfel APEC begonnen. Morgen soll es zum ersten Gespräch zu dritt zwischen Chinas Staatschef Xi, US-Präsident Trump und Russlands Präsident Putin kommen. Es geht um Rüstung und künstliche Intelligenz. Die USA haben kurz zuvor die Exportregeln für KI-Chips verschärft.",
+   "source": "Deutschlandfunk",
    "category": "Weltpolitik",
    "art": "politik",
    "ort": {
-    "name": "Ruanda",
-    "lat": -1.94,
-    "lon": 30.06
+    "name": "Shenzhen",
+    "lat": 22.54,
+    "lon": 114.06
    },
-   "hamburg": "Deutschland ist an dem Vorhaben direkt beteiligt; es betrifft die deutsche Asylpolitik und Fragen der Unterbringung vor Ort.",
+   "hamburg": "Handel und Chip-Regeln wirken auch auf Hamburg, weil der Hafen stark am Handel mit China hängt.",
    "stimmen": [
     {
      "source": "Süddeutsche Zeitung",
      "richtung": "links",
-     "url": "https://www.sueddeutsche.de/politik/ruanda-abschiebezentrum-deutschland-asylpolitik-rueckkehrzentrum-li.3581059"
+     "url": "https://www.sueddeutsche.de/politik/trump-putin-xi-jingping-pannenserie-flugverkehr-cyberangriff-ki-ukraine-li.3582083"
     },
     {
-     "source": "BBC",
+     "source": "Reuters",
      "richtung": "mitte",
-     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXU1Wlg2cExOMXk1YUpOSUNEazJkdmhmczM5cnExb1ZVZExBX0VCOElDdmpQaVAzYnpGVDB5LWRtS1I1SHpxdWdDUFIwZkhXVmRUNk9vQWJ0NU12MXUyVTR6NVFIOFgxWF9UZklfMFN2TTNRMFVFNEt3RnVCZXRnUWwwNE1aNExZd1FOTnd2MFZBNTkwMVhSUHJnRHpzeDBfbFRVS2pDWFVZVGltcHRhZjFIbw?oc=5"
     },
     {
-     "source": "FAZ",
+     "source": "NZZ",
      "richtung": "rechts",
-     "url": "https://www.faz.net/aktuell/politik/ausland/erstes-eu-abschiebezentrum-soll-2027-in-ruanda-eroeffnen-201686820.html"
+     "url": "https://www.nzz.ch/international/dreiergipfel-in-shenzhen-peking-organisiert-ein-treffen-zwischen-donald-trump-xi-jinping-und-wladimir-putin-ld.10063910"
     }
-   ]
+   ],
+   "url": "https://www.deutschlandfunk.de/apec-gipfel-hat-begonnen-morgen-dreiergespraech-mit-xi-trump-und-putin-102.html"
   },
   {
-   "title": "Huthi rücken im Jemen vor, USA verstärken Flotte",
-   "text": "Die vom Iran unterstützte Huthi-Miliz nimmt im Jemen erneut strategisch wichtiges Gelände ein, laut taz auch rund um die Meerenge Bab al-Mandab. Die BBC warnt vor Folgen für die Weltwirtschaft. Zugleich hat das US-Militär laut Medienberichten einen dritten Flugzeugträger in den Nahen Osten verlegt.",
-   "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC",
+   "title": "USA und Iran greifen sich am Golf erneut an",
+   "text": "Die USA haben erneut die iranische Insel Keschm in der Straße von Hormus angegriffen; der Iran attackiert ebenfalls US-Ziele. Ein dritter US-Flugzeugträger hat in der Region den Dienst aufgenommen. Dazu berichtet CNN über angebliche iranische Pläne für einen Anschlag mit einer schmutzigen Bombe (radioaktive Sprengladung) auf Washington. Teheran weist das zurück, Trump droht.",
+   "source": "Deutschlandfunk",
    "category": "Krieg & Konflikte",
    "art": "konflikt",
    "ort": {
-    "name": "Bab al-Mandab, Jemen",
-    "lat": 12.58,
-    "lon": 43.33
+    "name": "Straße von Hormus",
+    "lat": 26.57,
+    "lon": 56.25
    },
-   "hamburg": "Die Meerenge liegt auf der Seeroute zwischen Asien und Europa; Störungen können Frachtraten und Lieferzeiten für den Hamburger Hafen beeinflussen.",
+   "hamburg": "Die Straße von Hormus ist eine wichtige Ölroute. Spannungen dort können Energie- und Spritpreise in Deutschland beeinflussen.",
    "stimmen": [
     {
-     "source": "taz",
+     "source": "Spiegel",
      "richtung": "links",
-     "url": "https://taz.de/Krieg-im-Jemen/!6230323/"
+     "url": "https://www.spiegel.de/ausland/irankrieg-teheran-weist-bericht-ueber-anschlagsplaene-mit-schmutziger-bombe-gegen-washington-d-c-zurueck-a-b2248849-5811-48d3-a2fa-78896a52fa44#ref=rss"
     },
     {
      "source": "tagesschau",
      "richtung": "mitte",
-     "url": "https://www.spiegel.de/ausland/iran-krieg-dritter-us-flugzeugtraeger-erreicht-nahen-osten-a-97da317f-1d1c-41c8-ae22-22a908b3b203#ref=rss"
+     "url": "https://www.tagesschau.de/ausland/amerika/trump-schmutzige-bombe-iran-100.html"
     },
     {
      "source": "WELT",
      "richtung": "rechts",
      "url": "https://www.welt.de/politik/ausland/video6afb188b8c74195fa20c3396/iran-verhandlungen-drohkulisse-aufgebaut-neuer-us-flugzeugtraeger-schuert-sorge-vor-eskalation.html"
     }
-   ]
+   ],
+   "url": "https://www.deutschlandfunk.de/usa-greifen-erneut-iranische-insel-keschm-in-strasse-von-hormus-an-102.html"
   }
  ],
  "entries": [
   {
-   "title": "Japan beklagt Luftraumverletzung durch russische Flugzeuge",
-   "summary": "Zwei mutmaßlich russische Flugzeuge drangen nahe Okinoshima in den japanischen Luftraum ein. Tokio spricht von einem schweren Eingriff.",
-   "url": "https://www.sueddeutsche.de/politik/japan-russland-luftraum-li.3581703",
-   "source": "Süddeutsche Zeitung",
+   "title": "Russland trifft zwei Brücken in Kiew",
+   "summary": "Die Angriffe führten laut dem Bürgermeister zu Ausfällen bei Wasser und Strom.",
+   "source": "Reuters",
    "category": "Krieg & Konflikte",
    "art": "konflikt",
    "ort": {
-    "name": "Japan",
-    "lat": 35.68,
-    "lon": 139.69
-   }
-  },
-  {
-   "title": "EU verhängt neue Sanktionen gegen Russland",
-   "summary": "Betroffen sind Russlands reichste Unternehmerin, Propagandisten, Hackergruppen und Banken.",
-   "url": "https://www.sueddeutsche.de/politik/ministertreffen-in-bruessel-eu-sanktioniert-russische-propaganda-fabrik-und-banken-li.3581497",
-   "source": "tagesschau",
-   "category": "Weltpolitik",
-   "art": "politik",
-   "ort": {
-    "name": "Brüssel",
-    "lat": 50.85,
-    "lon": 4.35
-   }
-  },
-  {
-   "title": "Weltklimakonferenz: Australien legt Entwurf für Abschlusserklärung vor",
-   "summary": "In Antalya hat die entscheidende Phase begonnen. Der erste Entwurf der Abschlusserklärung liegt jetzt auf dem Tisch.",
-   "url": "https://www.tagesschau.de/ausland/asien/klimakonferenz-abschlusserklaerung-100.html",
-   "source": "tagesschau",
-   "category": "Katastrophen & Klima",
-   "art": "politik",
-   "ort": {
-    "name": "Antalya, Türkei",
-    "lat": 36.9,
-    "lon": 30.7
-   }
-  },
-  {
-   "title": "EU plant neue Sanktionen gegen den Iran",
-   "summary": "Anlass sind Hackerangriffe auf Kühlsysteme von Supermarktketten. Die Außenminister beraten darüber.",
-   "url": "https://www.deutschlandfunk.de/hackerangriffe-auf-kuehlsysteme-eu-plant-neue-sanktionen-gegen-den-iran-102.html",
-   "source": "Deutschlandfunk",
-   "category": "Weltpolitik",
-   "art": "politik",
-   "ort": {
-    "name": "Iran",
-    "lat": 35.69,
-    "lon": 51.39
-   }
-  },
-  {
-   "title": "Bericht: Französische Soldaten seit Monaten in der Ukraine",
-   "summary": "Der Sender RFI berichtet von einer französischen Einheit, die Truppen schulen soll. Eine offizielle Bestätigung nennen die Berichte nicht.",
-   "url": "https://www.welt.de/politik/ausland/article6afae8ac5dc4e94a2532a539/ukraine-krieg-franzoesische-soldaten-sollen-seit-monaten-in-der-ukraine-sein.html",
-   "source": "WELT",
-   "category": "Krieg & Konflikte",
-   "art": "konflikt",
-   "ort": {
-    "name": "Ukraine",
+    "name": "Kiew",
     "lat": 50.45,
     "lon": 30.52
-   }
+   },
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeEEyb1UxS0hVQ1J2dDRzdTMxMFUwaXFhV1lNclI1bml5Q2VMbUZWU0pFaW1FNTh6WllSaE1RSzFDa0cwQUZzSDlUSmh1QnZyVFl5MWRyMUNySnZjOFloMDRNRXc3X2lqcEEzenp5Z05jd2hxX3R1bHBZVGl6UThrMzNrVXpjVGtnWXlvOVkwU3BMNnQ3bUxHNDVBbzA2bVdVRjdhZEhNNlVFR2E3akdzUVAzMHBxUHlnby1xQmln?oc=5"
   },
   {
-   "title": "USA verschärfen Exportregeln für KI-Chips",
-   "summary": "Die Regierung will China bei der KI-Entwicklung bremsen. Auch fünf Länder geraten laut FAZ stärker unter Beobachtung.",
-   "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-china-export-handel-lutnick-bessent-trump-halbleiter-nvidia-li.3578585",
-   "source": "Süddeutsche Zeitung",
-   "category": "Wirtschaft & Handel",
-   "art": "wirtschaft",
+   "title": "Erste Vorgespräche über ein Kriegsende",
+   "summary": "Europäische Unterhändler sprachen mit den USA und der Ukraine und instruierten die Vertreter, die später mit Russland verhandeln sollen.",
+   "source": "tagesschau",
+   "category": "Weltpolitik",
+   "art": "politik",
    "ort": {
-    "name": "Washington",
-    "lat": 38.91,
-    "lon": -77.04
-   }
+    "name": "Berlin",
+    "lat": 52.52,
+    "lon": 13.4
+   },
+   "hamburg": "Die Gespräche finden in Europa statt, das Ergebnis betrifft Sicherheit und Energiepreise auch in Deutschland.",
+   "url": "https://www.tagesschau.de/ausland/europa/europa-ukraine-usa-100.html"
   },
   {
-   "title": "Massenprotest in Prag gegen Umbau des Rundfunks",
-   "summary": "400.000 Menschen protestieren gegen die Pläne der Regierung Babiš. Der Regierungschef will nicht nachgeben.",
-   "url": "https://www.faz.net/aktuell/politik/ausland/kampf-um-rundfunk-babis-will-nach-grossprotest-in-prag-nicht-nachgeben-201687312.html",
-   "source": "FAZ",
+   "title": "Moskau wirft Frankreich Kriegsbeteiligung vor",
+   "summary": "Nach Berichten über französische Soldaten in der Ukraine wirft Außenminister Lawrow Paris Kriegsteilnahme vor. Frankreich weist das zurück.",
+   "source": "Deutschlandfunk",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Paris",
+    "lat": 48.86,
+    "lon": 2.35
+   },
+   "url": "https://www.deutschlandfunk.de/moskau-wirft-frankreich-kriegsbeteiligung-in-der-ukraine-vor-104.html"
+  },
+  {
+   "title": "Russisches Militärflugzeug stürzt ab, 19 Tote",
+   "summary": "Alle 19 an Bord kamen ums Leben. Das Verteidigungsministerium vermutet vorläufig einen technischen Defekt.",
+   "source": "BBC",
+   "category": "Katastrophen & Klima",
+   "art": "katastrophe",
+   "ort": {
+    "name": "Kemerowo",
+    "lat": 55.35,
+    "lon": 86.09
+   },
+   "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "title": "Huthi erobern Meerenge Bab al-Mandab",
+   "summary": "Zum zweiten Mal in wenigen Monaten kontrollieren die vom Iran unterstützten Huthi die Meerenge im Süden Jemens. Das ist ein Rückschlag für die Regierung und Saudi-Arabien.",
+   "source": "NZZ",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Bab al-Mandab",
+    "lat": 12.58,
+    "lon": 43.33
+   },
+   "hamburg": "Die Meerenge liegt an einer Route für Containerschiffe zwischen Asien und Europa, auch für den Hamburger Hafen.",
+   "url": "https://www.nzz.ch/international/huthi-rebellen-triumphieren-bab-al-mandab-erneut-erobert-ld.10065211"
+  },
+  {
+   "title": "Opposition übernimmt Parlamentsvorsitz in Israel",
+   "summary": "Die Knesset wählt Matan Kahana, einen Verbündeten von Gadi Eisenkot, zum Sprecher. Der Anti-Netanjahu-Block gewinnt damit einen wichtigen Schritt.",
+   "source": "tagesschau",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Jerusalem",
+    "lat": 31.77,
+    "lon": 35.21
+   },
+   "url": "https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html"
+  },
+  {
+   "title": "Großbritannien sanktioniert Firmen wegen Siedlungspolitik",
+   "summary": "London verhängt Sanktionen gegen Firmen, die an der israelischen Siedlungspolitik beteiligt sind. Es sind die ersten Strafmaßnahmen dieser Art seit der angekündigten härteren Linie.",
+   "source": "Spiegel",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Westjordanland",
+    "lat": 31.95,
+    "lon": 35.3
+   },
+   "url": "https://www.spiegel.de/ausland/siedlungspolitik-grossbritannien-verhaengt-sanktionen-gegen-israelische-baufirmen-a-6c7e3aa3-91f4-469f-a99b-bb170eca3369#ref=rss"
+  },
+  {
+   "title": "Serbien: Neues Parlament tritt zusammen",
+   "summary": "Nach dem Wahlsieg der Studentenliste wollen die neuen Abgeordneten fast alles umkrempeln. Wer die Schlüsselposten der Regierung besetzt, ist noch unklar.",
+   "source": "tagesschau",
    "category": "Europa",
    "art": "politik",
    "ort": {
-    "name": "Prag",
-    "lat": 50.08,
-    "lon": 14.44
-   }
+    "name": "Belgrad",
+    "lat": 44.79,
+    "lon": 20.46
+   },
+   "url": "https://www.tagesschau.de/ausland/europa/serbien-parlament-konstituierung-100.html"
   },
   {
-   "title": "Jordanien verschärft nach zwei Anschlägen die Anti-Terror-Gesetze",
-   "summary": "Das Königreich gilt als Stabilitätsanker der Region. Die NZZ sieht nun seine Verwundbarkeit.",
-   "url": "https://www.nzz.ch/international/terroranschlaege-in-jordanien-koenig-verspricht-harte-reaktion-ld.10056591",
-   "source": "NZZ",
+   "title": "Demokratin Peltola gewinnt Senatssitz in Alaska",
+   "summary": "Damit ist das letzte Senatsrennen der US-Zwischenwahlen entschieden.",
+   "source": "Spiegel",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Alaska",
+    "lat": 61.22,
+    "lon": -149.9
+   },
+   "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-alaska-demokratin-mary-peltola-gewinnt-senatssitz-a-b554031e-e4d7-4cee-8cd5-fdc85ce23d63#ref=rss"
+  },
+  {
+   "title": "Sudan: Drohnen töten die meisten Menschen im Krieg",
+   "summary": "Laut UN gehen fast drei Viertel der Kriegstoten in diesem Jahr auf Drohnen zurück.",
+   "source": "Reuters",
    "category": "Krieg & Konflikte",
    "art": "konflikt",
    "ort": {
-    "name": "Amman, Jordanien",
-    "lat": 31.95,
-    "lon": 35.93
-   }
-  },
-  {
-   "title": "Drohnen greifen Frachtschiffe vor Rumäniens Küste an",
-   "summary": "Die Lage für den Seehandel im Schwarzen Meer wird gefährlicher; Rumänien investiert in Sicherheit.",
-   "url": "https://www.nzz.ch/international/drohnenangriffe-im-schwarzen-meer-rumaenien-investiert-in-die-sicherheit-ld.10063486",
-   "source": "NZZ",
-   "category": "Hafen & Schifffahrt",
-   "art": "konflikt",
-   "ort": {
-    "name": "Constanța, Rumänien",
-    "lat": 44.18,
-    "lon": 28.65
-   }
-  },
-  {
-   "title": "EU gibt grünes Licht für 286 Millionen Euro Kaimauern im Hamburger Hafen",
-   "summary": "Hamburg darf die Mammutinvestition in neue Kaimauern vornehmen. Die EU-Kommission hat das Vorhaben genehmigt.",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZnh2TF9oUUtOMG52Rmp3Y05BUlFnWGJ6TEpHb1hmYWNpOUhXb253Qm40bEdUcEUycVd1UUl3SGlha2QtZ25rejhVbElmcElVUFp0TUtEVXFrcU5hbGZmbWFJSFlqRC1iMm80ZWdqWjVyWjZ6cTloREZIN0xUdVlNZFA5NkNydnZFZC1HUHduSUFQVzBndkZUdm5PclpSS21GRXpnekVKN25tZlRsQVdsWEFYZ24tOVI4bDJMbVdmRE1tOExEQkpxTEItY1Utdw?oc=5",
-   "source": "NDR",
-   "category": "Hafen & Schifffahrt",
-   "art": "wirtschaft",
-   "ort": {
-    "name": "Hamburg",
-    "lat": 53.55,
-    "lon": 10
+    "name": "Khartum",
+    "lat": 15.5,
+    "lon": 32.56
    },
-   "hamburg": "Die neuen Kaimauern stärken die Zukunft des Hafens als Arbeitgeber und Umschlagplatz für die Stadt."
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUzVVZlh0cUIxWFBYU2NGYnZWdHZmc1RLY3oyNm51NTlQQjJEMFlVclNsN2tWM0FjMmRycVdsMXQ2WW4xeUJZYVR1V3lac2ZBTmJ4RWcxYXVxaFlGV1dNbXM3OG5FOXhheVdiM0dzUVktZnJZZkQxNUU4ZWZuM0lWV2JyZXVKUXZtcDl2RHVaTVRtRGN1ZFdPckdPQ0dZSFI1SDVfVGlPbWhYa0o0alNCNFdsSDgtUkhxakRWZw?oc=5"
   },
   {
-   "title": "Containerumschlag in Hamburg gewinnt wieder an Dynamik",
-   "summary": "Der Hafen meldet wieder mehr Schwung beim Umschlag von Containern. Zugleich meldet die HHLA laut Branchenportal einen Gewinneinbruch.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRUYtMkxqNlNseDl1WHJMeWRtR3VRYTIyVWZHS0V0b29tSVh5UXBwZ2VtUV9IM0kzdktGSVdkSUVRcTNUSmtwekJPX2lzc2MtMjJrRmhLbWhSNmhGV2FFM1NSOGlDSG93V2sydVIyNVozaUdfdFRjRnRMbjJwUHE4bGgwbGZGM2VrQVo5cHhLX003WkdvWlA4ZWtiN1FPdw?oc=5",
-   "source": "Fruchthandel",
-   "category": "Hafen & Schifffahrt",
-   "art": "wirtschaft",
-   "ort": {
-    "name": "Hamburg",
-    "lat": 53.55,
-    "lon": 10
-   },
-   "hamburg": "Für den Hafen Hamburg ist der Umschlag der wichtigste Wirtschaftsfaktor."
-  },
-  {
-   "title": "Orange Warnung: Tropensturm AKVAN-26",
-   "summary": "Das Warnsystem GDACS gibt Stufe Orange. Der Sturm erreicht bis 102 km/h; rund 16 Millionen Menschen liegen im Gebiet von Tropensturm-Winden.",
-   "url": "http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001351",
-   "source": "GDACS",
+   "title": "Klimakonferenz: EU-Kommissar kritisiert Abschlussentwurf",
+   "summary": "Auf der UN-Klimakonferenz in der Türkei kritisiert EU-Klimakommissar Hoekstra den Entwurf der Abschlusserklärung.",
+   "source": "Deutschlandfunk",
    "category": "Katastrophen & Klima",
-   "art": "katastrophe"
+   "art": "politik",
+   "ort": {
+    "name": "Antalya",
+    "lat": 36.9,
+    "lon": 30.71
+   },
+   "url": "https://www.deutschlandfunk.de/eu-klimakommissar-hoekstra-kritisiert-beschlussvorlage-104.html"
+  },
+  {
+   "title": "Kanada schaut wegen US-Zöllen nach China",
+   "summary": "Premier Carney hat angedeutet, dass chinesische Autobauer US-Hersteller in Kanada ersetzen könnten. Experten bezweifeln, dass das einfach wird.",
+   "source": "BBC",
+   "category": "Wirtschaft & Handel",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Ottawa",
+    "lat": 45.42,
+    "lon": -75.7
+   },
+   "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "title": "EU-Kommission genehmigt Hamburger Hafeninvestitionen",
+   "summary": "Die Kommission gibt grünes Licht für Investitionen im Hamburger Hafen.",
+   "source": "Hamburg.de",
+   "category": "Hafen & Schifffahrt",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Hamburg",
+    "lat": 53.55,
+    "lon": 9.99
+   },
+   "hamburg": "Das betrifft den Hamburger Hafen direkt.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGNMUVJqSk5Yb0xUeFNDMTUyb3JCTnZyR21acFZvV2xmeDBzSzBSWEhWX0JGZFRObFl0a3pNN2RoMVhVSkhkSThPTnpaNGhOdjJ5NVc2eFl6ZHlNYldidmtQSHFpb0ZYU3JmR1dRRFpWVTBhZ1IxLVBlVUZMVEZYbDJKNmswTkNPbDZSbU1CM1JnNnJwRUNlUkxTUWRrTXoxc1NJY2RhSVNDYUZma0dj?oc=5"
+  },
+  {
+   "title": "Schwimmendes LNG-Terminal in Stade geht in Betrieb",
+   "summary": "Der Stader Hafen wird laut Abendblatt zum Energie-Standort.",
+   "source": "Hamburger Abendblatt",
+   "category": "Hafen & Schifffahrt",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Stade",
+    "lat": 53.6,
+    "lon": 9.48
+   },
+   "hamburg": "Das Terminal liegt nahe Hamburg und soll die Gasversorgung im Norden verbessern.",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM25PdERObDlNNVl6UWJyOGk4dG9VMVFUNzJ5QTU5NjhEQlFMTEtteUdvbGRQdTZSQlBhVmN2YUlvWTFZX19iRmp3bEZ2SFhUb1RPSU1QZ04zWVdpYnI2eWhsWFRISW8tV3Vuc1YxRkxiVEwzODdKeEtvaWd0cllOLTQtNF9RZjdEay0xNTB3enZaTjBFVDUzM18xRGI3LXlkWXhIX0tTVFZPa0p5MGNKcVl6T1NGMDJQMWgxUURyRFNTWlB4X2U1aVpJUDkzVVpZQ2RaNC1IdFk0Zw?oc=5"
   }
  ]
 }
