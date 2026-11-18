@@ -44,6 +44,11 @@
    "cs.AI": 135,
    "cs.LG": 252,
    "cs.CL": 160
+  },
+  "2026-11-18": {
+   "cs.AI": 109,
+   "cs.LG": 107,
+   "cs.CL": 60
   }
  },
  "stocks": {
@@ -1105,41 +1110,41 @@
  "hf": [
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 1488,
+   "likes": 1500,
    "downloads": 727110,
    "task": "text-to-image"
   },
   {
    "id": "Qwen/Qwen3.8-27B",
-   "likes": 20451,
+   "likes": 20457,
    "downloads": 6942530,
    "task": "image-text-to-text"
   },
   {
    "id": "higurashi-ai/Haru-4B",
-   "likes": 520,
+   "likes": 528,
    "downloads": 4445,
    "task": "audio-to-audio"
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 12418,
+   "likes": 12429,
    "downloads": 2828071,
    "task": "image-to-video"
   },
   {
    "id": "thinkingmachines/Inkling-2-Small",
-   "likes": 442,
+   "likes": 443,
    "downloads": 18359,
    "task": "image-text-to-text"
   },
   {
    "id": "unsloth/Qwen3.8-27B-GGUF",
-   "likes": 6146,
+   "likes": 6149,
    "downloads": 6827598,
    "task": ""
   }
  ],
- "updated": "2026-11-18T03:51:06.016Z",
+ "updated": "2026-11-18T05:18:06.060Z",
  "updatedDay": "2026-11-06"
 }
