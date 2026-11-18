@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-18",
+      "file": "2026-11-18.html",
+      "headline": "EU-Kommission hebt Prognose für Deutschland stark an",
+      "count": 14,
+      "sources": 5,
+      "cats": {
+        "Konjunktur": 1,
+        "Unternehmen": 3,
+        "Arbeit & Soziales": 4,
+        "Zinsen & Geldpolitik": 1,
+        "Politik & Handel": 2,
+        "Energie": 2,
+        "Börse & Märkte": 1
+      },
+      "ents": {
+        "Deutsche Bank": 1,
+        "EZB": 1,
+        "Bundesregierung": 2,
+        "China": 1,
+        "USA": 1
+      }
+    },
+    {
       "date": "2026-11-17",
       "file": "2026-11-17.html",
       "headline": "EU genehmigt Übernahme der Commerzbank durch Unicredit",
