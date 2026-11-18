@@ -1,106 +1,107 @@
 {
- "date": "2026-11-17",
- "intro": "Die EU gibt grünes Licht für die Commerzbank-Übernahme durch Unicredit, die Stahlbranche fordert beim Stahlgipfel günstigeren Strom, und die Nvidia-Affäre belastet weiter die Börsen.",
+ "date": "2026-11-18",
+ "intro": "Gute Nachricht für die Konjunktur: Die EU-Kommission traut Deutschland deutlich mehr Wachstum zu. Am Aktienmarkt sorgt dagegen ein Datenleck bei der Deutschen Bank für Unruhe, und am Arbeitsmarkt bleibt die Lage trotz Erholung schwierig.",
  "top": [
   {
-   "title": "EU genehmigt Übernahme der Commerzbank durch Unicredit",
-   "text": "Brüssel hat die Übernahme der Commerzbank durch die italienische Großbank Unicredit freigegeben. Unicredit arbeitet laut Spiegel seit zwei Jahren darauf hin. Für Kunden ändert sich zunächst nichts. Für Beschäftigte und den Bankenplatz Deutschland ist es ein entscheidender Schritt.",
-   "url": "https://www.spiegel.de/wirtschaft/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit-a-d345f44c-486c-43ed-968c-6d33229c6372#ref=rss",
-   "source": "Spiegel Wirtschaft",
-   "category": "Unternehmen"
-  },
-  {
-   "title": "Stahlgipfel: Branche fordert verlässlichen Strompreis",
-   "text": "Beim Stahlgipfel in Salzgitter verlangte die Branche Entlastung beim Strompreis, weil Strom für die Stahlherstellung ein entscheidender Kostenfaktor ist. Tagesschau fragt, was der Erhalt der deutschen Stahlindustrie kosten darf. Es geht um Arbeitsplätze und die Abhängigkeit von Importen. Die EU will europäischen Stahl zugleich gegen die Konkurrenz aus China stärken.",
-   "url": "https://www.tagesschau.de/wirtschaft/stahlgipfel-klimawandel-produktion-100.html",
+   "title": "EU-Kommission hebt Prognose für Deutschland stark an",
+   "text": "Die EU-Kommission rechnet für Deutschland in diesem Jahr mit 1,3 % Wachstum, mehr als doppelt so viel wie im Frühjahr erwartet. Grund sind kräftig steigende Exporte. Die Inflation (der Anstieg der Preise) dürfte aber hartnäckig bleiben. Für Beschäftigte und Firmen heißt das: Die Wirtschaft erholt sich, die Preise entspannen sich aber nicht so schnell.",
    "source": "tagesschau Wirtschaft",
-   "category": "Energie"
+   "category": "Konjunktur",
+   "url": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-kommission-wachstumsprognose-deutschland-100.html"
   },
   {
-   "title": "Nvidia-Affäre erschüttert weiter die Börsen",
-   "text": "Der Spiegel berichtet, dass Nvidia eine Rückkehr von Ex-Chef Jensen Huang offenbar ausschließt. Das Handelsblatt schreibt, dass schärfere US-Exportkontrollen für KI-Chips Trumps Asienreise überschatten. Nvidia ist einer der wertvollsten Konzerne der Welt, Kursschwankungen treffen deshalb viele Anleger und Fonds.",
-   "url": "https://www.spiegel.de/wirtschaft/nvidia-konzern-schliesst-rueckkehr-von-jensen-huang-offenbar-aus-a-81b915e6-b63f-4074-a333-b1cdec5a3990#ref=rss",
+   "title": "Datenleck belastet Deutsche Bank",
+   "text": "Dem Spiegel und Partnermedien wurden mehr als 15 Millionen interne Dateien der Deutschen Bank zugespielt. Die Aktie fiel nach den ersten Berichten deutlich. Laut Spiegel zeigen die Unterlagen unter anderem, dass die Bank mehr Zahlungen für Jeffrey Epstein abgewickelt hat als bisher bekannt. Der Aufsichtsratschef stellt sich hinter Vorstandschef Christian Sewing.",
    "source": "Spiegel Wirtschaft",
-   "category": "Börse & Märkte"
+   "category": "Unternehmen",
+   "url": "https://www.spiegel.de/wirtschaft/deutsche-bank-aktienkurs-bricht-nach-datenleak-ein-a-0f7a4819-4fe7-4eec-babd-d480fa2741f1#ref=rss"
+  },
+  {
+   "title": "Konjunkturerholung heilt Jobkrise noch nicht",
+   "text": "Aus der Industrie kommen vorsichtige Zeichen der Zuversicht. Trotzdem könnte der Stellenabbau laut Experten zunächst weitergehen. Ein Schub für den Arbeitsmarkt lässt also auf sich warten. Wer um seinen Job fürchtet, sollte sich daher nicht allein auf die bessere Konjunktur verlassen.",
+   "source": "tagesschau Wirtschaft",
+   "category": "Arbeit & Soziales",
+   "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/industrie-aufschwung-jobabbau-100.html"
   }
  ],
  "entries": [
   {
-   "title": "Industrie macht mehr Umsatz und baut trotzdem Stellen ab",
-   "summary": "Die deutsche Industrie steigerte laut Berichten den Umsatz, streicht aber Jobs. Das zeigt, dass höhere Erlöse nicht automatisch mehr Beschäftigung bedeuten.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUwzbm5tR3JRVGlIZVVHMjMySjB3a0JYODVITWs1MkJ0Zl93NThSVm5DaVJxOXZadmpFQjVpU0Z5enM4VjNKSGJSdHduNVVUNlg5a1lGNHFuMUdrc3hXRkdkWlQ0cWFFUGRaV2hRV3NLcVBjOTVJeXh5ZE9IVGE1dnE3NXRZdWwyekxkTHNOd2Z4Q0wzQkc0azF0WHdXQQ?oc=5",
-   "source": "DIE ZEIT",
-   "category": "Arbeit & Soziales"
-  },
-  {
-   "title": "Deutsche Wirtschaft bleibt pessimistisch",
-   "summary": "Eine Auswertung des Instituts der deutschen Wirtschaft zeigt weiter trübe Stimmung bei den Unternehmen.",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZVNleE5YZEYwWks1N2NTdGlnX0Y4VWpLRk9kOVZiMEd3WGtSY20wV3pLOVJZRFBzdGhPRm85NnJ0elFaelN3MGcxWVF6eUdydlFjSjBEcWNGVWhFMkoyYkpRalYtZEtiMjFlZHloRkVoUWg1RFVvMFljSDMzYVdvcg?oc=5",
-   "source": "IWD",
-   "category": "Konjunktur"
-  },
-  {
-   "title": "Handwerk warnt vor „stillem Sterben der Betriebe“",
-   "summary": "Das Handwerk warnt laut Spiegel in der Wirtschaftskrise vor einem schleichenden Verschwinden von Betrieben.",
-   "url": "https://www.spiegel.de/wirtschaft/unternehmen/handwerk-warnt-vor-stillem-sterben-der-betriebe-a-8ae8249b-be4e-467e-b6c8-dce66525f1e0#ref=rss",
-   "source": "Spiegel",
-   "category": "Konjunktur"
-  },
-  {
-   "title": "Ifo: Stromkonzerne nutzten in der Gaspreiskrise ihre Marktmacht",
-   "summary": "Laut dem Ifo-Institut haben Stromkonzerne in der Gaspreiskrise Marktmacht eingesetzt. Das ist für die Debatte über Strompreise und Regulierung wichtig.",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMXNyaGZicTlBc1FjcUVka1NJU0V0cTRkdnZTY2Znck9URXZWRVdiT2djTW9tSVVMdU5ic2JGSXpMenhZclJCUllpUHdRSlowM1Fxdno1bVQ5eVpPQzJfN0g2VTRMNEx2Q3Y5VDN0d1pCdklCMkxub3JNSTlTcnloTzdTSVl1eDBaS2M2bl9oenI1SkRtQ0ZSam00OWNqSnVsNHJVczJCbE83MDNaWE1CY2dveVMxNU9yT3BQLUNnMWtIM2NaVFdXZg?oc=5",
-   "source": "Allgemeine Zeitung",
-   "category": "Energie"
-  },
-  {
-   "title": "Energieverbrauch der deutschen Industrie sinkt",
-   "summary": "Wegen hoher Preise und geringerer Produktion hat die Industrie 2025 weniger Energie verbraucht. Kohle wird dabei immer unwichtiger.",
-   "url": "https://www.tagesschau.de/wirtschaft/energie/energieverbrauch-deutsche-industrie-100.html",
+   "title": "EU gibt grünes Licht für UniCredit bei der Commerzbank",
+   "summary": "Die Kommission sieht keine wettbewerbsrechtlichen Bedenken gegen die Übernahme. Die umstrittene Fusion rückt damit näher.",
    "source": "tagesschau Wirtschaft",
-   "category": "Energie"
+   "category": "Unternehmen",
+   "url": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"
   },
   {
-   "title": "Tesla will drei Milliarden Euro in Grünheide investieren",
-   "summary": "Das Werk in Brandenburg soll für Robotaxis erweitert werden. Ministerpräsident Woidke begrüßt das.",
-   "url": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-investiert-milliardensumme-fuer-robotaxi-bau-in-deutschland-a-65132952-1c63-4862-b2ce-f82c5def838f#ref=rss",
+   "title": "Altersvorsorgedepot startet zum Jahreswechsel",
+   "summary": "Das staatlich geförderte Depot bietet über Zulagen einen Anreiz, fürs Alter am Kapitalmarkt zu sparen. Offen ist, ob es die Sparer überzeugt.",
+   "source": "tagesschau Wirtschaft",
+   "category": "Arbeit & Soziales",
+   "tipp": "Vor dem Start die Bedingungen der Anbieter vergleichen, bevor man sich festlegt.",
+   "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-rente-aktienmarkt-sparplan-100.html"
+  },
+  {
+   "title": "Bundesregierung will Pablo Hernández de Cos als EZB-Chef",
+   "summary": "Nach Spiegel-Informationen bevorzugt Berlin den Spanier als Nachfolger von Christine Lagarde. Als Chefvolkswirt soll der Deutsche Markus Brunnermeier ins Rennen gehen.",
    "source": "Spiegel Wirtschaft",
-   "category": "Unternehmen"
+   "category": "Zinsen & Geldpolitik",
+   "url": "https://www.spiegel.de/wirtschaft/ezb-deutschland-favorisiert-pablo-hernandez-de-cos-fuer-lagarde-nachfolge-a-8d14de67-7e02-4b43-91ae-c41db8571dc2#ref=rss"
   },
   {
-   "title": "Koalitionsausschuss im Kanzleramt",
-   "summary": "Die Koalition kommt heute zu einem Spitzentreffen zusammen. Laut Handelsblatt stehen viele ungelöste Probleme an.",
-   "url": "https://www.handelsblatt.com/politik/deutschland/spitzentreffen-im-kanzleramt-darum-geht-es-im-koalitionsausschuss/100270401.html",
-   "source": "Handelsblatt",
-   "category": "Politik & Handel"
-  },
-  {
-   "title": "Mehr Firmengründungen als seit elf Jahren",
-   "summary": "Laut einer Volksbank-Analyse wagen mehr Menschen den Schritt in die Selbstständigkeit, besonders im KI-Bereich.",
-   "url": "https://www.handelsblatt.com/politik/deutschland/volksbank-analyse-so-viele-firmengruendungen-wie-seit-elf-jahren-nicht-mehr/100270393.html",
-   "source": "Handelsblatt",
-   "category": "Konjunktur"
-  },
-  {
-   "title": "Demokraten könnten Trumps Zölle nach den Midterms angreifen",
-   "summary": "Ab Januar haben die Demokraten die Mehrheit im US-Kongress. Experten sind laut Spiegel skeptisch, ob sie die Zölle wirklich stoppen können.",
-   "url": "https://www.spiegel.de/wirtschaft/service/donald-trump-koennen-die-demokraten-nach-den-us-midterms-die-zoelle-wirklich-stoppen-a-93d3e5c2-9594-424c-bf96-cb2f925e009b#ref=rss",
+   "title": "China und Kanada umgehen US-Zölle",
+   "summary": "Beide Länder senken Zölle etwa auf Lebensmittel und Stahl, um ihre Zusammenarbeit zu vertiefen. Es geht auch darum, die US-Zollpolitik zu unterlaufen.",
    "source": "Spiegel Wirtschaft",
-   "category": "Politik & Handel"
+   "category": "Politik & Handel",
+   "url": "https://www.spiegel.de/wirtschaft/kanada-und-china-unterlaufen-trumps-zollpolitik-mit-zollerleichterungen-a-3eeca7f4-6869-4bce-a9e0-58a8a9f5c309#ref=rss"
   },
   {
-   "title": "Regierungspläne könnten Strom teurer machen",
-   "summary": "Laut FAZ sollen allein für Biogas 50 Milliarden Euro zusätzlich gezahlt werden, obwohl die Regierung die Förderkosten senken wollte. Noch ist nichts beschlossen.",
-   "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/eeg-reform-drohen-durch-biogas-foerderung-50-milliarden-euro-mehrkosten-201688005.html",
+   "title": "Lufthansa und Piloten finden keinen Frieden",
+   "summary": "Trotz Schlichtung und Mediation gibt es keine Einigung. Lufthansa legt ein neues Angebot vor, die Vereinigung Cockpit kontert.",
    "source": "FAZ Wirtschaft",
-   "category": "Energie"
+   "category": "Arbeit & Soziales",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lufthansa-und-vereinigung-cockpit-neuer-streit-nach-gescheiterter-mediation-201690761.html"
   },
   {
-   "title": "Chinas Wirtschaft verliert weiter an Schwung",
-   "summary": "Die Wachstumsdaten aus China fallen schwächer aus. Für Exportnationen wie Deutschland ist das ein Risiko.",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeEh0NmYxTmk4d2h2ZllVNHB2aTVGV1lrNTY2T3h3T0drOVo2ZmNkd21ETGg5Q3lyT3ZlZlFUNXA0UnZoUXZEYkVkSHBYb1lzZzA2RFlQa3NQLXYtXzJqTE1qaUZCMWo5cm41VWtlZFJNckhCbGdvdmxPUkRzRnd4WGZVMVlQMVJ5bEVzQmdvcnc?oc=5",
-   "source": "Onetz",
-   "category": "Konjunktur"
+   "title": "Neue US-Regeln für KI-Chips treffen Asien",
+   "summary": "Die USA haben die Ausfuhrregeln für Nvidia-Chips verschärft. Asien droht laut FAZ ein kalter Entzug bei den begehrten Prozessoren.",
+   "source": "FAZ Wirtschaft",
+   "category": "Politik & Handel",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chips-und-china-asien-droht-der-kalte-entzug-201689910.html"
+  },
+  {
+   "title": "Koalition ringt um die Stromsteuer",
+   "summary": "Die Spitzen von Union und SPD verhandelten bis weit nach Mitternacht im Kanzleramt. Das Ergebnis bleibt zunächst unter Verschluss.",
+   "source": "Handelsblatt",
+   "category": "Energie",
+   "url": "https://www.handelsblatt.com/politik/deutschland/spitzentreffen-im-kanzleramt-koalitionsspitzen-verhandeln-bis-tief-in-die-nacht/100270780.html"
+  },
+  {
+   "title": "EU will Stromnetze schneller ausbauen",
+   "summary": "Bis 2040 müssen laut EU-Kommission mehr als eine Billion Euro in Europas Netze fließen. Bürokratie soll den Ausbau künftig weniger bremsen.",
+   "source": "Handelsblatt",
+   "category": "Energie",
+   "url": "https://www.handelsblatt.com/politik/deutschland/energie-eu-einigung-europas-stromnetze-sollen-schneller-wachsen/100270765.html"
+  },
+  {
+   "title": "Nvidia verdoppelt erneut Umsatz und Gewinn",
+   "summary": "Der Chipkonzern legt starke Zahlen vor. Eine Rückkehr von Ex-Chef Jensen Huang plant Nvidia nicht.",
+   "source": "Handelsblatt",
+   "category": "Börse & Märkte",
+   "url": "https://www.handelsblatt.com/technik/it-internet/chip-konzern-nvidia-verdoppelt-erneut-umsatz-und-gewinn-keine-plaene-fuer-rueckkehr-huangs/100268998.html"
+  },
+  {
+   "title": "Discounter Mäc-Geiz schließt rund 60 Filialen",
+   "summary": "Nur 123 Standorte und 850 Arbeitsplätze sollen erhalten bleiben.",
+   "source": "NIUS",
+   "category": "Unternehmen",
+   "url": "https://nius.de/wirtschaft/insolvenz-bei-maec-geiz-discounter-schliesst-rund-60-filialen"
+  },
+  {
+   "title": "Elterngeld-Reform: Familien drohen Einbußen",
+   "summary": "Laut ZEW verlieren Mütter mit kleinen und mittleren Einkommen im Schnitt 29 %. Väter müssten länger pausieren.",
+   "source": "NIUS",
+   "category": "Arbeit & Soziales",
+   "url": "https://nius.de/politik/elterngeld-reform-zew-studie"
   }
  ]
 }
