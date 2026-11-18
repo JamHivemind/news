@@ -1,92 +1,106 @@
 {
- "date": "2026-11-17",
- "intro": "Aus Berlin kommt ein Dämpfer für die Gründerszene: Die Bundesregierung will bei der Förderung von Business Angels sparen. In Europa dagegen füllen sich die Kassen, etwa bei Plural.",
+ "date": "2026-11-18",
+ "intro": "Heute dominieren große Runden bei KI-Startups: Isomorphic Labs sammelt 5 Milliarden Dollar ein, Model ML wird zum Einhorn. Dazu kommen Roboter-Startups und mehrere Seed-Runden aus Europa.",
  "top": [
   {
-   "title": "Bund will Förderung für Business Angels kürzen",
-   "text": "Die Bundesregierung will laut Gründerszene die staatliche Förderung von Startup-Investitionen durch Business Angels (private Geldgeber) im kommenden Jahr deutlich zurückfahren. Die Grünen sprechen von einem großen Fehler. Für junge Firmen kann das die Suche nach der ersten Finanzierung schwerer machen. Es ist bisher ein Plan der Regierung.",
-   "url": "https://www.businessinsider.de/gruenderszene/regierung-merz-streicht-millionen-startup-foerderung-gruene-sprechen-von-grossem-fehler/",
-   "source": "Gründerszene",
-   "category": "Förderung & Politik"
+   "title": "Isomorphic Labs sammelt 4,5 Milliarden Euro ein",
+   "text": "Das KI-Pharmaunternehmen aus dem Umfeld von Google DeepMind hat eine Series C über 4,5 Milliarden Euro (5 Milliarden Dollar) abgeschlossen. Angeführt wurde die Runde von Greenoaks und Sequoia Capital, dazu kommen Andreessen Horowitz und weiter Alphabet. Das Geld soll Forschung und die eigene KI-Technik voranbringen. Isomorphic entwickelt mit KI neue Medikamente (Series C ist eine späte Finanzierungsstufe).",
+   "source": "EU-Startups",
+   "category": "Finanzierungen",
+   "url": "https://www.eu-startups.com/2026/11/ai-drug-discovery-giant-isomorphic-labs-raises-e4-5-billion-in-blockbuster-funding-round/"
   },
   {
-   "title": "Plural sammelt neuen Fonds über 1 Milliarde Euro ein",
-   "text": "Der europäische Geldgeber Plural hat laut Sifted einen frischen Fonds von 1 Milliarde Euro aufgelegt. Er soll in „nicht offensichtliche Firmen“ investieren. Das zeigt, dass für europäische Startups weiter viel Kapital bereitsteht.",
-   "url": "https://sifted.eu/articles/plural-new-fund-e1bn/",
+   "title": "Model ML wird Europas neues Einhorn",
+   "text": "Das Londoner Startup entwickelt KI-Agenten für Finanz- und Beratungsfirmen. Es hat 227 Millionen Euro (250 Millionen Dollar) in einer Series B eingesammelt, bei einer Bewertung von 1,3 Milliarden Euro. Ein Einhorn ist ein Startup mit über einer Milliarde Bewertung. Mit dem Geld wachsen die Teams in London und New York.",
+   "source": "EU-Startups",
+   "category": "Europa & Welt",
+   "url": "https://www.eu-startups.com/2026/11/model-ml-is-europes-newest-unicorn-with-e227-million-raise-to-put-ai-agents-to-work-in-finance-makes/"
+  },
+  {
+   "title": "Genesis AI sammelt 500 Millionen Dollar ein",
+   "text": "Das Robotik-Startup Genesis AI hat laut Sifted 500 Millionen Dollar erhalten. Nvidia gehört zu den Geldgebern. Roboter mit KI sind aktuell eines der heißesten Investorenthemen.",
    "source": "Sifted",
-   "category": "Finanzierungen"
-  },
-  {
-   "title": "Intergrid erhält 23,5 Millionen Euro für KI-gesteuerte Energiesysteme",
-   "text": "Das Start-up bekommt 23,5 Millionen Euro für Energiesysteme, die per KI gesteuert werden. Investoren nennt der frei lesbare Teil nicht. Energie und KI bleiben gefragte Themen bei Geldgebern.",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTFZSGd2Z216YlN1aEI1MnN5RUN5YnZUWm5HaEc5WlB4YUFtOGIyR0EwNTVKZmpPb3RtRjlreHRvVXpfc1B6andnN1pVdEZnV204RGNpNk54WE1tWTJ3aUZjc0RidV91dUpHWERrVzhZcml3MUkxelh1N28wd25DZ2xyU1h2S3FyTWNnU1BqSUlIcW4wdldjVGZrQWlEb0o4R0V3?oc=5",
-   "source": "Startbase",
-   "category": "Finanzierungen"
+   "category": "Finanzierungen",
+   "url": "https://sifted.eu/articles/genesis-ai-raises-500m/"
   }
  ],
  "entries": [
   {
-   "title": "Mosaico holt 7,5 Millionen Euro",
-   "summary": "Das Start-up hat laut Startbase 7,5 Millionen Euro eingesammelt.",
-   "url": "https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/",
+   "title": "Commit Biologics aus Kopenhagen holt 54 Millionen Euro",
+   "summary": "Das Biotech-Startup entwickelt Mittel gegen Krebs und Autoimmunkrankheiten. Die Seed-Runde führte Ackermans & van Haaren an. Der erste Wirkstoff soll näher an klinische Tests rücken.",
+   "source": "EU-Startups",
+   "category": "Deep Tech & Forschung",
+   "url": "https://www.eu-startups.com/2026/11/denmarks-commit-biologics-secures-e54-million-seed-funding-to-advance-cancer-and-autoimmune-therapies/"
+  },
+  {
+   "title": "Britische KI-Kanzlei Alecto bekommt 18 Millionen Euro",
+   "summary": "Insight Partners führt die Seed-Runde an. Alecto will über Immobilienkäufe hinaus weitere Bereiche des Verbraucherrechts abdecken; der erste Auslandsstart ist für 2027 geplant.",
+   "source": "EU-Startups",
+   "category": "Finanzierungen",
+   "url": "https://www.eu-startups.com/2026/11/alecto-lands-e18-million-to-scale-its-ai-powered-law-firm-beyond-property-transactions/"
+  },
+  {
+   "title": "Fermat aus Barcelona: 8 Millionen Dollar und Umzug nach New York",
+   "summary": "Das KI-Startup für Mode- und Luxusmarken holt Seed-Geld und eröffnet ein Büro in New York.",
+   "source": "Trending Topics",
+   "category": "Finanzierungen",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSW83dVYwOGRudUN5STN4X0F1OTFSSDFQd3VsVEVjNzFrRWVHY2dwcmEwZzRzWk1aREFnUFVWOVg1V0pWSWk1b1JySkFlYThzbjZvVEIwMjltckp2cHk3clJVVzZOanhWSTlaLUg2eHQ1ZXNJNzI2WHVVd2pkRXhCUzBXc2FBdF9rbVFlRnVPSEJwSm1OV1JlTEp0QW13WkJBdUVIaHBWNmZJSDFE?oc=5"
+  },
+  {
+   "title": "Atomico legt Bericht zum Stand der europäischen Tech-Szene vor",
+   "summary": "Sifted fasst acht zentrale Ergebnisse des Reports „State of European Tech“ zusammen.",
+   "source": "Sifted",
+   "category": "Europa & Welt",
+   "url": "https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/"
+  },
+  {
+   "title": "Münchner Humanoid-Startup Vesoma sucht 50 Millionen Euro",
+   "summary": "Laut Sifted will das Startup Geld für Roboter in Menschengestalt einsammeln. Es ist bisher eine Suche, keine abgeschlossene Runde.",
+   "source": "Sifted",
+   "category": "Deep Tech & Forschung",
+   "url": "https://sifted.eu/articles/exclusive-munich-based-humanoid-startup-vesoma-seeks-e50m/"
+  },
+  {
+   "title": "Neues Startup von H-Company-Veteranen: 30 Millionen Dollar Seed",
+   "summary": "EQT und FirstMark unterstützen ein Trio ehemaliger H-Company-Mitarbeiter.",
+   "source": "Sifted",
+   "category": "Finanzierungen",
+   "url": "https://sifted.eu/articles/remanence-30m-seed-round/"
+  },
+  {
+   "title": "Science Corp. ist nach neuer Runde 3,5 Milliarden Dollar wert",
+   "summary": "Das Neurotechnik-Startup holte 400 Millionen Dollar in einer Series D, um sein Geschäft gegen Blindheit auszubauen.",
+   "source": "TechCrunch Startups",
+   "category": "Finanzierungen",
+   "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+  },
+  {
+   "title": "Pedestal AI erhält 4,7 Millionen Dollar",
+   "summary": "Das Startup setzt KI-Agenten ein, damit Lieferketten schneller und zuverlässiger laufen.",
+   "source": "TechCrunch Startups",
+   "category": "Finanzierungen",
+   "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
+  },
+  {
+   "title": "Asynchronics erhält 3,1 Millionen Dollar für digitale Satellitenmodelle",
+   "summary": "Das Startup baut digitale Modelle von Satelliten. Das Geld kommt aus einer neuen Finanzierungsrunde.",
    "source": "Startbase",
-   "category": "Finanzierungen"
+   "category": "Finanzierungen",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEVfc2N0SE9SMzhKV1Z2TThPeG0waTAtTk1lYkJKeWplOUJvYzgwQnFaTU56Y29mZ2JKMTRCcFJKNE9YT3RXTmVnYTM3OExNVjRDeVlVU05YeHh4bFpYZno2elRfNm8xMVJIUnRYSUpnM0Y4N20yVEF0RmlRS0hWV2RWQ2ZzLV9PeE02ZU5HbDBTNWU3VDFiTzNObzRwcjRTNGhVMWpn?oc=5"
   },
   {
-   "title": "Daisyturner erhält 6 Millionen Euro",
-   "summary": "Das Start-up bekommt 6 Millionen Euro frisches Kapital.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80eWUyaHNkTThxcEpibEFEcDNkbHEwUnU5NmM2VUJIMHZ4OFNJeFM4MFJkdGZJVWl2bEZXZEhudFRsa2M5bVpIRzZJVEM5U0RRbms4bzhZa2V0S0xnZTd0U3pSVVRRcXhnOHI1bjZJYk1fUQ?oc=5",
+   "title": "MediPulse bekommt 2,6 Millionen Euro für KI-Praxisverwaltung",
+   "summary": "Die Software soll Arztpraxen bei der Verwaltung mit KI unterstützen.",
    "source": "Startbase",
-   "category": "Finanzierungen"
+   "category": "Finanzierungen",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFRveHJyQTdZaVdfMzJDWU93WS1aaVVJRVZSVVBxb2VhaDdOc1drX1ZyR3JkS2pvVkQtdmdySGpfYVdxVVdVOFdSMTk3cnZjaFhMV054aWxtRjM3YVNhVzdscTYtTEFjMkFzRjdlTnVoaEgtWVMxRWJmM05DeXM2aTFYeWpGVENFWWo0TFlfUk5IMUpLaTNfZ3hIdk1lMVhFQ19lUw?oc=5"
   },
   {
-   "title": "Cybersecurity-Start-up Corma wird nach drei Monaten eine Milliarde wert",
-   "summary": "Nur drei Monate nach Produktstart sammelt Corma 125 Millionen Dollar in einer Series A ein, angeführt von NEA.",
-   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-   "source": "TechCrunch Startups",
-   "category": "Finanzierungen"
-  },
-  {
-   "title": "Freshworks-Ehemalige sammeln 53 Millionen Dollar für KI-Kundensoftware",
-   "summary": "Dreamteam will mit einer KI-basierten CRM-Software (Kundenverwaltung) gegen Salesforce und HubSpot antreten. Mehr als 100 Kunden in 13 Ländern nutzen sie schon.",
-   "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-   "source": "TechCrunch Startups",
-   "category": "Gründungen & Produkte"
-  },
-  {
-   "title": "Island macht Bildschirmzeit zum Spiel",
-   "summary": "Die App aus dem Programm Y Combinator belohnt Nutzer, die ihr Handy-Limit einhalten, mit Feldfrüchten und Tieren in einem Farmspiel.",
-   "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
-   "source": "TechCrunch Startups",
-   "category": "Gründungen & Produkte"
-  },
-  {
-   "title": "Batterie-Start-up Our Next Energy geht per SPAC an die Börse",
-   "summary": "Nach einer Beinahe-Pleite wählt das Unternehmen den Börsengang über eine SPAC (Mantelgesellschaft). TechCrunch fragt, ob es im harten Batteriemarkt bestehen kann.",
-   "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
-   "source": "TechCrunch Startups",
-   "category": "Exits & Übernahmen"
-  },
-  {
-   "title": "Fintech Majority soll mit Rebtel fusionieren",
-   "summary": "Das von Peter Thiel unterstützte Fintech Majority steht laut Sifted vor der Fusion mit Rebtel.",
-   "url": "https://sifted.eu/articles/thiel-fintech-majority-rebtel-merge/",
-   "source": "Sifted",
-   "category": "Exits & Übernahmen"
-  },
-  {
-   "title": "Starling-Bank-Chef tritt zum Jahresende ab",
-   "summary": "Der Chef der britischen Digitalbank Starling verlässt das Unternehmen Ende 2026.",
-   "url": "https://sifted.eu/articles/starling-ceo-to-step-down/",
-   "source": "Sifted",
-   "category": "Europa & Welt"
-  },
-  {
-   "title": "Europas „World-Model“-Start-ups im Überblick",
-   "summary": "Sifted kartiert die europäischen Firmen, die KI-Modelle für die physische Welt entwickeln.",
-   "url": "https://sifted.eu/articles/europe-world-models-mapped/",
-   "source": "Sifted",
-   "category": "Deep Tech & Forschung"
+   "title": "Salufast baut mit Fastenkuren ein Millionengeschäft auf",
+   "summary": "deutsche-startups.de porträtiert das Unternehmen und seinen Weg zum Millionenumsatz.",
+   "source": "deutsche-startups.de",
+   "category": "Gründungen & Produkte",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDJBNzUyYUZ1RkZ4UzVYTlhJRXA3OHhnSkR1OWdJUS1hMjh0TmRDMmloa0NnckdlS1Z5dFd5djJZWndyQzhZRFh0UDVILVRWcUlFd0JmU3UzUXlFZ1RWb3lzTFI5ZERtY1dVV0ZvSkFNT0EyMW9WdHJ0Z094RkVSemVvcXg3ZEtla0xOQjhuekRpWFBFTXQwQlBBaHZiaXQ5dlhUeEJzYw?oc=5"
   }
  ]
 }
