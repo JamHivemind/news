@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-18T05:21:09.416Z",
+ "fetched": "2026-11-18T05:23:02.470Z",
  "hours": 48,
  "sources": [
   {
@@ -165,9 +165,59 @@
   },
   {
    "name": "Stiftung Warentest (Google News)",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Tests mit klarem Ergebnis (Testsieger, durchgefallen) und Verbraucherwarnungen. Höchstens zwei Tests am Tag.",
+   "ok": true,
+   "items": [
+    {
+     "title": "Airfryer vor der Black Week: Gute Heiß­luft­fritteusen aktuell schon ab 77 Euro - Stiftung Warentest",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNc1BQc3E3M0haMTQ4V1VzYlVIc21PdV9tQVNzZkhfcUlfSC16LUdSd0lZQUktdUw3RGhZX0FrdzQyaTM3MHphMmZDWU1BVUJ0bWFMUmZySlk1TGdkZy0za1ptWG5qOXM0Ukd3LV9MZzdwTVMwMHMtMXlsblhlZ0c4ZEZrWElnQ0ZsM05wMkNKMFlmTl84MGw0c3FrZEZmeUxBeksyZVJPVURrMTZ5RFFqdnZ2VlN6LVUxdElsTEtLYXJPVTlFNndfZHdvZnNkMnJEM19FeExSZWNXcUZqbElpOHkwTnBYRU5VQzV0MFpONDNMOUU?oc=5",
+     "date": "2026-11-18T03:07:13.000Z",
+     "text": "Airfryer vor der Black Week: Gute Heiß­luft­fritteusen aktuell schon ab 77 Euro Stiftung Warentest",
+     "via": "Stiftung Warentest"
+    },
+    {
+     "title": "Autokindersitze ohne Zulassung: Gefährliche Stoffsitze dürften gar nicht verkauft werden - Stiftung Warentest",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaC1wTGRXZTNrMjY0UFlPX3AtUGFJN3dPdmpBbUtDTUpTQXdxR0l3WlhQS1VRaXgxbDNhcDZkOHZ0R3ExakJpRDR6bGF0bThsRjFMdEtZMnZHY0V0REl1LXFXZGE1a0pNRGZScUdWdVB5cHJvZDZzNWR6eGtqczhsVnQwOUFWLWRXM2thQUNOSzd4RFh3QmZWLWd3dWpKLS1pZHRtdHJfUE9HZ3p4YXpVY3EwVmJENjBXem15Nw?oc=5",
+     "date": "2026-11-16T22:00:11.000Z",
+     "text": "Autokindersitze ohne Zulassung: Gefährliche Stoffsitze dürften gar nicht verkauft werden Stiftung Warentest",
+     "via": "Stiftung Warentest"
+    },
+    {
+     "title": "Kfz-Versicherung-Vergleich: Die besten Autoversicherungen 2025 - Stiftung Warentest",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQWE5NjNxZURwblV5ZjN5OU1Qd2xETVh3WmxpTWVfMXJLREV0elRMcnllYklYb1E5MTBBT3gzZjYzMHpGWG9vWk9FWE9SaWJTMThSellWLVBKY2xvVjkwOE52US1yUDMzRjVlYkVYUXBPMS1qUXRDbVhfRC1xRnBJdWZid2JZSnp0TUZV?oc=5",
+     "date": "2026-11-16T08:00:00.000Z",
+     "text": "Kfz-Versicherung-Vergleich: Die besten Autoversicherungen 2025 Stiftung Warentest",
+     "via": "Stiftung Warentest"
+    },
+    {
+     "title": "Trockene Raumluft: Brauche ich überhaupt einen Luftbefeuchter? - Stiftung Warentest",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUjdsOE5xSDRDQVhRMkdxNEJqeF91OTRXY1VlMFVvcW8zbHo0bHlMcDloazFiaHkxaURQWWtwalhqNEJWSGxadXRYbWJOUUhRX2xZWk1hdFcwc3NhS21TcHBYam5FUF9sUnA3X1k0R0Q0dlVxNnFPcUwtNDliVlFwbEstNGFEZi1XcmRiTFN5OXRhcjd1azBlYVVGZ1JOZw?oc=5",
+     "date": "2026-11-17T09:36:30.000Z",
+     "text": "Trockene Raumluft: Brauche ich überhaupt einen Luftbefeuchter? Stiftung Warentest",
+     "via": "Stiftung Warentest"
+    },
+    {
+     "title": "Zuckersteuer auf Getränke: Werden Limos und Co gesünder? - Stiftung Warentest",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaF93SUk2anpEMkdqUEFoLWttUVFCanBXOXZQeXlSTDc3cVpIQmNaNlMyMXJEblBrNHY4MUVUcWRBdE9MU0xtZm9UZTJwTUN0X2FISWxSMHBEeWRXMWg1RkxIM2JkSWNrU2VZLUJfeEZybDhpUzdsUE11ZnFySF9PNnIwSXNlQ1VNS1NhdGZtMlg?oc=5",
+     "date": "2026-11-15T04:30:00.000Z",
+     "text": "Zuckersteuer auf Getränke: Werden Limos und Co gesünder? Stiftung Warentest",
+     "via": "Stiftung Warentest"
+    },
+    {
+     "title": "Heizen mit Wärmepumpen: Auswahl, Technik, Einbau – Wissenswertes zu Wärmepumpen - Stiftung Warentest",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXl2cEF0NVRSSFB0TUVBTjUwcjBnOS1SMlZOQkJIbWlFa3lQRzAteFh2d1hfRkNSM3dBY1A1YmE1LW5nUnJhWm1sNUUxczA2a2FVUThhY1RNMWxRbzVNaTNFX0NkajBhRlUxRnZoZkRRaGd4Y2FSZ19kaHNEaDE2cGdwYkxmWmdYNlVvVnBCb0JaZGVXRjNPXy0xd2VfYVRTVzBoTTVrdjhnSGM?oc=5",
+     "date": "2026-11-15T00:06:30.000Z",
+     "text": "Heizen mit Wärmepumpen: Auswahl, Technik, Einbau – Wissenswertes zu Wärmepumpen Stiftung Warentest",
+     "via": "Stiftung Warentest"
+    },
+    {
+     "title": "KI-Unternehmen: Was der Mega-Börsengang von Anthropic für deutsche Anleger heißt - Stiftung Warentest",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkNnNU9KclA4U2IxMGtnaXJOYjllamROYUN4dlA4OERhdzhOaDZwNFVRaUp3eVVLcWtJWkpKMVhhYzJLZ3MyMWZjQW5rWHdFUmRFS2dzRkJQTU5wdW9HdzQ3aDYtQ3NyZ2dTa3JIekctTTU2YnBVbjJRSjZJS1JYME55MnNrVVJxR2FXcXl2OXE0aE9IV0RQalRTLW52NnBtS1FvV0dQTERReGJIY2xBdVJUbw?oc=5",
+     "date": "2026-11-17T08:14:16.000Z",
+     "text": "KI-Unternehmen: Was der Mega-Börsengang von Anthropic für deutsche Anleger heißt Stiftung Warentest",
+     "via": "Stiftung Warentest"
+    }
+   ]
   },
   {
    "name": "Verbraucherzentrale (Google News)",
@@ -230,18 +280,18 @@
      "via": "HAZ"
     },
     {
-     "title": "Sammelklage gegen Stromversorger Grüüün: Verbraucherzentrale sucht Betroffene - FOCUS online",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLVd0SDdpNlREYTV2Q3JjVnlMbzFhVE5pSnRGV0hvVjVJR05FbW9EMWFEdWxkcUl2NWtXRWhrUXZnR3lPbmtDTmQtWDdVakkzbVBHeU8yQWlhbHk1eGtSX0YtQ1JuX1VMSnV2NE9CbGVOZllGNVJNaWNsQWR4RDRGdUFWd0VCLVRFMUV2UFVCME45aXlPSG01ZVVJTjBjRWs0WXoxcGotN2NwZFM3UEZaWC01enZHX3c2OWtBOEVJMTVFSTd2RDh4UDduX2tSMmJuNC1zR25TNXBIM3VJaFFSYXlfaFEyMnBl?oc=5",
-     "date": "2026-11-16T05:44:00.000Z",
-     "text": "Sammelklage gegen Stromversorger Grüüün: Verbraucherzentrale sucht Betroffene FOCUS online",
-     "via": "FOCUS online"
-    },
-    {
      "title": "Geld zurück vom Stromanbieter: Verbraucherzentrale bereitet Großes vor - Giga",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHFRUzZxNnloNHZSLTRvem5qNFpMYXhJQUF4X0dmdXNaYWtVR3BKYkctZm80bDRIdmhiUTh5ZjNYQkdBU0dFY1A4NmRBSGRiSGhGeGtUVGpUTTMwc1ZCajVkRTNpT3RQbDg3d1pzd1RmTkd5OUlhZVZJMXlqeHNjQTU5TVphRlVjbkc4dmZiQmVGWDNjNG1jWGFLXzZ1VHhTMU8xdUZlM051WXd6UklyTUM4UXlHLUlybjI5WnBWMXlYdw?oc=5",
      "date": "2026-11-16T14:58:53.000Z",
      "text": "Geld zurück vom Stromanbieter: Verbraucherzentrale bereitet Großes vor Giga",
      "via": "Giga"
+    },
+    {
+     "title": "Sammelklage gegen Stromversorger Grüüün: Verbraucherzentrale sucht Betroffene - FOCUS online",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLVd0SDdpNlREYTV2Q3JjVnlMbzFhVE5pSnRGV0hvVjVJR05FbW9EMWFEdWxkcUl2NWtXRWhrUXZnR3lPbmtDTmQtWDdVakkzbVBHeU8yQWlhbHk1eGtSX0YtQ1JuX1VMSnV2NE9CbGVOZllGNVJNaWNsQWR4RDRGdUFWd0VCLVRFMUV2UFVCME45aXlPSG01ZVVJTjBjRWs0WXoxcGotN2NwZFM3UEZaWC01enZHX3c2OWtBOEVJMTVFSTd2RDh4UDduX2tSMmJuNC1zR25TNXBIM3VJaFFSYXlfaFEyMnBl?oc=5",
+     "date": "2026-11-16T05:44:00.000Z",
+     "text": "Sammelklage gegen Stromversorger Grüüün: Verbraucherzentrale sucht Betroffene FOCUS online",
+     "via": "FOCUS online"
     },
     {
      "title": "Nicht nur Strom und Gas: Auch Heizen mit Fernwärme wird für viele deutlich teurer - T-Online",
@@ -272,18 +322,18 @@
      "via": "Stuttgarter Nachrichten"
     },
     {
-     "title": "Fernwärme muss bezahlbar bleiben – Verbraucherzentrale Niedersachsen kritisiert Preissteigerungen bei enercity - Celler Presse",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTVFHWGJRYzZiVFVHMVJVNUo3bWNoNjFuVzdQSHc0S3ctQk9WTWotMktESHU4X2d0VktxVEZSRjJQMXV0aEsyM3lGV2pHb1B4NEVqb1U5Z0xTQW9mLVpnWm1aMU1xSzlUcTVUMFdWZ0kxaTNaZUZsQUwyeVh2MDA2eFdtT2lDWGNiZWkxSTdOSTRYazFoMzV4b0ZwMy1EMGsySVRTRUVmdG1WNWwxTURSYXdJX1Zha19DRmxZTjhVTWZVcXJ3bVF5NU9KUDVmNnRQS2lWcGJhUVMtSVQ2OThj?oc=5",
-     "date": "2026-11-16T08:59:00.000Z",
-     "text": "Fernwärme muss bezahlbar bleiben – Verbraucherzentrale Niedersachsen kritisiert Preissteigerungen bei enercity Celler Presse",
-     "via": "Celler Presse"
-    },
-    {
      "title": "Zoff um Tee: Die \"Mogelpackung des Monats\" gibt es bei Edeka - Watson.de",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVlVDQ040Ml9RNjgwOFoyOEhSOTA1NnlSUzF5cjBaLXdKXzVjUjFMWHJXRTFXS0dQYzNFQlh0MnpfVnI2VlhzbmFzUlVKaFJzQjJBZkxBSXJZZFJnUnFuWTZEcG5WMXA2OU81eUp4LVJmdXdJVEViZkhxaXlLVkFNbEZrS0FRVkFjejZNVWs3UFNPWW5BNm03SHdiTUFDU0pSdTQtN3dlMGZOaFN5ZGprV2RPRQ?oc=5",
      "date": "2026-11-17T09:41:00.000Z",
      "text": "Zoff um Tee: Die \"Mogelpackung des Monats\" gibt es bei Edeka Watson.de",
      "via": "Watson.de"
+    },
+    {
+     "title": "Fernwärme muss bezahlbar bleiben – Verbraucherzentrale Niedersachsen kritisiert Preissteigerungen bei enercity - Uelzener Presse",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeGJDbFZhVW01QVVYUUNwc0VQd0VBdGJfLXE1Mm5ZNkxKN012b2NsYm8wV2hncmRIbDlhTkducnZPbkZYRVktWlJocS0zazVFWG1remlJODJXR1g5ZmpzOFJ4VzVGMk9mdEpMdXFaYWtJV2xzVGlabF9uSFplTzBDQnQ4S0tyQ2FMSGl4MWtsRC16SmtJWHdfY0tST3RZN2VMY29pWjB5dW9acTBzTUdMcnJRd2tQQlZjWUNMTW0wbkNPU2o2QjBPM0gwRld5TGxISjBMMEFfTm5KOGFIUWlBSFpB?oc=5",
+     "date": "2026-11-16T08:59:00.000Z",
+     "text": "Fernwärme muss bezahlbar bleiben – Verbraucherzentrale Niedersachsen kritisiert Preissteigerungen bei enercity Uelzener Presse",
+     "via": "Uelzener Presse"
     },
     {
      "title": "Fertiggerichte im Check: Dieses Essen kostet 180 Prozent weniger, wenn ihr es selbst macht - Business Insider Deutschland",
@@ -349,17 +399,17 @@
      "via": "STERN.de"
     },
     {
-     "title": "Verbraucherzentrale rät: Diese zwei Fertiggerichte aus dem Supermarkt unbedingt selber machen - DerWesten",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3JmTnhJWlc4S2ZWUUpYRkVxR1RUMTQyVUp4M1djaG0xWmlMSjIzVWJtV201UFB3eXV5djVxNVZBUkY1VmZhNG1jbGwyb3BJSUkySTkxbTNXS0JtaFJ4d3puYVVRWTRIRExWc2h6dFpLeXRqeEtJdS0tb2NlMEpxbjFpYklQNDhqRlYwR1cwOXBrczlVNGMxUmd3R3E4Q295MzBFczc4bnZXWjVjN2ZCUmRVamRmVHY0MFkw?oc=5",
-     "date": "2026-11-15T13:38:53.000Z",
-     "text": "Verbraucherzentrale rät: Diese zwei Fertiggerichte aus dem Supermarkt unbedingt selber machen DerWesten",
-     "via": "DerWesten"
-    },
-    {
      "title": "Verbraucherzentrale rät: Diese zwei Fertiggerichte von Aldi, Lidl und Co. unbedingt selber machen - DerWesten",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaThpcFd0QkFRZGJOV25DUHFDb2hxYmtLd2pOTEkwNFp0UzhOOVpXTTVQT3plT0xpd1RFSEJCaHhGWDJFN3NUSFJmTkZRNXJrcjJyVl9DZElsWXBPdDA2RmFTUmVJVy1WVllrODdhaENTTzlEa01yeGg1RTdJcjUzWkVHSGpNbVBCZnhQUDBEa1NkekdfdndTcHBFa3RrUQ?oc=5",
      "date": "2026-11-17T05:06:22.000Z",
      "text": "Verbraucherzentrale rät: Diese zwei Fertiggerichte von Aldi, Lidl und Co. unbedingt selber machen DerWesten",
+     "via": "DerWesten"
+    },
+    {
+     "title": "Verbraucherzentrale rät: Diese zwei Fertiggerichte aus dem Supermarkt unbedingt selber machen - DerWesten",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3JmTnhJWlc4S2ZWUUpYRkVxR1RUMTQyVUp4M1djaG0xWmlMSjIzVWJtV201UFB3eXV5djVxNVZBUkY1VmZhNG1jbGwyb3BJSUkySTkxbTNXS0JtaFJ4d3puYVVRWTRIRExWc2h6dFpLeXRqeEtJdS0tb2NlMEpxbjFpYklQNDhqRlYwR1cwOXBrczlVNGMxUmd3R3E4Q295MzBFczc4bnZXWjVjN2ZCUmRVamRmVHY0MFkw?oc=5",
+     "date": "2026-11-15T13:38:53.000Z",
+     "text": "Verbraucherzentrale rät: Diese zwei Fertiggerichte aus dem Supermarkt unbedingt selber machen DerWesten",
      "via": "DerWesten"
     },
     {
@@ -771,9 +821,58 @@
   },
   {
    "name": "Google News: Neue Gesetze",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "Klarna und PayPal: Was sich ab Freitag für Kunden ändert - Teltarif",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEFWTi0xSFA0UGxoUWxHc0VfVWNUVWNmRWE5djluams4OTNITVk3enJrMDI2eFIxV3FLNUR0YzVGT0o3S05sNVhDYU9lLVczcUxqOFhXTmI4a01WRlplaDg3aWw3TG55TXZMWDQ2Z2xMNHk4M2lOc3V2UXl4Z3RkTWlaZklFVXJDSHNlSkhMeVM2VVc4UFlWV3Vtaw?oc=5",
+     "date": "2026-11-17T16:50:00.000Z",
+     "text": "Klarna und PayPal: Was sich ab Freitag für Kunden ändert Teltarif",
+     "via": "Teltarif"
+    },
+    {
+     "title": "Abofallen, Lootboxen, Dark Patterns: EU plant neues Verbraucherschutzgesetz - heise online",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWm1ocXdZTmlvYVB0V1dLOTA3TFQydEdLVjctZFdXS251NG1UY2xjRFFmNXVGTHo1VWxpcVZzU1R0WlFpTG1LWGRqRWpUWHZFUHc4VW5vSkxpZ0NEOHN5ZzJqUWJyZ0JwREpFWDAxV1RfVDJ6OXBTdFpZdkMyX2RDUTFBT0RTMFRKcFJpWV82eUJjX2lCMFlPcUJBOGR5eGtGMWMxQ1k5UkliOGRraWxDNzVId2NWNko0Z2FF?oc=5",
+     "date": "2026-11-17T06:00:00.000Z",
+     "text": "Abofallen, Lootboxen, Dark Patterns: EU plant neues Verbraucherschutzgesetz heise online",
+     "via": "heise online"
+    },
+    {
+     "title": "Was ist der Digital Fairness Act, die neue EU-Verordnung gegen „schmutzige“ Tricks im Onlinehandel? - Merkur",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc05hZEtqX205aVl3RktjLVcwTTQzelpoZUlJRWVUWjI2eDJXTWplZDR5RHdmQm1VSl8wNFZzZ096dUJSRU8wYWRPTVFnaGRJb2ZOSDluSWFRSlA4YVpoTzJ6ZklJT2NzM0JLRy1VWWY5MWtoWjNjdFlidzFGUlBnNnlVNDk4R1FsSGUtRGg5X2x2cUgyTzh0SnE2SXRRY2o1VElyeTZoYXNfYUxDV2lZMmxFUnk0SWp5SUpZUk1MdkVscG1GaTM3ZW5rRTJ1ajVwempTTTh5MHFVR0xZQ3Nr?oc=5",
+     "date": "2026-11-16T12:30:23.000Z",
+     "text": "Was ist der Digital Fairness Act, die neue EU-Verordnung gegen „schmutzige“ Tricks im Onlinehandel? Merkur",
+     "via": "Merkur"
+    },
+    {
+     "title": "Neues Verbraucherkreditrecht für PayPal und Klarna: Was sich ab 20. November 2026 beim Bezahlen ändert - inFranken.de",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdmpiUUFEeFBsSXNENXVrcVUwUnhiRjYzQnlRNUFzNzUycDdheXZNUnJvYUxsaDNOV0V6N1ZsRkstVjA2QWJrQW5SeDYyd0JjSDY1azRTZFRpV0szV0t6YmFsUDZ3T1NqY0pIXzctcEJqbGRwTHY3Vk9kT25DTmxZcUVRZG9ISktJMFJWd3FFd3Z6dVU3Ym1rZkhTd04tWnFFSkZsdnlwcG1kd2ZrLUNJbW5PajZUOHJ6RFoxRkxjTkp2eFZEcVE?oc=5",
+     "date": "2026-11-17T06:38:00.000Z",
+     "text": "Neues Verbraucherkreditrecht für PayPal und Klarna: Was sich ab 20. November 2026 beim Bezahlen ändert inFranken.de",
+     "via": "inFranken.de"
+    },
+    {
+     "title": "Neues Verbraucherkreditgesetz 2026: Strengere Regeln für „Buy Now, Pay Later“ und Kleinkredite - Verbraucherrecht",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmRfTTFrYjlSOWZEQTJBRkFsV2k3YXRmODctSW9iVVd3MjBuRlFDMUk2Nk1aY3czZkVwSDBMek0wZHZ5Rm14SVQ0QnpPRmJVV19ITjQzbDB6U2RDcHVYa2MtTmt6WmY2NGNmTnZqenEyWWwzQXlzQlhzbDFISldJU2pGN0dBbTZaczE5cmlKZzM3dmxSa042dmxPQWRsazQ1QnZ0TEtLcl9heFllZnE3ZXIyWVB6NmhZRDYwTDllemx5MDQ?oc=5",
+     "date": "2026-11-17T12:00:00.000Z",
+     "text": "Neues Verbraucherkreditgesetz 2026: Strengere Regeln für „Buy Now, Pay Later“ und Kleinkredite Verbraucherrecht",
+     "via": "Verbraucherrecht"
+    },
+    {
+     "title": "Entwicklung effektiver Kommunikationsstrategien, um Verbrauchern das Gesetz zu erklären und sie zu befähigen, ihre Rechte proaktiv zu schützen. - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeTBxbGJKSDZPR08tc1VjdnpXa0I2TDllX3V3S2JUaDdwZjUwNU5RRXZtTzhQeW9wckNRMzA1SVZPYlRTWW9YemxlSjAwRDFGeC10OER6WmE0OTBDRlR0WTFCSEFyZmJQblgyejBlVHZXRVprYU5CbnJCS0pqOGYtMWpQSVlEcnJ1YW1IaFU4eldHVjJnOHJxSm1hNzVxR3RlV29GWA?oc=5",
+     "date": "2026-11-17T08:07:45.000Z",
+     "text": "Entwicklung effektiver Kommunikationsstrategien, um Verbrauchern das Gesetz zu erklären und sie zu befähigen, ihre Rechte proaktiv zu schützen. Vietnam.vn",
+     "via": "Vietnam.vn"
+    },
+    {
+     "title": "„Buy now, pay later”: Wann Ratenkäufe zur Schuldenfalle werden - Merkur",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTktLaWVEU3puRlZwRTVZWHFKVFhheTJxQUo2ZzlscWx6Q1JrTHhtU1BPaHhOUDhJVHJCQkFZY0dfd0pNM2Jxd0o5TWZ2WjF3OHNyeFplZkw2dWNSZDYzVFZBVTlYeTR2UXRDcnFpZU5YSkxtUVM0VWpXYk44WEt1MUs1blNaMHhkcHNZaFpRc1lOMTI5eU9uY0hZS1VzRklsUENzTXRwRko1S0dVNkFN?oc=5",
+     "date": "2026-11-17T08:28:01.000Z",
+     "text": "„Buy now, pay later”: Wann Ratenkäufe zur Schuldenfalle werden Merkur",
+     "via": "Merkur"
+    }
+   ]
   },
   {
    "name": "tagesschau Inland",
