@@ -1,107 +1,113 @@
 {
- "date": "2026-11-18",
- "intro": "Gute Nachricht für die Konjunktur: Die EU-Kommission traut Deutschland deutlich mehr Wachstum zu. Am Aktienmarkt sorgt dagegen ein Datenleck bei der Deutschen Bank für Unruhe, und am Arbeitsmarkt bleibt die Lage trotz Erholung schwierig.",
+ "date": "2026-11-19",
+ "intro": "Die Koalition hat sich auf billigeren Strom und einen Spritpreisdeckel geeinigt, die Börse hat dagegen mit dem DAX-Rückgang unter 26.000 Punkte Gewinne abgegeben. Dazu kommen der Rekord-Börsengang von Anthropic und eine deutlich angehobene Wachstumsprognose für Deutschland.",
  "top": [
   {
-   "title": "EU-Kommission hebt Prognose für Deutschland stark an",
-   "text": "Die EU-Kommission rechnet für Deutschland in diesem Jahr mit 1,3 % Wachstum, mehr als doppelt so viel wie im Frühjahr erwartet. Grund sind kräftig steigende Exporte. Die Inflation (der Anstieg der Preise) dürfte aber hartnäckig bleiben. Für Beschäftigte und Firmen heißt das: Die Wirtschaft erholt sich, die Preise entspannen sich aber nicht so schnell.",
+   "title": "Koalition senkt Stromsteuer und deckelt Spritpreise",
+   "text": "Union und SPD haben sich im Koalitionsausschuss geeinigt: Ab Januar soll die Stromsteuer für ein Jahr auf das in der EU erlaubte Mindestmaß sinken. Zusätzlich kommt ein zeitlich befristeter Spritpreisdeckel, also eine Obergrenze für den Preis an der Zapfsäule. Für Haushalte und Firmen bedeutet das niedrigere Energiekosten. Der Unionsfraktionschef warnt zugleich vor einer Lücke von 25 Milliarden Euro im Haushalt 2028.",
+   "url": "https://www.tagesschau.de/inland/innenpolitik/was-bringt-stromsteuer-senkung-koalitionsausschuss-100.html",
    "source": "tagesschau Wirtschaft",
-   "category": "Konjunktur",
-   "url": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-kommission-wachstumsprognose-deutschland-100.html"
+   "category": "Energie"
   },
   {
-   "title": "Datenleck belastet Deutsche Bank",
-   "text": "Dem Spiegel und Partnermedien wurden mehr als 15 Millionen interne Dateien der Deutschen Bank zugespielt. Die Aktie fiel nach den ersten Berichten deutlich. Laut Spiegel zeigen die Unterlagen unter anderem, dass die Bank mehr Zahlungen für Jeffrey Epstein abgewickelt hat als bisher bekannt. Der Aufsichtsratschef stellt sich hinter Vorstandschef Christian Sewing.",
-   "source": "Spiegel Wirtschaft",
-   "category": "Unternehmen",
-   "url": "https://www.spiegel.de/wirtschaft/deutsche-bank-aktienkurs-bricht-nach-datenleak-ein-a-0f7a4819-4fe7-4eec-babd-d480fa2741f1#ref=rss"
+   "title": "Anthropic-Börsengang bricht Weltrekord",
+   "text": "Der Claude-Anbieter Anthropic nimmt bei seinem Börsengang 81,3 Milliarden Dollar ein. Ohne zusätzlich zugeteilte Aktien lag der bisherige Rekord bei 75 Milliarden Dollar. Der Ausgabepreis von 83 Dollar je Aktie lag über der erwarteten Spanne. Es ist das erste Mal, dass ein großes KI-Unternehmen an die Börse geht. Anleger bekommen damit eine neue Möglichkeit, auf KI zu setzen.",
+   "url": "https://www.handelsblatt.com/finanzen/maerkte/boersengang-anthropic-knackt-den-ipo-rekord-von-spacex/100270370.html",
+   "source": "Handelsblatt",
+   "category": "Börse & Märkte"
   },
   {
-   "title": "Konjunkturerholung heilt Jobkrise noch nicht",
-   "text": "Aus der Industrie kommen vorsichtige Zeichen der Zuversicht. Trotzdem könnte der Stellenabbau laut Experten zunächst weitergehen. Ein Schub für den Arbeitsmarkt lässt also auf sich warten. Wer um seinen Job fürchtet, sollte sich daher nicht allein auf die bessere Konjunktur verlassen.",
-   "source": "tagesschau Wirtschaft",
-   "category": "Arbeit & Soziales",
-   "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/industrie-aufschwung-jobabbau-100.html"
+   "title": "EU-Kommission hebt Wachstumsprognose für Deutschland an",
+   "text": "Die EU-Kommission rechnet laut Medienberichten für Deutschland mit deutlich mehr Wirtschaftswachstum als zuvor; sie verdoppelt ihre Prognose. Andere Meldungen nennen für 2026 ein Plus von 1,3 Prozent und zugleich steigende Inflation. Für Beschäftigte und Firmen ist das ein Hoffnungssignal, die Preise bleiben aber ein Thema.",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOEFKcXZsOGNHMWVvemRnVnRydTM0U0l4Tm1nMjdPRUczVHplNDJLeElYb1FhNVhfb29ZWFNpRXZYQ0lvV1dIQ1FZSEgyQkN3TEdSdk5LZjdRR1RWX0pVXzM5emlGVmFGZzVMajFxeFI4WDhqejJwME1kemc4b0ZldmpfbkYzZWRNSXk4LUQ4Tmlfenk5NHZ1Y2RFeG95Q0FnS25qRkdnbmltX2VIbHBkblg1UDdYSVZ3amV0cFBRdmljXzdrMEM4ZmlFV0hhUQ?oc=5",
+   "source": "Handelsblatt",
+   "category": "Konjunktur"
   }
  ],
  "entries": [
   {
-   "title": "EU gibt grünes Licht für UniCredit bei der Commerzbank",
-   "summary": "Die Kommission sieht keine wettbewerbsrechtlichen Bedenken gegen die Übernahme. Die umstrittene Fusion rückt damit näher.",
+   "title": "Commerzbank: Bund und UniCredit einigen sich",
+   "summary": "Die Bundesregierung gibt ihren Widerstand gegen die Übernahme der Commerzbank durch die italienische UniCredit auf. EU und US-Notenbank haben den Deal bereits gebilligt.",
+   "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
    "source": "tagesschau Wirtschaft",
-   "category": "Unternehmen",
-   "url": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"
+   "category": "Unternehmen"
   },
   {
-   "title": "Altersvorsorgedepot startet zum Jahreswechsel",
-   "summary": "Das staatlich geförderte Depot bietet über Zulagen einen Anreiz, fürs Alter am Kapitalmarkt zu sparen. Offen ist, ob es die Sparer überzeugt.",
+   "title": "DAX fällt unter 26.000 Punkte",
+   "summary": "Das Rekordhoch der Vorwoche ist wieder weg: Der Leitindex schließt mit deutlichem Minus unter der Marke von 26.000 Punkten.",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
    "source": "tagesschau Wirtschaft",
-   "category": "Arbeit & Soziales",
-   "tipp": "Vor dem Start die Bedingungen der Anbieter vergleichen, bevor man sich festlegt.",
-   "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-rente-aktienmarkt-sparplan-100.html"
+   "category": "Börse & Märkte"
   },
   {
-   "title": "Bundesregierung will Pablo Hernández de Cos als EZB-Chef",
-   "summary": "Nach Spiegel-Informationen bevorzugt Berlin den Spanier als Nachfolger von Christine Lagarde. Als Chefvolkswirt soll der Deutsche Markus Brunnermeier ins Rennen gehen.",
-   "source": "Spiegel Wirtschaft",
-   "category": "Zinsen & Geldpolitik",
-   "url": "https://www.spiegel.de/wirtschaft/ezb-deutschland-favorisiert-pablo-hernandez-de-cos-fuer-lagarde-nachfolge-a-8d14de67-7e02-4b43-91ae-c41db8571dc2#ref=rss"
+   "title": "Brunnermeier als EZB-Chefvolkswirt nominiert",
+   "summary": "Die Bundesregierung schlägt den Ökonomen Markus Brunnermeier für den Posten des Chefvolkswirts der Europäischen Zentralbank vor. Er würde die Zinspolitik mitprägen.",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html",
+   "source": "tagesschau Wirtschaft",
+   "category": "Zinsen & Geldpolitik"
   },
   {
-   "title": "China und Kanada umgehen US-Zölle",
-   "summary": "Beide Länder senken Zölle etwa auf Lebensmittel und Stahl, um ihre Zusammenarbeit zu vertiefen. Es geht auch darum, die US-Zollpolitik zu unterlaufen.",
-   "source": "Spiegel Wirtschaft",
-   "category": "Politik & Handel",
-   "url": "https://www.spiegel.de/wirtschaft/kanada-und-china-unterlaufen-trumps-zollpolitik-mit-zollerleichterungen-a-3eeca7f4-6869-4bce-a9e0-58a8a9f5c309#ref=rss"
+   "title": "Inflationssorgen sind zurück",
+   "summary": "Im tagesschau-Bericht geht es um den Ausblick auf 2027 und die Frage, ob die Zentralbanken wieder an der Zinsschraube drehen müssen. Auch Gold gibt nach: Es ist so billig wie seit 14 Monaten nicht, weil in den USA Maßnahmen gegen die hohe Inflation erwartet werden.",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
+   "source": "tagesschau Wirtschaft",
+   "category": "Zinsen & Geldpolitik"
   },
   {
-   "title": "Lufthansa und Piloten finden keinen Frieden",
-   "summary": "Trotz Schlichtung und Mediation gibt es keine Einigung. Lufthansa legt ein neues Angebot vor, die Vereinigung Cockpit kontert.",
-   "source": "FAZ Wirtschaft",
-   "category": "Arbeit & Soziales",
-   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lufthansa-und-vereinigung-cockpit-neuer-streit-nach-gescheiterter-mediation-201690761.html"
-  },
-  {
-   "title": "Neue US-Regeln für KI-Chips treffen Asien",
-   "summary": "Die USA haben die Ausfuhrregeln für Nvidia-Chips verschärft. Asien droht laut FAZ ein kalter Entzug bei den begehrten Prozessoren.",
-   "source": "FAZ Wirtschaft",
-   "category": "Politik & Handel",
-   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chips-und-china-asien-droht-der-kalte-entzug-201689910.html"
-  },
-  {
-   "title": "Koalition ringt um die Stromsteuer",
-   "summary": "Die Spitzen von Union und SPD verhandelten bis weit nach Mitternacht im Kanzleramt. Das Ergebnis bleibt zunächst unter Verschluss.",
+   "title": "IG Metall: erste ganztägige Warnstreiks seit über acht Jahren",
+   "summary": "Im Tarifkonflikt der Metallindustrie greift die Gewerkschaft zur seltenen „Phase Gelb“: ganze Tage statt weniger Stunden Arbeitsniederlegung. Betroffen sind auch Betriebe in Norddeutschland.",
+   "url": "https://www.handelsblatt.com/politik/deutschland/metall-tarifkonflikt-eskaliert-ganztaegige-warnstreiks-selten-genutzte-phase-gelb/100271107.html",
    "source": "Handelsblatt",
-   "category": "Energie",
-   "url": "https://www.handelsblatt.com/politik/deutschland/spitzentreffen-im-kanzleramt-koalitionsspitzen-verhandeln-bis-tief-in-die-nacht/100270780.html"
+   "category": "Arbeit & Soziales"
   },
   {
-   "title": "EU will Stromnetze schneller ausbauen",
-   "summary": "Bis 2040 müssen laut EU-Kommission mehr als eine Billion Euro in Europas Netze fließen. Bürokratie soll den Ausbau künftig weniger bremsen.",
-   "source": "Handelsblatt",
-   "category": "Energie",
-   "url": "https://www.handelsblatt.com/politik/deutschland/energie-eu-einigung-europas-stromnetze-sollen-schneller-wachsen/100270765.html"
-  },
-  {
-   "title": "Nvidia verdoppelt erneut Umsatz und Gewinn",
-   "summary": "Der Chipkonzern legt starke Zahlen vor. Eine Rückkehr von Ex-Chef Jensen Huang plant Nvidia nicht.",
-   "source": "Handelsblatt",
-   "category": "Börse & Märkte",
-   "url": "https://www.handelsblatt.com/technik/it-internet/chip-konzern-nvidia-verdoppelt-erneut-umsatz-und-gewinn-keine-plaene-fuer-rueckkehr-huangs/100268998.html"
-  },
-  {
-   "title": "Discounter Mäc-Geiz schließt rund 60 Filialen",
-   "summary": "Nur 123 Standorte und 850 Arbeitsplätze sollen erhalten bleiben.",
+   "title": "Kabinett will Jobs leichter befristen",
+   "summary": "Die Bundesregierung will befristete Arbeitsverträge erleichtern und den Kündigungsschutz für Hochverdiener lockern. Der Kabinettsentwurf liegt vor.",
+   "url": "https://nius.de/politik/kabinett-beschliesst-entwurf-fuer-befristete-jobs-von-bis-zu-vier-jahren",
    "source": "NIUS",
-   "category": "Unternehmen",
-   "url": "https://nius.de/wirtschaft/insolvenz-bei-maec-geiz-discounter-schliesst-rund-60-filialen"
+   "category": "Arbeit & Soziales"
   },
   {
-   "title": "Elterngeld-Reform: Familien drohen Einbußen",
-   "summary": "Laut ZEW verlieren Mütter mit kleinen und mittleren Einkommen im Schnitt 29 %. Väter müssten länger pausieren.",
-   "source": "NIUS",
-   "category": "Arbeit & Soziales",
-   "url": "https://nius.de/politik/elterngeld-reform-zew-studie"
+   "title": "Deutsche Bank: Datenleck belastet Aktie",
+   "summary": "Ein Datenleck mit mehr als 15 Millionen internen Dokumenten soll an Journalisten gelangt sein. Die Aktie der Deutschen Bank fällt deutlich, Sicherheitspolitiker befassen sich mit dem Fall.",
+   "url": "https://www.handelsblatt.com/politik/deutschland/deutsche-bank-datenleck-soll-fall-fuer-nationalen-sicherheitsrat-werden/100270853.html",
+   "source": "Handelsblatt",
+   "category": "Unternehmen"
+  },
+  {
+   "title": "Baugenehmigungen brechen im September ein",
+   "summary": "Nach mehr als einem Jahr mit steigenden Zahlen gibt es erstmals wieder einen deutlichen Rückgang bei genehmigten Wohnungen. Bauen wird zugleich weiter teurer.",
+   "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/baugenehmigungen-in-deutschland-brechen-im-september-ein-201694683.html",
+   "source": "FAZ Wirtschaft",
+   "category": "Konjunktur"
+  },
+  {
+   "title": "Mittelstand: Moderate Erholung",
+   "summary": "Der Datev-Mittelstandsindex zeigt beim Umsatztrend wieder nach oben. Kleine und mittlere Firmen können etwas Hoffnung schöpfen.",
+   "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/datev-mittelstandsindex-moderate-erholung-aber-keine-entwarnung-201692647.html",
+   "source": "FAZ Wirtschaft",
+   "category": "Konjunktur"
+  },
+  {
+   "title": "Cyberangriff auf Gaslieferanten Equinor",
+   "summary": "Der größte Gasversorger Europas, wichtigster Lieferant Deutschlands, ist Ziel von Cyberkriminellen geworden. Die FAZ ordnet das als Teil hybrider Kriegsführung ein.",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cyberangriff-auf-equinor-deutschlands-wichtigster-gaslieferant-im-visier-201694711.html",
+   "source": "FAZ Wirtschaft",
+   "category": "Energie"
+  },
+  {
+   "title": "GLS und DPD wollen gemeinsame Firma gründen",
+   "summary": "Die beiden Paketdienste arbeiten schon länger zusammen und planen nun ein gemeinsames Unternehmen, um gegen Marktführer DHL anzutreten.",
+   "url": "https://www.spiegel.de/wirtschaft/unternehmen/gls-und-dpd-paket-unternehmen-schliessen-sich-zusammen-um-dhl-anzugreifen-a-af779ac8-0115-4712-a758-00cc4328421c#ref=rss",
+   "source": "Spiegel Wirtschaft",
+   "category": "Unternehmen"
+  },
+  {
+   "title": "Start-ups sammeln fast doppelt so viel Wagniskapital ein",
+   "summary": "Deutsche Start-ups erhalten 2026 voraussichtlich fast doppelt so viel Wagniskapital wie 2025. Nur wenige Branchen profitieren.",
+   "url": "https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr-a-e7e22229-79e0-4c57-a10e-151671b48e53#ref=rss",
+   "source": "Spiegel Wirtschaft",
+   "category": "Unternehmen"
   }
  ]
 }
