@@ -1,11 +1,17 @@
 {
- "fetched": "2026-11-19T02:30:27.698Z",
+ "fetched": "2026-11-19T03:52:32.298Z",
  "hours": 48,
  "sources": [
   {
    "name": "tagesschau Wirtschaft",
    "ok": true,
    "items": [
+    {
+     "title": "Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar je Aktie",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
+     "date": "2026-11-19T03:14:09.000Z",
+     "text": "Zum ersten Mal geht mit Anthropic ein maßgebliches KI-Unternehmen an den Markt. Der Börsengang könnte der größte der Welt werden - und sogar den bisherigen Rekord von Elon Musk mit SpaceX hinter sich lassen. Von G. Ucar."
+    },
     {
      "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
@@ -41,12 +47,6 @@
      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
      "date": "2026-11-17T18:03:42.000Z",
      "text": "Der wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurückgetretene Chef des US-Chipkonzerns Nvidia hat gravierende Fehler eingeräumt. Doch sollte der Vorstand das wünschen, würde er gerne an die Unternehmensspitze zurückkehren."
-    },
-    {
-     "title": "Nach Huang-Affäre: Bald alles neu in der KI-Chipindustrie?",
-     "url": "https://www.tagesschau.de/wirtschaft/digitales/ki-chipindustrie-nvidia-100.html",
-     "date": "2026-11-17T03:16:17.000Z",
-     "text": "Konkurrenten wie AMD oder Qualcomm reiben sich nach dem Abgang von Huang als CEO bei Nvidia schon die Hände. Was ist dran am möglichen Umbruch der Chip-Branche - und wie viel hat er tatsächlich mit dem Abtritt Huangs zu tun? Von R. Spiegelhauer."
     },
     {
      "title": "US-Regierung verhängt neue Exportbeschränkungen für KI-Chips",
@@ -301,10 +301,10 @@
      "text": "Doppelter Ertrag ist laut einem Fachmann nicht der einzige Vorteil des Riesen-Windrads. Am Donnerstag soll es in Betrieb gehen."
     },
     {
-     "title": "Business-Ticker: US-Behörden: Russe spähte Rüstungsfirma im Silicon Valley aus",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-us-behoerden-russe-spaehte-ruestungsfirma-im-silicon-valley-aus-faz-200452404.html",
-     "date": "2026-11-18T21:09:17.000Z",
-     "text": "Ein Russe soll Mitarbeiter eines US-Rüstungsunternehmens überwacht haben – es ist von einer Verfolgung die Rede +++ Bundesregierung unterstützt wohl Spaniens EZB-Kandidaten +++ alle Neuigkeiten im Unternehmen-Liveblog"
+     "title": "Business-Ticker: Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bundesregierung-und-unicredit-einigen-sich-bei-commerzbank-uebernahme-faz-200452404.html",
+     "date": "2026-11-19T03:30:00.000Z",
+     "text": "Bundesregierung gibt Widerstand gegen die Übernahme auf +++ US-Behörden: Russe spähte Rüstungsfirma im Silicon Valley aus +++ alle Neuigkeiten im Unternehmen-Liveblog"
     },
     {
      "title": "im Feierabendverkehr: Störung am Nürnberger Hauptbahnhof behoben",
@@ -433,6 +433,96 @@
    "ok": true,
    "items": [
     {
+     "title": "Energiepolitik: Industrie: Energiereformen nicht „verwässern“",
+     "url": "https://www.handelsblatt.com/politik/deutschland/energiepolitik-industrie-energiereformen-nicht-verwaessern/100271120.html",
+     "date": "2026-11-19T03:30:18.000Z",
+     "text": "Zentrale Reformen in der Energiepolitik sind noch immer nicht unter Dach und Fach. Die Industrie warnt die Koalition davor, das Ziel aus den Augen zu verlieren."
+    },
+    {
+     "title": "Weltpolitik: Vor Dreiergipfel: Xi wirbt bei Apec für mehr Zusammenarbeit",
+     "url": "https://www.handelsblatt.com/politik/international/weltpolitik-vor-dreiergipfel-xi-wirbt-bei-apec-fuer-mehr-zusammenarbeit/100271097.html",
+     "date": "2026-11-19T03:29:05.000Z",
+     "text": "Erst die Beratungen der Pazifikstaaten, dann das historische Treffen mit US-Präsident Trump und Kremlchef Putin: In Shenzhen fordert Chinas Staatschef mehr Zusammenarbeit und freien Handel."
+    },
+    {
+     "title": "Anthropic: Jeder Mitarbeiter erhält im Schnitt 72 Millionen Dollar: Fünf kuriose Fakten zum Rekord-Börsengang",
+     "url": "https://www.handelsblatt.com/finanzen/anthropic-fuenf-kuriose-fakten-zum-rekord-boersengang/100270457.html",
+     "date": "2026-11-19T03:24:28.000Z",
+     "text": "Es ist ein Debüt der Superlative, mit dem der Claude-Anbieter zur wichtigsten KI-Aktie der Welt wird. Tausende Mitarbeiter werden zu Multimillionären, die Gründer halten an ihrer Macht fest."
+    },
+    {
+     "title": "Nach Midterms-Klatsche: Musk zu Riesen-Wahlkampfspenden: „Komme mir dumm vor“",
+     "url": "https://www.handelsblatt.com/politik/international/nach-midterms-klatsche-musk-zu-riesen-wahlkampfspenden-komme-mir-dumm-vor/100271118.html",
+     "date": "2026-11-19T03:17:12.000Z",
+     "text": "Tech-Milliardär Elon Musk musste feststellen, dass auch Mega-Wahlkampfspenden machtlos gegen den Willen der Wähler waren. Jetzt schlägt er freundlichere Töne gegenüber den siegreichen Demokraten an."
+    },
+    {
+     "title": "Tech-Milliardär: Musk – Habe Ukraine geholfen wie kein anderer",
+     "url": "https://www.handelsblatt.com/politik/international/tech-milliardaer-musk-habe-ukraine-geholfen-wie-kein-anderer/100271103.html",
+     "date": "2026-11-19T03:08:45.000Z",
+     "text": "Zum russischen Angriffskrieg gebe es oft die Einstellung „Ukraine gut, Russland böse“. Man müsse aber auch Mitleid mit den russischen Soldaten haben, sagt er in einem Interview."
+    },
+    {
+     "title": "Zentralasien: In Kasachstans Hauptstadt regnete es Dollarnoten in Millionenhöhe",
+     "url": "https://www.handelsblatt.com/politik/international/asien-in-kasachstans-hauptstadt-regnete-es-dollarnoten-in-millionenhoehe/100270597.html",
+     "date": "2026-11-19T03:02:35.000Z",
+     "text": "In dem zentralasiatischen Land wurden zwei der mächtigsten Manager verhaftet. Der Fall wirft ein Schlaglicht auf Missstände in der Elite Kasachstans."
+    },
+    {
+     "title": "Gastkommentar – Global Challenges: Die US-Demokraten sind gespalten – das ist eine Chance für Europa",
+     "url": "https://www.handelsblatt.com/meinung/global-challenges/gastkommentar-global-challenges-die-us-demokraten-sind-gespalten-das-ist-eine-chance-fuer-europa/100270327.html",
+     "date": "2026-11-19T03:02:10.000Z",
+     "text": "Die Partei teilt sich in vier Lager, die nun um Kurs und Macht in Washington ringen. Tyson Barker vom Atlantic Council erklärt, wo die Bruchlinien verlaufen und was das für die EU bedeutet."
+    },
+    {
+     "title": "Sicherheit: Datenleck bei der Deutschen Bank soll Fall für Nationalen Sicherheitsrat werden",
+     "url": "https://www.handelsblatt.com/politik/deutschland/deutsche-bank-datenleck-soll-fall-fuer-nationalen-sicherheitsrat-werden/100270853.html",
+     "date": "2026-11-19T03:01:44.000Z",
+     "text": "Mehr als 15 Millionen interne Dokumente sollen an Journalisten gelangt sein, darunter sensible Daten zu Tarnkonten. Sicherheitspolitiker sehen mögliche Gefahren für verdeckte Ermittler."
+    },
+    {
+     "title": "Künstliche Intelligenz: Wie KI Tausende mögliche Schwachstellen in Fritzbox-Routern findet",
+     "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-wie-ki-tausende-moegliche-schwachstellen-in-fritzbox-routern-findet/100268502.html",
+     "date": "2026-11-19T03:01:05.000Z",
+     "text": "In 25 Millionen Wohnzimmern in Europa sorgen Fritzbox-Router für Internetempfang. Mit KI macht der Hersteller die Geräte nun widerstandsfähiger gegen Angriffe – aber es gibt ein Problem."
+    },
+    {
+     "title": "Jugendproteste: Analyse: Investitionen in junge Menschen zahlen sich aus",
+     "url": "https://www.handelsblatt.com/politik/deutschland/jugendproteste-analyse-investitionen-in-junge-menschen-zahlen-sich-aus/100271112.html",
+     "date": "2026-11-19T03:00:38.000Z",
+     "text": "Am Freitag wollen junge Menschen erneut demonstrieren. Viele sehen ihre Anliegen vom Staat nicht ernst genommen. Dabei rechnen sich Investitionen in junge Menschen laut einer Auswertung besonders."
+    },
+    {
+     "title": "Hype um Videospiel: GTA 6 lässt den Internet-Datenverkehr anschwellen",
+     "url": "https://www.handelsblatt.com/technik/it-internet/hype-um-videospiel-gta-6-laesst-den-internet-datenverkehr-anschwellen/100271110.html",
+     "date": "2026-11-19T03:00:09.000Z",
+     "text": "Schon vor dem offiziellen Start von GTA 6 stieg der Datendurchsatz bei DE-CIX deutlich. Wie stark der Spiele-Launch den Frankfurter Internetknoten heute noch fordern könnte."
+    },
+    {
+     "title": "Spiel und Sucht: Lancet-Kommission fordert Regeln gegen digitale Suchtfallen",
+     "url": "https://www.handelsblatt.com/technik/forschung-innovation/spiel-und-sucht-lancet-kommission-fordert-regeln-gegen-digitale-suchtfallen/100271111.html",
+     "date": "2026-11-19T03:00:06.000Z",
+     "text": "Endloses Scrollen, automatisch startende Videos: Digitale Plattformen sind so gestaltet, dass Nutzer möglichst lange online bleiben. Eine Kommission fordert, etwas gegen das Suchtpotenzial zu tun."
+    },
+    {
+     "title": "„Grand Theft Auto VI“: Hype der Popkultur? Warum so viele Menschen auf GTA 6 warten",
+     "url": "https://www.handelsblatt.com/technik/it-internet/grand-theft-auto-vi-hype-der-popkultur-warum-so-viele-menschen-auf-gta-6-warten/100271113.html",
+     "date": "2026-11-19T03:00:04.000Z",
+     "text": "GTA 6 ist nicht nur in der Produktion das wohl teuerste Videospiel aller Zeiten – es ist auch ein gigantischer Popkultur-Moment. Woher kommt der Hype?"
+    },
+    {
+     "title": "Koalition der Willigen: Was hinter dem Ukraine-Gipfel bei Merz steckt",
+     "url": "https://www.handelsblatt.com/politik/international/koalition-der-willigen-was-hinter-dem-ukraine-gipfel-bei-merz-steckt/100271104.html",
+     "date": "2026-11-19T02:51:08.000Z",
+     "text": "Zwei große Gipfel an einem Tag: Kurz nach dem Dreiertreffen von Trump, Putin und Xi in Shenzhen kommen in Berlin die Verbündeten der Ukraine mit Selenskyj zusammen. Worum geht es dabei?"
+    },
+    {
+     "title": "Metall-Tarifkonflikt eskaliert: Ganztägige Warnstreiks: Selten genutzte „Phase Gelb“",
+     "url": "https://www.handelsblatt.com/politik/deutschland/metall-tarifkonflikt-eskaliert-ganztaegige-warnstreiks-selten-genutzte-phase-gelb/100271107.html",
+     "date": "2026-11-19T02:45:05.000Z",
+     "text": "Ein ganzer Tag statt weniger Stunden: Die IG Metall greift erstmals seit mehr als acht Jahren zu ganztägigen Warnstreiks. Warum dieses seltene Kampfmittel als „Phase Gelb“ gilt."
+    },
+    {
      "title": "Tech-Milliardär: Musk zeigt Mitgefühl für russische Soldaten in der Ukraine",
      "url": "https://www.handelsblatt.com/politik/international/tech-milliardaer-musk-zeigt-mitgefuehl-fuer-russische-soldaten-in-der-ukraine/100271101.html",
      "date": "2026-11-19T02:07:57.000Z",
@@ -443,12 +533,6 @@
      "url": "https://www.handelsblatt.com/politik/international/apec-gipfel-trump-daempft-erwartungen-vor-treffen-mit-xi-und-putin/100270890.html",
      "date": "2026-11-19T01:48:00.000Z",
      "text": "Trump und Putin planen bilaterales Treffen in China +++ Putin und Trump begrüßen sich mit Handschlag +++ Xi und Putin kritisieren vor Treffen mit Trump den Westen +++ Der Newsblog."
-    },
-    {
-     "title": "Atommächte: Trump dämpft Erwartungen vor Treffen mit Xi und Putin",
-     "url": "https://www.handelsblatt.com/politik/international/atommaechte-trump-daempft-erwartungen-vor-treffen-mit-xi-und-putin/100271097.html",
-     "date": "2026-11-19T01:32:01.000Z",
-     "text": "Die Staatschefs von China, den USA und Russland kommen in Shenzhen zusammen. Was könnte dabei herauskommen? Laut US-Präsident Trump ist das Wichtigste bereits passiert."
     },
     {
      "title": "Kinder im Krieg: 589 Millionen Kinder in Konfliktgebieten - neuer Höchststand",
@@ -505,10 +589,10 @@
      "text": "KI soll das Leben erleichtern und Firmen produktiver machen. Versicherer sehen die andere Seite der Medaille: Risiken, Rechtsstreitigkeiten, Schäden - von Jahr zu Jahr mehr."
     },
     {
-     "title": "Erstnotiz: Historischer IPO – Anthropic sammelt 81 Milliarden Dollar ein",
-     "url": "https://www.handelsblatt.com/finanzen/maerkte/erstnotiz-historischer-ipo-anthropic-sammelt-81-milliarden-dollar-ein/100270370.html",
+     "title": "Börsengang: Anthropic knackt den IPO-Rekord von SpaceX",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/boersengang-anthropic-knackt-den-ipo-rekord-von-spacex/100270370.html",
      "date": "2026-11-18T22:44:46.000Z",
-     "text": "Der KI-Entwickler hat seinen Ausgabepreis auf 83 Dollar je Aktie angehoben und sammelt über 81 Milliarden Dollar ein – mehr als SpaceX. Es ist der größte Börsengang aller Zeiten."
+     "text": "Der Entwickler des KI-Assistenten Claude nimmt beim Börsengang 81,3 Milliarden Dollar ein. Ohne Mehrzuteilung lag die bisherige Bestmarke bei 75 Milliarden Dollar."
     },
     {
      "title": "Künstliche Intelligenz: Medien: Anthropic-Ausgabepreis bei Börsengang bei 83 Dollar",
@@ -527,90 +611,6 @@
      "url": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-drohten-schiffen-bei-umgehung-von-iran-blockade/100136895.html",
      "date": "2026-11-18T19:04:00.000Z",
      "text": "Israelische Panzer rücken im Gazastreifen vor +++ Saudi-Arabien stellt sich offenbar auf längeren Jemen-Krieg ein +++ US-Friedensrat: Israel und Hamas verstoßen gegen Gaza-Waffenruhe +++ Der Newsblog."
-    },
-    {
-     "title": "SPD-Vorsitz: Netzwerk Berlin für Hubertus Heil als SPD-Chef",
-     "url": "https://www.handelsblatt.com/politik/deutschland/spd-vorsitz-netzwerk-berlin-fuer-hubertus-heil-als-spd-chef/100271058.html",
-     "date": "2026-11-18T19:00:24.000Z",
-     "text": "Hubertus Heil hat sich als erster aus der Deckung gewagt und erklärt, dass er den SPD-Vorsitz übernehmen will. Nun bekommt er Rückendeckung - von einer Strömung, die er einst selbst mit begründete."
-    },
-    {
-     "title": "+++ USA unter Trump +++: USA und Venezuela wollen militärisch zusammenarbeiten",
-     "url": "https://www.handelsblatt.com/politik/international/usa-usa-und-venezuela-wollen-militaerisch-zusammenarbeiten/29669594.html",
-     "date": "2026-11-18T18:53:00.000Z",
-     "text": "US-Regierungsvertreter weisen Sorgen wegen technischer Pannen zurück +++ Hakeem Jeffries wird Mehrheitsführer im Repräsentantenhaus +++ Demokraten gewinnen Senatssitz in Alaska +++ Der Newsblog."
-    },
-    {
-     "title": "+++ Ukraine-Krieg +++: Ukrainische Angriffe auf Raffinerien – Russland importiert offenbar Rekordmengen an Benzin",
-     "url": "https://www.handelsblatt.com/politik/international/ukraine-russland-importiert-offenbar-rekordmengen-an-benzin/27982126.html",
-     "date": "2026-11-18T18:49:00.000Z",
-     "text": "Russland plante blutige Provokation an Grenze zu Polen +++ Merz empfängt zum Ukraine-Gegengipfel zum Treffen Trump, Xi und Putin +++ Trump plant separates Treffen mit Putin am Donnerstag +++ Der Newsblog."
-    },
-    {
-     "title": "Geldpolitik: US-Notenbanker Waller dringt auf kräftige Zinserhöhung",
-     "url": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-us-notenbanker-waller-dringt-auf-kraeftige-zinserhoehung/100271048.html",
-     "date": "2026-11-18T17:46:33.000Z",
-     "text": "Einen Zinsschritt um 0,5 Prozentpunkte fordert der Fed-Notenbanker nicht zum ersten Mal. Er fürchtet, dass sich Firmen zu sehr an die aktuelle erhöhte Inflation gewöhnen."
-    },
-    {
-     "title": "Präsidentschaftskandidat: Istanbuls Ex-Bürgermeister Imamoglu mit Politikverbot belegt",
-     "url": "https://www.handelsblatt.com/politik/international/praesidentschaftskandidat-istanbuls-ex-buergermeister-imamoglu-mit-politikverbot-belegt/100271047.html",
-     "date": "2026-11-18T17:42:58.000Z",
-     "text": "Ekrem Imamoglu sitzt in Untersuchungshaft, bei der nächsten Wahl will er gegen Präsident Erdogan antreten. Ein neues Urteil könnte die Pläne der Opposition allerdings durchkreuzen."
-    },
-    {
-     "title": "Koalitionsausschuss: Bis zu 552 Euro für Familien: So stark werden die Steuerzahler 2027 entlastet",
-     "url": "https://www.handelsblatt.com/politik/deutschland/steuern-kompromiss-der-koalition-bringt-familien-bis-zu-552-euro-entlastung/100270934.html",
-     "date": "2026-11-18T17:32:42.000Z",
-     "text": "Union und SPD haben sich im Steuerstreit geeinigt. Berechnungen für das Handelsblatt zeigen, wie sich die Beschlüsse für Steuerzahler und Stromverbraucher auswirken."
-    },
-    {
-     "title": "Märkte Insight: Vorsicht, die Renditen steigen wieder",
-     "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-vorsicht-die-renditen-steigen-wieder/100269631.html",
-     "date": "2026-11-18T17:31:20.000Z",
-     "text": "Die Turbulenzen am Anleihemarkt sind noch nicht ausgestanden. Höhere Zinsen werden zum Dauerproblem für die Börsen, warnt Michael Maisch."
-    },
-    {
-     "title": "Rüstung: Hensoldt lässt Radare künftig bei ZF produzieren",
-     "url": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-hensoldt-laesst-radare-kuenftig-bei-zf-produzieren/100271046.html",
-     "date": "2026-11-18T17:19:47.000Z",
-     "text": "Der Rüstungskonzern nutzt den Auftragsmangel beim Autozulieferer und lässt dort „Spexer“-Radare fertigen. Den Deal unterzeichnen beide CEOs im Wirtschaftsministerium."
-    },
-    {
-     "title": "Solarpionier: Enpal-Gründer erwägen Anteilsverkauf – Kommt es bei der Solarfirma zum Machtwechsel?",
-     "url": "https://www.handelsblatt.com/unternehmen/energie/energie-enpal-gruender-erwaegen-anteilsverkauf-machtwechsel-bei-solarfirma/100268742.html",
-     "date": "2026-11-18T17:05:26.000Z",
-     "text": "Ein neuer Geldgeber könnte bald 51 Prozent an der Berliner Solarfirma halten. Für das Unternehmen geht es allerdings um mehr als nur um frisches Kapital."
-    },
-    {
-     "title": "PDF: Handelsblatt vom 19. November 2026",
-     "url": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-19.-november-2026/100271041.html",
-     "date": "2026-11-18T17:01:04.000Z",
-     "text": ""
-    },
-    {
-     "title": "Apec-Gipfel: Umarmung, Handschlag: Xi, Putin und Trump in China",
-     "url": "https://www.handelsblatt.com/politik/international/apec-gipfel-umarmung-handschlag-xi-putin-und-trump-in-china/100271013.html",
-     "date": "2026-11-18T17:00:41.000Z",
-     "text": "Das historische Treffen ist erst an diesem Donnerstag geplant: Doch US-Präsident Trump, Kremlchef Putin und Gastgeber Xi Jinping sehen sich schon davor."
-    },
-    {
-     "title": "Asia Techonomics: KI-Schummel stürzt Südkoreas Schicksalsprüfung in die Krise",
-     "url": "https://www.handelsblatt.com/meinung/kolumnen/ki-schummel-loest-krisenstimmung-bei-suedkoreas-schicksalspruefung-aus/100270847.html",
-     "date": "2026-11-18T16:54:49.000Z",
-     "text": "Am Donnerstag schreiben Südkoreas Schulabgänger einen Test, der über ihre Karriere entscheidet. Nach einem spektakulären KI-Betrug rüstet die Regierung die Kontrollen massiv auf."
-    },
-    {
-     "title": "Dax aktuell: Dax schließt im Minus – Bank-Aktie sinkt um mehr als drei Prozent",
-     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-bank-aktie-sinkt-um-mehr-als-drei-prozent/100270820.html",
-     "date": "2026-11-18T16:51:00.000Z",
-     "text": "Nach den deutlichen Verlusten vom Dienstag schwächelte der deutsche Leitindex erneut. Im Fokus standen neue Inflationsdaten und die geopolitischen Gespräche am Rande des Apec-Gipfels."
-    },
-    {
-     "title": "Handelsblatt Live: US-Börsenexperte Koch: Gute Zahlen bewegen Nvidia-Kurs kaum",
-     "url": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-gute-zahlen-bewegen-nvidia-kurs-kaum/100271036.html",
-     "date": "2026-11-18T16:44:14.000Z",
-     "text": "Der weltgrößte Chiphersteller hat am Dienstag seinen Quartalsbericht vorgelegt. Trotz übertroffener Erwartungen und einer Verdoppelung des Umsatzes kann sich die Aktie nicht von den Verlusten der vergangenen Woche erholen, berichtet Markus Koch."
     }
    ]
   },
@@ -767,11 +767,25 @@
      "via": "Berliner Zeitung"
     },
     {
+     "title": "EU-Kommission verdoppelt Wachstumsprognose für Deutschland - Lippische Landes-Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdG9XaGZPT1ppTktiUlVCVDI4NUkwUTZOaTRvYlY3NXMyeVMxMjh5NnB6dFhucmhkSklFYVp3OFVaWW1kdkdzbFhldTM1LUhJalhqQkdjU3FCTXpLcDFyZEJXR1NOa1ZGTDNReXFiR05yd0JTUWZCNWZPbEJQTkt6ZUpONTh5RzduSW5PRVd1QXF1ZndWTkZKdUlpUnhrVUw4TGZlT0l0bEpKWV8wSDlPbnlQTEJYMDA?oc=5",
+     "date": "2026-11-17T10:04:17.000Z",
+     "text": "EU-Kommission verdoppelt Wachstumsprognose für Deutschland Lippische Landes-Zeitung",
+     "via": "Lippische Landes-Zeitung"
+    },
+    {
      "title": "Deutschland auf Platz fünf bei Patenten - China führt - Wirtschaft weltweit - Pforzheimer-Zeitung - PZ-news.de",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMEl0QV9TZFBpc0UyM3c1azNEU2hPMmRwSmZ4RmJRYWtBeHFpN3o4Rm9nQU5LWUUyd01tMVFsYUFWTWluamRPNkl1b09MTmNHajhXa3p5bVNXX2plRHJIamEwNGNWS05JTWw4azNkRXRxdmpZaVFodVdSWFNvM2dZN0NhQUwtQ01ENHphZ0NhY0kwTUZWUDNBSGFmZ3J2cmVZYlZVWXp2ZFhYdkFJbXhaMDlHNGNiR0lzRTBQV2dsakt2d2N1V19FdkZKc2dTZUdB?oc=5",
      "date": "2026-11-18T13:03:00.000Z",
      "text": "Deutschland auf Platz fünf bei Patenten - China führt - Wirtschaft weltweit - Pforzheimer-Zeitung PZ-news.de",
      "via": "PZ-news.de"
+    },
+    {
+     "title": "Ganztägige Warnstreiks: Selten genutzte „Phase Gelb“ - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUEI0QWdFenNXX0dlNk1rSXJZS2RwbEQ1MHhNSjBmQmlNbzYwZDdqODRPN3lSOEhVYmdBRkt0UUtnOGNTY3B0eUFSMTZfOTJhUEJMWC1CQV9rRHNfZkp2dVJTTXlxUzFRdzdDdjFhMm9rcXQ2MTNvUC00ZTVSY2U4MWNxNHFIVi1aR2hWdUJUNmxwdi1ERDBudUE1U0FLTVhpWUFIc3Y0blRCSnNzOFYzS0oxMDVISzVBbkNiOGZ2MW03QVlf?oc=5",
+     "date": "2026-11-18T17:45:00.000Z",
+     "text": "Ganztägige Warnstreiks: Selten genutzte „Phase Gelb“ Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
     },
     {
      "title": "DIHK: Geschäft deutscher Firmen im Ausland brummt wieder - Allgemeine Zeitung",
@@ -781,13 +795,6 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "EU-Kommission verdoppelt Wachstumsprognose für Deutschland - Lippische Landes-Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdG9XaGZPT1ppTktiUlVCVDI4NUkwUTZOaTRvYlY3NXMyeVMxMjh5NnB6dFhucmhkSklFYVp3OFVaWW1kdkdzbFhldTM1LUhJalhqQkdjU3FCTXpLcDFyZEJXR1NOa1ZGTDNReXFiR05yd0JTUWZCNWZPbEJQTkt6ZUpONTh5RzduSW5PRVd1QXF1ZndWTkZKdUlpUnhrVUw4TGZlT0l0bEpKWV8wSDlPbnlQTEJYMDA?oc=5",
-     "date": "2026-11-17T10:04:17.000Z",
-     "text": "EU-Kommission verdoppelt Wachstumsprognose für Deutschland Lippische Landes-Zeitung",
-     "via": "Lippische Landes-Zeitung"
-    },
-    {
      "title": "Allianz: KI-bedingte Schäden wachsen rasant - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWHI4RkppdTRGOU16aUgxZFY4R1RwTTVUdWRLU1ZwNV85a2JVX0xubzZIVEQxanRCSUFkSWh3NWNXSE5Ic1YtZVlSQmdoRHZ6ZkNldWFzWVNyWDlvdkd1SVZKb1Z1RGNjNGdnbGl0d3pLT3U4OUdPemd5QnFMUUlkazAxdmJRQW1lMU5iYkpqeV9Ya1ZQcXJGNjBaUk5WUUlDWGstUy1FTllERTJ6dkhrdlRyTXRfUmRzM0FN?oc=5",
      "date": "2026-11-18T14:01:00.000Z",
@@ -795,17 +802,17 @@
      "via": "Allgemeine Zeitung"
     },
     {
+     "title": "Paketdienst GLS schließt sich mit Wettbewerber DPD zusammen - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRHRSS09KeUEwVllMSExoNHlHanBCNVNILW5WSTd0VkVjTEFLVlpwYmtlOXV1T3pPV0FYUWlFdHA5QWhrNVF5NGJXVXA0UURqR1VEaGNjVXFlQzMzYzdGalRVSHMyUUFKQjBONGJqOEc1Vy1Eb1BXazlsTjQzRVV1bzVWdXZqcGx3ZWpnYzJoekhIWEFobVd6Qmh1Wno0Tk9xRmdPQzBvUVBDM3VCMHJieWdVRWs5UXdrZUVRRHQxSi1idm5iQmc4R0ZLUEcxMDF5Wmc?oc=5",
+     "date": "2026-11-18T15:31:30.000Z",
+     "text": "Paketdienst GLS schließt sich mit Wettbewerber DPD zusammen Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
      "title": "Autobau im Plus: Auftragspolster der Industrie wächst - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYWFzWTIyQS1DcUNQNU05dnpQeGJvOHpPN2xYR0l3aG95MzVncmFrRGNBQmpDcEQzWVRWV09uM1hSLXNZS05hdEF1T3QyeHlNbkJ6ZjJGd1ptMVRwVzMzb05UZWpYdThROWlfY3A0VWJXZkcxNnFYeEZVYWNnZUF5bmZlN3VRaGE1dEdhR0Zuak80SnY3cC1QQzdBdzZMWUVCemtMX2FWNTJYczFLSWNpQTZiX0FCVjZ2aHo4dkZrWlBMbWVZTGN0SA?oc=5",
      "date": "2026-11-18T09:46:00.000Z",
      "text": "Autobau im Plus: Auftragspolster der Industrie wächst Allgemeine Zeitung",
-     "via": "Allgemeine Zeitung"
-    },
-    {
-     "title": "Baugenehmigungen brechen nach starkem Anstieg ein - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0p3TlVuNC1GWXFGN2haWmFjbVR1Ui1QTkVJU05BMjZkNUhSLTV5NzNJckJpT1MwdUZZYW9JdGZmTXpWQTFuV3kyUnpyU2E3TXd4N1VadjVjUVVndFRkaENSMUlBMFFBaDlwaHVfLXhuUkNmUE5oM1lfVWhkWWpvUnZ1SVozVmNZUWw1SEFRcm5tV0FFM2pHamFxXzdaN290eG02Ukp1U0tyOTZtNnlLeXFhbnhEVUJvNHBFODJwWEVBV0U?oc=5",
-     "date": "2026-11-18T08:34:00.000Z",
-     "text": "Baugenehmigungen brechen nach starkem Anstieg ein Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
@@ -878,6 +885,12 @@
    "focus": "Nur Wirtschaft, Arbeitsmarkt, Energie- und Strompreise, Haushalt. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
    "ok": true,
    "items": [
+    {
+     "title": "Zwei Terrorprozesse, ein Strafsenat: IS-Terroristin bekommt Bewährung, Prinz Reuß seit vier Jahren in U-Haft",
+     "url": "https://nius.de/kriminalitaet/terrorprozesse-strafsenat-prinz-reuss-uhaft",
+     "date": "2026-11-19T03:00:01.000Z",
+     "text": "Eine IS-Terroristin kommt mit einer Bewährungsstrafe davon. Heinrich XIII. Prinz Reuß, Hauptangeklagter im sogenannten Reichsbürger-Prozess, sitzt dagegen seit fast vier Jahren ohne Urteil in Untersuchungshaft. Brisant: Über beide Fälle entscheidet derselbe Strafsenat am Oberlandesgericht Frankfurt."
+    },
     {
      "title": "Türke (27) läuft mit entblößtem Glied an drei Kindern vorbei",
      "url": "https://nius.de/kriminalitaet/polizei-tuerke-entbloesstes-glied-kinder",
@@ -1051,12 +1064,6 @@
      "url": "https://nius.de/kriminalitaet/rinderdiebstahl-brandenburg-polen-festnahme",
      "date": "2026-11-18T10:56:27.000Z",
      "text": "Hunderte Tiere sollen auf Transporter verladen worden sein. DNA-Tests klären jetzt ihre Herkunft."
-    },
-    {
-     "title": "USA: Ausfälle bei Apple, Banken, Flugaufsicht und NSA in wenigen Tagen",
-     "url": "https://nius.de/nachrichten/usa-ausfaelle-apple-nsa",
-     "date": "2026-11-18T10:53:32.000Z",
-     "text": "Behörden und Konzerne sehen keinen Zusammenhang. Die Ursachen reichen von Updates bis zu einem defekten Router."
     }
    ]
   }

@@ -1110,19 +1110,19 @@
  "hf": [
   {
    "id": "higurashi-ai/Haru-4B",
-   "likes": 695,
+   "likes": 710,
    "downloads": 5314,
    "task": "audio-to-audio"
   },
   {
    "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 422,
+   "likes": 433,
    "downloads": 377,
    "task": "image-text-to-text"
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 12568,
+   "likes": 12574,
    "downloads": 2871190,
    "task": "image-to-video"
   },
@@ -1134,17 +1134,17 @@
   },
   {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 1584,
+   "likes": 1586,
    "downloads": 759661,
    "task": "text-to-image"
   },
   {
    "id": "Qwen/Qwen3.8-27B",
-   "likes": 20562,
+   "likes": 20565,
    "downloads": 6888351,
    "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-19T02:30:54.320Z",
+ "updated": "2026-11-19T03:52:43.337Z",
  "updatedDay": "2026-11-06"
 }
