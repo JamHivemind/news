@@ -1,6 +1,28 @@
 {
   "briefs": [
     {
+      "date": "2026-11-19",
+      "file": "2026-11-19.html",
+      "headline": "Koalition senkt Stromsteuer und deckelt Spritpreise",
+      "count": 15,
+      "sources": 5,
+      "cats": {
+        "Energie": 2,
+        "Börse & Märkte": 2,
+        "Konjunktur": 3,
+        "Unternehmen": 4,
+        "Zinsen & Geldpolitik": 2,
+        "Arbeit & Soziales": 2
+      },
+      "ents": {
+        "Fed": 1,
+        "Bundesregierung": 3,
+        "EZB": 1,
+        "USA": 1,
+        "Deutsche Bank": 1
+      }
+    },
+    {
       "date": "2026-11-18",
       "file": "2026-11-18.html",
       "headline": "EU-Kommission hebt Prognose für Deutschland stark an",
