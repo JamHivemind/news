@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-19T08:40:07.272Z",
+ "fetched": "2026-11-19T10:18:12.082Z",
  "hours": 48,
  "sources": [
   {
@@ -25,7 +25,14 @@
   {
    "name": "Gründerszene",
    "ok": true,
-   "items": []
+   "items": [
+    {
+     "title": "7 aktuelle Erkenntnisse über Europas Tech-Szene",
+     "url": "https://www.businessinsider.de/gruenderszene/allgemein/europas-tech-szene-boomt-doch-ein-problem-bleibt-riesig/f2b773c/",
+     "date": "2026-11-19T09:05:03.000Z",
+     "text": "Wie steht Europas Tech-Szene wirklich da? Gleich zwei neue Berichte von Anfang November liefern dazu jede Menge Daten."
+    }
+   ]
   },
   {
    "name": "EU-Startups",
@@ -37,6 +44,12 @@
    "name": "Sifted",
    "ok": true,
    "items": [
+    {
+     "title": "Peace is a system. Europe stopped maintaining it.",
+     "url": "https://sifted.eu/articles/peace-is-a-system-europe-stopped-maintaining-it-brnd/",
+     "date": "2026-11-19T09:00:54.000Z",
+     "text": ""
+    },
     {
      "title": "Exclusive: Schneider Electric's VC fund brings accelerator scheme to Europe",
      "url": "https://sifted.eu/articles/schneider-electric-ventures-accelerator-scheme-europe/",
@@ -196,18 +209,18 @@
    "ok": true,
    "items": [
     {
+     "title": "Vetaion erhält 5,7 Millionen Euro für automatisierte Schaltschrankfertigung - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2Y0SWxVV1dhUG45N0tONnF1Ujh6VGFXZUhYSEtzX0x5STBkcUEwUkFjR3FPUnpyT3Z3XzhkcmtvMmlNRmNZSldlejBfTHVSZ1dMWFFPVndEUHIwa29XdE9WUWxOb2VfaEp2M1VESFV3UE81b3FSU25HLXNfRmNhUmlQSktnY1BSSWxLWllUdjJNWGdIcFlDeWt6eGp3LVJvNWlOeUZNcHppbkE?oc=5",
+     "date": "2026-11-19T09:23:28.000Z",
+     "text": "Vetaion erhält 5,7 Millionen Euro für automatisierte Schaltschrankfertigung Startbase",
+     "via": "Startbase"
+    },
+    {
      "title": "4,7 Millionen Dollar für LATO - Startbase",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wb2VBZElNYm5aT2otaUVMSk44UWZMMlRwZS1iZnFoTXA0Q3V4TnowTHAxN2VqNmRQWDVISFFuWjJOcHd5MnVSTk80Q0hETzJkTXkwcDlmZ3VQOEw3N1hnNkdmX0FfMXlaeVZSTg?oc=5",
      "date": "2026-11-19T08:20:06.000Z",
      "text": "4,7 Millionen Dollar für LATO Startbase",
      "via": "Startbase"
-    },
-    {
-     "title": "Fermat: KI-Modestartup aus Barcelona holt 8 Mio. Dollar und zieht nach New York - Trending Topics",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSW83dVYwOGRudUN5STN4X0F1OTFSSDFQd3VsVEVjNzFrRWVHY2dwcmEwZzRzWk1aREFnUFVWOVg1V0pWSWk1b1JySkFlYThzbjZvVEIwMjltckp2cHk3clJVVzZOanhWSTlaLUg2eHQ1ZXNJNzI2WHVVd2pkRXhCUzBXc2FBdF9rbVFlRnVPSEJwSm1OV1JlTEp0QW13WkJBdUVIaHBWNmZJSDFE?oc=5",
-     "date": "2026-11-17T08:48:01.000Z",
-     "text": "Fermat: KI-Modestartup aus Barcelona holt 8 Mio. Dollar und zieht nach New York Trending Topics",
-     "via": "Trending Topics"
     },
     {
      "title": "CloudBackend erhält 6,6 Millionen Euro für KI-basierte Cloud-Infrastruktur - Startbase",
