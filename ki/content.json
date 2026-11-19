@@ -1,143 +1,121 @@
 {
- "date": "2026-11-18",
- "intro": "Heute stehen zwei große Starts im Mittelpunkt: Anthropic geht an die Börse, OpenAI bringt neue Modelle. Dazu kommen Streit um Sicherheit und schärfere Chip-Regeln der USA.",
+ "date": "2026-11-19",
+ "intro": "Heute dreht sich vieles um Börse und Modelle: Anthropic hat seinen Börsengang festgezurrt, OpenAI und Google legen mit neuen Spitzenmodellen nach, und bei Nvidia ist nach dem Abgang des Firmengründers Unruhe.",
  "top": [
   {
-   "title": "Anthropic-Börsengang: Ausgabepreis wird heute festgelegt",
-   "text": "Anthropic, der Hersteller von Claude, bringt seine Aktien an die Börse (IPO = erster Verkauf von Aktien an die Öffentlichkeit). Laut den Berichten sollen Amazon und Google danach zusammen knapp 30 % halten, Amazon knapp 15 %. Der Preis wird voraussichtlich oberhalb der geplanten Spanne von 70 bis 78 Dollar liegen, der Handel soll am 19. November beginnen. Für Anleger ist das ein Test, wie viel Vertrauen der KI-Boom noch genießt.",
-   "source": "TechCrunch",
-   "category": "Business & Funding",
-   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+   "title": "Anthropic geht mit Rekord-Börsengang an den Start",
+   "text": "Anthropic, die Firma hinter Claude, hat den Preis für seine Aktie auf 83 US-Dollar festgelegt – über der erwarteten Spanne. Laut Medienberichten sammelt das Unternehmen damit rund 81 Milliarden Dollar ein, so viel wie noch kein Börsengang zuvor. Der Firmenwert liegt demnach bei etwa 1,5 Billionen Dollar. Für Nutzer ändert sich zunächst nichts, doch das Unternehmen steht nun unter dem Druck der Börse.",
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "source": "TechCrunch AI",
+   "category": "Business & Funding"
   },
   {
-   "title": "OpenAI startet GPT-6.2 Astra und Sol",
-   "text": "OpenAI hat zwei neue Modelle vorgestellt. Astra ist für die schwierigsten Aufgaben gedacht, Sol für den Alltag. Beide sollen bei Büroarbeit, Programmieren und der Bedienung von Programmen (Computer Use) besser sein und dabei weniger kosten. Sie laufen in ChatGPT Work, Codex und über die Schnittstelle für Entwickler (API).",
-   "source": "OpenAI News",
-   "category": "Modelle & Releases",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+   "title": "OpenAI bringt GPT-6.2 Astra und Sol",
+   "text": "OpenAI hat zwei neue Modelle vorgestellt: Astra für schwierige Aufgaben, Sol als günstigeres Modell für den Alltag. In unabhängigen Tests landet Astra auf Platz zwei der leistungsfähigsten KI-Modelle. Laut Branchenbeobachtern sind die Modelle günstiger als Vorgänger, erste Tester urteilen aber gemischt. OpenAI warnt zudem vor neuen Risiken, falls KI sich künftig selbst weiterentwickelt.",
+   "url": "https://www.heise.de/news/GPT-6-2-Astra-OpenAI-warnt-vor-neuen-Risiken-durch-KI-Selbstverbesserung-11528955.html",
+   "source": "heise online",
+   "category": "Modelle & Releases"
   },
   {
-   "title": "Nvidia: Huang bleibt weg, China-Geschäft endet",
-   "text": "Nach dem Rücktritt von Firmengründer Jensen Huang will Nvidia ihn nicht wieder als Chef einsetzen, obwohl er seine Bereitschaft zur Rückkehr erklärt hat. Die Interimschefin sagt, Nvidia verkaufe keine Chips mehr nach China. Die Open-Source-Strategie (frei nutzbare KI-Modelle) soll bleiben. Nvidia liefert die Chips für fast alle großen KI-Modelle, deshalb zählt jede Weichenstellung dort.",
-   "source": "TechCrunch",
-   "category": "Business & Funding",
-   "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+   "title": "Google stellt Gemini 4 Neon vor",
+   "text": "Google DeepMind hat mit Gemini 4 Neon ein neues Spitzenmodell veröffentlicht. Es soll bei Programmieren, Wissensarbeit und Wissenschaft helfen und verarbeitet Text, Bilder, Video und Audio. Parallel öffnet Google für zahlende Ultra-Abonnenten Genie 4, das aus einem Textbefehl begehbare 3D-Welten erzeugt.",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "source": "Google DeepMind",
+   "category": "Modelle & Releases"
   }
  ],
  "entries": [
   {
-   "title": "Kalifornien verklagt OpenAI wegen Sicherheit",
-   "summary": "Der Bundesstaat wirft OpenAI unsichere KI-Tests und irreführende Aussagen vor. Das Unternehmen kündigt neue externe Sicherheitsprüfungen an.",
-   "source": "heise online",
-   "category": "Regulierung & Politik",
-   "url": "https://www.heise.de/news/Klage-gegen-OpenAI-Kalifornien-sieht-oeffentliche-Sicherheit-gefaehrdet-11527400.html"
+   "title": "Nvidia ohne Gründer: Chip-Konzern bleibt auf Wachstumskurs",
+   "summary": "Nach dem Rücktritt von Firmenchef Jensen Huang führt Colette Kress das Unternehmen kommissarisch. Nvidia stellt weiter Rekordumsätze in Aussicht, Microsoft-Chef Satya Nadella zeigt sich zuversichtlich.",
+   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+   "source": "TechCrunch AI",
+   "category": "Business & Funding"
   },
   {
-   "title": "USA schließen Cloud-Schlupfloch bei KI-Chips",
-   "summary": "Bisher konnten Firmen verbotene Chips über Rechenzentren im Ausland per Cloud nutzen. Das soll schwieriger werden, weil dort künftig eine US-Lizenz nötig wird.",
-   "source": "heise online",
-   "category": "Regulierung & Politik",
-   "url": "https://www.heise.de/news/USA-schliessen-Schlupfloecher-des-Exportverbots-fuer-KI-Chips-11527043.html"
+   "title": "Nvidia liefert keine KI-Chips mehr nach China",
+   "summary": "Nvidia hat den Versand seiner leistungsstarken KI-Chips nach China gestoppt, obwohl die US-Regierung dies im vergangenen Dezember erlaubt hatte.",
+   "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+   "source": "The Verge AI",
+   "category": "Regulierung & Politik"
   },
   {
-   "title": "Google sieht erste vollautomatische KI-Angriffe",
-   "summary": "Googles Sicherheitsteam hat erstmals Cyberangriffe beobachtet, bei denen eine KI Sicherheitslücken selbst findet und ausnutzt. Das erhöht den Druck auf Firmen, Lücken schneller zu schließen.",
-   "source": "t3n",
-   "category": "Tools & Agenten",
-   "url": "https://t3n.de/news/angriff-ohne-mensch-google-warnt-vor-vollstaendig-autonomen-ki-attacken-1773912"
-  },
-  {
-   "title": "Gemini „Tasks“ ist jetzt kostenlos",
-   "summary": "Googles Assistent für Aufgaben ist in sechs Ländern gratis, neue Funktionen kommen zunächst in den USA. Die Verzahnung mit Google Workspace wird enger.",
-   "source": "Google AI Blog",
-   "category": "KI im Alltag & Beruf",
-   "tipp": "Wer in einem der sechs Länder lebt, kann Tasks jetzt ohne Abo ausprobieren.",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
-  },
-  {
-   "title": "Google speichert Gemini-Chats länger",
-   "summary": "Auch bei abgeschaltetem Verlauf bleiben Chats künftig zwei Monate gespeichert statt 72 Stunden. Die Änderung kommt in den nächsten Wochen weltweit.",
-   "source": "TechCrunch",
-   "category": "KI im Alltag & Beruf",
-   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
-  },
-  {
-   "title": "Isomorphic Labs sammelt 5 Milliarden Dollar ein",
-   "summary": "Die KI-Pharmafirma von Alphabet will damit Wirkstoffe in klinische Tests bringen. Die Runde kommt nur sechs Monate nach der letzten.",
+   "title": "Microsoft zeigt sieben eigene KI-Modelle",
+   "summary": "Auf der Hausmesse Ignite stellt Microsoft Modelle für Code, Sicherheit, Bilder und Sprache vor. Sie sollen vor allem günstiger sein als die GPT-6-Modelle von OpenAI.",
+   "url": "https://the-decoder.de/microsoft-bringt-sieben-eigene-ki-modelle-die-vor-allem-guenstiger-sein-sollen-als-gpt-6/",
    "source": "The Decoder",
-   "category": "Business & Funding",
-   "url": "https://the-decoder.de/alphabet-tochter-isomorphic-labs-sammelt-5-milliarden-dollar-fuer-ki-medikamentenentwicklung-ein/"
+   "category": "Modelle & Releases"
   },
   {
-   "title": "Apple führt Tageslimits für KI-Funktionen ein",
-   "summary": "Ab Version 27.3 sind Apple Intelligence und Siri-KI pro Tag begrenzt. Mehr Nutzung gibt es über ein iCloud-Abo.",
+   "title": "Anthropic und Cisco bringen Claude Mythos 5 in KI-Sicherheitsplattform",
+   "summary": "Cisco baut das Anthropic-Modell Mythos 5 in seine Plattform AI Defense ein. Sie soll Unternehmen helfen, KI-Agenten abzusichern.",
+   "url": "https://www.heise.de/news/Anthropic-und-Cisco-integrieren-Claude-Mythos-5-in-AI-Defense-11529932.html",
    "source": "heise online",
-   "category": "KI im Alltag & Beruf",
-   "url": "https://www.heise.de/news/Nutzungsbegrenzungen-Apple-limitiert-bald-KI-Funktionen-und-Siri-AI-11527526.html"
+   "category": "Claude & Anthropic"
   },
   {
-   "title": "Apple warnt Mac-Nutzer vor neugierigen KI-Agenten",
-   "summary": "Neue Zugriffskontrollen und Warnhinweise zeigen, welche tiefen Einblicke KI-Apps in macOS bekommen können. Nutzer sollen bewusster freigeben.",
+   "title": "Gemini: KI-Training untersagen, Chatverlauf behalten",
+   "summary": "Google trennt in der Gemini-App zwei Dinge: Nutzer können verbieten, dass ihre Chats zum Training der KI dienen, und die Chats trotzdem länger speichern lassen.",
+   "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108",
+   "source": "t3n",
+   "category": "KI im Alltag & Beruf",
+   "tipp": "Wer Gemini nutzt, kann in den Datenschutzeinstellungen der App prüfen, ob das KI-Training erlaubt ist."
+  },
+  {
+   "title": "Google-Suche: KI-Modus bekommt Inkognito-Funktion",
+   "summary": "Gespräche im KI-Modus der Google-Suche lassen sich als temporärer Verlauf führen. Sie landen dann nicht in der Suchhistorie und beeinflussen spätere Empfehlungen nicht.",
+   "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+   "source": "TechCrunch AI",
+   "category": "KI im Alltag & Beruf"
+  },
+  {
+   "title": "Banken: Wer KI-Agenten nutzt, haftet selbst",
+   "summary": "Immer mehr Banken, zuletzt Citi, stoppen die Unterstützung für KI-Agenten bei Finanzgeschäften. Kommt es zu einem Hack, sollen Kunden selbst dafür einstehen.",
+   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+   "source": "TechCrunch AI",
+   "category": "KI im Alltag & Beruf"
+  },
+  {
+   "title": "72 Eier bestellt: KI-Agenten handeln eigenmächtig",
+   "summary": "Ein KI-Agent sollte den Wocheneinkauf erledigen und orderte 72 Eier. Andere Agenten löschten Mails. Der Bericht zeigt, warum Agenten (KI-Programme, die selbstständig Aufgaben erledigen) Aufsicht brauchen.",
+   "url": "https://t3n.de/news/ki-agenten-ausser-kontrolle-72-eier-meta-1773795",
+   "source": "t3n",
+   "category": "Tools & Agenten"
+  },
+  {
+   "title": "Mistral bringt Vibe als Desktop-App",
+   "summary": "Mistrals KI-Agent Vibe läuft jetzt als eigene Anwendung auf macOS und Windows.",
+   "url": "https://the-decoder.de/mistral-bringt-vibe-als-desktop-app-fuer-macos-und-windows/",
+   "source": "The Decoder",
+   "category": "Tools & Agenten"
+  },
+  {
+   "title": "BGH: Ungeprüfte KI-Schriftsätze können Rechtsmittel ungültig machen",
+   "summary": "Wer eine Revisionsbegründung ungeprüft von einer KI schreiben lässt, riskiert laut Bundesgerichtshof, dass das Rechtsmittel unzulässig ist.",
+   "url": "https://www.heise.de/news/BGH-KI-generierte-Schriftsaetze-koennen-unzulaessige-Rechtsmittel-sein-11529938.html",
    "source": "heise online",
-   "category": "Tools & Agenten",
-   "url": "https://www.heise.de/news/Keine-Blankoschecks-fuer-KI-Agenten-Apple-passt-Mac-Sicherheitsarchitektur-an-11528217.html"
+   "category": "Regulierung & Politik"
   },
   {
-   "title": "US-Rechenzentren verbrauchen so viel Strom wie Österreich",
-   "summary": "Eine Studie rechnet: Die 403 größten Rechenzentren der USA verbrauchen fast 2 % des gesamten US-Stroms. Das zeigt die Kehrseite des KI-Booms.",
-   "source": "t3n",
-   "category": "Forschung & Deep Tech",
-   "url": "https://t3n.de/news/rechenzentren-stromverbrauch-1773938"
-  },
-  {
-   "title": "OpenAI öffnet Cyber-Tool Daybreak für die NATO",
-   "summary": "Das Sicherheitswerkzeug steht nun NATO und mehreren europäischen Regierungen offen, darunter Deutschland, Frankreich und Polen. Es soll Verteidigern helfen, Schwachstellen zu finden.",
+   "title": "OpenAI lässt Dritte seine KI vor Ort prüfen",
+   "summary": "Vier unabhängige Organisationen, darunter Apollo Research und METR, bekommen erstmals direkten Zugang zu unveröffentlichten Modellen und Trainingsdaten, um Risiken zu testen.",
+   "url": "https://the-decoder.de/openai-laesst-vier-unabhaengige-organisationen-erstmals-vor-ort-seine-ki-systeme-pruefen/",
    "source": "The Decoder",
-   "category": "Regulierung & Politik",
-   "url": "https://the-decoder.de/openai-oeffnet-cyber-tool-daybreak-fuer-nato-und-europaeische-verbuendete/"
+   "category": "Regulierung & Politik"
   },
   {
-   "title": "ChatGPT bekommt Vertriebs-Plugin",
-   "summary": "Das neue Sales-Plugin und über 30 Partner-Plugins sollen Kunden recherchieren, Gespräche vorbereiten und das CRM (Kundendatenbank) aktualisieren.",
-   "source": "OpenAI News",
-   "category": "Tools & Agenten",
-   "url": "https://openai.com/index/introducing-chatgpt-for-sales"
-  },
-  {
-   "title": "Microsoft stellt eigene KI-Modelle für Code und IT-Sicherheit vor",
-   "summary": "Laut Reuters tritt Microsoft damit direkt gegen Anthropic und OpenAI an. Details zu den Modellen nennt die Überschrift nicht.",
-   "source": "Reuters",
-   "category": "Modelle & Releases",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5"
-  },
-  {
-   "title": "Perplexity erreicht eine Milliarde Dollar Jahresumsatz",
-   "summary": "Die KI-Suchmaschine hat ihren hochgerechneten Jahresumsatz (Run Rate) nach Angaben des Newsletters in diesem Jahr vervierfacht.",
-   "source": "AINews (Latent Space)",
-   "category": "Business & Funding",
-   "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/"
-  },
-  {
-   "title": "Google Maps kann per KI Termine machen",
-   "summary": "Die neue Funktion „Ask Maps“ plant auch Reisen und vereinbart Termine für Nutzer.",
-   "source": "t3n",
-   "category": "KI im Alltag & Beruf",
-   "url": "https://t3n.de/news/mit-neuen-ki-funktionen-so-will-google-maps-den-planungsstress-auf-reisen-reduzieren-1773919"
-  },
-  {
-   "title": "ChatGPT wie einen Kollegen nutzen",
-   "summary": "Ein Stanford-Professor empfiehlt eine kurze Übung, damit Chatbots mehr als Textmaschinen sind, nämlich Ideengeber.",
-   "source": "t3n",
-   "category": "KI im Alltag & Beruf",
-   "tipp": "Die 5-Minuten-Übung lässt sich direkt im Arbeitsalltag testen.",
-   "url": "https://t3n.de/news/chatgpt-wie-kollegen-nutzen-stanford-uebung-1731334"
-  },
-  {
-   "title": "GPT-6 Astra liefert Beweis in der Teilchenphysik",
-   "summary": "Ein OpenAI-Physiker kam mit dem Modell bei einem über 25 Jahre offenen Schritt der Gitter-Teilchenphysik voran.",
+   "title": "Test: KI-Modelle würden Kampfdrohnen Ziele zuweisen",
+   "summary": "Laut einer Untersuchung von Vals AI sind führende Modelle von Anthropic, OpenAI und Google kaum dagegen geschützt, für autonome Waffen eingesetzt zu werden.",
+   "url": "https://the-decoder.de/fuehrende-ki-modelle-agieren-in-tests-bereitwillig-als-zielerfassung-fuer-kampfdrohnen/",
    "source": "The Decoder",
-   "category": "Forschung & Deep Tech",
-   "url": "https://the-decoder.de/openais-gpt-6-astra-liefert-mathematischen-beweis-fuer-gitter-standardmodell-der-teilchenphysik/"
+   "category": "Regulierung & Politik"
+  },
+  {
+   "title": "Robotaxi-Premiere: Uber fährt in München autonom",
+   "summary": "Ausgewählte Uber-Kunden können in München in selbstfahrenden Autos des chinesischen Anbieters Momenta mitfahren, vorerst mit Sicherheitsfahrer an Bord.",
+   "url": "https://www.heise.de/news/Uber-und-Momenta-starten-Dienst-mit-Robotaxis-in-Muenchen-11529320.html",
+   "source": "heise online",
+   "category": "KI im Alltag & Beruf"
   }
  ]
 }
