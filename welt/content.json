@@ -1,49 +1,18 @@
 {
- "date": "2026-11-18",
- "intro": "Die Ukraine hat die Krim-Brücke schwer getroffen, kurz bevor sich Trump, Xi und Putin in China treffen. Am Golf spitzt sich der Konflikt zwischen den USA und dem Iran weiter zu.",
+ "date": "2026-11-19",
+ "intro": "In Shenzhen sitzen erstmals Trump, Xi und Putin an einem Tisch, in der Ukraine trifft ein neuer Angriff die Krim-Brücke, und am Golf eskaliert der Streit zwischen den USA und dem Iran. Alle drei Lagen bleiben heute offen.",
  "regionen": {
-  "Europa": "Die Ukraine beschädigt die Krim-Brücke schwer, Russland trifft Brücken in Kiew. Europäische Unterhändler führen erste Vorgespräche über ein Kriegsende, und in Serbien tritt ein neues Parlament zusammen.",
-  "Nahost": "Die USA und der Iran greifen sich in der Golfregion erneut gegenseitig an, ein dritter US-Flugzeugträger ist vor Ort. Im Jemen erobern die Huthi eine wichtige Meerenge zurück, und in Israel geht der Parlamentsvorsitz an die Opposition.",
-  "Asien": "In Shenzhen hat der APEC-Gipfel begonnen, morgen folgt das Dreiergespräch von Xi, Trump und Putin. Die UN-Klimakonferenz tagt in Antalya in der Türkei.",
-  "Amerika": "In den USA gewinnen die Demokraten den letzten offenen Senatssitz in Alaska. Kanada schaut wegen der US-Zölle auf die Autoindustrie Richtung China.",
-  "Afrika": "Im Sudan gehen laut UN fast drei Viertel der Kriegstoten in diesem Jahr auf Drohnen zurück."
+  "Europa": "Die Ukraine trifft die Krim-Brücke erneut, in Berlin tagt die „Koalition der Willigen“, und die EU-Kommission schlägt einen weiteren Kredit von bis zu 45 Milliarden Euro vor.",
+  "Nahost": "Iran beschießt nach einem US-Angriff auf eine iranische Insel Kuwait und Bahrain, und Israels Armee startet trotz Waffenruhe einen Einsatz im Gazastreifen.",
+  "Asien": "Xi Jinping empfängt in Shenzhen Trump und Putin; Nordkorea baut laut der Atomenergiebehörde sein Atomprogramm weiter aus.",
+  "Amerika": "Nach den Midterms steht Hakeem Jeffries als Sprecher des Repräsentantenhauses bereit, die USA und Venezuela schließen ein Militärabkommen."
  },
  "top": [
   {
-   "title": "Ukraine trifft die Krim-Brücke schwer",
-   "text": "Die Ukraine hat die Brücke zwischen Russland und der besetzten Krim nach massiven Angriffen teilweise zerstört. Präsident Selenskyj bestätigt, dass ein Brückenbogen eingestürzt ist; Moskau spricht von kleineren Schäden und beruft eine Krisensitzung ein. Die USA kritisierten die ukrainische Zielwahl, Verteidigungsminister Pistorius nannte diese Kritik „ziemlich dumm“. Russland griff gleichzeitig zwei Brücken in Kiew an.",
+   "title": "Erstes Dreiertreffen von Xi, Trump und Putin in Shenzhen",
+   "text": "Beim Apec-Gipfel im chinesischen Shenzhen kommen die Staatschefs von China, den USA und Russland erstmals gemeinsam zusammen. Es geht vor allem um den Ukraine-Krieg, aber auch um Rüstung und Künstliche Intelligenz. Trump und Putin planen zusätzlich ein Zweiergespräch. Xi und Putin kritisieren vorab westliche Sanktionen und „Protektionismus“. Trump dämpft die Erwartungen.",
+   "url": "https://www.tagesschau.de/ausland/asien/apec-trump-putin-xi-100.html",
    "source": "tagesschau",
-   "category": "Krieg & Konflikte",
-   "art": "konflikt",
-   "ort": {
-    "name": "Krim-Brücke",
-    "lat": 45.31,
-    "lon": 36.51
-   },
-   "hamburg": "Deutschland kauft neue Flugabwehrraketen für die Ukraine, um sie vor dem Winter zu schützen.",
-   "stimmen": [
-    {
-     "source": "Spiegel",
-     "richtung": "links",
-     "url": "https://www.spiegel.de/ausland/ukraine-so-gelang-der-ukraine-der-einsturz-der-kertschbruecke-a-7f0b9aa4-abb6-4a53-b33d-669b89aeadb6#ref=rss"
-    },
-    {
-     "source": "BBC",
-     "richtung": "mitte",
-     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "source": "WELT",
-     "richtung": "rechts",
-     "url": "https://www.welt.de/politik/ausland/plus6afc1cda6837d711cd2c7e27/zerstoerte-bruecke-der-tag-an-dem-die-krim-von-einem-asset-zu-einem-risiko-fuer-russland-wird.html"
-    }
-   ],
-   "url": "https://www.tagesschau.de/ausland/europa/selenskyj-teilzerstoerung-krim-bruecke-100.html"
-  },
-  {
-   "title": "APEC-Gipfel in Shenzhen: Dreiertreffen mit Xi, Trump und Putin",
-   "text": "In Shenzhen hat der Wirtschaftsgipfel APEC begonnen. Morgen soll es zum ersten Gespräch zu dritt zwischen Chinas Staatschef Xi, US-Präsident Trump und Russlands Präsident Putin kommen. Es geht um Rüstung und künstliche Intelligenz. Die USA haben kurz zuvor die Exportregeln für KI-Chips verschärft.",
-   "source": "Deutschlandfunk",
    "category": "Weltpolitik",
    "art": "politik",
    "ort": {
@@ -51,221 +20,252 @@
     "lat": 22.54,
     "lon": 114.06
    },
-   "hamburg": "Handel und Chip-Regeln wirken auch auf Hamburg, weil der Hafen stark am Handel mit China hängt.",
+   "hamburg": "Handelsregeln und Sanktionen betreffen Hamburger Exportfirmen und den Hafen; ein Ergebnis des Gipfels steht noch aus.",
    "stimmen": [
     {
-     "source": "Süddeutsche Zeitung",
+     "source": "taz",
      "richtung": "links",
-     "url": "https://www.sueddeutsche.de/politik/trump-putin-xi-jingping-pannenserie-flugverkehr-cyberangriff-ki-ukraine-li.3582083"
-    },
-    {
-     "source": "Reuters",
-     "richtung": "mitte",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXU1Wlg2cExOMXk1YUpOSUNEazJkdmhmczM5cnExb1ZVZExBX0VCOElDdmpQaVAzYnpGVDB5LWRtS1I1SHpxdWdDUFIwZkhXVmRUNk9vQWJ0NU12MXUyVTR6NVFIOFgxWF9UZklfMFN2TTNRMFVFNEt3RnVCZXRnUWwwNE1aNExZd1FOTnd2MFZBNTkwMVhSUHJnRHpzeDBfbFRVS2pDWFVZVGltcHRhZjFIbw?oc=5"
+     "url": "https://taz.de/Apec-Gipfel-in-Shenzhen/!6231090/"
     },
     {
      "source": "NZZ",
      "richtung": "rechts",
-     "url": "https://www.nzz.ch/international/dreiergipfel-in-shenzhen-peking-organisiert-ein-treffen-zwischen-donald-trump-xi-jinping-und-wladimir-putin-ld.10063910"
-    }
-   ],
-   "url": "https://www.deutschlandfunk.de/apec-gipfel-hat-begonnen-morgen-dreiergespraech-mit-xi-trump-und-putin-102.html"
-  },
-  {
-   "title": "USA und Iran greifen sich am Golf erneut an",
-   "text": "Die USA haben erneut die iranische Insel Keschm in der Straße von Hormus angegriffen; der Iran attackiert ebenfalls US-Ziele. Ein dritter US-Flugzeugträger hat in der Region den Dienst aufgenommen. Dazu berichtet CNN über angebliche iranische Pläne für einen Anschlag mit einer schmutzigen Bombe (radioaktive Sprengladung) auf Washington. Teheran weist das zurück, Trump droht.",
-   "source": "Deutschlandfunk",
-   "category": "Krieg & Konflikte",
-   "art": "konflikt",
-   "ort": {
-    "name": "Straße von Hormus",
-    "lat": 26.57,
-    "lon": 56.25
-   },
-   "hamburg": "Die Straße von Hormus ist eine wichtige Ölroute. Spannungen dort können Energie- und Spritpreise in Deutschland beeinflussen.",
-   "stimmen": [
-    {
-     "source": "Spiegel",
-     "richtung": "links",
-     "url": "https://www.spiegel.de/ausland/irankrieg-teheran-weist-bericht-ueber-anschlagsplaene-mit-schmutziger-bombe-gegen-washington-d-c-zurueck-a-b2248849-5811-48d3-a2fa-78896a52fa44#ref=rss"
-    },
-    {
-     "source": "tagesschau",
-     "richtung": "mitte",
-     "url": "https://www.tagesschau.de/ausland/amerika/trump-schmutzige-bombe-iran-100.html"
+     "url": "https://www.nzz.ch/international/von-jalta-nach-shenzhen-gipfeltreffen-der-maechtigen-haben-ihre-eigene-logik-ld.10066285"
     },
     {
      "source": "WELT",
      "richtung": "rechts",
-     "url": "https://www.welt.de/politik/ausland/video6afb188b8c74195fa20c3396/iran-verhandlungen-drohkulisse-aufgebaut-neuer-us-flugzeugtraeger-schuert-sorge-vor-eskalation.html"
+     "url": "https://www.welt.de/politik/ausland/article6afd7199a883f861e533063f/trump-putin-und-xi-auf-gipfel-in-china-ein-neuer-jalta-moment-zur-aufteilung-der-welt.html"
     }
-   ],
-   "url": "https://www.deutschlandfunk.de/usa-greifen-erneut-iranische-insel-keschm-in-strasse-von-hormus-an-102.html"
+   ]
+  },
+  {
+   "title": "Krim-Brücke zum dritten Mal in einer Woche angegriffen",
+   "text": "Nach einem erneuten ukrainischen Angriff auf die Krim-Brücke wurde der Verkehr vorübergehend gesperrt, der Zugverkehr steht still. Erst Anfang der Woche war der Teil für den Autoverkehr zerstört worden. Die Brücke ist für Russland von großer Bedeutung, weil sie die annektierte Krim mit dem Festland verbindet. Aus den USA kommt Kritik an Kiews Angriffen im russischen Hinterland, Verteidigungsminister Pistorius nennt diese Kritik „ziemlich dumm“.",
+   "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-zug-100.html",
+   "source": "tagesschau",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Kertsch (Krim-Brücke)",
+    "lat": 45.31,
+    "lon": 36.52
+   },
+   "stimmen": [
+    {
+     "source": "Spiegel",
+     "richtung": "links",
+     "url": "https://www.spiegel.de/ausland/ukraine-krieg-nach-erneutem-angriff-steht-zugverkehr-auf-krimbruecke-still-a-9e01117c-8373-480f-ad57-6c08a2bd1af7#ref=rss"
+    },
+    {
+     "source": "NZZ",
+     "richtung": "rechts",
+     "url": "https://www.nzz.ch/international/angriff-auf-putins-prestige-bruecke-symboltraechtiger-erfolg-fuer-kiew-ld.10066135"
+    },
+    {
+     "source": "Reuters",
+     "richtung": "mitte",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "Iran beschießt Kuwait und Bahrain nach US-Angriff auf iranische Insel",
+   "text": "Kuwait sagt, es habe den ersten iranischen Angriff seit zwei Monaten abgewehrt. Auch Bahrain wurde beschossen. Vorausgegangen war ein US-Luftangriff auf die iranische Insel Qeshm. In Washington prüfen Behörden zudem mögliche iranische Anschlagspläne mit einer „schmutzigen Bombe“ (radioaktiv verseuchender Sprengsatz), über die CNN berichtet.",
+   "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Kuwait",
+    "lat": 29.38,
+    "lon": 47.98
+   },
+   "hamburg": "Spannungen am Golf können Ölpreis und Schiffsrouten berühren und damit Spritpreise und den Hafen Hamburg.",
+   "stimmen": [
+    {
+     "source": "Spiegel",
+     "richtung": "links",
+     "url": "https://www.spiegel.de/ausland/golfstaaten-fangen-nach-us-angriff-iranische-raketen-und-drohnen-ab-a-ead89ebd-d985-4310-aefb-9c4f497e4fe4#ref=rss"
+    },
+    {
+     "source": "FAZ",
+     "richtung": "rechts",
+     "url": "https://www.faz.net/aktuell/politik/ausland/angriff-auf-kuwait-iran-setzt-auf-kalkulierte-eskalation-accg-201693724.html"
+    },
+    {
+     "source": "Reuters",
+     "richtung": "mitte",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEJSYmJOTF9ISXdkYWVNd0Z3RnJvQnRjSlhEVWJ4bWo1UVVvblNOUnczc0FtOUlSODM5UzRNOUF5T3lIYTNrRVZKNEZTaVFQcnMwaG9JSWdnNkJmRVVtcTluWmFEU1k0dFVVVDJ4SWlEcUNpWEo1aktKYzFGblgxTldZSGVNRjV3N3VyMVNFelYxQ1d4Zlo3LXdQN2E4RUFuNjB4UWdYX1FxQ3pERUdCenJ3?oc=5"
+    }
+   ]
   }
  ],
  "entries": [
   {
-   "title": "Russland trifft zwei Brücken in Kiew",
-   "summary": "Die Angriffe führten laut dem Bürgermeister zu Ausfällen bei Wasser und Strom.",
-   "source": "Reuters",
-   "category": "Krieg & Konflikte",
-   "art": "konflikt",
-   "ort": {
-    "name": "Kiew",
-    "lat": 50.45,
-    "lon": 30.52
-   },
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeEEyb1UxS0hVQ1J2dDRzdTMxMFUwaXFhV1lNclI1bml5Q2VMbUZWU0pFaW1FNTh6WllSaE1RSzFDa0cwQUZzSDlUSmh1QnZyVFl5MWRyMUNySnZjOFloMDRNRXc3X2lqcEEzenp5Z05jd2hxX3R1bHBZVGl6UThrMzNrVXpjVGtnWXlvOVkwU3BMNnQ3bUxHNDVBbzA2bVdVRjdhZEhNNlVFR2E3akdzUVAzMHBxUHlnby1xQmln?oc=5"
-  },
-  {
-   "title": "Erste Vorgespräche über ein Kriegsende",
-   "summary": "Europäische Unterhändler sprachen mit den USA und der Ukraine und instruierten die Vertreter, die später mit Russland verhandeln sollen.",
-   "source": "tagesschau",
-   "category": "Weltpolitik",
+   "title": "Ukraine-Gipfel in Berlin: Europas Botschaft an Trump, Xi und Putin",
+   "summary": "In Berlin treffen sich knapp 40 Delegationen der „Koalition der Willigen“ zur Unterstützung der Ukraine. Die Süddeutsche nennt es einen Gipfel der Superlative. Er soll Stärke zeigen, während in China über die Ukraine gesprochen wird.",
+   "url": "https://www.sueddeutsche.de/politik/ukraine-koalition-der-willigen-friedrich-merz-wolodimir-selenskij-li.3582328",
+   "source": "Süddeutsche Zeitung",
+   "category": "Europa",
    "art": "politik",
    "ort": {
     "name": "Berlin",
     "lat": 52.52,
     "lon": 13.4
-   },
-   "hamburg": "Die Gespräche finden in Europa statt, das Ergebnis betrifft Sicherheit und Energiepreise auch in Deutschland.",
-   "url": "https://www.tagesschau.de/ausland/europa/europa-ukraine-usa-100.html"
+   }
   },
   {
-   "title": "Moskau wirft Frankreich Kriegsbeteiligung vor",
-   "summary": "Nach Berichten über französische Soldaten in der Ukraine wirft Außenminister Lawrow Paris Kriegsteilnahme vor. Frankreich weist das zurück.",
-   "source": "Deutschlandfunk",
+   "title": "EU-Kommission schlägt Ukraine-Kredit von bis zu 45 Milliarden Euro vor",
+   "summary": "Die Ukraine braucht dringend Geld. Die EU-Kommission folgt dem Vorstoß von Kanzler Merz und will weitere 45 Milliarden Euro für Kiew aufbringen.",
+   "url": "https://www.faz.net/aktuell/politik/ausland/neuer-ukraine-kredit-eu-kommission-folgt-merz-vorstoss-201694290.html",
+   "source": "FAZ",
+   "category": "Europa",
+   "art": "politik",
+   "ort": {
+    "name": "Brüssel",
+    "lat": 50.85,
+    "lon": 4.35
+   }
+  },
+  {
+   "title": "Israels Armee rückt trotz Waffenruhe im Gazastreifen vor",
+   "summary": "Die Armee startet einen seltenen Bodeneinsatz jenseits der „Gelben Linie“. Sie sagt, sie zerstöre einen Terrortunnel. Die Hamas verurteilt den Vorstoß.",
+   "url": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
+   "source": "tagesschau",
    "category": "Krieg & Konflikte",
    "art": "konflikt",
    "ort": {
-    "name": "Paris",
-    "lat": 48.86,
-    "lon": 2.35
-   },
-   "url": "https://www.deutschlandfunk.de/moskau-wirft-frankreich-kriegsbeteiligung-in-der-ukraine-vor-104.html"
+    "name": "Gazastreifen",
+    "lat": 31.5,
+    "lon": 34.47
+   }
   },
   {
-   "title": "Russisches Militärflugzeug stürzt ab, 19 Tote",
-   "summary": "Alle 19 an Bord kamen ums Leben. Das Verteidigungsministerium vermutet vorläufig einen technischen Defekt.",
+   "title": "USA und Venezuela schließen Militärabkommen",
+   "summary": "US-Verteidigungsminister Hegseth hat in Caracas ein militärisches Kooperationsabkommen unterzeichnet. Die FAZ nennt den Kurswechsel historisch.",
+   "url": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
+   "source": "tagesschau",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Caracas",
+    "lat": 10.48,
+    "lon": -66.9
+   }
+  },
+  {
+   "title": "Demokraten gewinnen Senatssitz in Alaska",
+   "summary": "Mary Peltola wird die erste indigene Senatorin Alaskas. Zugleich haben die Demokraten Hakeem Jeffries als Sprecher des Repräsentantenhauses nominiert.",
+   "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Washington, D.C.",
+    "lat": 38.9,
+    "lon": -77.04
+   }
+  },
+  {
+   "title": "UNO-Gericht entscheidet über Völkermord-Vorwurf gegen Myanmar",
+   "summary": "Der Internationale Gerichtshof in Den Haag urteilt über das Vorgehen des Militärs gegen die Rohingya. Noch nie wurde ein Staat von einem internationalen Gericht wegen Völkermords schuldig gesprochen.",
+   "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Den Haag",
+    "lat": 52.08,
+    "lon": 4.31
+   }
+  },
+  {
+   "title": "Nvidia: Huang kehrt nicht zurück, Umsatz steigt",
+   "summary": "Der Chip-Konzern will Firmenchef Jensen Huang nicht wieder einsetzen und meldet zugleich stark steigende Verkäufe.",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC",
+   "category": "Wirtschaft & Handel",
+   "art": "wirtschaft"
+  },
+  {
+   "title": "Anthropic-Börsengang übertrifft SpaceX-Rekord",
+   "summary": "Der KI-Firma Anthropic, Anbieter des Assistenten Claude, gelingt ein Rekord-Börsengang mit 81,3 Milliarden Dollar Erlös.",
+   "url": "https://www.deutschlandfunk.de/anthropic-ueberfluegelt-bei-boersengang-spacex-erloes-100.html",
+   "source": "Deutschlandfunk",
+   "category": "Wirtschaft & Handel",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "New York",
+    "lat": 40.71,
+    "lon": -74.01
+   }
+  },
+  {
+   "title": "Nordkorea baut Atomprogramm laut IAEA aus",
+   "summary": "Die Internationale Atomenergiebehörde meldet, dass Nordkorea sein Nuklearprogramm ausweitet.",
+   "url": "https://www.deutschlandfunk.de/nordkorea-baut-nuklearprogramm-aus-104.html",
+   "source": "Deutschlandfunk",
+   "category": "Weltpolitik",
+   "art": "konflikt",
+   "ort": {
+    "name": "Pjöngjang",
+    "lat": 39.04,
+    "lon": 125.76
+   }
+  },
+  {
+   "title": "Isoliert lebende Awá bitten im Amazonas um Nahrung",
+   "summary": "Menschen des Awá-Volkes sind am Rand eines Dorfes im brasilianischen Regenwald erschienen, offenbar aus Hunger. Eine Menschenrechtsorganisation spricht von einer Notlage.",
+   "url": "https://www.deutschlandfunk.de/isoliert-lebende-indigene-erscheinen-in-amazonas-dorf-106.html",
+   "source": "Deutschlandfunk",
    "category": "Katastrophen & Klima",
    "art": "katastrophe",
    "ort": {
-    "name": "Kemerowo",
-    "lat": 55.35,
-    "lon": 86.09
-   },
-   "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+    "name": "Brasilien",
+    "lat": -15.79,
+    "lon": -47.88
+   }
   },
   {
-   "title": "Huthi erobern Meerenge Bab al-Mandab",
-   "summary": "Zum zweiten Mal in wenigen Monaten kontrollieren die vom Iran unterstützten Huthi die Meerenge im Süden Jemens. Das ist ein Rückschlag für die Regierung und Saudi-Arabien.",
+   "title": "Serbien: Studentenbewegung zieht ins Parlament ein",
+   "summary": "Nach ihrem Wahlsieg ist das serbische Parlament erstmals mit den Vertretern der Studentenbewegung zusammengekommen.",
+   "url": "https://www.nzz.ch/international/nach-dem-wahlsieg-in-serbien-studentenbewegung-nimmt-arbeit-im-parlament-auf-ld.10063246",
    "source": "NZZ",
-   "category": "Krieg & Konflikte",
-   "art": "konflikt",
-   "ort": {
-    "name": "Bab al-Mandab",
-    "lat": 12.58,
-    "lon": 43.33
-   },
-   "hamburg": "Die Meerenge liegt an einer Route für Containerschiffe zwischen Asien und Europa, auch für den Hamburger Hafen.",
-   "url": "https://www.nzz.ch/international/huthi-rebellen-triumphieren-bab-al-mandab-erneut-erobert-ld.10065211"
-  },
-  {
-   "title": "Opposition übernimmt Parlamentsvorsitz in Israel",
-   "summary": "Die Knesset wählt Matan Kahana, einen Verbündeten von Gadi Eisenkot, zum Sprecher. Der Anti-Netanjahu-Block gewinnt damit einen wichtigen Schritt.",
-   "source": "tagesschau",
-   "category": "Weltpolitik",
-   "art": "politik",
-   "ort": {
-    "name": "Jerusalem",
-    "lat": 31.77,
-    "lon": 35.21
-   },
-   "url": "https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html"
-  },
-  {
-   "title": "Großbritannien sanktioniert Firmen wegen Siedlungspolitik",
-   "summary": "London verhängt Sanktionen gegen Firmen, die an der israelischen Siedlungspolitik beteiligt sind. Es sind die ersten Strafmaßnahmen dieser Art seit der angekündigten härteren Linie.",
-   "source": "Spiegel",
-   "category": "Weltpolitik",
-   "art": "politik",
-   "ort": {
-    "name": "Westjordanland",
-    "lat": 31.95,
-    "lon": 35.3
-   },
-   "url": "https://www.spiegel.de/ausland/siedlungspolitik-grossbritannien-verhaengt-sanktionen-gegen-israelische-baufirmen-a-6c7e3aa3-91f4-469f-a99b-bb170eca3369#ref=rss"
-  },
-  {
-   "title": "Serbien: Neues Parlament tritt zusammen",
-   "summary": "Nach dem Wahlsieg der Studentenliste wollen die neuen Abgeordneten fast alles umkrempeln. Wer die Schlüsselposten der Regierung besetzt, ist noch unklar.",
-   "source": "tagesschau",
    "category": "Europa",
    "art": "politik",
    "ort": {
     "name": "Belgrad",
     "lat": 44.79,
     "lon": 20.46
-   },
-   "url": "https://www.tagesschau.de/ausland/europa/serbien-parlament-konstituierung-100.html"
+   }
   },
   {
-   "title": "Demokratin Peltola gewinnt Senatssitz in Alaska",
-   "summary": "Damit ist das letzte Senatsrennen der US-Zwischenwahlen entschieden.",
+   "title": "Polen: Geheimdienste befürchteten Anschlag bei Kaliningrad",
+   "summary": "Laut der Zeitung „Rzeczpospolita“ rechneten Polens Dienste Ende Oktober mit einem schweren Anschlag im Grenzgebiet. Daraufhin wurden Militär und Polizei an die Grenze geschickt.",
+   "url": "https://www.spiegel.de/ausland/polen-geheimdienste-gingen-offenbar-von-schwerem-russischem-anschlag-bei-kaliningrad-aus-a-428c6bd7-cf5c-447b-b8ba-d6c93bd2d7dd#ref=rss",
    "source": "Spiegel",
-   "category": "Weltpolitik",
-   "art": "politik",
-   "ort": {
-    "name": "Alaska",
-    "lat": 61.22,
-    "lon": -149.9
-   },
-   "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-alaska-demokratin-mary-peltola-gewinnt-senatssitz-a-b554031e-e4d7-4cee-8cd5-fdc85ce23d63#ref=rss"
-  },
-  {
-   "title": "Sudan: Drohnen töten die meisten Menschen im Krieg",
-   "summary": "Laut UN gehen fast drei Viertel der Kriegstoten in diesem Jahr auf Drohnen zurück.",
-   "source": "Reuters",
-   "category": "Krieg & Konflikte",
+   "category": "Europa",
    "art": "konflikt",
    "ort": {
-    "name": "Khartum",
-    "lat": 15.5,
-    "lon": 32.56
-   },
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUzVVZlh0cUIxWFBYU2NGYnZWdHZmc1RLY3oyNm51NTlQQjJEMFlVclNsN2tWM0FjMmRycVdsMXQ2WW4xeUJZYVR1V3lac2ZBTmJ4RWcxYXVxaFlGV1dNbXM3OG5FOXhheVdiM0dzUVktZnJZZkQxNUU4ZWZuM0lWV2JyZXVKUXZtcDl2RHVaTVRtRGN1ZFdPckdPQ0dZSFI1SDVfVGlPbWhYa0o0alNCNFdsSDgtUkhxakRWZw?oc=5"
+    "name": "Kaliningrad",
+    "lat": 54.71,
+    "lon": 20.51
+   }
   },
   {
-   "title": "Klimakonferenz: EU-Kommissar kritisiert Abschlussentwurf",
-   "summary": "Auf der UN-Klimakonferenz in der Türkei kritisiert EU-Klimakommissar Hoekstra den Entwurf der Abschlusserklärung.",
-   "source": "Deutschlandfunk",
+   "title": "Russisches Militärflugzeug stürzt in Sibirien ab, 19 Tote",
+   "summary": "Nach Angaben des Verteidigungsministeriums sind beim Absturz eines Transportflugzeugs 19 Menschen gestorben.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXdUMzJNWXItalNlM2xFWFlCdUM3X1lqTllNY0htY2lQZl8tYUYybkE4bFlwRWlaUFBJZ3NBcnVfSUY0cmtyeS1ZSHpNN2dKdHU2S19RVF9nbTBnY3VkaWpRMFdCSzFWbDdReFV0RzJaRXprS1ZaZmNFLVNiWTRZb0JlUzE5MGtMbWF5eUJwM0pwY2FQcEpBTFBzRW9HVXdTRUpQYi03Nk9uOXpUUTFMYUxLM05UR3VCY2c?oc=5",
+   "source": "Reuters",
    "category": "Katastrophen & Klima",
-   "art": "politik",
-   "ort": {
-    "name": "Antalya",
-    "lat": 36.9,
-    "lon": 30.71
-   },
-   "url": "https://www.deutschlandfunk.de/eu-klimakommissar-hoekstra-kritisiert-beschlussvorlage-104.html"
+   "art": "katastrophe"
   },
   {
-   "title": "Kanada schaut wegen US-Zöllen nach China",
-   "summary": "Premier Carney hat angedeutet, dass chinesische Autobauer US-Hersteller in Kanada ersetzen könnten. Experten bezweifeln, dass das einfach wird.",
-   "source": "BBC",
-   "category": "Wirtschaft & Handel",
-   "art": "wirtschaft",
-   "ort": {
-    "name": "Ottawa",
-    "lat": 45.42,
-    "lon": -75.7
-   },
-   "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "title": "EU-Kommission genehmigt Hamburger Hafeninvestitionen",
-   "summary": "Die Kommission gibt grünes Licht für Investitionen im Hamburger Hafen.",
-   "source": "Hamburg.de",
+   "title": "Finnlands Häfen setzen auf Hamburg",
+   "summary": "Der NDR berichtet über Containerboom, Drohnenalarm und Lehren in Hafensicherheit zwischen Finnland und Hamburg.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2ZobFZBbUpSUzJobnRWLUdxc19DVjJRV09DT1oyRF9uNjNwZm1LVGMxRDlLZHpxa2lCM0w2bnB4aUJKM1FzaGVoeEppUDRnNGtYdHBaal9iXzlqMXBWYTN6UEFYMXFPcGxZUllPdHdPSmZYZXpZZEh1UjU4cVJXenpoa1dodUhsRVE1SDQ5SmVZMDBjU2NnQnNXVk56c19QR3c0VF8wYUlPUUNrRl8wWg?oc=5",
+   "source": "NDR",
    "category": "Hafen & Schifffahrt",
    "art": "wirtschaft",
    "ort": {
@@ -273,22 +273,7 @@
     "lat": 53.55,
     "lon": 9.99
    },
-   "hamburg": "Das betrifft den Hamburger Hafen direkt.",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGNMUVJqSk5Yb0xUeFNDMTUyb3JCTnZyR21acFZvV2xmeDBzSzBSWEhWX0JGZFRObFl0a3pNN2RoMVhVSkhkSThPTnpaNGhOdjJ5NVc2eFl6ZHlNYldidmtQSHFpb0ZYU3JmR1dRRFpWVTBhZ1IxLVBlVUZMVEZYbDJKNmswTkNPbDZSbU1CM1JnNnJwRUNlUkxTUWRrTXoxc1NJY2RhSVNDYUZma0dj?oc=5"
-  },
-  {
-   "title": "Schwimmendes LNG-Terminal in Stade geht in Betrieb",
-   "summary": "Der Stader Hafen wird laut Abendblatt zum Energie-Standort.",
-   "source": "Hamburger Abendblatt",
-   "category": "Hafen & Schifffahrt",
-   "art": "wirtschaft",
-   "ort": {
-    "name": "Stade",
-    "lat": 53.6,
-    "lon": 9.48
-   },
-   "hamburg": "Das Terminal liegt nahe Hamburg und soll die Gasversorgung im Norden verbessern.",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM25PdERObDlNNVl6UWJyOGk4dG9VMVFUNzJ5QTU5NjhEQlFMTEtteUdvbGRQdTZSQlBhVmN2YUlvWTFZX19iRmp3bEZ2SFhUb1RPSU1QZ04zWVdpYnI2eWhsWFRISW8tV3Vuc1YxRkxiVEwzODdKeEtvaWd0cllOLTQtNF9RZjdEay0xNTB3enZaTjBFVDUzM18xRGI3LXlkWXhIX0tTVFZPa0p5MGNKcVl6T1NGMDJQMWgxUURyRFNTWlB4X2U1aVpJUDkzVVpZQ2RaNC1IdFk0Zw?oc=5"
+   "hamburg": "Hamburgs Hafen ist als Partner für Finnlands Häfen gefragt."
   }
  ]
 }
