@@ -1114,42 +1114,42 @@
  },
  "hf": [
   {
-   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 567,
-   "downloads": 377,
-   "task": "image-text-to-text"
-  },
-  {
-   "id": "Lightricks/LTX-2.5",
-   "likes": 12586,
-   "downloads": 2871190,
-   "task": "image-to-video"
-  },
-  {
-   "id": "thinkingmachines/Inkling-2-Small",
-   "likes": 501,
-   "downloads": 30082,
-   "task": "image-text-to-text"
-  },
-  {
    "id": "higurashi-ai/Haru-4B",
-   "likes": 811,
+   "likes": 1299,
    "downloads": 5314,
    "task": "audio-to-audio"
   },
   {
+   "id": "Qwen/Qwen3.8-27B",
+   "likes": 20590,
+   "downloads": 6888351,
+   "task": "image-text-to-text"
+  },
+  {
+   "id": "tencent/Hy4-flash",
+   "likes": 269,
+   "downloads": 159,
+   "task": "image-text-to-text"
+  },
+  {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 1589,
+   "likes": 1601,
    "downloads": 759661,
    "task": "text-to-image"
   },
   {
-   "id": "Qwen/Qwen3.8-27B",
-   "likes": 20574,
-   "downloads": 6888351,
+   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+   "likes": 636,
+   "downloads": 377,
    "task": "image-text-to-text"
+  },
+  {
+   "id": "n4ze3m/tiny-voca",
+   "likes": 302,
+   "downloads": 4430,
+   "task": "text-to-speech"
   }
  ],
- "updated": "2026-11-19T05:25:35.712Z",
+ "updated": "2026-11-19T08:40:45.015Z",
  "updatedDay": "2026-11-06"
 }
