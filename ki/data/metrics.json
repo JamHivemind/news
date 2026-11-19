@@ -49,6 +49,11 @@
    "cs.AI": 109,
    "cs.LG": 107,
    "cs.CL": 60
+  },
+  "2026-11-19": {
+   "cs.AI": 82,
+   "cs.LG": 118,
+   "cs.CL": 42
   }
  },
  "stocks": {
@@ -1109,42 +1114,42 @@
  },
  "hf": [
   {
-   "id": "higurashi-ai/Haru-4B",
-   "likes": 710,
-   "downloads": 5314,
-   "task": "audio-to-audio"
-  },
-  {
    "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 433,
+   "likes": 549,
    "downloads": 377,
    "task": "image-text-to-text"
   },
   {
    "id": "Lightricks/LTX-2.5",
-   "likes": 12574,
+   "likes": 12586,
    "downloads": 2871190,
    "task": "image-to-video"
   },
   {
    "id": "thinkingmachines/Inkling-2-Small",
-   "likes": 495,
+   "likes": 500,
    "downloads": 30082,
    "task": "image-text-to-text"
   },
   {
+   "id": "higurashi-ai/Haru-4B",
+   "likes": 811,
+   "downloads": 5314,
+   "task": "audio-to-audio"
+  },
+  {
    "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 1586,
+   "likes": 1589,
    "downloads": 759661,
    "task": "text-to-image"
   },
   {
    "id": "Qwen/Qwen3.8-27B",
-   "likes": 20565,
+   "likes": 20573,
    "downloads": 6888351,
    "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-19T03:52:43.337Z",
+ "updated": "2026-11-19T05:18:03.999Z",
  "updatedDay": "2026-11-06"
 }
