@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-18T10:16:35.953Z",
+ "fetched": "2026-11-19T02:30:10.813Z",
  "hours": 48,
  "sources": [
   {
@@ -12,7 +12,22 @@
    "name": "deutsche-startups.de (Google News)",
    "focus": "Ersatzweg, falls der direkte Feed ausfällt (sperrt GitHub-Server). Doppelte nur einmal nehmen.",
    "ok": true,
-   "items": []
+   "items": [
+    {
+     "title": "Software & IT - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0dnNCOW9BZ1lidklncWtzS184d2ZPU3F5ZG9rZ1VueTFRUWw4YVdXTi1jSTJuX1ppa3U5Y0t6TWRRMkxOYWg2bHZ5WmZETWo3b0d3eDJGa3FISGR0czJZSEVTQTM1UFg3MDhLREd6ZmE?oc=5",
+     "date": "2026-11-17T04:25:14.000Z",
+     "text": "Software & IT deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    },
+    {
+     "title": "People – Nachrichten und Interviews zu Personen im Ressort People - Seite 1706 - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14ak1uYlB1NEkyN09hdl9YTEVkckNqSWZtZEdVN0ZKRjB0MjlYOEJOQTBtT29xcHI1ZktYb2dyVTFTNjJGRFdhdmsyTV9XeVcxME9UWDNZU0lqcHhTSkdfR0tpNjluTlRBR3c?oc=5",
+     "date": "2026-11-18T15:52:02.000Z",
+     "text": "People – Nachrichten und Interviews zu Personen im Ressort People - Seite 1706 deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    }
+   ]
   },
   {
    "name": "Gründerszene",
@@ -22,13 +37,31 @@
   {
    "name": "EU-Startups",
    "ok": false,
-   "error": "HTTP 403",
+   "error": "HTTP 503",
    "items": []
   },
   {
    "name": "Sifted",
    "ok": true,
    "items": [
+    {
+     "title": "How Payhawk raised $280m amid fintech downturn",
+     "url": "https://sifted.eu/articles/payhawk-series-c/",
+     "date": "2026-11-18T15:03:22.000Z",
+     "text": ""
+    },
+    {
+     "title": "ElevenLabs, Lovable and DeepL CEOs urge EU to back homegrown AI",
+     "url": "https://sifted.eu/articles/elevenlabs-lovable-deepl-yann-lecun-eu-ai-open-letter/",
+     "date": "2026-11-18T12:30:18.000Z",
+     "text": ""
+    },
+    {
+     "title": "How to bounce back from losing your dream job",
+     "url": "https://sifted.eu/articles/what-to-do-after-losing-your-dream-job/",
+     "date": "2026-11-18T10:40:37.000Z",
+     "text": ""
+    },
     {
      "title": "Anthropic’s $1.4tn IPO puts Europe’s AI boom to the test",
      "url": "https://sifted.eu/articles/anthropic-ipo-puts-europe-ai-boom-to-the-test/",
@@ -94,12 +127,6 @@
      "url": "https://sifted.eu/articles/thiel-fintech-majority-rebtel-merge/",
      "date": "2026-11-17T05:00:14.000Z",
      "text": ""
-    },
-    {
-     "title": "Starling Bank CEO to step down at the end of the year",
-     "url": "https://sifted.eu/articles/starling-ceo-to-step-down/",
-     "date": "2026-11-16T16:01:40.000Z",
-     "text": ""
     }
    ]
   },
@@ -108,6 +135,24 @@
    "focus": "Nur Europa-Bezug oder sehr große Runden",
    "ok": true,
    "items": [
+    {
+     "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+     "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+     "date": "2026-11-18T19:29:41.000Z",
+     "text": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents."
+    },
+    {
+     "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+     "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+     "date": "2026-11-18T12:00:00.000Z",
+     "text": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
+    },
+    {
+     "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+     "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+     "date": "2026-11-18T11:30:00.000Z",
+     "text": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
+    },
     {
      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
@@ -131,30 +176,6 @@
      "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
      "date": "2026-11-17T14:00:00.000Z",
      "text": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had."
-    },
-    {
-     "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-     "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-     "date": "2026-11-16T23:32:32.000Z",
-     "text": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
-    },
-    {
-     "title": "Island is a new screen-time app that turns staying off your phone into a game",
-     "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
-     "date": "2026-11-16T18:54:18.000Z",
-     "text": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits."
-    },
-    {
-     "title": "After dodging death, battery startup Our Next Energy is now going public",
-     "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
-     "date": "2026-11-16T13:00:00.000Z",
-     "text": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in the cutthroat battery industry?"
-    },
-    {
-     "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-     "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-     "date": "2026-11-16T12:30:00.000Z",
-     "text": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
     }
    ]
   },
@@ -163,6 +184,13 @@
    "focus": "Nur echte Startup-Meldungen aus Hamburg und Norddeutschland (Gründung, Finanzierung, Produkt). Restaurants, Läden und Nachrufe ignorieren. Reicht 7 Tage zurück.",
    "ok": true,
    "items": [
+    {
+     "title": "Hamburger E-Scooter-Pionier Egret insolvent – Gründer: „Ich schäme mich nicht“ - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRm12Q2hJczBxTVdqU191a19Ec0x5TGpQRTVaNEZWNEhvYWNvQnZwVU9veFF2OURMMjlmOVpCZldBNGxiY0pWbjlGX25QUVlYWFBXT1VfREZhS1h6Y3RHTFNCREtOTm5JcWM3V1RVV0loWEZOMzdCUVcxWWFhbEtCdjhsblZsZmVZSEtJMmRvcjFIcElIdlFfR1ZHc1FLeUhQaHRjN0JfaThhSXJNN1FFcnBaOFNIcjZqazIya1BXSGlrWjFESk1aMVVFUkpYSERlSDU2Z2h0bFo?oc=5",
+     "date": "2026-11-18T12:12:00.000Z",
+     "text": "Hamburger E-Scooter-Pionier Egret insolvent – Gründer: „Ich schäme mich nicht“ Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
     {
      "title": "Gute Nachrichten fürs Reeperbahn Festival: Finanzierung für 2027 ist gesichert - NDR.de",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFg5a0dpVGYzeWN1SHdxVm1LWm02dkVfZnlsODFXS0xtZnN0TUN1b2l3YmtEZ0xCOUVySVNwaUNNY21xa1dNbmdYYVBmbkYtOVJybnU5SzVQNVhBc0RldXZrYzlaRDhDczlGS2N1Tks1a09mRXY5dTlMTnM5WFV0MGItQVFpYld5LU5PNWtiMjk4UkRtTGZSaV9xT1BMOTRWSnJPREJRZGprX0NJYWl1dFdn?oc=5",
@@ -178,10 +206,10 @@
    "ok": true,
    "items": [
     {
-     "title": "Asynchronics erhält 3,1 Millionen Dollar für digitale Satellitenmodelle - Startbase",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEVfc2N0SE9SMzhKV1Z2TThPeG0waTAtTk1lYkJKeWplOUJvYzgwQnFaTU56Y29mZ2JKMTRCcFJKNE9YT3RXTmVnYTM3OExNVjRDeVlVU05YeHh4bFpYZno2elRfNm8xMVJIUnRYSUpnM0Y4N20yVEF0RmlRS0hWV2RWQ2ZzLV9PeE02ZU5HbDBTNWU3VDFiTzNObzRwcjRTNGhVMWpn?oc=5",
-     "date": "2026-11-17T08:00:00.000Z",
-     "text": "Asynchronics erhält 3,1 Millionen Dollar für digitale Satellitenmodelle Startbase",
+     "title": "CloudBackend erhält 6,6 Millionen Euro für KI-basierte Cloud-Infrastruktur - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0lfOS1LdDRYazFrcTdmenZsUDYzWVJBbXBCUmVFUW9iNzBIcXUzSjlEYko4ZzBnbVR2WG1qN3JaMFM0dDR1VFNsZFNNZjFkQW9hTXVnSlBjbjl5Y3hrcl91dC0zUkpqSjFkeXZkc1BXTC1seWI0VUJNX1dIc0V4QUs5Y3U4SkpGLXk3UTdmRDQ4ODZld0xCa0dpaUVWOW1hMjA5b05CY2xQQQ?oc=5",
+     "date": "2026-11-18T12:01:21.000Z",
+     "text": "CloudBackend erhält 6,6 Millionen Euro für KI-basierte Cloud-Infrastruktur Startbase",
      "via": "Startbase"
     },
     {
@@ -190,6 +218,13 @@
      "date": "2026-11-17T08:48:01.000Z",
      "text": "Fermat: KI-Modestartup aus Barcelona holt 8 Mio. Dollar und zieht nach New York Trending Topics",
      "via": "Trending Topics"
+    },
+    {
+     "title": "Asynchronics erhält 3,1 Millionen Dollar für digitale Satellitenmodelle - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEVfc2N0SE9SMzhKV1Z2TThPeG0waTAtTk1lYkJKeWplOUJvYzgwQnFaTU56Y29mZ2JKMTRCcFJKNE9YT3RXTmVnYTM3OExNVjRDeVlVU05YeHh4bFpYZno2elRfNm8xMVJIUnRYSUpnM0Y4N20yVEF0RmlRS0hWV2RWQ2ZzLV9PeE02ZU5HbDBTNWU3VDFiTzNObzRwcjRTNGhVMWpn?oc=5",
+     "date": "2026-11-17T08:00:00.000Z",
+     "text": "Asynchronics erhält 3,1 Millionen Dollar für digitale Satellitenmodelle Startbase",
+     "via": "Startbase"
     },
     {
      "title": "MediPulse erhält 2,6 Millionen Euro für KI-gestützte Praxisverwaltung - Startbase",

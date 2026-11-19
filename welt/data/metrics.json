@@ -263,7 +263,11 @@
    ],
    [
     "2026-11-18",
-    89.27
+    91.95
+   ],
+   [
+    "2026-11-19",
+    89.39
    ]
   ],
   "GC=F": [
@@ -529,7 +533,11 @@
    ],
    [
     "2026-11-18",
-    3777.6
+    3741.9
+   ],
+   [
+    "2026-11-19",
+    3750.1
    ]
   ],
   "^GDAXI": [
@@ -799,7 +807,7 @@
    ],
    [
     "2026-11-18",
-    26100.2
+    25736.24
    ]
   ]
  },
@@ -951,7 +959,7 @@
    ],
    [
     "2026-11",
-    1.099
+    1.097
    ]
   ]
  },
@@ -963,6 +971,14 @@
    "lon": 131.4868,
    "lat": -6.0602,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu"
+  },
+  {
+   "mag": 6.1,
+   "place": "Pacific-Antarctic Ridge",
+   "time": "2026-11-18T19:14:23.713Z",
+   "lon": -146.746,
+   "lat": -57.7514,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37"
   }
  ],
  "gdacs": [
@@ -973,11 +989,11 @@
    "name": "Tropical Cyclone AKVAN-26",
    "country": "India",
    "from": "2026-11-16",
-   "to": "2026-11-18",
-   "lon": 86.9,
-   "lat": 13.1,
-   "url": "https://www.gdacs.org/report.aspx?eventid=1001351&episodeid=7&eventtype=TC"
+   "to": "2026-11-19",
+   "lon": 86.2,
+   "lat": 14.6,
+   "url": "https://www.gdacs.org/report.aspx?eventid=1001351&episodeid=10&eventtype=TC"
   }
  ],
- "updated": "2026-11-18T10:17:29.779Z"
+ "updated": "2026-11-19T02:30:59.810Z"
 }
