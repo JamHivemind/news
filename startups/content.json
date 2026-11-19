@@ -1,106 +1,92 @@
 {
- "date": "2026-11-18",
- "intro": "Heute dominieren große Runden bei KI-Startups: Isomorphic Labs sammelt 5 Milliarden Dollar ein, Model ML wird zum Einhorn. Dazu kommen Roboter-Startups und mehrere Seed-Runden aus Europa.",
+ "date": "2026-11-19",
+ "intro": "Heute stehen große Finanzierungsrunden im Vordergrund: Isomorphic Labs holt Milliarden, Payhawk wird Bulgariens erstes Einhorn. Aus Hamburg gibt es dagegen eine Pleite zu melden.",
  "top": [
   {
-   "title": "Isomorphic Labs sammelt 4,5 Milliarden Euro ein",
-   "text": "Das KI-Pharmaunternehmen aus dem Umfeld von Google DeepMind hat eine Series C über 4,5 Milliarden Euro (5 Milliarden Dollar) abgeschlossen. Angeführt wurde die Runde von Greenoaks und Sequoia Capital, dazu kommen Andreessen Horowitz und weiter Alphabet. Das Geld soll Forschung und die eigene KI-Technik voranbringen. Isomorphic entwickelt mit KI neue Medikamente (Series C ist eine späte Finanzierungsstufe).",
-   "source": "EU-Startups",
-   "category": "Finanzierungen",
-   "url": "https://www.eu-startups.com/2026/11/ai-drug-discovery-giant-isomorphic-labs-raises-e4-5-billion-in-blockbuster-funding-round/"
-  },
-  {
-   "title": "Model ML wird Europas neues Einhorn",
-   "text": "Das Londoner Startup entwickelt KI-Agenten für Finanz- und Beratungsfirmen. Es hat 227 Millionen Euro (250 Millionen Dollar) in einer Series B eingesammelt, bei einer Bewertung von 1,3 Milliarden Euro. Ein Einhorn ist ein Startup mit über einer Milliarde Bewertung. Mit dem Geld wachsen die Teams in London und New York.",
-   "source": "EU-Startups",
-   "category": "Europa & Welt",
-   "url": "https://www.eu-startups.com/2026/11/model-ml-is-europes-newest-unicorn-with-e227-million-raise-to-put-ai-agents-to-work-in-finance-makes/"
-  },
-  {
-   "title": "Genesis AI sammelt 500 Millionen Dollar ein",
-   "text": "Das Robotik-Startup Genesis AI hat laut Sifted 500 Millionen Dollar erhalten. Nvidia gehört zu den Geldgebern. Roboter mit KI sind aktuell eines der heißesten Investorenthemen.",
+   "title": "Isomorphic Labs sammelt 5 Milliarden Dollar ein",
+   "text": "Das KI-Pharma-Start-up Isomorphic Labs hat laut Sifted 5 Milliarden Dollar eingesammelt. Zu den Geldgebern zählen die Investoren Sequoia und A16z. Isomorphic nutzt KI, um neue Medikamente zu entwickeln. Die Runde gehört damit zu den größten, die ein europäisches Start-up je erreicht hat.",
+   "url": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/",
    "source": "Sifted",
-   "category": "Finanzierungen",
-   "url": "https://sifted.eu/articles/genesis-ai-raises-500m/"
+   "category": "Finanzierungen"
+  },
+  {
+   "title": "Payhawk: Bulgariens erstes Einhorn",
+   "text": "Payhawk, ein Anbieter für Ausgabenverwaltung in Firmen, hat in einer Series-C-Runde 255 Millionen Euro (280 Millionen Dollar) eingesammelt. Angeführt hat Goldman Sachs. Das Unternehmen wird mit 1,82 Milliarden Euro bewertet und ist damit ein „Einhorn“, also ein Start-up mit über einer Milliarde Bewertung. Das Start-up mit Sitz in London nutzt KI-Agenten, die Ausgaben und Einkäufe verwalten.",
+   "url": "https://www.eu-startups.com/2026/11/bulgarias-first-unicorn-payhawk-raises-e255-14-million-at-e1-82-billion-valuation-to-build-a-global-finance-os-for-the-ai-era/",
+   "source": "EU-Startups",
+   "category": "Finanzierungen"
+  },
+  {
+   "title": "Atomico: Europa steuert auf zweitbestes Investitionsjahr zu",
+   "text": "Der Report „State of European Tech 2026“ von Atomico sieht Europas Tech-Szene auf dem Weg zum zweitbesten Investitionsjahr überhaupt. Es gibt größere Finanzierungsrunden und eine neue Generation von Gründern. Für deutsche Gründer heißt das: Das Umfeld für große Runden ist gut, wenn auch nicht auf Rekordniveau.",
+   "url": "https://www.eu-startups.com/2026/11/5-key-findings-from-atomicos-state-of-european-tech-2026/",
+   "source": "EU-Startups",
+   "category": "Europa & Welt"
   }
  ],
  "entries": [
   {
-   "title": "Commit Biologics aus Kopenhagen holt 54 Millionen Euro",
-   "summary": "Das Biotech-Startup entwickelt Mittel gegen Krebs und Autoimmunkrankheiten. Die Seed-Runde führte Ackermans & van Haaren an. Der erste Wirkstoff soll näher an klinische Tests rücken.",
+   "title": "Disseqt AI sammelt 7,3 Millionen Euro ein",
+   "summary": "Das Dubliner Start-up bietet eine Plattform, mit der Unternehmen KI-Agenten sicher einsetzen können, und holt dafür 7,3 Millionen Euro (8 Millionen Dollar).",
+   "url": "https://www.eu-startups.com/2026/11/irelands-disseqt-ai-raises-e7-3-million-to-safely-deploy-ai-agents/",
    "source": "EU-Startups",
-   "category": "Deep Tech & Forschung",
-   "url": "https://www.eu-startups.com/2026/11/denmarks-commit-biologics-secures-e54-million-seed-funding-to-advance-cancer-and-autoimmune-therapies/"
+   "category": "Finanzierungen"
   },
   {
-   "title": "Britische KI-Kanzlei Alecto bekommt 18 Millionen Euro",
-   "summary": "Insight Partners führt die Seed-Runde an. Alecto will über Immobilienkäufe hinaus weitere Bereiche des Verbraucherrechts abdecken; der erste Auslandsstart ist für 2027 geplant.",
+   "title": "MountAIn: Fortschrittliche KI auf Chips unter 9 Euro",
+   "summary": "Das französische Start-up aus Grenoble hat 7,3 Millionen Euro Seed-Geld erhalten, um KI auf sehr günstigen Mikrocontrollern laufen zu lassen.",
+   "url": "https://www.eu-startups.com/2026/11/french-frugal-ai-infrastructure-startup-mountain-raises-e7-3-million-to-bring-advanced-ai-to-sub-e9-chips/",
    "source": "EU-Startups",
-   "category": "Finanzierungen",
-   "url": "https://www.eu-startups.com/2026/11/alecto-lands-e18-million-to-scale-its-ai-powered-law-firm-beyond-property-transactions/"
+   "category": "Deep Tech & Forschung"
   },
   {
-   "title": "Fermat aus Barcelona: 8 Millionen Dollar und Umzug nach New York",
-   "summary": "Das KI-Startup für Mode- und Luxusmarken holt Seed-Geld und eröffnet ein Büro in New York.",
-   "source": "Trending Topics",
-   "category": "Finanzierungen",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSW83dVYwOGRudUN5STN4X0F1OTFSSDFQd3VsVEVjNzFrRWVHY2dwcmEwZzRzWk1aREFnUFVWOVg1V0pWSWk1b1JySkFlYThzbjZvVEIwMjltckp2cHk3clJVVzZOanhWSTlaLUg2eHQ1ZXNJNzI2WHVVd2pkRXhCUzBXc2FBdF9rbVFlRnVPSEJwSm1OV1JlTEp0QW13WkJBdUVIaHBWNmZJSDFE?oc=5"
-  },
-  {
-   "title": "Atomico legt Bericht zum Stand der europäischen Tech-Szene vor",
-   "summary": "Sifted fasst acht zentrale Ergebnisse des Reports „State of European Tech“ zusammen.",
-   "source": "Sifted",
-   "category": "Europa & Welt",
-   "url": "https://sifted.eu/articles/atomico-state-of-european-tech-report-2026/"
-  },
-  {
-   "title": "Münchner Humanoid-Startup Vesoma sucht 50 Millionen Euro",
-   "summary": "Laut Sifted will das Startup Geld für Roboter in Menschengestalt einsammeln. Es ist bisher eine Suche, keine abgeschlossene Runde.",
-   "source": "Sifted",
-   "category": "Deep Tech & Forschung",
-   "url": "https://sifted.eu/articles/exclusive-munich-based-humanoid-startup-vesoma-seeks-e50m/"
-  },
-  {
-   "title": "Neues Startup von H-Company-Veteranen: 30 Millionen Dollar Seed",
-   "summary": "EQT und FirstMark unterstützen ein Trio ehemaliger H-Company-Mitarbeiter.",
-   "source": "Sifted",
-   "category": "Finanzierungen",
-   "url": "https://sifted.eu/articles/remanence-30m-seed-round/"
-  },
-  {
-   "title": "Science Corp. ist nach neuer Runde 3,5 Milliarden Dollar wert",
-   "summary": "Das Neurotechnik-Startup holte 400 Millionen Dollar in einer Series D, um sein Geschäft gegen Blindheit auszubauen.",
+   "title": "Unsiloed AI erhält 7,5 Millionen Dollar",
+   "summary": "Felicis führt die Runde für das Start-up mit sieben Mitarbeitern, das Firmendokumente für KI-Agenten nutzbar machen will.",
+   "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
    "source": "TechCrunch Startups",
-   "category": "Finanzierungen",
-   "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+   "category": "Finanzierungen"
   },
   {
-   "title": "Pedestal AI erhält 4,7 Millionen Dollar",
-   "summary": "Das Startup setzt KI-Agenten ein, damit Lieferketten schneller und zuverlässiger laufen.",
+   "title": "Humyn Labs aus Indien sammelt 47 Millionen Dollar ein",
+   "summary": "Das Start-up liefert Trainingsdaten für Robotik-Firmen. Rund 90 Prozent des Umsatzes kommen aus den USA.",
+   "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
    "source": "TechCrunch Startups",
-   "category": "Finanzierungen",
-   "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
+   "category": "Finanzierungen"
   },
   {
-   "title": "Asynchronics erhält 3,1 Millionen Dollar für digitale Satellitenmodelle",
-   "summary": "Das Startup baut digitale Modelle von Satelliten. Das Geld kommt aus einer neuen Finanzierungsrunde.",
+   "title": "Nvidias Start-up-Beteiligungen wachsen auf 65 Milliarden Dollar",
+   "summary": "Der Wert der privaten Investments hat sich in neun Monaten fast verdreifacht. Nach dem Abgang von Firmenchef Huang ist offen, ob weitere Deals folgen.",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "source": "TechCrunch Startups",
+   "category": "Europa & Welt"
+  },
+  {
+   "title": "CEOs von ElevenLabs, Lovable und DeepL fordern EU-Unterstützung",
+   "summary": "Die Chefs der drei Start-ups rufen die EU laut Sifted auf, heimische KI-Firmen zu fördern.",
+   "url": "https://sifted.eu/articles/elevenlabs-lovable-deepl-yann-lecun-eu-ai-open-letter/",
+   "source": "Sifted",
+   "category": "Förderung & Politik"
+  },
+  {
+   "title": "Schneider Electric Ventures startet Accelerator in Europa",
+   "summary": "Exklusiv bei Sifted: Der Investment-Arm bringt sein Accelerator-Programm nach Europa.",
+   "url": "https://sifted.eu/articles/schneider-electric-ventures-accelerator-scheme-europe/",
+   "source": "Sifted",
+   "category": "Förderung & Politik"
+  },
+  {
+   "title": "CloudBackend erhält 6,6 Millionen Euro",
+   "summary": "Das Start-up entwickelt KI-basierte Cloud-Infrastruktur und hat 6,6 Millionen Euro eingesammelt.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0lfOS1LdDRYazFrcTdmenZsUDYzWVJBbXBCUmVFUW9iNzBIcXUzSjlEYko4ZzBnbVR2WG1qN3JaMFM0dDR1VFNsZFNNZjFkQW9hTXVnSlBjbjl5Y3hrcl91dC0zUkpqSjFkeXZkc1BXTC1seWI0VUJNX1dIc0V4QUs5Y3U4SkpGLXk3UTdmRDQ4ODZld0xCa0dpaUVWOW1hMjA5b05CY2xQQQ?oc=5",
    "source": "Startbase",
-   "category": "Finanzierungen",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEVfc2N0SE9SMzhKV1Z2TThPeG0waTAtTk1lYkJKeWplOUJvYzgwQnFaTU56Y29mZ2JKMTRCcFJKNE9YT3RXTmVnYTM3OExNVjRDeVlVU05YeHh4bFpYZno2elRfNm8xMVJIUnRYSUpnM0Y4N20yVEF0RmlRS0hWV2RWQ2ZzLV9PeE02ZU5HbDBTNWU3VDFiTzNObzRwcjRTNGhVMWpn?oc=5"
+   "category": "Finanzierungen"
   },
   {
-   "title": "MediPulse bekommt 2,6 Millionen Euro für KI-Praxisverwaltung",
-   "summary": "Die Software soll Arztpraxen bei der Verwaltung mit KI unterstützen.",
-   "source": "Startbase",
-   "category": "Finanzierungen",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFRveHJyQTdZaVdfMzJDWU93WS1aaVVJRVZSVVBxb2VhaDdOc1drX1ZyR3JkS2pvVkQtdmdySGpfYVdxVVdVOFdSMTk3cnZjaFhMV054aWxtRjM3YVNhVzdscTYtTEFjMkFzRjdlTnVoaEgtWVMxRWJmM05DeXM2aTFYeWpGVENFWWo0TFlfUk5IMUpLaTNfZ3hIdk1lMVhFQ19lUw?oc=5"
-  },
-  {
-   "title": "Salufast baut mit Fastenkuren ein Millionengeschäft auf",
-   "summary": "deutsche-startups.de porträtiert das Unternehmen und seinen Weg zum Millionenumsatz.",
-   "source": "deutsche-startups.de",
-   "category": "Gründungen & Produkte",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDJBNzUyYUZ1RkZ4UzVYTlhJRXA3OHhnSkR1OWdJUS1hMjh0TmRDMmloa0NnckdlS1Z5dFd5djJZWndyQzhZRFh0UDVILVRWcUlFd0JmU3UzUXlFZ1RWb3lzTFI5ZERtY1dVV0ZvSkFNT0EyMW9WdHJ0Z094RkVSemVvcXg3ZEtla0xOQjhuekRpWFBFTXQwQlBBaHZiaXQ5dlhUeEJzYw?oc=5"
+   "title": "Hamburger E-Scooter-Pionier Egret ist insolvent",
+   "summary": "Das Hamburger Unternehmen Egret hat Insolvenz angemeldet. Der Gründer sagt laut Abendblatt: „Ich schäme mich nicht.“",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRm12Q2hJczBxTVdqU191a19Ec0x5TGpQRTVaNEZWNEhvYWNvQnZwVU9veFF2OURMMjlmOVpCZldBNGxiY0pWbjlGX25QUVlYWFBXT1VfREZhS1h6Y3RHTFNCREtOTm5JcWM3V1RVV0loWEZOMzdCUVcxWWFhbEtCdjhsblZsZmVZSEtJMmRvcjFIcElIdlFfR1ZHc1FLeUhQaHRjN0JfaThhSXJNN1FFcnBaOFNIcjZqazIya1BXSGlrWjFESk1aMVVFUkpYSERlSDU2Z2h0bFo?oc=5",
+   "source": "Hamburger Abendblatt",
+   "category": "Hamburg & Norddeutschland"
   }
  ]
 }
