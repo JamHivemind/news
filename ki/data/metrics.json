@@ -59,10 +59,6 @@
  "stocks": {
   "NVDA": [
    [
-    "2026-08-19",
-    217.56
-   ],
-   [
     "2026-08-20",
     216.85
    ],
@@ -317,13 +313,13 @@
    [
     "2026-11-18",
     150.96
+   ],
+   [
+    "2026-11-19",
+    145.98
    ]
   ],
   "MSFT": [
-   [
-    "2026-08-19",
-    484.31
-   ],
    [
     "2026-08-20",
     481.15
@@ -579,13 +575,13 @@
    [
     "2026-11-18",
     508.29
+   ],
+   [
+    "2026-11-19",
+    498.3
    ]
   ],
   "GOOGL": [
-   [
-    "2026-08-19",
-    344.72
-   ],
    [
     "2026-08-20",
     340.67
@@ -841,13 +837,13 @@
    [
     "2026-11-18",
     282.44
+   ],
+   [
+    "2026-11-19",
+    272.66
    ]
   ],
   "META": [
-   [
-    "2026-08-19",
-    546.03
-   ],
    [
     "2026-08-20",
     545.83
@@ -1115,41 +1111,41 @@
  "hf": [
   {
    "id": "higurashi-ai/Haru-4B",
-   "likes": 1610,
-   "downloads": 5314,
+   "likes": 3647,
+   "downloads": 6266,
    "task": "audio-to-audio"
   },
   {
    "id": "tencent/Hy4-flash",
-   "likes": 275,
-   "downloads": 159,
-   "task": "image-text-to-text"
-  },
-  {
-   "id": "Qwen/Qwen3.8-27B",
-   "likes": 20600,
-   "downloads": 6888351,
-   "task": "image-text-to-text"
-  },
-  {
-   "id": "MiniMaxAI/MiniMax-H3-Image",
-   "likes": 1602,
-   "downloads": 759661,
-   "task": "text-to-image"
-  },
-  {
-   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 647,
-   "downloads": 377,
+   "likes": 350,
+   "downloads": 2053,
    "task": "image-text-to-text"
   },
   {
    "id": "apple/FastFrames-L",
-   "likes": 246,
+   "likes": 338,
    "downloads": 0,
    "task": "text-to-video"
+  },
+  {
+   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+   "likes": 741,
+   "downloads": 1320,
+   "task": "image-text-to-text"
+  },
+  {
+   "id": "inworld/voice-isolator",
+   "likes": 272,
+   "downloads": 0,
+   "task": "audio-to-audio"
+  },
+  {
+   "id": "Qwen/Qwen3.8-27B",
+   "likes": 20683,
+   "downloads": 6647301,
+   "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-19T10:18:46.359Z",
+ "updated": "2026-11-20T02:31:30.006Z",
  "updatedDay": "2026-11-06"
 }
