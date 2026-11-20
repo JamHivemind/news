@@ -1,113 +1,24 @@
 {
- "date": "2026-11-19",
- "intro": "Die Koalition hat sich auf billigeren Strom und einen Spritpreisdeckel geeinigt, die Börse hat dagegen mit dem DAX-Rückgang unter 26.000 Punkte Gewinne abgegeben. Dazu kommen der Rekord-Börsengang von Anthropic und eine deutlich angehobene Wachstumsprognose für Deutschland.",
- "top": [
-  {
-   "title": "Koalition senkt Stromsteuer und deckelt Spritpreise",
-   "text": "Union und SPD haben sich im Koalitionsausschuss geeinigt: Ab Januar soll die Stromsteuer für ein Jahr auf das in der EU erlaubte Mindestmaß sinken. Zusätzlich kommt ein zeitlich befristeter Spritpreisdeckel, also eine Obergrenze für den Preis an der Zapfsäule. Für Haushalte und Firmen bedeutet das niedrigere Energiekosten. Der Unionsfraktionschef warnt zugleich vor einer Lücke von 25 Milliarden Euro im Haushalt 2028.",
-   "url": "https://www.tagesschau.de/inland/innenpolitik/was-bringt-stromsteuer-senkung-koalitionsausschuss-100.html",
-   "source": "tagesschau Wirtschaft",
-   "category": "Energie"
-  },
-  {
-   "title": "Anthropic-Börsengang bricht Weltrekord",
-   "text": "Der Claude-Anbieter Anthropic nimmt bei seinem Börsengang 81,3 Milliarden Dollar ein. Ohne zusätzlich zugeteilte Aktien lag der bisherige Rekord bei 75 Milliarden Dollar. Der Ausgabepreis von 83 Dollar je Aktie lag über der erwarteten Spanne. Es ist das erste Mal, dass ein großes KI-Unternehmen an die Börse geht. Anleger bekommen damit eine neue Möglichkeit, auf KI zu setzen.",
-   "url": "https://www.handelsblatt.com/finanzen/maerkte/boersengang-anthropic-knackt-den-ipo-rekord-von-spacex/100270370.html",
-   "source": "Handelsblatt",
-   "category": "Börse & Märkte"
-  },
-  {
-   "title": "EU-Kommission hebt Wachstumsprognose für Deutschland an",
-   "text": "Die EU-Kommission rechnet laut Medienberichten für Deutschland mit deutlich mehr Wirtschaftswachstum als zuvor; sie verdoppelt ihre Prognose. Andere Meldungen nennen für 2026 ein Plus von 1,3 Prozent und zugleich steigende Inflation. Für Beschäftigte und Firmen ist das ein Hoffnungssignal, die Preise bleiben aber ein Thema.",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOEFKcXZsOGNHMWVvemRnVnRydTM0U0l4Tm1nMjdPRUczVHplNDJLeElYb1FhNVhfb29ZWFNpRXZYQ0lvV1dIQ1FZSEgyQkN3TEdSdk5LZjdRR1RWX0pVXzM5emlGVmFGZzVMajFxeFI4WDhqejJwME1kemc4b0ZldmpfbkYzZWRNSXk4LUQ4Tmlfenk5NHZ1Y2RFeG95Q0FnS25qRkdnbmltX2VIbHBkblg1UDdYSVZ3amV0cFBRdmljXzdrMEM4ZmlFV0hhUQ?oc=5",
-   "source": "Handelsblatt",
-   "category": "Konjunktur"
-  }
- ],
- "entries": [
-  {
-   "title": "Commerzbank: Bund und UniCredit einigen sich",
-   "summary": "Die Bundesregierung gibt ihren Widerstand gegen die Übernahme der Commerzbank durch die italienische UniCredit auf. EU und US-Notenbank haben den Deal bereits gebilligt.",
-   "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
-   "source": "tagesschau Wirtschaft",
-   "category": "Unternehmen"
-  },
-  {
-   "title": "DAX fällt unter 26.000 Punkte",
-   "summary": "Das Rekordhoch der Vorwoche ist wieder weg: Der Leitindex schließt mit deutlichem Minus unter der Marke von 26.000 Punkten.",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
-   "source": "tagesschau Wirtschaft",
-   "category": "Börse & Märkte"
-  },
-  {
-   "title": "Brunnermeier als EZB-Chefvolkswirt nominiert",
-   "summary": "Die Bundesregierung schlägt den Ökonomen Markus Brunnermeier für den Posten des Chefvolkswirts der Europäischen Zentralbank vor. Er würde die Zinspolitik mitprägen.",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html",
-   "source": "tagesschau Wirtschaft",
-   "category": "Zinsen & Geldpolitik"
-  },
-  {
-   "title": "Inflationssorgen sind zurück",
-   "summary": "Im tagesschau-Bericht geht es um den Ausblick auf 2027 und die Frage, ob die Zentralbanken wieder an der Zinsschraube drehen müssen. Auch Gold gibt nach: Es ist so billig wie seit 14 Monaten nicht, weil in den USA Maßnahmen gegen die hohe Inflation erwartet werden.",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
-   "source": "tagesschau Wirtschaft",
-   "category": "Zinsen & Geldpolitik"
-  },
-  {
-   "title": "IG Metall: erste ganztägige Warnstreiks seit über acht Jahren",
-   "summary": "Im Tarifkonflikt der Metallindustrie greift die Gewerkschaft zur seltenen „Phase Gelb“: ganze Tage statt weniger Stunden Arbeitsniederlegung. Betroffen sind auch Betriebe in Norddeutschland.",
-   "url": "https://www.handelsblatt.com/politik/deutschland/metall-tarifkonflikt-eskaliert-ganztaegige-warnstreiks-selten-genutzte-phase-gelb/100271107.html",
-   "source": "Handelsblatt",
-   "category": "Arbeit & Soziales"
-  },
-  {
-   "title": "Kabinett will Jobs leichter befristen",
-   "summary": "Die Bundesregierung will befristete Arbeitsverträge erleichtern und den Kündigungsschutz für Hochverdiener lockern. Der Kabinettsentwurf liegt vor.",
-   "url": "https://nius.de/politik/kabinett-beschliesst-entwurf-fuer-befristete-jobs-von-bis-zu-vier-jahren",
-   "source": "NIUS",
-   "category": "Arbeit & Soziales"
-  },
-  {
-   "title": "Deutsche Bank: Datenleck belastet Aktie",
-   "summary": "Ein Datenleck mit mehr als 15 Millionen internen Dokumenten soll an Journalisten gelangt sein. Die Aktie der Deutschen Bank fällt deutlich, Sicherheitspolitiker befassen sich mit dem Fall.",
-   "url": "https://www.handelsblatt.com/politik/deutschland/deutsche-bank-datenleck-soll-fall-fuer-nationalen-sicherheitsrat-werden/100270853.html",
-   "source": "Handelsblatt",
-   "category": "Unternehmen"
-  },
-  {
-   "title": "Baugenehmigungen brechen im September ein",
-   "summary": "Nach mehr als einem Jahr mit steigenden Zahlen gibt es erstmals wieder einen deutlichen Rückgang bei genehmigten Wohnungen. Bauen wird zugleich weiter teurer.",
-   "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/baugenehmigungen-in-deutschland-brechen-im-september-ein-201694683.html",
-   "source": "FAZ Wirtschaft",
-   "category": "Konjunktur"
-  },
-  {
-   "title": "Mittelstand: Moderate Erholung",
-   "summary": "Der Datev-Mittelstandsindex zeigt beim Umsatztrend wieder nach oben. Kleine und mittlere Firmen können etwas Hoffnung schöpfen.",
-   "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/datev-mittelstandsindex-moderate-erholung-aber-keine-entwarnung-201692647.html",
-   "source": "FAZ Wirtschaft",
-   "category": "Konjunktur"
-  },
-  {
-   "title": "Cyberangriff auf Gaslieferanten Equinor",
-   "summary": "Der größte Gasversorger Europas, wichtigster Lieferant Deutschlands, ist Ziel von Cyberkriminellen geworden. Die FAZ ordnet das als Teil hybrider Kriegsführung ein.",
-   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cyberangriff-auf-equinor-deutschlands-wichtigster-gaslieferant-im-visier-201694711.html",
-   "source": "FAZ Wirtschaft",
-   "category": "Energie"
-  },
-  {
-   "title": "GLS und DPD wollen gemeinsame Firma gründen",
-   "summary": "Die beiden Paketdienste arbeiten schon länger zusammen und planen nun ein gemeinsames Unternehmen, um gegen Marktführer DHL anzutreten.",
-   "url": "https://www.spiegel.de/wirtschaft/unternehmen/gls-und-dpd-paket-unternehmen-schliessen-sich-zusammen-um-dhl-anzugreifen-a-af779ac8-0115-4712-a758-00cc4328421c#ref=rss",
-   "source": "Spiegel Wirtschaft",
-   "category": "Unternehmen"
-  },
-  {
-   "title": "Start-ups sammeln fast doppelt so viel Wagniskapital ein",
-   "summary": "Deutsche Start-ups erhalten 2026 voraussichtlich fast doppelt so viel Wagniskapital wie 2025. Nur wenige Branchen profitieren.",
-   "url": "https://www.spiegel.de/wirtschaft/unternehmen/start-ups-in-deutschland-sammeln-2026-wohl-fast-doppelt-so-viel-wagniskapital-ein-wie-im-vorjahr-a-e7e22229-79e0-4c57-a10e-151671b48e53#ref=rss",
-   "source": "Spiegel Wirtschaft",
-   "category": "Unternehmen"
-  }
- ]
+  "date": "2026-11-20",
+  "intro": "Die IG Metall legt heute mit 24-Stunden-Warnstreiks große Teile der Metallindustrie lahm. Parallel streiten VW und Beschäftigte über Nullrunden, und die Koalition einigt sich auf eine Senkung der Stromsteuer.",
+  "top": [
+    {"title": "IG Metall startet 24-Stunden-Warnstreiks", "text": "Seit Mitternacht stehen Betriebe der Metall- und Elektroindustrie in ganz Deutschland einen Tag lang still. Ein Warnstreik ist ein kurzer Streik während laufender Tarifverhandlungen, mit dem die Gewerkschaft Druck macht. Für Beschäftigte und Kunden können dadurch Lieferungen und Produktion ausfallen. Betroffen sind laut Berichten unter anderem Autowerke, Zulieferer und Werften.", "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html", "source": "tagesschau", "category": "Arbeit & Soziales"},
+    {"title": "VW verlangt zwei Jahre Nullrunden", "text": "Volkswagen will in der anstehenden Tarifrunde die Löhne für zwei Jahre einfrieren (Nullrunden). Dazu kommen Einschnitte bei der 35-Stunden-Woche und weniger Zulagen. Der Konzern begründet das mit der Krise und will wettbewerbsfähiger werden. Die IG Metall wirft ihm vor, den Beschäftigten „das Messer in den Rücken“ zu setzen.", "url": "https://www.spiegel.de/wirtschaft/unternehmen/vw-legt-tarifforderungen-vor-konzern-setzt-auf-mehr-arbeit-fuer-weniger-geld-a-a1adc456-4b16-441b-b7a8-81d08ad1d3f0#ref=rss", "source": "Spiegel Wirtschaft", "category": "Unternehmen"},
+    {"title": "Koalition senkt die Stromsteuer, vorerst befristet", "text": "Union und SPD haben sich im Koalitionsausschuss auf eine Senkung der Stromsteuer für alle geeinigt. Finanziert ist sie aber nur für 2027. Auch ein Spritpreisdeckel soll kommen, ebenfalls zeitlich begrenzt. Für Haushalte heißt das: Entlastung, aber noch keine dauerhafte Lösung.", "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html", "source": "tagesschau", "category": "Energie"}
+  ],
+  "entries": [
+    {"title": "Lufthansa will 1.000 Stellen streichen", "summary": "Laut einem Brief an die Beschäftigten sollen an den Standorten München und Frankfurt insgesamt 1.000 Stellen bei Lufthansa Airlines wegfallen. Die Airline wollte dem Schreiben nichts hinzufügen.", "url": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html", "source": "tagesschau", "category": "Unternehmen"},
+    {"title": "BASF gibt Evonik-Übernahme auf", "summary": "Der Chemiekonzern BASF will Evonik nicht mehr übernehmen. Evonik hatte tiefergehende Gespräche auch nach einem höheren Angebot verweigert.", "url": "https://www.spiegel.de/wirtschaft/basf-sagt-evonik-uebernahme-ab-a-8ac0a370-d80e-4f40-834b-6ebbaec30a90#ref=rss", "source": "Spiegel Wirtschaft", "category": "Unternehmen"},
+    {"title": "Arbeitsrechtsreform: Befristung bis zu vier Jahre ohne Grund", "summary": "Befristete Verträge sollen künftig vier Jahre lang ohne Sachgrund möglich sein. DGB und Linkspartei lehnen das ab.", "url": "https://www.spiegel.de/wirtschaft/soziales/gewerkschaften-und-linkspartei-lehnen-arbeitsrechtsreform-ab-a-18921d1d-3887-44c6-b1ec-b1b226536e48#ref=rss", "source": "Spiegel Wirtschaft", "category": "Arbeit & Soziales"},
+    {"title": "Stromsteuer-Senkung nützt laut Studie Gutverdienern am meisten", "summary": "Eine Modellrechnung der RWTH Aachen zeigt: Einkommensstarke Haushalte werden am stärksten entlastet, obwohl die Regierung auch Menschen helfen wollte, die vom Tankrabatt wenig hatten.", "url": "https://www.spiegel.de/wirtschaft/service/stromsteuer-senkung-gutverdiener-haushalte-profitieren-laut-rwth-aachen-am-meisten-a-30e17f86-1948-41f9-9d80-19ef1b477653#ref=rss", "source": "Spiegel Wirtschaft", "category": "Energie"},
+    {"title": "Commerzbank: Bund und UniCredit einigen sich", "summary": "Laut dem F.A.Z.-Business-Ticker haben sich die Bundesregierung und die italienische Bank UniCredit zur Commerzbank-Übernahme geeinigt. Details nennt der Teaser nicht.", "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lufthansa-will-1000-stellen-an-drehkreuzen-streichen-faz-200452404.html", "source": "FAZ Wirtschaft", "category": "Unternehmen"},
+    {"title": "Unternehmen erwarten keinen Aufschwung", "summary": "Anders als die Hoffnung auf staatliche Investitionen erwartet die Privatwirtschaft laut F.A.Z.-Konjunkturbericht keinen Aufschwung. Die Firmen wollen unterm Strich weniger investieren.", "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutsche-wirtschaft-unternehmen-erwarten-keinen-aufschwung-accg-201694762.html", "source": "FAZ Wirtschaft", "category": "Konjunktur"},
+    {"title": "Versicherer: KI-Schäden wachsen sehr schnell", "summary": "Der Unternehmensversicherer der Allianz sieht systemische Risiken. Nach einer Hiscox-Umfrage hat schon jeder zweite Dienstleister einen KI-Vorfall erlebt.", "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-schaeden-wachsen-rasant-allianz-und-hiscox-schlagen-alarm-201697572.html", "source": "FAZ Wirtschaft", "category": "Unternehmen"},
+    {"title": "Grüner Wasserstoff aus der Nordsee: Pläne stocken", "summary": "Ein neues Gesetz soll die Windenergie auf See voranbringen, doch an mehreren Stellen hakt es. Besonders schlecht stehen die Pläne, Wasserstoff direkt auf hoher See herzustellen.", "url": "https://www.handelsblatt.com/politik/deutschland/erneuerbare-energien-chancen-fuer-wasserstoff-aus-dem-meer-schwinden/100270322.html", "source": "Handelsblatt", "category": "Energie"},
+    {"title": "GTA VI: Mehr als 24 Millionen Exemplare verkauft", "summary": "Der Hersteller Take-Two meldet bis Donnerstagabend über 24 Millionen verkaufte Exemplare des Spiels.", "url": "https://www.handelsblatt.com/unternehmen/it-medien/videospiel-take-two-bricht-mit-gta-vi-verkaufsrekorde/100271428.html", "source": "Handelsblatt", "category": "Unternehmen"},
+    {"title": "EZB warnt vor Risiken durch KI-Bewertungen", "summary": "Im Finanzstabilitätsbericht nennt die EZB drei Risiken: hohe Bewertungen von KI-Unternehmen, Haushaltsungleichgewichte und geopolitische Spannungen.", "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/risiken-durch-ki-bewertungen-haushaltsungleichgewichte-und-geooekonomische-spannungen-belasten-die-aussichten-fuer-die-finanzstabilitaet-959182", "source": "Bundesbank", "category": "Zinsen & Geldpolitik"},
+    {"title": "Bundesbank erwartet Inflationsschub nach Jahreswechsel", "summary": "Laut Berichten rechnet die Bundesbank 2027 mit steigender Inflation. Zugleich sieht sie günstigere Konjunkturaussichten.", "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVzZNU2dWU3BtXzZiYWxBY2h3dXN6ZE1aMjRDaHNlWExXVlFGMEdrbFdNdlFoNVh4UGpSRVRiN1o3OWdDS0Z3TVA4bE5KVHJDbWE5UWhKdzl0LVJCaXcwckdUd0F0aF9RU21LTkpIa0FfNUVyN3JxcFl5ZEthUHVCZVh1Z25OZVk?oc=5", "source": "trend.at", "category": "Konjunktur"},
+    {"title": "Auftragseingang steigt, Firmenpleiten bleiben hoch", "summary": "Der Auftragseingang legt um 4,4 % zu, und das ifo-Geschäftsklima steht auf einem Dreieinhalb-Jahres-Hoch. Gleichzeitig gibt es 25.131 Firmenpleiten.", "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGJVNEpzLUNYa0Q4aHpDNVFxMXJQbzJjRTlEMHAxSUZwS2NDTEg3LTFlSDFNdGI3V0xIbFkzdGRRREpwNlEzTy0yNW5ET00yeGxuNUt0YUJsOXpKWjg0bEkyQ0FuMmRQbkNQUGFTX1Z4b2Q5d0NJX0VSdWxmQXY2c2RFenR5TElaSWRlZERaZGFKTVUwdXB5Y1FQZzVyQzQxT2pqZVRmeHo3X3RLaTkxaw?oc=5", "source": "AktienCheck.de", "category": "Konjunktur"},
+    {"title": "GLS und DPD schließen sich zusammen", "summary": "Die beiden Paketdienste wollen künftig gemeinsam auftreten. Was das für Preise und Kunden bedeutet, nennt die Quelle im Teaser nicht.", "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRHRSS09KeUEwVllMSExoNHlHanBCNVNILW5WSTd0VkVjTEFLVlpwYmtlOXV1T3pPV0FYUWlFdHA5QWhrNVF5NGJXVXA0UURqR1VEaGNjVXFlQzMzYzdGalRVSHMyUUFKQjBONGJqOEc1Vy1Eb1BXazlsTjQzRVV1bzVWdXZqcGx3ZWpnYzJoekhIWEFobVd6Qmh1Wno0Tk9xRmdPQzBvUVBDM3VCMHJieWdVRWs5UXdrZUVRRHQxSi1idm5iQmc4R0ZLUEcxMDF5Wmc?oc=5", "source": "Allgemeine Zeitung", "category": "Unternehmen"}
+  ]
 }
