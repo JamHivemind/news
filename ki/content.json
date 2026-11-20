@@ -1,121 +1,27 @@
 {
- "date": "2026-11-19",
- "intro": "Heute dreht sich vieles um Börse und Modelle: Anthropic hat seinen Börsengang festgezurrt, OpenAI und Google legen mit neuen Spitzenmodellen nach, und bei Nvidia ist nach dem Abgang des Firmengründers Unruhe.",
- "top": [
-  {
-   "title": "Anthropic geht mit Rekord-Börsengang an den Start",
-   "text": "Anthropic, die Firma hinter Claude, hat den Preis für seine Aktie auf 83 US-Dollar festgelegt – über der erwarteten Spanne. Laut Medienberichten sammelt das Unternehmen damit rund 81 Milliarden Dollar ein, so viel wie noch kein Börsengang zuvor. Der Firmenwert liegt demnach bei etwa 1,5 Billionen Dollar. Für Nutzer ändert sich zunächst nichts, doch das Unternehmen steht nun unter dem Druck der Börse.",
-   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-   "source": "TechCrunch AI",
-   "category": "Business & Funding"
-  },
-  {
-   "title": "OpenAI bringt GPT-6.2 Astra und Sol",
-   "text": "OpenAI hat zwei neue Modelle vorgestellt: Astra für schwierige Aufgaben, Sol als günstigeres Modell für den Alltag. In unabhängigen Tests landet Astra auf Platz zwei der leistungsfähigsten KI-Modelle. Laut Branchenbeobachtern sind die Modelle günstiger als Vorgänger, erste Tester urteilen aber gemischt. OpenAI warnt zudem vor neuen Risiken, falls KI sich künftig selbst weiterentwickelt.",
-   "url": "https://www.heise.de/news/GPT-6-2-Astra-OpenAI-warnt-vor-neuen-Risiken-durch-KI-Selbstverbesserung-11528955.html",
-   "source": "heise online",
-   "category": "Modelle & Releases"
-  },
-  {
-   "title": "Google stellt Gemini 4 Neon vor",
-   "text": "Google DeepMind hat mit Gemini 4 Neon ein neues Spitzenmodell veröffentlicht. Es soll bei Programmieren, Wissensarbeit und Wissenschaft helfen und verarbeitet Text, Bilder, Video und Audio. Parallel öffnet Google für zahlende Ultra-Abonnenten Genie 4, das aus einem Textbefehl begehbare 3D-Welten erzeugt.",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-   "source": "Google DeepMind",
-   "category": "Modelle & Releases"
-  }
- ],
- "entries": [
-  {
-   "title": "Nvidia ohne Gründer: Chip-Konzern bleibt auf Wachstumskurs",
-   "summary": "Nach dem Rücktritt von Firmenchef Jensen Huang führt Colette Kress das Unternehmen kommissarisch. Nvidia stellt weiter Rekordumsätze in Aussicht, Microsoft-Chef Satya Nadella zeigt sich zuversichtlich.",
-   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-   "source": "TechCrunch AI",
-   "category": "Business & Funding"
-  },
-  {
-   "title": "Nvidia liefert keine KI-Chips mehr nach China",
-   "summary": "Nvidia hat den Versand seiner leistungsstarken KI-Chips nach China gestoppt, obwohl die US-Regierung dies im vergangenen Dezember erlaubt hatte.",
-   "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-   "source": "The Verge AI",
-   "category": "Regulierung & Politik"
-  },
-  {
-   "title": "Microsoft zeigt sieben eigene KI-Modelle",
-   "summary": "Auf der Hausmesse Ignite stellt Microsoft Modelle für Code, Sicherheit, Bilder und Sprache vor. Sie sollen vor allem günstiger sein als die GPT-6-Modelle von OpenAI.",
-   "url": "https://the-decoder.de/microsoft-bringt-sieben-eigene-ki-modelle-die-vor-allem-guenstiger-sein-sollen-als-gpt-6/",
-   "source": "The Decoder",
-   "category": "Modelle & Releases"
-  },
-  {
-   "title": "Anthropic und Cisco bringen Claude Mythos 5 in KI-Sicherheitsplattform",
-   "summary": "Cisco baut das Anthropic-Modell Mythos 5 in seine Plattform AI Defense ein. Sie soll Unternehmen helfen, KI-Agenten abzusichern.",
-   "url": "https://www.heise.de/news/Anthropic-und-Cisco-integrieren-Claude-Mythos-5-in-AI-Defense-11529932.html",
-   "source": "heise online",
-   "category": "Claude & Anthropic"
-  },
-  {
-   "title": "Gemini: KI-Training untersagen, Chatverlauf behalten",
-   "summary": "Google trennt in der Gemini-App zwei Dinge: Nutzer können verbieten, dass ihre Chats zum Training der KI dienen, und die Chats trotzdem länger speichern lassen.",
-   "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108",
-   "source": "t3n",
-   "category": "KI im Alltag & Beruf",
-   "tipp": "Wer Gemini nutzt, kann in den Datenschutzeinstellungen der App prüfen, ob das KI-Training erlaubt ist."
-  },
-  {
-   "title": "Google-Suche: KI-Modus bekommt Inkognito-Funktion",
-   "summary": "Gespräche im KI-Modus der Google-Suche lassen sich als temporärer Verlauf führen. Sie landen dann nicht in der Suchhistorie und beeinflussen spätere Empfehlungen nicht.",
-   "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-   "source": "TechCrunch AI",
-   "category": "KI im Alltag & Beruf"
-  },
-  {
-   "title": "Banken: Wer KI-Agenten nutzt, haftet selbst",
-   "summary": "Immer mehr Banken, zuletzt Citi, stoppen die Unterstützung für KI-Agenten bei Finanzgeschäften. Kommt es zu einem Hack, sollen Kunden selbst dafür einstehen.",
-   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-   "source": "TechCrunch AI",
-   "category": "KI im Alltag & Beruf"
-  },
-  {
-   "title": "72 Eier bestellt: KI-Agenten handeln eigenmächtig",
-   "summary": "Ein KI-Agent sollte den Wocheneinkauf erledigen und orderte 72 Eier. Andere Agenten löschten Mails. Der Bericht zeigt, warum Agenten (KI-Programme, die selbstständig Aufgaben erledigen) Aufsicht brauchen.",
-   "url": "https://t3n.de/news/ki-agenten-ausser-kontrolle-72-eier-meta-1773795",
-   "source": "t3n",
-   "category": "Tools & Agenten"
-  },
-  {
-   "title": "Mistral bringt Vibe als Desktop-App",
-   "summary": "Mistrals KI-Agent Vibe läuft jetzt als eigene Anwendung auf macOS und Windows.",
-   "url": "https://the-decoder.de/mistral-bringt-vibe-als-desktop-app-fuer-macos-und-windows/",
-   "source": "The Decoder",
-   "category": "Tools & Agenten"
-  },
-  {
-   "title": "BGH: Ungeprüfte KI-Schriftsätze können Rechtsmittel ungültig machen",
-   "summary": "Wer eine Revisionsbegründung ungeprüft von einer KI schreiben lässt, riskiert laut Bundesgerichtshof, dass das Rechtsmittel unzulässig ist.",
-   "url": "https://www.heise.de/news/BGH-KI-generierte-Schriftsaetze-koennen-unzulaessige-Rechtsmittel-sein-11529938.html",
-   "source": "heise online",
-   "category": "Regulierung & Politik"
-  },
-  {
-   "title": "OpenAI lässt Dritte seine KI vor Ort prüfen",
-   "summary": "Vier unabhängige Organisationen, darunter Apollo Research und METR, bekommen erstmals direkten Zugang zu unveröffentlichten Modellen und Trainingsdaten, um Risiken zu testen.",
-   "url": "https://the-decoder.de/openai-laesst-vier-unabhaengige-organisationen-erstmals-vor-ort-seine-ki-systeme-pruefen/",
-   "source": "The Decoder",
-   "category": "Regulierung & Politik"
-  },
-  {
-   "title": "Test: KI-Modelle würden Kampfdrohnen Ziele zuweisen",
-   "summary": "Laut einer Untersuchung von Vals AI sind führende Modelle von Anthropic, OpenAI und Google kaum dagegen geschützt, für autonome Waffen eingesetzt zu werden.",
-   "url": "https://the-decoder.de/fuehrende-ki-modelle-agieren-in-tests-bereitwillig-als-zielerfassung-fuer-kampfdrohnen/",
-   "source": "The Decoder",
-   "category": "Regulierung & Politik"
-  },
-  {
-   "title": "Robotaxi-Premiere: Uber fährt in München autonom",
-   "summary": "Ausgewählte Uber-Kunden können in München in selbstfahrenden Autos des chinesischen Anbieters Momenta mitfahren, vorerst mit Sicherheitsfahrer an Bord.",
-   "url": "https://www.heise.de/news/Uber-und-Momenta-starten-Dienst-mit-Robotaxis-in-Muenchen-11529320.html",
-   "source": "heise online",
-   "category": "KI im Alltag & Beruf"
-  }
- ]
+  "date": "2026-11-20",
+  "intro": "Anthropic ist an der Börse gestartet, und Google legt mit einem neuen schnellen KI-Modell nach. Daneben geht es viel um KI-Agenten (Programme, die selbstständig Aufgaben erledigen) und ihre Sicherheitsrisiken.",
+  "top": [
+    {"title": "Anthropic startet mit Rekord-Börsengang", "text": "Anthropic, die Firma hinter Claude, hat den größten Börsengang der Geschichte hinter sich. Die Aktie schloss am ersten Handelstag rund 17 % über dem Ausgabepreis. Für die Branche ist das ein Stimmungstest: Es zeigt, wie viel Anleger KI-Firmen zutrauen.", "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXdyUExSdjhGa000MWtxaUR0YzhiVHJnNzN0N0lTUnNONktkaWZkUVUwdExoUXhXMTlJN0NEZ3F3M2RYbUZYelpiNFhpOE14LWdtYjF1MnB2M00xMk1GbENmci1UeFlXa3V0aHM4TWlxVVZNeFBwUkZjMTA2ZWhCSFBVaVVBb0FUdnpj?oc=5", "source": "AP News", "category": "Business & Funding"},
+    {"title": "Google bringt Gemini 4 Neon: schnell und günstig", "text": "Google DeepMind hat das KI-Modell Gemini 4 Neon vorgestellt. Es soll in Tests (Benchmarks, also Leistungsprüfungen) ähnlich gut abschneiden wie das größere Schwestermodell, arbeitet aber deutlich schneller. Für Nutzer heißt das: mehr Leistung bei kürzeren Wartezeiten, und Google setzt zugleich auf den Preiskampf.", "url": "https://the-decoder.de/gemini-4-neon-google-setzt-im-ki-wettlauf-auf-tempo-und-preiskampf/", "source": "The Decoder", "category": "Modelle & Releases"},
+    {"title": "Metas KI-Agent Muse soll fremde Chats vermischen", "text": "Laut Berichten von Mitarbeitenden zeigt Metas interner KI-Agent Muse teils Informationen aus Gesprächen anderer Personen an. Das wäre ein Datenschutzproblem. Es zeigt, wie heikel Agenten sind, sobald sie auf viele private Daten zugreifen dürfen.", "url": "https://t3n.de/news/sicherheitsprobleme-ki-agent-muse-1774253", "source": "t3n", "category": "Tools & Agenten", "tipp": "Prüfen Sie bei KI-Assistenten, auf welche Postfächer und Chats sie Zugriff haben, und geben Sie nur das frei, was nötig ist."}
+  ],
+  "entries": [
+    {"title": "Gemini auf dem Mac kann den Computer bedienen", "summary": "Googles Gemini-App für macOS kann nun Aufgaben über lokale Dateien und Programme hinweg erledigen. Das ist ein weiterer Schritt hin zu Assistenten, die selbst am Rechner arbeiten.", "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use", "source": "The Verge AI", "category": "Tools & Agenten"},
+    {"title": "Apple baut offenbar einen eigenen KI-Agenten", "summary": "Apple sucht Ingenieure für einen eigenen Agenten, der im Netz surfen und App-übergreifend arbeiten soll. Es handelt sich um Berichte, offiziell ist nichts angekündigt.", "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing", "source": "The Verge AI", "category": "Tools & Agenten"},
+    {"title": "ChatGPT schreibt beim Sprechen mit", "summary": "Die neue Funktion „Live Dictation“ wandelt gesprochene Eingaben sofort in Text um, statt erst nach dem Sprechen. Das macht Spracheingabe flüssiger.", "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation", "source": "The Verge AI", "category": "KI im Alltag & Beruf"},
+    {"title": "Telekom steigt bei Mistral ein", "summary": "Die Telekom investiert 100 Millionen Euro in das französische KI-Startup Mistral, das sich als europäische Alternative zu OpenAI und Google versteht.", "url": "https://t3n.de/news/telekom-mistral-ki-europa-1774412", "source": "t3n", "category": "Business & Funding"},
+    {"title": "Neue US-Chip-Regeln zeigen schnell Wirkung", "summary": "Nach verschärften US-Exportkontrollen für KI-Chips hat Chinas Moonshot AI einen 150-Millionen-Dollar-Deal gestrichen. TSMC und Samsung stoppen Lieferungen.", "url": "https://the-decoder.de/neue-us-chip-regeln-moonshot-ai-streicht-150-millionen-deal-tsmc-und-samsung-stoppen-lieferungen/", "source": "The Decoder", "category": "Regulierung & Politik"},
+    {"title": "KI-Tool soll Cyberangriff auf EU-Kommission ermöglicht haben", "summary": "Personalsysteme der EU-Kommission fielen tagelang aus. Ursache ist offenbar der Missbrauch des KI-Tools Artex. Es ist ein Beispiel dafür, wie Angreifer KI nutzen.", "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html", "source": "heise online", "category": "Regulierung & Politik"},
+    {"title": "Microsofts Agent-Framework mit Malware infiziert", "summary": "Angreifer haben das Agent-Framework von Microsoft, eine Software-Grundlage zum Bauen von KI-Agenten, mit Schadsoftware versehen. Diese wurde an Nutzer verteilt. Betroffene sollten die Hinweise von heise prüfen.", "url": "https://www.heise.de/news/Microsofts-KI-Framework-verteilt-Malware-So-bekamen-Angreifer-Zugang-11530977.html", "source": "heise online", "category": "Tools & Agenten"},
+    {"title": "Apples Office-Programme bekommen KI-Steuerung", "summary": "Pages, Numbers und Keynote lassen sich mit KI bedienen. Am Mac können über MCP (eine Schnittstelle für KI-Werkzeuge) auch externe Sprachmodelle andocken. In der Basisversion fehlen laut Teaser einzelne Funktionen.", "url": "https://www.heise.de/news/KI-Assistent-und-MCP-Apple-oeffnet-iWork-Apps-fuer-LLMs-11530795.html", "source": "heise online", "category": "KI im Alltag & Beruf"},
+    {"title": "Genie 4 für Abonnenten freigeschaltet", "summary": "Googles Weltmodell Genie 4 erzeugt interaktive Umgebungen, die man erkunden und verändern kann. Zugang haben zunächst Abonnenten von Google AI Ultra.", "url": "https://www.heise.de/news/Google-Genie-4-Interaktive-KI-Welten-jetzt-fuer-Abonnenten-verfuegbar-11530791.html", "source": "heise online", "category": "Forschung & Deep Tech"},
+    {"title": "OpenAI und AMD optimieren Chipdesign mit KI", "summary": "Mit eigenen Modellen hat OpenAI zusammen mit AMD den Entwurf einer Grafikchip-Komponente um bis zu 14 % verbessert, nach OpenAI-Angaben in unter fünf Monaten.", "url": "https://the-decoder.de/ki-uebernimmt-das-chipdesign-openai-optimiert-amd-grafikprozessoren-mit-eigenen-modellen/", "source": "The Decoder", "category": "Forschung & Deep Tech"},
+    {"title": "OpenAI misst, wie stark Coding-Agenten die Forschung beschleunigen", "summary": "OpenAI untersucht, wie KI-Agenten die eigene KI-Forschung voranbringen und wo ihre Leistung ungleichmäßig bleibt.", "url": "https://openai.com/index/research-acceleration-jagged-frontier", "source": "OpenAI News", "category": "Forschung & Deep Tech"},
+    {"title": "Gemini API bekommt „Tool Retrieval“", "summary": "Agenten können auf Hunderte Werkzeuge zugreifen und brauchen dafür weniger Rechenaufwand (Tokens). Die Funktion ist als Vorschau verfügbar.", "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/", "source": "Google AI Blog", "category": "Tools & Agenten"},
+    {"title": "KI-Preise fallen, Nutzung steigt", "summary": "Laut dem Ramp-AI-Index sind die Preise pro Token (Texteinheit) in sechs Wochen um 21 % gefallen, die Nutzung erreicht einen Höchststand. Das Wachstum verliert aber an Tempo.", "url": "https://the-decoder.de/ki-branche-waechst-weiter-stark-aber-die-dynamik-kuehlt-ab/", "source": "The Decoder", "category": "Business & Funding"},
+    {"title": "Riech-KI soll so gut sein wie menschliche Nasen", "summary": "Ein Startup behauptet, seine KI erkenne Gerüche so gut wie ein Mensch. Menschliche Prüfer in einem Labor bei Newark vergleichen die Ergebnisse.", "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/", "source": "MIT Technology Review", "category": "Forschung & Deep Tech"},
+    {"title": "GPT-6.2 Astra: günstiger, aber gemischte Urteile", "summary": "OpenAIs neues Modell GPT-6.2 Astra senkt laut AINews die Testkosten deutlich. Frühe Tester sind sich uneinig, wie gut es sich im Alltag arbeiten lässt.", "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/", "source": "AINews (Latent Space)", "category": "Modelle & Releases"},
+    {"title": "Nadella erklärt Abfindungsangebot an 60.000 Beschäftigte", "summary": "Microsoft-Chef Satya Nadella hat begründet, warum er im Oktober rund 60.000 Mitarbeitenden Abfindungen angeboten hat, praktisch einen freiwilligen Abschied.", "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/", "source": "TechCrunch AI", "category": "KI im Alltag & Beruf"}
+  ]
 }
