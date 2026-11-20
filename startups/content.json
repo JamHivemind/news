@@ -1,92 +1,17 @@
 {
- "date": "2026-11-19",
- "intro": "Heute stehen große Finanzierungsrunden im Vordergrund: Isomorphic Labs holt Milliarden, Payhawk wird Bulgariens erstes Einhorn. Aus Hamburg gibt es dagegen eine Pleite zu melden.",
- "top": [
-  {
-   "title": "Isomorphic Labs sammelt 5 Milliarden Dollar ein",
-   "text": "Das KI-Pharma-Start-up Isomorphic Labs hat laut Sifted 5 Milliarden Dollar eingesammelt. Zu den Geldgebern zählen die Investoren Sequoia und A16z. Weitere Details stehen hinter der Bezahlschranke von Sifted.",
-   "url": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/",
-   "source": "Sifted",
-   "category": "Finanzierungen"
-  },
-  {
-   "title": "Payhawk: Bulgariens erstes Einhorn",
-   "text": "Payhawk, ein Anbieter für Ausgabenverwaltung in Firmen, hat in einer Series-C-Runde 255 Millionen Euro (280 Millionen Dollar) eingesammelt. Angeführt hat Goldman Sachs. Das Unternehmen wird mit 1,82 Milliarden Euro bewertet und ist damit ein „Einhorn“, also ein Start-up mit über einer Milliarde Bewertung. Das Start-up mit Sitz in London nutzt KI-Agenten, die Ausgaben und Einkäufe verwalten.",
-   "url": "https://www.eu-startups.com/2026/11/bulgarias-first-unicorn-payhawk-raises-e255-14-million-at-e1-82-billion-valuation-to-build-a-global-finance-os-for-the-ai-era/",
-   "source": "EU-Startups",
-   "category": "Finanzierungen"
-  },
-  {
-   "title": "Atomico: Europa steuert auf zweitbestes Investitionsjahr zu",
-   "text": "Der Report „State of European Tech 2026“ von Atomico sieht Europas Tech-Szene auf dem Weg zum zweitbesten Investitionsjahr überhaupt. Es gibt größere Finanzierungsrunden und eine neue Generation von Gründern.",
-   "url": "https://www.eu-startups.com/2026/11/5-key-findings-from-atomicos-state-of-european-tech-2026/",
-   "source": "EU-Startups",
-   "category": "Europa & Welt"
-  }
- ],
- "entries": [
-  {
-   "title": "Disseqt AI sammelt 7,3 Millionen Euro ein",
-   "summary": "Das Dubliner Start-up bietet eine Plattform, mit der Unternehmen KI-Agenten sicher einsetzen können, und holt dafür 7,3 Millionen Euro (8 Millionen Dollar).",
-   "url": "https://www.eu-startups.com/2026/11/irelands-disseqt-ai-raises-e7-3-million-to-safely-deploy-ai-agents/",
-   "source": "EU-Startups",
-   "category": "Finanzierungen"
-  },
-  {
-   "title": "MountAIn: Fortschrittliche KI auf Chips unter 9 Euro",
-   "summary": "Das französische Start-up aus Grenoble hat 7,3 Millionen Euro Seed-Geld erhalten, um KI auf sehr günstigen Mikrocontrollern laufen zu lassen.",
-   "url": "https://www.eu-startups.com/2026/11/french-frugal-ai-infrastructure-startup-mountain-raises-e7-3-million-to-bring-advanced-ai-to-sub-e9-chips/",
-   "source": "EU-Startups",
-   "category": "Deep Tech & Forschung"
-  },
-  {
-   "title": "Unsiloed AI erhält 7,5 Millionen Dollar",
-   "summary": "Felicis führt die Runde für das Start-up mit sieben Mitarbeitern, das Firmendokumente für KI-Agenten nutzbar machen will.",
-   "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-   "source": "TechCrunch Startups",
-   "category": "Finanzierungen"
-  },
-  {
-   "title": "Humyn Labs aus Indien sammelt 47 Millionen Dollar ein",
-   "summary": "Das Start-up liefert Trainingsdaten für Robotik-Firmen. Rund 90 Prozent des Umsatzes kommen aus den USA.",
-   "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-   "source": "TechCrunch Startups",
-   "category": "Finanzierungen"
-  },
-  {
-   "title": "Nvidias Start-up-Beteiligungen wachsen auf 65 Milliarden Dollar",
-   "summary": "Der Wert der privaten Investments hat sich in neun Monaten fast verdreifacht. Nach dem Abgang von Firmenchef Huang ist offen, ob weitere Deals folgen.",
-   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-   "source": "TechCrunch Startups",
-   "category": "Europa & Welt"
-  },
-  {
-   "title": "CEOs von ElevenLabs, Lovable und DeepL fordern EU-Unterstützung",
-   "summary": "Die Chefs der drei Start-ups rufen die EU laut Sifted auf, heimische KI-Firmen zu fördern.",
-   "url": "https://sifted.eu/articles/elevenlabs-lovable-deepl-yann-lecun-eu-ai-open-letter/",
-   "source": "Sifted",
-   "category": "Förderung & Politik"
-  },
-  {
-   "title": "Schneider Electric Ventures startet Accelerator in Europa",
-   "summary": "Exklusiv bei Sifted: Der Investment-Arm bringt sein Accelerator-Programm nach Europa.",
-   "url": "https://sifted.eu/articles/schneider-electric-ventures-accelerator-scheme-europe/",
-   "source": "Sifted",
-   "category": "Förderung & Politik"
-  },
-  {
-   "title": "CloudBackend erhält 6,6 Millionen Euro",
-   "summary": "Das Start-up entwickelt KI-basierte Cloud-Infrastruktur und hat 6,6 Millionen Euro eingesammelt.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0lfOS1LdDRYazFrcTdmenZsUDYzWVJBbXBCUmVFUW9iNzBIcXUzSjlEYko4ZzBnbVR2WG1qN3JaMFM0dDR1VFNsZFNNZjFkQW9hTXVnSlBjbjl5Y3hrcl91dC0zUkpqSjFkeXZkc1BXTC1seWI0VUJNX1dIc0V4QUs5Y3U4SkpGLXk3UTdmRDQ4ODZld0xCa0dpaUVWOW1hMjA5b05CY2xQQQ?oc=5",
-   "source": "Startbase",
-   "category": "Finanzierungen"
-  },
-  {
-   "title": "Hamburger E-Scooter-Pionier Egret ist insolvent",
-   "summary": "Das Hamburger Unternehmen Egret hat Insolvenz angemeldet. Der Gründer sagt laut Abendblatt: „Ich schäme mich nicht.“",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRm12Q2hJczBxTVdqU191a19Ec0x5TGpQRTVaNEZWNEhvYWNvQnZwVU9veFF2OURMMjlmOVpCZldBNGxiY0pWbjlGX25QUVlYWFBXT1VfREZhS1h6Y3RHTFNCREtOTm5JcWM3V1RVV0loWEZOMzdCUVcxWWFhbEtCdjhsblZsZmVZSEtJMmRvcjFIcElIdlFfR1ZHc1FLeUhQaHRjN0JfaThhSXJNN1FFcnBaOFNIcjZqazIya1BXSGlrWjFESk1aMVVFUkpYSERlSDU2Z2h0bFo?oc=5",
-   "source": "Hamburger Abendblatt",
-   "category": "Hamburg & Norddeutschland"
-  }
- ]
+  "date": "2026-11-20",
+  "intro": "Heute dominieren Finanzierungsrunden: Payhawk sammelt 280 Millionen Dollar ein, und in Deutschland und der EU fließt Geld in Industrie- und Satelliten-Startups. Für Hamburg gab es keine passenden Meldungen.",
+  "top": [
+    {"title": "Payhawk sammelt 280 Millionen Dollar ein", "text": "Die Software-Firma Payhawk, 2018 gegründet, hilft Unternehmen, Ausgaben und Einkäufe mit KI-Agenten zu verwalten. Laut TechCrunch liegt die Bewertung nach der Runde bei 2 Milliarden Dollar. Sifted ordnet die Runde in eine schwierige Phase für Fintech-Startups ein.", "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/", "source": "TechCrunch Startups", "category": "Finanzierungen"},
+    {"title": "Vetaion erhält 5,7 Millionen Euro für automatisierten Schaltschrankbau", "text": "Das Startup will die Fertigung von Schaltschränken automatisieren. Schaltschränke steuern Maschinen und Anlagen in der Industrie. Die Finanzierung beträgt 5,7 Millionen Euro; Investoren nennt der Teaser nicht.", "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2Y0SWxVV1dhUG45N0tONnF1Ujh6VGFXZUhYSEtzX0x5STBkcUEwUkFjR3FPUnpyT3Z3XzhkcmtvMmlNRmNZSldlejBfTHVSZ1dMWFFPVndEUHIwa29XdE9WUWxOb2VfaEp2M1VESFV3UE81b3FSU25HLXNfRmNhUmlQSktnY1BSSWxLWllUdjJNWGdIcFlDeWt6eGp3LVJvNWlOeUZNcHppbkE?oc=5", "source": "Startbase", "category": "Finanzierungen"},
+    {"title": "EU steckt bis zu 12,5 Millionen Euro in Univity", "text": "Das Startup Univity arbeitet an Satelliten, die Handys direkt mit Netz versorgen sollen. Die EU fördert es mit bis zu 12,5 Millionen Euro. Das zeigt, dass Europa bei Satelliten-Kommunikation eigene Anbieter aufbauen will.", "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VNjB2NmJaV2J5NU9QUnNydE9OTW9BMXRnVWROeFBCb3Zxd28yQXB5SlNjN0x4LTU1NGN2aEk1MndCQy1qSXV0VUFsdlh6X3dVZ2k3NEY2S1VVMVYxYXJ6VkVuOFRMdE0xZTRrSDJJWXFUVElVYWVsZlRR?oc=5", "source": "Trending Topics", "category": "Förderung & Politik"}
+  ],
+  "entries": [
+    {"title": "4,7 Millionen Dollar für LATO", "summary": "Das Startup LATO hat 4,7 Millionen Dollar eingesammelt. Weitere Angaben liefert der Teaser nicht.", "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wb2VBZElNYm5aT2otaUVMSk44UWZMMlRwZS1iZnFoTXA0Q3V4TnowTHAxN2VqNmRQWDVISFFuWjJOcHd5MnVSTk80Q0hETzJkTXkwcDlmZ3VQOEw3N1hnNkdmX0FfMXlaeVZSTg?oc=5", "source": "Startbase", "category": "Finanzierungen"},
+    {"title": "Berner Startup bekommt zwei Millionen Franken für Küstenschutz", "summary": "Ein Startup aus Bern erhält zwei Millionen Franken für ein Produkt zum Schutz von Küsten.", "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sR0NJNXg3V09uM1NwTmdzR3FKcXkza2NPTzlfYmd5Y2tWaXJKLUdpZ2tLSFRoaFFDZDZUZGYxT0FteGd1TlNWQ2xiUXg5VXFIZTdz?oc=5", "source": "Plattform J", "category": "Europa & Welt"},
+    {"title": "Sieben Erkenntnisse über Europas Tech-Szene", "summary": "Zwei neue Berichte von Anfang November liefern viele Daten zum Stand der europäischen Tech-Szene. Gründerszene fasst sie zusammen.", "url": "https://www.businessinsider.de/gruenderszene/allgemein/europas-tech-szene-boomt-doch-ein-problem-bleibt-riesig/f2b773c/", "source": "Gründerszene", "category": "Europa & Welt"},
+    {"title": "EU Inc fordert Neustart der EU-Reformpläne", "summary": "Die Initiative EU Inc, die sich für eine einheitliche europäische Rechtsform für Startups einsetzt, nennt die Reformen der EU „schwach“ und verlangt einen Neustart.", "url": "https://sifted.eu/articles/eu-inc-watered-down-rules-rewrite-campaign/", "source": "Sifted", "category": "Förderung & Politik"},
+    {"title": "Insider von OpenAI und Meta unterstützen Startup gegen außer Kontrolle geratene KI-Agenten", "summary": "Laut Sifted unterstützen Insider von OpenAI und Meta ein Startup, das aus dem Ruder laufende KI-Agenten überwachen soll.", "url": "https://sifted.eu/articles/disseqt-ai-agents-rogue/", "source": "Sifted", "category": "Deep Tech & Forschung"},
+    {"title": "Anthropic-Börsengang als Test für Europas KI-Boom", "summary": "Sifted fragt, was der Börsengang für Europas KI-Startups bedeutet.", "url": "https://sifted.eu/articles/anthropic-ipo-puts-europe-ai-boom-to-the-test/", "source": "Sifted", "category": "Europa & Welt"}
+  ]
 }
