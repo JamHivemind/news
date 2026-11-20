@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-20",
+      "file": "2026-11-20.html",
+      "headline": "Anthropic startet mit Rekord-Börsengang",
+      "count": 19,
+      "sources": 10,
+      "cats": {
+        "Business & Funding": 3,
+        "Modelle & Releases": 2,
+        "Tools & Agenten": 5,
+        "KI im Alltag & Beruf": 3,
+        "Regulierung & Politik": 2,
+        "Forschung & Deep Tech": 4
+      },
+      "ents": {
+        "Anthropic": 1,
+        "Google": 5,
+        "Apple": 1,
+        "OpenAI": 5,
+        "Mistral": 1,
+        "Microsoft": 2
+      }
+    },
+    {
       "date": "2026-11-19",
       "file": "2026-11-19.html",
       "headline": "Anthropic geht mit Rekord-Börsengang an den Start",
