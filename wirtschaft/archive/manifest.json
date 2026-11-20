@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-20",
+      "file": "2026-11-20.html",
+      "headline": "IG Metall startet 24-Stunden-Warnstreiks",
+      "count": 16,
+      "sources": 8,
+      "cats": {
+        "Arbeit & Soziales": 2,
+        "Unternehmen": 7,
+        "Energie": 3,
+        "Konjunktur": 3,
+        "Zinsen & Geldpolitik": 1
+      },
+      "ents": {
+        "Volkswagen": 1,
+        "BASF": 1,
+        "Bundesregierung": 1,
+        "Allianz": 1,
+        "EZB": 1,
+        "Bundesbank": 1,
+        "ifo": 1
+      }
+    },
+    {
       "date": "2026-11-19",
       "file": "2026-11-19.html",
       "headline": "Koalition senkt Stromsteuer und deckelt Spritpreise",

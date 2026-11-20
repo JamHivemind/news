@@ -1,6 +1,26 @@
 {
   "briefs": [
     {
+      "date": "2026-11-20",
+      "file": "2026-11-20.html",
+      "headline": "Hamburg verliert immer mehr Sozialwohnungen",
+      "count": 14,
+      "sources": 5,
+      "cats": {
+        "Wohnungsmarkt Hamburg": 3,
+        "Bau & Projekte": 3,
+        "Politik & Recht": 2,
+        "Büromarkt Hamburg": 2,
+        "Markt Deutschland": 1,
+        "Zinsen & Finanzierung": 2,
+        "Unternehmen & Deals": 1
+      },
+      "ents": {
+        "Elbtower": 1,
+        "HafenCity": 1
+      }
+    },
+    {
       "date": "2026-11-19",
       "file": "2026-11-19.html",
       "headline": "Hamburg: Streit um Mietenstopp und Mietendeckel",
