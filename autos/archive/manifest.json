@@ -1,6 +1,30 @@
 {
   "briefs": [
     {
+      "date": "2026-11-20",
+      "file": "2026-11-20.html",
+      "headline": "Mercedes versteigert einen C 111",
+      "count": 15,
+      "sources": 9,
+      "cats": {
+        "Klassiker & Youngtimer": 3,
+        "Neue Modelle & Fahrberichte": 2,
+        "Sportwagen & Elfer": 2,
+        "Szene & Termine": 1,
+        "Motorsport": 2,
+        "Hersteller & Branche": 2,
+        "Rückrufe & Regeln": 3
+      },
+      "ents": {
+        "Mercedes": 1,
+        "BMW": 1,
+        "VW": 2,
+        "Porsche": 2,
+        "Tesla": 2,
+        "TÜV": 1
+      }
+    },
+    {
       "date": "2026-11-19",
       "file": "2026-11-19.html",
       "headline": "Mercedes versteigert erstmals einen C 111",
