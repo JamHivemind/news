@@ -1,107 +1,23 @@
 {
- "date": "2026-11-19",
- "intro": "Hamburgs Krankenhäuser sollen sich spezialisieren, am Wochenende wird es auf der A7 und im Elbtunnel eng, und für Freitag ist die nächste „Gen Z regelt“-Demo angekündigt. Dazu kommen gestern Sturmböen und die ersten Weihnachtsmärkte.",
- "top": [
-  {
-   "title": "Neuer Krankenhausplan: Kliniken sollen sich spezialisieren",
-   "text": "Der neue Krankenhausplan der Gesundheitssenatorin sieht vor, dass Hamburger Kliniken sich spezialisieren. Patienten müssen dafür im Zweifel längere Wege in Kauf nehmen. Ein Beispiel: Die Schön Klinik in Eilbek führt künftig keine Leber-Operationen mehr durch. Laut Abendblatt sind alle Kliniken betroffen, ob künstliche Hüfte oder Herz-Katheter; auch die Notaufnahmen kommen später dran.",
-   "url": "https://www.ndr.de/nachrichten/hamburg/hamburger-krankenhaeuser-sollen-spezialisierter-werden,krankenhaus-340.html",
-   "source": "NDR Hamburg",
-   "category": "Stadt & Politik"
-  },
-  {
-   "title": "Wochenende: A7, Elbtunnel und S1 gesperrt",
-   "text": "Wegen Bauarbeiten am Berlinertordamm sind die A7 in Hamburg und der Elbtunnel am Wochenende voll gesperrt. Es gibt zusätzliche Einschränkungen für Autos, S-Bahnen und Regionalbahnen. Die S1 fährt am nächsten und am übernächsten Wochenende zwischen Berliner Tor und Barmbek nicht. Wer fahren muss, plant am besten mehr Zeit ein.",
-   "url": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-und-elbtunnel-am-wochenende-voll-gesperrt,a7-sperrung-102.html",
-   "source": "NDR Hamburg",
-   "category": "Verkehr",
-   "tipp": "Für das Wochenende Fahrten über A7, Elbtunnel und S1 vorab prüfen und Ausweichrouten wählen."
-  },
-  {
-   "title": "„Gen Z regelt“: Zweite Demo am Freitag, Polizei kündigt Einschreiten an",
-   "text": "Die Bewegung „Gen Z regelt“ geht am Freitag erneut in Hamburg auf die Straße. Innensenator Grote und die Polizei kündigen konsequentes Einschreiten an, falls es zu Verstößen kommt. Weitere Demos sind geplant. Auch die Stadt weist darauf hin, dass Linksextremisten für den Tag mobilisieren; das kann Auswirkungen auf den Verkehr haben.",
-   "url": "https://www.abendblatt.de/hamburg/politik/article413713548/woanders-besser-aufgehoben-grote-warnt-vor-zweiter-gen-z-regelt-demo.html",
-   "source": "Hamburger Abendblatt",
-   "category": "Stadt & Politik"
-  }
- ],
- "entries": [
-  {
-   "title": "Elbchaussee: Ende der Baustelle steht fest – mit einem Haken",
-   "summary": "Die Arbeiten im Abschnitt Ottensen gehen auf die Zielgerade. Wann dort wieder Autos fahren können, nennt die MOPO; es gibt allerdings eine Einschränkung.",
-   "url": "https://www.mopo.de/hamburg/elbchaussee-ende-der-dauer-baustelle-steht-fest-mit-einem-haken/5093789",
-   "source": "Hamburger Morgenpost",
-   "category": "Verkehr"
-  },
-  {
-   "title": "FreeNow verschwindet in Hamburg",
-   "summary": "Die Taxi-Vermittlung FreeNow gehört seit einem Jahr einem US-Unternehmen. Das hat nun sichtbare Folgen: In Hamburg ist sie bald Geschichte.",
-   "url": "https://www.abendblatt.de/wirtschaft/article413712109/uebernahme-durch-lyft-taxivermittler-freenow-ist-in-hamburg-schon-bald-geschichte.html",
-   "source": "Hamburger Abendblatt",
-   "category": "Verkehr"
-  },
-  {
-   "title": "Neue Feuerwache Finkenwerder eröffnet",
-   "summary": "Die größte Feuer- und Rettungswache Hamburgs ist eingeweiht. Innensenator Grote nennt sie ein „neues Kraftzentrum“ für die Feuerwehr.",
-   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNWjRXUV9ySTVmWk45bk9JTHBGeTNISGVtQnV4dlFhZjR3aHdRXzMzNThXYWRxcVllYkRSOHpDTnFwOE5QWUNDUEIzZGdDZGVJTXZzcGFrVk4tczNqa2Q3aVBEeXFUYkQyajVXRlVLaDh5YmIzQnNvMWJzZk1WenF3ME4wUEwzZTdBV3RfM0dPazhzZDFidzh3TjhuUGlJUTlhNXZ4Z09yU2Y1YklmUEpybE5tN0d6QTdUNHBKZHo2OVZ1Q1MzYWMtYWgtNEN4S25jNGhhdDdBTnB2NnE4LURPWVBHR0pOeXhRWm5QclU4R25RWXVaeUNNM2F0WmpyNHl0Tlc5VHJIQklkQWVDYmFFaEIwaWZrWHNKekFPMzY3Y1Myd0lWdXZjS3FNRlV5QQ?oc=5",
-   "source": "hamburg.de",
-   "category": "Stadt & Politik"
-  },
-  {
-   "title": "Digitale Baugenehmigung: Hamburg setzt bundesweite Standards",
-   "summary": "Mit einer neuen zentralen Stelle will Hamburg einheitliche Standards für digitale Baugenehmigungen schaffen.",
-   "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQcEtpeFpWX1JROGlsQm9NZkI3UThJSExnd1pWQjlscGlNR1hmcjhScVVuc0xObEEzOGFmdVp3RTE4LThqdnFYbERwcy1OTy1kV0ZSd1hyMC1kMG9CaFBzZGpLaWtTWmdGUmdFZFdhTXMxWkRfR0ttT0tzMGNJckpUZlg0V2pEU3FHQzBMYThkWkg3MkJaQzM3bXhxZG9VY21WU2Fid0JGZDJ3NEo0MjduMjNDajQ3dFBObERiMFVuaDJldk1tejVRX2FRLUpWOTdFdTlJQmJSV2d1clRxa3FtSnhaT2dmUEVjTlVoSV94akwwZnVWZmhKSFNfc3NtWWhXallQbDRzNVZMZEplUUdvTmQxbWhqenFBMTJJcFN1ME9zcnEtWmZuMzU5X0lZdW1MV1RqaE9wbGpySm9uM2FGdnlWS3pJNWJpaFd2SUN2N0RfV0F3Q2tLQ1MtTU5VVDZrTHY4eVpGR0Y4WUJQQldiTk9n?oc=5",
-   "source": "hamburg.de",
-   "category": "Bauen & Wohnen"
-  },
-  {
-   "title": "Baustart am Hopfenmarkt",
-   "summary": "Am Hopfenmarkt in der Innenstadt entsteht ein neuer Treffpunkt. Die Bauarbeiten haben begonnen.",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEpWWGVaVlN4UXltOHZTQndGN2xhUkVPcDZMbHZCQTMzU2NBTFhxUlljSXhNQ1Ayc3hZcHc2M2hJa1FVSTNmWjNwbEF6ZFhkd28zVTdDNDlveG1SdDVHZmFUdHZ1bk5DTjd3S1BjeHl5c3RxTXZNZGprU194OFV0OFZyWWRCOGd0Mm0tT3pXblRENkdITVJlaV9WWDdmMzRJVnRwcUhjY0RIemNWWFVIbkpRek8xU1k3RGpfNQ?oc=5",
-   "source": "hamburg.de",
-   "category": "Bauen & Wohnen"
-  },
-  {
-   "title": "Pfadfinder zelten vor der Schulbehörde",
-   "summary": "Hamburgs Pfadfinder protestieren trotz Regen und Kälte erneut mit einem Zeltlager gegen Raumnot. Sie haben kein Heim und fordern eine Lösung.",
-   "url": "https://www.mopo.de/hamburg/trotz-regen-und-kaelte-hamburgs-pfadfinder-schlagen-protestcamp-vor-schulbehoerde-auf/5093648",
-   "source": "Hamburger Morgenpost",
-   "category": "Stadt & Politik"
-  },
-  {
-   "title": "IG Metall plant 24-Stunden-Warnstreiks im Norden",
-   "summary": "Nach drei Verhandlungsrunden ohne Einigung will die Gewerkschaft mit ganztägigen Warnstreiks in Norddeutschland den Druck auf die Arbeitgeber erhöhen.",
-   "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413715431/ig-metall-bereitet-24-stuendige-warnstreiks-im-norden-vor.html",
-   "source": "Hamburger Abendblatt",
-   "category": "Wirtschaft & Hafen"
-  },
-  {
-   "title": "Hamburg und Bremen gehen gemeinsam gegen Drogenschmuggel vor",
-   "summary": "Bei einer Hafensicherheits-Konferenz in Bremen haben Vertreter der Häfen und der Politik engere Zusammenarbeit gegen Drogenbanden vereinbart.",
-   "url": "https://www.ndr.de/nachrichten/hamburg/haefen-in-bremen-und-hamburg-wollen-gemeinsam-gegen-drogenschmuggel-vorgehen,hafensicherheit-104.html",
-   "source": "NDR Hamburg",
-   "category": "Wirtschaft & Hafen"
-  },
-  {
-   "title": "Sternbrücke holt Preis von nebenan.de",
-   "summary": "Die neue Sternbrücke wird laut Abendblatt in Berlin mit einem Preis von nebenan.de ausgezeichnet, obwohl sie in Hamburg unterlegen war.",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQODM0c3h6cGdIVUpjVFVKcXdhN214RUF0YjRHOU80azV5Mm92enBCQmFKakdfdmRhTHpqMkgxQ2hiNkpRaXNXUl9ReVFDd0ItWlIzYmZOb0J5c191M1lUY0ptSlRiTzR3TnVkMFFvdU9zX3h5VXgwVkJ6c3BIR3ZoQ3dpandLSFlGT0tyTEJSenJ2Q2pQaldjVURUMkMxVm1VRWhObFZxaTNqVUhaU09oV3g4V2NsVFE5ZDVIY1RvYjl5UFBxWkRsS0w0NHhHX3kwbXpyUjJoa1Jfa3U3ZklRYlNJSkM?oc=5",
-   "source": "Hamburger Abendblatt",
-   "category": "Bauen & Wohnen"
-  },
-  {
-   "title": "Weihnachtsmärkte starten: Ottensen und Eppendorf",
-   "summary": "Der Weihnachtsmarkt Ottensen läuft vom 19. November bis 23. Dezember, der Eppendorfer Weihnachtsbummel bis 30. Dezember.",
-   "url": "https://www.mopo.de/advertorial/weihnachtsmarkt-ottensen-bunte-adventszeit-an-der-ottenser-hauptstrasse/5084490",
-   "source": "Hamburger Morgenpost",
-   "category": "Kultur & Freizeit"
-  },
-  {
-   "title": "HSV: Vuskovic bricht Training angeschlagen ab",
-   "summary": "Der Innenverteidiger ist nach seiner Dopingsperre zum Duell am Sonntag in Bremen wieder spielberechtigt, hat aber offenbar Probleme.",
-   "url": "https://www.ndr.de/sport/fussball/vuskovic-bricht-hsv-training-angeschlagen-ab,hsv-2406.html",
-   "source": "NDR Hamburg",
-   "category": "Sport"
-  }
- ]
+  "date": "2026-11-20",
+  "intro": "Heute stehen Streiks und Demos an, und am Elbtower eskaliert der Streit zwischen Baufirma und Senat. Am Wochenende drohen außerdem Sperrungen auf der A7 und am Berliner Tor.",
+  "top": [
+    {"title": "Elbtower: Baufirma baut Kräne ab und setzt dem Senat ein Ultimatum", "text": "Die Firma Lupp, zuständig für den Rohbau des Elbtowers in der Hafencity, hat begonnen, zwei Kräne und Betonverteil-Technik abzubauen. Damit will sie Druck auf den Senat machen. Seit rund drei Jahren ruht der Bau; in Verhandlungskreisen sieht man das Vorgehen laut Abendblatt eher kritisch. Es ist offen, wie es mit dem Weiterbau weitergeht.", "url": "https://www.ndr.de/nachrichten/hamburg/elbtower-in-hamburg-baufirma-beginnt-mit-kran-abbau,elbtower-156.html", "source": "NDR Hamburg", "category": "Bauen & Wohnen"},
+    {"title": "IG Metall: 24-Stunden-Warnstreiks auch in Hamburg", "text": "Beschäftigte der Metall- und Elektroindustrie sollen am Freitag ihre Arbeit niederlegen, unter anderem in Hamburg und Hannover. Ein Warnstreik ist ein kurzer Streik während laufender Tarifverhandlungen. Bei der Schiffszulieferer-Firma Steen GmbH liegt die Produktion laut Abendblatt schon still.", "url": "https://www.ndr.de/nachrichten/info/ig-metall-kuendigt-24-stunden-warnstreiks-fuer-norddeutschland-an,warnstreik-468.html", "source": "NDR Hamburg", "category": "Wirtschaft & Hafen"},
+    {"title": "„Gen Z regelt“: Viele Demos und ein Schulstreik am Freitag", "text": "In Hamburg sind am Freitag zahlreiche Demonstrationen im Rahmen der Bewegung „Gen Z regelt“ geplant. Die Themen reichen von Militarisierung über Klimaschutz bis zu hohen Mieten. Mit Beeinträchtigungen in der Stadt ist zu rechnen.", "url": "https://www.ndr.de/nachrichten/hamburg/schulstreik-und-gen-z-regelt-proteste-was-in-hamburg-geplant-ist,genz-284.html", "source": "NDR Hamburg", "category": "Stadt & Politik", "tipp": "Wer am Freitag in der Innenstadt unterwegs ist, sollte etwas mehr Zeit einplanen."}
+  ],
+  "entries": [
+    {"title": "Zweitwohnungen: Mehr Steuern geplant", "summary": "SPD und Grüne haben beantragt, dass Mieter teurer Zweitwohnungen deutlich mehr Steuern zahlen. Der Antrag geht in die kommende Bürgerschaftssitzung, beschlossen ist noch nichts.", "url": "https://www.ndr.de/nachrichten/hamburg/fuer-mieter-von-zweitwohnungen-in-hamburg-wird-es-teurer,kurzehh-4946.html", "source": "NDR Hamburg", "category": "Stadt & Politik"},
+    {"title": "Riesenfrachter wandern nach Wilhelmshaven ab", "summary": "Die Reederei Evergreen verlegt einen Liniendienst vorübergehend vom Hamburger Hafen nach Wilhelmshaven. Die Gründe seien schwerwiegend, schreibt das Abendblatt. Auch die HHLA äußert sich.", "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413718836/schock-fuer-hamburger-hafen-riesenfrachter-wandern-nach-wilhelmshaven-ab.html", "source": "Hamburger Abendblatt", "category": "Wirtschaft & Hafen"},
+    {"title": "Bildungsdemo gegen Sparmaßnahmen an Schulen", "summary": "Eltern planen für den 28. November eine Großdemo gegen Sparmaßnahmen an Hamburgs Schulen. Dafür brauchen sie noch 6.000 Euro.", "url": "https://www.abendblatt.de/hamburg/politik/article413712178/sparplaene-gefaehrden-bildung-in-hamburg-tausende-eltern-planen-grossdemo.html", "source": "Hamburger Abendblatt", "category": "Stadt & Politik"},
+    {"title": "A26-Ost: Bauarbeiten wieder gestoppt", "summary": "Nach einer erneuten Klage der Umweltverbände hat das Bundesverwaltungsgericht die Autobahngesellschaft gebeten, bis zur Entscheidung über den Eilantrag zu warten. Die Arbeiten ruhen vorerst.", "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413723005/bauarbeiten-zur-a26-ost-wieder-gestoppt-erneute-klage-der-umweltverbaende.html", "source": "Hamburger Abendblatt", "category": "Verkehr"},
+    {"title": "300 neue Wohnungen an der Winsener Straße", "summary": "Auf dem Gelände ehemaliger Aral- und Rewe-Märkte soll im Dezember der Bau beginnen.", "url": "https://www.abendblatt.de/hamburg/harburg/article413719283/300-neue-saga-wohnungen-winsener-strasse-bald-rollen-erste-bagger.html", "source": "Hamburger Abendblatt", "category": "Bauen & Wohnen"},
+    {"title": "Lyft stellt FreeNow ein und plant Robotaxis für Hamburg", "summary": "Die Taxi-App FreeNow soll unter dem Namen von Lyft aufgehen. Der US-Konzern plant zudem selbstfahrende Taxis in Hamburg.", "url": "https://www.mopo.de/hamburg/lyft-stampft-freenow-ein-und-bringt-robotaxis-nach-hamburg/5095587", "source": "Hamburger Morgenpost", "category": "Verkehr"},
+    {"title": "Höhere Bußgelder für Müllsünder", "summary": "Hamburg geht gegen illegalen Abfall vor, die Bußgelder steigen.", "url": "https://www.mopo.de/hamburg/kippen-kackhaufen-kartonberge-haertere-strafen-fuer-hamburgs-muellsuender/5095352", "source": "Hamburger Morgenpost", "category": "Stadt & Politik"},
+    {"title": "A7 und Berliner Tor am Wochenende dicht", "summary": "Die Mopo warnt vor Verkehrschaos durch Sperrungen von A7 und Berliner Tor. Auch der Elbtunnel ist laut NDR betroffen.", "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWdCZXhjQ1NkTUZ2X2FXdWxlUEJVV0dtaGczUzZCaGtUSHY5amRNbHpfcWNCLXEwS1FWbTQ1VWlVb3ZPUDhaM1JidnYxNE1YTmoybFlpRm1hUHhoaVhYOVZPbGQyYlN2TlJHZmdPdGwtSXh0SFY0cmNQWWhVdm1PTDU2YnBRZzhBbl9vdlVHTXVHZE95bTAzWQ?oc=5", "source": "Hamburger Morgenpost", "category": "Verkehr"},
+    {"title": "Einkaufszentrum Steilshoop: Ärger mit dem Brandschutz", "summary": "Für das heruntergekommene Zentrum gibt es große Pläne, nun gibt es aber Probleme mit dem Brandschutz. Der Eigentümer schweigt bislang.", "url": "https://www.mopo.de/hamburg/neuer-aerger-in-hamburgs-schlimmsten-ekz-wo-steckt-der-eigentuemer/5094749", "source": "Hamburger Morgenpost", "category": "Bauen & Wohnen"},
+    {"title": "EU-Kommission genehmigt Hamburger Hafeninvestitionen", "summary": "Die EU-Kommission gibt laut Fruchthandel grünes Licht für Investitionen im Hamburger Hafen.", "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHQ5UXZyN0Nkb3EzMWZjTHVnVmVTOV8wOUl2MThhbVdISkFqNnVRN0I1MDlkYW5JOTctVUVQZUs2OWt4VklrVE16SHFVbUZRR05aaEUxdDY0VTl6VkpIZWk5VS1vNzBVQ3NFN0R5cTZpeGw5LUt6RGIxaDBJbm9iTjFsZjItNXBsenpEYk4zU1k4TlRQZ0xmWmlGb2lkbFcw?oc=5", "source": "Fruchthandel", "category": "Wirtschaft & Hafen"},
+    {"title": "Krankenhausplan 2027 soll Hamburg als Gesundheitsmetropole stärken", "summary": "Der Senat stellt den neuen Krankenhausplan vor.", "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOLTRfZ0lrcGtCakF4STdQb3I0TTgxWHNFdTlDdzdsR2NrNzg1bzZQUFRvOUlaVzNxSXUwMjBlWFAtQ3VFVTEtNlBCZzg3UHJibG5Vb2dDa2lDLXp1TEVwSXpsSHZESE1TdXdXNDJDMmNCUzNwMEtUZzVzN3NxQ0JCc281UGw5ZldsSS1HdGxVVXpGbkdfNTA2WHhWZUp5aHZOYUpUdW4xMkdhaEhma3d6amtYNDh6SjAzVnl5ZkhySXROUkRjTHUzd2Rma2cxQnlKZTBMTWNHWGQzdEtWMjJ5QmU5elp1ZkNtRU9fa0Iwa19TYmRXYTJLUmJBTTFJRnFaSmtNMHpBcDN2clA1cnhMOUs5Yw?oc=5", "source": "hamburg.de", "category": "Stadt & Politik"},
+    {"title": "Hammerbrookstraße Süd: Radverkehr wird optimiert", "summary": "Der Radverkehrsfluss entlang der Hammerbrookstraße Süd soll verbessert werden.", "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWlEzZDgzWFNzaE9GQktDN3A1WEJfbHh6aGU3WFpITnFfR1d1dkE3V2gydUhUcVpvMHVWUGxWVnFiQlVNZm9UMzlvMlFvaUNnTjZ2dmk2N1lrNXo3eWoySERoSm93SHA4ejhWZkNTWXh2RkdySFgzSGRiaXhwMDBKSkVMdGZvV2E1c3ByMWZBRVoxeHRxcnQ1WXliTnRoRkJCUmZwUllEUG9EV1I0Q2RtZHVKQ3pIbU5NLUk4SGU0bkdZZG5KVC1yN1hDenh3TVFIM0VR?oc=5", "source": "hamburg.de", "category": "Verkehr"}
+  ]
 }
