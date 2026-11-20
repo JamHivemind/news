@@ -1104,6 +1104,10 @@
    [
     "2026-11-18",
     616.38
+   ],
+   [
+    "2026-11-19",
+    596.22
    ]
   ]
  },
@@ -1115,42 +1119,42 @@
  },
  "hf": [
   {
-   "id": "higurashi-ai/Haru-4B",
-   "likes": 3662,
-   "downloads": 6266,
-   "task": "audio-to-audio"
-  },
-  {
    "id": "tencent/Hy4-flash",
-   "likes": 361,
+   "likes": 384,
    "downloads": 2053,
    "task": "image-text-to-text"
   },
   {
+   "id": "higurashi-ai/Haru-4B",
+   "likes": 3687,
+   "downloads": 6266,
+   "task": "audio-to-audio"
+  },
+  {
    "id": "apple/FastFrames-L",
-   "likes": 348,
+   "likes": 362,
    "downloads": 0,
    "task": "text-to-video"
   },
   {
-   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 750,
-   "downloads": 1320,
-   "task": "image-text-to-text"
-  },
-  {
    "id": "inworld/voice-isolator",
-   "likes": 285,
+   "likes": 302,
    "downloads": 0,
    "task": "audio-to-audio"
   },
   {
+   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+   "likes": 764,
+   "downloads": 1320,
+   "task": "image-text-to-text"
+  },
+  {
    "id": "Qwen/Qwen3.8-27B",
-   "likes": 20694,
+   "likes": 20709,
    "downloads": 6647301,
    "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-20T05:23:56.480Z",
+ "updated": "2026-11-20T08:37:09.783Z",
  "updatedDay": "2026-11-06"
 }
