@@ -64,10 +64,6 @@
  "stocks": {
   "NVDA": [
    [
-    "2026-08-20",
-    216.85
-   ],
-   [
     "2026-08-21",
     214.72
    ],
@@ -325,10 +321,6 @@
    ]
   ],
   "MSFT": [
-   [
-    "2026-08-20",
-    481.15
-   ],
    [
     "2026-08-21",
     483.24
@@ -588,10 +580,6 @@
   ],
   "GOOGL": [
    [
-    "2026-08-20",
-    340.67
-   ],
-   [
     "2026-08-21",
     344.82
    ],
@@ -849,10 +837,6 @@
    ]
   ],
   "META": [
-   [
-    "2026-08-20",
-    545.83
-   ],
    [
     "2026-08-21",
     549.9
@@ -1119,42 +1103,42 @@
  },
  "hf": [
   {
-   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 771,
-   "downloads": 1320,
-   "task": "image-text-to-text"
-  },
-  {
-   "id": "tencent/Hy4-flash",
-   "likes": 392,
-   "downloads": 2053,
-   "task": "image-text-to-text"
-  },
-  {
    "id": "higurashi-ai/Haru-4B",
-   "likes": 3700,
-   "downloads": 6266,
+   "likes": 5622,
+   "downloads": 7323,
    "task": "audio-to-audio"
   },
   {
-   "id": "apple/FastFrames-L",
-   "likes": 366,
-   "downloads": 0,
-   "task": "text-to-video"
+   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+   "likes": 866,
+   "downloads": 1874,
+   "task": "image-text-to-text"
   },
   {
-   "id": "inworld/voice-isolator",
-   "likes": 312,
-   "downloads": 0,
-   "task": "audio-to-audio"
+   "id": "thinkingmachines/Inkling-2-Mini",
+   "likes": 714,
+   "downloads": 136,
+   "task": "image-text-to-text"
   },
   {
    "id": "Qwen/Qwen3.8-27B",
-   "likes": 20710,
+   "likes": 20811,
    "downloads": 6454419,
+   "task": "image-text-to-text"
+  },
+  {
+   "id": "Sentinel7/h3",
+   "likes": 298,
+   "downloads": 0,
+   "task": ""
+  },
+  {
+   "id": "unsloth/Inkling-2-Mini-GGUF",
+   "likes": 225,
+   "downloads": 0,
    "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-20T10:17:36.860Z",
+ "updated": "2026-11-21T02:28:36.646Z",
  "updatedDay": "2026-11-06"
 }

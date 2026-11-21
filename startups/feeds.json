@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-20T10:17:01.318Z",
+ "fetched": "2026-11-21T02:27:59.240Z",
  "hours": 48,
  "sources": [
   {
@@ -42,6 +42,24 @@
    "name": "Sifted",
    "ok": true,
    "items": [
+    {
+     "title": "Exclusive: Storonsky-backed Aikido seeks €4bn valuation",
+     "url": "https://sifted.eu/articles/exclusive-aikido-4bn-valuation/",
+     "date": "2026-11-20T16:04:11.000Z",
+     "text": ""
+    },
+    {
+     "title": "How a handful of European angels hit the Anthropic jackpot",
+     "url": "https://sifted.eu/articles/european-angels-anthropic-ipo/",
+     "date": "2026-11-20T15:34:03.000Z",
+     "text": ""
+    },
+    {
+     "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
+     "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/",
+     "date": "2026-11-20T13:00:51.000Z",
+     "text": ""
+    },
     {
      "title": "Inside Malmö: The Swedish city building the future of food",
      "url": "https://sifted.eu/articles/inside-the-swedish-city-building-the-future-of-food-brnd/",
@@ -125,24 +143,6 @@
      "url": "https://sifted.eu/articles/ineffable-david-silver-ai-super-intelligence-safety/",
      "date": "2026-11-19T05:00:10.000Z",
      "text": ""
-    },
-    {
-     "title": "How Payhawk raised $280m amid fintech downturn",
-     "url": "https://sifted.eu/articles/payhawk-series-c/",
-     "date": "2026-11-18T15:03:22.000Z",
-     "text": ""
-    },
-    {
-     "title": "ElevenLabs, Lovable and DeepL CEOs urge EU to back homegrown AI",
-     "url": "https://sifted.eu/articles/elevenlabs-lovable-deepl-yann-lecun-eu-ai-open-letter/",
-     "date": "2026-11-18T12:30:18.000Z",
-     "text": ""
-    },
-    {
-     "title": "How to bounce back from losing your dream job",
-     "url": "https://sifted.eu/articles/what-to-do-after-losing-your-dream-job/",
-     "date": "2026-11-18T10:40:37.000Z",
-     "text": ""
     }
    ]
   },
@@ -152,28 +152,34 @@
    "ok": true,
    "items": [
     {
+     "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+     "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+     "date": "2026-11-20T20:58:29.000Z",
+     "text": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit."
+    },
+    {
+     "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+     "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+     "date": "2026-11-20T19:53:41.000Z",
+     "text": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
+    },
+    {
+     "title": "Bending Spoons buys Mailchimp for $3.68B",
+     "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+     "date": "2026-11-20T16:16:06.000Z",
+     "text": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain."
+    },
+    {
+     "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+     "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+     "date": "2026-11-20T14:55:44.000Z",
+     "text": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]"
+    },
+    {
      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
      "date": "2026-11-19T17:00:00.000Z",
      "text": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers."
-    },
-    {
-     "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-     "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-     "date": "2026-11-18T19:29:41.000Z",
-     "text": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents."
-    },
-    {
-     "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-     "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-     "date": "2026-11-18T12:00:00.000Z",
-     "text": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
-    },
-    {
-     "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-     "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-     "date": "2026-11-18T11:30:00.000Z",
-     "text": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
     }
    ]
   },
@@ -211,38 +217,24 @@
      "via": "t3n"
     },
     {
-     "title": "Berner Start-up erhält zwei Millionen Franken für den Schutz der Küsten - Plattform J",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sR0NJNXg3V09uM1NwTmdzR3FKcXkza2NPTzlfYmd5Y2tWaXJKLUdpZ2tLSFRoaFFDZDZUZGYxT0FteGd1TlNWQ2xiUXg5VXFIZTdz?oc=5",
-     "date": "2026-11-19T14:30:00.000Z",
-     "text": "Berner Start-up erhält zwei Millionen Franken für den Schutz der Küsten Plattform J",
-     "via": "Plattform J"
-    },
-    {
-     "title": "Perry AI erhält 2,2 Millionen Dollar für KI-gestützte Rechtsprozesse bei Investoren - Startbase",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjBHOVc4b3dQb21rQzBhdmszQUlweGQ3QzZfaWU4RW5qNE43MWxkR0Jsb3NyOXVkVUZaVXRraTRMZEdqS08wRVJ0VmNscGxmdlQzbThsdlhrNy0ySnJZbi1nUDJuR0loLXVoczZDbmttemE3S2djLVptMEkwVjBjUXNtUnQ0dWdWMVBJVl82WUxpbWE3NlUzYWE0bDlXR0U4YWFVZmN0QThOY05CRWllVktlQlNUZFU?oc=5",
-     "date": "2026-11-18T13:30:00.000Z",
-     "text": "Perry AI erhält 2,2 Millionen Dollar für KI-gestützte Rechtsprozesse bei Investoren Startbase",
-     "via": "Startbase"
-    },
-    {
-     "title": "Satelliten fürs Handy: EU steckt bis zu 12,5 Mio. Euro in UNIVITY - Trending Topics",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VNjB2NmJaV2J5NU9QUnNydE9OTW9BMXRnVWROeFBCb3Zxd28yQXB5SlNjN0x4LTU1NGN2aEk1MndCQy1qSXV0VUFsdlh6X3dVZ2k3NEY2S1VVMVYxYXJ6VkVuOFRMdE0xZTRrSDJJWXFUVElVYWVsZlRR?oc=5",
-     "date": "2026-11-19T10:00:00.000Z",
-     "text": "Satelliten fürs Handy: EU steckt bis zu 12,5 Mio. Euro in UNIVITY Trending Topics",
-     "via": "Trending Topics"
-    },
-    {
-     "title": "Vetaion erhält 5,7 Millionen Euro für automatisierte Schaltschrankfertigung - Startbase",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2Y0SWxVV1dhUG45N0tONnF1Ujh6VGFXZUhYSEtzX0x5STBkcUEwUkFjR3FPUnpyT3Z3XzhkcmtvMmlNRmNZSldlejBfTHVSZ1dMWFFPVndEUHIwa29XdE9WUWxOb2VfaEp2M1VESFV3UE81b3FSU25HLXNfRmNhUmlQSktnY1BSSWxLWllUdjJNWGdIcFlDeWt6eGp3LVJvNWlOeUZNcHppbkE?oc=5",
-     "date": "2026-11-19T09:23:28.000Z",
-     "text": "Vetaion erhält 5,7 Millionen Euro für automatisierte Schaltschrankfertigung Startbase",
-     "via": "Startbase"
+     "title": "Telekom steigt mit 100 Millionen Euro bei Mistral AI ein - aktien.news",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODBTcjU5aVo2dWZVWmZmUFRuazFmY0JUeUZUd1VxR0VRSWNnSGFpTWdKNGlxQUo1V0JieUlqSF9leC16TVJ1NFg1Y0tWQ3Q5MGppcjBMY0tTMVhPQ3VjYlZha2tSako0emJ2TWMwMlJuM1ZnWF9ZUHVCVDdsR3FnUEdKWlI1VWc?oc=5",
+     "date": "2026-11-20T14:56:11.000Z",
+     "text": "Telekom steigt mit 100 Millionen Euro bei Mistral AI ein aktien.news",
+     "via": "aktien.news"
     },
     {
      "title": "4,7 Millionen Dollar für LATO - Startbase",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wb2VBZElNYm5aT2otaUVMSk44UWZMMlRwZS1iZnFoTXA0Q3V4TnowTHAxN2VqNmRQWDVISFFuWjJOcHd5MnVSTk80Q0hETzJkTXkwcDlmZ3VQOEw3N1hnNkdmX0FfMXlaeVZSTg?oc=5",
      "date": "2026-11-19T08:20:06.000Z",
      "text": "4,7 Millionen Dollar für LATO Startbase",
+     "via": "Startbase"
+    },
+    {
+     "title": "Vetaion erhält 5,7 Millionen Euro für automatisierte Schaltschrankfertigung - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2Y0SWxVV1dhUG45N0tONnF1Ujh6VGFXZUhYSEtzX0x5STBkcUEwUkFjR3FPUnpyT3Z3XzhkcmtvMmlNRmNZSldlejBfTHVSZ1dMWFFPVndEUHIwa29XdE9WUWxOb2VfaEp2M1VESFV3UE81b3FSU25HLXNfRmNhUmlQSktnY1BSSWxLWllUdjJNWGdIcFlDeWt6eGp3LVJvNWlOeUZNcHppbkE?oc=5",
+     "date": "2026-11-19T09:23:28.000Z",
+     "text": "Vetaion erhält 5,7 Millionen Euro für automatisierte Schaltschrankfertigung Startbase",
      "via": "Startbase"
     }
    ]
