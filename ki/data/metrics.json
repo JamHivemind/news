@@ -1120,21 +1120,21 @@
  "hf": [
   {
    "id": "thinkingmachines/Inkling-2-Mini",
-   "likes": 843,
+   "likes": 844,
    "downloads": 136,
    "task": "image-text-to-text"
+  },
+  {
+   "id": "Sentinel7/h3",
+   "likes": 396,
+   "downloads": 0,
+   "task": ""
   },
   {
    "id": "higurashi-ai/Haru-4B",
    "likes": 5698,
    "downloads": 7323,
    "task": "audio-to-audio"
-  },
-  {
-   "id": "Sentinel7/h3",
-   "likes": 394,
-   "downloads": 0,
-   "task": ""
   },
   {
    "id": "harness-hub/Qwen3.8-27B-pi-adapted",
@@ -1155,6 +1155,6 @@
    "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-21T05:17:27.675Z",
+ "updated": "2026-11-21T05:18:54.485Z",
  "updatedDay": "2026-11-06"
 }
