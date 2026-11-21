@@ -1,6 +1,31 @@
 {
   "briefs": [
     {
+      "date": "2026-11-21",
+      "file": "2026-11-21.html",
+      "headline": "Trump, Xi und Putin an einem Tisch in Shenzhen",
+      "count": 18,
+      "sources": 9,
+      "cats": {
+        "Weltpolitik": 5,
+        "Krieg & Konflikte": 4,
+        "Katastrophen & Klima": 3,
+        "Europa": 3,
+        "Wirtschaft & Handel": 2,
+        "Hafen & Schifffahrt": 1
+      },
+      "ents": {
+        "Ukraine": 3,
+        "Russland": 4,
+        "USA": 3,
+        "China": 1,
+        "NATO": 1,
+        "Iran": 1,
+        "Israel": 1,
+        "EU": 2
+      }
+    },
+    {
       "date": "2026-11-20",
       "file": "2026-11-20.html",
       "headline": "Trump, Xi und Putin veröffentlichen „Friedenserklärung“",
