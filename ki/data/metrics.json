@@ -1120,41 +1120,41 @@
  "hf": [
   {
    "id": "thinkingmachines/Inkling-2-Mini",
-   "likes": 850,
+   "likes": 1023,
    "downloads": 136,
    "task": "image-text-to-text"
   },
   {
-   "id": "Sentinel7/h3",
-   "likes": 402,
-   "downloads": 0,
-   "task": ""
-  },
-  {
    "id": "higurashi-ai/Haru-4B",
-   "likes": 5698,
+   "likes": 5708,
    "downloads": 7323,
    "task": "audio-to-audio"
   },
   {
    "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 869,
+   "likes": 833,
    "downloads": 1874,
    "task": "image-text-to-text"
   },
   {
-   "id": "unsloth/Inkling-2-Mini-GGUF",
-   "likes": 275,
+   "id": "Sentinel7/h3",
+   "likes": 514,
    "downloads": 0,
+   "task": ""
+  },
+  {
+   "id": "tencent/Hy4-flash",
+   "likes": 558,
+   "downloads": 3949,
    "task": "image-text-to-text"
   },
   {
-   "id": "Qwen/Qwen3.8-27B",
-   "likes": 20818,
-   "downloads": 6454419,
-   "task": "image-text-to-text"
+   "id": "Lightricks/LTX-2.5",
+   "likes": 12839,
+   "downloads": 2964523,
+   "task": "image-to-video"
   }
  ],
- "updated": "2026-11-21T05:24:40.910Z",
+ "updated": "2026-11-21T08:26:56.588Z",
  "updatedDay": "2026-11-06"
 }
