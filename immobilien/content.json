@@ -1,22 +1,113 @@
 {
-  "date": "2026-11-20",
-  "intro": "In Hamburg stehen heute der Elbtower und die schrumpfende Zahl an Sozialwohnungen im Mittelpunkt. Dazu kommen neue Büro-Vermietungen und ein Steuerplan für teure Zweitwohnungen.",
+  "intro": "In Hamburg läuft die Bindung vieler Sozialwohnungen aus, und junge Menschen klagen über teure Mieten. Bundesweit stehen Finanzierung und Logistikflächen im Mittelpunkt der Branchenmeldungen.",
   "top": [
-    {"title": "Hamburg verliert immer mehr Sozialwohnungen", "text": "In Hamburg gibt es aktuell knapp 73.000 Sozialwohnungen im ersten Förderweg (die klassische Förderung mit gedeckelter Miete). Vor 20 Jahren waren es noch mehr als 122.000. Für Mieter mit kleinem Einkommen wird es damit schwerer, eine günstige Wohnung zu finden.", "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-verliert-immer-mehr-sozialwohnungen,sozialwohnungen-160.html", "source": "NDR Hamburg", "category": "Wohnungsmarkt Hamburg"},
-    {"title": "Elbtower: Baufirma baut Kräne ab", "text": "Die Firma Lupp, zuständig für den Rohbau des Elbtowers in der Hafencity, hat laut NDR begonnen, zwei Kräne abzubauen. Auch Vorrichtungen zur Betonverteilung werden entfernt. Die Firma stellt ein Ultimatum. Das Abendblatt berichtet, dass man in Verhandlungskreisen dieses Vorgehen eher kritisch sieht. Die Baustelle steht seit rund drei Jahren still.", "url": "https://www.ndr.de/nachrichten/hamburg/elbtower-in-hamburg-baufirma-beginnt-mit-kran-abbau,elbtower-156.html", "source": "NDR Hamburg", "category": "Bau & Projekte"},
-    {"title": "Zweitwohnungen in Hamburg: Mehr Steuern geplant", "text": "Wer in Hamburg eine teure Zweitwohnung mietet, soll deutlich mehr Steuern zahlen. SPD und Grüne haben dazu einen Antrag für die kommende Bürgerschaftssitzung gestellt. Die Details nennt die Quelle im Teaser nicht.", "url": "https://www.ndr.de/nachrichten/hamburg/fuer-mieter-von-zweitwohnungen-in-hamburg-wird-es-teurer,kurzehh-4946.html", "source": "NDR Hamburg", "category": "Politik & Recht"}
+    {
+      "title": "Hamburg verliert bis 2030 rund 19.000 Sozialwohnungen",
+      "text": "Laut NDR fallen in Hamburg bis 2030 etwa 19.000 Wohnungen aus der Sozialbindung. Sozialbindung heißt: Der Vermieter muss die Wohnung zu einer günstigen Miete an Berechtigte vergeben. Läuft sie aus, darf er die Miete dem Markt anpassen. Für Haushalte mit kleinem Einkommen wird die Wohnungssuche damit schwerer.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdnd4ZEZWc0FBTmM3ajJCVFdKM2o5bzVTNXU1UmREQllpbDNlMzYyc2JzeGJSQVlXdEFLU0hnRkJhVVVkYkQ4cS12ejNHa3g2bkZ0VDlCY0hkWHpUT1laQ2UwSFdTOVoySDFLRFNFVjVTNl9FRDBUTHR5ZmxPaG5QV1hMdHlqdWYxaUlsakhTUWkzU0VFWWx6MHd1eGF5TXRKRURNN0poOG9kakk?oc=5",
+      "source": "NDR.de",
+      "category": "Wohnungsmarkt Hamburg"
+    },
+    {
+      "title": "WG-Zimmer werden immer teurer",
+      "text": "Junge Menschen demonstrieren gerade für ein bezahlbares Leben. In Unistädten gibt es kaum noch günstige Wohnungen. Der NDR zeigt, wo es im Norden für WG-Zimmer noch preiswerter ist.",
+      "url": "https://www.ndr.de/nachrichten/info/wg-zimmer-immer-teurer-wo-es-im-norden-noch-guenstig-ist,wg-miete-gen-z-100.html",
+      "source": "NDR Hamburg",
+      "category": "Wohnungsmarkt Hamburg"
+    },
+    {
+      "title": "Hamburg nutzt Vorkaufsrecht in Poppenbüttel",
+      "text": "Die Stadt will in der Ulzburger Straße mehrere Vorgärten ankaufen. Beim Vorkaufsrecht darf die Stadt anstelle des Käufers in einen Kaufvertrag eintreten. Warum sie das tut, sagt sie laut Abendblatt nicht. Ein Verkäufer wehrt sich dagegen.",
+      "url": "https://www.abendblatt.de/hamburg/wandsbek/article413670533/hamburg-nutzt-vorkaufsrecht-fuer-vorgaerten-in-poppenbuettel-verkaeufer-irritiert-01.html",
+      "source": "Hamburger Abendblatt",
+      "category": "Politik & Recht"
+    }
   ],
   "entries": [
-    {"title": "Hamburgs Immobilienpreise steigen am stärksten", "summary": "Laut Abendblatt legen die Immobilienpreise in Hamburg so stark zu wie in keiner anderen deutschen Metropole.", "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd0I1Mlk1cncxUVBfTGZJY3otbFdHZzJCZm45dVk4bU51WDN6WENFeEQ4d1N6R3hLN0YtWUc3VUYydDFCWWh3Y0VWa1p5enlpWW1ERDZwVnRQVEhmS1dJd0RTNlk5SnJIUFdfY2NCcHh3NE93WnRKWG9oWVRndThiM3FJWW5aalFYb3hMTjgyZXp3SEtRZ3hRMEt0N1ZWTUR2RGpZMy1nTXhQeXdaS3hGbWhYbkNQWEN1aUI4V3hfel9SakQwTmxXTEN5M2U1Tzh0RDhkN1RWM0VydmhuT2c?oc=5", "source": "Hamburger Abendblatt", "category": "Wohnungsmarkt Hamburg"},
-    {"title": "Stadt kauft Haus in St. Georg, 15 Wohnungen stehen leer", "summary": "Der Ankauf sollte bezahlbaren Wohnraum sichern. Bislang ist aber niemand eingezogen.", "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413718170/stadt-hamburg-kauft-haus-in-st-georg-und-laesst-15-wohnungen-leer-stehen.html", "source": "Hamburger Abendblatt", "category": "Wohnungsmarkt Hamburg"},
-    {"title": "300 neue Wohnungen an der Winsener Straße", "summary": "Auf dem Gelände früherer Aral- und Rewe-Märkte sollen im Dezember die Bagger anrollen.", "url": "https://www.abendblatt.de/hamburg/harburg/article413719283/300-neue-saga-wohnungen-winsener-strasse-bald-rollen-erste-bagger.html", "source": "Hamburger Abendblatt", "category": "Bau & Projekte"},
-    {"title": "Baustopp für Oberbillwerder bis August 2027", "summary": "Beim neuen Hamburger Stadtteil Oberbillwerder ruht der Bau laut Immobilien Zeitung bis August 2027.", "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHprSnhua0F6aHRVVEc0WWZ2WlBsVk83dTIyemlLblNVd2dOMzVEbndWTkZRWGw1VkNuOTU5UTFFQnNId1lzR3p1cmhtcFM3RDRMSHMxMWFaOURPTlQ5S21qSEJCMGFpSno2bDlIZ3pxODQ4OXk4OTl4bVZaSVJlWmxFcnZ5RXdNRXFIZ1M5ZThUYjZlLUlWS1k2d3M?oc=5", "source": "Immobilien Zeitung", "category": "Bau & Projekte"},
-    {"title": "Nooma mietet 3.000 m² im Asia-Haus", "summary": "Der Anbieter von Flexbüros (flexibel mietbare Büros) bekommt in Hamburg seinen ersten Standort. Newmark hat die Fläche vermittelt.", "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmJnSUZaTWh1bWVnUWpnY3E0OEpXN1ctNjJwMHh2SVZWYmgtWWI4S09kbGZzbDMzNElWbGJBWlpFNXNUbTdYMU1hLVE0UGRhTEE0NVVJbjhDU0tRR3VXajBycHdDN05FQlJYTGt2RUhvdEZwYjY3c1N5Q3JJZ2dFdXdDYlF3OFZqNTdIaXZoXzNzUzU1N3hRbnNrUmtoRG4zb00zVGsxY3QyOHJUZ1ZiQjlEdXBNNERZWFFkWXZKYw?oc=5", "source": "konii", "category": "Büromarkt Hamburg"},
-    {"title": "CS Business Center mietet 1.840 m² in Winterhude und Rotherbaum", "summary": "Der Büroanbieter mietet Flächen an zwei Hamburger Standorten.", "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTd0WVN0SmE5SGZGMXJ5SWtaZjNjbHRMMFI3dEM1ZjA3XzhHSmh5UFhTMEVPX3FKS3J6MkV4WDZJS2Y5d24zY3BSTk5mU244UjNhMzNwbllMWV9ybDU4eFEtZ0l5M0VicDhFU3pVV0s3dnMtSDVyMVV0QUYtWHdzbEJ3WkdvS0dqSlNYS0dFejRudXc1Y2xQVEpfQXpNT0FpcExzbmgzNEwtaUhBcDBtWjlocVBYQVVreTNUR29R?oc=5", "source": "konii", "category": "Büromarkt Hamburg"},
-    {"title": "Mehr Baugenehmigungen für Wohnungen", "summary": "Im Dreivierteljahr verbucht der Wohnungsbau laut Immobilien Zeitung ein Plus bei den Genehmigungen.", "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVFGZ0dFUllvZTlnQUNJcVkxOWJvRzQ0YTNYVnVDMDZXTzYzcks2ZXJGTm1FYXdTdEhlb1ZBWlY2SnFKSG1jYjNCVnBUQkItM1ZZaWEtOU9yZFV2RE9URERMSE5Mb0NCYXoyZXl5c0xwM3FXbU9sVGxfU0x6empPeWV5N2Fhb1ptcW4wOC1senQ5NlBZM0FCRTNYVk9Ya2ZRcWdVVGRwbVE?oc=5", "source": "Immobilien Zeitung", "category": "Markt Deutschland"},
-    {"title": "Kreditneugeschäft wächst langsamer", "summary": "Das Wachstum bei neuen Immobilienkrediten schwächt sich laut Immobilien Zeitung ab.", "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWRpRUtLdU1OODZXQTZneHdVclJ0M2FuTWhPLXkzZnVWa1FEaGV4VWxGSVE1TnFrUWhZVnNyTUlwZjFJby10ZExZUWY4VDBXQk82Q25hM0Eydk1Td3EwN0R3YzVSR2RuUDBPV2tDTDIzU3g3SkNCeUlVcnR0WXUxY1ZOelVsSjdzdXdjUVREZW50MVNPZXk4?oc=5", "source": "Immobilien Zeitung", "category": "Zinsen & Finanzierung"},
-    {"title": "Private Debt füllt Finanzierungslücke", "summary": "Kreditfonds außerhalb der Banken (Private Debt) springen am schwächelnden Immobilienmarkt ein. Internationale Investoren steigern ihre Aktivität bei Immobilienkrediten.", "url": "https://www.immobilienmanager.de/fap-real-estate-private-debt-report-germany-2026-19112026", "source": "Immobilien Manager", "category": "Zinsen & Finanzierung"},
-    {"title": "Fehler bei Belehrung kostet halbe Provision", "summary": "Laut Immobilien Zeitung verliert ein Makler wegen eines Belehrungsfehlers die Hälfte seiner Provision.", "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLU12dmxUaHZQdHE3cEV2TFpBRERpY0NZS2FuaWFMSGl0TzNLMnVOaHZVNGk2WE5oN2pwZDJiSXd4V2pDbUZpSHpzczlrX2pKX21SQm1XU2lIZ1J5aU9ma1BfNUhoMk9WcmhOQk8yX2d5cU5lSWdsWVM0QmRneGEwMHhTTm5wYWtKN09UaA?oc=5", "source": "Immobilien Zeitung", "category": "Politik & Recht"},
-    {"title": "Transitions Europe kommt auf den deutschen Pflegeheimmarkt", "summary": "Der Investor steigt in Deutschland in Pflegeheime ein.", "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXhzaDh2T3pzeGdCelZpNHZJSDhEYkxlZW5wQXFnWll5NTJLbEJsVEsxMTNvLWdmZTMwcXpvVGI4QmpiZW9SUHpWOXROZE1uWFhRUnp1S1JlSF9yT1JLMHU2d0dKeWtyRlNxVFBGOG9nVTF4bWFGZzhnNlI2bXRKLU5hY0pDS2VmVjVDbGNVZ3hrVkZLUERRTzVBZ1JGaFpxdHZQVk9PLVk?oc=5", "source": "Immobilien Zeitung", "category": "Unternehmen & Deals"}
-  ]
+    {
+      "title": "Rundgang über die Baustelle des Elbtowers",
+      "summary": "Die Immobilien Zeitung zeigt in einer Bildergalerie den aktuellen Stand auf der Baustelle des Hamburger Elbtowers.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HSnBqM0JlSHlzTFZrQVhZdU1ndk9meFdCTUdSQWFyWkFXSllWRXlBcEt4UDVhNmh3RlR6bTQtUTNQNm1Vc0JEZkV4WGVwcEQ4d0RoS29DTHo4U1cxbmRiZkYyS18wMngxMFdiLXZ1VHhfU3hkTjVXbnpTNzU0cVk?oc=5",
+      "source": "Immobilien Zeitung",
+      "category": "Bau & Projekte"
+    },
+    {
+      "title": "Glückstadt beschließt neues Wohngebiet",
+      "summary": "Die Stadt an der Elbe plant ein Wohngebiet auf 13 Hektar.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjYtd1lOeU1SSVJaNFBtc1ZIQ3pZaklRZUR2cXdfNDlsRXVkcWJiaFh1UjltbllaeWpEWTQtSktrd1VVdFd0YlpxUzRxb2pFQ0pTeXpuOGRyTmNHRWxFdWFyejJNV3JaMklCWnRMSlJoU3VrZFZQdHJQZ0kwanV2azExNFJpcXNfbnlpbU5fQ2FoM2NCR0E?oc=5",
+      "source": "Immobilien Zeitung",
+      "category": "Bau & Projekte"
+    },
+    {
+      "title": "Bezirk Altona will Abriss statt Wohnprojekt in Sülldorf",
+      "summary": "Der Arbeiter-Samariter-Bund wollte eine frühere Flüchtlingsunterkunft in günstigen Wohnraum für junge Leute umbauen. Der Bezirk Altona will das Gebäude lieber abreißen.",
+      "url": "https://www.ndr.de/nachrichten/hamburg/bezirk-altona-will-abriss-von-wohnprojekt-in-suelldorf,asb-112.html",
+      "source": "NDR Hamburg",
+      "category": "Wohnungsmarkt Hamburg"
+    },
+    {
+      "title": "Abriss der Kläranlage Vera II: Kosten steigen auf 400 Millionen Euro",
+      "summary": "Statt 145 Millionen Euro kostet das Projekt 400 Millionen. Ein Gutachten wirft Hamburg Wasser grobe Planungsfehler vor.",
+      "url": "https://www.abendblatt.de/hamburg/politik/article413686739/hamburg-wasser-gutachten-belegt-planungsversagen-bei-skandalprojekt-vera-ii-1.html",
+      "source": "Hamburger Abendblatt",
+      "category": "Bau & Projekte"
+    },
+    {
+      "title": "Untersuchungsausschuss zu Großprojekten",
+      "summary": "CDU und Linke planen gemeinsam einen Ausschuss mit elf Abgeordneten. Er soll Finanzdesaster bei Großprojekten aufklären. Auch der Bürgermeister rückt dabei in den Blick.",
+      "url": "https://www.abendblatt.de/hamburg/politik/article413723706/cdu-und-linke-gemeinsam-das-sind-ihre-plaene-fuer-den-untersuchungsausschuss.html",
+      "source": "Hamburger Abendblatt",
+      "category": "Politik & Recht"
+    },
+    {
+      "title": "Galeria fordert Millionenzuschüsse von Vermietern",
+      "summary": "Die Warenhauskette verlangt laut Immobilien Zeitung von ihren Vermietern Zuschüsse in Millionenhöhe. Das betrifft viele Innenstadt-Immobilien.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVlJLXlKNVJ5MmRZeXA3QnM1ekNyWTFtRlhxbDByeGNUMUdHMzlNVzhFUFZZQ0h6M3gyalJtaGRDVTVwWWNkbHBqU2Z2dkZCdTVpaFMyMXVaYVNsbGV0YldZLWZlLVlRYzljamJySWxyU1ZBMGFVWG54aXFxaHgyTnFHRm5jN0dfZ21jWmVFdDROWTZJTGQ0UEpwbktKZ0RxVm50aTVWQ0hLWk12cm1YMGI2cw?oc=5",
+      "source": "Immobilien Zeitung",
+      "category": "Unternehmen & Deals"
+    },
+    {
+      "title": "Strom und Gas werden für Millionen Haushalte teurer",
+      "summary": "Viele Kunden bekommen derzeit Preiserhöhungen. Das zeigt eine Analyse von Verivox. Für Mieter steigen damit die Nebenkosten.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/verivox-analyse-strom-und-gas-wird-fuer-millionen-haushalte-teurer/100271696.html",
+      "source": "Handelsblatt",
+      "category": "Markt Deutschland"
+    },
+    {
+      "title": "US-Notenbankerin Cook fordert weitere Zinserhöhungen",
+      "summary": "Das Zinsniveau reiche nicht aus, um die Inflation zu bremsen, sagt Fed-Gouverneurin Cook. Die Aussage betrifft zunächst die USA, wirkt aber auf die Zinserwartungen weltweit.",
+      "url": "https://www.handelsblatt.com/politik/international/geldpolitik-fed-gouverneurin-cook-dringt-auf-weitere-zinserhoehungen/100271670.html",
+      "source": "Handelsblatt",
+      "category": "Zinsen & Finanzierung"
+    },
+    {
+      "title": "Real Estate Finance Day: Neue Lage bei Immobilienfinanzierungen",
+      "summary": "Zur Eröffnung gab es einen mittelfristig positiven Ausblick für den deutschen Immobilienmarkt.",
+      "url": "https://www.konii.de/news/real-estate-finance-day-2026-neue-gesamtwetterlage-auf-dem-deutschen-markt-der-immobilienfinanzierungen/",
+      "source": "konii",
+      "category": "Zinsen & Finanzierung"
+    },
+    {
+      "title": "Private Debt füllt die Finanzierungslücke",
+      "summary": "Private Kreditgeber springen am kriselnden Immobilienmarkt ein, wo Banken zurückhaltend sind. Private Debt heißt: Kredite von Fonds statt von Banken.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ05pMnZGZVUtamNtRVNVdXJPVjRYNGk0RG1JRUppZWN3akVORU43eVdscEYzY0lGeGNMZXU5bDVPM2VlOHNhbjBZOTFsUHVES04wUHd6VmxCSk5yZHhtMFlpT0N4TGcwb1JYazMyeEN2UzJlTEJQVnM5cF9CSGtUTDctVko4WEtnenIyY0tma1lpMWxadXRSbTN6NGZkRE51VkpqRnZoc1FOTnNYaTdxSjlTSTRtRXlINmdHTg?oc=5",
+      "source": "Börsen-Zeitung",
+      "category": "Zinsen & Finanzierung"
+    },
+    {
+      "title": "Scout24-Chef: Deutschland hat zwei Immobilienmärkte",
+      "summary": "So beschreibt der Chef des Portalbetreibers die Lage laut WELT.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVmJqaE9xMXNfa1N2MHpveUZaVUk2eHFHS0JjdXJ5dkljeDliWlJJbTNoZEVlOFFrQ24tNjN4Z25NTE5uZ0dISG5YNlNwWFBPS0Z2TWtrX19SQ2ZFVDZTa0xNaURnaEJMeTd0MkViOHBwMkZDV3hVUUhFSnI0TjhiNGZNZmE5azFWM0dZWjlBZ0RGdG9RMy1LYzUzWWkyZlNta3lsQmxJZk5YRTlkN0RTXzI3WjVoajRGc0tOb0pGUjFHRHV6VGhpYkdsY1Q3QWU1QjRsZmpkRjNFNEhQT3NlYkh3?oc=5",
+      "source": "WELT",
+      "category": "Markt Deutschland"
+    },
+    {
+      "title": "Tishman Speyer vermietet Logistikneubau in Ratingen vollständig",
+      "summary": "Die neu gebaute Logistikimmobilie ist komplett vermietet. Logistikflächen bleiben bundesweit gefragt.",
+      "url": "https://www.konii.de/news/tishman-speyer-vollvermietung-fuer-logistikneubau-in-ratingen/",
+      "source": "konii",
+      "category": "Unternehmen & Deals"
+    }
+  ],
+  "date": "2026-11-21"
 }
