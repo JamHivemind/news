@@ -1,18 +1,78 @@
 {
-  "date": "2026-11-20",
-  "intro": "Heute geht es vor allem um die Kommunen: Mehrere Gemeinden planen oder beschließen höhere Hebesätze bei Grundsteuer und Gewerbesteuer. Auf Bundesebene gab es keine neuen Meldungen zu Erbschaft-, Grunderwerb- oder Sonderzonen-Themen.",
+  "intro": "Die Erbschaftsteuer steht nach einer Milliarden-Schenkung wieder in der Kritik, aber beschlossen ist bisher nichts. In vielen Städten steigen derweil Grund- und Gewerbesteuer.",
   "top": [
-    {"title": "Ortenberg: Grundsteuer B soll fast verdoppelt werden", "text": "In Ortenberg soll der Hebesatz der Grundsteuer B von 780 auf 1.480 Punkte steigen. Der Hebesatz ist der Faktor, mit dem die Gemeinde ihre Steuer festlegt; höher heißt mehr Steuer für Eigentümer, die sie über die Nebenkosten oft an Mieter weitergeben. Das ist bisher ein Vorschlag, beschlossen ist es laut Überschrift noch nicht.", "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1hRbDZVV2VYbXNTOTFRaW1nQ3QwR1hxSVE0MEVIVFVJZjJNMEkzUUhiNUE3bWlLM2VJZ0trNWFzOFZGVDN6Mnp3TWRvMXFLYzFjM3drZ1RuOGxtMEdGSnJIT09IelZwdUh2am8yOWpwQTVFcXJZVFc3TjRvVTVxbGpRelN6RjZIS1BTSGV1dGpDZFYwUWZOLWR6LTllb2NaczVTaVJyUEhJRTRtVGplVy0xN2NqRmc?oc=5", "source": "fnp.de", "category": "Grundsteuer"},
-    {"title": "Bad Wörishofen verlangt deutlich mehr Gewerbesteuer", "text": "Der Ort galt als „Steueroase“, also als Gemeinde mit niedriger Gewerbesteuer. Laut Augsburger Allgemeine verlangt Bad Wörishofen künftig deutlich mehr. Für Unternehmen und Standortentscheidungen ist das relevant, weil der niedrige Satz ein Argument für den Ort war.", "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ2hMTHlzaXRTcUxxdDJTSWliQjFvZEpncTJGd0ZUdDVWS0xfcXRNR0FTdjV5WkVpbTVHbkFfR2pxTDM3MTBPVEF6blNPbk4yX3dpTk9XMEcyVXExTkg5WHVHTDh1dzlNbmtVWlVybUh2dG5JendUUnZxWm5vUk9ObV90VmQtel9KWm9uNTljYXlNcDBJQ2JIVFo3MGZCNklycFZMSkdCSUtUWF9vcllOdUk0dTJ4R0dsdGpqMGxPVlFEQk5JN2Y5TGJMckJ3ZjM0cTl1XzdGMUUwd2M?oc=5", "source": "Augsburger Allgemeine", "category": "Gewerbesteuer & Standorte"},
-    {"title": "Bad Nauheim: Grundsteuer B um 300 Punkte, drei Millionen mehr", "text": "Bad Nauheim will den Hebesatz der Grundsteuer B um 300 Punkte anheben und damit drei Millionen Euro mehr einnehmen. Es handelt sich um eine Absicht der Stadt, nicht um einen Beschluss.", "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdXNPdURKWk9ZU3ZvUU9mdFJILVZUeFVSXy1Xb0lzckcyN1ZPVFV2ZDJ0SE82Qm5HZUdGYUFMejE0U0s1R1JTVHVLT1pTZWtZZG5BamhvU2dVbTBENk45R2dzdGtXN1Y3bHVyeldCZEFyUWN0YXRENDVzNHFJQkI3OV9tbGUtM3BsNkdMd0lqcmd1cTlWb2dtMW1yLWZRbW1aSF9QS0VHZEhRaHpLbEFvY3ZkNHBhbDZ0SEpYeVZrazUtSktESXl4LWNrRWxxOWJVRVdEMnJHeFVWWXNwQ2liVy12SVpLQjNvT3hiV1c2OWNSM1E?oc=5", "source": "fnp.de", "category": "Grundsteuer"}
+    {
+      "title": "Erbschaftsteuer: Kritik an Ausnahmen für Firmenerben wächst",
+      "text": "Auslöser ist die Schenkung eines Milliarden-Aktienpakets an Springer-Chef Döpfner im Jahr 2020. Laut Berichten politisch aus CDU und SPD gibt es Kritik an Schlupflöchern. Zwei Dinge sind klar zu trennen: Das ist bisher nur Kritik und Forderung, ein Gesetz zur Reform gibt es nicht. Hintergrund ist, dass Betriebsvermögen bei der Erbschaft- und Schenkungsteuer unter Bedingungen weitgehend verschont werden kann.",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XYkNoSVRsQnZubHlucmhuRzJWRDJqdWJ5NXl5aE9VM1VINDZEM19faEdMNlFxWHBtNlFLRHJ4Z3Y4Nk1IN1BETjBnZUNYdXNiSExmcDQ1dGZySWRfa2l3?oc=5",
+      "source": "tagesschau",
+      "category": "Erbschaft & Schenkung"
+    },
+    {
+      "title": "Werl hebt die Grundsteuer um 30 Prozent an",
+      "text": "Die Stadt erhöht die Grundsteuer stärker als ihre Nachbarn, viele andere Kommunen wählen laut Soester Anzeiger andere Wege. Der Hebesatz ist der Faktor, den jede Gemeinde selbst festlegt; er bestimmt mit, wie viel Eigentümer zahlen. Beschlossen wird das vor Ort, Mieter sind über die Nebenkosten mit betroffen.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSUNja1V2WkxPSkZCa1J1bFJpeHZhRWlLaW5HTlQ1VUNnS0M4dEItVUc4S0hsaGdJd3gtMW5iZ0ZfeERuS3NwZ0pGY1h5dDhYdy1iclJqWXFpVUQ3eUs2NnZIYUJ6QkJqUi1RM0FyaXE0a3BYa0tWSlVlX1ZFc0d6Z3gzS2JuRFlxa0hqT0hvaHUwd25nenB3WjZvY2pBenJaTExTR09lRV9BWFh4cmZlRmNfc29sSVlXTjFEQ2l2OThVUHhoTHRkRzVXX2FPQQ?oc=5",
+      "source": "Soester Anzeiger",
+      "category": "Grundsteuer"
+    },
+    {
+      "title": "„Steueroase“ Bad Wörishofen verlangt mehr Gewerbesteuer",
+      "text": "Die Stadt hebt ihren Gewerbesteuersatz künftig deutlich an. Damit verliert sie laut Augsburger Allgemeine den Ruf als Steueroase. Für Firmen kann das die Standortwahl verändern.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0JhYzR5UThHNmRCOThmazNpT3l1UVQ3WWxJVmtYNUxiUlNqV3VrWnVaOVlxQUdqNWhwcmdlQ2xIYVJ6WTFNQ2F1ZlE3dWJNRUVodkZsYS14akhDMWZSMm4zUWpmaEx4eVVBeVlJSUV6TXViRFk5XzJ1a2Vka2ZDVFU5U0ZxSERXMXFtMEhhWW5mdDRJRE90aVRYU1ZJNVdCbWwweXVaV1JyXzVYTVhUcFJvWndVOWFFUkV5dWV0NXZuaWR5Y3BkUnNmdmpUSWhnNjUxclhYVlBkcjA?oc=5",
+      "source": "Augsburger Allgemeine",
+      "category": "Gewerbesteuer & Standorte"
+    }
   ],
   "entries": [
-    {"title": "Schönsee erhöht die Grundsteuer", "summary": "Der Stadtrat hat die Grundsteuer erhöht und zugleich die Kita-Gebühren geändert.", "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWx1c3FpSm1hOF9GTUxmNHpfUEdqbVg3amxZbS1oTGhXb1ZxZzFHekhtb0kzRzBFOG1GbkVwVnA0OXVaaGhibENlS1V3REkzNnRRYUJRUXZQN0ZjeFhtR3Q2c1F2MnpIRzkyV0UxWnlNeFJnemhnQmlCYnF6ZUlMZDFEeXVmVjJQWllJX1E0UklPcDZOVm5QV2dkNGlwSTJDZkJHaTVBNEo1ZDg0cHpVOFRVb2k0LTk4?oc=5", "source": "Onetz", "category": "Grundsteuer"},
-    {"title": "Driedorf erhöht den Grundsteuer-Hebesatz für 2027", "summary": "Die Gemeinde hebt den Satz an. Der Bericht erklärt, was das für Eigentümer bedeutet.", "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM2hYbEd0LVJGYzZXc0UxZk5kWERYWUlGcHEyeVZGRXZ1a3djT29xOTN1ZGdjYTQza3NOTlFRRy1fOVp5ejNuekY1NUJ0YVlxa2Z5OU5FSTJ5eW5FUWEwNVVPZUxaZUVjaEVONzh5VmJzSDU5REJ5andxT0RLZzk0QXVmMWI2LTk2UjZ4dGEwRWhsX29NeTlRRFh5a1ZwTkZlWElDdVdzeDFFMlRlVlFzdFdXSlFhLWpfQWxCTjFaMDFGYTFmbnJFclB3?oc=5", "source": "Mittelhessen", "category": "Grundsteuer"},
-    {"title": "Besigheim prüft die Grundsteuer C", "summary": "Die Grundsteuer C ist ein erhöhter Satz auf unbebaute, baureife Grundstücke. Damit sollen Baulücken schneller verschwinden. In Besigheim ist das bisher eine Frage, keine Entscheidung.", "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVkwzcUpVTjM3NUlJUnhpOHZVTmZqZTNoY2xXY1FmWEVBdHN4bFd1V3UzNWZPd3ZkdDIyOFh1bFVJWDI0UTdDd0dTWG9ZQTdKNl9admNRNHhYYW1KTnM5OFpqZ2U4cS1KZFdud3ZyckQyQVJfWjhLc0tWME56bXZycUtZRVNNUnlrb2JVX29IZ3drSGppT0dIZVNOVEo4a19tSnRVMC13aUlTOEhLVlNCYjRjUGsxMU5Vb0ZUZmF2R05ZYjNwbjZRVGVoaUtWcWlnd3BEc3FRTFlSeXlDZmtNU1hFNjVvSXhV?oc=5", "source": "Ludwigsburger Kreiszeitung", "category": "Grundsteuer"},
-    {"title": "Aufkommensneutralität bei der Grundsteuer: Wie ernst nimmt sie die Stadt?", "summary": "Aufkommensneutral heißt: Die Stadt soll insgesamt nicht mehr einnehmen als vor der Reform. Der Südkurier fragt, ob die Stadt diese Empfehlung einhält.", "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRHgtb1d4VDg4LXd5NldTM1lIRGk3NXYwaGdwWUEzNFQ4VTRqVWdlSXYxb0xud0w3WTBMUnhVczNPSC11aElJdkpyZG9reDVPZVUwTFBjWXFYVjc3NlhGd0stWEtxdGl3anRYZUZGN2Q0R2hUVmJ4V3pZbW1kOTV6cElaV2VoYjd4Z1BGTUFaUnExYjhWV1AwcTBLeVJJUkZ3OG1BUWc3T1gwMWxEVmgwY1lGeS1rQQ?oc=5", "source": "Südkurier", "category": "Grundsteuer"},
-    {"title": "Dillingen will mehr Gewerbesteuer einnehmen", "summary": "Die Stadt plant laut Augsburger Allgemeine, ihre Einnahmen aus der Gewerbesteuer zu erhöhen. Beschlossen ist das nach der Überschrift noch nicht.", "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWVhWbEQyaHh2V09xOWtRa0k0YktjYkZOOWFjWm9abmZKTk5qTkd6V0s3UlZmcUhrODBxTm9NeWNIV0RhU2dTYy1OV1dwMWlISkM4dXpvQXdxYlJrWXdNc3UtQ3FzLXRXUWp4RG42Sng4REo5OW5vNkh1NkJ2bzJKVFE3SW1CVy05TzhnV3VyVXFFeHVGUk1XRXBGX0xiWmVIdUlPNFZfT0w1bjdZNlEzNlo0MVJTTDBKV2JTTUgyY254ZTlRd3ZoTXN0b0tRZk0?oc=5", "source": "Augsburger Allgemeine", "category": "Gewerbesteuer & Standorte"},
-    {"title": "Erbschaftsteuer-Befreiung nur bei Gemeinnützigkeit nach deutschem Recht", "summary": "Laut STB Web setzt die Steuerbefreiung voraus, dass die Gemeinnützigkeit nach deutschem Recht gegeben ist. Es geht um einen Fall oder ein Urteil, Näheres nennt der Teaser nicht.", "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wTFBvVDhwM3VvdERCQWkzdWo3QzVXYlZSLUZPampDdWJwTnFQMTRjSFNQSWpPekhiXzZCYnQ5WkszSzhLTWNhb0h2YkI4TUJTbGozMnB5T2JsYlBk?oc=5", "source": "STB Web", "category": "Gesetzgebung & Urteile"},
-    {"title": "Geschossflächenzahl bei der Grundbesitzwertfeststellung", "summary": "Haufe behandelt, welche Rolle die Geschossflächenzahl bei der Bewertung von Grundbesitz spielt, etwa für Erbschaft und Schenkung.", "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWE0xSDNfZ1BwdnR0TFd6MjVKTnZRZ3ZEcGtlNWJ6NnF2VHVVRThGQ1otRzJ4cGkzUjhIVGMxQy1nMEtjcnQ2ZFU3b2JyMXlWZEVaVnFpTGF1WG5iSC01bmtscE5EVDgzb09XYWo4T3hqYXJua2V2N0FKb0xDU21qWlV1djdTSDdWc3MyWVFqTzlyTEpCYTFyOFFBOXJha29TMU04VWJPYzBjLU40MHN0RlloSGZFV2c?oc=5", "source": "Haufe", "category": "Erbschaft & Schenkung"}
-  ]
+    {
+      "title": "Koalitionspolitiker fordern nach Datenleck bei der Deutschen Bank Reform der Erbschaftsteuer",
+      "summary": "Politiker aus der Koalition verlangen eine Reform. Es ist eine Forderung, beschlossen ist nichts.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0w3V1pLWXhjbUI1RkUyNGR6Y3BRX0YxU0F1VkNWdlF3ZVRyV2xhWC1PV29NMHF2NWl2RHZLX19iRTF4Tl9MMW9KNkpoNlJXcWw5Nzc2bHFHamt5ZTliblJEQVUwbDF0cGJZOUNCNExzck91elBYNTBULWxiZUpIcTl3SW5kTm00MTJyS3pYa29WclFxT2Nxd2tFVHhXdEtvYW4zWnhDNG11SUtNdTFqNHFnUUNsLVVaR2c?oc=5",
+      "source": "DIE ZEIT",
+      "category": "Erbschaft & Schenkung"
+    },
+    {
+      "title": "Hamburgs Finanzsenator wirbt für Reform der Erbschaftsteuer",
+      "summary": "Auf dem Hamburger Armutsgipfel ging es laut Abendblatt um das Thema. Der Beitrag nennt Dressels Auftritt einen „Werbeblock zur Erbschaftsteuer“.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYmNBeVc0a3NwZ1k5QTZqUmFTSEwtSGNXRm9nWXVHZUYxUGxCOU9WZW9jcWdQQU1iRl9DdHRMRi1CUGkyYWRFamFWSGFsVTdJa181UTM0bGJoQjNUSUtHamROeEttb3MtZV9ma1d2NTlsQkFwNmZ3dng4cEQ1d1RRTGwyRlhma0IyX0xPaFppb0tXMUJsWmNWSFlMMFNiSE1makpCeEpsY0lldTFEV0FwWHhZeldBUF9fekxSMVVFMjhFN0dwZTZPN3hVRjBxSm5RY0w4V25fWFd2QQ?oc=5",
+      "source": "Hamburger Abendblatt",
+      "category": "Erbschaft & Schenkung"
+    },
+    {
+      "title": "Schwelm erhöht Steuern wegen leerer Kassen",
+      "summary": "Die Stadt reagiert mit massiven Steuererhöhungen auf ihre Haushaltslage.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSGlGMHZ1VzI3eUxXSG5zU1pJUGp2eExMOGJOTlg1WVplaC0zTDhmRW9WSVBDWGZ2ejRvZ3E4dnQ4N3lHbGR3ZlRFTlhWOVlDWklQbWJ6RlNhLVVJSkthQ2dHVzdUbzN3dTVLeWF5cGlJVzFLUG1mTUdrVXlCV3dzRXo1b3BhTkhfQm9WQ1hsOGxyZ0Nya3E1cFZhMXlTRlp3RWc5NUNCamV5a1NVNDU1al9zRGZEcnZxRy1sWGlHNDRxdnFHa2hxR2I2RUE4WThYM09Vamo1aUhkUUFTRDZ1N2RGdjZCSGhlbUE?oc=5",
+      "source": "WP | Westfalenpost",
+      "category": "Grundsteuer"
+    },
+    {
+      "title": "Villmar erhöht die Grundsteuer und streicht Stellen",
+      "summary": "Die Gemeinde rettet so ihren Haushalt.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUNLOHZZU2h4TEdXQXQyUjU4alB5OTVZeThkZzVWQ1NsX0tYN3BNQ05CU1R3cmNQRTZNZ1llb3h0OExjVUxKWDVWM1h5eXM0TmxqbmJkay1xNGs4NnBJNUJVMWtzNWJyaWJXbHpSNW1acnFlM21odGx3M2N6NU5DcFYzNHlMVDZvUlAxdFhoMmxYbmVYR1hndXc2aTRSakdyS2dUempxcURwWWpablU4c2RZbUVEYy1rbGJ6Z0s4Z1NKakFSbUVZ?oc=5",
+      "source": "Mittelhessen",
+      "category": "Grundsteuer"
+    },
+    {
+      "title": "Heilbronn: Grundstücksbesitzer zahlen noch mehr Grundsteuer",
+      "summary": "In der Region steigen die Belastungen weiter.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSVpDY0x2blA0MHNOS0xYNTJfSW1STnFjSHh0azhacmozMG5RUjUxWHZ1aktRa2hiMTByLUllRkRvSFcxTXkwdGFFcmVQQ1owek1Lb3NMTnZqTlIxTDZrUXpJWFJBZXFtekpVR1FlS1pJUVYzU2ktMVNySFVJenVid0tDTUpJeE83eXRaWkRjTDhKYWkzc3EtY2RxdWk5Q0JxSm1lUkFBaWJYZ3VicVltRWowUmNHNWxUVTVlckRURk53QklaZHQ2NGdsYWI0NnlwRUxBalp0SnhfVDgtWVU2bk40Mmg?oc=5",
+      "source": "Stimme",
+      "category": "Grundsteuer"
+    },
+    {
+      "title": "Königs Wusterhausen legt neue Grundsteuer fest",
+      "summary": "Die Stadt hat festgelegt, was Hausbesitzer künftig zahlen sollen.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONnB1RE5RbURPVXB2cWlZZ25HdVhBOHF5eXhVR09IUlhuV1FOTmRrNTlOem1CZUthd2VCTnB3VTZzUjV5UnpsNm1PSm1BTjVVUHRNN2M5N2pYdnJtYnhQV0lfY3hPYmh1emE1M2g5UUxYZVRnc0ZmTGhSaDhNNWN1eFdxRGxLN2JLX2IzU2dIVEs3OGl2ODNwYnpvYUNCelppM2VabGpySTItZ0tUQlBHWkt1aklISzNUdy1QMWVFT1VabVRGeVQ4eEdFZTJGOHM?oc=5",
+      "source": "MOZ.de",
+      "category": "Grundsteuer"
+    },
+    {
+      "title": "Dillingen will mehr Gewerbesteuer eintreiben",
+      "summary": "Die Stadt will ihre Einnahmen aus der Gewerbesteuer erhöhen.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9VYW5UdUpyazYwUWsxV2ozcTNEZGdZbjZZRXBDc2Z5a1JTYXIzeE1saE4xNVFGU0M3dnZVLW5qZC1Sa1R1UlpxcVJ4NjlLYWUxNUlxUk5tSHJvbHVKNC0zZkhiRmUxWk9ZTmNTWWgwclB2dUpabS1oM29KQlY0dDRxLUxxbWpmTHVqSzVYRnlFQUVITUJJMGluVjRmM3BXQUs2VElncE1mZ0F2TUpVbXdadEs0U0NGYksxWWIySndVeXY2a3lIM3Q0MV9qb2NzYkE?oc=5",
+      "source": "Augsburger Allgemeine",
+      "category": "Gewerbesteuer & Standorte"
+    }
+  ],
+  "date": "2026-11-21"
 }
