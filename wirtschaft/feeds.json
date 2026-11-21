@@ -1,11 +1,17 @@
 {
- "fetched": "2026-11-21T08:26:46.860Z",
+ "fetched": "2026-11-21T09:57:58.180Z",
  "hours": 48,
  "sources": [
   {
    "name": "tagesschau Wirtschaft",
    "ok": true,
    "items": [
+    {
+     "title": "GTA VI spielt laut Konzern fast vier Milliarden Dollar am ersten Tag ein",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
+     "date": "2026-11-21T09:39:17.000Z",
+     "text": "Lange mussten GTA-Fans auf den sechsten Teil der Videospiel-Reihe warten - jetzt trägt der Hype Früchte. Nach Angaben von Rockstar Games erzielte das Spiel am ersten Verkaufstag einen Rekordumsatz von rund 3,8 Milliarden Dollar."
+    },
     {
      "title": "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern",
      "url": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html",
@@ -157,6 +163,12 @@
    "ok": true,
    "items": [
     {
+     "title": "Altersvorsorgedepot: Staatliches Depot für Zusatzrente verzögert sich wohl",
+     "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6#ref=rss",
+     "date": "2026-11-21T08:43:00.000Z",
+     "text": "Ab 1. Januar gibt es Geld vom Staat für ein Altersvorsorgedepot. Ein öffentlich organisiertes Fondsangebot soll das Herzstück der Reform werden. Aber Sparer müssen laut einem Medienbericht noch Geduld haben."
+    },
+    {
      "title": "Autobahnen: Vertrauliches Gutachten empfiehlt Pkw-Maut zur Finanzierung",
      "url": "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
      "date": "2026-11-21T06:16:00.000Z",
@@ -269,12 +281,6 @@
      "url": "https://www.spiegel.de/wirtschaft/unternehmen/sprite-coca-cola-ruft-falsch-befuellte-limonadendosen-zurueck-a-efc5fc1e-f63f-4eec-9964-cd0dfcfbc008#ref=rss",
      "date": "2026-11-20T02:33:00.000Z",
      "text": "Augen auf beim Limokauf: Dem Coca-Cola-Konzern ist beim Befüllen von Dosen mit Sprite-Limonade ein Fehler unterlaufen. Die zurückgerufenen Getränkebehälter lassen sich aber eher leicht erkennen."
-    },
-    {
-     "title": "Steffen Bilger verspricht mehr Kontrollen bei der Bahn – verschweigt aber die Ziele",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/verkehrsminister-steffen-bilger-verschweigt-zielwerte-fuer-die-netzsanierung-a-bddca2c9-4c2c-4f3d-acc7-d55e10060516#ref=rss",
-     "date": "2026-11-19T20:56:00.000Z",
-     "text": "Mehr Geld gegen mehr Kontrolle – so präsentierte der Verkehrsminister eine 83 Milliarden Euro schwere Vereinbarung mit der Bahn-Tochter InfraGO. Doch welche Zielwerte dabei gelten, soll nach SPIEGEL-Informationen geheim bleiben"
     }
    ]
   },
@@ -282,6 +288,30 @@
    "name": "FAZ Wirtschaft",
    "ok": true,
    "items": [
+    {
+     "title": "Schneller Schlau: Bier auf dem Rückzug",
+     "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/das-bier-ist-auf-dem-rueckzug-201698741.html",
+     "date": "2026-11-21T16:59:00.000Z",
+     "text": "1980 trank jeder Deutsche im Schnitt eine Badewanne voller Bier, mittlerweile ist es beinahe nur noch halb so viel. In der Rangliste der größten Braukonzerne spielen deutsche kaum noch eine Rolle."
+    },
+    {
+     "title": "Bilanzierungspraktiken: US-Börsenaufsicht ermittelt gegen Nvidia – Aktie fällt um 14 Prozent",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html",
+     "date": "2026-11-21T09:16:40.000Z",
+     "text": "Im Fokus stehen nach einem Reuters-Bericht Bilanzierungspraktiken des Chip-Riesen. Donald Trump will derweil immer noch den zurückgetretenen CEO Jensen Huang zurück."
+    },
+    {
+     "title": "KI-Finanzierung: Welchen Einfluss hat Werbung auf KI-Antworten?",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/chatgpt-und-gemini-welchen-einfluss-werbung-auf-ki-antworten-nimmt-accg-201629258.html",
+     "date": "2026-11-21T09:09:38.000Z",
+     "text": "Viele wollen KI nutzen, wenige zahlen. Google und Open AI testen Werbeanzeigen in ihren KI-Modellen. Können Nutzer den Auskünften jetzt noch vertrauen?"
+    },
+    {
+     "title": "Business-Ticker: Hackerangriff auf Hugendubel",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-hackerangriff-auf-hugendubel-faz-200452404.html",
+     "date": "2026-11-20T18:00:00.000Z",
+     "text": "Pharmakonzern CSL Behring baut Produktion in Marburg aus +++ Christine Lagarde will EZB-Schutzschirm gegen Finanzstress von außerhalb der Eurozone ausweiten +++ alle Neuigkeiten im Unternehmen-Liveblog"
+    },
     {
      "title": "Sorge um Wohlstand: Die allermeisten Deutschen sind reicher geworden",
      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/einkommen-gestiegen-ungleichheit-auch-was-zeigen-diw-daten-201698063.html",
@@ -301,28 +331,10 @@
      "text": "Der Chemiekonzern BASF gibt seine Übernahmepläne für Evonik auf. Der Dax-Konzern hatte den politischen Gegenwind unterschätzt. Jetzt stellen sich neue Fragen."
     },
     {
-     "title": "Business-Ticker: Hackerangriff auf Hugendubel",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-hackerangriff-auf-hugendubel-faz-200452404.html",
-     "date": "2026-11-20T18:00:00.000Z",
-     "text": "Pharmakonzern CSL Behring baut Produktion in Marburg aus +++ Christine Lagarde will EZB-Schutzschirm gegen Finanzstress von außerhalb der Eurozone ausweiten +++ alle Neuigkeiten im Unternehmen-Liveblog"
-    },
-    {
      "title": "Notfallversorgung: Linnemanns erster Erfolg",
      "url": "https://www.faz.net/aktuell/wirtschaft/carsten-linnemann-und-die-notfallreform-sein-erster-grosser-erfolg-201702519.html",
      "date": "2026-11-20T19:06:51.000Z",
      "text": "Die Notfallreform ist wieder einmal ein Kompromiss und Kuhhandel. Aber einer, mit dem man leben kann – und der den Patienten helfen kann."
-    },
-    {
-     "title": "Einigung in letzter Minute: Das ändert sich in der Notfallmedizin",
-     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/notfallreform-bundesrat-billigt-linnemanns-gesetz-201702105.html",
-     "date": "2026-11-20T19:06:34.000Z",
-     "text": "Das System soll schärfer auf die wirklich Bedürftigen zugeschnitten werden. Das Gesundheitsministerium hat den Ländern die Zustimmung zu dem Gesetz mit Zugeständnissen abgekauft. Wieder einmal."
-    },
-    {
-     "title": "EU-streit mit London: Warum die britischen Studiengebühren so heikel sind",
-     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-streit-mit-london-britische-studiengebuehren-bleiben-heikel-201703264.html",
-     "date": "2026-11-20T18:11:15.000Z",
-     "text": "Die europäisch-britischen Vereinbarungen treten nicht in Kraft, bevor die Senkung der hohen Studiengebühren für EU-Ausländer nicht geklärt ist. Doch viele Universitäten sind defizitär. Einige könnten pleitegehen."
     },
     {
      "title": "Digitalgesetze der EU: Weniger Regeln, mehr digitale Souveränität",
@@ -361,16 +373,16 @@
      "text": "Viele in der Commerzbank mögen die lange bekämpfte Übernahme durch Unicredit als Niederlage ansehen. Aber der Staat hat auch seinen Anteil daran, dass Unicredit die stärkere Bank ist."
     },
     {
-     "title": "dm-Chef Werner: Streit um Augenkontrollen in dm-Filialen geht weiter",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/augenscreening-im-dm-christoph-werner-erwartet-langen-rechtsstreit-201697299.html",
-     "date": "2026-11-20T17:33:20.000Z",
-     "text": "dm ist Drogeriemarktführer in Deutschland, entwickelt sich aber zunehmend zum Anbieter von Gesundheitsdiensten. Das gefällt nicht allen; und deshalb laufen derzeit Prozesse. Dem Geschäft scheint das nicht zu schaden."
+     "title": "Einigung in letzter Minute: Das ändert sich in der Notfallmedizin",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/notfallreform-bundesrat-billigt-linnemanns-gesetz-201702105.html",
+     "date": "2026-11-20T19:06:34.000Z",
+     "text": "Das System soll schärfer auf die wirklich Bedürftigen zugeschnitten werden. Das Gesundheitsministerium hat den Ländern die Zustimmung zu dem Gesetz mit Zugeständnissen abgekauft. Wieder einmal."
     },
     {
-     "title": "Nickel-Milliardär: Spektakulärer Scheidungsprozess um russischen Oligarchen",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/scheidungsprozess-gegen-wladimir-potanin-ex-frau-fordert-2-6-milliarden-euro-201702072.html",
-     "date": "2026-11-20T17:17:10.000Z",
-     "text": "Die Ex-Frau von Wladimir Potanin fordert 2,2 Milliarden Pfund, er will ihr nur 25 Millionen Pfund geben - und sagt, dass es wegen der Sanktionen schwierig werden könnte."
+     "title": "EU-streit mit London: Warum die britischen Studiengebühren so heikel sind",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-streit-mit-london-britische-studiengebuehren-bleiben-heikel-201703264.html",
+     "date": "2026-11-20T18:11:15.000Z",
+     "text": "Die europäisch-britischen Vereinbarungen treten nicht in Kraft, bevor die Senkung der hohen Studiengebühren für EU-Ausländer nicht geklärt ist. Doch viele Universitäten sind defizitär. Einige könnten pleitegehen."
     },
     {
      "title": "Neue Gen-Z-Proteste: „Die Schulen sind nicht kaputtgespart, im Gegenteil“",
@@ -397,22 +409,22 @@
      "text": "Nach einem Schummelskandal in einer Prüfung für Steuerberater gelten in den zentralen Hochschultests in Südkorea so strenge Sicherheitsvorkehrungen wie nie. Selbst Flüge werden ausgesetzt."
     },
     {
+     "title": "dm-Chef Werner: Streit um Augenkontrollen in dm-Filialen geht weiter",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/augenscreening-im-dm-christoph-werner-erwartet-langen-rechtsstreit-201697299.html",
+     "date": "2026-11-20T17:33:20.000Z",
+     "text": "dm ist Drogeriemarktführer in Deutschland, entwickelt sich aber zunehmend zum Anbieter von Gesundheitsdiensten. Das gefällt nicht allen; und deshalb laufen derzeit Prozesse. Dem Geschäft scheint das nicht zu schaden."
+    },
+    {
+     "title": "Nickel-Milliardär: Spektakulärer Scheidungsprozess um russischen Oligarchen",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/scheidungsprozess-gegen-wladimir-potanin-ex-frau-fordert-2-6-milliarden-euro-201702072.html",
+     "date": "2026-11-20T17:17:10.000Z",
+     "text": "Die Ex-Frau von Wladimir Potanin fordert 2,2 Milliarden Pfund, er will ihr nur 25 Millionen Pfund geben - und sagt, dass es wegen der Sanktionen schwierig werden könnte."
+    },
+    {
      "title": "Neuer Kampfjet: Luftfahrtindustrie dringt auf FCAS-Ersatz",
      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-fcas-scheitern-luftfahrtindustrie-draengt-auf-schnelle-entscheidung-201701733.html",
      "date": "2026-11-20T16:01:10.000Z",
      "text": "Die Pläne für das Luftabwehrsystem FCAS sind gescheitert, nun muss eine Alternative her. Bayerns Ministerpräsident Söder favorisiert offenbar eine Weichenstellung, die der deutschen Industrie gefällt."
-    },
-    {
-     "title": "Private-Equity-Riese KKR: Ein Finanzinvestor mit besonderem Faible für Musik",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kkr-finanzinvestor-mit-besonderem-musik-faible-201701347.html",
-     "date": "2026-11-20T15:57:55.000Z",
-     "text": "KKR hat schon vor fast 20 Jahren groß in Musikrechte investiert. Nach zwei Ausstiegen mischt der Investor jetzt wieder mit. Und da ist ja auch noch Wacken oder die legendäre Gitarrenmarke Gibson."
-    },
-    {
-     "title": "bLACK week: Wie viel Rabatt ist drin in der Schnäppchenwoche?",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/black-friday-2026-diese-tipps-sollte-jeder-kennen-accg-201699822.html",
-     "date": "2026-11-20T12:38:32.000Z",
-     "text": "Ob Apple, Ikea oder Zara: Zahlreiche Hersteller und Händler locken am Black Friday, in der Black Week und dem Cyber Monday mit Rabatten. Die wichtigsten Fragen und Antworten zur großen Schnäppchenjagd."
     },
     {
      "title": "Grün in der Stadt: „Das Gesundheitsamt sollte Straßenbäume pflanzen“",
@@ -455,12 +467,6 @@
      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/ig-metall-groesster-warnstreik-seit-acht-jahren-trifft-auch-autobauer-201698884.html",
      "date": "2026-11-20T01:50:00.000Z",
      "text": "So einen großen Streik gab es lange nicht, doch nun haben sich die Konflikte in der Metall- und Elektroindustrie verschärft. Das merkt auch die Autobranche."
-    },
-    {
-     "title": "Schneller Schlau: Bier auf dem Rückzug",
-     "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/das-bier-ist-auf-dem-rueckzug-201698741.html",
-     "date": "2026-11-20T16:59:32.000Z",
-     "text": "1980 trank jeder Deutsche im Schnitt eine Badewanne voller Bier, mittlerweile ist es beinahe nur noch halb so viel. In der Rangliste der größten Braukonzerne spielen deutsche kaum noch eine Rolle."
     }
    ]
   },
@@ -468,6 +474,42 @@
    "name": "Handelsblatt",
    "ok": true,
    "items": [
+    {
+     "title": "Abschiebungen: Bundestagsjuristen sehen rechtliche Hürden für Abschiebezentren",
+     "url": "https://www.handelsblatt.com/politik/deutschland/abschiebungen-bundestagsjuristen-sehen-rechtliche-huerden-fuer-abschiebezentren/100271379.html",
+     "date": "2026-11-21T09:29:35.000Z",
+     "text": "Die Bundesregierung könnte für Abschiebungen nach Ruanda die Zustimmung des Parlaments benötigen. In der Koalition formiert sich bereits Widerstand gegen ein geplantes Rückkehrzentrum."
+    },
+    {
+     "title": "Versicherungen: Pflegekassen warnen vor erneuten Finanzrisiken Anfang 2027",
+     "url": "https://www.handelsblatt.com/politik/deutschland/versicherungen-pflegekassen-warnen-vor-erneuten-finanzrisiken-anfang-2027/100271731.html",
+     "date": "2026-11-21T09:29:19.000Z",
+     "text": "Die Pflegeversicherung steckt wegen immer höherer Ausgaben in Nöten. Die Koalition will sie fürs neue Jahr absichern – die Gesetzespläne liegen jetzt wohl im Parlament."
+    },
+    {
+     "title": "KI-Rüstung: UN-Gespräche über autonome Waffen enden ohne verbindliche Zusage",
+     "url": "https://www.handelsblatt.com/politik/international/ki-ruestung-un-gespraeche-ueber-autonome-waffen-enden-ohne-verbindliche-zusage/100271727.html",
+     "date": "2026-11-21T09:11:30.000Z",
+     "text": "Vollautonome Waffen sollen im Krieg zum Einsatz kommen. Dem internationalen Aufruf nach einer Einigung auf Schranken sind viele Länder gefolgt, aber ein Ergebnis bleibt vorerst aus."
+    },
+    {
+     "title": "Jugendproteste: Sieben Grafiken erklären den Frust der Jungen in Europa",
+     "url": "https://www.handelsblatt.com/politik/international/jugendproteste-diese-zahlen-erklaeren-den-frust-der-jungen-in-europa/100268384.html",
+     "date": "2026-11-21T09:03:56.000Z",
+     "text": "„Bilden statt Ballern“: Die junge Generation protestiert für eine bessere Zukunft. Das Handelsblatt zeigt, woher ihre Wut kommt."
+    },
+    {
+     "title": "Umweltgesetz: Ausfuhrstopp für Plastikmüll aus der EU in viele Länder",
+     "url": "https://www.handelsblatt.com/politik/international/umweltgesetz-ausfuhrstopp-fuer-plastikmuell-aus-der-eu-in-viele-laender/100271725.html",
+     "date": "2026-11-21T08:53:08.000Z",
+     "text": "Die EU verbietet Plastikmüllexporte in Länder außerhalb der OECD. Umweltorganisationen warnen, dass dadurch mehr Abfall in die Türkei gelangen könnte."
+    },
+    {
+     "title": "Aktienrente: Staatliches Depot für Zusatzrente noch nicht startklar",
+     "url": "https://www.handelsblatt.com/politik/deutschland/aktienrente-staatliches-depot-fuer-zusatzrente-noch-nicht-startklar/100271724.html",
+     "date": "2026-11-21T08:43:24.000Z",
+     "text": "Das geförderte Altersvorsorgedepot startet im Januar – die staatliche Variante kommt aber wohl frühestens im Sommer. Sparern stehen zunächst Angebote von privaten Anbietern zur Verfügung."
+    },
     {
      "title": "Trump-Watch: Demokraten nach den Midterms: „Der Kampf um die Deutungshoheit beginnt“ – mit US-Expertin Sarah Wagner",
      "url": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-demokraten-nach-den-midterms-der-kampf-um-die-deutungshoheit-beginnt-mit-us-expertin-sarah-wagner/100271698.html",
@@ -590,7 +632,7 @@
     },
     {
      "title": "Chip-Konzern: Aufsicht SEC überprüft laut Bericht Nvidia-Bilanzierung – Aktie fällt weiter",
-     "url": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung-aktie-faellt-weiter/100271678.html",
+     "url": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung/100271678.html",
      "date": "2026-11-20T21:30:36.000Z",
      "text": "Nvidia droht neues Ungemach: Aufseher untersuchen offenbar die Buchhaltung des Konzerns – und den Schmuggel von Chips nach China. Präsident Trump fordert derweil die Rückkehr von Ex-Chef Huang."
     },
@@ -611,42 +653,6 @@
      "url": "https://www.handelsblatt.com/technik/it-internet/nach-langem-warten-gta-6-spielte-am-ersten-tag-379-milliarden-us-dollar-ein/100271672.html",
      "date": "2026-11-20T20:08:11.000Z",
      "text": "Kein Videospiel wurde von Fans mit so großer Spannung erwartet. GTA 6 ist der erste neue Titel der populären Reihe seit 13 Jahren – und das schlägt sich auch im Geschäft nieder."
-    },
-    {
-     "title": "Aktien: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
-     "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/aktien-ist-der-ki-boom-nach-dem-anthropic-boersengang-vorbei/100270470.html",
-     "date": "2026-11-20T20:06:56.000Z",
-     "text": "„Alle Bären wachen auf“: Am zweiten Handelstag startet die Aktie des KI-Pioniers zehn Prozent im Minus. Die Wall Street steuert auf die längste Verluststrecke seit drei Jahren zu."
-    },
-    {
-     "title": "Geldpolitik: Fed-Gouverneurin Cook dringt auf weitere Zinserhöhungen",
-     "url": "https://www.handelsblatt.com/politik/international/geldpolitik-fed-gouverneurin-cook-dringt-auf-weitere-zinserhoehungen/100271670.html",
-     "date": "2026-11-20T19:54:32.000Z",
-     "text": "Das Zinsniveau reicht laut Cook nicht aus, um die Inflation einzudämmen. Sie fordert weitere Erhöhungen und warnt vor zusätzlichen Belastungen für US-Haushalte bei zu spätem Handeln."
-    },
-    {
-     "title": "US-Börsen: Flucht aus Risikoassets: Ausverkauf an der Nasdaq, S&P im Korrekturmodus",
-     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-us-boersenschluss-sp-500-und-dow-nach-ausverkauf-in-korrektur/100271593.html",
-     "date": "2026-11-20T19:50:17.000Z",
-     "text": "Die Euphorie weicht einem globalen Ausverkauf: Nur einen Tag nach dem Rekord-IPO von Anthropic rutschen die Börsen weltweit ab. Anleger trennen sich von Risikowerten und fliehen in sichere Anlagen."
-    },
-    {
-     "title": "Russischer Angriffskrieg: Schwere Angriffe auf Ukraine – Moskau lädt Europäer ein",
-     "url": "https://www.handelsblatt.com/politik/international/russischer-angriffskrieg-schwere-angriffe-auf-ukraine-moskau-laedt-europaeer-ein/100271558.html",
-     "date": "2026-11-20T19:46:51.000Z",
-     "text": "Russland reagiert mit heftigen Raketenschlägen gegen Brücken und Energieanlagen nach den Schäden an der Krim-Brücke. Mehrere Flugkörper landen in Polen. Und die Europäer werden nach Moskau eingeladen."
-    },
-    {
-     "title": "Demonstrationen: Regenschirme statt Randale – Überschaubare Jugendproteste",
-     "url": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-regenschirme-statt-randale-ueberschaubare-jugendproteste/100271445.html",
-     "date": "2026-11-20T19:17:23.000Z",
-     "text": "Wieder haben Zehntausende Menschen in Deutschland für eine bessere Zukunft protestiert. Doch der Zulauf fiel deutlich geringer aus als beim letzten Mal. Bleiben Krawalle am Abend diesmal aus?"
-    },
-    {
-     "title": "KI-Industrie: Trump warnt US-Konzerne vor Bau von KI-Rechenzentren im Ausland und droht mit „enormen Strafen“",
-     "url": "https://www.handelsblatt.com/politik/international/ki-industrie-trump-warnt-us-konzerne-vor-bau-von-ki-rechenzentren-im-ausland/100271667.html",
-     "date": "2026-11-20T19:15:12.000Z",
-     "text": "Rechenzentren waren im US-Wahlkampf ein umstrittenes Thema: Die Demokraten wollen sie stärker regulieren. Der US-Präsident hingegen setzt sich für den Bau ein – aber nur im Inland."
     }
    ]
   },
@@ -684,12 +690,6 @@
      "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/monatliche-zahlungsbilanz-des-euroraums-september-2026-959150",
      "date": "2026-11-19T15:00:00.000Z",
      "text": "Im September 2026 wies die Leistungsbilanz einen Überschuss von 12 Mrd. € auf und blieb damit gegenüber dem Vormonat weitgehend unverändert."
-    },
-    {
-     "title": "EZB belässt Kapitalanforderungen 2027 weitgehend unverändert – Schwerpunkt auf finanzieller und operationeller Resilienz",
-     "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/ezb-belaesst-kapitalanforderungen-2027-weitgehend-unveraendert-schwerpunkt-auf-finanzieller-und-operationeller-resilienz-1016474",
-     "date": "2026-11-19T09:00:00.000Z",
-     "text": "Die Europäische Zentralbank (EZB) hat heute die Ergebnisse des aufsichtlichen Überprüfungs- und Bewertungsprozesses (Supervisory Review and Evaluation Process – SREP) für 2026 und ihre Aufsichtsprioritäten für die Jahre 2027 bis 2029 veröffentlicht."
     }
    ]
   },
@@ -733,25 +733,11 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "Feiertagskalender für wichtige US-Konjunktur- und sonstige Daten - MarketScreener Deutschland",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSFpHcm1Va0NhZXhPdVRGeUx0SDZkQVJuVWNnel9handpTU1PVjFHcDEtZzlsTkM5SzYwZEd2LV85RHM1MVBxYk92Uk15NWptVURkLWRQNGtsdFo2a1ZEWmhYRXNoRDB1NXBVd3YycTJVUEFIOFR2QzJTU1FzbC1lN2dGd2lkVWRFd2ZwR1BtTFhRbi1JTnFFOHRkNTJpUnFuOGxjR3g5NmRycnhhOVNyLWkwbV81VFkwTGlORXlMYVFPcERHU1lpMk5n?oc=5",
-     "date": "2026-11-20T16:10:42.000Z",
-     "text": "Feiertagskalender für wichtige US-Konjunktur- und sonstige Daten MarketScreener Deutschland",
-     "via": "MarketScreener Deutschland"
-    },
-    {
-     "title": "Ukraine-Krieg: Friedrich Merz verspricht Deutschland „Dividende“ aus Ukraine-Investitionen - WELT",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXY2cXlaYXp1Mm5CaUllSUR0bUJ4SDJhcU4wMGVJWlVhVUpXUDR5eUJiNzJPTTl4Vm9DbldPR1ZEc0t2ZEkwcjY0RUE0QmpQdDVadjgwQ3lYdDdTeUZSN3lUaUwwUGMxVGVya1dOekRvbTVZQ2s2RFJDVUl2U1FQd3JsdFRWM0NxSGFOVmJZa3dlUlZXVktoU0NDeHM2anlMaXc1NjVPd0d0S0NmVmFKakhYeHZtWVRndjZkeDFISkJXcmp3MGs2WEJpNEtHSUJUYVJPejRGWFhDY0t1NmxuTjF5NWUzZksxX2dj?oc=5",
-     "date": "2026-11-20T11:50:23.000Z",
-     "text": "Ukraine-Krieg: Friedrich Merz verspricht Deutschland „Dividende“ aus Ukraine-Investitionen WELT",
-     "via": "WELT"
-    },
-    {
-     "title": "„Wir nehmen Cybersicherheit nicht ernst“ - Capital.de",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3FuWUp5LThLQl9ZYlBqZDFhV1M3cXVnQ2xtMndGdHE3dXY0dW9JbVlzMzNWTW00UjFWRWRDeGNOc0E1ck0tTWVLS2d3S2I0aXl5Mll2MWJEU2hVS0NmLU4wOVJEWDJJaWpLOGJVM21uc2VfMi1PNXdXUE1QMlQ2V2hWOXFtY241UFRNVXdDYmZ5cmF6T3J5cHdjM2lTR0Q2aVV0U2hTbkd3OEhla014bEt3WFVLbEI5MW9IZU1zSXNoX2Rrb0E?oc=5",
-     "date": "2026-11-20T08:46:00.000Z",
-     "text": "„Wir nehmen Cybersicherheit nicht ernst“ Capital.de",
-     "via": "Capital.de"
+     "title": "Katar: Friedrich Merz begrüßt Milliardeninvestitionen in Deutschland - Spiegel",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb1N1eFBQRW91NU1EY3BQQlZGdUFQM3d0dTZpYmFBMExUb0daRXhMYUY1Z1RxdTI4ZnBESEo3M1hIRFV0QWxQN0dqWVNJbUp4X01qX0liVVNkcXowZjRIem81M3o0MFFYWndDM0RHYTR6dWtMOWw4czVLcXhHUEdrT0FUUWJXYkUybzVDQkhsSG9KUGJxcDRRT2gtNDBwekhJRVhWc19ud1ZKM0dNV29TZzBpSTJYX1lyQmRXWTBoR05jVmhRNjhmbU14Rk40bVc0MmJfd0tCendnMVU?oc=5",
+     "date": "2026-11-20T15:52:00.000Z",
+     "text": "Katar: Friedrich Merz begrüßt Milliardeninvestitionen in Deutschland Spiegel",
+     "via": "Spiegel"
     },
     {
      "title": "Strommarkt: Deutschland exportiert deutlich mehr Strom ins Ausland - DIE ZEIT",
@@ -761,10 +747,38 @@
      "via": "DIE ZEIT"
     },
     {
+     "title": "Feiertagskalender für wichtige US-Konjunktur- und sonstige Daten - MarketScreener Deutschland",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSFpHcm1Va0NhZXhPdVRGeUx0SDZkQVJuVWNnel9handpTU1PVjFHcDEtZzlsTkM5SzYwZEd2LV85RHM1MVBxYk92Uk15NWptVURkLWRQNGtsdFo2a1ZEWmhYRXNoRDB1NXBVd3YycTJVUEFIOFR2QzJTU1FzbC1lN2dGd2lkVWRFd2ZwR1BtTFhRbi1JTnFFOHRkNTJpUnFuOGxjR3g5NmRycnhhOVNyLWkwbV81VFkwTGlORXlMYVFPcERHU1lpMk5n?oc=5",
+     "date": "2026-11-20T16:10:42.000Z",
+     "text": "Feiertagskalender für wichtige US-Konjunktur- und sonstige Daten MarketScreener Deutschland",
+     "via": "MarketScreener Deutschland"
+    },
+    {
      "title": "Hackerangriff auf Immobilienverwaltung der Bundesagentur - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYVJmV2M4YllFSnFfOTA2UDhpZzBRLTZYV2hlanBleTNESGJZUWlteUpndlJ5TERfbzlZbzRjM1d4MHdmVlBGQUZZOUJ3V0ZnMVBfVWxlS21KUTFzR1N4NWt3c0poZDhMLW1JS3pfUjRpcnBrbVJ2bGN2Tk41ZDZ3N2xtZDJ2TVlZMEdhc0pud0VlMmJ3bHJYYlRUVlVLYW5XYkJvM1I3ZUlxTXhHNlBDdmNpQjA0S2t4SkVFd3N6LUlhbno3QXRoUnMzV0I?oc=5",
      "date": "2026-11-20T22:38:00.000Z",
      "text": "Hackerangriff auf Immobilienverwaltung der Bundesagentur Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "„Wir nehmen Cybersicherheit nicht ernst“ - Capital.de",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3FuWUp5LThLQl9ZYlBqZDFhV1M3cXVnQ2xtMndGdHE3dXY0dW9JbVlzMzNWTW00UjFWRWRDeGNOc0E1ck0tTWVLS2d3S2I0aXl5Mll2MWJEU2hVS0NmLU4wOVJEWDJJaWpLOGJVM21uc2VfMi1PNXdXUE1QMlQ2V2hWOXFtY241UFRNVXdDYmZ5cmF6T3J5cHdjM2lTR0Q2aVV0U2hTbkd3OEhla014bEt3WFVLbEI5MW9IZU1zSXNoX2Rrb0E?oc=5",
+     "date": "2026-11-20T08:46:00.000Z",
+     "text": "„Wir nehmen Cybersicherheit nicht ernst“ Capital.de",
+     "via": "Capital.de"
+    },
+    {
+     "title": "Ukraine-Krieg: Friedrich Merz verspricht Deutschland „Dividende“ aus Ukraine-Investitionen - WELT",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXY2cXlaYXp1Mm5CaUllSUR0bUJ4SDJhcU4wMGVJWlVhVUpXUDR5eUJiNzJPTTl4Vm9DbldPR1ZEc0t2ZEkwcjY0RUE0QmpQdDVadjgwQ3lYdDdTeUZSN3lUaUwwUGMxVGVya1dOekRvbTVZQ2s2RFJDVUl2U1FQd3JsdFRWM0NxSGFOVmJZa3dlUlZXVktoU0NDeHM2anlMaXc1NjVPd0d0S0NmVmFKakhYeHZtWVRndjZkeDFISkJXcmp3MGs2WEJpNEtHSUJUYVJPejRGWFhDY0t1NmxuTjF5NWUzZksxX2dj?oc=5",
+     "date": "2026-11-20T11:50:23.000Z",
+     "text": "Ukraine-Krieg: Friedrich Merz verspricht Deutschland „Dividende“ aus Ukraine-Investitionen WELT",
+     "via": "WELT"
+    },
+    {
+     "title": "Vermögensverwalter - Kostenproblem in der Krösus-Branche - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU2hpUTlUbHplMGpRVm1VbHRvcDBHTzN0TnJkNFZyZVBaVHlrUFYyZUJKNVlOMDl6R2JyT1lkU21IeXk3WURNcEo0aUMzS3Fta21hUEpMRHBGbXdyRlQyRHJsQ0xib3pGRVpGeWlmYWhudWtZaVBIN1dEQ1VqSUF5RWgtV25RNTduWXJrMFVVb2d0aG9hTVk1eXp6dzBoOGNDY0V5aTRjM3QzYWVhNFFTQjdxazJqQnJIX0Z4dnhNRWpuaTNjb0V5SzVLalg?oc=5",
+     "date": "2026-11-20T19:00:00.000Z",
+     "text": "Vermögensverwalter - Kostenproblem in der Krösus-Branche Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
@@ -796,6 +810,13 @@
      "via": "Allgemeine Zeitung"
     },
     {
+     "title": "News, Wirtschaft: Ifo-Institut: Geschäftsklima im Maschinenbau verbessert - tixio - Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU01RdXNvbXZyenhSb3d6dTd4dDlfMTJaR0NuRFVpRWpjM2ItdXZla3N2N0k5Q25mQVJhZWFNc0NEbzU1cWVwV3RqQ2VjRU5saWVLX3kwVGpFTVZ0d2ViS1paemxjaVJSU0dna3AySFJMX2FmRU14ZkFEUzZQN0xrdWRDOFl6NmNMWkVpYzdNenF6NTQ?oc=5",
+     "date": "2026-11-20T07:24:57.000Z",
+     "text": "News, Wirtschaft: Ifo-Institut: Geschäftsklima im Maschinenbau verbessert tixio - Nachrichten",
+     "via": "tixio - Nachrichten"
+    },
+    {
      "title": "Black Friday: Deutschland zwischen Hype und Skepsis - WEB.DE",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnhTVXFOWXdwX09ZMkNPU08wb0NYWHdnOEZReWZkbktOZ1ViOWk4bGRWdHpmYmlZemZHc3A0eU1HT05JcDdTaDlydzVodmRVbDBjUlpNWF9fVkp5N3k2MGhZSS04ZWRMQkIzMXFrVzJCV2RZdkNGeGdfZWRNWjdvNW0zU0U4QV9GcFpjbjEwMkxQZw?oc=5",
      "date": "2026-11-20T11:30:45.000Z",
@@ -810,24 +831,17 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "News, Wirtschaft: Ifo-Institut: Geschäftsklima im Maschinenbau verbessert - tixio - Nachrichten",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU01RdXNvbXZyenhSb3d6dTd4dDlfMTJaR0NuRFVpRWpjM2ItdXZla3N2N0k5Q25mQVJhZWFNc0NEbzU1cWVwV3RqQ2VjRU5saWVLX3kwVGpFTVZ0d2ViS1paemxjaVJSU0dna3AySFJMX2FmRU14ZkFEUzZQN0xrdWRDOFl6NmNMWkVpYzdNenF6NTQ?oc=5",
-     "date": "2026-11-20T07:24:57.000Z",
-     "text": "News, Wirtschaft: Ifo-Institut: Geschäftsklima im Maschinenbau verbessert tixio - Nachrichten",
-     "via": "tixio - Nachrichten"
+     "title": "EU: Ab jetzt arbeiten Frauen symbolisch kostenlos - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSExXQUxPQWtULXdRbWJoVzc3a1lJeUJWTHE0TnVOUGxKSE4tYmFlSUp5N3I5amw3ZTVNVi1DdDFKTFFrNzRWM3ZIQks1OU9fTFRDNXVxTE9pV21CaE9tMjVJODFOSzVTTDN0N0h4OF9QUDdqVjBKSjR0UmloLWNKMERhVWxiTkFsZVJYYXA5MlB2MDNCMmRYYXZhNTh6LWxnTm5aT2tkY2R6WTR1Vm1XUkh0Q2tuaTRtYkJFbGoxWWRkdw?oc=5",
+     "date": "2026-11-19T14:01:00.000Z",
+     "text": "EU: Ab jetzt arbeiten Frauen symbolisch kostenlos Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
     },
     {
      "title": "Metall-Tarifkonflikt: Arbeitgeber dringen auf Gespräche - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWDZKUEk2ZWtQNGdRX09kLUJHdmpvU1E1RXJ4VjVuTWs3LVFDeU5fTWZfMldLRTFqblFfY2FtUVJsVGdnbWJZZWZUSWQ3OVk5WUNUMGJ5MnNpeGdHRms0WUEtQzdQMDRwRlJ5RG1OdV9KNzE2bkxrend0RDM0STBpUGRiZEttYlhNQVdvZGdBbjJwcUZ0LUZ2ZmwzUkd2TXRHUGxrQjNfU1RvOXhjZWlqcTJMbXpnTXcwMHdQMEJjUHA5QWQ2cWEwVk9zcw?oc=5",
      "date": "2026-11-20T10:25:00.000Z",
      "text": "Metall-Tarifkonflikt: Arbeitgeber dringen auf Gespräche Allgemeine Zeitung",
-     "via": "Allgemeine Zeitung"
-    },
-    {
-     "title": "EU: Ab jetzt arbeiten Frauen symbolisch kostenlos - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSExXQUxPQWtULXdRbWJoVzc3a1lJeUJWTHE0TnVOUGxKSE4tYmFlSUp5N3I5amw3ZTVNVi1DdDFKTFFrNzRWM3ZIQks1OU9fTFRDNXVxTE9pV21CaE9tMjVJODFOSzVTTDN0N0h4OF9QUDdqVjBKSjR0UmloLWNKMERhVWxiTkFsZVJYYXA5MlB2MDNCMmRYYXZhNTh6LWxnTm5aT2tkY2R6WTR1Vm1XUkh0Q2tuaTRtYkJFbGoxWWRkdw?oc=5",
-     "date": "2026-11-19T14:01:00.000Z",
-     "text": "EU: Ab jetzt arbeiten Frauen symbolisch kostenlos Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {

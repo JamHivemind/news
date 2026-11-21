@@ -949,6 +949,14 @@
  },
  "quakes": [
   {
+   "mag": 6.8,
+   "place": "103 km NE of Lospalos, Timor Leste",
+   "time": "2026-11-21T09:42:10.314Z",
+   "lon": 127.5428,
+   "lat": -7.7563,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij"
+  },
+  {
    "mag": 6.7,
    "place": "9 km NE of Carhuamayo, Peru",
    "time": "2026-11-21T00:09:19.667Z",
@@ -974,5 +982,5 @@
   }
  ],
  "gdacs": [],
- "updated": "2026-11-21T08:26:59.510Z"
+ "updated": "2026-11-21T09:58:09.428Z"
 }
