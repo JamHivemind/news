@@ -1,24 +1,121 @@
 {
-  "date": "2026-11-20",
-  "intro": "Die IG Metall legt heute mit 24-Stunden-Warnstreiks große Teile der Metallindustrie lahm. Parallel streiten VW und Beschäftigte über Nullrunden, und die Koalition einigt sich auf eine Senkung der Stromsteuer.",
+  "intro": "Die Metall-Tarifrunde eskaliert mit Warnstreiks, und an den Börsen rollt eine Verkaufswelle. Dazu kommen steigende Energiepreise für Haushalte.",
   "top": [
-    {"title": "IG Metall startet 24-Stunden-Warnstreiks", "text": "Seit Mitternacht stehen Betriebe der Metall- und Elektroindustrie in ganz Deutschland einen Tag lang still. Ein Warnstreik ist ein kurzer Streik während laufender Tarifverhandlungen, mit dem die Gewerkschaft Druck macht. Für Beschäftigte und Kunden können dadurch Lieferungen und Produktion ausfallen. Betroffen sind laut Berichten unter anderem Autowerke, Zulieferer und Werften.", "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html", "source": "tagesschau", "category": "Arbeit & Soziales"},
-    {"title": "VW verlangt zwei Jahre Nullrunden", "text": "Volkswagen will in der anstehenden Tarifrunde die Löhne für zwei Jahre einfrieren (Nullrunden). Dazu kommen Einschnitte bei der 35-Stunden-Woche und weniger Zulagen. Der Konzern begründet das mit der Krise und will wettbewerbsfähiger werden. Die IG Metall wirft ihm vor, den Beschäftigten „das Messer in den Rücken“ zu setzen.", "url": "https://www.spiegel.de/wirtschaft/unternehmen/vw-legt-tarifforderungen-vor-konzern-setzt-auf-mehr-arbeit-fuer-weniger-geld-a-a1adc456-4b16-441b-b7a8-81d08ad1d3f0#ref=rss", "source": "Spiegel Wirtschaft", "category": "Unternehmen"},
-    {"title": "Koalition senkt die Stromsteuer, vorerst befristet", "text": "Union und SPD haben sich im Koalitionsausschuss auf eine Senkung der Stromsteuer für alle geeinigt. Finanziert ist sie aber nur für 2027. Auch ein Spritpreisdeckel soll kommen, ebenfalls zeitlich begrenzt. Für Haushalte heißt das: Entlastung, aber noch keine dauerhafte Lösung.", "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html", "source": "tagesschau", "category": "Energie"}
+    {
+      "title": "IG Metall legt mit ganztägigen Warnstreiks nach",
+      "text": "Mehr als 100 Betriebe waren beteiligt, darunter BMW, Audi und Werften im Norden. Über hunderttausend Beschäftigte legten für 24 Stunden die Arbeit nieder. Ein neues Gesprächsangebot der Arbeitgeber stoppte die Streikwelle nicht, nächste Woche geht es weiter. Ein Warnstreik ist ein befristeter Streik, der Druck in laufenden Tarifverhandlungen machen soll.",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "Ausverkauf an den Börsen erreicht den DAX",
+      "text": "Eine Verkaufswelle rollt durch den Technologiesektor. Der DAX folgte der Wall Street und schloss mit dem höchsten Wochenminus seit Monaten. Anleger trennen sich laut Handelsblatt von Risikowerten und gehen in sichere Anlagen. Das trifft auch Sparer mit Aktienfonds, weil viele Fonds Tech-Aktien enthalten.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Börse & Märkte"
+    },
+    {
+      "title": "BASF gibt Übernahme von Evonik auf",
+      "text": "BASF nimmt Abstand von einer Übernahme des Konkurrenten Evonik. Evonik hatte zuvor zwei unverbindliche Kaufangebote zurückgewiesen. Damit bleiben beide Chemiekonzerne eigenständig.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Unternehmen"
+    }
   ],
   "entries": [
-    {"title": "Lufthansa will 1.000 Stellen streichen", "summary": "Laut einem Brief an die Beschäftigten sollen an den Standorten München und Frankfurt insgesamt 1.000 Stellen bei Lufthansa Airlines wegfallen. Die Airline wollte dem Schreiben nichts hinzufügen.", "url": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html", "source": "tagesschau", "category": "Unternehmen"},
-    {"title": "BASF gibt Evonik-Übernahme auf", "summary": "Der Chemiekonzern BASF will Evonik nicht mehr übernehmen. Evonik hatte tiefergehende Gespräche auch nach einem höheren Angebot verweigert.", "url": "https://www.spiegel.de/wirtschaft/basf-sagt-evonik-uebernahme-ab-a-8ac0a370-d80e-4f40-834b-6ebbaec30a90#ref=rss", "source": "Spiegel Wirtschaft", "category": "Unternehmen"},
-    {"title": "Arbeitsrechtsreform: Befristung bis zu vier Jahre ohne Grund", "summary": "Befristete Verträge sollen künftig vier Jahre lang ohne Sachgrund möglich sein. DGB und Linkspartei lehnen das ab.", "url": "https://www.spiegel.de/wirtschaft/soziales/gewerkschaften-und-linkspartei-lehnen-arbeitsrechtsreform-ab-a-18921d1d-3887-44c6-b1ec-b1b226536e48#ref=rss", "source": "Spiegel Wirtschaft", "category": "Arbeit & Soziales"},
-    {"title": "Stromsteuer-Senkung nützt laut Studie Gutverdienern am meisten", "summary": "Eine Modellrechnung der RWTH Aachen zeigt: Einkommensstarke Haushalte werden am stärksten entlastet, obwohl die Regierung auch Menschen helfen wollte, die vom Tankrabatt wenig hatten.", "url": "https://www.spiegel.de/wirtschaft/service/stromsteuer-senkung-gutverdiener-haushalte-profitieren-laut-rwth-aachen-am-meisten-a-30e17f86-1948-41f9-9d80-19ef1b477653#ref=rss", "source": "Spiegel Wirtschaft", "category": "Energie"},
-    {"title": "Commerzbank: Bund und UniCredit einigen sich", "summary": "Laut dem F.A.Z.-Business-Ticker haben sich die Bundesregierung und die italienische Bank UniCredit zur Commerzbank-Übernahme geeinigt. Details nennt der Teaser nicht.", "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lufthansa-will-1000-stellen-an-drehkreuzen-streichen-faz-200452404.html", "source": "FAZ Wirtschaft", "category": "Unternehmen"},
-    {"title": "Unternehmen erwarten keinen Aufschwung", "summary": "Anders als die Hoffnung auf staatliche Investitionen erwartet die Privatwirtschaft laut F.A.Z.-Konjunkturbericht keinen Aufschwung. Die Firmen wollen unterm Strich weniger investieren.", "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutsche-wirtschaft-unternehmen-erwarten-keinen-aufschwung-accg-201694762.html", "source": "FAZ Wirtschaft", "category": "Konjunktur"},
-    {"title": "Versicherer: KI-Schäden wachsen sehr schnell", "summary": "Der Unternehmensversicherer der Allianz sieht systemische Risiken. Nach einer Hiscox-Umfrage hat schon jeder zweite Dienstleister einen KI-Vorfall erlebt.", "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-schaeden-wachsen-rasant-allianz-und-hiscox-schlagen-alarm-201697572.html", "source": "FAZ Wirtschaft", "category": "Unternehmen"},
-    {"title": "Grüner Wasserstoff aus der Nordsee: Pläne stocken", "summary": "Ein neues Gesetz soll die Windenergie auf See voranbringen, doch an mehreren Stellen hakt es. Besonders schlecht stehen die Pläne, Wasserstoff direkt auf hoher See herzustellen.", "url": "https://www.handelsblatt.com/politik/deutschland/erneuerbare-energien-chancen-fuer-wasserstoff-aus-dem-meer-schwinden/100270322.html", "source": "Handelsblatt", "category": "Energie"},
-    {"title": "GTA VI: Mehr als 24 Millionen Exemplare verkauft", "summary": "Der Hersteller Take-Two meldet bis Donnerstagabend über 24 Millionen verkaufte Exemplare des Spiels.", "url": "https://www.handelsblatt.com/unternehmen/it-medien/videospiel-take-two-bricht-mit-gta-vi-verkaufsrekorde/100271428.html", "source": "Handelsblatt", "category": "Unternehmen"},
-    {"title": "EZB warnt vor Risiken durch KI-Bewertungen", "summary": "Im Finanzstabilitätsbericht nennt die EZB drei Risiken: hohe Bewertungen von KI-Unternehmen, Haushaltsungleichgewichte und geopolitische Spannungen.", "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/risiken-durch-ki-bewertungen-haushaltsungleichgewichte-und-geooekonomische-spannungen-belasten-die-aussichten-fuer-die-finanzstabilitaet-959182", "source": "Bundesbank", "category": "Zinsen & Geldpolitik"},
-    {"title": "Bundesbank erwartet Inflationsschub nach Jahreswechsel", "summary": "Laut Berichten rechnet die Bundesbank 2027 mit steigender Inflation. Zugleich sieht sie günstigere Konjunkturaussichten.", "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVzZNU2dWU3BtXzZiYWxBY2h3dXN6ZE1aMjRDaHNlWExXVlFGMEdrbFdNdlFoNVh4UGpSRVRiN1o3OWdDS0Z3TVA4bE5KVHJDbWE5UWhKdzl0LVJCaXcwckdUd0F0aF9RU21LTkpIa0FfNUVyN3JxcFl5ZEthUHVCZVh1Z25OZVk?oc=5", "source": "trend.at", "category": "Konjunktur"},
-    {"title": "Auftragseingang steigt, Firmenpleiten bleiben hoch", "summary": "Der Auftragseingang legt um 4,4 % zu, und das ifo-Geschäftsklima steht auf einem Dreieinhalb-Jahres-Hoch. Gleichzeitig gibt es 25.131 Firmenpleiten.", "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGJVNEpzLUNYa0Q4aHpDNVFxMXJQbzJjRTlEMHAxSUZwS2NDTEg3LTFlSDFNdGI3V0xIbFkzdGRRREpwNlEzTy0yNW5ET00yeGxuNUt0YUJsOXpKWjg0bEkyQ0FuMmRQbkNQUGFTX1Z4b2Q5d0NJX0VSdWxmQXY2c2RFenR5TElaSWRlZERaZGFKTVUwdXB5Y1FQZzVyQzQxT2pqZVRmeHo3X3RLaTkxaw?oc=5", "source": "AktienCheck.de", "category": "Konjunktur"},
-    {"title": "GLS und DPD schließen sich zusammen", "summary": "Die beiden Paketdienste wollen künftig gemeinsam auftreten. Was das für Preise und Kunden bedeutet, nennt die Quelle im Teaser nicht.", "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRHRSS09KeUEwVllMSExoNHlHanBCNVNILW5WSTd0VkVjTEFLVlpwYmtlOXV1T3pPV0FYUWlFdHA5QWhrNVF5NGJXVXA0UURqR1VEaGNjVXFlQzMzYzdGalRVSHMyUUFKQjBONGJqOEc1Vy1Eb1BXazlsTjQzRVV1bzVWdXZqcGx3ZWpnYzJoekhIWEFobVd6Qmh1Wno0Tk9xRmdPQzBvUVBDM3VCMHJieWdVRWs5UXdrZUVRRHQxSi1idm5iQmc4R0ZLUEcxMDF5Wmc?oc=5", "source": "Allgemeine Zeitung", "category": "Unternehmen"}
-  ]
+    {
+      "title": "Volkswagen will zwei Nullrunden",
+      "summary": "VW fordert in der Tarifrunde keine Lohnerhöhung, weniger Zulagen und Änderungen bei der Arbeitszeit. Die IG Metall wirft dem Konzern vor, den Beschäftigten „das Messer in den Rücken“ zu stoßen.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "Lufthansa will rund 1000 Stellen an den Drehkreuzen streichen",
+      "summary": "Betroffen sind Frankfurt am Main und München. Wann und wie die Stellen wegfallen, ist noch offen.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-will-an-deutschen-drehkreuzen-rund-1000-stellen-abbauen-a-7be97521-a2ad-4a67-bc82-3c7453488916#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "Galeria schließt drei Filialen",
+      "summary": "Betroffen sind Berlin, Köln und München. Medienberichten zufolge könnte am Ende nur etwa die Hälfte der heutigen Standorte übrig bleiben.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/galerie-schliessung-filialen-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Strom und Gas werden für Millionen Haushalte teurer",
+      "summary": "Laut Verivox erhöhen Hunderte Grundversorger die Preise. Bei Gas liegt die Erhöhung im Schnitt bei 14 Prozent. Betroffene bekommen dazu Post vom Versorger.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/verivox-analyse-strom-und-gas-wird-fuer-millionen-haushalte-teurer/100271696.html",
+      "source": "Handelsblatt",
+      "category": "Energie",
+      "tipp": "Preiserhöhungs-Schreiben prüfen und Tarife vergleichen; bei einer Erhöhung besteht ein Sonderkündigungsrecht."
+    },
+    {
+      "title": "Spritpreisdeckel soll am 1. Januar starten",
+      "summary": "Laut Handelsblatt hat die Wirtschaftsministerin ein neues Gesetz für Höchstpreise bei Benzin und Diesel erarbeitet. Sie plant dazu drei Auflagen, weil sie um die Versorgung fürchtet.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/energie-spritpreisdeckel-startet-doch-am-1.januar-aber-auflagen-geplant/100271661.html",
+      "source": "Handelsblatt",
+      "category": "Energie"
+    },
+    {
+      "title": "Heizen wird für viele zum Problem",
+      "summary": "Nach Berechnungen des Statistischen Bundesamts konnten im vergangenen Jahr rund 4,7 Millionen Menschen ihre Wohnung nicht richtig heizen. Steigende Energiepreise verschärfen das.",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/heizkosten-anstieg-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Energie"
+    },
+    {
+      "title": "Katar will 15 Milliarden Euro in Deutschland investieren",
+      "summary": "Bundeskanzler Merz hat mit dem Emir neue Investitionen vereinbart. Katar beteiligt sich schon länger an deutschen Unternehmen.",
+      "url": "https://www.spiegel.de/wirtschaft/katar-friedrich-merz-begruesst-milliarden-investitionen-in-deutschland-a-43570797-3fed-4b48-91a3-5bcd3d31d2d0#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "Telekom steigt bei KI-Start-up Mistral ein",
+      "summary": "Unternehmen und Behörden sollen so „vertrauenswürdige KI aus Europa“ bekommen. Mistral ist ein französisches Start-up.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "US-Börsenaufsicht prüft Nvidia-Bilanzen",
+      "summary": "Nach dem Skandal um Ex-Chef Jensen Huang untersucht die SEC offenbar mutmaßliche Bilanzprobleme des Chipkonzerns. Der Konzern gerät weiter unter Druck.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Neue EU-Regeln für Kleinkredite gelten ab heute",
+      "summary": "Die neue Verbraucherkreditrichtlinie verlangt auch bei kleinen Beträgen mehr Aufwand von Anbietern, etwa bei „Heute kaufen, später zahlen“. Verbraucher sollen besser vor Verschuldung geschützt werden.",
+      "url": "https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "US-Notenbankerin Cook will höhere Zinsen",
+      "summary": "Das Zinsniveau reiche nicht, um die Inflation zu bremsen, sagt Fed-Gouverneurin Cook. Das betrifft zunächst die USA, beeinflusst aber die Zinserwartungen weltweit.",
+      "url": "https://www.handelsblatt.com/politik/international/geldpolitik-fed-gouverneurin-cook-dringt-auf-weitere-zinserhoehungen/100271670.html",
+      "source": "Handelsblatt",
+      "category": "Zinsen & Geldpolitik"
+    },
+    {
+      "title": "Bundesbank erwartet Inflationsschub nach dem Jahreswechsel",
+      "summary": "Zugleich sieht sie laut DIE ZEIT günstigere Konjunkturaussichten bei hoher Inflation.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVmRGcjdGUy13QVM0SWhGWGFpSHdEeDJvTVNfWkRfYTRHUHBCVzM4RFpmeExBbEduaS1UR2Z5cEFGVzlTU0ZyM0NpMW04WmdmT1BsbkF5a1MzZFNGczV2cHNwN2N4MmdkTi1yZDlrbEpCNWlHSkNFMUJmcGxBMk5JelRQT1FKWkJxcjFxd09YS0JKSTRyRk5IaXVtQWFvSGNZRmpUS3RmeTl4UUt2VzZTUVJ4NDVuU1BXbFJITmFqaXplUnVob2haSm1B?oc=5",
+      "source": "Allgemeine Zeitung",
+      "category": "Konjunktur"
+    },
+    {
+      "title": "Altersvorsorgedepot startet im Januar",
+      "summary": "Es gibt staatliche Zulagen von bis zu 540 Euro im Jahr. Ob es sich für jeden lohnt, klärt das Handelsblatt in einem Podcast.",
+      "url": "https://www.handelsblatt.com/audio/today/today-plus-altersvorsorgedepot-alles-was-ihr-wissen-muesst-mit-den-finanzexperten-bandt-und-nauhauser/100271651.html",
+      "source": "Handelsblatt",
+      "category": "Arbeit & Soziales"
+    }
+  ],
+  "date": "2026-11-21"
 }
