@@ -1,6 +1,27 @@
 {
   "briefs": [
     {
+      "date": "2026-11-21",
+      "file": "2026-11-21.html",
+      "headline": "Neue Regeln für Kredite und „Jetzt kaufen, später zahlen“",
+      "count": 15,
+      "sources": 13,
+      "cats": {
+        "Neue Gesetze & Fristen": 2,
+        "Urteile": 3,
+        "Geld, Verträge & Versicherung": 2,
+        "Warnungen & Betrug": 4,
+        "Miete & Wohnen": 2,
+        "Tests": 2
+      },
+      "ents": {
+        "PayPal": 1,
+        "BGH": 1,
+        "Verbraucherzentrale": 3,
+        "Mieter": 1
+      }
+    },
+    {
       "date": "2026-11-20",
       "file": "2026-11-20.html",
       "headline": "Neue Regeln für Ratenkauf und Kleinkredite gelten ab 20. November",
