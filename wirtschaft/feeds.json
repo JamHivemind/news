@@ -1,11 +1,17 @@
 {
- "fetched": "2026-11-21T03:46:54.241Z",
+ "fetched": "2026-11-21T05:17:17.825Z",
  "hours": 48,
  "sources": [
   {
    "name": "tagesschau Wirtschaft",
    "ok": true,
    "items": [
+    {
+     "title": "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern",
+     "url": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html",
+     "date": "2026-11-21T03:50:50.000Z",
+     "text": "Für den Chemiekonzern Bayer könnten die Klagen wegen des Unkraut-Vernichters Roundup in den USA bald der Vergangenheit angehören. Ein US-Gericht hat einen milliardenschweren Vergleich des Konzerns mit Vertretern der Kläger gebilligt."
+    },
     {
      "title": "Mehr als 100 Betriebe beteiligt: IG Metall setzt weiter auf ganztätige Warnstreiks",
      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html",
@@ -143,12 +149,6 @@
      "url": "https://www.tagesschau.de/wirtschaft/digitales/gta-vi-konsolen-preise-gaming-100.html",
      "date": "2026-11-19T13:33:49.000Z",
      "text": "Der mit viel Rummel begleitete Start des Videospiels \"Grand Theft Auto VI\" hat Auswirkungen auf die Elektronik-Branche: Die Preise für Spielkonsolen sind auf Rekordhöhe gestiegen. Das hat aber noch andere Gründe. Von Stefan Kiske."
-    },
-    {
-     "title": "Welche Erwartungen die Gaming-Branche mit GTA VI verbindet",
-     "url": "https://www.tagesschau.de/wirtschaft/digitales/gta-rockstar-games-100.html",
-     "date": "2026-11-19T05:09:57.000Z",
-     "text": "Die Entwicklung des Videospiels \"Grand Theft Auto VI\" dürfte eine Milliardensumme gekostet haben - womit es das bislang teuerste Produkt der Unterhaltungsindustrie ist. Die gesamte Branche erhofft sich davon einen Schub. Von C. Prössl."
     },
     {
      "title": "Heizen wird wegen steigender Energiepreise immer teurer",
@@ -475,6 +475,48 @@
    "ok": true,
    "items": [
     {
+     "title": "Interaktiver Rechner: 333 Gasanbieter erhöhen zum 1. Januar ihr Tarife – so viel teurer kann es für Sie werden",
+     "url": "https://www.handelsblatt.com/unternehmen/energie/heizen-333-gasanbieter-erhoehen-zum-1.-januar-tarife-wie-teuer-es-wird/100270528.html",
+     "date": "2026-11-21T05:00:00.000Z",
+     "text": "Hunderte Grundversorger bekommen die hohen Gaspreise durch den Irankrieg jetzt zu spüren – und kündigen Preiserhöhungen an. Für Familien können die Mehrkosten einige Hundert Euro betragen."
+    },
+    {
+     "title": "Ehemalige Außenministerin: Neben Uni-Job: Baerbock wird Unternehmensberaterin",
+     "url": "https://www.handelsblatt.com/politik/deutschland/ehemalige-aussenministerin-neben-uni-job-baerbock-wird-unternehmensberaterin/100271716.html",
+     "date": "2026-11-21T04:57:17.000Z",
+     "text": "Nach dem Ende ihres Amts als Präsidentin der UN-Generalversammlung lehrt Annalena Baerbock an der Columbia University. Nun kommt eine weitere berufliche Aufgabe hinzu."
+    },
+    {
+     "title": "Folgenreiche KI-Entwicklung: Regeln für Killerroboter: Gespräche enden mit Minimalkonsens",
+     "url": "https://www.handelsblatt.com/politik/international/folgenreiche-ki-entwicklung-regeln-fuer-killerroboter-gespraeche-enden-mit-minimalkonsens/100271710.html",
+     "date": "2026-11-21T04:48:41.000Z",
+     "text": "Vollautonome Waffen können selbst Ziele auswählen und tödliche Angriffe auslösen. Zwar soll es nun international Schranken für die Entwicklung geben. Aber das Wann und Wie bleibt ungeklärt."
+    },
+    {
+     "title": "+++ USA unter Trump +++: Bericht: FBI untersucht mutmaßliches Eindringen in Kriminaldatenbank",
+     "url": "https://www.handelsblatt.com/politik/international/usa-bericht-fbi-untersucht-mutmassliches-eindringen-in-kriminaldatenbank/29669594.html",
+     "date": "2026-11-21T04:44:00.000Z",
+     "text": "NBC: Hacker dringen in Zahlungssystem des US-Agrarministeriums ein +++ Trump will Bau von US-Rechenzentren im Ausland verbieten +++ Weißes Haus ernennt neue Cyberbeauftragte +++ Der Newsblog."
+    },
+    {
+     "title": "Versorgung: Pflegekassen warnen vor erneuten Finanzrisiken Anfang 2027",
+     "url": "https://www.handelsblatt.com/politik/deutschland/versorgung-pflegekassen-warnen-vor-erneuten-finanzrisiken-anfang-2027/100271711.html",
+     "date": "2026-11-21T04:30:05.000Z",
+     "text": "Die Pflegeversicherung steckt wegen immer höherer Ausgaben in Nöten. Die Koalition will sie fürs neue Jahr absichern. Die Gesetzespläne liegen jetzt im Parlament – aber reichen sie aus?"
+    },
+    {
+     "title": "Demonstrationen: Jugendproteste verlaufen weitgehend friedlich",
+     "url": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-jugendproteste-verlaufen-weitgehend-friedlich/100271709.html",
+     "date": "2026-11-21T04:29:44.000Z",
+     "text": "Zehntausende demonstrierten für mehr Geld für Schulen und gegen die Wehrpflicht. In Hamburg und Leipzig kam es später zu Ausschreitungen."
+    },
+    {
+     "title": "Billionen in den Depots: Vermögensverwalter - Kostenproblem in der Krösus-Branche",
+     "url": "https://www.handelsblatt.com/politik/deutschland/billionen-in-den-depots-vermoegensverwalter-kostenproblem-in-der-kroesus-branche/100271706.html",
+     "date": "2026-11-21T04:00:04.000Z",
+     "text": "Hinter der harmlosen Bezeichnung „Vermögensverwalter“ verbergen sich einige der größten Finanzmächte des Planeten. Die Profitabilität der Unternehmen sinkt jedoch im Schnitt."
+    },
+    {
      "title": "Umwelt: Klimagipfel verlängert - nur Trippelschritte in Sicht",
      "url": "https://www.handelsblatt.com/politik/international/umwelt-klimagipfel-verlaengert-nur-trippelschritte-in-sicht/100271703.html",
      "date": "2026-11-21T03:30:04.000Z",
@@ -611,48 +653,6 @@
      "url": "https://www.handelsblatt.com/politik/international/vereinte-nationen-haengepartie-um-guterres-nachfolge-was-droht-den-un/100271448.html",
      "date": "2026-11-20T18:46:43.000Z",
      "text": "Die Vereinten Nationen suchen einen neuen Generalsekretär. Seit Monaten ringen die Staaten im Sicherheitsrat um die Nachfolge von Guterres. Bisher ohne Erfolg. Geraten die UN in eine Führungskrise?"
-    },
-    {
-     "title": "Buchhandel: Hacker legen Hugendubel-Onlineshop lahm",
-     "url": "https://www.handelsblatt.com/politik/deutschland/buchhandel-hacker-legen-hugendubel-onlineshop-lahm/100271662.html",
-     "date": "2026-11-20T18:42:18.000Z",
-     "text": "Der Buchhändler nahm nach dem Angriff sofort alles vom Netz. Kundendaten seien sicher, sagt das Unternehmen. Doch wie lange bleiben Shop und Servicecenter noch offline?"
-    },
-    {
-     "title": "+++ USA unter Trump +++: Trump will Bau von US-Rechenzentren im Ausland verbieten",
-     "url": "https://www.handelsblatt.com/politik/international/usa-trump-will-bau-von-us-rechenzentren-im-ausland-verbieten/29669594.html",
-     "date": "2026-11-20T18:24:00.000Z",
-     "text": "Weißes Haus ernennt neue Cyberbeauftragte +++ Senat will Rechenzentren stärker an Stromkosten beteiligen +++ Trumps Milliarden-Klage gegen „New York Times“ zugelassen +++ Der Newsblog."
-    },
-    {
-     "title": "Gen Z: Bezahlbarkeit kann man nicht fordern, die muss man erarbeiten",
-     "url": "https://www.handelsblatt.com/politik/konjunktur/europa-die-forderung-der-gen-z-nach-bezahlbarem-leben-ist-ein-irrtum/100270908.html",
-     "date": "2026-11-20T18:20:00.000Z",
-     "text": "Von Madrid bis Berlin ruft eine Generation nach bezahlbarem Leben. Der Wunsch ist verständlich, die Forderung ein Irrtum. Drei Beispiele zeigen, warum – und was stattdessen hilft. Ein Essay."
-    },
-    {
-     "title": "Geldpolitik: Bundesbankchef Nagel hadert mit mangelndem Rückhalt für EZB-Kandidatur",
-     "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-joachim-nagel-hadert-mit-mangelndem-rueckhalt-fuer-kandidatur/100271609.html",
-     "date": "2026-11-20T17:38:45.000Z",
-     "text": "Der Bundesbankchef wäre der natürliche Kandidat für die EZB-Spitze gewesen. Doch nach Berlins kampflosem Verzicht auf die Präsidentschaft bleibt Deutschland fünf Monate ohne Sitz im Spitzengremium."
-    },
-    {
-     "title": "+++ Ukraine-Krieg +++: Trump fordert wohl von Kiew Frieden mit Russland bis Anfang Januar",
-     "url": "https://www.handelsblatt.com/politik/international/ukraine-trump-fordert-wohl-von-kiew-frieden-mit-russland-bis-anfang-januar/27982126.html",
-     "date": "2026-11-20T17:24:00.000Z",
-     "text": "Trump: Ohne Deal keine Sicherheitsgarantien seitens der USA für die Ukraine +++ Russland soll Dänen für Mord an ukrainischem Rapper angeheuert haben +++ Der Newsblog."
-    },
-    {
-     "title": "Industrielle KI: ABB erwägt bei Scheitern von SoftBank-Deal Börsengang der Robotiksparte",
-     "url": "https://www.handelsblatt.com/unternehmen/industrie/industrielle-ki-abb-erwaegt-bei-scheitern-von-softbank-deal-boersengang-der-robotiksparte/100271655.html",
-     "date": "2026-11-20T16:51:19.000Z",
-     "text": "China blockiert den Verkauf der ABB-Robotiksparte an SoftBank. Nun prüft der Schweizer Konzern laut Insidern einen Börsengang als Alternative – versucht aber zunächst, den Deal zu retten."
-    },
-    {
-     "title": "Golfstaaten-Abkommen: Katar will 15 Milliarden in Deutschland investieren",
-     "url": "https://www.handelsblatt.com/politik/deutschland/golfstaaten-abkommen-katar-will-15-milliarden-in-deutschland-investieren/100271648.html",
-     "date": "2026-11-20T16:47:38.000Z",
-     "text": "Der Emir von Katar kommt zum Staatsbesuch nach Deutschland und sagt Investitionen in Höhe von 15 Milliarden Euro zu. Der Kanzler begrüßt das Vorhaben."
     }
    ]
   },
@@ -758,6 +758,13 @@
      "via": "MarketScreener Deutschland"
     },
     {
+     "title": "Deutsche Bundesbank: Gute Konjunktur und hohe Inflation 2027 - News.at",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjU5RmxJR1ZzX1NvYVhlN0s4MEptZDY1NnpGUWZXMjJHaVByNzV4VU1kVVdjcWgxbkxYdE1XM3BqZFpheFA5WHlRQVY0MWVTMkMxX3JVeVdVejhmMVprZW1fUkVhNU03LWx3QXpIYzNkRkpkUm4zVnVWVWFhMEplbFRoMzcwSmlyV2tJQXhR?oc=5",
+     "date": "2026-11-19T16:10:53.000Z",
+     "text": "Deutsche Bundesbank: Gute Konjunktur und hohe Inflation 2027 News.at",
+     "via": "News.at"
+    },
+    {
      "title": "Ukraine-Krieg: Friedrich Merz verspricht Deutschland „Dividende“ aus Ukraine-Investitionen - WELT",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXY2cXlaYXp1Mm5CaUllSUR0bUJ4SDJhcU4wMGVJWlVhVUpXUDR5eUJiNzJPTTl4Vm9DbldPR1ZEc0t2ZEkwcjY0RUE0QmpQdDVadjgwQ3lYdDdTeUZSN3lUaUwwUGMxVGVya1dOekRvbTVZQ2s2RFJDVUl2U1FQd3JsdFRWM0NxSGFOVmJZa3dlUlZXVktoU0NDeHM2anlMaXc1NjVPd0d0S0NmVmFKakhYeHZtWVRndjZkeDFISkJXcmp3MGs2WEJpNEtHSUJUYVJPejRGWFhDY0t1NmxuTjF5NWUzZksxX2dj?oc=5",
      "date": "2026-11-20T11:50:23.000Z",
@@ -770,13 +777,6 @@
      "date": "2026-11-20T11:30:45.000Z",
      "text": "Black Friday: Deutschland zwischen Hype und Skepsis WEB.DE",
      "via": "WEB.DE"
-    },
-    {
-     "title": "News, Wirtschaft: Ifo-Institut: Geschäftsklima im Maschinenbau verbessert - tixio - Nachrichten",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU01RdXNvbXZyenhSb3d6dTd4dDlfMTJaR0NuRFVpRWpjM2ItdXZla3N2N0k5Q25mQVJhZWFNc0NEbzU1cWVwV3RqQ2VjRU5saWVLX3kwVGpFTVZ0d2ViS1paemxjaVJSU0dna3AySFJMX2FmRU14ZkFEUzZQN0xrdWRDOFl6NmNMWkVpYzdNenF6NTQ?oc=5",
-     "date": "2026-11-20T07:24:57.000Z",
-     "text": "News, Wirtschaft: Ifo-Institut: Geschäftsklima im Maschinenbau verbessert tixio - Nachrichten",
-     "via": "tixio - Nachrichten"
     },
     {
      "title": "Strommarkt: Deutschland exportiert deutlich mehr Strom ins Ausland - DIE ZEIT",
@@ -800,11 +800,11 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "Galeria schließt drei Filialen – 400 Beschäftigte betroffen - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMjVfME1NbVcxMFJmd1I4bi1ZaXRDM0xad3BtZmd3dC1PVXE2Y3lLaWhrd0lVb21ueWhma0hIamhQVzh6X294TnhhZWhDNllfSDZ2QUlEX1NoSmppSF9xbndqellYSDlWUXpBRnNiM1ZVdVg1ekhNbWJFdjA1LXhoRFZISUdGXzVwSVQzdjZNRDFRYlozRF9Lam9iOFhrd3hmYWE0Wl85Y2wxOGE5UHBUaUU2U250djZFRDdSNFNrNmw1R3FyNWNDNWhhQnRqVTZ0?oc=5",
-     "date": "2026-11-20T11:45:00.000Z",
-     "text": "Galeria schließt drei Filialen – 400 Beschäftigte betroffen Allgemeine Zeitung",
-     "via": "Allgemeine Zeitung"
+     "title": "News, Wirtschaft: Ifo-Institut: Geschäftsklima im Maschinenbau verbessert - tixio - Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU01RdXNvbXZyenhSb3d6dTd4dDlfMTJaR0NuRFVpRWpjM2ItdXZla3N2N0k5Q25mQVJhZWFNc0NEbzU1cWVwV3RqQ2VjRU5saWVLX3kwVGpFTVZ0d2ViS1paemxjaVJSU0dna3AySFJMX2FmRU14ZkFEUzZQN0xrdWRDOFl6NmNMWkVpYzdNenF6NTQ?oc=5",
+     "date": "2026-11-20T07:24:57.000Z",
+     "text": "News, Wirtschaft: Ifo-Institut: Geschäftsklima im Maschinenbau verbessert tixio - Nachrichten",
+     "via": "tixio - Nachrichten"
     },
     {
      "title": "IG Metall hat ganztägige Warnstreiks gestartet - Allgemeine Zeitung",
@@ -814,17 +814,10 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "Deutsche Bundesbank: Inflation steigt 2027 - trend.at",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVzZNU2dWU3BtXzZiYWxBY2h3dXN6ZE1aMjRDaHNlWExXVlFGMEdrbFdNdlFoNVh4UGpSRVRiN1o3OWdDS0Z3TVA4bE5KVHJDbWE5UWhKdzl0LVJCaXcwckdUd0F0aF9RU21LTkpIa0FfNUVyN3JxcFl5ZEthUHVCZVh1Z25OZVk?oc=5",
-     "date": "2026-11-19T16:11:00.000Z",
-     "text": "Deutsche Bundesbank: Inflation steigt 2027 trend.at",
-     "via": "trend.at"
-    },
-    {
-     "title": "Metall-Tarifkonflikt: Arbeitgeber dringen auf Gespräche - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWDZKUEk2ZWtQNGdRX09kLUJHdmpvU1E1RXJ4VjVuTWs3LVFDeU5fTWZfMldLRTFqblFfY2FtUVJsVGdnbWJZZWZUSWQ3OVk5WUNUMGJ5MnNpeGdHRms0WUEtQzdQMDRwRlJ5RG1OdV9KNzE2bkxrend0RDM0STBpUGRiZEttYlhNQVdvZGdBbjJwcUZ0LUZ2ZmwzUkd2TXRHUGxrQjNfU1RvOXhjZWlqcTJMbXpnTXcwMHdQMEJjUHA5QWQ2cWEwVk9zcw?oc=5",
-     "date": "2026-11-20T10:25:00.000Z",
-     "text": "Metall-Tarifkonflikt: Arbeitgeber dringen auf Gespräche Allgemeine Zeitung",
+     "title": "Galeria schließt drei Filialen – 400 Beschäftigte betroffen - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMjVfME1NbVcxMFJmd1I4bi1ZaXRDM0xad3BtZmd3dC1PVXE2Y3lLaWhrd0lVb21ueWhma0hIamhQVzh6X294TnhhZWhDNllfSDZ2QUlEX1NoSmppSF9xbndqellYSDlWUXpBRnNiM1ZVdVg1ekhNbWJFdjA1LXhoRFZISUdGXzVwSVQzdjZNRDFRYlozRF9Lam9iOFhrd3hmYWE0Wl85Y2wxOGE5UHBUaUU2U250djZFRDdSNFNrNmw1R3FyNWNDNWhhQnRqVTZ0?oc=5",
+     "date": "2026-11-20T11:45:00.000Z",
+     "text": "Galeria schließt drei Filialen – 400 Beschäftigte betroffen Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
@@ -832,6 +825,13 @@
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVmRGcjdGUy13QVM0SWhGWGFpSHdEeDJvTVNfWkRfYTRHUHBCVzM4RFpmeExBbEduaS1UR2Z5cEFGVzlTU0ZyM0NpMW04WmdmT1BsbkF5a1MzZFNGczV2cHNwN2N4MmdkTi1yZDlrbEpCNWlHSkNFMUJmcGxBMk5JelRQT1FKWkJxcjFxd09YS0JKSTRyRk5IaXVtQWFvSGNZRmpUS3RmeTl4UUt2VzZTUVJ4NDVuU1BXbFJITmFqaXplUnVob2haSm1B?oc=5",
      "date": "2026-11-19T11:37:00.000Z",
      "text": "Bundesbank erwartet Inflationsschub nach Jahreswechsel Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Metall-Tarifkonflikt: Arbeitgeber dringen auf Gespräche - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWDZKUEk2ZWtQNGdRX09kLUJHdmpvU1E1RXJ4VjVuTWs3LVFDeU5fTWZfMldLRTFqblFfY2FtUVJsVGdnbWJZZWZUSWQ3OVk5WUNUMGJ5MnNpeGdHRms0WUEtQzdQMDRwRlJ5RG1OdV9KNzE2bkxrend0RDM0STBpUGRiZEttYlhNQVdvZGdBbjJwcUZ0LUZ2ZmwzUkd2TXRHUGxrQjNfU1RvOXhjZWlqcTJMbXpnTXcwMHdQMEJjUHA5QWQ2cWEwVk9zcw?oc=5",
+     "date": "2026-11-20T10:25:00.000Z",
+     "text": "Metall-Tarifkonflikt: Arbeitgeber dringen auf Gespräche Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {

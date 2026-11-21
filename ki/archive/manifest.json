@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-21",
+      "file": "2026-11-21.html",
+      "headline": "Anthropic startet an der Börse – und rutscht am Folgetag ab",
+      "count": 16,
+      "sources": 6,
+      "cats": {
+        "Business & Funding": 2,
+        "Forschung & Deep Tech": 3,
+        "Tools & Agenten": 5,
+        "KI im Alltag & Beruf": 4,
+        "Modelle & Releases": 1,
+        "Regulierung & Politik": 1
+      },
+      "ents": {
+        "Anthropic": 2,
+        "Google": 3,
+        "Apple": 1,
+        "OpenAI": 2,
+        "Meta": 2,
+        "Nvidia": 1
+      }
+    },
+    {
       "date": "2026-11-20",
       "file": "2026-11-20.html",
       "headline": "Anthropic startet mit Rekord-Börsengang",
