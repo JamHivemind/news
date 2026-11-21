@@ -1,23 +1,120 @@
 {
-  "date": "2026-11-20",
-  "intro": "Heute gibt’s Stoff für Benzinbrüder: Mercedes schickt einen C 111 unter den Hammer, BMW zeigt einen vergessenen M7-Prototyp, und VW lässt dem T-Roc 333 PS ein. Dazu ein Blick auf Macau und die Regeln fürs Autojahr 2027.",
+  "intro": "Benzin im Blut und ein Prototyp aus dem Archiv: BMW zeigt einen M7 von 1997, in der Formel 1 kehrt der V8 zurück, und Mercedes bringt einen C 111 unter den Hammer.",
   "top": [
-    {"title": "Mercedes versteigert einen C 111", "text": "Das gab es noch nie: Mercedes-Benz bringt einen der legendären C 111 unter den Hammer. Laut SWR läuft die Auktion im Pariser Louvre, erwartet wird ein hoher Millionenerlös. Die FAZ schreibt, die Stuttgarter würden sich damit nicht nur Freunde machen. Ein Stück Sportwagen-Geschichte wechselt also bald den Besitzer.", "url": "https://www.faz.net/aktuell/technik-motor/motor/mercedes-benz-versteigert-einen-c111-accg-201686752.html", "source": "FAZ Technik & Motor", "category": "Klassiker & Youngtimer"},
-    {"title": "BMW zeigt den M7-Prototyp, der nie kam", "text": "29 Jahre blieb er unter Verschluss: ein M7 auf Basis des 7ers der Baureihe E38, Prototyp von 1997. Nach Angaben von auto motor und sport steckt ein M5-V8 mit 400 PS und Handschaltung drin. BMW Classic zeigt den Wagen jetzt erstmals. Eine reine M-Version des 7ers gab es nie, dieser Prototyp beweist aber, dass die Ingenieure darüber nachgedacht haben.", "url": "https://www.autobild.de/artikel/bmw-m7-e38-prototyp-1997--932b80b-28903525.html", "source": "Auto Bild", "category": "Klassiker & Youngtimer"},
-    {"title": "VW T-Roc R: 333 PS und Drift-Modus", "text": "Der neue T-Roc R legt kräftig nach: 333 PS, Allradantrieb mit Torque Splitter (verteilt Kraft aktiv auf die Hinterräder), vier Auspuffrohre und ein Nürburgring-Modus. Laut Focus gibt es sogar einen Drift-Modus. Der hochgelegte Golf R lässt also ordentlich Gummi liegen.", "url": "https://www.autobild.de/videos/vw-t-roc-r-2027--28913665.html", "source": "Auto Bild", "category": "Neue Modelle & Fahrberichte"}
+    {
+      "title": "Mercedes versteigert den legendären C 111",
+      "text": "Mercedes bringt einen Supersportwagen C 111 unter den Hammer, die Auktion findet im Louvre statt. Laut Berichten soll der Wagen Millionen für das Museum bringen. Es gibt nur noch 13 Stück weltweit, Interessenten sollen sogar Blankoschecks geschickt haben.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN01oWEFNV3lOR29TUS1nei1qdUFEZXpXb0pVMTRoZEp0RkV2MHR3allSUEEzbkgwTFJaY0NfM2ItSEpwUlFhNkRuZEI0M2xsMkh5RXQ2aG5ObHd1dERRbmJnZUtHTG1DN1Y0NW1mc3JCM3NSZWs4X1RrUFZaVnZYaU5waUVUTVQ5SmJLLUM3d21OSmFVZnU1bkZ5cUVZOXFh?oc=5",
+      "source": "SWR",
+      "category": "Klassiker & Youngtimer"
+    },
+    {
+      "title": "Formel 1: V8 kehrt ab 2030 zurück",
+      "text": "Die Rennserie macht eine Kehrtwende zurück zum Achtzylinder, mit kleinerem Hybridanteil. Die aktuelle Motorengeneration wird damit nicht alt. Fans und Fahrer hatten den Sound des V8 vermisst.",
+      "url": "https://www.heise.de/news/Rueckkehr-des-V8-Formel-1-ab-2030-wieder-mit-Achtzylindern-11532293.html",
+      "source": "heise Autos",
+      "category": "Motorsport"
+    },
+    {
+      "title": "BMW zeigt erstmals den M7-Prototyp",
+      "text": "Vom 7er gab es nie eine reine M-Version. Jetzt zeigt BMW erstmals einen Prototyp von 1997, den M7 auf Basis des E38. Er beweist, dass die Münchner Ingenieure zumindest einmal über einen M7 nachdachten.",
+      "url": "https://www.autobild.de/artikel/bmw-m7-e38-prototyp-1997--72115e3-28903525.html",
+      "source": "Auto Bild",
+      "category": "Klassiker & Youngtimer"
+    }
   ],
   "entries": [
-    {"title": "Lamborghini Temerario als Spyder", "summary": "Lamborghini erweitert die Baureihe um eine offene Variante und schlägt damit ein neues Kapitel seiner Roadster-Historie auf.", "url": "https://www.focus.de/auto/neuheiten/lamborghini-praesentiert-den-temerario-als-offenen-spyder_91724002-c4cd-4d1d-b686-8367f6ae7ea6.html", "source": "Focus Auto", "category": "Sportwagen & Elfer"},
-    {"title": "Knight-Rider-Pontiac findet keinen Käufer", "summary": "Der Pontiac Firebird Trans Am, mit dem Hauptdarsteller David Hasselhoff durch Europa tourte, blieb bei einer Auktion in Zürich ohne neuen Besitzer.", "url": "https://www.autobild.de/artikel/k.i.t.t.-ist-zu-teuer-a8edacd-28875787.html", "source": "Auto Bild", "category": "Klassiker & Youngtimer"},
-    {"title": "Seltener Porsche 911 wird für den guten Zweck versteigert", "summary": "Laut Kurier kommt ein seltener Elfer für einen guten Zweck unter den Hammer.", "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0VjYkxXRmx6aFJRemNkTTRnNlk0a3k3Wk9EamN2Z1RFRlA0NVZMd1hLOXZKVmI3d245WHdnYXNjSUVHdFBxV3Mwcy1md01XeFF3VHpwRXZubHBvVk5qNFlLWEtoV2R4czRVV0JWRzFqTUdhQ2dCRG0wT2J1V0hmX3RFdWFZV3ZwRWc?oc=5", "source": "Kurier", "category": "Sportwagen & Elfer"},
-    {"title": "75 Jahre Porsche Motorsport: Season Closing auf Teneriffa", "summary": "Der Porsche Golf Circle feiert das Jubiläum beim Saisonabschluss auf Teneriffa.", "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2lPRHN5dUZNUW5DTVR2U0dLN2pmS0dQRTZvNzN1V3dPZ3hsb0NGMEpLRFY1em01ei1uOVR2M1g3d1l5VVFQOFBrMnNTYV9Jdk9IVTctZlVPX1pGc251YXBWeXprN2tyb1FUcEJDVzNiWXllZzM1N0dCcVJTZEhRclhSbDN1cFkxMVpkT0g0REpaeHFVZ2hRN2RSWTF4R1U5UHJPa1hHNjRodDRSZlJfYTBHdEs?oc=5", "source": "Porsche Newsroom", "category": "Szene & Termine"},
-    {"title": "Peugeot vor dem WEC-Aus?", "summary": "Motorsport-Total fragt, ob trotz neuem Hypercar und Fahrer das Aus in der Langstrecken-WM mit sofortiger Wirkung droht. Das ist bislang eine Frage, keine Bestätigung.", "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUU3ZDQzYndOT2s3Z1FuVGVsaG44QkpoekpGZkM1VWUxd3VQZElHZkRhTXpXbU9RN3hibklLd2NUTzdoT1VNbVNtQjR0TExqNVFVdXNSWHp5N0o1WEx6cEVLdXo2TWIxLXhiczZlLUVXSTdlQlJ5UHZ1NmRSLTd3WFpBUHc0NThENm81ZmdKTUk1Vmo0YTU2UXUyOWJFYW5lREtGR3pPcTIxckRQenRJcWExdUNxWmxqZ2UwSHcwY1loQlpWcGJtNjZXeXlqelJzUWpMc1dxWWt4UjVfdXc?oc=5", "source": "Motorsport-Total.com", "category": "Motorsport"},
-    {"title": "GT-Weltcup Macau: Laurin Heinrich mit mächtigem Antritt", "summary": "Beim Stadtkurs-Klassiker in Asien legt Laurin Heinrich einen starken Auftakt hin. Auch DTM-Champion Thomas Preining fährt dort laut Oberösterreichischen Nachrichten um den Sieg.", "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOS0xeGpycEtOcjE2aUIwR0ZScHNrTzVBYlV1M2FRaU5CUTJKX284NjVDVHNNSnA1Nk5PMm5aaDVyckJ3NF9MSDdaSUR3OHVCOXM2d25WOFhiaUFuYVlrbTFabnNXellPRlkwZUZYZ2FhTmNvY19mTjJxY3J4WFl5SWhwTXNLZjNWWEg1eE5xeThVRTVoNkVaR0Y5ZDJVMTJtS2JibVpNeTNTdUw3V3FyLXNTUWU1ZVByX2ozcFpzZ1ZRcEFMRGpRLXlkYkI3cXNKOV9ORHc4RG4?oc=5", "source": "Motorsport-Total.com", "category": "Motorsport"},
-    {"title": "Ducati Panigale V4 für 2027 überarbeitet", "summary": "Mehr Leistung, neue Aerodynamik und kürzere Rundenzeiten: Ducati hat die Panigale V4 und V4 S an vielen Details verfeinert.", "url": "https://www.heise.de/news/Ducati-Panigale-V4-V4-S-vorgestellt-Feinarbeit-fuer-schnelle-Runden-11506358.html", "source": "heise Autos", "category": "Neue Modelle & Fahrberichte"},
-    {"title": "Tesla will das Model Y ohne Pedale und Lenkrad bauen", "summary": "Tesla plant laut Elon Musk eine autonome Version für Familien und kleine Gruppen.", "url": "https://www.heise.de/news/Tesla-will-Model-Y-ohne-Pedale-und-Lenkrad-bauen-11531422.html", "source": "heise Autos", "category": "Hersteller & Branche"},
-    {"title": "Bentley Torcal für 2027 schon ausverkauft", "summary": "Das erste rein elektrische Bentley-SUV ist laut electrive für das Produktionsjahr 2027 bereits vergriffen, noch vor dem Produktionsstart.", "url": "https://www.electrive.net/2026/11/19/elektro-suv-bentley-torcal-fuer-2027-bereits-vergriffen/", "source": "electrive", "category": "Hersteller & Branche"},
-    {"title": "TÜV-Report: Tesla Model Y Schlusslicht", "summary": "Mehrere E-Autos kommen laut Spiegel gut durch die Hauptuntersuchung, das Mittelklasse-SUV von Tesla stellt dagegen einen Mängelrekord auf.", "url": "https://www.spiegel.de/mobilitaet/auto/tesla-model-y-schlusslicht-im-tuev-report-andere-elektroautos-gut-a-e20e2a94-41e0-408f-b7c8-5dc02d76f6ac#ref=rss", "source": "Spiegel Mobilität", "category": "Rückrufe & Regeln"},
-    {"title": "Hunderttausende VW per Bluetooth angreifbar", "summary": "Nach 16 Monaten behebt VW eine Sicherheitslücke in Hunderttausenden Autos. Gezeigt wurde, dass sich in einem ID.4 das Mikro und die Ortung anzapfen ließen. Das Update kommt erst jetzt.", "url": "https://www.heise.de/news/VW-Autos-liessen-sich-16-Monate-per-Bluetooth-belauschen-und-orten-11530844.html", "source": "heise Autos", "category": "Rückrufe & Regeln"},
-    {"title": "Das ändert sich für Autofahrer 2027", "summary": "Laut Auto Bild kommt der Umweltpass fürs Auto, der Führerschein wird reformiert, und Belgien führt eine Maut ein.", "url": "https://www.autobild.de/artikel/kosten-plaketten-und-termine-das-aendert-sich-fuer-autofahrer-2027-40f3e42-28873615.html", "source": "Auto Bild", "category": "Rückrufe & Regeln", "tipp": "Bis 30. November können Kfz-Versicherungen für den Wechsel zum Jahreswechsel gekündigt werden."}
-  ]
+    {
+      "title": "VW ID. Polo GTI Clubsport Concept: 367 PS zum 50. GTI-Geburtstag",
+      "summary": "Die Elektrostudie kommt auf 270 kW, schafft laut electrive 240 km/h und sprintet in 4,7 Sekunden auf 100 km/h. Ob sie in Serie geht, ist offen.",
+      "url": "https://www.electrive.net/2026/11/20/ein-elektrischer-vw-id-polo-gti-fuer-die-rennstrecke/",
+      "source": "electrive",
+      "category": "Neue Modelle & Fahrberichte"
+    },
+    {
+      "title": "Neuer VW T-Roc R mit 333 PS und Drift-Modus",
+      "summary": "VW hat die nächste Generation des hochgelegten Golf R vorgestellt.",
+      "url": "https://www.focus.de/auto/news/neuer-vw-t-roc-r-der-hochgelegte-golf-r-im-detail_8f596261-c3ac-4bc6-b4ba-096e5d4abc63.html",
+      "source": "Focus Auto",
+      "category": "Neue Modelle & Fahrberichte"
+    },
+    {
+      "title": "Subaru WRX STI Sport R wieder mit Handschaltung",
+      "summary": "Nach sieben Jahren gibt es wieder einen Handschalter. Der Wagen ist ab sofort bestellbar, laut Auto Bild gibt es aber einen Haken.",
+      "url": "https://www.autobild.de/artikel/subaru-wrx-sti-sport-r-9a82cfb-28908917.html",
+      "source": "Auto Bild",
+      "category": "Neue Modelle & Fahrberichte"
+    },
+    {
+      "title": "Lamborghini Temerario Spyder: 920 PS offen",
+      "summary": "Beim Spyder verschwindet das Dach senkrecht, schreibt auto motor und sport. Er leistet laut BILD 920 PS.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUm1xUk5CVHA5b3hvYUFEUW9QQnU3MDFlVm5fYXJBWUUwTzNISzBpUXRUTGlrUU5jLUROTkNVWXVrRm8ySkZGWUFJdGx3NVpDSmhkRjRseGVqREpOM2tuVzY1aUR1RF9DX25iQndORzZzcXhjN1Nvbnl2SlRjaDRoaVIxMURNRDhCdWRPMkNMNVdWZmZxRlRYT0lkeVRSLUNING1OQmJGNmxmTHM?oc=5",
+      "source": "auto motor und sport",
+      "category": "Sportwagen & Elfer"
+    },
+    {
+      "title": "Porsche 356 und Käfer werden neu gebaut",
+      "summary": "Eine Firma baut Oldtimer wieder neu und verkauft sie. Das berichtet auto motor und sport.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRm1ESEI4VnZYWm9UWUM2WFRGOTR6Y3NqX3BqbTV2WFd5WU1yYXp5Ymo0UWEwSFU1M1VTRXF5bEhCZno3Zl91TWQ1M0NlNS1JcVYxa0QtSE90bE9kMEJlMzZMd0RKWHlpcmkyTWkzMHBSTlhZVWlFUnVwdTMxVDFtc0cxdl9TVnY5RE9TQmpOVVhlV3JuWWs4ZVc3TG14RlU5cnpVbXd6MDg1RkoyM1NfVUY2UmZQZnExSzVIa2x3?oc=5",
+      "source": "auto motor und sport",
+      "category": "Klassiker & Youngtimer"
+    },
+    {
+      "title": "Rallye-Ascona 400 in der Basisversion aufgetaucht",
+      "summary": "Walter Röhrl wurde 1982 auf dem Opel Ascona 400 Rallye-Weltmeister. Die Basisversion hat kaum jemand gesehen, nun gibt es einen Fahrbericht.",
+      "url": "https://www.autobild.de/artikel/opel-ascona-400-basis-wiedergefunden-582a52e-28323021.html",
+      "source": "Auto Bild",
+      "category": "Klassiker & Youngtimer"
+    },
+    {
+      "title": "Kevin Estre fährt für Toyota in der WEC",
+      "summary": "Der Porsche-Pilot ersetzt Mike Conway im Toyota-Werksteam. Der Wechsel ist offiziell.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0hwOEJZMkpwYkFMN1RON0l0TUNIdm9Fdkc5dTgxZ0NnMzVMWG1DUTg3S3l2bnB6Qlg5YS1EbDdWTEpWclR0VVNQUFlUakwxVFhWdXpidDlLV0pqMl81R0dkdXZFQ0E0UWhUQnIwRDN3MkNDNzM5VEhGTEVULWtiNW5VR0M0R0x4dmVPZnRtb3hINWNwVTd6UTd5RW92UDdmTjBIckZ0S0RNTnA1SjFnUzVEeUhHaTR6UXotaElmSkdrYzh4bU4xaFNB?oc=5",
+      "source": "Motorsport-Total.com",
+      "category": "Motorsport"
+    },
+    {
+      "title": "Stellantis stellt alle Motorsport-Programme ein",
+      "summary": "Peugeots Konzernmutter zieht damit auch bei Le Mans den Stecker.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzF3NFkxRFhiMFdsSDZybWg1SF9seDVXZEJFclBBU0lQc0FDVDhTb21kUnZsd1Y0eHlCOVZKRE8xRHd3X0N6RHU0T0xyZHU0dFc3d3FjWHp5NjlKN2lBa180UHJlZmNMald1OTRfNWRxeFQ1QnhXTFI1OXJRbTZjZ09VWk0yODZRX0VjYzdSQ2JyUTNOQkgxR0RvbTBlaWNGWWMtVVpoaHM?oc=5",
+      "source": "Nau",
+      "category": "Motorsport"
+    },
+    {
+      "title": "Macau: Heinrich auf Pole im FIA-GT-Weltcup",
+      "summary": "Im Regen fuhr Heinrich die beste Qualifikationszeit.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNEJndzBDWDdncm5CZnBNQTJaSWNnWjdnWXdOcmhmcVRxOXM0LTlEblhPQkRzYnRqeXVKc201QUxvSVJlWl9TX0FaSUw3dk5EUWN3UGdmekp0N3hXMHBtRFBsWjdRUDJHQmZsMVJZcDFFNEZQRGhjWG1FdzA3MXZhcWc3ZC14U1hpSlNFWVpTSWdLMTdTUG1WZjJsWGQyZV9mcElpZXVaZ2ZrYTBIRV81bWRzUTd1c0pUcml1cjNwV2MyeWlzd3BSWFRDUUdpZHFkaVE?oc=5",
+      "source": "Motorsport-Total.com",
+      "category": "Motorsport"
+    },
+    {
+      "title": "BMWs müssen nach Reparatur draußen parken",
+      "summary": "Bei bestimmten BMW besteht trotz Reparatur Brandgefahr. Betroffene Autos sollen ab sofort im Freien stehen. Details zu Modell und Zahl stehen im Artikel.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3RVejZWWW9WSlBTV3NWWTktOEVhZzVsVkdXdUEtX3JRMmxRS3QtWjFvZWd6SXNmUnFjbEE3Y0JsVmlKcUpIeFhJLUVsN0l1QXRNMUh6MVJaWU5Pd3ZwOXB6RDZweXBDbnRfWFNrLVBTNnZGTTVnQ1ZxOXg2X2lFTWkzWVMwWTlvNHdiY1ZQVXQ2bTR0cVE4Q0p6OTV3QW8?oc=5",
+      "source": "auto motor und sport",
+      "category": "Rückrufe & Regeln"
+    },
+    {
+      "title": "Toyota ruft weltweit 19.000 C-HR+ zurück",
+      "summary": "Grund sind Batterieprobleme.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPclZMbndEMDREckNrQURlbENsOEFqT1FqTy0zU0ZYQ3RGVkNQbGRtSzd5WXFYRHRuRWNvN3ZHcFR5R1dPQ2hLTVVfOEN5M1pWTnUwc2dOMmw2ZUNwVEM5T2dqbXZfQlJPNkNmd0JjM0p0eUhuTjFncWNhUTltbGlzOUhiUTlxTHhtcHlHSklJb3FUcm9lcVk3U3dnOFI?oc=5",
+      "source": "ecomento.de",
+      "category": "Rückrufe & Regeln"
+    },
+    {
+      "title": "Führerschein-Reform ist beschlossen",
+      "summary": "Nach dem Bundestag hat auch der Bundesrat neue Regeln für Fahrschulen beschlossen. Der Führerschein soll damit deutlich günstiger werden.",
+      "url": "https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-beschlossen-so-sollen-fahrschueler-sparen-a-f2dc9706-e233-430d-94f5-bc83a0c54c5c#ref=rss",
+      "source": "Spiegel Mobilität",
+      "category": "Rückrufe & Regeln"
+    },
+    {
+      "title": "Bundesrat will Tempo 60 für Mopeds",
+      "summary": "Das eingebaute Limit von 45 km/h sei nicht mehr zeitgemäß. Die Bundesregierung soll sich für neue EU-Regeln einsetzen.",
+      "url": "https://www.spiegel.de/mobilitaet/bundesrat-mopeds-und-motorroller-sollen-tempo-60-fahren-duerfen-a-13b5992a-7c53-4253-be60-c46e0bbf9ac5#ref=rss",
+      "source": "Spiegel Mobilität",
+      "category": "Rückrufe & Regeln"
+    }
+  ],
+  "date": "2026-11-21"
 }
