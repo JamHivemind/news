@@ -318,6 +318,10 @@
    [
     "2026-11-19",
     145.98
+   ],
+   [
+    "2026-11-20",
+    125.53
    ]
   ],
   "MSFT": [
@@ -576,6 +580,10 @@
    [
     "2026-11-19",
     498.3
+   ],
+   [
+    "2026-11-20",
+    484.52
    ]
   ],
   "GOOGL": [
@@ -834,6 +842,10 @@
    [
     "2026-11-19",
     272.66
+   ],
+   [
+    "2026-11-20",
+    265.29
    ]
   ],
   "META": [
@@ -1092,6 +1104,10 @@
    [
     "2026-11-19",
     596.22
+   ],
+   [
+    "2026-11-20",
+    560.84
    ]
   ]
  },
@@ -1103,8 +1119,14 @@
  },
  "hf": [
   {
+   "id": "thinkingmachines/Inkling-2-Mini",
+   "likes": 785,
+   "downloads": 136,
+   "task": "image-text-to-text"
+  },
+  {
    "id": "higurashi-ai/Haru-4B",
-   "likes": 5622,
+   "likes": 5697,
    "downloads": 7323,
    "task": "audio-to-audio"
   },
@@ -1115,30 +1137,24 @@
    "task": "image-text-to-text"
   },
   {
-   "id": "thinkingmachines/Inkling-2-Mini",
-   "likes": 714,
-   "downloads": 136,
-   "task": "image-text-to-text"
-  },
-  {
-   "id": "Qwen/Qwen3.8-27B",
-   "likes": 20811,
-   "downloads": 6454419,
-   "task": "image-text-to-text"
-  },
-  {
    "id": "Sentinel7/h3",
-   "likes": 298,
+   "likes": 349,
    "downloads": 0,
    "task": ""
   },
   {
    "id": "unsloth/Inkling-2-Mini-GGUF",
-   "likes": 225,
+   "likes": 258,
    "downloads": 0,
+   "task": "image-text-to-text"
+  },
+  {
+   "id": "Qwen/Qwen3.8-27B",
+   "likes": 20815,
+   "downloads": 6454419,
    "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-21T02:28:36.646Z",
+ "updated": "2026-11-21T03:47:05.632Z",
  "updatedDay": "2026-11-06"
 }
