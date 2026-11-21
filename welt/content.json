@@ -1,31 +1,296 @@
 {
-  "date": "2026-11-20",
-  "intro": "Die Weltpolitik lief gestern auf zwei Bühnen: In Shenzhen trafen sich Trump, Xi und Putin, in Berlin die Unterstützer der Ukraine. Dazu kommt ein historisches UN-Urteil zu Myanmar.",
+  "intro": "Erstmals sitzen Trump, Xi und Putin an einem Tisch, und Russland greift Kiew wieder schwer an. In Polen schlagen russische Flugobjekte ein, was die Nato-Ostflanke unter Druck setzt.",
+  "regionen": {
+    "Europa": "Russland beschießt Kiews Brücken, Polen meldet russische Flugobjekte im eigenen Luftraum, und Großbritannien und die EU rücken nach dem Brexit wieder zusammen.",
+    "Nahost": "Die Huthi-Miliz trifft Riad, der Irak geht gegen eine proiranische Miliz vor, und der Iran will mit einem Tankerkonvoi die US-Seeblockade brechen.",
+    "Asien": "In Shenzhen treffen sich Xi, Trump und Putin, und in Bangladesch gibt es gewaltsame Ausschreitungen um die Rückkehr von Sheikh Hasina.",
+    "Amerika": "Trump droht US-Firmen wegen KI-Rechenzentren im Ausland, und in Peru bebt die Erde mit Stärke 6,7.",
+    "Afrika": "Nach Verlusten bei der Wahl kämpft der ANC in Südafrika darum, die wichtigen Städte zu halten."
+  },
   "top": [
-    {"title": "Trump, Xi und Putin veröffentlichen „Friedenserklärung“", "text": "Zum ersten Mal haben sich die Präsidenten der USA, Chinas und Russlands zu dritt getroffen. Am Ende steht eine kurze „Erklärung zum Frieden“ mit vier Punkten. Genannt werden laut WELT unter anderem eine UN-Reform, ein Dialog über Atomwaffen und mehr Öl. Mehrere Medien sehen vor allem Symbolik und wenige konkrete Ergebnisse.", "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss", "source": "BBC", "category": "Weltpolitik", "art": "politik", "ort": {"name": "Shenzhen, China", "lat": 22.54, "lon": 114.06}, "stimmen": [{"source": "Spiegel", "richtung": "links", "url": "https://www.spiegel.de/ausland/apec-gipfel-in-shenzhen-china-so-laeuft-der-gipfel-mit-donald-trump-xi-jinping-und-wladimir-putin-a-b4e9137d-42fa-4ff0-9d36-08df392ffbce#ref=rss"}, {"source": "tagesschau", "richtung": "mitte", "url": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html"}, {"source": "NZZ", "richtung": "rechts", "url": "https://www.nzz.ch/international/spitzentreffen-in-shenzhen-donald-trump-xi-jinping-und-wladimir-putin-verabschieden-eine-deklaration-fuer-den-frieden-ld.10068309"}]},
-    {"title": "Ukraine-Gipfel in Berlin: Europäer wollen mit Russland reden", "text": "Knapp 30 Staats- und Regierungschefs sind in Berlin zusammengekommen. Die Europäer sagen, sie hätten eine gemeinsame Verhandlungsposition und seien zu Gesprächen mit Russland bereit. Die US-Unterhändler Kushner und Witkoff waren in Berlin. Trump rief aus der Air Force One an und äußerte Skepsis zu den Ukraine-Hilfen. Zugleich droht Putin nach dem erneuten Angriff auf die Krim-Brücke mit Vergeltung.", "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss", "source": "BBC", "category": "Krieg & Konflikte", "art": "konflikt", "ort": {"name": "Ukraine", "lat": 50.45, "lon": 30.52}, "hamburg": "Deutschland war Gastgeber, und Kanzler Merz will laut WELT die Ukraine-Hilfe langfristig sichern, das betrifft auch den Bundeshaushalt.", "stimmen": [{"source": "Süddeutsche Zeitung", "richtung": "links", "url": "https://www.sueddeutsche.de/politik/ukraine-konferenz-berlin-friedrich-merz-donald-trump-jared-kushner-li.3582903"}, {"source": "tagesschau", "richtung": "mitte", "url": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-treffen-berlin-100.html"}, {"source": "WELT", "richtung": "rechts", "url": "https://www.welt.de/politik/ausland/plus6aff1826c1e8003ef73c4ad9/nach-gipfel-in-china-trump-ruft-aus-air-force-one-in-berlin-an-aeussert-skepsis-ueber-ukraine-hilfen.html"}]},
-    {"title": "UN-Gericht: Myanmar beging Völkermord an den Rohingya", "text": "Der Internationale Gerichtshof, das höchste UN-Gericht, hat entschieden: Myanmar wollte einen „wesentlichen Teil“ der muslimischen Minderheit der Rohingya vernichten. Es ist laut Berichten das erste Mal, dass ein Staat von einem internationalen Gericht wegen Völkermords verurteilt wird. Das Urteil gilt auch als Signal für andere Verfahren, etwa die Klage gegen Israel.", "url": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html", "source": "tagesschau", "category": "Weltpolitik", "art": "politik", "ort": {"name": "Myanmar", "lat": 19.76, "lon": 96.08}, "hamburg": "Laut taz bringt das Urteil die Bundesregierung wegen der Israel-Klage in ein Dilemma.", "stimmen": [{"source": "taz", "richtung": "links", "url": "https://taz.de/Myanmars-Gewalt-gegen-Rohingya/!6231433/"}, {"source": "BBC", "richtung": "mitte", "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"}, {"source": "FAZ", "richtung": "rechts", "url": "https://www.faz.net/aktuell/politik/ausland/internationaler-gerichtshof-myanmar-verantwortlich-fuer-voelkermord-an-rohingya-accg-201697448.html"}]}
+    {
+      "title": "Trump, Xi und Putin an einem Tisch in Shenzhen",
+      "text": "Erstmals saß ein US-Präsident gemeinsam mit Chinas und Russlands Staatschef an einem Tisch. Xi und Putin kritisierten laut Reuters westlichen „Protektionismus“ und Sanktionen. In den USA gibt es Kritik an dem Treffen, und Verbündete der Ukraine warnen vor einer Aufteilung Europas wie in Jalta 1945. Berichten zufolge verlangt Trump von Kiew außerdem Frieden mit Russland bis Anfang Januar.",
+      "url": "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html",
+      "source": "tagesschau",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Shenzhen",
+        "lat": 22.54,
+        "lon": 114.06
+      },
+      "stimmen": [
+        {
+          "source": "taz",
+          "richtung": "links",
+          "url": "https://taz.de/Zwei-Gipfel-viele-offene-Fragen/!6223577/"
+        },
+        {
+          "source": "Reuters",
+          "richtung": "mitte",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5"
+        },
+        {
+          "source": "FAZ",
+          "richtung": "rechts",
+          "url": "https://www.faz.net/aktuell/politik/ausland/gipfeltreffen-in-shenzen-putin-und-trump-machen-es-xi-leicht-201691480.html"
+        }
+      ]
+    },
+    {
+      "title": "Russland greift Kiew an: Tote bei Angriffen auf Brücken",
+      "text": "Russland hat in Kiew mehrere Brücken über den Dnipro angegriffen, dabei gab es Tote. Moskau hatte Vergeltung für die erneut beschädigte Krim-Brücke angekündigt. Frankreich hat eine Sitzung des UN-Sicherheitsrats beantragt. Die Ukraine braucht laut Selenskyj weiter „riesige Summen“.",
+      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
+      "source": "tagesschau",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
+      "ort": {
+        "name": "Kiew",
+        "lat": 50.45,
+        "lon": 30.52
+      },
+      "hamburg": "Deutschland ist einer der wichtigsten Unterstützer der Ukraine, Kanzler Merz hat dazu einen Gipfel der „Koalition der Willigen“ im Kanzleramt ausgerichtet.",
+      "stimmen": [
+        {
+          "source": "Spiegel",
+          "richtung": "links",
+          "url": "https://www.spiegel.de/ausland/ukrainekrieg-frankreich-beantragt-nach-juengsten-russischen-angriffen-sitzung-des-uno-sicherheitsrats-a-e2493c1e-b793-4bb8-8dbf-0c3d11dbe5ea#ref=rss"
+        },
+        {
+          "source": "Reuters",
+          "richtung": "mitte",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaW5ZVDlLVDZMeWxSUU5VRnVsbVZja1A5bmhtTVd4OFBZWEZFSzFENVFIQUdaLV9JOHZVQjhGcGhqUHJtZ2JrTk5NX3FEV0NScmVwUWtrUmRqbkhGcThkMmp1bWw1SkRneVkzb2pVNzZqTmU0VnA2T1pCVlA3aGoyUEExU2xOSU1TcnpfaFRUa3hBRzNDZzlWOWxFR0RyeTZkeGRyMmtsbEJId3lMRUE?oc=5"
+        },
+        {
+          "source": "WELT",
+          "richtung": "rechts",
+          "url": "https://www.welt.de/politik/ausland/article6afff385be487c54377468b7/ukraine-krieg-russland-attackiert-drei-bruecken-in-kiew-eu-bestellt-russische-diplomaten-ein.html"
+        }
+      ]
+    },
+    {
+      "title": "Polen: Russische Flugobjekte dringen in den Luftraum ein",
+      "text": "Mehrere russische Flugobjekte sind in Polens Luftraum eingedrungen, drei davon stürzten ab. Warschau wertet das als gezielte Provokation und bittet die Nato um Unterstützung. Die Nato verurteilt die Verletzung des Luftraums.",
+      "url": "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html",
+      "source": "tagesschau",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
+      "ort": {
+        "name": "Warschau",
+        "lat": 52.23,
+        "lon": 21.01
+      },
+      "hamburg": "Deutschland und Polen wollen enger zusammenarbeiten: Verteidigungsminister Pistorius reiste dazu nach Polen und will den Militärpakt ausbauen.",
+      "stimmen": [
+        {
+          "source": "Spiegel",
+          "richtung": "links",
+          "url": "https://www.spiegel.de/ausland/polen-meldet-absturz-von-drei-russischen-flugobjekten-a-590c07a8-aff7-45f3-bc77-38cc81cffb65#ref=rss"
+        },
+        {
+          "source": "Deutschlandfunk",
+          "richtung": "mitte",
+          "url": "https://www.welt.de/politik/ausland/video6b00253e5842ff528b9e1749/grenze-zur-ukraine-polen-meldet-absturz-von-mehreren-russischen-flugobjekten-und-bittet-nato-um-unterstuetzung.html"
+        },
+        {
+          "source": "NZZ",
+          "richtung": "rechts",
+          "url": "https://www.nzz.ch/international/nato-ostflanke-russische-marschflugkoerper-schlagen-in-polen-ein-ld.10070169"
+        }
+      ]
+    }
   ],
   "entries": [
-    {"title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt", "summary": "Nach einem neuen Angriff ist die für Russland wichtige Brücke laut Behörden wieder gesperrt. Putin kündigt eine harte Antwort an.", "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html", "source": "tagesschau", "category": "Krieg & Konflikte", "art": "konflikt", "ort": {"name": "Krim-Brücke", "lat": 45.31, "lon": 36.51}},
-    {"title": "Russische Angriffe beschädigen Botschaften in Kyjiw", "summary": "Bei einer Angriffswelle wurden auch die österreichische und die niederländische Botschaft getroffen. Die EU bestellte einen russischen Vertreter ein.", "url": "https://www.spiegel.de/ausland/kyjiw-botschaftsgebaeude-bei-russischen-angriffen-beschaedigt-a-df67b44c-8817-4748-9b7f-f7477d1dc696#ref=rss", "source": "Spiegel", "category": "Krieg & Konflikte", "art": "konflikt", "ort": {"name": "Kyjiw, Ukraine", "lat": 50.45, "lon": 30.52}},
-    {"title": "Huthi-Angriff beschädigt Hochhaus in Riad", "summary": "Das höchste Gebäude der saudischen Hauptstadt wurde getroffen. Es soll Sachschäden, aber keine Verletzten gegeben haben.", "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-wolkenkratzer-in-riad-beschaedigt-nach-huthi-angriff-faz-200583539.html", "source": "FAZ", "category": "Krieg & Konflikte", "art": "konflikt", "ort": {"name": "Riad, Saudi-Arabien", "lat": 24.71, "lon": 46.68}},
-    {"title": "Israel startet Bodeneinsatz in Zentral-Gaza", "summary": "Dutzende Menschen sind auf der Flucht. Die Hamas nennt den Einsatz laut BBC eine Verletzung der Waffenruhe.", "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5", "source": "Reuters", "category": "Krieg & Konflikte", "art": "konflikt", "ort": {"name": "Gaza", "lat": 31.5, "lon": 34.47}},
-    {"title": "Fast jedes vierte Kind lebt in einem Konfliktgebiet", "summary": "Laut Save the Children waren 2025 etwa 589 Millionen Kinder und Jugendliche betroffen, so viele wie nie zuvor.", "url": "https://www.spiegel.de/ausland/studie-von-save-the-children-fast-jedes-vierte-kind-weltweit-lebt-in-einem-konfliktgebiet-a-77660933-3505-49bf-af7a-b882e79e327d#ref=rss", "source": "Spiegel", "category": "Krieg & Konflikte"},
-    {"title": "Serbien: Studentenliste übernimmt Parlamentsspitze", "summary": "Gut drei Wochen nach der Wahl wird Aleksandar Čupić Parlamentspräsident. Ex-Präsident Vučić hatte die Wahl mit stundenlangen Reden verzögert.", "url": "https://www.deutschlandfunk.de/studentenliste-uebernimmt-ersten-schluesselposten-108.html", "source": "Deutschlandfunk", "category": "Europa", "art": "politik", "ort": {"name": "Belgrad, Serbien", "lat": 44.82, "lon": 20.46}},
-    {"title": "EU und Großbritannien wollen Jugendmobilität vereinbaren", "summary": "Laut BBC soll das Programm beim Gipfel am Freitag beschlossen werden. Auch Abkommen zu Lebensmittelhandel und CO₂-Emissionen stehen an.", "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss", "source": "BBC", "category": "Europa", "art": "politik", "ort": {"name": "Brüssel, Belgien", "lat": 50.85, "lon": 4.35}},
-    {"title": "Dänisches Parlament billigt Grönland-Abkommen mit den USA", "summary": "Nach monatelangen Drohungen aus Washington hat Dänemark das Abkommen ratifiziert. Es kann damit in Kraft treten.", "url": "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html", "source": "tagesschau", "category": "Weltpolitik", "art": "politik", "ort": {"name": "Grönland", "lat": 64.18, "lon": -51.72}},
-    {"title": "Gericht bestätigt Aberkennung von İmamoğlus Diplom", "summary": "Damit dürfte der inhaftierte Istanbuler Bürgermeister kaum als Herausforderer von Erdoğan bei der Präsidentenwahl antreten können.", "url": "https://www.deutschlandfunk.de/urteil-hindert-erdogan-herausforderer-imamoglu-an-praesidentschaftskandidatur-gericht-bestaetigt-abe-100.html", "source": "Deutschlandfunk", "category": "Weltpolitik", "art": "politik", "ort": {"name": "Türkei", "lat": 39.93, "lon": 32.86}},
-    {"title": "Venezuela schließt Militärabkommen mit den USA", "summary": "Der Sturz von Maduro liegt noch kein Jahr zurück. Der US-Verteidigungsminister nennt Venezuela einen „gefügigen“ Sicherheitspartner.", "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss", "source": "BBC", "category": "Weltpolitik", "art": "politik", "ort": {"name": "Venezuela", "lat": 10.48, "lon": -66.9}},
-    {"title": "KI-gestützter Cyberangriff auf die EU-Kommission", "summary": "Die Kommission bestätigt einen Angriff, bei dem KI eingesetzt wurde. Ob Daten der über 33.000 Beschäftigten gestohlen wurden, ist offen.", "url": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html", "source": "tagesschau", "category": "Europa", "art": "politik", "ort": {"name": "Brüssel, Belgien", "lat": 50.85, "lon": 4.35}, "hamburg": "Auch in Deutschland verschärft KI laut BSI-Lagebericht die Gefahr durch Cyberangriffe."},
-    {"title": "EU zahlte für russische Energie so viel wie für die Ukraine", "summary": "Seit 2022 bis Mitte Oktober 2026 flossen laut EU-Kommission 232,05 Milliarden Euro für russische Energie und 231,5 Milliarden Euro an Hilfen für die Ukraine.", "url": "https://nius.de/politik/eu-staaten-zahlten-russland-fuer-energie-etwa-so-viel-wie-sie-fuer-die-ukraine-bereitstellten", "source": "NIUS", "category": "Europa"},
-    {"title": "Gen-Z-Proteste in ganz Europa", "summary": "Junge Menschen gehen am Freitag unter anderem in Zürich, Bern und Paris auf die Straße. Es geht um Aufrüstung, Preise, Sparmaßnahmen und Klimaschutz.", "url": "https://www.nzz.ch/international/jugendstreik-in-europa-am-freitag-geht-die-gen-z-in-ganz-europa-auf-die-strasse-ld.10066446", "source": "NZZ", "category": "Europa", "art": "politik", "hamburg": "Auch in Hamburg sind am Freitag zahlreiche Demos und ein Schulstreik geplant."},
-    {"title": "Riesenfrachter wandern nach Wilhelmshaven ab", "summary": "Die Reederei Evergreen verlegt einen Liniendienst vorübergehend vom Hamburger Hafen zum Konkurrenten in Wilhelmshaven.", "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUVhyNEtJMlNyQ21zbVQtSkp4eWFIT09URm42c0lVQnMxTnVZRmkwVkJFMlFpdWZuRXJLdGNXbUhZUl9weXVZNW5QRV93bnlKaG1VcE1DdndTRUgyT1BBa0tEem1wa0pLM2hqNG9UOHBRcjYtQWozX0RCVkFQNVpuTzVkejlRVENaVm1GYmxJUmQ2VWIxcWc4TkJOWDVDVXRKV0V3QnpzdTNEZ3hacGlQcWpHUW1fbWM2UzVoclhTLVZSMU8taWxETXY4TDlNY25ReFJQR2ln?oc=5", "source": "Hamburger Abendblatt", "category": "Hafen & Schifffahrt", "art": "wirtschaft", "ort": {"name": "Hamburg", "lat": 53.55, "lon": 9.99}, "hamburg": "Der Hamburger Hafen verliert vorübergehend einen Liniendienst an einen Konkurrenten."}
+    {
+      "title": "Klimagipfel in Antalya geht in die Verlängerung",
+      "summary": "Laut UN steuert die Erde bis 2100 auf 2,8 Grad Erwärmung zu. Zwischen armen und reichen Ländern ist die Stimmung giftig, es geht auch um Geld für Klimaanpassung.",
+      "url": "https://www.sueddeutsche.de/politik/erderwaermung-weltklimakonferenz-erneuerbare-energien-fossile-brennstoffe-naturkatastrophen-hitzerekord-li.3583943",
+      "source": "Süddeutsche Zeitung",
+      "category": "Katastrophen & Klima",
+      "art": "politik",
+      "ort": {
+        "name": "Antalya",
+        "lat": 36.9,
+        "lon": 30.71
+      }
+    },
+    {
+      "title": "Weltgericht: Myanmar beging Völkermord an den Rohingya",
+      "summary": "Der Internationale Gerichtshof sieht Myanmars Vorgehen als Völkermord. Malaysia will daraufhin 10.000 Rohingya in die Türkei umsiedeln.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSnpTTEM4UUNIZi1KbDViNGdmVlV2MTgxSUVGWjdra045RXVoZWhYbnNGcUFob1d1OUljd01LNGo1NGV5UDN6emRwVlZ2R0dtamU5RFo0SVBVSmVGR1MyUF9aSmlqZVRST0V2eE5vVGE1QS1sb2oyV05VVWF5T25XQ1lBVjhhN1FRV2VHMFVKak00TkluZzdrbzk0Q1BXOENRbjNHLXE1S3F6LWpYeHlXOVk0QWhpcE1vY1pObkxpT1FNV2xYSkZr?oc=5",
+      "source": "Reuters",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Den Haag",
+        "lat": 52.08,
+        "lon": 4.31
+      }
+    },
+    {
+      "title": "Erdbeben der Stärke 6,7 in Peru",
+      "summary": "Im Zentrum des Landes gab es Erdrutsche und Steinschläge. Das Beben war laut GDACS die Stufe Grün, also keine Großkatastrophe.",
+      "url": "https://www.spiegel.de/ausland/peru-erdbeben-der-staerke-6-7-erdrutsche-und-steinschlaege-im-zentrum-a-5a6f565a-d414-45ea-a6eb-bff84bc57829#ref=rss",
+      "source": "Spiegel",
+      "category": "Katastrophen & Klima",
+      "art": "katastrophe",
+      "ort": {
+        "name": "Huancayo, Peru",
+        "lat": -12.07,
+        "lon": -75.21
+      }
+    },
+    {
+      "title": "Iran will US-Seeblockade mit Tankerkonvoi brechen",
+      "summary": "Teheran stellt Trump laut FAZ vor die Wahl zwischen Krieg und Verhandlungen. Die USA schleusen laut WELT zugleich Öltanker durch die Straße von Hormus.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/iran-will-ende-der-seeblockade-erzwingen-accg-201701027.html",
+      "source": "FAZ",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
+      "ort": {
+        "name": "Straße von Hormus",
+        "lat": 26.57,
+        "lon": 56.25
+      },
+      "hamburg": "Die Straße von Hormus ist ein wichtiger Weg für den Ölhandel, Spannungen dort können Öl- und Spritpreise bewegen."
+    },
+    {
+      "title": "Huthi-Angriff beschädigt höchsten Wolkenkratzer in Riad",
+      "summary": "Die Miliz aus dem Jemen hat das Finanzzentrum der saudischen Hauptstadt ins Visier genommen.",
+      "url": "https://www.spiegel.de/ausland/saudi-arabien-huthi-angriff-beschaedigt-hoechsten-wolkenkratzer-in-riad-a-7e74aa9f-79f3-4d27-b131-2b661434dbfc#ref=rss",
+      "source": "Spiegel",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
+      "ort": {
+        "name": "Riad",
+        "lat": 24.71,
+        "lon": 46.68
+      }
+    },
+    {
+      "title": "Israel: Eisenkot bringt Minderheitsregierung ins Spiel",
+      "summary": "Nach der Parlamentswahl ist die Regierungsbildung schwierig. Gadi Eisenkot versucht, ein Bündnis zu schmieden.",
+      "url": "https://www.deutschlandfunk.de/eisenkot-bringt-minderheitsregierung-fuer-israel-ins-spiel-104.html",
+      "source": "Deutschlandfunk",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Jerusalem",
+        "lat": 31.77,
+        "lon": 35.22
+      }
+    },
+    {
+      "title": "Großbritannien und EU einigen sich auf Annäherung",
+      "summary": "Beide Seiten vereinbaren Lösungen für Lebensmittel und Jugendaustausch, laut BBC auch zum Emissionshandel. Ein Streitpunkt bleiben Studiengebühren.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaUxSQlE3YTlodUx3ZVRaSnlCLVJtZVc5bUtURl8yaEQzZVk4bWdXdFlHdDgwTE1IOFFrZ3pvOTFvQ0s4Y2trSU9PWE4tUnZFQjMyWmZLeVY0aU9IaUFBWVdIVFlRaVZmdXRheEdmVHYyUU9JUnBMQVVhVzNwN2JGdDI5ZlJSVzdNb2tZV0dfaUpoVHJaRnFfcA?oc=5",
+      "source": "Reuters",
+      "category": "Europa",
+      "art": "politik",
+      "ort": {
+        "name": "Brüssel",
+        "lat": 50.85,
+        "lon": 4.35
+      }
+    },
+    {
+      "title": "Dänemark weist russischen Diplomaten aus",
+      "summary": "Kopenhagen wirft Russland vor, einen Mord an einem ukrainischen Rapper geplant zu haben. Russland weist das laut BBC zurück.",
+      "url": "https://www.deutschlandfunk.de/daenemark-vermutet-russischen-geheimdienst-hinter-mordkomplott-gegen-ukrainischen-rapper-104.html",
+      "source": "Deutschlandfunk",
+      "category": "Europa",
+      "art": "politik",
+      "ort": {
+        "name": "Kopenhagen",
+        "lat": 55.68,
+        "lon": 12.57
+      }
+    },
+    {
+      "title": "DAX mit größtem Wochenverlust seit März",
+      "summary": "Der Leitindex fiel unter 25.000 Punkte. Tech-Werte stehen unter Druck.",
+      "url": "https://www.deutschlandfunk.de/dax-verzeichnet-hoechstes-wochenminus-seit-maerz-und-faellt-unter-25-000-punkte-106.html",
+      "source": "Deutschlandfunk",
+      "category": "Wirtschaft & Handel",
+      "art": "wirtschaft",
+      "hamburg": "Wer Aktienfonds mit Tech-Werten besitzt, spürt die Kursverluste im Depot."
+    },
+    {
+      "title": "Trump droht Firmen wegen KI-Rechenzentren im Ausland",
+      "summary": "Der US-Präsident kündigte an, den Bau von Rechenzentren im Ausland zu verbieten oder zu besteuern. Details nannte er kaum.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "category": "Wirtschaft & Handel",
+      "art": "wirtschaft",
+      "ort": {
+        "name": "Washington",
+        "lat": 38.9,
+        "lon": -77.04
+      }
+    },
+    {
+      "title": "Jugendproteste gegen hohe Lebenskosten in Europa",
+      "summary": "Tausende gingen in europäischen Städten auf die Straße. Laut tagesschau demonstrierten auch in Deutschland zehntausende junge Menschen.",
+      "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "category": "Europa",
+      "art": "politik",
+      "hamburg": "Auch in Deutschland gingen bundesweit zehntausende junge Menschen auf die Straße."
+    },
+    {
+      "title": "Schuldspruch im Prozess um das Palisades-Feuer",
+      "summary": "Ein Mann wurde wegen Brandstiftung verurteilt, die zu den verheerenden Waldbränden bei Los Angeles führte.",
+      "url": "https://www.spiegel.de/ausland/kalifornien-schuldspruch-im-prozess-um-palisades-feuer-in-los-angeles-a-a13a85a1-96cd-440c-a850-5927af4d6897#ref=rss",
+      "source": "Spiegel",
+      "category": "Katastrophen & Klima",
+      "art": "katastrophe",
+      "ort": {
+        "name": "Los Angeles",
+        "lat": 34.05,
+        "lon": -118.24
+      }
+    },
+    {
+      "title": "ANC kämpft um Kontrolle der Großstädte in Südafrika",
+      "summary": "Nach dem Rückschlag bei der Wahl will die Partei nach BBC-Angaben das Machtteilungs-Modell der Landesregierung nicht überall wiederholen.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "category": "Weltpolitik",
+      "art": "politik",
+      "ort": {
+        "name": "Johannesburg",
+        "lat": -26.2,
+        "lon": 28.05
+      }
+    },
+    {
+      "title": "Ausschreitungen in Bangladesch um Rückkehr von Sheikh Hasina",
+      "summary": "Der früheren Premierministerin droht in der Heimat die Hinrichtung. Trotzdem gibt es Streit um ihre Rückkehr.",
+      "url": "https://www.nzz.ch/international/streit-um-rueckkehr-von-sheikh-hasina-fuehrt-in-bangladesh-zu-gewaltsamen-ausschreitungen-ld.10069772",
+      "source": "NZZ",
+      "category": "Weltpolitik",
+      "art": "konflikt",
+      "ort": {
+        "name": "Dhaka",
+        "lat": 23.81,
+        "lon": 90.41
+      }
+    },
+    {
+      "title": "EU gibt grünes Licht für Hamburger Hafeninvestitionen",
+      "summary": "Die EU-Kommission hat Investitionen in den Hamburger Hafen genehmigt.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHQ5UXZyN0Nkb3EzMWZjTHVnVmVTOV8wOUl2MThhbVdISkFqNnVRN0I1MDlkYW5JOTctVUVQZUs2OWt4VklrVE16SHFVbUZRR05aaEUxdDY0VTl6VkpIZWk5VS1vNzBVQ3NFN0R5cTZpeGw5LUt6RGIxaDBJbm9iTjFsZjItNXBsenpEYk4zU1k4TlRQZ0xmWmlGb2lkbFcw?oc=5",
+      "source": "Fruchthandel",
+      "category": "Hafen & Schifffahrt",
+      "art": "wirtschaft",
+      "ort": {
+        "name": "Hamburg",
+        "lat": 53.55,
+        "lon": 9.99
+      },
+      "hamburg": "Das betrifft den Hamburger Hafen direkt."
+    }
   ],
-  "regionen": {
-    "Europa": "In Berlin beraten rund 30 Staats- und Regierungschefs über die Ukraine, während Russland die Krim-Brücke-Angriffe mit Vergeltung beantworten will. In Serbien übernimmt die Studentenliste die Parlamentsspitze.",
-    "Nahost": "Die Huthi treffen ein Hochhaus in Riad, und Israel startet einen Bodeneinsatz in Zentral-Gaza.",
-    "Asien": "In Shenzhen treffen sich Trump, Xi und Putin zu einer „Friedenserklärung“. Das UN-Gericht stellt einen Völkermord Myanmars an den Rohingya fest.",
-    "Amerika": "Venezuela schließt ein Militärabkommen mit den USA."
-  }
+  "date": "2026-11-21"
 }
