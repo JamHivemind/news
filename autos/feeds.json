@@ -1,11 +1,65 @@
 {
- "fetched": "2026-11-21T05:17:58.614Z",
+ "fetched": "2026-11-21T05:19:28.389Z",
  "hours": 48,
  "sources": [
   {
    "name": "Auto Bild",
    "ok": true,
    "items": [
+    {
+     "title": "Subaru baut supereffizienten Boxermotor",
+     "url": "https://www.autobild.de/artikel/subaru-entwickelt-einen-neuen-boxer-verbrennungsmotor-mit-top-effizienz-28900887.html",
+     "date": "2026-11-21T05:09:00.000Z",
+     "text": "Subaru entwickelt einen Verbrennungsantrieb der nächsten Generation. Der japanische Allradspezialist mit dem Faible für Boxermotoren will ein Triebwerk mit bisher unerreichter Effizienz konstruieren."
+    },
+    {
+     "title": "Google Maps wird mit Gemini jetzt zum Reiseplaner",
+     "url": "https://www.autobild.de/artikel/google-maps-navi-app-mit-neuen-funktionen-28913133.html",
+     "date": "2026-11-21T05:03:00.000Z",
+     "text": "Google Maps wird zum digitalen Reise-Assistenten. Der KI-Chatbot Ask Maps plant komplette Trips, bucht Termine und durchsucht auf Wunsch gespeicherte Orte nach weiteren Informationen."
+    },
+    {
+     "title": "Führerschein-Reform: So viel können Fahrschüler sparen",
+     "url": "https://www.autobild.de/artikel/kostenbremse-beim-fuehrerschein-reform-ab-2027-geplant-28377843.html",
+     "date": "2026-11-21T05:02:00.000Z",
+     "text": "Der Führerschein wird immer teurer – jetzt hat der Bundesrat die Fahrschulreform verabschiedet. Mit verschlankter Fahrausbildung sollen Fahrschulen digitaler werden, das Lernpensum sinken. Wie viel kann man sparen?"
+    },
+    {
+     "title": "299 PS und VW-Technik: Diesen seltenen Sportwagen kennt fast niemand",
+     "url": "https://www.autobild.de/artikel/gebrauchtwagen-angebot-artega-gt-28916073.html",
+     "date": "2026-11-21T05:00:00.000Z",
+     "text": "299 PS, Mittelmotor und nur 154 gebaute Exemplare: Der Artega GT ist eine echte deutsche Sportwagen-Rarität. Jetzt steht ein Exemplar im AUTO BILD-Gebrauchtwagenmarkt."
+    },
+    {
+     "title": "So könnte das erste vollelektrische M4 Cabrio aussehen",
+     "url": "https://www.autobild.de/artikel/bmw-m4-cabrio-2027-illustration-6138330-28915655.html",
+     "date": "2026-11-21T05:00:00.000Z",
+     "text": "BMW bringt den nächsten M3 auch als reinen Stromer. Jetzt wurde die Cabrio-Version des kommenden vollelektrischen M4 als Erlkönig auf der Straße gesichtet. Eine AUTO BILD-Illustration zeigt, wie der sportliche Frischluft-Stromer ungetarnt aussehen könnte!"
+    },
+    {
+     "title": "Schnitzeljagd von mobile.de und Hyundai: Sieben Autos werden verlost!",
+     "url": "https://www.autobild.de/artikel/aktion-zum-black-friday-6138330-28915385.html",
+     "date": "2026-11-21T05:00:00.000Z",
+     "text": "Rabatte sind am Black Friday nichts Ungewöhnliches – die Verlosung von sieben Neuwagen schon! So läuft die Schnitzeljagd von mobile.de und Hyundai ab!"
+    },
+    {
+     "title": "Künftig gibt es sechs Opel-Modelle in der Basisversion \"Start\"",
+     "url": "https://www.autobild.de/artikel/neue-startversionen-bei-opel-6138330-28915369.html",
+     "date": "2026-11-21T05:00:00.000Z",
+     "text": "Opel führt die Einstiegslinie \"Start\" für drei weitere Modelle ein. Nach Frontera, Astra und Combo folgen nun Corsa, Mokka und Grandland in der neuen Basisvariante."
+    },
+    {
+     "title": "Klackern, Quietschen, Brummen: Wann wird es wirklich teuer?",
+     "url": "https://www.autobild.de/artikel/geraeusche-am-auto-erkennen-und-deuten-28915243.html",
+     "date": "2026-11-21T05:00:00.000Z",
+     "text": "Plötzlich klackert es beim Lenken, die Bremse quietscht oder unter dem Auto beginnt es zu poltern. Ungewöhnliche Geräusche sind oft erste Warnzeichen für Defekte. Wer jetzt genau hinhört und rechtzeitig reagiert, kann teure Folgeschäden vermeiden. Doch welches Geräusch deutet auf welches Problem hin? Wir erklären die häufigsten Ursachen."
+    },
+    {
+     "title": "Wird der ID.5 gebraucht zum Schnäppchen?",
+     "url": "https://www.autobild.de/artikel/vw-id.5-gebraucht-so-gut-ist-das-e-suv-als-gebrauchtwagen-28910769.html",
+     "date": "2026-11-21T05:00:00.000Z",
+     "text": "Der dynamisch gezeichnete VW ID.5 wird nach gut vier Jahren am Markt erschwinglich. Doch wie gut ist das E-SUV als Gebrauchter?"
+    },
     {
      "title": "Nächster Ärger um JP! Firma wird auf fast 700.000 Euro verklagt",
      "url": "https://www.autobild.de/artikel/zwei-streitfaelle-um-das-jp-gelaende-0625e94-28912659.html",
@@ -131,60 +185,6 @@
      "url": "https://www.autobild.de/artikel/deals-carwow-leasing-hyundai-ioniq-3-kompaktwagen-nur-85-euro-28839255.html",
      "date": "2026-11-20T09:56:00.000Z",
      "text": "Hyundai schickt mit dem Ioniq 3 einen neuen Kompaktstromer ins Rennen. Ein aktuelles Leasingangebot macht den Fünftürer für 85 Euro monatlich verfügbar!"
-    },
-    {
-     "title": "Diese Sorglos-SUV gibt es gebraucht ab rund 10.000 Euro",
-     "url": "https://www.autobild.de/artikel/suv-im-dauertest-14-modelle-die-richtig-abraeumten-f3505b1-22742463.html",
-     "date": "2026-11-20T09:47:00.000Z",
-     "text": "100.000 Kilometer können gnadenlos sein. Diese 14 SUV haben den AUTO BILD-Dauertest trotzdem mit der Note 1 beendet. Und das Beste: Die ersten Kandidaten gibt es gebraucht schon für rund 10.000 Euro."
-    },
-    {
-     "title": "Vollelektrisches Luxus-SUV über 30.000 Euro günstiger",
-     "url": "https://www.autobild.de/artikel/gebrauchtwagen-volvo-ex90-b419922-28915079.html",
-     "date": "2026-11-20T09:20:00.000Z",
-     "text": "Luxus, aber lautlos: Der vollelektrische Volvo EX90 wird als junger Gebrauchter gerade deutlich unter dem Bruttolistenpreis angeboten."
-    },
-    {
-     "title": "Power-Kombi mit 510 PS: M3 Touring mit hohem Wertverlust",
-     "url": "https://www.autobild.de/artikel/gebrauchtwagen-bmw-m3-859f581-28914521.html",
-     "date": "2026-11-20T08:54:00.000Z",
-     "text": "Performance-Klassiker mit viel Stauraum: Der BMW M3 Touring ist als junger Gebrauchter deutlich unter dem ursprünglichen Neupreis zu haben."
-    },
-    {
-     "title": "Wird VW vom Ansturm der Käufer auf E-Autos überrollt?",
-     "url": "https://www.autobild.de/artikel/lieferfristen-fuer-id.polo-skoda-epiq-und-cupra-raval-28913619.html",
-     "date": "2026-11-20T08:46:00.000Z",
-     "text": "Einige der Lieblinge auf dem Markt für kleine E-Autos heißen VW ID.Polo, Skoda Epic und Cupra Raval. Von Lieferzeiten bis zu über einem Jahr berichten Medien. Was sagen Volkswagen, Cupra und Skoda dazu? AUTO BILD hat nachgefragt."
-    },
-    {
-     "title": "Attraktives Leasingangebot: Topmodell des Kia Sportage",
-     "url": "https://www.autobild.de/artikel/kia-sportage-im-privaten-leasing-155c879-28915147.html",
-     "date": "2026-11-20T08:30:00.000Z",
-     "text": "Privatkunden können den Kia Sportage in der Top-Variante \"GT-Line\" zurzeit im Leasing ergattern. Alle Infos zu Preisen, Laufzeit und Co!"
-    },
-    {
-     "title": "Toyota bringt den Corolla als Pick-up",
-     "url": "https://www.autobild.de/artikel/toyota-corolla-deck-pick-up-kommt-ab-2027-28913583.html",
-     "date": "2026-11-20T05:55:00.000Z",
-     "text": "Toyota zeigt den Corolla Deck, einen kompakten Hybrid-Pick-up auf SUV-Basis. Er wird ab 2027 in Brasilien gebaut. Kommt er auch nach Deutschland?"
-    },
-    {
-     "title": "Oldschool-Feeling im neuen Subaru WRX STI Sport R!",
-     "url": "https://www.autobild.de/artikel/subaru-wrx-sti-sport-r-9a82cfb-28908917.html",
-     "date": "2026-11-20T05:40:00.000Z",
-     "text": "Nach sieben Jahren wieder mit Handschaltung: Der neue Subaru WRX STI Sport R ist ab sofort bestellbar – doch es gibt einen Haken!"
-    },
-    {
-     "title": "Diese Autobanken liefern beim Tagesgeld aktuell starke Zinsen",
-     "url": "https://www.autobild.de/artikel/autobanken-tagesgeld-vw-bank-renault-bank-direkt-und-opel-direktbank-check-28647683.html",
-     "date": "2026-11-20T05:22:00.000Z",
-     "text": "Autobanken mischen den Tagesgeldmarkt derzeit kräftig auf. Vor allem die VW Bank, Renault Bank direkt und Opel Direktbank locken Neukunden mit attraktiven Aktionszinsen und spielen im Wettbewerbsumfeld weit vorne mit."
-    },
-    {
-     "title": "Neuauflage: Das ist Twingo auf den ersten Blick",
-     "url": "https://www.autobild.de/marken-modelle/renault/twingo/",
-     "date": "2026-11-20T05:05:00.000Z",
-     "text": "Renault bringt den neuen Twingo mit vielen Anleihen an die erste Generation. Jetzt gibt's optional eine neue Dachvariante!"
     }
    ]
   },
@@ -1500,11 +1500,11 @@
      "via": "finews.ch"
     },
     {
-     "title": "GTA 6: Gratis-Monat GTA+ bringt Supersportwagen & Abo-Falle auf PS5 - PlayFront",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEZpMnE2NExiV0hGcmJwSDdUSEtPYkJ2Z2V3QmpiUU5iZ01DMGVWckdkRjRaakZNVHhkOUhzUEN5VFZic1NUTFI3Sm95UDBuSTNEU0lENEh4eHNyVERyVEh2UEl2X3Y3VUlMdmtRdDVkMW9XWWpvZTdqWTh6U0hHYWVIMmRwX0JmQ19Ma3ZR?oc=5",
-     "date": "2026-11-19T08:16:16.000Z",
-     "text": "GTA 6: Gratis-Monat GTA+ bringt Supersportwagen & Abo-Falle auf PS5 PlayFront",
-     "via": "PlayFront"
+     "title": "Das gab es noch nie: Mercedes verkauft seltenen Supersportwagen C111 - STERN.de",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTS13eEotQTB3Y1BXQ2M3clliWWhrbHVGTnpLWlJWZllxRWtvdkRDWWdTZE16cmV4YVY4VHhQTW8xNmFzNVRkaGpZWVhNbXgtZDQzNjBERUZKZm03VUlFTGhVWU55SnZackdmMDVJbzdxWk1sZkYxbk9HUU5HU01TaXN3MnhaTkNfTkpCYm9SLXBiaWxpVTZuUW9sd2s3c2s0QTJFeV9XT3Nxc0VBV2xJ?oc=5",
+     "date": "2026-11-18T17:12:00.000Z",
+     "text": "Das gab es noch nie: Mercedes verkauft seltenen Supersportwagen C111 STERN.de",
+     "via": "STERN.de"
     },
     {
      "title": "Tragischer Unfall mit Aston Martin im Starkregen - T-Online",
@@ -1521,18 +1521,11 @@
      "via": "T-Online"
     },
     {
-     "title": "Das gab es noch nie: Mercedes verkauft seltenen Supersportwagen C111 - STERN.de",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTS13eEotQTB3Y1BXQ2M3clliWWhrbHVGTnpLWlJWZllxRWtvdkRDWWdTZE16cmV4YVY4VHhQTW8xNmFzNVRkaGpZWVhNbXgtZDQzNjBERUZKZm03VUlFTGhVWU55SnZackdmMDVJbzdxWk1sZkYxbk9HUU5HU01TaXN3MnhaTkNfTkpCYm9SLXBiaWxpVTZuUW9sd2s3c2s0QTJFeV9XT3Nxc0VBV2xJ?oc=5",
-     "date": "2026-11-18T17:12:00.000Z",
-     "text": "Das gab es noch nie: Mercedes verkauft seltenen Supersportwagen C111 STERN.de",
-     "via": "STERN.de"
-    },
-    {
-     "title": "Sportwagen bis Monstertruck: Die coolsten Autos in «GTA 6» - Blick",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTG44UlVPeGIzb3lGYTBDSEhyYVBpVndmVkZCb21XdVRMT3RvWXh2WTBCZEhSM24ydnR4WmFxY0dEck5abmd4MDl4d1F5bVBXb3AwS2M3S0JBc0k3NDc5ZGxvcTlZd0pkbHd0S1Z4Rk5xVG9WeVBRVTFQaVVNWVVXTmZKZzB0ZG9oMjBGU1hsUEhTZ2hZNlNrY1hrWmlSUnVqdFUzX01TSmNrUzlN?oc=5",
-     "date": "2026-11-18T15:27:00.000Z",
-     "text": "Sportwagen bis Monstertruck: Die coolsten Autos in «GTA 6» Blick",
-     "via": "Blick"
+     "title": "GTA 6: Gratis-Monat GTA+ bringt Supersportwagen & Abo-Falle auf PS5 - PlayFront",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEZpMnE2NExiV0hGcmJwSDdUSEtPYkJ2Z2V3QmpiUU5iZ01DMGVWckdkRjRaakZNVHhkOUhzUEN5VFZic1NUTFI3Sm95UDBuSTNEU0lENEh4eHNyVERyVEh2UEl2X3Y3VUlMdmtRdDVkMW9XWWpvZTdqWTh6U0hHYWVIMmRwX0JmQ19Ma3ZR?oc=5",
+     "date": "2026-11-19T08:16:16.000Z",
+     "text": "GTA 6: Gratis-Monat GTA+ bringt Supersportwagen & Abo-Falle auf PS5 PlayFront",
+     "via": "PlayFront"
     },
     {
      "title": "Legendärer Mercedes-Sportwagen kommt unter den Hammer – „Interessenten schickten sogar Blankoschecks“ - Merkur",
@@ -1540,6 +1533,13 @@
      "date": "2026-11-18T10:58:34.000Z",
      "text": "Legendärer Mercedes-Sportwagen kommt unter den Hammer – „Interessenten schickten sogar Blankoschecks“ Merkur",
      "via": "Merkur"
+    },
+    {
+     "title": "Sportwagen bis Monstertruck: Die coolsten Autos in «GTA 6» - Blick",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTG44UlVPeGIzb3lGYTBDSEhyYVBpVndmVkZCb21XdVRMT3RvWXh2WTBCZEhSM24ydnR4WmFxY0dEck5abmd4MDl4d1F5bVBXb3AwS2M3S0JBc0k3NDc5ZGxvcTlZd0pkbHd0S1Z4Rk5xVG9WeVBRVTFQaVVNWVVXTmZKZzB0ZG9oMjBGU1hsUEhTZ2hZNlNrY1hrWmlSUnVqdFUzX01TSmNrUzlN?oc=5",
+     "date": "2026-11-18T15:27:00.000Z",
+     "text": "Sportwagen bis Monstertruck: Die coolsten Autos in «GTA 6» Blick",
+     "via": "Blick"
     },
     {
      "title": "65 Equity Partners erreicht Meilenstein von 2 Milliarden USD an Investitionsvolumen und gibt Investition in den schwedischen Hypercar-Hersteller Koenigsegg Automotive bekannt - PR Newswire",
@@ -1647,13 +1647,6 @@
      "via": "Motorsport-Total.com"
     },
     {
-     "title": "Mercedes-Benz CLK DTM AMG: Über 400.000 Euro für Buttons Benz - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXVMNHVkM0o2bVlRTG9XMXllU2tzT0lQUjZ0M2VyeXFPVkVXWUpHWlY4UzhHZlhoSGxxNWRTSUkyUm9CbFFQUTVRTXpzTlVZNXU0Q0ljWTAxWFhSekQzWDdhM2xFWTdzcll2UjFYcm4zcE1xYzJhZGIxazNNMUFSQ0tZRS15TzVBS2JKcjdYLUpvVXY0VW5jMW1hdVlieHFGb3lOX3VzQ0RDYXplektlWVpGWURNZ082?oc=5",
-     "date": "2026-11-18T07:05:35.000Z",
-     "text": "Mercedes-Benz CLK DTM AMG: Über 400.000 Euro für Buttons Benz Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
      "title": "DTM-Titelrivalen treffen in Macau wieder aufeinander: Gelingt Maro Engel Rekord? - Motorsport-Total.com",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY3FkOFVLRHRhTWNIUEo1YTUtMlhsejJYdjFRMVAxVmVoazgyNkQ4VUktTWt5RVVPbVJXV0V5YlR3ZmRJX1NGVVhSZzZuVjZROU9ZSDNEalNHRUM3eTVyeXdrSGRhTlBjSFpVVVNTNmlGc0MtZlpZR1NSc3Z2SGhYaE51SGtWLWJnNGkyRndkbTBrY3BidG51WnpRRHZfWnVzLVhRN2dtbmFScTRKX3dOdk03ZVFubnVaV1dFMXBYT1prcmVlaTdrSg?oc=5",
      "date": "2026-11-18T15:48:00.000Z",
@@ -1696,18 +1689,18 @@
      "via": "Motorsport-Total.com"
     },
     {
+     "title": "Mercedes-Benz CLK DTM AMG: Über 400.000 Euro für Buttons Benz - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXVMNHVkM0o2bVlRTG9XMXllU2tzT0lQUjZ0M2VyeXFPVkVXWUpHWlY4UzhHZlhoSGxxNWRTSUkyUm9CbFFQUTVRTXpzTlVZNXU0Q0ljWTAxWFhSekQzWDdhM2xFWTdzcll2UjFYcm4zcE1xYzJhZGIxazNNMUFSQ0tZRS15TzVBS2JKcjdYLUpvVXY0VW5jMW1hdVlieHFGb3lOX3VzQ0RDYXplektlWVpGWURNZ082?oc=5",
+     "date": "2026-11-18T07:05:35.000Z",
+     "text": "Mercedes-Benz CLK DTM AMG: Über 400.000 Euro für Buttons Benz Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
      "title": "GT-Weltcup Macau 2026: Alle Infos zum Stadtkurs-Klassiker in Asien - Motorsport-Total.com",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMWVBcXhqOElCWElxQ0JhZTVWWlRqLUdMQjRkVFNOc2pwTFFDRXNZVXlweVhLOW5RTzE1UE00M2ZHLWJhTG1qemh1czRkUzEyallNeWRlYW5pQzdfMnY1U0k2Zm1xb25iX2NkT2Nab1lBeVFDamF5N1lVYnk2czBMLW1fU2VEVTRvQ0dYWExqX0JPbVlBcndsdVNGTDRLYkYzbTZvTTdrSXRNQlFWWUhFRFM5aTdaV0hTVmVjd3hEMVE5YXloUTFzZ3FkZXJnelpCYnV5b05kMURkQQ?oc=5",
      "date": "2026-11-18T18:25:12.000Z",
      "text": "GT-Weltcup Macau 2026: Alle Infos zum Stadtkurs-Klassiker in Asien Motorsport-Total.com",
      "via": "Motorsport-Total.com"
-    },
-    {
-     "title": "Paukenschlag: Stellantis stellt alle Motorsport-Programme ein! - Nau",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzF3NFkxRFhiMFdsSDZybWg1SF9seDVXZEJFclBBU0lQc0FDVDhTb21kUnZsd1Y0eHlCOVZKRE8xRHd3X0N6RHU0T0xyZHU0dFc3d3FjWHp5NjlKN2lBa180UHJlZmNMald1OTRfNWRxeFQ1QnhXTFI1OXJRbTZjZ09VWk0yODZRX0VjYzdSQ2JyUTNOQkgxR0RvbTBlaWNGWWMtVVpoaHM?oc=5",
-     "date": "2026-11-20T10:59:04.000Z",
-     "text": "Paukenschlag: Stellantis stellt alle Motorsport-Programme ein! Nau",
-     "via": "Nau"
     },
     {
      "title": "Olympique Marseille - Le Mans im Liveticker: Alle Tore & Highlights - 20 Minuten",
@@ -1717,11 +1710,11 @@
      "via": "20 Minuten"
     },
     {
-     "title": "Im \"Monaco des Ostens\" fährt der Linzer DTM-Champion Thomas Preining um den Sieg - Oberösterreichische Nachrichten",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjI3X1Nyb1RWNE12ODNqTWxaZEI0dXJIcWhhM19veklMTVNWMTFRam1FQ0t0SVJPckpZbThZWDlQd3NDaFBONzUyTmNUR1ItTEZ2U2tDeWJ1SDN2aXBPNDR3RTg5ZFl0eUhjNUxGV01yTENpNkUtSjlpY2JGQjAzeTNsM3cyM0JrOGI3T0xIMHJCdW0yRnFkYy1yZzZhWVd5Vko3TXBfOGotbWFtdFBPak0wZXY?oc=5",
-     "date": "2026-11-19T13:00:00.000Z",
-     "text": "Im \"Monaco des Ostens\" fährt der Linzer DTM-Champion Thomas Preining um den Sieg Oberösterreichische Nachrichten",
-     "via": "Oberösterreichische Nachrichten"
+     "title": "Paukenschlag: Stellantis stellt alle Motorsport-Programme ein! - Nau",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzF3NFkxRFhiMFdsSDZybWg1SF9seDVXZEJFclBBU0lQc0FDVDhTb21kUnZsd1Y0eHlCOVZKRE8xRHd3X0N6RHU0T0xyZHU0dFc3d3FjWHp5NjlKN2lBa180UHJlZmNMald1OTRfNWRxeFQ1QnhXTFI1OXJRbTZjZ09VWk0yODZRX0VjYzdSQ2JyUTNOQkgxR0RvbTBlaWNGWWMtVVpoaHM?oc=5",
+     "date": "2026-11-20T10:59:04.000Z",
+     "text": "Paukenschlag: Stellantis stellt alle Motorsport-Programme ein! Nau",
+     "via": "Nau"
     },
     {
      "title": "How Many Shares of Southern Company, Edison International or WEC Energy Pay $1,000 a Month in Dividends? - TIKR.com",
@@ -1729,6 +1722,13 @@
      "date": "2026-11-18T08:00:00.000Z",
      "text": "How Many Shares of Southern Company, Edison International or WEC Energy Pay $1,000 a Month in Dividends? TIKR.com",
      "via": "TIKR.com"
+    },
+    {
+     "title": "Im \"Monaco des Ostens\" fährt der Linzer DTM-Champion Thomas Preining um den Sieg - Oberösterreichische Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjI3X1Nyb1RWNE12ODNqTWxaZEI0dXJIcWhhM19veklMTVNWMTFRam1FQ0t0SVJPckpZbThZWDlQd3NDaFBONzUyTmNUR1ItTEZ2U2tDeWJ1SDN2aXBPNDR3RTg5ZFl0eUhjNUxGV01yTENpNkUtSjlpY2JGQjAzeTNsM3cyM0JrOGI3T0xIMHJCdW0yRnFkYy1yZzZhWVd5Vko3TXBfOGotbWFtdFBPak0wZXY?oc=5",
+     "date": "2026-11-19T13:00:00.000Z",
+     "text": "Im \"Monaco des Ostens\" fährt der Linzer DTM-Champion Thomas Preining um den Sieg Oberösterreichische Nachrichten",
+     "via": "Oberösterreichische Nachrichten"
     }
    ]
   },
