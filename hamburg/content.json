@@ -1,23 +1,114 @@
 {
-  "date": "2026-11-20",
-  "intro": "Heute stehen Streiks und Demos an, und am Elbtower eskaliert der Streit zwischen Baufirma und Senat. Am Wochenende drohen außerdem Sperrungen auf der A7 und am Berliner Tor.",
+  "intro": "Nach den Gen-Z-Demos bleibt es in Hamburg überwiegend ruhig. Am Elbtower baut die Baufirma den Kran ab, und am Wochenende gibt es Sperrungen auf A7 und Elbtunnel.",
   "top": [
-    {"title": "Elbtower: Baufirma baut Kräne ab und setzt dem Senat ein Ultimatum", "text": "Die Firma Lupp, zuständig für den Rohbau des Elbtowers in der Hafencity, hat begonnen, zwei Kräne und Betonverteil-Technik abzubauen. Damit will sie Druck auf den Senat machen. Seit rund drei Jahren ruht der Bau; in Verhandlungskreisen sieht man das Vorgehen laut Abendblatt eher kritisch. Es ist offen, wie es mit dem Weiterbau weitergeht.", "url": "https://www.ndr.de/nachrichten/hamburg/elbtower-in-hamburg-baufirma-beginnt-mit-kran-abbau,elbtower-156.html", "source": "NDR Hamburg", "category": "Bauen & Wohnen"},
-    {"title": "IG Metall: 24-Stunden-Warnstreiks auch in Hamburg", "text": "Beschäftigte der Metall- und Elektroindustrie sollen am Freitag ihre Arbeit niederlegen, unter anderem in Hamburg und Hannover. Ein Warnstreik ist ein kurzer Streik während laufender Tarifverhandlungen. Bei der Schiffszulieferer-Firma Steen GmbH liegt die Produktion laut Abendblatt schon still.", "url": "https://www.ndr.de/nachrichten/info/ig-metall-kuendigt-24-stunden-warnstreiks-fuer-norddeutschland-an,warnstreik-468.html", "source": "NDR Hamburg", "category": "Wirtschaft & Hafen"},
-    {"title": "„Gen Z regelt“: Viele Demos und ein Schulstreik am Freitag", "text": "In Hamburg sind am Freitag zahlreiche Demonstrationen im Rahmen der Bewegung „Gen Z regelt“ geplant. Die Themen reichen von Militarisierung über Klimaschutz bis zu hohen Mieten. Mit Beeinträchtigungen in der Stadt ist zu rechnen.", "url": "https://www.ndr.de/nachrichten/hamburg/schulstreik-und-gen-z-regelt-proteste-was-in-hamburg-geplant-ist,genz-284.html", "source": "NDR Hamburg", "category": "Stadt & Politik", "tipp": "Wer am Freitag in der Innenstadt unterwegs ist, sollte etwas mehr Zeit einplanen."}
+    {
+      "title": "Gen-Z-Demos: Etwa 9.000 Menschen ziehen durch Hamburg",
+      "text": "Am Freitag gab es fünf Demonstrationen, auch einen Schulstreik. Rund 9.000 Menschen demonstrierten laut NDR friedlich. Danach kam es vereinzelt zu Ausschreitungen und Festnahmen. Die jungen Teilnehmer fordern unter anderem eine bessere Zukunft und bezahlbares Wohnen.",
+      "url": "https://www.ndr.de/nachrichten/hamburg/gen-z-regelt-nach-friedlichen-demos-in-hamburg-vereinzelt-ausschreitungen,genz-288.html",
+      "source": "NDR Hamburg",
+      "category": "Stadt & Politik"
+    },
+    {
+      "title": "Elbtower: Baufirma beginnt mit Kranabbau",
+      "text": "Die Baufirma baut den Kran auf der Baustelle ab. Damit will sie laut Berichten den Druck auf den Hamburger Senat erhöhen und hat ihm ein Ultimatum gesetzt. Wie es mit dem unfertigen Hochhaus weitergeht, ist offen.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONEtFS1JyeXV5ako0OFZHTG9OOWNIUElTSF9wM0FJNHc2Zk82cFVSdm0zaWVYeDJxekJnQm5Fc19WdS1JbXJOTkx5Tm5sTmRGRTQwdDc4WWYtTVUyLWt2cklTYjNMZXp1aU90X3V5aGZfNW9QX2hBcWp4ZDNYTk41OHh5c2NhU3NFQkItelMtTFBDY19pMkhIaURvTUxHUVlWOEdZaU1SekM?oc=5",
+      "source": "n-tv.de",
+      "category": "Bauen & Wohnen"
+    },
+    {
+      "title": "Wochenende: Elbtunnel und A7 gesperrt",
+      "text": "Der Elbtunnel ist wegen Bauarbeiten 55 Stunden gesperrt. Dazu kommt eine weitere Autobahnsperrung. Laut NDR gibt es auch Arbeiten an A215, B76 und am Berliner Tor. Wer am Wochenende durch Hamburg muss, sollte mehr Zeit einplanen.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWFNaZFVvVk0tWnF1MGRmX3Z6V1dWSTBXM2V6emdqZlN3MTBrUUdnWTU2RHh4S0tDbGxEdVJGQVl3Znh0QVRSUk1aLVpXSkd6UWxCeHpxYm9nU091bHc3ZWR1Njk5ejVfVE9ycUhRSE8ydDBfMFR5Zm9CZjlTRG5aQVJHSFdjNzdoUHA2Q1h2Ti1WcXZhR3o4T3pKRlVkSTNOZFU1eHRidE43ZnJySXh4YV9YUzZHZkhKeGUzYUg5WDJ0TmIwU0pocTBQTWRlZ3ZIbUNseE50NDFMQQ?oc=5",
+      "source": "NDR.de",
+      "category": "Verkehr",
+      "tipp": "Vor der Fahrt die aktuellen Sperrungen prüfen und Umleitungen einplanen."
+    }
   ],
   "entries": [
-    {"title": "Zweitwohnungen: Mehr Steuern geplant", "summary": "SPD und Grüne haben beantragt, dass Mieter teurer Zweitwohnungen deutlich mehr Steuern zahlen. Der Antrag geht in die kommende Bürgerschaftssitzung, beschlossen ist noch nichts.", "url": "https://www.ndr.de/nachrichten/hamburg/fuer-mieter-von-zweitwohnungen-in-hamburg-wird-es-teurer,kurzehh-4946.html", "source": "NDR Hamburg", "category": "Stadt & Politik"},
-    {"title": "Riesenfrachter wandern nach Wilhelmshaven ab", "summary": "Die Reederei Evergreen verlegt einen Liniendienst vorübergehend vom Hamburger Hafen nach Wilhelmshaven. Die Gründe seien schwerwiegend, schreibt das Abendblatt. Auch die HHLA äußert sich.", "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413718836/schock-fuer-hamburger-hafen-riesenfrachter-wandern-nach-wilhelmshaven-ab.html", "source": "Hamburger Abendblatt", "category": "Wirtschaft & Hafen"},
-    {"title": "Bildungsdemo gegen Sparmaßnahmen an Schulen", "summary": "Eltern planen für den 28. November eine Großdemo gegen Sparmaßnahmen an Hamburgs Schulen. Dafür brauchen sie noch 6.000 Euro.", "url": "https://www.abendblatt.de/hamburg/politik/article413712178/sparplaene-gefaehrden-bildung-in-hamburg-tausende-eltern-planen-grossdemo.html", "source": "Hamburger Abendblatt", "category": "Stadt & Politik"},
-    {"title": "A26-Ost: Bauarbeiten wieder gestoppt", "summary": "Nach einer erneuten Klage der Umweltverbände hat das Bundesverwaltungsgericht die Autobahngesellschaft gebeten, bis zur Entscheidung über den Eilantrag zu warten. Die Arbeiten ruhen vorerst.", "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413723005/bauarbeiten-zur-a26-ost-wieder-gestoppt-erneute-klage-der-umweltverbaende.html", "source": "Hamburger Abendblatt", "category": "Verkehr"},
-    {"title": "300 neue Wohnungen an der Winsener Straße", "summary": "Auf dem Gelände ehemaliger Aral- und Rewe-Märkte soll im Dezember der Bau beginnen.", "url": "https://www.abendblatt.de/hamburg/harburg/article413719283/300-neue-saga-wohnungen-winsener-strasse-bald-rollen-erste-bagger.html", "source": "Hamburger Abendblatt", "category": "Bauen & Wohnen"},
-    {"title": "Lyft stellt FreeNow ein und plant Robotaxis für Hamburg", "summary": "Die Taxi-App FreeNow soll unter dem Namen von Lyft aufgehen. Der US-Konzern plant zudem selbstfahrende Taxis in Hamburg.", "url": "https://www.mopo.de/hamburg/lyft-stampft-freenow-ein-und-bringt-robotaxis-nach-hamburg/5095587", "source": "Hamburger Morgenpost", "category": "Verkehr"},
-    {"title": "Höhere Bußgelder für Müllsünder", "summary": "Hamburg geht gegen illegalen Abfall vor, die Bußgelder steigen.", "url": "https://www.mopo.de/hamburg/kippen-kackhaufen-kartonberge-haertere-strafen-fuer-hamburgs-muellsuender/5095352", "source": "Hamburger Morgenpost", "category": "Stadt & Politik"},
-    {"title": "A7 und Berliner Tor am Wochenende dicht", "summary": "Die Mopo warnt vor Verkehrschaos durch Sperrungen von A7 und Berliner Tor. Auch der Elbtunnel ist laut NDR betroffen.", "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWdCZXhjQ1NkTUZ2X2FXdWxlUEJVV0dtaGczUzZCaGtUSHY5amRNbHpfcWNCLXEwS1FWbTQ1VWlVb3ZPUDhaM1JidnYxNE1YTmoybFlpRm1hUHhoaVhYOVZPbGQyYlN2TlJHZmdPdGwtSXh0SFY0cmNQWWhVdm1PTDU2YnBRZzhBbl9vdlVHTXVHZE95bTAzWQ?oc=5", "source": "Hamburger Morgenpost", "category": "Verkehr"},
-    {"title": "Einkaufszentrum Steilshoop: Ärger mit dem Brandschutz", "summary": "Für das heruntergekommene Zentrum gibt es große Pläne, nun gibt es aber Probleme mit dem Brandschutz. Der Eigentümer schweigt bislang.", "url": "https://www.mopo.de/hamburg/neuer-aerger-in-hamburgs-schlimmsten-ekz-wo-steckt-der-eigentuemer/5094749", "source": "Hamburger Morgenpost", "category": "Bauen & Wohnen"},
-    {"title": "EU-Kommission genehmigt Hamburger Hafeninvestitionen", "summary": "Die EU-Kommission gibt laut Fruchthandel grünes Licht für Investitionen im Hamburger Hafen.", "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHQ5UXZyN0Nkb3EzMWZjTHVnVmVTOV8wOUl2MThhbVdISkFqNnVRN0I1MDlkYW5JOTctVUVQZUs2OWt4VklrVE16SHFVbUZRR05aaEUxdDY0VTl6VkpIZWk5VS1vNzBVQ3NFN0R5cTZpeGw5LUt6RGIxaDBJbm9iTjFsZjItNXBsenpEYk4zU1k4TlRQZ0xmWmlGb2lkbFcw?oc=5", "source": "Fruchthandel", "category": "Wirtschaft & Hafen"},
-    {"title": "Krankenhausplan 2027 soll Hamburg als Gesundheitsmetropole stärken", "summary": "Der Senat stellt den neuen Krankenhausplan vor.", "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOLTRfZ0lrcGtCakF4STdQb3I0TTgxWHNFdTlDdzdsR2NrNzg1bzZQUFRvOUlaVzNxSXUwMjBlWFAtQ3VFVTEtNlBCZzg3UHJibG5Vb2dDa2lDLXp1TEVwSXpsSHZESE1TdXdXNDJDMmNCUzNwMEtUZzVzN3NxQ0JCc281UGw5ZldsSS1HdGxVVXpGbkdfNTA2WHhWZUp5aHZOYUpUdW4xMkdhaEhma3d6amtYNDh6SjAzVnl5ZkhySXROUkRjTHUzd2Rma2cxQnlKZTBMTWNHWGQzdEtWMjJ5QmU5elp1ZkNtRU9fa0Iwa19TYmRXYTJLUmJBTTFJRnFaSmtNMHpBcDN2clA1cnhMOUs5Yw?oc=5", "source": "hamburg.de", "category": "Stadt & Politik"},
-    {"title": "Hammerbrookstraße Süd: Radverkehr wird optimiert", "summary": "Der Radverkehrsfluss entlang der Hammerbrookstraße Süd soll verbessert werden.", "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWlEzZDgzWFNzaE9GQktDN3A1WEJfbHh6aGU3WFpITnFfR1d1dkE3V2gydUhUcVpvMHVWUGxWVnFiQlVNZm9UMzlvMlFvaUNnTjZ2dmk2N1lrNXo3eWoySERoSm93SHA4ejhWZkNTWXh2RkdySFgzSGRiaXhwMDBKSkVMdGZvV2E1c3ByMWZBRVoxeHRxcnQ1WXliTnRoRkJCUmZwUllEUG9EV1I0Q2RtZHVKQ3pIbU5NLUk4SGU0bkdZZG5KVC1yN1hDenh3TVFIM0VR?oc=5", "source": "hamburg.de", "category": "Verkehr"}
-  ]
+    {
+      "title": "Senat soll 900 Stellen abbauen und Unternehmen verkaufen",
+      "summary": "Laut Abendblatt soll Hamburgs Senat 900 Stellen streichen und öffentliche Unternehmen veräußern.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdEE0QW1TMmxKWWNSZFAxTDVSa01fU2MxUmRiT0x2aWVjRmdhZjZJenFnZFVBUmFGcmZtYmhLZE9UYTZZWGIzdVZueE9TM0pqclNRUGF1R3hXWEEtWHpfLWI4elFPVHNXeWhDMlBJenFZNkl6YXNVTk5ocmlqbXZOVlBKMUNGTXpZbUM3YjlBVEI3dW53eFpnNVhPOVROUGNBTFhidEJqc2tqOTg0MjVUSXl4cG5VWFRCbE1sQk9CVXRHV3NzeXVMTERrYldFbWV6ZXBrbGR1NU5zY1FXZFFYaA?oc=5",
+      "source": "Hamburger Abendblatt",
+      "category": "Stadt & Politik"
+    },
+    {
+      "title": "Riesenfrachter wandern nach Wilhelmshaven ab",
+      "summary": "Das Abendblatt nennt es einen Schock für den Hamburger Hafen. Große Containerschiffe laufen künftig Wilhelmshaven an.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0JGWkpaaDlvRjF6RWNBSF9kNW92aGZXaHBXUFFqNWNTb2M2Sy1xOG5TQWZ6ZFF4Zi1UNTN2aVdSeGhvX3VHaURuTTRpSS1SZGZmMU14VTF3NndmSmdDMGRfQk5xakdzdHQ0MzdDYWJ5SjZpQm1sVnI5ajdXZVE0c2FxSVJjNkFLRzhWOVZtWm5nTkIwVVVIeWxrWkZweEFfSnZiZ0ZUNWdEc1Zq?oc=5",
+      "source": "Hamburger Abendblatt",
+      "category": "Wirtschaft & Hafen"
+    },
+    {
+      "title": "EU-Kommission gibt grünes Licht für Hafeninvestitionen",
+      "summary": "Die EU hat Investitionen in den Hamburger Hafen genehmigt.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM09EM0lJSWoyYURrM283bmhfNXAwcjFWTEpWbk1mbUt3RjBlRE5ncXpVUnNlWlRxUVVDUGxUSTFoMFgyOGdpQWtlaG1nb1MwX2IzQ3VtR1pZblNNRWJUeG04NkdGNGZfeThITjlsR19tVGlHQ0QxU1VlZGctb093NHZKd0E3NktfcFJ4STNtR1Z0STg3V1lSUzlSdFphUDUtaWtzTF9GOXVZREp5d1hFYzgzYnI0QQ?oc=5",
+      "source": "Österreichische Verkehrszeitung",
+      "category": "Wirtschaft & Hafen"
+    },
+    {
+      "title": "Untersuchungsausschuss zu Großprojekten geplant",
+      "summary": "CDU und Linke wollen mit elf Abgeordneten Finanzdesaster bei Großprojekten aufklären. Auch der Bürgermeister rückt in den Blick.",
+      "url": "https://www.abendblatt.de/niedersachsen/article413736223/keine-zuege-zwischen-hamburg-und-bremen-wichtige-bahnstrecke-im-norden-gesperrt.html",
+      "source": "Hamburger Abendblatt",
+      "category": "Stadt & Politik"
+    },
+    {
+      "title": "Bombenfund im Hafen: Warn-App der Feuerwehr gab falsche Meldung",
+      "summary": "Die App kündigte eine Sprengung an, die nie geplant war. Die Feuerwehr räumt den Fehler ein. Die Fliegerbombe wurde entschärft.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeUN4R3A1eU9GazFCT3lNMUlpRFhHWW1UUW4yUUNLWHFSQjdRS29VRl85cEQwNjNYUHh4aF8zZl9MSndVaHVBSkUzZVY4UEc2QjZmMEtvTGI3WDF6bXNZNUotSjJkLU9yNkk2TFAwSFotTnhJYnVjRzE0bUdoZ3ZCWU1oQW4yXzUyWEFIZlVvWjdjZ2cyVWJqcmk5NmpCcHh1UWdMMDJkaXhhRURCd1RIR2R2ek1XRFcxaWU4dUp0WUdDRUVpUDR6SE4tQlk2MEc3cF9QVDdGNA?oc=5",
+      "source": "Hamburger Abendblatt",
+      "category": "Polizei & Sicherheit"
+    },
+    {
+      "title": "Altona will Wohnprojekt in Sülldorf abreißen",
+      "summary": "Der ASB wollte eine frühere Flüchtlingsunterkunft in günstigen Wohnraum für Azubis umbauen. Der Bezirk will das Gebäude abreißen lassen.",
+      "url": "https://www.ndr.de/nachrichten/hamburg/bezirk-altona-will-abriss-von-wohnprojekt-in-suelldorf,asb-112.html",
+      "source": "NDR Hamburg",
+      "category": "Bauen & Wohnen"
+    },
+    {
+      "title": "Hochbahn plant Azubi-Wohnheim auf dem Kiez",
+      "summary": "An der Großen Freiheit auf St. Pauli soll ein Wohnheim für Auszubildende entstehen.",
+      "url": "https://www.mopo.de/hamburg/wohnungsnot-jetzt-baut-die-hochbahn-ein-azubi-haus-mitten-auf-dem-kiez/5095329",
+      "source": "Hamburger Morgenpost",
+      "category": "Bauen & Wohnen"
+    },
+    {
+      "title": "Aldi-Filiale wird abgerissen, Neubau mit mehreren Stockwerken geplant",
+      "summary": "Der Discounter will mehr als nur einen Markt bauen.",
+      "url": "https://www.mopo.de/hamburg/aldi-filiale-wird-abgerissen-hier-plant-der-discounter-weit-mehr-als-einen-markt/5097059",
+      "source": "Hamburger Morgenpost",
+      "category": "Bauen & Wohnen"
+    },
+    {
+      "title": "Glatteis: UKE behandelt Dutzende Gestürzte",
+      "summary": "Die Stadtreinigung war früh unterwegs. Auch Grundstückseigentümer müssen jetzt streuen.",
+      "url": "https://www.mopo.de/hamburg/glatteis-in-hamburg-uke-behandelt-dutzende-nach-stuerzen/5096295",
+      "source": "Hamburger Morgenpost",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Höhere Bahn-Trassenpreise: Folgen für HVV-Fahrgäste",
+      "summary": "Was die höheren Gebühren für die Nutzung des Schienennetzes für Fahrgäste bedeuten, erklärt Nahverkehr Hamburg.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdFJmYlBHdUwzVDhoLV9FSWZ6ZWNGcTBlYUtoQjY1LV9oTmRmVXNYX2k4aS1TOGM1Z292cUhNdGl1QW5pbEQwZ2xmY19wRFFad2RuWGFwaUJ3S1k5SzNnSzE0TTJYSXRLd0MwY3lOZElXaU1BMWFWYjNZMlY2ajVNOEVia3BrU0w2bnBBM3BEQS1xQllhSlkzTk5Ca3Z6SzB1LTBidUNSNA?oc=5",
+      "source": "Nahverkehr Hamburg",
+      "category": "Verkehr"
+    },
+    {
+      "title": "Nordderby: HSV spielt am Sonntag bei Werder",
+      "summary": "Das Spiel ist ausverkauft. Nach den Bildern vom letzten Derby soll es diesmal sicherer ablaufen.",
+      "url": "https://www.ndr.de/sport/fussball/nordderby-werder-bremen-hsv-bloss-nicht-wieder-randale,nordderby-224.html",
+      "source": "NDR Hamburg",
+      "category": "Sport"
+    },
+    {
+      "title": "St.-Pauli-Präsident wünscht neue Stadionflächen",
+      "summary": "Oke Göttlich fordert mehr Stadionflächen in Hamburg, auch gemeinsam mit dem HSV.",
+      "url": "https://www.mopo.de/sport/fc-st-pauli/st-pauli-boss-denkt-an-neue-stadien-in-hamburg-auch-mit-dem-hsv-verband-reagiert/5094770",
+      "source": "Hamburger Morgenpost",
+      "category": "Sport"
+    }
+  ],
+  "date": "2026-11-21"
 }
