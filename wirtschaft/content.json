@@ -1,121 +1,100 @@
 {
-  "intro": "Die Metall-Tarifrunde eskaliert mit Warnstreiks, und an den Börsen rollt eine Verkaufswelle. Dazu kommen steigende Energiepreise für Haushalte.",
-  "top": [
-    {
-      "title": "IG Metall legt mit ganztägigen Warnstreiks nach",
-      "text": "Mehr als 100 Betriebe waren beteiligt, darunter BMW, Audi und Werften im Norden. Über hunderttausend Beschäftigte legten für 24 Stunden die Arbeit nieder. Ein neues Gesprächsangebot der Arbeitgeber stoppte die Streikwelle nicht, nächste Woche geht es weiter. Ein Warnstreik ist ein befristeter Streik, der Druck in laufenden Tarifverhandlungen machen soll.",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Ausverkauf an den Börsen erreicht den DAX",
-      "text": "Eine Verkaufswelle rollt durch den Technologiesektor. Der DAX folgte der Wall Street und schloss mit dem höchsten Wochenminus seit Monaten. Anleger trennen sich laut Handelsblatt von Risikowerten und gehen in sichere Anlagen. Das trifft auch Sparer mit Aktienfonds, weil viele Fonds Tech-Aktien enthalten.",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Börse & Märkte"
-    },
-    {
-      "title": "BASF gibt Übernahme von Evonik auf",
-      "text": "BASF nimmt Abstand von einer Übernahme des Konkurrenten Evonik. Evonik hatte zuvor zwei unverbindliche Kaufangebote zurückgewiesen. Damit bleiben beide Chemiekonzerne eigenständig.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Unternehmen"
-    }
-  ],
-  "entries": [
-    {
-      "title": "Volkswagen will zwei Nullrunden",
-      "summary": "VW fordert in der Tarifrunde keine Lohnerhöhung, weniger Zulagen und Änderungen bei der Arbeitszeit. Die IG Metall wirft dem Konzern vor, den Beschäftigten „das Messer in den Rücken“ zu stoßen.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Lufthansa will rund 1000 Stellen an den Drehkreuzen streichen",
-      "summary": "Betroffen sind Frankfurt am Main und München. Wann und wie die Stellen wegfallen, ist noch offen.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-will-an-deutschen-drehkreuzen-rund-1000-stellen-abbauen-a-7be97521-a2ad-4a67-bc82-3c7453488916#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Galeria schließt drei Filialen",
-      "summary": "Betroffen sind Berlin, Köln und München. Medienberichten zufolge könnte am Ende nur etwa die Hälfte der heutigen Standorte übrig bleiben.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/galerie-schliessung-filialen-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Strom und Gas werden für Millionen Haushalte teurer",
-      "summary": "Laut Verivox erhöhen Hunderte Grundversorger die Preise. Bei Gas liegt die Erhöhung im Schnitt bei 14 Prozent. Betroffene bekommen dazu Post vom Versorger.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/verivox-analyse-strom-und-gas-wird-fuer-millionen-haushalte-teurer/100271696.html",
-      "source": "Handelsblatt",
-      "category": "Energie",
-      "tipp": "Preiserhöhungs-Schreiben prüfen und Tarife vergleichen; bei einer Erhöhung besteht ein Sonderkündigungsrecht."
-    },
-    {
-      "title": "Spritpreisdeckel soll am 1. Januar starten",
-      "summary": "Laut Handelsblatt hat die Wirtschaftsministerin ein neues Gesetz für Höchstpreise bei Benzin und Diesel erarbeitet. Sie plant dazu drei Auflagen, weil sie um die Versorgung fürchtet.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/energie-spritpreisdeckel-startet-doch-am-1.januar-aber-auflagen-geplant/100271661.html",
-      "source": "Handelsblatt",
-      "category": "Energie"
-    },
-    {
-      "title": "Heizen wird für viele zum Problem",
-      "summary": "Nach Berechnungen des Statistischen Bundesamts konnten im vergangenen Jahr rund 4,7 Millionen Menschen ihre Wohnung nicht richtig heizen. Steigende Energiepreise verschärfen das.",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/heizkosten-anstieg-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Energie"
-    },
-    {
-      "title": "Katar will 15 Milliarden Euro in Deutschland investieren",
-      "summary": "Bundeskanzler Merz hat mit dem Emir neue Investitionen vereinbart. Katar beteiligt sich schon länger an deutschen Unternehmen.",
-      "url": "https://www.spiegel.de/wirtschaft/katar-friedrich-merz-begruesst-milliarden-investitionen-in-deutschland-a-43570797-3fed-4b48-91a3-5bcd3d31d2d0#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "Telekom steigt bei KI-Start-up Mistral ein",
-      "summary": "Unternehmen und Behörden sollen so „vertrauenswürdige KI aus Europa“ bekommen. Mistral ist ein französisches Start-up.",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "US-Börsenaufsicht prüft Nvidia-Bilanzen",
-      "summary": "Nach dem Skandal um Ex-Chef Jensen Huang untersucht die SEC offenbar mutmaßliche Bilanzprobleme des Chipkonzerns. Der Konzern gerät weiter unter Druck.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Neue EU-Regeln für Kleinkredite gelten ab heute",
-      "summary": "Die neue Verbraucherkreditrichtlinie verlangt auch bei kleinen Beträgen mehr Aufwand von Anbietern, etwa bei „Heute kaufen, später zahlen“. Verbraucher sollen besser vor Verschuldung geschützt werden.",
-      "url": "https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "US-Notenbankerin Cook will höhere Zinsen",
-      "summary": "Das Zinsniveau reiche nicht, um die Inflation zu bremsen, sagt Fed-Gouverneurin Cook. Das betrifft zunächst die USA, beeinflusst aber die Zinserwartungen weltweit.",
-      "url": "https://www.handelsblatt.com/politik/international/geldpolitik-fed-gouverneurin-cook-dringt-auf-weitere-zinserhoehungen/100271670.html",
-      "source": "Handelsblatt",
-      "category": "Zinsen & Geldpolitik"
-    },
-    {
-      "title": "Bundesbank erwartet Inflationsschub nach dem Jahreswechsel",
-      "summary": "Zugleich sieht sie laut DIE ZEIT günstigere Konjunkturaussichten bei hoher Inflation.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVmRGcjdGUy13QVM0SWhGWGFpSHdEeDJvTVNfWkRfYTRHUHBCVzM4RFpmeExBbEduaS1UR2Z5cEFGVzlTU0ZyM0NpMW04WmdmT1BsbkF5a1MzZFNGczV2cHNwN2N4MmdkTi1yZDlrbEpCNWlHSkNFMUJmcGxBMk5JelRQT1FKWkJxcjFxd09YS0JKSTRyRk5IaXVtQWFvSGNZRmpUS3RmeTl4UUt2VzZTUVJ4NDVuU1BXbFJITmFqaXplUnVob2haSm1B?oc=5",
-      "source": "Allgemeine Zeitung",
-      "category": "Konjunktur"
-    },
-    {
-      "title": "Altersvorsorgedepot startet im Januar",
-      "summary": "Es gibt staatliche Zulagen von bis zu 540 Euro im Jahr. Ob es sich für jeden lohnt, klärt das Handelsblatt in einem Podcast.",
-      "url": "https://www.handelsblatt.com/audio/today/today-plus-altersvorsorgedepot-alles-was-ihr-wissen-muesst-mit-den-finanzexperten-bandt-und-nauhauser/100271651.html",
-      "source": "Handelsblatt",
-      "category": "Arbeit & Soziales"
-    }
-  ],
-  "date": "2026-11-21"
+ "date": "2026-11-22",
+ "intro": "Die Börsen stehen unter Druck, in der Metallindustrie wird weiter gestreikt, und die EU ringt um ihren Haushalt. Für Verbraucher spielen Strom, Gas und der geplante Spritpreisdeckel eine Rolle.",
+ "top": [
+  {
+   "title": "Anthropic-Börsengang trifft auf Tech-Ausverkauf",
+   "text": "Der KI-Entwickler Anthropic hat einen der größten Börsengänge der Geschichte hinter sich. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck. Die Börsenaufsicht SEC prüft laut Bericht außerdem die Bilanzierung von Nvidia, dessen Aktie weiter fällt. Wer in Tech-Aktien oder breite Fonds investiert, muss derzeit mit starken Schwankungen rechnen.",
+   "url": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
+   "source": "tagesschau Wirtschaft",
+   "category": "Börse & Märkte"
+  },
+  {
+   "title": "EU-Budget: Costa legt Kompromiss vor",
+   "text": "Ratspräsident Costa will im neuen EU-Haushalt 204 Milliarden Euro einsparen und schlägt eine neue Digitalsteuer vor. Kanzler Merz geht das nicht weit genug. Bis Jahresende soll eine Einigung stehen, die Zeit wird knapp. Das Ergebnis entscheidet mit, wie viel Deutschland künftig nach Brüssel zahlt.",
+   "url": "https://www.tagesschau.de/wirtschaft/digitales/digitalsteuer-streit-eu-deutschland-100.html",
+   "source": "tagesschau Wirtschaft",
+   "category": "Politik & Handel"
+  },
+  {
+   "title": "IG Metall Küste weitet Streiks aus",
+   "text": "Im festgefahrenen Tarifstreit der Metallindustrie sind am Montag mehr als 23.000 Beschäftigte in 19 Betrieben zu 24-Stunden-Streiks aufgerufen. Auch bei Mercedes-Benz und der Meyer Werft soll die Arbeit ruhen. Bei Volkswagen liegt zudem eine harte Forderungsliste der Firma auf dem Tisch: kein Lohnplus, mehr Arbeit, weniger Extras. Eine schnelle Einigung gilt als unwahrscheinlich.",
+   "url": "https://www.handelsblatt.com/politik/deutschland/metall-tarifkonflikt-ig-metall-kueste-24-stunden-streiks-werden-ausgeweitet/100271781.html",
+   "source": "Handelsblatt",
+   "category": "Arbeit & Soziales"
+  }
+ ],
+ "entries": [
+  {
+   "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+   "summary": "Nach fast zehn Jahren Verhandlungen sollen die Zölle auf fast alle Waren wegfallen. Davon könnte auch die Autobranche profitieren.",
+   "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+   "source": "tagesschau Wirtschaft",
+   "category": "Politik & Handel"
+  },
+  {
+   "title": "Spritpreisdeckel: Autobahntankstellen sollen ausgenommen werden",
+   "summary": "Der Deckel für Benzin und Diesel soll ab Januar gelten. Wirtschaftsministerin Reiche plant laut Bericht eine Ausnahme für Autobahntankstellen. Der Gesetzentwurf ist noch in der Abstimmung.",
+   "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+   "source": "tagesschau Wirtschaft",
+   "category": "Energie"
+  },
+  {
+   "title": "Strom und Gas dürften teurer werden",
+   "summary": "Laut Verivox reicht die beschlossene Senkung der Stromsteuer wohl nicht, um den Kostenanstieg zu stoppen. Beim Gas dürfte die Teuerung noch stärker ausfallen.",
+   "url": "https://www.spiegel.de/wirtschaft/service/strom-und-gas-verivox-rechnet-mit-steigenden-kosten-a-d6900d1e-e5cd-4399-a6ac-ca93f756be7b#ref=rss",
+   "source": "Spiegel Wirtschaft",
+   "category": "Energie",
+   "tipp": "Wer Strom oder Gas bezieht, kann mit einem Tarifvergleich prüfen, ob ein Wechsel günstiger ist."
+  },
+  {
+   "title": "Staatliches Altersvorsorgedepot verzögert sich wohl",
+   "summary": "Ab 1. Januar gibt es staatliche Förderung für das neue Depot. Das öffentlich organisierte Fondsangebot, Kern der Reform, ist laut Medienbericht aber noch nicht startklar.",
+   "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6#ref=rss",
+   "source": "Spiegel Wirtschaft",
+   "category": "Arbeit & Soziales"
+  },
+  {
+   "title": "Gutachten empfiehlt Pkw-Maut für die Autobahnfinanzierung",
+   "summary": "Ein vertrauliches Gutachten für die Bundesregierung zweifelt, dass das Geld für die Autobahnen reicht. Experten schlagen eine Pkw-Maut vor.",
+   "url": "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
+   "source": "Spiegel Wirtschaft",
+   "category": "Politik & Handel"
+  },
+  {
+   "title": "Trump will Rechenzentren im Ausland verbieten",
+   "summary": "Weil US-Bürger gegen KI-Rechenzentren protestieren, könnten Konzerne ins Ausland ausweichen. Präsident Trump droht ihnen deshalb mit einem Verbot.",
+   "url": "https://www.spiegel.de/wirtschaft/donald-trump-will-us-konzernen-verbieten-rechenzentren-im-ausland-zu-bauen-a-e4b558c4-d9b8-4e7c-95c5-5a1c3ed2388f#ref=rss",
+   "source": "Spiegel Wirtschaft",
+   "category": "Politik & Handel"
+  },
+  {
+   "title": "Katar will 15 Milliarden Euro in Deutschland investieren",
+   "summary": "Der Golfstaat kündigt im Rahmen einer Partnerschaft Milliardeninvestitionen an. Kanzler Merz begrüßt das.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWl3Y3lOV2l1Ty16NFhpaGJiNGRsWmM3VkRhQzhxN3BNR09CQ1NaM3RoYjRVX0VQZTFKbkU3SnJidzdXWF80dDFvXzhidFVXSkE1YS1YOW5hdDktVU41Y2RteW1wLVl0WlZNTC02M2VkbXNhWUdkak1HSlZSMDBOOVBTdVgzV09BWEtwQlNtdkRTLVVrMDhWblZDaHVlZEdPNzNEX25R?oc=5",
+   "source": "DIE ZEIT",
+   "category": "Konjunktur"
+  },
+  {
+   "title": "Weltgrößtes Windrad in der Lausitz in Betrieb",
+   "summary": "Die Anlage ist bis zu 365 Meter hoch. Offen ist, ob sich solche Riesenanlagen rechnen und was Anwohner dazu sagen.",
+   "url": "https://www.tagesschau.de/wirtschaft/energie/groesstes-windrad-lausitz-100.html",
+   "source": "tagesschau Wirtschaft",
+   "category": "Energie"
+  },
+  {
+   "title": "Equal Pay: Deutschland versäumt EU-Frist",
+   "summary": "Frauen arbeiten rechnerisch ab heute bis Jahresende unbezahlt. Neue Transparenzregeln der EU sollen helfen, Deutschland hat die Umsetzungsfrist aber verstreichen lassen.",
+   "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/gender-pay-gap-140.html",
+   "source": "tagesschau Wirtschaft",
+   "category": "Arbeit & Soziales"
+  },
+  {
+   "title": "Abgesagte Evonik-Übernahme: BASF-Chef steht als Verlierer da",
+   "summary": "Die FAZ sieht in BASF-Chef Kamieth den größten Verlierer der abgesagten Übernahme von Evonik.",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/uebernahme-von-evonik-abgesagt-die-pommes-pleite-der-basf-201701517.html",
+   "source": "FAZ Wirtschaft",
+   "category": "Unternehmen"
+  }
+ ]
 }
