@@ -1,6 +1,31 @@
 {
   "briefs": [
     {
+      "date": "2026-11-22",
+      "file": "2026-11-22.html",
+      "headline": "Russische Rakete schlägt in Polen ein",
+      "count": 18,
+      "sources": 7,
+      "cats": {
+        "Krieg & Konflikte": 5,
+        "Weltpolitik": 7,
+        "Katastrophen & Klima": 1,
+        "Europa": 2,
+        "Wirtschaft & Handel": 2,
+        "Hafen & Schifffahrt": 1
+      },
+      "ents": {
+        "Russland": 6,
+        "NATO": 1,
+        "Iran": 1,
+        "USA": 4,
+        "China": 1,
+        "Ukraine": 3,
+        "Israel": 1,
+        "EU": 2
+      }
+    },
+    {
       "date": "2026-11-21",
       "file": "2026-11-21.html",
       "headline": "Trump, Xi und Putin an einem Tisch in Shenzhen",
