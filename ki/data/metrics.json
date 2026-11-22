@@ -1120,41 +1120,41 @@
  "hf": [
   {
    "id": "thinkingmachines/Inkling-2-Mini",
-   "likes": 3336,
+   "likes": 3545,
    "downloads": 7944,
    "task": "image-text-to-text"
   },
   {
    "id": "unsloth/Inkling-2-Mini-GGUF",
-   "likes": 705,
+   "likes": 718,
    "downloads": 238152,
    "task": "image-text-to-text"
   },
   {
-   "id": "tencent/Hy4-flash",
-   "likes": 563,
-   "downloads": 5588,
-   "task": "image-text-to-text"
-  },
-  {
    "id": "inworld/voice-isolator",
-   "likes": 540,
+   "likes": 553,
    "downloads": 0,
    "task": "audio-to-audio"
   },
   {
+   "id": "tencent/Hy4-flash",
+   "likes": 568,
+   "downloads": 5588,
+   "task": "image-text-to-text"
+  },
+  {
    "id": "apple/FastFrames-L",
-   "likes": 501,
+   "likes": 502,
    "downloads": 0,
    "task": "text-to-video"
   },
   {
    "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 946,
+   "likes": 949,
    "downloads": 2383,
    "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-22T08:25:53.180Z",
+ "updated": "2026-11-22T09:57:48.977Z",
  "updatedDay": "2026-11-06"
 }
