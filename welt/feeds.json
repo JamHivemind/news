@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-22T03:49:43.886Z",
+ "fetched": "2026-11-22T05:17:32.168Z",
  "hours": 48,
  "sources": [
   {
@@ -193,6 +193,12 @@
    "ok": true,
    "items": [
     {
+     "title": "USA unter Donald Trump: Gouverneur von Washington kritisiert ICE-Festnahmen",
+     "url": "https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss",
+     "date": "2026-11-22T04:41:00.000Z",
+     "text": "Ein Einsatz am Flughafen Seattle wirft die Frage auf, wie weit die Einwanderungsbehörde ICE bei ihren Festnahmen gehen darf. Politik, Airline und Gewerkschaften reagieren besorgt bis empört auf den Zugriff."
+    },
+    {
      "title": "USA: Donald Trump hofft auf Erkenntnisse nach Hackerangriff auf FBI",
      "url": "https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d#ref=rss",
      "date": "2026-11-22T01:02:00.000Z",
@@ -305,12 +311,6 @@
      "url": "https://www.spiegel.de/ausland/andy-burnham-und-die-eu-in-bruessel-wird-wieder-die-britische-nationalhymne-gespielt-a-dfbc3de7-7dc2-4399-a513-1d48999eea85#ref=rss",
      "date": "2026-11-20T18:27:00.000Z",
      "text": "Zehn Jahre nach dem Brexit-Referendum gehen die Briten unter Premier Burnham und die EU aufeinander zu – in kleinen Schritten. Vor allem Studierende dürfen sich freuen."
-    },
-    {
-     "title": "Dänemark macht russischen Geheimdienst für Mordkomplott gegen ukrainischen Rapper verantwortlich",
-     "url": "https://www.spiegel.de/ausland/daenemark-macht-russischen-geheimdienst-fuer-mordkomplott-gegen-ukrainischen-rapper-verantwortlich-a-38bdaa9f-19c3-448d-8c67-7493d0a798f8#ref=rss",
-     "date": "2026-11-20T17:51:00.000Z",
-     "text": "Dänemark weist den russischen Verteidigungsattaché aus und will Schengen-Visa an Russen einschränken. Grund ist ein mutmaßliches Mordkomplott russischer Geheimdienste gegen einen Musiker aus der Ukraine."
     }
    ]
   },
@@ -320,16 +320,16 @@
    "ok": true,
    "items": [
     {
-     "title": "COP31 in Antalya: COP31-Präsident: Einigung auf Weltklimakonferenz in Reichweite",
+     "title": "Klimagipfel in Antalya: Neuer Entwurf für COP31-Erklärung erwähnt Öl, Kohle und Gas nicht explizit",
      "url": "https://www.sueddeutsche.de/politik/klimapolitik-cop31-antalya-klima-klimawandel-klimaschutz-umwelt-umweltschutz-klimagipfel-li.3584161",
      "date": "2026-11-22T02:34:26.000Z",
-     "text": "Der Klimagipfel mit fast 200 Delegationen im türkischen Antalya sollte eigentlich längst vorbei sein. Es hakt an der gemeinsamen Abschlusserklärung – jetzt liegt ein neuer Entwurf vor."
+     "text": "Der Klimagipfel im türkischen Antalya sollte eigentlich längst vorbei sein, doch es hakte an der gemeinsamen Abschlusserklärung. Nun gibt es einen neuen Entwurf – Öl, Kohle und Gas werden darin weiterhin nicht erwähnt."
     },
     {
      "title": "Krieg in der Ukraine: Drohnen greifen Schiff im Finnischen Meerbusen an",
      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohnen-frachter-finnland-li.3571967",
      "date": "2026-11-21T19:20:00.000Z",
-     "text": "Finnland schränkt den Luft- und Seeverkehr wegen des brennenden Frachters vorsorglich ein. Nach Aussagen von Selenskij habe die Krim-Brücke keine Zukunft."
+     "text": "Finnland schränkt den Luft- und Seeverkehr wegen des brennenden Frachters vorsorglich ein."
     },
     {
      "title": "Europa: EU-Ratspräsident Costa will Tech-Konzerne zur Kasse bitten",
@@ -488,12 +488,6 @@
      "text": "Der britische Premier Burnham lässt keinen Zweifel aufkommen: Er will London wieder näher an die EU führen, denn er hält den Brexit für gescheitert. Wie weit kann er dabei gehen? Ein EU-UK-Gipfel soll den Prozess beschleunigen. Von C. Prössl."
     },
     {
-     "title": "Pistorius will Militärpakt mit Polen ausbauen",
-     "url": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html",
-     "date": "2026-11-20T03:53:04.000Z",
-     "text": "Patriot-Systeme und Eurofighter-Kampfjets sowie eine Zusammenarbeit der Armeen beim Aufbau von gemeinsamen Verteidigungsstellungen: Polen und Deutschland arbeiten bereits militärisch zusammen. Das möchten beide Länder nun intensivieren."
-    },
-    {
      "title": "Erdbeben erschüttert Perus Andenregion",
      "url": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
      "date": "2026-11-21T09:51:28.000Z",
@@ -543,153 +537,159 @@
    "ok": true,
    "items": [
     {
-     "title": "Weltklimakonferenz - Präsidentschaft legt neuen Entwurf für Abschlusserklärung vor",
-     "url": "https://www.deutschlandfunk.de/praesidentschaft-legt-neuen-entwurf-fuer-abschlusserklaerung-vor-100.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "title": "Weltklimakonferenz - COP31-Präsidentschaft legt neuen Entwurf für Abschlusserklärung vor - ohne Ausstieg aus Öl und Gas zu erwähnen",
+     "url": "https://www.deutschlandfunk.de/cop31-praesidentschaft-legt-neuen-entwurf-fuer-abschlusserklaerung-vor-ohne-ausstieg-aus-oel-und-gas-100.html",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Bei der UNO-Klimakonferenz in Antalya hat die türkisch-australische Präsidentschaft einen neuen Entwurf für eine Abschlusserklärung vorgelegt. Der türkische Konferenzleiter Kurum sagte, man glaube, dass der Textvorschlag für alle Seiten zustimmungsfähig sei."
     },
     {
      "title": "Israel - Oppositionsführer Eisenkot lädt Premier Netanjahus Likud-Partei zu Koalitionsgesprächen ein",
      "url": "https://www.deutschlandfunk.de/oppositionsfuehrer-eisenkot-laedt-premier-netanjahus-likud-partei-zu-koalitionsgespraechen-ein-100.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "In Israel hat der mit der Regierungsbildung beauftragte Oppositionsführer Eisenkot die rechtsgerichtete Likud-Partei des amtierenden Ministerpräsidenten Netanjahu zu Koalitionsgesprächen eingeladen."
     },
     {
      "title": "Zeitungsinterview - Antisemitismus-Beauftragte von Schnurbein sieht mögliche AfD-Regierung mit Sorge",
      "url": "https://www.deutschlandfunk.de/antisemitismus-beauftragte-von-schnurbein-sieht-moegliche-afd-regierung-mit-sorge-100.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Die neue Bundesbeauftragte gegen Antisemitismus, von Schnurbein, hat vor den Folgen einer AfD-Regierungsbeteiligung gewarnt."
     },
     {
      "title": "Tarifkonflikt - Metaller-Warnstreiks im Norden werden heute fortgesetzt",
      "url": "https://www.deutschlandfunk.de/metaller-warnstreiks-im-norden-werden-heute-fortgesetzt-100.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Die IG Metall setzt ihre Warnstreiks heute fort."
     },
     {
      "title": "Italien - Ex-Kapitän der \"Costa Concordia\" aus dem Gefängnis freigekommen",
      "url": "https://www.deutschlandfunk.de/ex-kapitaen-der-costa-concordia-aus-dem-gefaengnis-freigekommen-102.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Der ehemalige Kapitän des vor knapp 15 Jahren gesunkenen Kreuzfahrtschiffs \"Costa Concordia\", Francesco Schettino, ist aus dem Gefängnis freigekommen."
     },
     {
      "title": "Nach EU-Sanktionen - Chefin von russischem Onlinehändler Wildberries tritt zurück",
      "url": "https://www.deutschlandfunk.de/chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-100.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Die Gründerin des russischen Online-Versandhändlers \"Wildberries\", Tatjana Kim, ist von ihrem Amt als Unternehmenschefin zurückgetreten."
     },
     {
-     "title": "ATP Finals - Alexander Zverev erreicht nach Sieg gegen Medwedew Finale",
-     "url": "https://www.deutschlandfunk.de/alexander-zverev-erreicht-nach-sieg-gegen-medwedew-finale-108.html",
-     "date": "2026-11-22T03:37:55.000Z",
-     "text": "Der deutsche Tennisprofi Alexander Zverev hat das Endspiel der ATP Finals in Turin erreicht."
+     "title": "ATP Finals - Zverev spielt im Finale von Turin gegen Alcaraz",
+     "url": "https://www.deutschlandfunk.de/zverev-spielt-im-finale-von-turin-gegen-alcaraz-104.html",
+     "date": "2026-11-22T04:55:02.000Z",
+     "text": "Alexander Zverev hat das Finale der ATP Finals in Turin erreicht. Im Endspiel trifft er heute auf den Spanier Carlos Alcaraz."
     },
     {
      "title": "Ukraine-Krieg - London und Kiew vereinbaren Kooperation beim Bau von Drohnen",
      "url": "https://www.deutschlandfunk.de/london-und-kiew-vereinbaren-kooperation-beim-bau-von-drohnen-106.html",
-     "date": "2026-11-22T03:37:55.000Z",
-     "text": "Künftig sollen ukrainische Drohnen auch in Großbritannien produziert werden."
+     "date": "2026-11-22T04:55:02.000Z",
+     "text": "Ukrainische Drohnen sollen künftig auch in Großbritannien produziert werden."
     },
     {
-     "title": "Persischer Golf - Iran greift Bahrain an",
-     "url": "https://www.deutschlandfunk.de/iran-greift-bahrain-an-104.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "title": "Persischer Golf - Iran greift erneut Bahrain an",
+     "url": "https://www.deutschlandfunk.de/iran-greift-erneut-bahrain-an-100.html",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Der Golfstaat Bahrain ist erneut vom Iran angegriffen worden."
     },
     {
      "title": "Künftiger Generalinspekteur - Freuding will bei sexuellem Fehlverhalten in Bundeswehr hart durchgreifen",
      "url": "https://www.deutschlandfunk.de/freuding-will-bei-sexuellem-fehlverhalten-in-bundeswehr-hart-durchgreifen-100.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Der designierte Generalinspekteur der Bundeswehr, Freuding, hat ein hartes Vorgehen gegen sexuelles Fehlverhalten in der Truppe angekündigt."
     },
     {
      "title": "Mexiko - Gewalt nach Festnahme von Drogenboss \"El Chapo Isidro\"",
      "url": "https://www.deutschlandfunk.de/gewalt-nach-festnahme-von-drogenboss-el-chapo-isidro-100.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "In Mexiko ist es nach der Festnahme eines der meistgesuchten Drogenbosse zu Gewalt durch Bandenmitglieder gekommen."
+    },
+    {
+     "title": "Afrika-Reise - Bundespräsident Steinmeier besucht Elfenbeinküste, Ghana und Kenia",
+     "url": "https://www.deutschlandfunk.de/bundespraesident-steinmeier-besucht-elfenbeinkueste-ghana-und-kenia-100.html",
+     "date": "2026-11-22T04:55:02.000Z",
+     "text": "Bundespräsident Steinmeier bricht heute zu einer mehrtägigen Reise in drei Länder der afrikanischen Sub-Sahara auf."
     },
     {
      "title": "Nach Luftraumverletzungen - NATO-Generalsekretär Rutte sichert Polen erneut Unterstützung zu",
      "url": "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-sichert-polen-erneut-unterstuetzung-zu-102.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Nach den jüngsten russischen Luftraumverletzungen in Polen hat NATO-Generalsekretär Rutte dem Land erneut die Unterstützung des Verteidigungsbündnisses zugesichert. Die NATO werde jeden Zentimeter polnischen Territoriums verteidigen, sagte Rutte bei einem Besuch in Warschau."
     },
     {
      "title": "Nach IGH-Urteil - Frankreich will UNO-Sicherheitsrat zu Myanmar einberufen",
      "url": "https://www.deutschlandfunk.de/frankreich-will-uno-sicherheitsrat-zu-myanmar-einberufen-106.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Nach dem Urteil des Internationalen Gerichtshofs gegen Myanmar will Frankreich eine Sitzung des UNO-Sicherheitsrats beantragen."
     },
     {
      "title": "Medienbericht - Regierungsgutachten empfiehlt Pkw-Maut in Deutschland",
      "url": "https://www.deutschlandfunk.de/regierungsgutachten-empfiehlt-pkw-maut-in-deutschland-106.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Ein im Auftrag der Bundesregierung erstelltes Gutachten empfiehlt offenbar die Einführung einer Pkw-Maut für deutsche Autobahnen."
     },
     {
      "title": "EU-Haushalt - Merz gegen Kompromissvorschlag von Ratspräsident Costa",
      "url": "https://www.deutschlandfunk.de/merz-gegen-kompromissvorschlag-von-ratspraesident-costa-102.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Bundeskanzler Merz hat das Kompromissangebot zum langfristigen Haushalt der Europäischen Union abgelehnt. Der jetzt vorliegende Vorschlag von Ratspräsident Costa sei ein erster Schritt, das Volumen sei aber weiterhin zu hoch, sagte Merz in Berlin."
     },
     {
      "title": "Weltwirtschaft - EU und Indonesien besiegeln umfassendes Handelsabkommen",
      "url": "https://www.deutschlandfunk.de/eu-und-indonesien-besiegeln-umfassendes-handelsabkommen-108.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Die Europäische Union und Indonesien haben ein Handels- und ein Investitionsschutz-Abkommen unterzeichnet. Nach Angaben der EU-Kommission sollen die Einfuhrzölle auf mehr als 90 Prozent der Produkte abgeschafft werden."
     },
     {
      "title": "Ukraine-Krieg - Schiff im Finnischen Meerbusen angegriffen",
      "url": "https://www.deutschlandfunk.de/schiff-im-finnischen-meerbusen-angegriffen-108.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Im Finnischen Meerbusen ist ein Frachtschiff von Drohnen angegriffen worden und in Brand geraten."
     },
     {
      "title": "Ukraine-Krieg - Selenskyj: \"Krimbrücke wird nicht stehen bleiben\"",
      "url": "https://www.deutschlandfunk.de/selenskyj-krimbruecke-wird-nicht-stehen-bleiben-110.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Der ukrainische Präsident Selenskyj hat Russland mit einer vollständigen Zerstörung der Krimbrücke gedroht."
     },
     {
      "title": "Inkofen - Gestorbener Freie-Wähler-Vorsitzender Aiwanger beigesetzt",
      "url": "https://www.deutschlandfunk.de/gestorbener-freie-waehler-vorsitzender-aiwanger-beigesetzt-108.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Der gestorbene Vorsitzende der Partei Freie Wähler, Aiwanger, ist beigesetzt worden."
     },
     {
      "title": "Fußball-Bundesliga - Dortmund übernimmt mit Sieg in Gladbach Tabellenführung",
      "url": "https://www.deutschlandfunk.de/dortmund-uebernimmt-mit-sieg-in-gladbach-tabellenfuehrung-104.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "In der Fußball-Bundesliga gab es folgende Ergebnisse:"
     },
     {
      "title": "Italienische Luxusmarke - Unternehmer Paolo Bulgari mit 89 Jahren gestorben",
      "url": "https://www.deutschlandfunk.de/unternehmer-paolo-bulgari-mit-89-jahren-gestorben-104.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Der italienische Uhren- und Schmuckunternehmer Paolo Bulgari ist tot."
     },
     {
      "title": "Impftermine - Hausarztpraxen klagen über zu wenig Grippe-Impfstoff",
      "url": "https://www.deutschlandfunk.de/hausarztpraxen-klagen-ueber-zu-wenig-grippe-impfstoff-106.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "In vielen Hausarztpraxen fehlt derzeit Grippe-Impfstoff. Manche Impftermine müssen deshalb verschoben werden – mitten in der wichtigsten Impfzeit."
     },
     {
      "title": "Video-Plattform - Nach TikTok-Widerspruch: Kulturstaatsminister Weimer fordert Ende der Blockadepolitik",
      "url": "https://www.deutschlandfunk.de/nach-tiktok-widerspruch-kulturstaatsminister-weimer-fordert-ende-der-blockadepolitik-112.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Kulturstaatsminister Weimer hat die Reaktion der Video-Plattform Tiktok auf seinen Vorstoß kritisiert, das Europageschäft des Unternehmens an europäische Eigentümer zu überführen."
     },
     {
      "title": "Deutsche Geschichte - Unternehmer und Kunstsammler Friedrich Christian Flick im Alter von 82 Jahren gestorben",
      "url": "https://www.deutschlandfunk.de/unternehmer-und-kunstsammler-friedrich-christian-flick-im-alter-von-82-jahren-gestorben-110.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Der Kunstsammler und Unternehmer Friedrich Christian Flick ist tot."
     },
     {
      "title": "Wetter - Nachts im Nordosten Schauer, +3 bis -5 Grad",
      "url": "https://www.deutschlandfunk.de/nachts-im-nordosten-schauer-3-bis-5-grad-118.html",
-     "date": "2026-11-22T03:37:55.000Z",
+     "date": "2026-11-22T04:55:02.000Z",
      "text": "Das Wetter: In der Nacht in der Nordosthälfte wechselnd bewölkt und Regenschauer, teils mit Graupel und Schnee. Sonst weniger Wolken und niederschlagsfrei. Gebietsweise Nebel oder Hochnebel. +3 bis -5 Grad. Am Tag verbreitet wechselnd bewölkt mit einzelnen Schauern. Im Südwesten aufkommende, länger anhaltende Niederschläge. Temperaturen 3 bis 7 Grad."
     }
    ]
@@ -902,13 +902,6 @@
      "via": "Reuters"
     },
     {
-     "title": "The snowballing selloff in global markets - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5",
-     "date": "2026-11-20T15:13:44.000Z",
-     "text": "The snowballing selloff in global markets Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028 - Reuters",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTB2Umxadk1oSHFUQVEwemljX2I5NHRjWFlPM3dsMG5lcG5MR2RRclBjWXR3WE5zLXg3RVh5d2NiWGhMREUtd0ZWNEZEX1ZGVV9rcmN5Qkc2QmZfZUVPdVFsRm4tY01qOEdNOWtQdEtWMll5MmJMU1p6V0MwWkx4M005d1dHS01XaU14d1lYRzBNVUtZVHVMMUJSanFDbjA1eC1zNERFdjY0WW5uT2EzRDlYbw?oc=5",
      "date": "2026-11-21T14:29:16.000Z",
@@ -916,10 +909,10 @@
      "via": "Reuters"
     },
     {
-     "title": "Why China is unwilling to be the world's next climate leader - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjV0OVRhWXlWUnlTSnFPZjlkRjUwdWV1bXpUbUVnTmhMa1pNTVpHVDNHMFhsaXVBeHVKV1o5eEJqejU2TDZ0YktveWEtNnV4NldXQVUxSkhwTlFjTlc2R01qNTM1dE1sY2F5NlpjVVVNcWpUWVRQVmFBZWFaWVlIYUtaVXBaSXNkUTZ0dFM5aGpzNE1XUmtFNVFIam0wV3FRUUtlMkJwV1QwNE0?oc=5",
-     "date": "2026-11-20T13:20:00.000Z",
-     "text": "Why China is unwilling to be the world's next climate leader Reuters",
+     "title": "The snowballing selloff in global markets - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5",
+     "date": "2026-11-20T15:13:44.000Z",
+     "text": "The snowballing selloff in global markets Reuters",
      "via": "Reuters"
     },
     {
@@ -927,6 +920,13 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTlEeUw0SVZ1dkFoRVM0WEdFTktVUVFoQ2VvVlV5YmpQaEdwVGFWWmVnSmdmRU1pdXBRZng0MTV6ZVhOZjd0b2o5MlVicFh4Q3RkWEFMLWl4QzRtSHFJZ0VUbDA0YzcyOTNlZF9EQzhtUjA5R1gxXzBYS05qM0ZISGlBdnZCdXpFdjZhc2lCZ3dGdHlEU3JlOXNVdnFlVlVqWC1qWHdwNA?oc=5",
      "date": "2026-11-20T22:13:39.000Z",
      "text": "As Trump courts Xi and Putin, middle powers make their own moves Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Why China is unwilling to be the world's next climate leader - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjV0OVRhWXlWUnlTSnFPZjlkRjUwdWV1bXpUbUVnTmhMa1pNTVpHVDNHMFhsaXVBeHVKV1o5eEJqejU2TDZ0YktveWEtNnV4NldXQVUxSkhwTlFjTlc2R01qNTM1dE1sY2F5NlpjVVVNcWpUWVRQVmFBZWFaWVlIYUtaVXBaSXNkUTZ0dFM5aGpzNE1XUmtFNVFIam0wV3FRUUtlMkJwV1QwNE0?oc=5",
+     "date": "2026-11-20T13:20:00.000Z",
+     "text": "Why China is unwilling to be the world's next climate leader Reuters",
      "via": "Reuters"
     },
     {
@@ -979,10 +979,10 @@
      "via": "Reuters"
     },
     {
-     "title": "Tashima says Balogun red-card row at World Cup pushed him to run for FIFA presidency - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMkV2QkQtU1E3Z1dzNzRfdnB2bC1PMG9qZ04yV2w5UHFNRTFKdVJlYTV4VGhEUFdSb3RKbzM1ZmRCZlpPNzVCWERpcUFqZ2ItQ1M3MU96RGxCSjRwbEs3dVE4WFlhMlppeHJFWEFFOS1nT0s1bTVnT2dqZ0pUR0dZZ0M5T3pvTkZZbHhMa1QtSFpITFhkWGhWN3hUUEFDNnZpanN1N2VFUzlsckw2QzNxLWpvRGRaSldab3V1RGNDc2dvUQ?oc=5",
-     "date": "2026-11-20T05:06:00.000Z",
-     "text": "Tashima says Balogun red-card row at World Cup pushed him to run for FIFA presidency Reuters",
+     "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSnJIY2MzcUJjNVY3MzNYaGxKYUIySGw3TzNnVjltNDBIS2JPOHV4Y1BTaDRTRTRxSWp3R0M4Z3VSeU1IWmdoTGl6SU15bHh6UkZobTZ3aWpxUmU5c2dsODBPTjI3V0NQTEhjMWZBWE1fZnNQVHdYcjdONk43LVhleEdaUEs2d0hsV3dqMURGRUcyQzZnTFduVGZuTmJMU0taYzNreTJ4c2ZqeWV6b0l2X1FCQm5SQllFa09PZFRIcGJ5aGs?oc=5",
+     "date": "2026-11-20T18:07:21.000Z",
+     "text": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says Reuters",
      "via": "Reuters"
     },
     {
@@ -993,31 +993,10 @@
      "via": "Reuters"
     },
     {
-     "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSnJIY2MzcUJjNVY3MzNYaGxKYUIySGw3TzNnVjltNDBIS2JPOHV4Y1BTaDRTRTRxSWp3R0M4Z3VSeU1IWmdoTGl6SU15bHh6UkZobTZ3aWpxUmU5c2dsODBPTjI3V0NQTEhjMWZBWE1fZnNQVHdYcjdONk43LVhleEdaUEs2d0hsV3dqMURGRUcyQzZnTFduVGZuTmJMU0taYzNreTJ4c2ZqeWV6b0l2X1FCQm5SQllFa09PZFRIcGJ5aGs?oc=5",
-     "date": "2026-11-20T18:07:21.000Z",
-     "text": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says Reuters",
-     "via": "Reuters"
-    },
-    {
-     "title": "Ukraine's allies warn against Yalta-style carve-up as Trump meets 'friend' Putin - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHBhRURfZmJHUzhfMW53YjcxYUNlVE1rbFZtTmV2S2Jfcm5hYXFweEJaQlZHbmE0U2Q5Y2IzM29LUExzUUx0UlIyVTNMamhzT3NPS25rbmp3bzZuZDhId1B4YzZXYWZXRkU0clRpUm9scVV5ZXRvMnBSTUlTZlVtTDJlSnFlREg3YTZpM0xVOXl2cV9xaWZpcnF2M01zdw?oc=5",
-     "date": "2026-11-20T04:59:48.000Z",
-     "text": "Ukraine's allies warn against Yalta-style carve-up as Trump meets 'friend' Putin Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "Rare photos of uncontacted Amazon tribes - Reuters",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObU8tOUk2VEtzR2I1NWRKMUloSk41a3NmT0ZNald5Zm9uaUlPbUVvSmhXVHZqMzVTeHdoRnpMS2FMWTIyNmxVRjdWckxjZC1vVGlHSkZsQVQxSWhVbHdrMm51ZW1WLWppMFhIeHMtUTRoVXpkdmdfc3lEeU5MbkwwYXNCM3o1OVM2QVE?oc=5",
      "date": "2026-11-20T08:00:00.000Z",
      "text": "Rare photos of uncontacted Amazon tribes Reuters",
-     "via": "Reuters"
-    },
-    {
-     "title": "PODCAST: AI selloff, Trump speech, Meta's muse (Updated) - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW5FRmZabmpDZzNyS1BwaUNycnNRXzBhVHlURXQxTk9ocEZ6bnZPRGJuWGdYZTlLWlhHd2JrNU5vandDSF9ZdGpMZG0zWmxYcWJsSWlOQmVoQVZRX2dkNWVQWWUtZldyclZOTHBQZWUwaDNGOGFDNFdSSnpaaDgtTGxvVlZ2WW1WWjVORkl6OFRzNHpUZDY1WGQ2Nm5jUmVzUHh0RDlPQ2tud19CcjdmZDRRMA?oc=5",
-     "date": "2026-11-20T11:01:00.000Z",
-     "text": "PODCAST: AI selloff, Trump speech, Meta's muse (Updated) Reuters",
      "via": "Reuters"
     },
     {
@@ -1039,6 +1018,20 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS081RnFoQThmaGUzazJPYlFhbzVtckF5aUZqVThSS2xrX0JvWnAzbVhKVVFqMXZ2T2I1WFlSXzdua3M5b1B3aUwyWXJqSW9HS2FMQTZOM3lrVGdZRloteExRY01HT21fcXZfNnotZjdlZHVGcEpwbmw1c3pIVGMyWFB1MFdaNXhhbFJuTF9XVnItS1JnbzJVdFNvZEhuX3RleDVGbXJha1BZNVk?oc=5",
      "date": "2026-11-20T11:48:55.000Z",
      "text": "India's forex reserves fall to over three month low of $705 billion Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Croatians rally in Zagreb demanding justice over psychiatric hospital death - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUtfVnQwVjJrRWVQaTc4UzFEUjdQMmQtS1JOaTNsUmtjNE9FcEN4MFRCa3VXSi16X2thbk16VFNOTElxUkExdDBiVmFsSFNyS1FTMFhhZ3RoM1hVM3ZhY011aHR5a1F3YTRZNkxsR0ViQTFxOF9MRzhtbVA2TUs3azBBRlBCcENPVWtMZUtsdGJ6dFRWSVVhenZNSHd5M2VmWDJ4MDdGQXNDR0tpcWRwQ2lTb2g?oc=5",
+     "date": "2026-11-21T19:52:09.000Z",
+     "text": "Croatians rally in Zagreb demanding justice over psychiatric hospital death Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028 - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTFDeHY0QlBhU2dnNndMa1FhdmhtUDV2eF9HYmhHU0tzRlFoM0U1a0ZuaE8zbGduLUhoTU0tWWExeDkyOWYwRi1aXzVOd0NhRGszMlU5MWFyVmdLSUJOREtvaXNYY1p3YnRIaDR5X0RwZGVPTG1GeW5wZm1Hd0dlM0RoVDVBQlZ4WFV1bU9mM3YzcDJISEpEZkI5ekdsMy1xb1BkZ0JUYw?oc=5",
+     "date": "2026-11-21T05:36:00.000Z",
+     "text": "States agree to UN talks aiming to regulate 'killer robots' by 2028 Reuters",
      "via": "Reuters"
     },
     {
@@ -1074,6 +1067,13 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXNZR3FpaDUtaWU0bWhUaUVfR1R3UVU4MzVTZ3YtRmZUUmxxVmp0ZDBYd1NEWjNtbnFqOTFDcURjTHRRWjk1RC1wQXI4Q1czYkVoUmhWRkFUajc3V2M5S0tVdFRMMVVmTi1Tb3hiRTBFLVlnQ0FnUVN3dk5uUi1lUXBnNXZCZlg0VXBtVWxjQkNKSENuU0VWczhiWVQ5d2tzWDBhZDYwSGRqTEFXcndacXR3?oc=5",
      "date": "2026-11-20T12:33:43.000Z",
      "text": "Spanish police used excessive force during general strike, Amnesty says Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "NATO will defend every inch of Polish territory, Rutte says - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5",
+     "date": "2026-11-21T19:08:10.000Z",
+     "text": "NATO will defend every inch of Polish territory, Rutte says Reuters",
      "via": "Reuters"
     }
    ]
@@ -1341,6 +1341,60 @@
    "ok": true,
    "items": [
     {
+     "title": "Trump, Xi und Putin inszenieren sich am Gipfel in Shenzhen als die neuen Herrscher der Welt. Doch stimmt das? Wer regiert die Welt wirklich?",
+     "url": "https://www.nzz.ch/international/trump-xi-und-putin-inszenieren-sich-am-gipfel-in-shenzhen-als-die-neuen-herrscher-der-welt-doch-stimmt-das-wer-regiert-die-welt-wirklich-ld.10069520",
+     "date": "2026-11-22T04:30:00.000Z",
+     "text": "Als in Jalta kurz vor dem Ende des Zweiten Weltkrieges Stalin, Roosevelt und Churchill Europa in Einflusszonen teilten, regierten sie in jenem Moment die Welt. Heute ist die Sache komplizierter."
+    },
+    {
+     "title": "Andy Burnham will wieder in die EU – Was wohl die Brexit-Befürworter dazu sagen?",
+     "url": "https://www.nzz.ch/international/andy-burnham-will-wieder-in-die-eu-was-wohl-die-brexit-befuerworter-dazu-sagen-ld.10069519",
+     "date": "2026-11-22T04:30:00.000Z",
+     "text": "Der britische Regierungschef Andy Burnham will Grossbritannien wieder Richtung EU führen. Der wohl berühmteste Brexiteer, Boris Johnson, schäumt vor Wut. Allein, wen kümmert’s? Die Befürworter des Brexits von damals spielen heute kaum mehr eine Rolle."
+    },
+    {
+     "title": "Die Frau, die Johannesburg aus dem Dreck ziehen wollte",
+     "url": "https://www.nzz.ch/international/die-frau-die-johannesburg-aus-dem-dreck-ziehen-wollte-ld.10067366",
+     "date": "2026-11-22T04:30:00.000Z",
+     "text": "Helen Zille hatte ein grosses Ziel: Bürgermeisterin werden und ihre Geburtsstadt vor Verfall und Korruption retten. Das Volk setzte Hoffnung in sie und verhalf ihrer Partei zum Wahlsieg. Doch nun wird sie wohl ausgebootet."
+    },
+    {
+     "title": "Die Millionenerbin, die ihr Geld verschenkte und in Gedanken mit der Jugend auf die Strasse geht",
+     "url": "https://www.nzz.ch/international/die-millionenerbin-die-ihr-geld-verschenkte-und-in-gedanken-mit-der-jugend-auf-die-strasse-geht-ld.10067362",
+     "date": "2026-11-22T04:30:00.000Z",
+     "text": "Die Wienerin Marlene Engelhorn setzt sich für eine höhere Besteuerung der Superreichen ein. Damit trifft sie den Ton der aktuellen Jugendproteste. Doch beim Thema Gewalt bleibt sie schwammig."
+    },
+    {
+     "title": "Darüber spricht Rosenheim: Ein Trampeltier sorgt für Aufregung",
+     "url": "https://www.nzz.ch/international/darueber-spricht-rosenheim-ein-trampeltier-sorgt-fuer-aufregung-ld.10066636",
+     "date": "2026-11-22T04:30:00.000Z",
+     "text": "Ein Linienbus stösst mit einem Kamel zusammen. Das klingt nach Abu Dhabi, passierte aber «out of» Rosenheim. Das Tier war aus einem Zirkus ausgebüxt."
+    },
+    {
+     "title": "LIVE-TICKER - Die USA nach den Midterms: Trotz harscher Kritik bezeichnet Trump Putin erneut als «Freund»",
+     "url": "https://www.nzz.ch/international/die-usa-nach-den-midterms-trotz-harscher-kritik-bezeichnet-trump-putin-erneut-als-freund-ld.10056111",
+     "date": "2026-11-22T02:57:43.000Z",
+     "text": "Die neuesten Meldungen aus den USA während der zweiten Amtszeit von Präsident Donald Trump."
+    },
+    {
+     "title": "LIVE-TICKER - Iran-Krieg: Bahrain gerät erneut unter iranischen Beschuss",
+     "url": "https://www.nzz.ch/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss-ld.10021246",
+     "date": "2026-11-22T02:55:27.000Z",
+     "text": "Die USA und Iran befinden sich seit Februar 2026 im Kriegszustand. Zwar haben die beiden Länder eine Waffenruhe vereinbart, doch Donald Trump hat diese Anfang Juli für beendet erklärt. Die neuesten Entwicklungen im Ticker."
+    },
+    {
+     "title": "LIVE-TICKER - Krieg in der Ukraine: Drohnen greifen Schiff im Finnischen Meerbusen an",
+     "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-zugverkehr-ueber-krim-bruecke-nach-erneutem-angriff-eingestellt-ld.10021245",
+     "date": "2026-11-20T11:11:04.000Z",
+     "text": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick."
+    },
+    {
+     "title": "Der Rechtspopulist Santiago Abascal ist plötzlich salonfähig. Damit kippt wohl die letzte Bastion der Sozialdemokraten in Europa",
+     "url": "https://www.nzz.ch/international/der-rechtspopulist-santiago-abascal-ist-ploetzlich-salonfaehig-damit-kippt-wohl-die-letzte-bastion-der-sozialdemokraten-in-europa-ld.10063061",
+     "date": "2026-11-22T04:30:00.000Z",
+     "text": "Die Ultrarechten in Spanien hatten bisher einen schweren Stand. Die liberale Migrationspolitik von Pedro Sánchez dürfte der Vox-Partei bei den vorgezogenen Wahlen Ende Monat nun grosse Zuwächse bringen."
+    },
+    {
      "title": "Ein russischer Frachter wird im Finnischen Meerbusen von mutmasslich ukrainischen Drohnen getroffen",
      "url": "https://www.nzz.ch/international/russischer-frachter-im-finnischen-meerbusen-von-drohnen-attackiert-ld.10070933",
      "date": "2026-11-21T14:04:30.000Z",
@@ -1371,24 +1425,6 @@
      "text": "Kaum eine Partei in Frankreich gibt sich so europabegeistert wie die Grünen. Deren Chefin Marine Tondelier will trotzdem mit dem linksradikalen Souveränisten Mélenchon koalieren. Sie hofft auf Parlamentsmandate – und auf mögliche Ministerposten."
     },
     {
-     "title": "LIVE-TICKER - Die USA nach den Midterms: Trotz harscher Kritik bezeichnet Trump Putin erneut als «Freund»",
-     "url": "https://www.nzz.ch/international/die-usa-nach-den-midterms-trotz-harscher-kritik-bezeichnet-trump-putin-erneut-als-freund-ld.10056111",
-     "date": "2026-11-22T02:57:43.000Z",
-     "text": "Die neuesten Meldungen aus den USA während der zweiten Amtszeit von Präsident Donald Trump."
-    },
-    {
-     "title": "LIVE-TICKER - Iran-Krieg: Bahrain gerät erneut unter iranischen Beschuss",
-     "url": "https://www.nzz.ch/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss-ld.10021246",
-     "date": "2026-11-22T02:55:27.000Z",
-     "text": "Die USA und Iran befinden sich seit Februar 2026 im Kriegszustand. Zwar haben die beiden Länder eine Waffenruhe vereinbart, doch Donald Trump hat diese Anfang Juli für beendet erklärt. Die neuesten Entwicklungen im Ticker."
-    },
-    {
-     "title": "LIVE-TICKER - Krieg in der Ukraine: Drohnen greifen Schiff im Finnischen Meerbusen an",
-     "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-zugverkehr-ueber-krim-bruecke-nach-erneutem-angriff-eingestellt-ld.10021245",
-     "date": "2026-11-20T11:11:04.000Z",
-     "text": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick."
-    },
-    {
      "title": "Nayib Bukele hat El Salvadors Gangs in die Schranken verwiesen. Jetzt will er auch in Haiti aufräumen",
      "url": "https://www.nzz.ch/international/nayib-bukele-hat-el-salvadors-gangs-in-die-schranken-verwiesen-jetzt-will-er-auch-in-haiti-aufraeumen-ld.10067760",
      "date": "2026-11-21T04:30:00.000Z",
@@ -1413,16 +1449,10 @@
      "text": "Pauline Hansons Antrittsrede im Parlament vor dreissig Jahren war ein Skandal – kurz darauf wurde sie abgewählt. Heute schwingt ihre Rechtsaussenpartei One Nation in Umfragen obenaus. Wer ist die Frau?"
     },
     {
-     "title": "Jugendstreik in Europa: Die Demonstrationen haben sich aufgelöst – die Polizei zieht nun Bilanz",
-     "url": "https://www.nzz.ch/international/jugendstreik-der-nzz-live-ticker-aus-der-schweiz-frankreich-und-deutschland-ld.10066446",
-     "date": "2026-11-20T21:41:24.000Z",
-     "text": "Am 20. November haben Jugendliche in mehreren Ländern zu Protesten aufgerufen. Der Live-Ticker der NZZ aus Zürich, Basel Bern, Lausanne, Paris, Rom und Berlin zum Nachlesen."
-    },
-    {
-     "title": "«Hoffnung am Horizont der Jugend»: Burnham zelebriert die Annäherung an die EU – und verschweigt die strittigen Punkte",
-     "url": "https://www.nzz.ch/international/gipfel-in-bruessel-eu-und-grossbritannien-ruecken-naeher-zusammen-ld.10070116",
-     "date": "2026-11-20T18:45:33.000Z",
-     "text": "Der britische Premierminister will die Brexit-Verwerfungen glätten und sieht sich von der Bevölkerung getragen. Um Widerspruch zu hören, musste er nicht weit reisen: Auch Nigel Farage war nach Brüssel gepilgert."
+     "title": "KOMMENTAR - Trägt die Nato Schuld am Ukraine-Krieg? Die Mär von Russlands Sicherheitsinteressen",
+     "url": "https://www.nzz.ch/meinung/putin-und-die-ukraine-die-maer-von-russlands-sicherheitsinteressen-ld.10068538",
+     "date": "2026-11-21T04:35:00.000Z",
+     "text": "Moskau stellt sich als Opfer dar und fordert, dass sich das westliche Bündnis darum aus Osteuropa zurückzieht. Ein Blick in die Geschichte entlarvt dies als Lügenkonstrukt. Dem Kreml geht es um etwas ganz anderes."
     },
     {
      "title": "Zwei russische Marschflugkörper schlagen in Polen ein – die Regierung glaubt nicht an ein Versehen",
@@ -1437,46 +1467,22 @@
      "text": "Die Opposition will von der breiten Mobilisierung gegen die Regierung profitieren. Doch sie kann nicht verbergen, dass sie in vielen wesentlichen Fragen uneins ist."
     },
     {
-     "title": "BILDSTRECKE - Tausende Junge protestieren in Europa – die Bilder",
-     "url": "https://www.nzz.ch/international/tausende-junge-protestieren-in-europa-die-bilder-ld.10070000",
-     "date": "2026-11-20T15:27:19.000Z",
-     "text": "Ob gegen Wehrpflicht in Deutschland, für bessere Bildung in Frankreich oder gegen Sparbudgets in Italien: Tausende junge Menschen haben am Freitag in europäischen Grossstädten ihre Stimme erhoben."
-    },
-    {
      "title": "Streit um Rückkehr von Sheikh Hasina führt in Bangladesh zu gewaltsamen Ausschreitungen",
      "url": "https://www.nzz.ch/international/streit-um-rueckkehr-von-sheikh-hasina-fuehrt-in-bangladesh-zu-gewaltsamen-ausschreitungen-ld.10069772",
      "date": "2026-11-20T13:57:47.000Z",
      "text": "Der früheren Premierministerin droht in der Heimat die Hinrichtung. Trotzdem will sie im Dezember aus ihrem Exil in Indien nach Bangladesh zurückkehren. Die Regierung von Tarique Rahman stellt dies vor ein Dilemma."
     },
     {
-     "title": "KOMMENTAR - Trägt die Nato Schuld am Ukraine-Krieg? Die Mär von Russlands Sicherheitsinteressen",
-     "url": "https://www.nzz.ch/meinung/putin-und-die-ukraine-die-maer-von-russlands-sicherheitsinteressen-ld.10068538",
-     "date": "2026-11-21T04:35:00.000Z",
-     "text": "Moskau stellt sich als Opfer dar und fordert, dass sich das westliche Bündnis darum aus Osteuropa zurückzieht. Ein Blick in die Geschichte entlarvt dies als Lügenkonstrukt. Dem Kreml geht es um etwas ganz anderes."
+     "title": "Der Börsengang von Anthropic löst einen massiven Absturz der Nasdaq und Angst vor einem Crash aus",
+     "url": "https://www.nzz.ch/wirtschaft/der-verpatzte-boersengang-von-anthropic-und-ein-massiver-absturz-der-nasdaq-schueren-bei-investoren-angst-vor-einem-crash-ld.10067396",
+     "date": "2026-11-22T04:30:00.000Z",
+     "text": "Der langjährige Börsenexperte Paul Jackson warnt schon lange davor, dass Anleger zu viele US-Aktien halten und somit auch hohe KI-Risiken eingehen. Wie stuft er die Börsenturbulenzen von dieser Woche ein?"
     },
     {
-     "title": "Alternative zu SpaceX: Beim Angriff auf die Krim-Brücke setzte die Ukraine auf fliegende Funktürme statt auf Starlink",
-     "url": "https://www.nzz.ch/international/angriff-auf-krim-bruecke-ukraine-setzt-auf-fliegende-funktuerme-statt-starlink-ld.10068407",
-     "date": "2026-11-20T04:30:00.000Z",
-     "text": "Der satellitengestützte Internetdienst von SpaceX ist in der Ukraine seit letzter Woche nur eingeschränkt verfügbar. Für den Angriff auf die Brücke von Kertsch kam eine andere Kommunikationstechnologie zum Einsatz. Die Ukraine will sich von Elon Musk unabhängig machen."
-    },
-    {
-     "title": "Angestossen von Kommunisten, die Putin unterstützen: wie Europas Jugendstreik am 20. November entstand",
-     "url": "https://www.nzz.ch/international/wie-putinfreundliche-kommunisten-die-jugendproteste-anstiessen-ld.10067922",
-     "date": "2026-11-20T04:30:00.000Z",
-     "text": "Europas Jugend will gegen Aufrüstung streiken. Dahinter stehen auch linksextreme Gruppen, die vom Verfassungsschutz beobachtet werden und teilweise enge Kontakte nach Russland pflegen. Selbst den SPD-nahen Falken geht das Manifest zu weit."
-    },
-    {
-     "title": "Sonia Gandhi blickt in ihren Memoiren zurück auf ein ungewöhnliches Leben – und erinnert an ein anderes, liberaleres Indien",
-     "url": "https://www.nzz.ch/international/sonia-gandhi-blickt-in-ihren-memoiren-zurueck-auf-ein-ungewoehnliches-leben-und-erinnert-an-ein-anderes-liberaleres-indien-ld.10064936",
-     "date": "2026-11-20T04:30:00.000Z",
-     "text": "Durch die Heirat in die Gandhi-Familie stieg die Tochter eines italienischen Arbeiters zur zeitweilig mächtigsten Frau Indiens auf. Die Aufregung um ihre Erinnerungen zeigt, wie gross die Faszination für die Gandhis noch immer ist in Indien."
-    },
-    {
-     "title": "INTERVIEW - Der frühere CIA-Analytiker Robert Carlin warnt vor einem fatalen Irrtum gegenüber Nordkorea: «Das Opfer erkennt den Löwen nicht, der im hohen Gras lauert»",
-     "url": "https://www.nzz.ch/international/der-fruehere-cia-analytiker-robert-carlin-warnt-vor-einem-fatalen-irrtum-gegenueber-nordkorea-das-opfer-erkennt-den-loewen-nicht-der-im-hohen-gras-lauert-ld.10060568",
-     "date": "2026-11-20T04:30:00.000Z",
-     "text": "Seit einem halben Jahrhundert beschäftigt sich Robert Carlin mit Nordkorea. Im Interview erklärt er, warum er eine Eskalation auf der koreanischen Halbinsel befürchtet und welcher Technologietransfer aus Russland die grösste Gefahr birgt."
+     "title": "Die Grossmächte USA und Russland zögern ein Verbot von Killerrobotern hinaus",
+     "url": "https://www.nzz.ch/technologie/die-grossmaechte-usa-und-russland-zoegern-ein-verbot-von-killerrobotern-hinaus-ld.10070079",
+     "date": "2026-11-22T04:24:00.000Z",
+     "text": "Eine fünftägige Konferenz der Uno-Waffenkonvention endet in Genf mit einem vagen Kompromiss. Warum sind die Vereinten Nationen erneut gescheitert? Und wie geht es jetzt weiter?"
     },
     {
      "title": "China will seine strengen KI-Regeln zum globalen Standard machen",
@@ -1507,18 +1513,6 @@
      "url": "https://www.nzz.ch/visuals/angriffe-auf-ein-nadeloehr-russland-nimmt-kiews-bruecken-ins-visier-ld.10034659",
      "date": "2026-11-20T16:51:51.000Z",
      "text": "Seit einigen Wochen greift Russland gezielt die Dnipro-Übergänge in der Hauptstadt an, in der vergangenen Nacht erneut. Bis jetzt halten die Brücken stand, doch die Gefahr ist eine andere."
-    },
-    {
-     "title": "Zehn Jahre nach der Brexit-Abstimmung fordert Burnham eine schonungslose Bilanz",
-     "url": "https://www.nzz.ch/international/zehn-jahre-nach-der-brexit-abstimmung-fordert-burnham-eine-schonungslose-bilanz-ld.10066145",
-     "date": "2026-11-20T04:30:00.000Z",
-     "text": "In der britischen Politik war der Brexit bis vor kurzem ein Tabu. Nun stösst Premierminister Andy Burnham eine Diskussion über das Thema an und will beim Treffen mit der EU erste Weichen für eine Wiederannäherung stellen."
-    },
-    {
-     "title": "DATENANALYSE - Die Generation Z protestiert gegen steigende Preise, Sparmassnahmen und fehlenden Klimaschutz. Wie schlecht geht es den Jungen in Europa wirklich?",
-     "url": "https://www.nzz.ch/visuals/die-generation-z-protestiert-gegen-steigende-preise-sparmassnahmen-und-fehlenden-klimaschutz-wie-schlecht-geht-es-den-jungen-in-europa-wirklich-ld.10051632",
-     "date": "2026-11-20T04:30:00.000Z",
-     "text": "Die Sorgen und Forderungen der Protestierenden im Datencheck."
     }
    ]
   },
@@ -1769,10 +1763,16 @@
      "text": "On 18/11/2026, a forest fire started in South Sudan, until 19/11/2026."
     },
     {
-     "title": "Green forest fire notification in Burkina Faso",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033962",
-     "date": "2026-11-20T04:01:41.000Z",
-     "text": "On 18/11/2026, a forest fire started in Burkina Faso, until 20/11/2026."
+     "title": "Green forest fire notification in Bolivia",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033977",
+     "date": "2026-11-20T12:03:00.000Z",
+     "text": "On 18/11/2026, a forest fire started in Bolivia, until 20/11/2026."
+    },
+    {
+     "title": "Green forest fire notification in Australia",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033978",
+     "date": "2026-11-20T20:02:28.000Z",
+     "text": "On 18/11/2026, a forest fire started in Australia, until 20/11/2026."
     },
     {
      "title": "Green forest fire notification in South Sudan, Central African Republic",
@@ -1793,21 +1793,9 @@
      "text": "On 18/11/2026, a forest fire started in South Africa, until 20/11/2026."
     },
     {
-     "title": "Green forest fire notification in Bolivia",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033977",
-     "date": "2026-11-20T12:03:00.000Z",
-     "text": "On 18/11/2026, a forest fire started in Bolivia, until 20/11/2026."
-    },
-    {
-     "title": "Green forest fire notification in Australia",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033978",
-     "date": "2026-11-20T20:02:28.000Z",
-     "text": "On 18/11/2026, a forest fire started in Australia, until 20/11/2026."
-    },
-    {
      "title": "Green forest fire notification in Australia",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034001",
-     "date": "2026-11-22T00:01:40.000Z",
+     "date": "2026-11-22T04:02:41.000Z",
      "text": "On 18/11/2026, a forest fire started in Australia, until 21/11/2026."
     },
     {
@@ -1818,14 +1806,20 @@
     },
     {
      "title": "Green forest fire notification in Australia",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033991",
-     "date": "2026-11-21T08:04:56.000Z",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033979",
+     "date": "2026-11-20T20:04:59.000Z",
      "text": "On 17/11/2026, a forest fire started in Australia, until 20/11/2026."
     },
     {
+     "title": "Green forest fire notification in South Sudan, Sudan",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033996",
+     "date": "2026-11-21T20:01:40.000Z",
+     "text": "On 17/11/2026, a forest fire started in South Sudan, Sudan, until 21/11/2026."
+    },
+    {
      "title": "Green forest fire notification in Australia",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033979",
-     "date": "2026-11-20T20:04:59.000Z",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033991",
+     "date": "2026-11-21T08:04:56.000Z",
      "text": "On 17/11/2026, a forest fire started in Australia, until 20/11/2026."
     },
     {
@@ -1835,28 +1829,22 @@
      "text": "On 17/11/2026, a forest fire started in Nigeria, until 20/11/2026."
     },
     {
-     "title": "Green forest fire notification in South Sudan, Sudan",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033996",
-     "date": "2026-11-21T20:01:40.000Z",
-     "text": "On 17/11/2026, a forest fire started in South Sudan, Sudan, until 21/11/2026."
-    },
-    {
      "title": "Green forest fire notification in Botswana",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033946",
      "date": "2026-11-20T16:03:27.000Z",
      "text": "On 17/11/2026, a forest fire started in Botswana, until 18/11/2026."
     },
     {
+     "title": "Green forest fire notification in Botswana",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033972",
+     "date": "2026-11-22T04:05:53.000Z",
+     "text": "On 17/11/2026, a forest fire started in Botswana, until 19/11/2026."
+    },
+    {
      "title": "Green forest fire notification in Benin, Burkina Faso",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033965",
      "date": "2026-11-20T16:04:14.000Z",
      "text": "On 17/11/2026, a forest fire started in Benin, Burkina Faso, until 19/11/2026."
-    },
-    {
-     "title": "Green forest fire notification in Botswana",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033972",
-     "date": "2026-11-22T00:02:22.000Z",
-     "text": "On 17/11/2026, a forest fire started in Botswana, until 19/11/2026."
     },
     {
      "title": "Green flood alert in Mexico",
@@ -1883,16 +1871,22 @@
      "text": "On 16/11/2026, a forest fire started in Central African Republic, until 20/11/2026."
     },
     {
+     "title": "Green forest fire notification in Australia",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033992",
+     "date": "2026-11-21T08:07:28.000Z",
+     "text": "On 16/11/2026, a forest fire started in Australia, until 21/11/2026."
+    },
+    {
+     "title": "Green forest fire notification in Madagascar",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033981",
+     "date": "2026-11-21T12:05:55.000Z",
+     "text": "On 16/11/2026, a forest fire started in Madagascar, until 20/11/2026."
+    },
+    {
      "title": "Green forest fire notification in South Sudan, Central African Republic",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033997",
      "date": "2026-11-21T16:02:20.000Z",
      "text": "On 16/11/2026, a forest fire started in South Sudan, Central African Republic, until 21/11/2026."
-    },
-    {
-     "title": "Green forest fire notification in Benin, Burkina Faso",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033986",
-     "date": "2026-11-21T04:07:57.000Z",
-     "text": "On 16/11/2026, a forest fire started in Benin, Burkina Faso, until 20/11/2026."
     }
    ]
   },
@@ -1909,18 +1903,18 @@
      "via": "NDR.de"
     },
     {
-     "title": "A26-Ost in Hamburg: Arbeiten an der Hafenpassage ruhen erneut - verkehrsrundschau.de",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZTdKd0JFTEFzWGFJU3psSFVFdDZWY0p4TnBwQ3JWR2FLRFpqLWk3c2ttSEE2UmhQSThMTVVMV3ZEbV9BLWdWTUFQcWhNUTE1NHBENjRsa2NObFlOM1h5cnUyVVBjcngtQXlOeFRyei1KcHU2Sm1wLUk2enFJTEM4OWJfZUJkMlp1MDMxY21GUUN2bllSUEZodi00c2hmeVZTSWlfRmdMNERidFlCaXU3QURRZjNjZVpSa01SMVhyYzBmUUFNaTJHenZZWGw?oc=5",
-     "date": "2026-11-20T09:45:00.000Z",
-     "text": "A26-Ost in Hamburg: Arbeiten an der Hafenpassage ruhen erneut verkehrsrundschau.de",
-     "via": "verkehrsrundschau.de"
-    },
-    {
      "title": "Schock für Hamburger Hafen: Riesenfrachter wandern nach Wilhelmshaven ab - Hamburger Abendblatt",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUVhyNEtJMlNyQ21zbVQtSkp4eWFIT09URm42c0lVQnMxTnVZRmkwVkJFMlFpdWZuRXJLdGNXbUhZUl9weXVZNW5QRV93bnlKaG1VcE1DdndTRUgyT1BBa0tEem1wa0pLM2hqNG9UOHBRcjYtQWozX0RCVkFQNVpuTzVkejlRVENaVm1GYmxJUmQ2VWIxcWc4TkJOWDVDVXRKV0V3QnpzdTNEZ3hacGlQcWpHUW1fbWM2UzVoclhTLVZSMU8taWxETXY4TDlNY25ReFJQR2ln?oc=5",
      "date": "2026-11-19T13:35:00.000Z",
      "text": "Schock für Hamburger Hafen: Riesenfrachter wandern nach Wilhelmshaven ab Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "A26-Ost in Hamburg: Arbeiten an der Hafenpassage ruhen erneut - verkehrsrundschau.de",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZTdKd0JFTEFzWGFJU3psSFVFdDZWY0p4TnBwQ3JWR2FLRFpqLWk3c2ttSEE2UmhQSThMTVVMV3ZEbV9BLWdWTUFQcWhNUTE1NHBENjRsa2NObFlOM1h5cnUyVVBjcngtQXlOeFRyei1KcHU2Sm1wLUk2enFJTEM4OWJfZUJkMlp1MDMxY21GUUN2bllSUEZodi00c2hmeVZTSWlfRmdMNERidFlCaXU3QURRZjNjZVpSa01SMVhyYzBmUUFNaTJHenZZWGw?oc=5",
+     "date": "2026-11-20T09:45:00.000Z",
+     "text": "A26-Ost in Hamburg: Arbeiten an der Hafenpassage ruhen erneut verkehrsrundschau.de",
+     "via": "verkehrsrundschau.de"
     },
     {
      "title": "EU-Kommission gibt grünes Licht für Hamburger Hafeninvestitionen - Fruchthandel",

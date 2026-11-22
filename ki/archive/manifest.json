@@ -1,6 +1,27 @@
 {
   "briefs": [
     {
+      "date": "2026-11-22",
+      "file": "2026-11-22.html",
+      "headline": "Anthropic ist an der Börse – und die Aktie schwankt stark",
+      "count": 15,
+      "sources": 8,
+      "cats": {
+        "Business & Funding": 5,
+        "Forschung & Deep Tech": 2,
+        "Modelle & Releases": 2,
+        "KI im Alltag & Beruf": 3,
+        "Regulierung & Politik": 2,
+        "Tools & Agenten": 1
+      },
+      "ents": {
+        "Anthropic": 4,
+        "Nvidia": 3,
+        "OpenAI": 2,
+        "Google": 1
+      }
+    },
+    {
       "date": "2026-11-21",
       "file": "2026-11-21.html",
       "headline": "Anthropic startet an der Börse – und rutscht am Folgetag ab",
