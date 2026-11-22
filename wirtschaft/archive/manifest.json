@@ -1,6 +1,28 @@
 {
   "briefs": [
     {
+      "date": "2026-11-22",
+      "file": "2026-11-22.html",
+      "headline": "Anthropic-Börsengang trifft auf Tech-Ausverkauf",
+      "count": 13,
+      "sources": 5,
+      "cats": {
+        "Börse & Märkte": 1,
+        "Politik & Handel": 4,
+        "Arbeit & Soziales": 3,
+        "Energie": 3,
+        "Konjunktur": 1,
+        "Unternehmen": 1
+      },
+      "ents": {
+        "Bundesregierung": 3,
+        "Volkswagen": 1,
+        "Mercedes": 1,
+        "USA": 1,
+        "BASF": 1
+      }
+    },
+    {
       "date": "2026-11-21",
       "file": "2026-11-21.html",
       "headline": "IG Metall legt mit ganztägigen Warnstreiks nach",
