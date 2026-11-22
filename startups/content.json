@@ -1,78 +1,50 @@
 {
-  "intro": "Große Summen in Europa: Die Telekom steigt bei Mistral ein, und Defense-Tech-Start-ups sammeln Milliarden ein. In Hamburg gibt es dagegen eine Pleite.",
-  "top": [
-    {
-      "title": "Telekom investiert 100 Millionen Euro in Mistral AI",
-      "text": "Die Deutsche Telekom steigt beim französischen KI-Start-up Mistral ein. Mistral gilt laut t3n als wertvollstes KI-Start-up Europas. Unternehmen und Behörden sollen so „vertrauenswürdige KI aus Europa“ bekommen.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4TFRTV1lIcGtMX2xXNkdNSGV4UjJ5X1BRQi1nX0tCa1VTNGFuZ2N2T0dCUHVhLWlJTlVnVUpneFBBMExZbFEzZVBVYi1BbTlVWjZScUxiRWhCRGNaUWU3dDJMczg?oc=5",
-      "source": "t3n",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Bending Spoons kauft Mailchimp für 3,68 Milliarden Dollar",
-      "text": "Das Unternehmen Bending Spoons übernimmt den Newsletter-Dienst Mailchimp. Intuit hatte Mailchimp 2021 für rund 12 Milliarden Dollar gekauft. Der Preis liegt damit deutlich darunter.",
-      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-      "source": "TechCrunch Startups",
-      "category": "Exits & Übernahmen"
-    },
-    {
-      "title": "Defense-Tech-Start-ups sammeln über sechs Milliarden Euro ein",
-      "text": "Rüstungs- und Sicherheitstechnik ist laut Gründerszene der am schnellsten wachsende Sektor in Europa. In diesem Jahr flossen bereits mehr als sechs Milliarden Euro an Defense-Start-ups. Es geht auch darum, wie Start-ups die Bundeswehr voranbringen sollen.",
-      "url": "https://www.businessinsider.de/gruenderszene/wie-startups-die-bundeswehr-voranbringen-sollen/t5czfrz/",
-      "source": "Gründerszene",
-      "category": "Europa & Welt"
-    }
-  ],
-  "entries": [
-    {
-      "title": "Hamburger E-Scooter-Pionier ist pleite",
-      "summary": "Die Morgenpost berichtet über die Insolvenz des Unternehmens und wie es nun weitergeht.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVV8yZmdhN0pBa3p1bnV4YXlVUUN1eEdkRG9KbkZDSUo0clc1aWt4MV9DT1JpajU2eF9TUlg5dFJqaTE4enZDOUMyV0Z1Mm43UE54N1ZfT0xEeUdmQkFSczdqekVTYy1zUHdob1JTM2wtVV81TGJCMmV4aDd2Y091aURDQUg5MFFsdUpIalIxU2tSM1Vsd09fdg?oc=5",
-      "source": "Google News: Startups Hamburg",
-      "category": "Hamburg & Norddeutschland"
-    },
-    {
-      "title": "Europa Fusion: Daniel Ek unterstützt Fusionsenergie-Start-up",
-      "summary": "Das Start-up wurde von einer KI-Forscherin beziehungsweise einem KI-Forscher gegründet und will Strom durch Kernfusion erzeugen.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "source": "TechCrunch Startups",
-      "category": "Deep Tech & Forschung"
-    },
-    {
-      "title": "Everful sammelt 48,5 Millionen Dollar ein",
-      "summary": "Das Start-up eines früheren Alibaba-Managers verbindet Händler direkt mit chinesischen Fabriken.",
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "source": "TechCrunch Startups",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Aikido will mit vier Milliarden Euro bewertet werden",
-      "summary": "Laut Sifted sucht das von Revolut-Gründer Storonsky unterstützte Start-up eine Bewertung von 4 Milliarden Euro. Es ist ein Bericht, bestätigt ist die Runde nicht.",
-      "url": "https://sifted.eu/articles/exclusive-aikido-4bn-valuation/",
-      "source": "Sifted",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Hoplite: 5,5 Millionen Dollar für KI-Agenten-Start-up",
-      "summary": "Die Stripe-Gründer und Paul Graham unterstützen das Start-up, das viele KI-Agenten zusammen arbeiten lässt.",
-      "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/",
-      "source": "Sifted",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Europäische Business Angels profitieren vom Anthropic-Börsengang",
-      "summary": "Sifted erzählt, wie einige Angel-Investoren aus Europa beim Börsengang von Anthropic einen großen Gewinn machen.",
-      "url": "https://sifted.eu/articles/european-angels-anthropic-ipo/",
-      "source": "Sifted",
-      "category": "Europa & Welt"
-    },
-    {
-      "title": "Espoo holt gegenüber Helsinki bei Start-up-Finanzierung auf",
-      "summary": "Im Rennen um Finanzierung für Start-ups in Finnland wird es enger.",
-      "url": "https://sifted.eu/articles/espoo-closes-in-on-helsinki-as-finlands-startup-funding-race-tightens/",
-      "source": "Sifted",
-      "category": "Europa & Welt"
-    }
-  ],
-  "date": "2026-11-21"
+ "date": "2026-11-22",
+ "intro": "Ruhiger Sonntag mit einigen großen Summen: Die Telekom steigt bei Mistral AI ein, und Bending Spoons kauft Mailchimp. Aus Hamburg und Norddeutschland liegt heute nichts Neues vor.",
+ "top": [
+  {
+   "title": "Telekom steigt mit 100 Millionen Euro bei Mistral AI ein",
+   "text": "Die Deutsche Telekom beteiligt sich laut aktien.news mit 100 Millionen Euro an Mistral AI. Das ist ein französisches Startup, das KI-Sprachmodelle entwickelt. Für Europa ist das ein Signal, dass große Konzerne auf eigene KI-Anbieter setzen. Mehr Details nennt die Kurzmeldung nicht.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODBTcjU5aVo2dWZVWmZmUFRuazFmY0JUeUZUd1VxR0VRSWNnSGFpTWdKNGlxQUo1V0JieUlqSF9leC16TVJ1NFg1Y0tWQ3Q5MGppcjBMY0tTMVhPQ3VjYlZha2tSako0emJ2TWMwMlJuM1ZnWF9ZUHVCVDdsR3FnUEdKWlI1VWc?oc=5",
+   "source": "Google News: Finanzierungsrunden DE",
+   "category": "Finanzierungen"
+  },
+  {
+   "title": "Bending Spoons kauft Mailchimp für 3,35 Milliarden Euro",
+   "text": "Das Mailänder Technologieunternehmen Bending Spoons übernimmt den E-Mail-Marketing-Dienst Mailchimp vom US-Konzern Intuit. Der Kaufpreis von 3,35 Milliarden Euro wird komplett bar gezahlt. Intuit steckt davon 335 Millionen Euro wieder in Bending Spoons. Dazu kündigt die Firma eine Kapitalerhöhung bei Investoren über 1,18 Milliarden Euro an.",
+   "url": "https://www.eu-startups.com/2026/11/berkshire-hathaway-backed-bending-spoons-to-buy-mailchimp-for-e3-35-billion-announces-e1-18-billion-private-placement/",
+   "source": "EU-Startups",
+   "category": "Exits & Übernahmen"
+  },
+  {
+   "title": "Quantum Systems investiert über 10 Millionen Euro in Ukraine-Drohnen",
+   "text": "Das Drohnen-Startup Quantum Systems und Frontline Robotics wollen mehr als 10 Millionen Euro in die langfristige Unterstützung von Drohnen in der Ukraine stecken. Das kommt kurz nach einer Finanzierungsrunde von einer Milliarde Euro. EU-Startups zählt in diesem Jahr bereits mehr als 1,8 Milliarden Euro Finanzierung für europäische Verteidigungs-Technik.",
+   "url": "https://www.eu-startups.com/2026/11/following-e1-billion-funding-round-quantum-systems-commits-over-e10-million-to-expand-drone-support-in-ukraine/",
+   "source": "EU-Startups",
+   "category": "Europa & Welt"
+  }
+ ],
+ "entries": [
+  {
+   "title": "Archer sammelt 9,1 Millionen Euro für KI-Recruiting-Agenten",
+   "summary": "Das Unternehmen, früher hackajob, setzt KI-Agenten für Recruiter und Jobsuchende ein. Angeführt wurde die Runde von Volition Capital, auch der Bestandsinvestor AVP ist dabei.",
+   "url": "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/",
+   "source": "EU-Startups",
+   "category": "Finanzierungen"
+  },
+  {
+   "title": "Gradyent erhält 20 Millionen Euro EIB-Kredit",
+   "summary": "Das niederländische Startup optimiert Fernwärme- und Kältenetze digital. Der Kredit der Europäischen Investitionsbank folgt auf eine überzeichnete Runde über 28 Millionen Euro.",
+   "url": "https://www.eu-startups.com/2026/11/dutch-startup-gradyent-lands-e20-million-eib-loan-to-expand-digital-twin-technology-across-europes-heating-networks/",
+   "source": "EU-Startups",
+   "category": "Finanzierungen"
+  },
+  {
+   "title": "Malmö will Schwedens Food-Hotspot werden",
+   "summary": "Sifted porträtiert die schwedische Stadt, die die Zukunft der Ernährung baut. Der Artikel ist nur teilweise frei lesbar.",
+   "url": "https://sifted.eu/articles/inside-the-swedish-city-building-the-future-of-food-brnd/",
+   "source": "Sifted",
+   "category": "Europa & Welt"
+  }
+ ]
 }
