@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-23T05:20:57.262Z",
+ "fetched": "2026-11-23T05:22:29.911Z",
  "hours": 80,
  "sources": [
   {
@@ -469,24 +469,6 @@
    "ok": true,
    "items": [
     {
-     "title": "Börse am 20. November: Dax vorbörslich im Minus: Sieben Punkte, die für Anleger wichtig sind",
-     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-     "date": "2026-11-23T05:20:00.000Z",
-     "text": "Zum Ende der Handelswoche erwarten Anleger zwar einige Termine. Ob der Dax allerdings den Sprung über die Marke von 26.000 Punkten schaffen dürfte, bleibt fraglich."
-    },
-    {
-     "title": "Morning Briefing: Der Panik-Index an der Börse steht auf neun von zehn",
-     "url": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-der-panik-index-an-der-boerse-steht-auf-neun-von-zehn/100271899.html",
-     "date": "2026-11-23T05:18:02.000Z",
-     "text": "Nach dem schwarzen Freitag für Tech-Aktien spricht an den Märkten nur wenig für Besserung. Das liegt an der KI‑Delle – und einer verlockenden Alternative für viele Anleger."
-    },
-    {
-     "title": "Morning Briefing Podcast: Der Panik-Index an der Börse steht auf neun von zehn",
-     "url": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-der-panik-index-an-der-boerse-steht-auf-neun-von-zehn/100271934.html",
-     "date": "2026-11-23T05:15:12.000Z",
-     "text": "Nach dem schwarzen Freitag für Tech-Aktien spricht an den Märkten nur wenig für Besserung. Das liegt an der KI‑Delle – und einer verlockenden Alternative für viele Anleger."
-    },
-    {
      "title": "Alterssicherung: Studie: Altersteilzeit-Reform würde sich für Fiskus lohnen",
      "url": "https://www.handelsblatt.com/politik/deutschland/alterssicherung-studie-altersteilzeit-reform-wuerde-sich-fuer-fiskus-lohnen/100271929.html",
      "date": "2026-11-23T04:00:17.000Z",
@@ -547,10 +529,10 @@
      "text": "Jim Baumbick warnt vor den Folgen der neuen EU‑Industriepolitik. Im Interview fordert er, dass europäische Hersteller viel mehr gegen die gemeinsame Konkurrenz aus China gestärkt werden."
     },
     {
-     "title": "Märkte: Euphorie weicht Furcht – Sorge vor einem Ende des KI-Booms wächst",
+     "title": "Märkte: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
      "url": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-euphorie-weicht-furcht-sorge-vor-einem-ende-des-ki-booms-waechst/100271863.html",
      "date": "2026-11-23T03:02:13.000Z",
-     "text": "Anlageexperten blicken skeptisch auf die neue Börsenwoche. Nach dem Kurssturz vom Freitag erwarten sie keine rasche Beruhigung an den Märkten. Die Nervosität steigt."
+     "text": "„Alle Bären wachen auf“: Am zweiten Handelstag startet die Aktie des KI-Pioniers zehn Prozent im Minus. Die Wall Street steuert auf die längste Verluststrecke seit drei Jahren zu."
     },
     {
      "title": "Kriselnder Autobauer: Wie bei Volkswagen der Streit ums Sparen eskaliert ist",
@@ -647,6 +629,24 @@
      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-welche-sektoren-vom-demografischen-wandel-profitieren/100269798.html",
      "date": "2026-11-22T14:59:37.000Z",
      "text": "Die Bevölkerung wird immer älter. Das hat Auswirkungen auf die Wirtschaft: Denn alte Menschen konsumieren anders als junge. Welche Branchen daher auch für Anleger interessant sein können."
+    },
+    {
+     "title": "Deep Read: Zehn Wochen vom vertraulichen Brief bis zum Aus: So scheiterte der Milliarden-Plan von BASF",
+     "url": "https://www.handelsblatt.com/unternehmen/industrie/basf-und-evonik-der-zerplatzte-traum-vom-deutschen-chemie-champion/100271483.html",
+     "date": "2026-11-22T14:57:27.000Z",
+     "text": "BASF-Chef Kamieth wollte mit Evonik einen global mächtigen Chemie-Champion schaffen. Doch sein Management unterschätzte den politischen Widerstand. Rekonstruktion eines Fehlschlags."
+    },
+    {
+     "title": "Belgien: Streik legt belgischen Flugverkehr am Montag lahm",
+     "url": "https://www.handelsblatt.com/politik/international/belgien-streik-flugverkehr-steht-am-montag-von-7-bis-21-uhr-fast-still/100271872.html",
+     "date": "2026-11-22T14:23:05.000Z",
+     "text": "Gewerkschaften protestieren gegen die Sparpolitik von Premier De Wever, auch der Nahverkehr ist betroffen. Der Flugverkehr dürfte zu weiten Teilen ausfallen."
+    },
+    {
+     "title": "Interview: Ex-Kuka-Chef: „Die anderen wollen gewinnen, wir wollen nicht verlieren“",
+     "url": "https://www.handelsblatt.com/unternehmen/industrie/ex-kuka-chef-die-anderen-wollen-gewinnen-wir-wollen-nicht-verlieren/100267064.html",
+     "date": "2026-11-22T14:17:55.000Z",
+     "text": "Till Reuter hat einst Kuka nach China verkauft. Heute leitet er die Schweizer Dormakaba. Im Interview spricht er über den Sinn einer Vermögensteuer und Deutschlands Chancen in der Robotik."
     }
    ]
   },
@@ -728,6 +728,13 @@
      "via": "Capital.de"
     },
     {
+     "title": "Katar: Friedrich Merz begrüßt Milliardeninvestitionen in Deutschland - Spiegel",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb1N1eFBQRW91NU1EY3BQQlZGdUFQM3d0dTZpYmFBMExUb0daRXhMYUY1Z1RxdTI4ZnBESEo3M1hIRFV0QWxQN0dqWVNJbUp4X01qX0liVVNkcXowZjRIem81M3o0MFFYWndDM0RHYTR6dWtMOWw4czVLcXhHUEdrT0FUUWJXYkUybzVDQkhsSG9KUGJxcDRRT2gtNDBwekhJRVhWc19ud1ZKM0dNV29TZzBpSTJYX1lyQmRXWTBoR05jVmhRNjhmbU14Rk40bVc0MmJfd0tCendnMVU?oc=5",
+     "date": "2026-11-20T15:52:00.000Z",
+     "text": "Katar: Friedrich Merz begrüßt Milliardeninvestitionen in Deutschland Spiegel",
+     "via": "Spiegel"
+    },
+    {
      "title": "Rheinmetall-Deal dürfte bei BVB-Hauptversammlung Thema sein - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVGpBdm5EUUQyaktJaEd5TkNIcllsX1FDSVRENWs1V296ejQ4Q3Z6dWU5SXlQYUpWakQ2ZTJlaUc5OTlPRFRLYzQ3SzdvbXRkblJMYUlJZkowb1BCQ3d5Q3dlUnY0cEtXMXhtMnZwTHpxX1NWbEVLenJaTm5YUnZ4dDFNckwzb0dJTGRQM1NxY1QwVkE5R0JSS3ExV0swYllHYWJTNGxqemx0NlN4cnprei0xbkVWVk41ajRLcVRWZ0VBWVMyRGFRWXo2dXNOc3dhMHc?oc=5",
      "date": "2026-11-22T16:30:00.000Z",
@@ -739,13 +746,6 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVzRMekRLVVE3YlRweGZfWGdiMnRUSWZZVWx6d0xTemV6ZUJMajB0aWpUdEIybWllOUNaeENaQ21xS1ZCalZCaUQ0My12djV2OWxuUDRLWDRIai1OUkJ6eS1Qd2NsbGlkdkYxUFRzeG16cWJpUzZyb01qdnYxQll4QklBV1lVZGZWaHgxM2V6LUg4TG5pckF2ajlYMk1Kb0hDNjNnZmRGX2E1VF9JcERoVTk0RQ?oc=5",
      "date": "2026-11-20T08:41:00.000Z",
      "text": "Energie: Deutschland steigert Stromexport Spiegel",
-     "via": "Spiegel"
-    },
-    {
-     "title": "Katar: Friedrich Merz begrüßt Milliardeninvestitionen in Deutschland - Spiegel",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb1N1eFBQRW91NU1EY3BQQlZGdUFQM3d0dTZpYmFBMExUb0daRXhMYUY1Z1RxdTI4ZnBESEo3M1hIRFV0QWxQN0dqWVNJbUp4X01qX0liVVNkcXowZjRIem81M3o0MFFYWndDM0RHYTR6dWtMOWw4czVLcXhHUEdrT0FUUWJXYkUybzVDQkhsSG9KUGJxcDRRT2gtNDBwekhJRVhWc19ud1ZKM0dNV29TZzBpSTJYX1lyQmRXWTBoR05jVmhRNjhmbU14Rk40bVc0MmJfd0tCendnMVU?oc=5",
-     "date": "2026-11-20T15:52:00.000Z",
-     "text": "Katar: Friedrich Merz begrüßt Milliardeninvestitionen in Deutschland Spiegel",
      "via": "Spiegel"
     },
     {

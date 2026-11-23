@@ -1,6 +1,31 @@
 {
   "briefs": [
     {
+      "date": "2026-11-23",
+      "file": "2026-11-23.html",
+      "headline": "Weltklimakonferenz endet ohne Einigung",
+      "count": 17,
+      "sources": 8,
+      "cats": {
+        "Katastrophen & Klima": 2,
+        "Krieg & Konflikte": 7,
+        "Weltpolitik": 4,
+        "Europa": 3,
+        "Wirtschaft & Handel": 1
+      },
+      "ents": {
+        "Ukraine": 2,
+        "Russland": 4,
+        "USA": 3,
+        "Israel": 2,
+        "Iran": 1,
+        "EU": 2,
+        "NATO": 2,
+        "Sudan": 1,
+        "Gaza": 1
+      }
+    },
+    {
       "date": "2026-11-22",
       "file": "2026-11-22.html",
       "headline": "Russische Rakete schlägt in Polen ein",
