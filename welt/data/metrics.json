@@ -259,7 +259,7 @@
    ],
    [
     "2026-11-23",
-    89.51
+    89.77
    ]
   ],
   "GC=F": [
@@ -521,7 +521,7 @@
    ],
    [
     "2026-11-23",
-    3583.8
+    3603.5
    ]
   ],
   "^GDAXI": [
@@ -973,6 +973,14 @@
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu"
   },
   {
+   "mag": 6.5,
+   "place": "Vanuatu region",
+   "time": "2026-11-23T02:40:57.933Z",
+   "lon": 172.2423,
+   "lat": -13.6607,
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm"
+  },
+  {
    "mag": 6,
    "place": "Pacific-Antarctic Ridge",
    "time": "2026-11-18T19:14:23.203Z",
@@ -982,5 +990,5 @@
   }
  ],
  "gdacs": [],
- "updated": "2026-11-23T02:35:23.496Z"
+ "updated": "2026-11-23T03:58:03.555Z"
 }
