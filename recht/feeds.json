@@ -1,12 +1,202 @@
 {
- "fetched": "2026-11-23T08:56:00.278Z",
+ "fetched": "2026-11-23T10:23:43.902Z",
  "hours": 80,
  "sources": [
   {
    "name": "LTO (Google News)",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Nur Urteile und Gesetze mit Bedeutung für Verbraucher, Mieter, Arbeitnehmer und Autofahrer. Stellenanzeigen (Titel mit (m/w/d) oder (w/m/d)), Presseschau, Meldungen über Kanzleien, Juristenausbildung und Personalien überspringen.",
+   "ok": true,
+   "items": [
+    {
+     "title": "Der erste moderne Politologe Deutschlands war Jurist - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXBMWDc4OTdnVlRkeTFhbFJkZU56ckl5RG00eXJyOWszQzA4S3B2SlE5Q08ySWIyclNGNGY1RUNYLWJhVW1IaVVMQ2NGMGNYREJtdEo1THZhVml0UWVySmxaRFRvYVlUdk5KNW01UE10ckZCcVhsWHp4dTY5a0YxMVlkUzctMHR2LVFqVi1iaGJSRWJncVlfN1BsUDJ4RWZRQks4YjN3VUdFSmtJZm9yTXdielZsOWlBazUwOVhn?oc=5",
+     "date": "2026-11-22T09:30:00.000Z",
+     "text": "Der erste moderne Politologe Deutschlands war Jurist Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Meist gelesene Artikel Legal Tech & Künstliche Intelligenz - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hNTRSQ1c1d1RRcUlsckhYc2RVeGthTGlqUjZ4U3VrSUp4NklJN2o3UHBRd2ZhMlpneHNmdFJnMlpUQXNuT1RTNmFPRFV1SkU?oc=5",
+     "date": "2026-11-20T08:00:00.000Z",
+     "text": "Meist gelesene Artikel Legal Tech & Künstliche Intelligenz Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Volljurist*in (m/w/d) - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVNOUEZTaGdTUGVDc3l4dlRObzRaczc5TXE4dUNrT2hBOTZTbWtMT2ZjU1V5MmFhZzluRVgzWmNEc0VyT1lyY01CYkVUS1RHdzFhU3hwR1FNbVh2VmQ3a0M4WnVwblFhT25nU2NLZ0RWWHU1UHpuRFd2NlB5Y09UTEJmdUJqaVBWODgyY1B4czdIZw?oc=5",
+     "date": "2026-11-22T05:20:06.000Z",
+     "text": "Volljurist*in (m/w/d) Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Deutsche-Bank-Datenleck: Was droht den Hinweisgebern? - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0tFV1ZRSFlWRklpbV95T0lDVjRKWENoRTFpTFEydmw0V3ZnX0FFZWRjWHNmNFFiUUpYTGt3aVlOdGlFOUJ1YmhPelUtbVd1eWhvWVRZYm1acmp2NlUtVC1lQXFiekk2aHBUaWJCcDNGT0M5THo3SWhCSVdGMktEM3hKLUh1ZHh0RHhTS0g0SUtWRVh3N1Fuamt2cm1RWnBGMmZhUXhkOEJkcHhhSnc?oc=5",
+     "date": "2026-11-20T14:00:00.000Z",
+     "text": "Deutsche-Bank-Datenleck: Was droht den Hinweisgebern? Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Globale Großstörung: Strafbarkeitsrisiko durch IT-Ausfall - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHZrb1JLOVlVeVliOVphSnRreWZUcWpDZWgzdDkwclJHaDBjdS1MNU43RTRfTlg4dnNiclBxRWVVd0VXRUFTelNGM25hVGJRT21GQWNpRU0wNjZWMy1hZVQ5dVlqUUNqaktJVjMtdjduVnhwVUE0TDAxVWp3b0NtZTJwdGxscXM1ZDZZczBqdVJyZ3hrVEE?oc=5",
+     "date": "2026-11-20T10:25:00.000Z",
+     "text": "Globale Großstörung: Strafbarkeitsrisiko durch IT-Ausfall Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Senior Legal Counsel (m/w/d) - Corporate & Contract Law - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUpLak84eVdzUWVqWmE1VGx2M1VJazFYRGxicngwV1BJY2dQaWRDZDVndk51dlVTWWhNeDlscjhIUHc5OUh1MnZKQ3owZE9VXzBzb2t1QXllU3FhRUZWUzRHZFdXWkpUMU4tam5OQXFmeUE1NmN3OWloeWlVNDV2dEJTby1kQlBzcUVZUkszUDJhaFZKRjdxeGY3NDQyWDNUcnMxSDhmU1l1ZW5SUkFVc0NZRjZ3bGRKZWpaT3h4Y0FuQk0?oc=5",
+     "date": "2026-11-22T05:20:09.000Z",
+     "text": "Senior Legal Counsel (m/w/d) - Corporate & Contract Law Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Volljurist/in (m/w/d) im Notariat - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZExHSWVmMXlaRTk1SFo2cURnRnpEOU13WDdrOGtOTE1hcW9JQk9YcHRMcU1IMk8wWFRsRGdEd1lGM2pMRTkyQmVnODRlajBTTW1sM3puQ1pDQi03MUNrUUFSLWJPb2RUZzA4RXU2RkpmQWx0cE9wODRtaThkTUU3VzVYaGJQWTktQ1oyWUxpejNmejJ2bWVlUEs5bTk3ek1fWHBxc2g2U0IzNWJmcXJz?oc=5",
+     "date": "2026-11-22T05:20:08.000Z",
+     "text": "Volljurist/in (m/w/d) im Notariat Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Niedersachsen: Justizministerin Kathrin Wahlmann tritt zurück - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWZNRDJTRmxUT2FHd3VXUXdwcmhRMWh4MExrb1FBN0NFMXdaMnkyX240SjN5UnR5TWp5V1dpTmZ4Si1ETkZPSUxFRDFWZ0xxY1RabW1hNmhCUHQtcVlXTVpxNFo3MFhqN2N3UUFrZmRMamRQTzgteTdPbEFHZnhWaFNGM3FMRFhzWHJFb1haMDJSSHctaHpWQW10enFUdw?oc=5",
+     "date": "2026-11-20T08:53:00.000Z",
+     "text": "Niedersachsen: Justizministerin Kathrin Wahlmann tritt zurück Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "LTO-Podcast: Sorgerecht, BSW, Nord-Stream-Prozess - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDB2RWk1dEpzejJXYmdwTTNDWW5zc2Z0eW5PUThpbW9TLWFIZlRKNExpM29yZGVYTEVKNzV2cG5vUlVubXhZNTViMjg2d1FqN3JRVE9IUTJUcXVJcTBEWmY5TEN5ZkRBTTRuc1RVZEV2c1Atb0dNVFdEenJ4endrTVMzQ01FRmNEOXoxV0dFMDVEWS1uNDF6UkdTX2IzSnoxSU1hY0tIeS16aFk?oc=5",
+     "date": "2026-11-21T09:14:14.000Z",
+     "text": "LTO-Podcast: Sorgerecht, BSW, Nord-Stream-Prozess Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Volljurist / Juristischer Referent (m/w/d) - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVldPTURGYXFWTTdtVU01YUptM1d2UzhEbURjOVRvOHpyRS16TlY0ZnpKaXlQSE54QW1WVmJocVNqajVpcUdJMlR6aFFaNGZ2REpvMFJWOTJkVzljYzVROVJFQU1WNVZYRXpQc184b1NsU2V2cGpTT1A2LVc1bEtjWGFpb2J1emNrT3hFZGJJTjhuU2JDdWVlQ20yN05Ea00xeURidHJneUNRbE9VQTR4RDJNb1kzZldLNEYyUVhSajQ2b1hwLWZPcHhuUUhvNUJkYlAtYkU4WXNTTFVOcC04MEJB?oc=5",
+     "date": "2026-11-22T05:20:10.000Z",
+     "text": "Volljurist / Juristischer Referent (m/w/d) Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Reform des Mord­pa­ra­grafen? / Völ­ker­rechtler zur IGH-Rohingya-Ent­schei­dung / Lin­ken­schau vs. NDR - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOUE0S1dydXFySWdoVXg5NHRsaHAtVGhWaUtXT09JR1QwZ1BXbk1tT3JCUmRiU1Z6M3VLVHB0UVUtZFRzUlpSRVNfNzQwLTJVYkxLQ19yUjFKekFCNUlJcXB6WkhMUjRXcmQ3NlI3OVR1cTFfT2E0cmJwNHJPbDVZTXB1SDZad0tGZWFTTUJ2UWZNbmE4ZWt2NEF0bVhFMkRCb2Jn?oc=5",
+     "date": "2026-11-23T06:25:00.000Z",
+     "text": "Reform des Mord­pa­ra­grafen? / Völ­ker­rechtler zur IGH-Rohingya-Ent­schei­dung / Lin­ken­schau vs. NDR Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Volljurist Arbeitsrecht (w/m/d) - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmJZeGVMdXZmZ1ZQanJrRVctYlpkREJId3RhdTJIdGQ1dmtsS1gtcm03bWFYcXY5MUdIR2kxNzZtNURZVmNhVk91R0Z0TWtQSzluZTM0b1dHMjV4MzJFZVpDcjNXZ0ZoVVNXS2F4d1dQdXNJYV9oem1lN3U0Uk9oOXl1ZDlxTVRvSTNrSXA5a1o5ZnlrMEtVVVNMUlVHOU1Bc1NV?oc=5",
+     "date": "2026-11-20T04:06:47.000Z",
+     "text": "Volljurist Arbeitsrecht (w/m/d) Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "LTO Most Wanted mit Kathrin Bürger - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFRXeGtlQThCbzdISk85OXdrMFkzRWZ5cDFBTnoxQnkzbmhBeWl0U2hhcXo0WThmZmUydi1BZnBkeHFlRXp1UnZYLXFydnFLWTBrOVVGalFJcVJUcWhwY2tJNG5OSTZKOGVkUkZSQUJkS1h5Zm1pODFwbUZsNTlEbHhxcUk2MGJTek1tSWtSbzZvMFVfdjFiMUhQd3FqYi1RbzFsQTVEdXhXWi0wUV8wRXVuR3NUZEdBY3dWdkh6TXFUQQ?oc=5",
+     "date": "2026-11-20T07:30:00.000Z",
+     "text": "LTO Most Wanted mit Kathrin Bürger Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Jüngste Entscheidungen zur Brüssel Ia- sowie Rom II- bzw. Rom I-VO für die Fachanwaltschaften - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQmNHTV9vbU9Gajh6ZFlHU0psdFZmUUplelRlc0dSb1JmaUZ3ZEo0V3R5dUN2N09EQWtYc0N6WlZtMDlNTTB1bDNzOWJsSDI1ckFOQTBPSHBCSEpnTTFZUjM3cFk1TUV5TW5nUUZ4M09oY0Q4QVlCZVl1ZUl1RVFuYXNkRGVlUkZFcFk5WVBQLVNRNEpkN3FuempPV0FuMDJ4VFhCbDFYQ2x2cDl2bFRMRU91Z3JYMHBKT3ViTGsxbThVMjA3NktTQllRR2l2alVFRHZWM01iQzZxRkZS?oc=5",
+     "date": "2026-11-20T23:08:54.000Z",
+     "text": "Jüngste Entscheidungen zur Brüssel Ia- sowie Rom II- bzw. Rom I-VO für die Fachanwaltschaften Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Senior Legal Counsel (m/w/d) - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmJsdXA3U3RmU3FpcTRlZGdCWTVxMkFmMThzdnRsdXI2d3AtSXFNQ21SS0hoQWRYdTVvUjNHSTZZd1VtUkpfeVF0RkNmTHU0Z2puT21MN00teU5wdlN5a2RoWjhzTWlsWnhZUVpvTTlTS1pXTklpTlhvUC1YWWFoWDRxU25ONjZ5MlhfRVRFeUxrSW5tLUVOWHNYVWtMY2ZpNkE?oc=5",
+     "date": "2026-11-20T05:14:10.000Z",
+     "text": "Senior Legal Counsel (m/w/d) Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Update Zivilverfahrensrecht - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3g1cUJhSmFmR052YVNlODh5VG96ZkZXaG1KX3FySzFXMmdnNVU4THluSi1pLXZ5Yy1pSVVDUmdzVHAtcWkxV0JIZVk0clpKaWFaTnRZQlRubG16OGo0cmpveF8xMVE0d0pkRTljWXJncWhwRFJxWmIxclJnRXY3LU5KWHA?oc=5",
+     "date": "2026-11-20T23:08:58.000Z",
+     "text": "Update Zivilverfahrensrecht Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Flick Gocke Schaumburg gibt Partnerernennungen bekannt - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDZZbEdiS0gzLW5WV0FFVHIxMkRHTndGY2JFTmowYTNfa0FOUG5lZUNPSmNhOV9RQWwtWUVkN25LTUZEUjl6dFNHOUJLN0NSSXQ3SWV4a2h4SFlJUEpXZTM0cXdCUi12NERSYnVvTVhjT0pPbWp4ZTNMczFlMm5aTmNyOVNraWxRakVrdG9NektTNll5bzIybnJnYmVyOVBiN3llU0NLYlhUY2JMd2g0T0x4TQ?oc=5",
+     "date": "2026-11-23T08:30:00.000Z",
+     "text": "Flick Gocke Schaumburg gibt Partnerernennungen bekannt Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Business Legal Counsel Germany (m/w/d) - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOHdCYjhJek43LWxOT3k5NGhVZEgyNm5sZlU0UUhQcVNLSHk1c0x1V0VaWTA3SUNBUWtxSVdUdXl5TUFJV0w0SDBMNXN2T2c1LWJhcFV5cHcwYXZCcUxxb0dzeWF2THc5bWh0LWwtMkdxSHFxaHpYeFFCTDQxdmFpMWdVUUp3M3dXQ09zc1dwYTdwZVdXMEdZQnRfQWllSW9LdU9DOC1ZbVZ2dTg?oc=5",
+     "date": "2026-11-22T05:20:11.000Z",
+     "text": "Business Legal Counsel Germany (m/w/d) Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Volljurist / Projektleiter Recht (m/w/d) - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQ3I0ZFJPTnhfU0pZVUF6ZWpLcENGeklaa1NZX3ptRGxpUm45dXdsaktMZUl0c2hWbnVTUlBkc2hydVRERHNWX293NnhQS0pWd1JWQ2pOUG43cDlsVFJLZVBfd0kxZFE0SVJ1Q2dvb0pNQXpIWF9aYjQ0aHFjWFZCUFozQkdvZEtXdHIyTzNVUDNfOUJIdm9WMVpUcDJvR0VGZGE3Z2VkZ2wwNkhXUFprZWMxcUt5MFhQRnlqUUdVYmQyMjh2YlNwdXVDRWNzRWsxTk1KQV9EbE14akcwTlZFLVNST1RQTmtySUlPNXBKOTk?oc=5",
+     "date": "2026-11-21T05:11:43.000Z",
+     "text": "Volljurist / Projektleiter Recht (m/w/d) Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "NDR gegen 'Linkenschau': Worum es in dem Rechtsstreit geht - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMEZiMG12Y01ZYW82azlfcHl1RmJWYU9RZjc0ejhrOFRVT0g0LTdPSllIVWZVZzBuLU5aeVV1b1BqQi1EMDI0dHhadmVMQ3A3ek51ZVlKYnYtRnRoeVRubWZxMDByY2JxeGFWSkV2REFZVzRucU91ZlJCay1kMW9UZjIxVWJoNFZMOFlzUHEzU2RSVWZYamkySkRJQk5sSHV3QmRjNXhZRQ?oc=5",
+     "date": "2026-11-20T12:27:00.000Z",
+     "text": "NDR gegen 'Linkenschau': Worum es in dem Rechtsstreit geht Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Pyroshow eingeschränkt: Durfte Kaulitz den Stadtmitarbeiter doxen? - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjM3Y0JrMklTU0ZHS2FCVXZVVThfbHJGZHg1dTNTaF9CbzUwOW4zQ09CZG1ZVFFRVl9hWkI4blhjaTJOMHV3ang2a1F3M3VoWG1oZ0EzbllCVmtoU3ZpNnF1ZW45NE5FOTN5M3d3RFUzcmlTbXVXRTJXMXlmWk5DcWJVMWZCeTMyYzl0SUFaRWJEbkZ6cU5sYWx0aTlfNDYwalBF?oc=5",
+     "date": "2026-11-23T08:01:46.000Z",
+     "text": "Pyroshow eingeschränkt: Durfte Kaulitz den Stadtmitarbeiter doxen? Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Nach dem Scheitern des BSW: Wie effizient ist die Wahlprüfung? - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2JVRjNrTmJyQzBnMTk2Q3NMbW82ZGN1bl9MVXRPRi1meGRMVmpRYURJQWlZRVdBMVlmYlNkSUlqNG9hY0tVMlAyWG1xUU9KQ054eUJtU2VQSXJZV0Q2T0tvbnlVNVNZZm5lWTB2NjJBQzdUaENoVWdMWVJjTkFBamdqcjRKZi02Um9aeXU2dHZXbGpsXzVGRF9VNDBmakI3NGVrdDVrS2ZtVHFJcEE?oc=5",
+     "date": "2026-11-20T15:10:00.000Z",
+     "text": "Nach dem Scheitern des BSW: Wie effizient ist die Wahlprüfung? Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Volljuristin / Volljurist in der Stabsstelle Grundsatz und Recht (L1) (d/m/w) - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSWp5OENZTkVjRmFiem5wQXd6a2FvaGFjYkFuak8teVB0LUt4MFlyVHFDRi1TT0d5Q2ZCMHVNWVo0U0tzemRoTlpUOFlkcEVsWU9jbVpjbmJhQWpYWHpOaFd6bk1JRGp2c3QxNDYtM09XYVV6RktRS2NFQXJycEhZbjg5T0ZhdXpyQkNaV3hGM0NsckJOZ2pGNjh3bzFZWjM0UXRmRVdWb29BRUtwd0VVdVQtNFRzVk84NmlRQlNZYkNFUjhvcUxaMXEyNUlFU2lRMVgzcXBLamxka2lXUkw5bFJwTlRCRnBER1E?oc=5",
+     "date": "2026-11-21T20:46:31.000Z",
+     "text": "Volljuristin / Volljurist in der Stabsstelle Grundsatz und Recht (L1) (d/m/w) Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Legal Counsel / Legal Business Partner (m/w/d) - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFF5MEdiaElTNkpNQWVzcWcwb3E5bXBKV0NZSEpCSEk4aHRPUVJKV3FEWGVFQ2dhWlhGaUs1djhzc1JzUktCSlo1TXRQbDU3MnVhVk9zZGRqSG9qbGRJRW5MclhUM3U0ekZIQzdXUzh6WU42S18zUXQxRnh1bVhNZGJ5azlGQ2hWbDZONjAya2VfMk9PTVkxMnRZQzA5RUVJY3FHLXpHd1dVeUk3c3hpcXRR?oc=5",
+     "date": "2026-11-21T05:11:44.000Z",
+     "text": "Legal Counsel / Legal Business Partner (m/w/d) Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Volljurist*in Rechtsamt (m/w/d) - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVV9nVHhDNU9nRzJZanFVOHdrOXR5SzBNYXM1Y25hUXJhQVJBWDBoSHROaHAzWEkzZVZkeldPcmRIdmdYLVR0SjB4SUd5RXl0VjJJc2plXzNMUlBlaTM3Z0RsZ3NkYXc3VXVQa1o0Zmo1YWhoYlIxTXRZSlU1dmkzd21aTTNXUFJ3bm0xTnMtNGNyYmp6SEg4ZFB6d3hNTGlOVUhnR3BkU3dLdDJs?oc=5",
+     "date": "2026-11-20T05:14:09.000Z",
+     "text": "Volljurist*in Rechtsamt (m/w/d) Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Volljurist/in (w, m, d) - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTzFCNVlWOFYzajFNQTAyV2xxLVc1NzZGa25HYjA2N0dhc3pES0RhaVV1QXliWnZkd3ZhOXpDN3RFUGhaTzMybDJwcmo2NGNIdFF5c3BZcm4xT3VMTGNlN3JXTTBPYXctZjVxTThRSlQtdVcyZkdrTTkwWEIxbV9VSFJxek5uREdscjU1YzUxNFpZdEtJdTZlQ3libmFWU0FJWXY5R0x6b0JsRl9lSnNhQ1dMUFB4Zm8?oc=5",
+     "date": "2026-11-21T13:22:15.000Z",
+     "text": "Volljurist/in (w, m, d) Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Steuerrechtliche Essentials für Gesellschaftsrechtler - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWdyeW9YbFVTUGhrc1pfQ014VGdNeWdEZ09QN2RZYnZwYlVNNUZwU0VSTEttRnp5ZWpUUFFWeHpVSk8tUEJQeUhLMDdBQXFyVW1EOGp4bWVMVjJ5cW41LTlpeVgtc3dtVmZ0NlpBYS1Vd2ozM2U2ZEhGVTZOeUdNc0MxZUhsaVB2NHlpRGs3SFNhMDYxWG9PbThtSGdMUXdHYzJUOW9hM0U?oc=5",
+     "date": "2026-11-20T23:08:50.000Z",
+     "text": "Steuerrechtliche Essentials für Gesellschaftsrechtler Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    }
+   ]
   },
   {
    "name": "Stiftung Warentest (Google News)",
@@ -28,17 +218,17 @@
      "via": "Stiftung Warentest"
     },
     {
-     "title": "Echte Schnäppchen gibt es selten - Stiftung Warentest",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3Z6a1FYQlEyV3JtdWZqWVRPX25PRkRWMWYwVzdwWng0TEJGdW5jN0k4OGtncW45S1FCZHR1U185U3VVa1Rqbm4yeXd0QkJ0V3lZQnlOX0p6eWYxOEZSZzhaU0dKbXppSzFPdXlhOTJvVHFaZGgzWV9DTWIxWTEwVVU2eUxrT08xOUhmSm9rdWJETmVfVzV6QQ?oc=5",
-     "date": "2026-11-22T23:00:00.000Z",
-     "text": "Echte Schnäppchen gibt es selten Stiftung Warentest",
-     "via": "Stiftung Warentest"
-    },
-    {
      "title": "Kopfhörer in der Black Week: Ein Check bei der Stiftung Warentest bringt Rabatt-Durchblick - Stiftung Warentest",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdkd1X3gxOVM2ZmNFNzl0NkZvMXlTdUJqNWlkMWIwd1lxMzJNU0JHUUZUT2NUS05JeFVoclJ1UGk5MDR0Qk9ES0pyVHRoRkFvV1ZfeGdvRkp3RE9CV2pfZ215cVd1N2p5NnlDazB5aVZtMTZuNVVVdHF3eUpiVE9VNWdOQTNVLV83VDIyTWtNZ1ItRWVucWNLZVZnRlNkTWZ5MllMbG1FNFdLUl9KUlRhbk5mV3M2eENuZWRJYkFxb1lJUVBn?oc=5",
      "date": "2026-11-19T12:43:15.000Z",
      "text": "Kopfhörer in der Black Week: Ein Check bei der Stiftung Warentest bringt Rabatt-Durchblick Stiftung Warentest",
+     "via": "Stiftung Warentest"
+    },
+    {
+     "title": "Echte Schnäppchen gibt es selten - Stiftung Warentest",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3Z6a1FYQlEyV3JtdWZqWVRPX25PRkRWMWYwVzdwWng0TEJGdW5jN0k4OGtncW45S1FCZHR1U185U3VVa1Rqbm4yeXd0QkJ0V3lZQnlOX0p6eWYxOEZSZzhaU0dKbXppSzFPdXlhOTJvVHFaZGgzWV9DTWIxWTEwVVU2eUxrT08xOUhmSm9rdWJETmVfVzV6QQ?oc=5",
+     "date": "2026-11-22T23:00:00.000Z",
+     "text": "Echte Schnäppchen gibt es selten Stiftung Warentest",
      "via": "Stiftung Warentest"
     },
     {
@@ -69,11 +259,25 @@
    "ok": true,
    "items": [
     {
+     "title": "Interview - Verbraucherzentrale: Gasanbieterwechsel kann sich lohnen - Inforadio",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0xHMXJtRlBGN3lwTklCLUUtc3lkZnctaVVlaFltd2hkZGdtYmJFSGFvSzN6TzRBSmFZeU5PUFQzWUR6U0x6cXJmQWxFaGE4cUJ6NkprWUFFaFVRUUJPbWE5QTlwbHV2WGRyYks4UXJCV2xxdGFjcWE5bnVNczQ2MFpBbUxublFLZjhnWE5tWHl6bWpIVzhQdGJjMHljaDlSYk9MR0hUYUh3T0VKWDU5WA?oc=5",
+     "date": "2026-11-23T08:05:00.000Z",
+     "text": "Interview - Verbraucherzentrale: Gasanbieterwechsel kann sich lohnen Inforadio",
+     "via": "Inforadio"
+    },
+    {
      "title": "Sicher auf Schnäppchenjagd gehen - Verbraucherzentrale Bayern gibt Verhaltenstipps zum Start der Black Week - Radio Oberland",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56OE9aV0tJMjlPN1daYmxGc1kzMGFJbFZObHJQUGZDdlRvaUF1d080dUJCVUczU0J3T01hcF9pMTVBMEhKeUxzc2E2NjVYRTZwLUJZSnpuS1BEX3ZFbGhqRQ?oc=5",
      "date": "2026-11-23T05:21:47.000Z",
      "text": "Sicher auf Schnäppchenjagd gehen - Verbraucherzentrale Bayern gibt Verhaltenstipps zum Start der Black Week Radio Oberland",
      "via": "Radio Oberland"
+    },
+    {
+     "title": "Unerwünschter Hausbesuch: Wenn das Inkasso klingelt Verbraucherzentrale Sachsen warnt vor Einschüchterung - MeiDresden",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONFFOVEVGck1RS2YyazFMUUFKeXdpbGh3MndWS3BGNWVlSjNqdmloM0JfU0d1M1MtZGV2WUhMeVp1eWpNMTJPQ3hhM1VGSEdFN3RWcFRUNXRuWjRseTBRa2RVVDJtUUlIVE1xVTZNSUZVLXJVNHpaNUxrMm54YlhndDgzMHItSWFvVEtOUlJfNk10RHFvYThTelgyYmtsSU5iVG54dlBZMUdNNS1oZ2JQVnpvUFdLa0lYdWlUTXUyeGV0RzZONDlCUzFjOGVjbWNacVl2XzBoZ2pXTjdSRlBULWZoTWV4eV9KV1ZRWWh2SGdJX19nR1pn?oc=5",
+     "date": "2026-11-23T09:30:50.000Z",
+     "text": "Unerwünschter Hausbesuch: Wenn das Inkasso klingelt Verbraucherzentrale Sachsen warnt vor Einschüchterung MeiDresden",
+     "via": "MeiDresden"
     },
     {
      "title": "Eier im Kühlschrank lagern: Wo sie wirklich hingehören - Business Insider Deutschland",
@@ -125,18 +329,18 @@
      "via": "RP Online"
     },
     {
-     "title": "Black Week: Vorsicht vor der Schuldenfalle - Antenne Münster",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkxzZTJUNDBiRjdjYWJuLVlod3BYUnBTNGVfX0dCUUlWb213aW5GUkh6MnIwblBzX05wZnNrMlpZY1QzWTROa2lrRmttcEFwZ09vOG41UTVHSUMwQlJRMUVoVjJIR004cEtaRFFaS0N0bzVhZmMwUnlXVWVaWnlyU3RWV1JpcFo0bE1UcjhBdm92UQ?oc=5",
-     "date": "2026-11-20T13:38:00.000Z",
-     "text": "Black Week: Vorsicht vor der Schuldenfalle Antenne Münster",
-     "via": "Antenne Münster"
-    },
-    {
      "title": "Achtung: Falle im Internet - Radio 90,1",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oMHRqUUhmRDN5NTVqaWxUSnBVeXo3bWlYTHpzZW50d3p1VTZzOTUybldVT0tkS01fT3lvelpzNlBlTTNXdXYtRFpHZ0xaTXZ4bW8ydDUyVXBYd2UyZjZVNnBRTzRITWF5Vnl0TDJZdG5SbTg?oc=5",
      "date": "2026-11-21T07:22:00.000Z",
      "text": "Achtung: Falle im Internet Radio 90,1",
      "via": "Radio 90,1"
+    },
+    {
+     "title": "Black Week: Vorsicht vor der Schuldenfalle - Antenne Münster",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkxzZTJUNDBiRjdjYWJuLVlod3BYUnBTNGVfX0dCUUlWb213aW5GUkh6MnIwblBzX05wZnNrMlpZY1QzWTROa2lrRmttcEFwZ09vOG41UTVHSUMwQlJRMUVoVjJIR004cEtaRFFaS0N0bzVhZmMwUnlXVWVaWnlyU3RWV1JpcFo0bE1UcjhBdm92UQ?oc=5",
+     "date": "2026-11-20T13:38:00.000Z",
+     "text": "Black Week: Vorsicht vor der Schuldenfalle Antenne Münster",
+     "via": "Antenne Münster"
     },
     {
      "title": "Neues Projekt \"Broke Free\": Digitale Selbsthilfe für junge Menschen - Presseportal",
@@ -153,13 +357,6 @@
      "via": "Radio MK"
     },
     {
-     "title": "Richtig lüften im Winter: So senkt ihr das Schimmelrisiko - Business Insider Deutschland",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGxUMThRWGpCZGxVZEN0OU1DVndEUzlVWk9QdW9zdFROTWc4SUl5U2Fuazk2UExkeWsteWRqSnlSd1dwUXNvRlpwb09fMDJDa0VxU2JEcEFHeHl2bWpjMm9ZWHBpMHhhVW11dU41XzJRZ2VxM3h6N1Q2OWJYZEJCVks1YjQyYjdramxXVFlWYW5PSUVNNlpmdzBmLTVwQmxmWGdnU29GY215UQ?oc=5",
-     "date": "2026-11-20T19:00:00.000Z",
-     "text": "Richtig lüften im Winter: So senkt ihr das Schimmelrisiko Business Insider Deutschland",
-     "via": "Business Insider Deutschland"
-    },
-    {
      "title": "Black Week: Vorsicht vor der Schuldenfalle - Radio Vest",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR1RNMlBNRzNPZW5yZFpVRXNDc3NaVnhWbF9ZTGItcnZzUlBjMV9jV1gtUUR5NGVoMVpVX0tCS05Ra2dqbFROeHVjU0ZpLTlIaGRfR2hVYjNyN2c5VEd3dDdXRDJZUjZVbUhUSmxPY3ZrMjVOcE94b0V4UldIMXVkZVhPRnBuX3REVVE?oc=5",
      "date": "2026-11-20T13:38:00.000Z",
@@ -174,6 +371,13 @@
      "via": "Radio Euskirchen"
     },
     {
+     "title": "Black Week: Vorsicht vor der Schuldenfalle - Radio Siegen",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMjBzZGp3cTI2QWUxdWs0dVBsV2pXT1lWTW1oRm91Nkc0ZDNUWWFVbGYxS01jb3Q5dXE3VWxfY1NXdVMtY3Jjc1lOckRUUTVEcThQU0ZQOUp1QkZCbUZSZk9lNzVaYUllNHdZWU8ya0RjaFYyZmJXMDhUa0tUNUtSN01BMGpuZTZCaHc0aQ?oc=5",
+     "date": "2026-11-20T13:38:00.000Z",
+     "text": "Black Week: Vorsicht vor der Schuldenfalle Radio Siegen",
+     "via": "Radio Siegen"
+    },
+    {
      "title": "Nachhaltiger Kleider-Verschenke- und Tauschmarkt in Nieheim - Westfalen-Blatt",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQenJ0UmR5X09WMDdiLU81eUdCQ0IzRzFTYVhLYXBfZ201UnFMYjZqVGxMdy05cjVPdjJ1LWYzeFZYTmpxeVhvTzR5Sy11WFB3UGRyQTdSM3VTbDdBT1hCcHhrOHdMcno5UzFZVTlXVzBvTndGWHdRVU8tbHg0Z2h2SzRUbGhTRnNRS2FTVXFoTEdkNlQtT3NGUFk3dUU0ZXFFOTNMN2dRMWE2bUFEQXQyNGVhOTMxazhSdl95TlJ2RzA1SXRwNV93N2hlSldZN2xkaUEw?oc=5",
      "date": "2026-11-21T07:00:00.000Z",
@@ -186,13 +390,6 @@
      "date": "2026-11-20T13:38:00.000Z",
      "text": "Black Week: Vorsicht vor der Schuldenfalle Radio Rur",
      "via": "Radio Rur"
-    },
-    {
-     "title": "Black Week: Vorsicht vor der Schuldenfalle - Radio Siegen",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMjBzZGp3cTI2QWUxdWs0dVBsV2pXT1lWTW1oRm91Nkc0ZDNUWWFVbGYxS01jb3Q5dXE3VWxfY1NXdVMtY3Jjc1lOckRUUTVEcThQU0ZQOUp1QkZCbUZSZk9lNzVaYUllNHdZWU8ya0RjaFYyZmJXMDhUa0tUNUtSN01BMGpuZTZCaHc0aQ?oc=5",
-     "date": "2026-11-20T13:38:00.000Z",
-     "text": "Black Week: Vorsicht vor der Schuldenfalle Radio Siegen",
-     "via": "Radio Siegen"
     },
     {
      "title": "Black Week: Vorsicht vor der Schuldenfalle - Antenne AC",
@@ -293,17 +490,17 @@
      "via": "Finanztip"
     },
     {
-     "title": "Trade Republic - Zwang zum „Konto-Upgrade“ ? - Finanztip",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNXzM1UEJ5SWxtY09fV2xWSmVXbVFWMk02Z2dVaWp5LWFxN09KbWF0MVNWQzBvdm8ybmZMem5EbzRMRHNaSW1rTmpVNExNdlQzV3ZMV21HZ2owMnlSV2Y4U2FOUS1XM3JCNFYtRnZRNlliWnBnaWpJazZHMWoxMUxKRlkwZDItSy1pdjd0TlZadGhlZ2NQUzFr?oc=5",
-     "date": "2026-11-20T22:57:40.000Z",
-     "text": "Trade Republic - Zwang zum „Konto-Upgrade“ ? Finanztip",
-     "via": "Finanztip"
-    },
-    {
      "title": "Elementarschutz soll Pflicht werden: Warum Du nicht warten solltest - Finanztip",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQazcwcS1vRUhjOW9BVG1tbk9fNThoclBqbGY4bGJkYmstTWpKdlFaZU1pNmlFSzVGbHVGV0RDR1pLQzN3UzhfdDRobUF1dkJYU2RIbEdBRGhSYm1MaU4yMVZPYTZJWGhoQ1VnQWx6SS1zNkw4ZlZKb0pqR21wT2x1TUZoNVh2MV9Hd0dHTlNVWDRPYjdwdmZKUHgyb2xoTVNlTzdfc2VkWQ?oc=5",
      "date": "2026-11-22T10:06:03.000Z",
      "text": "Elementarschutz soll Pflicht werden: Warum Du nicht warten solltest Finanztip",
+     "via": "Finanztip"
+    },
+    {
+     "title": "Trade Republic - Zwang zum „Konto-Upgrade“ ? - Finanztip",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNXzM1UEJ5SWxtY09fV2xWSmVXbVFWMk02Z2dVaWp5LWFxN09KbWF0MVNWQzBvdm8ybmZMem5EbzRMRHNaSW1rTmpVNExNdlQzV3ZMV21HZ2owMnlSV2Y4U2FOUS1XM3JCNFYtRnZRNlliWnBnaWpJazZHMWoxMUxKRlkwZDItSy1pdjd0TlZadGhlZ2NQUzFr?oc=5",
+     "date": "2026-11-20T22:57:40.000Z",
+     "text": "Trade Republic - Zwang zum „Konto-Upgrade“ ? Finanztip",
      "via": "Finanztip"
     },
     {
@@ -531,6 +728,13 @@
      "via": "Haufe. Intelligenz, die bewegt."
     },
     {
+     "title": "Anerkennung eines gewerblichen Verlustes infolge Betrugs | Steuern - Haufe. Intelligenz, die bewegt.",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSFN3UjBGSmtJZlByckl2TVV5ZTVhNWcyS2gyQ2o2OUViWnZMcF9vUXUxa05aLXBJaVpaaENRbWpsNWFSNTN5dE1sNGZnMGc1LTR0N1FrVldTNjZXU0VPVG5vdXRGM0RxaXR2NGd2S1lmRE1CQXhwVGdqclpBTGJQZ1dEcG5nOUV6NlluMF9vMzBndlFkbWw5dTJKLUdjM1l4OG5vYkU5SnV1RlVvUEVxN2U5YmRZWWM?oc=5",
+     "date": "2026-11-23T09:13:03.000Z",
+     "text": "Anerkennung eines gewerblichen Verlustes infolge Betrugs | Steuern Haufe. Intelligenz, die bewegt.",
+     "via": "Haufe. Intelligenz, die bewegt."
+    },
+    {
      "title": "ZErb 11/2026, Zur Frage der Mitwirkungspflichten des Pfl ... / Leitsatz - Haufe. Intelligenz, die bewegt.",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2JnTTQ3ZnBvVVo5UlZneWE5ZzBkNC1nZlhkU05WNDlhSENLcW5RZGJKa205aGRQb2ZTVVJZNjVTNmZEaVhWS2NIV3dFM3BocHBBZjJ5eFdtNnF6VG9oQm42WWVocU9TazdaeUxWalJTZ3AxTmhBeXRGTE55SklLUGd6Q3FkRWRYWUtyTTZ3TVJSWG1seDFQaUJzRHdReVFOUDJlTy1Td2N2emt5UktKaQ?oc=5",
      "date": "2026-11-23T07:20:41.000Z",
@@ -578,56 +782,13 @@
      "date": "2026-11-23T03:15:16.000Z",
      "text": "ZAP 11/2026, Aktuelle Entwicklungen im Straßenverkehrsrecht / b) Die Erforderlichkeit des ... Haufe. Intelligenz, die bewegt.",
      "via": "Haufe. Intelligenz, die bewegt."
-    },
-    {
-     "title": "ZAP 11/2026, Aktuelle Entscheidungen und Hinweise zum As ... / II. Berücksichtigung einer ... - Haufe. Intelligenz, die bewegt.",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYzNFLXlJMGFIc01XRnQtY3djNjUxak40dlotakNaLUhraUJ6ZDFnUnV0Z25zTmlQMlVBQ09IVV8wMGdxS1NQYkRyWGVlRUlNcmZ0elZreURFWF95aUJ3WjlnMGpwRkdsM0plWjZfWDRoSlVxSVpUMUF5YThRVzRYRk13NkY5bHhDZnlpSXZkUHowc3BvRHkwdS14bnlGLXYxLTExSG5XaEdSTGp1U3R0THBLeFBXMW1jTlp0b2w3dGJSX2lRaF9ScEpOZFV6ZENQWWFucEtlR19MTWZBTi13TEhLV1VnQ3BJWDlhbkhHVV9FNEM3QnM4UllnM3lIY01SeXN1UlFWYmR1c1VSbUI4Y2t3?oc=5",
-     "date": "2026-11-23T03:15:17.000Z",
-     "text": "ZAP 11/2026, Aktuelle Entscheidungen und Hinweise zum As ... / II. Berücksichtigung einer ... Haufe. Intelligenz, die bewegt.",
-     "via": "Haufe. Intelligenz, die bewegt."
     }
    ]
   },
   {
    "name": "Google News: BGH-Urteile",
    "ok": true,
-   "items": [
-    {
-     "title": "BGH-Urteil: Kündigungsbutton ist auch in Apps Pflicht - Teltarif",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRC1MejdiLWtQRXRoOFFOXzVQU194cGZuWUVWNVp5c1pzcHdqRHYwTjIyTHFKOGl6OXd5d3d5ZFphNzg5clJ2MmxYMnEyZ0M2Y2xVOGNrdE5OS0tXU1F3anlOUl91WDlFYzVrNU1rTE5vUmNDRGhfRG1BZHJPS0s3bldGd2Frai02MUZvbUhLZS1hX3M?oc=5",
-     "date": "2026-11-20T09:30:00.000Z",
-     "text": "BGH-Urteil: Kündigungsbutton ist auch in Apps Pflicht Teltarif",
-     "via": "Teltarif"
-    },
-    {
-     "title": "Streit über Heizkosten in Bornheim - Frankfurter Rundschau",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObUlHRnA5MUhwNk5ENWF6a0MyQ2lHV0FJNjdWclpuelN2Z2J1WlBNb1ZBVnNHajB2MEtIMktEd2IzVXoyV2tmOThOenRXRURmX1pua3k2VGE0NjlHZ1hJbG9kUkJOLWRNQjU0ZEVLN0FQOG1jVmhfelM2T2dpVGFBNzNGYw?oc=5",
-     "date": "2026-11-20T15:04:14.000Z",
-     "text": "Streit über Heizkosten in Bornheim Frankfurter Rundschau",
-     "via": "Frankfurter Rundschau"
-    },
-    {
-     "title": "Abmahnung des Mieters: Wann Vermieter abmahnen müssen und wie sie es kündigungsfest machen - Anwalt.de",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVlVzUVM0QlQ2SldwOXh2eFhNMWFKNFNPa1dWWXBDYjJzemtkdVVZUHZfZFF4QU5xMVJ6VUluTWo1dTBjRmpuXy1lblcyOS1ocFJWRlV2X1dLVm5HYTdFVGVnMXVWWlRVNWhqZWY2bnRzRWFJMFdDMEFtekRiZGpDU2lIR1c5bzNySDFHdGpiYWFSSzhrb3VidGRPR05vaF9TTE1DZDFjLXVmempleU5BRVgzcEVEa0t5RWYwTGE1Zmw0UHNoRWlFYndBY2tLRTFjUkhn?oc=5",
-     "date": "2026-11-20T10:13:36.000Z",
-     "text": "Abmahnung des Mieters: Wann Vermieter abmahnen müssen und wie sie es kündigungsfest machen Anwalt.de",
-     "via": "Anwalt.de"
-    },
-    {
-     "title": "Winterdienst und Streupflicht: Wer räumt, wer haftet und wer zahlt? - Anwalt.de",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMTU0T1V5a1Y0d3gwTG1Hc054R3hfVXZQdUhMenBsOERHdjVGVEdra0RhNkFvanJYdXB6Y3NoN05wS0NBVXNJdDFtWlg3V2Y4MGI4Vk5LbUNVSUZaeGlsWVF3ZmhrZXlNNzdDRGQ4Y3hHVjU0M3NLRFlla2RnbW5kNzZGZjd0VzZUdGVMQjMyOFZ3Vm5VdGVpQ1VwTmFGMEhWdlJzRndIMGJ2UlVNN0xFSA?oc=5",
-     "date": "2026-11-21T11:39:21.000Z",
-     "text": "Winterdienst und Streupflicht: Wer räumt, wer haftet und wer zahlt? Anwalt.de",
-     "via": "Anwalt.de"
-    },
-    {
-     "title": "Prime-Kunden aufgepasst: Amazon senkt den Preis für viele Bestandskunden - Berliner Kurier",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHRESkZvOFRHalJWWDF4NE5TRjlsMEhOZzlkcUpsOHNQamRMVDJ1eG5SU2VrZmhSRDljRVVKX0JfVE9Xb3dZSmZWUHlxdnAwLUk5SWwxOUNEaF81QlBHZklfSHlOOUVHSlVNQkZha1VUOWZONmR3RVpnTUFkblg4SkFlVGp0Yl81dWY3UQ?oc=5",
-     "date": "2026-11-20T11:31:42.000Z",
-     "text": "Prime-Kunden aufgepasst: Amazon senkt den Preis für viele Bestandskunden Berliner Kurier",
-     "via": "Berliner Kurier"
-    }
-   ]
+   "items": []
   },
   {
    "name": "Google News: Verbraucherschutz",
@@ -635,18 +796,18 @@
    "ok": true,
    "items": [
     {
-     "title": "Arconi Merces Erfahrungen: Warnung vor der Handelsplattform arconi-merces.ltd - Anwalt.de",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTlk0azZkN1I1YlBmRFBraFQzYUREeVlReWRCdUMyNExQZkp3ZDRHQjJUcnl1TWRsY1ctbGhsaklMWHNGd2xWRHhRWXdxU2ZmMlZtMVNZeUh0Tnd2UXVnTzlQWmJHOVpQV1ZXLWFuWGhuY2tBZXJYU1gwZFZYdnhGUDJoQlRuQW5HVU5uOE1YeFFCQjBpM3pScC1EZTRYa3BpM3J0TVV1VTNSbFlHOEtBSWkzN3diSnZMaHNJeGk5MA?oc=5",
-     "date": "2026-11-23T06:44:37.000Z",
-     "text": "Arconi Merces Erfahrungen: Warnung vor der Handelsplattform arconi-merces.ltd Anwalt.de",
-     "via": "Anwalt.de"
-    },
-    {
      "title": "Immediate Edge Erfahrungen: Scam-Warnung – Geld zurück? - Anwalt.de",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmJZLW10MXMtQzhyN0RXbDQ3bG9WblZHOFU4NWRSVnBzbDV2eTF1QzhDNUdMQjg1NERQVG5ESWVPVnl0OERnbWhISFhaQWFDNC02SWU0RG1JeUpRcF9zLWNoQWNpMXdUVnFHSUhLLXlGcFBQcUZHbmE4ZUY5V3gtZjF0c1F0b2pLRlpXYmoxZU9ocmxVWkQ0ODVqQ2xWTEk?oc=5",
      "date": "2026-11-22T18:41:42.000Z",
      "text": "Immediate Edge Erfahrungen: Scam-Warnung – Geld zurück? Anwalt.de",
      "via": "Anwalt.de"
+    },
+    {
+     "title": "Warnung vor Trickbetrug - Erneute Betrugsmasche “falsche Polizeibeamte\" - nnz-online",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6TV8wQjNyRzRPS0FYSC1YVkhwTGNLX0IxZ002em9PbGpjellOeGFUamtZcHpoTkk5MkhtZHp4ZWFpaXo3RXdyb2tNZTFTRkZaMVNqb1l5OVp3TmpnSDhnTTBCYw?oc=5",
+     "date": "2026-11-21T15:37:00.000Z",
+     "text": "Warnung vor Trickbetrug - Erneute Betrugsmasche “falsche Polizeibeamte\" nnz-online",
+     "via": "nnz-online"
     },
     {
      "title": "Warnung der Verbraucherzentrale: Vorsicht vor dieser WhatsApp-Masche - WEB.DE",
@@ -656,11 +817,11 @@
      "via": "WEB.DE"
     },
     {
-     "title": "Warnung vor Trickbetrug - Erneute Betrugsmasche “falsche Polizeibeamte\" - nnz-online",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6TV8wQjNyRzRPS0FYSC1YVkhwTGNLX0IxZ002em9PbGpjellOeGFUamtZcHpoTkk5MkhtZHp4ZWFpaXo3RXdyb2tNZTFTRkZaMVNqb1l5OVp3TmpnSDhnTTBCYw?oc=5",
-     "date": "2026-11-21T15:37:00.000Z",
-     "text": "Warnung vor Trickbetrug - Erneute Betrugsmasche “falsche Polizeibeamte\" nnz-online",
-     "via": "nnz-online"
+     "title": "Arconi Merces Erfahrungen: Warnung vor der Handelsplattform arconi-merces.ltd - Anwalt.de",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTlk0azZkN1I1YlBmRFBraFQzYUREeVlReWRCdUMyNExQZkp3ZDRHQjJUcnl1TWRsY1ctbGhsaklMWHNGd2xWRHhRWXdxU2ZmMlZtMVNZeUh0Tnd2UXVnTzlQWmJHOVpQV1ZXLWFuWGhuY2tBZXJYU1gwZFZYdnhGUDJoQlRuQW5HVU5uOE1YeFFCQjBpM3pScC1EZTRYa3BpM3J0TVV1VTNSbFlHOEtBSWkzN3diSnZMaHNJeGk5MA?oc=5",
+     "date": "2026-11-23T06:44:37.000Z",
+     "text": "Arconi Merces Erfahrungen: Warnung vor der Handelsplattform arconi-merces.ltd Anwalt.de",
+     "via": "Anwalt.de"
     },
     {
      "title": "EUEAA: Gefälschte EU-Finanzbehörde verspricht Geld zurück – Warnung vor Recovery-Betrug über eueaa.eu für Anleger - Anwalt.de",
@@ -718,9 +879,16 @@
    "ok": true,
    "items": [
     {
+     "title": "Neues Gesetz für PayPal und Klarna: Hier müssen Kunden trotzdem aufpassen - STERN.de",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQREpwMk5tTXB6anJXZ2hMendpQnJ1alZnX2YtdWxvbXBPWkZrTG5BZUx3UUQtSUJtc204WFRsWlhvZDNUcGlhVDItMmd4WDFPUmxLNDlXS2dNRHNXY0ZVc2hlUXlEMVRXSnV1TUUwMGFHN0dhaG1SSEE3Zk53NlphQk51aVd3NS1ZRS11WklvQkN2bGIxU1FnOC1DRVFMWDZzUzhRVHFCMVlsWjZUQ19ZcU9pbTR4YkQ1ZVBFZzdtRVU4cUJv?oc=5",
+     "date": "2026-11-23T09:44:00.000Z",
+     "text": "Neues Gesetz für PayPal und Klarna: Hier müssen Kunden trotzdem aufpassen STERN.de",
+     "via": "STERN.de"
+    },
+    {
      "title": "Verbraucherdarlehen: Neue Vorgaben zur Sachkunde - Anwalt.de",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3IxVk1FTXNudlF1TFNia2FPTElQVWtKWXVNRkpYeFY5STVmR0JHM3pzTVZyaGpfNEd4cV8wWjBCMGw0Ti1GY0VFbFQ3MTdHaVFYSWVVRnlUSnNuYnlKQ0VlaFR1NE04MDBaVl9RVzd3dmE0ejEzZ1NmazZFSHItbTJLOTQtejhtMElBWmtZR1VhTUVWQXJsTQ?oc=5",
-     "date": "2026-11-23T08:41:28.000Z",
+     "date": "2026-11-23T09:28:08.000Z",
      "text": "Verbraucherdarlehen: Neue Vorgaben zur Sachkunde Anwalt.de",
      "via": "Anwalt.de"
     },
@@ -739,18 +907,18 @@
      "via": "WEB.DE"
     },
     {
-     "title": "Jetzt kaufen, später zahlen: Was das neue Verbraucherkreditrecht seit dem 20. November 2026 für Sie ändert - Anwalt.de",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeXN0Z0VVYmpiUVBSUUNKdFF1OEJZOFJHSHlXZlRSQW1NejlPaUJDTUEtYzZaYkFkVldiZThJRlI0Q3NPeUYwVW1uSEJIU3p5OWdLdnFFUjcyZTdzME1wcU5JWjFJZ09pLXhTNC1OaUdRR0lGczVWSDhlLV9pYU9XQlpVdTItNkltaXhTYnVNemkyQjZKb1RqNjllZFhSTnJFWXdNQ09yQXBvV2hrUzlmRDZEWXkyeThIRHhHZnljRzBqX1IxSWJSUWNVODJ3cTB2enhjV3B1TjJ1N1pIRnN2LUdBTVViaEU?oc=5",
-     "date": "2026-11-22T16:20:09.000Z",
-     "text": "Jetzt kaufen, später zahlen: Was das neue Verbraucherkreditrecht seit dem 20. November 2026 für Sie ändert Anwalt.de",
-     "via": "Anwalt.de"
-    },
-    {
      "title": "Amazon droht wegen neuem Mamdani-Gesetz mit Rückzug – Lieferungen könnten deutlich teurer werden - Merkur",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODJGczVHRTREam9pY0NQM0JsNGxYdVFoQ2NhaXh4Sk5XQTh3MkM5MmtHRFhCV1J1VnJKenFQQUpUNXpKc1VJWlBaN01tbm11c0NORDhKdEpteW5Mek9nM2czVXNVY21OVkFxR05OdjhBOVZrRnk5NDRTcE1JOGhidFFIaHpKcWhfUmhLSUFjYzBGVDVfbmYxaUVQUGVRYlpFWnJKejNWaWhDc1U?oc=5",
      "date": "2026-11-21T08:18:50.000Z",
      "text": "Amazon droht wegen neuem Mamdani-Gesetz mit Rückzug – Lieferungen könnten deutlich teurer werden Merkur",
      "via": "Merkur"
+    },
+    {
+     "title": "Jetzt kaufen, später zahlen: Was das neue Verbraucherkreditrecht seit dem 20. November 2026 für Sie ändert - Anwalt.de",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeXN0Z0VVYmpiUVBSUUNKdFF1OEJZOFJHSHlXZlRSQW1NejlPaUJDTUEtYzZaYkFkVldiZThJRlI0Q3NPeUYwVW1uSEJIU3p5OWdLdnFFUjcyZTdzME1wcU5JWjFJZ09pLXhTNC1OaUdRR0lGczVWSDhlLV9pYU9XQlpVdTItNkltaXhTYnVNemkyQjZKb1RqNjllZFhSTnJFWXdNQ09yQXBvV2hrUzlmRDZEWXkyeThIRHhHZnljRzBqX1IxSWJSUWNVODJ3cTB2enhjV3B1TjJ1N1pIRnN2LUdBTVViaEU?oc=5",
+     "date": "2026-11-22T16:20:09.000Z",
+     "text": "Jetzt kaufen, später zahlen: Was das neue Verbraucherkreditrecht seit dem 20. November 2026 für Sie ändert Anwalt.de",
+     "via": "Anwalt.de"
     },
     {
      "title": "Kaufe jetzt, zahle später: Strengere Regeln für Verbraucherkredite - Der Standard",
@@ -780,6 +948,12 @@
    "focus": "Nur Gesetze, Urteile und Gebühren, die Bürger direkt betreffen.",
    "ok": true,
    "items": [
+    {
+     "title": "NATO-Parlamentarier tagen zu Sicherheitspolitik in Berlin",
+     "url": "https://www.tagesschau.de/inland/nato-versammlung-berlin-100.html",
+     "date": "2026-11-23T09:14:40.000Z",
+     "text": "Die Parlamentarische Versammlung der NATO versteht sich als eine Art transatlantisches Parlament. Heute tagen die Delegierten in Berlin - mit prominenten Gästen und weitreichenden Forderungen. Von Oliver Neuroth."
+    },
     {
      "title": "Im Rentenstreit deutet sich ein Kompromiss an",
      "url": "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html",
@@ -951,6 +1125,12 @@
    "ok": true,
    "items": [
     {
+     "title": "Rauf statt runter! Die bittere Strom-Wahrheit",
+     "url": "https://nius.de/nius-live/rauf-statt-runter-die-bittere-strom-wahrheit",
+     "date": "2026-11-23T10:14:35.000Z",
+     "text": "Auch am Montag, dem 23. November 2026, beginnt der Tag mit NIUS."
+    },
+    {
      "title": "Messer-Attacke: Frau (41) bremst Auto aus und sticht auf Beifahrer und Fahrerin ein",
      "url": "https://nius.de/nachrichten/messerattacke-frau-sticht-auf-beifahrer-ein",
      "date": "2026-11-23T08:32:05.000Z",
@@ -987,14 +1167,8 @@
      "text": "Müllberge auf den Straßen, verwahrloste Wohnhäuser, Ratten und fehlender Wille zur Anpassung: NIUS hat in den vergangenen Wochen zum Leben der Sinti und Roma im Ruhrgebiet recherchiert und die Heimat vieler Roma im bulgarischen Stolipinovo besucht."
     },
     {
-     "title": "Rauf statt runter! Die bittere Strom-Wahrheit",
-     "url": "https://nius.de/nius-live/rauf-statt-runter-die-bittere-strom-wahrheit",
-     "date": "2026-11-22T23:05:01.000Z",
-     "text": "Auch am Montag, dem 23. November 2026, beginnt der Tag mit NIUS."
-    },
-    {
      "title": "Die Spinne von Bonn: Wie Klaus Müller Energie und Meinungsfreiheit kontrolliert",
-     "url": "https://nius.de/news/klaus-mueller-energie-meinungsfreiheit",
+     "url": "https://nius.de/politik/klaus-mueller-energie-meinungsfreiheit",
      "date": "2026-11-22T23:04:00.000Z",
      "text": "Der regulatorische Einfluss von Bundesnetzagentur-Chef Klaus Müller reicht inzwischen weit über das Stromnetz hinaus …"
     },
