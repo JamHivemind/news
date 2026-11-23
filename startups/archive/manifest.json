@@ -1,6 +1,23 @@
 {
   "briefs": [
     {
+      "date": "2026-11-23",
+      "file": "2026-11-23.html",
+      "headline": "Black Forest Labs setzt auf „World Models“",
+      "count": 6,
+      "sources": 3,
+      "cats": {
+        "Europa & Welt": 3,
+        "Finanzierungen": 1,
+        "Hamburg & Norddeutschland": 1,
+        "Förderung & Politik": 1
+      },
+      "ents": {
+        "KI": 3,
+        "Hamburg": 1
+      }
+    },
+    {
       "date": "2026-11-22",
       "file": "2026-11-22.html",
       "headline": "Telekom steigt mit 100 Millionen Euro bei Mistral AI ein",
