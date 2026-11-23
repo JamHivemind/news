@@ -1,6 +1,25 @@
 {
   "briefs": [
     {
+      "date": "2026-11-23",
+      "file": "2026-11-23.html",
+      "headline": "Börsenbeben: Nvidia und Anthropic unter Druck",
+      "count": 13,
+      "sources": 5,
+      "cats": {
+        "Börse & Märkte": 1,
+        "Arbeit & Soziales": 3,
+        "Energie": 2,
+        "Politik & Handel": 4,
+        "Unternehmen": 2,
+        "Konjunktur": 1
+      },
+      "ents": {
+        "Volkswagen": 1,
+        "Bundesregierung": 1
+      }
+    },
+    {
       "date": "2026-11-22",
       "file": "2026-11-22.html",
       "headline": "Anthropic-Börsengang trifft auf Tech-Ausverkauf",

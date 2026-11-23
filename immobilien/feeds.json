@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-23T05:17:21.500Z",
+ "fetched": "2026-11-23T05:18:58.656Z",
  "hours": 80,
  "sources": [
   {
@@ -530,6 +530,24 @@
    "ok": true,
    "items": [
     {
+     "title": "Börse am 20. November: Dax vorbörslich im Minus: Sieben Punkte, die für Anleger wichtig sind",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+     "date": "2026-11-23T05:20:00.000Z",
+     "text": "Zum Ende der Handelswoche erwarten Anleger zwar einige Termine. Ob der Dax allerdings den Sprung über die Marke von 26.000 Punkten schaffen dürfte, bleibt fraglich."
+    },
+    {
+     "title": "Morning Briefing: Der Panik-Index an der Börse steht auf neun von zehn",
+     "url": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-der-panik-index-an-der-boerse-steht-auf-neun-von-zehn/100271899.html",
+     "date": "2026-11-23T05:18:02.000Z",
+     "text": "Nach dem schwarzen Freitag für Tech-Aktien spricht an den Märkten nur wenig für Besserung. Das liegt an der KI‑Delle – und einer verlockenden Alternative für viele Anleger."
+    },
+    {
+     "title": "Morning Briefing Podcast: Der Panik-Index an der Börse steht auf neun von zehn",
+     "url": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-der-panik-index-an-der-boerse-steht-auf-neun-von-zehn/100271934.html",
+     "date": "2026-11-23T05:15:12.000Z",
+     "text": "Nach dem schwarzen Freitag für Tech-Aktien spricht an den Märkten nur wenig für Besserung. Das liegt an der KI‑Delle – und einer verlockenden Alternative für viele Anleger."
+    },
+    {
      "title": "Alterssicherung: Studie: Altersteilzeit-Reform würde sich für Fiskus lohnen",
      "url": "https://www.handelsblatt.com/politik/deutschland/alterssicherung-studie-altersteilzeit-reform-wuerde-sich-fuer-fiskus-lohnen/100271929.html",
      "date": "2026-11-23T04:00:17.000Z",
@@ -590,10 +608,10 @@
      "text": "Jim Baumbick warnt vor den Folgen der neuen EU‑Industriepolitik. Im Interview fordert er, dass europäische Hersteller viel mehr gegen die gemeinsame Konkurrenz aus China gestärkt werden."
     },
     {
-     "title": "Märkte: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
+     "title": "Märkte: Euphorie weicht Furcht – Sorge vor einem Ende des KI-Booms wächst",
      "url": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-euphorie-weicht-furcht-sorge-vor-einem-ende-des-ki-booms-waechst/100271863.html",
      "date": "2026-11-23T03:02:13.000Z",
-     "text": "„Alle Bären wachen auf“: Am zweiten Handelstag startet die Aktie des KI-Pioniers zehn Prozent im Minus. Die Wall Street steuert auf die längste Verluststrecke seit drei Jahren zu."
+     "text": "Anlageexperten blicken skeptisch auf die neue Börsenwoche. Nach dem Kurssturz vom Freitag erwarten sie keine rasche Beruhigung an den Märkten. Die Nervosität steigt."
     },
     {
      "title": "Kriselnder Autobauer: Wie bei Volkswagen der Streit ums Sparen eskaliert ist",
@@ -690,24 +708,6 @@
      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-welche-sektoren-vom-demografischen-wandel-profitieren/100269798.html",
      "date": "2026-11-22T14:59:37.000Z",
      "text": "Die Bevölkerung wird immer älter. Das hat Auswirkungen auf die Wirtschaft: Denn alte Menschen konsumieren anders als junge. Welche Branchen daher auch für Anleger interessant sein können."
-    },
-    {
-     "title": "Deep Read: Zehn Wochen vom vertraulichen Brief bis zum Aus: So scheiterte der Milliarden-Plan von BASF",
-     "url": "https://www.handelsblatt.com/unternehmen/industrie/basf-und-evonik-der-zerplatzte-traum-vom-deutschen-chemie-champion/100271483.html",
-     "date": "2026-11-22T14:57:27.000Z",
-     "text": "BASF-Chef Kamieth wollte mit Evonik einen global mächtigen Chemie-Champion schaffen. Doch sein Management unterschätzte den politischen Widerstand. Rekonstruktion eines Fehlschlags."
-    },
-    {
-     "title": "Belgien: Streik legt belgischen Flugverkehr am Montag lahm",
-     "url": "https://www.handelsblatt.com/politik/international/belgien-streik-flugverkehr-steht-am-montag-von-7-bis-21-uhr-fast-still/100271872.html",
-     "date": "2026-11-22T14:23:05.000Z",
-     "text": "Gewerkschaften protestieren gegen die Sparpolitik von Premier De Wever, auch der Nahverkehr ist betroffen. Der Flugverkehr dürfte zu weiten Teilen ausfallen."
-    },
-    {
-     "title": "Interview: Ex-Kuka-Chef: „Die anderen wollen gewinnen, wir wollen nicht verlieren“",
-     "url": "https://www.handelsblatt.com/unternehmen/industrie/ex-kuka-chef-die-anderen-wollen-gewinnen-wir-wollen-nicht-verlieren/100267064.html",
-     "date": "2026-11-22T14:17:55.000Z",
-     "text": "Till Reuter hat einst Kuka nach China verkauft. Heute leitet er die Schweizer Dormakaba. Im Interview spricht er über den Sinn einer Vermögensteuer und Deutschlands Chancen in der Robotik."
     }
    ]
   },
@@ -756,7 +756,36 @@
    "name": "Google News: Büromarkt Hamburg",
    "focus": "Büromarkt Hamburg. Reicht 7 Tage zurück, weil Marktberichte selten erscheinen.",
    "ok": true,
-   "items": []
+   "items": [
+    {
+     "title": "VICTOR - 3. Quartal 2026 - JLL",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HTnJWYWFIMHZhcHNLVjAwMGN3d2hWb2EyVHNGMkZyVk9OMzN0TnZsblZLMDJpTXBwdEUzRTJ3OWhUV1lOZ2pCU1NLaDFyLWtBUHZLZ2Y0LXJXZENSQ05EeDFjWlhRYUFO?oc=5",
+     "date": "2026-11-17T08:00:00.000Z",
+     "text": "VICTOR - 3. Quartal 2026 JLL",
+     "via": "JLL"
+    },
+    {
+     "title": "Hamburg: CS Business Center mietet rund 1.840 m² Bürofläche in Winterhude und Rotherbaum - Konii - Digital Real Estate",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTd0WVN0SmE5SGZGMXJ5SWtaZjNjbHRMMFI3dEM1ZjA3XzhHSmh5UFhTMEVPX3FKS3J6MkV4WDZJS2Y5d24zY3BSTk5mU244UjNhMzNwbllMWV9ybDU4eFEtZ0l5M0VicDhFU3pVV0s3dnMtSDVyMVV0QUYtWHdzbEJ3WkdvS0dqSlNYS0dFejRudXc1Y2xQVEpfQXpNT0FpcExzbmgzNEwtaUhBcDBtWjlocVBYQVVreTNUR29R?oc=5",
+     "date": "2026-11-19T09:22:59.000Z",
+     "text": "Hamburg: CS Business Center mietet rund 1.840 m² Bürofläche in Winterhude und Rotherbaum Konii - Digital Real Estate",
+     "via": "Konii - Digital Real Estate"
+    },
+    {
+     "title": "REALOGIS vermittelt rund 5.770 Quadratmeter Lager- und Büroflächen in Hamburg-Veddel - ASSETPHYSICS",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1ZnVnY5YVA3QVpjYnByclhmbl9SU1BnWkcwaFBKcnNfNmU4MFpoMUZhLW5HSUVYTkRpUTlnUm53UVVkNkR3SXM0d011TFlGVkkwaFRzQkladEFyZjM5N09QbWl1SUYzTVk2cG05SWlBM3Itd1RLMXBFMUl3UjVDOUZ4YmNQS1V4WmR0d3Y4Nmc3b2ZNc2V4MmM4TV9fNUVHUW1Qd19HbFJ3dEVSRE9qcw?oc=5",
+     "date": "2026-11-16T10:04:13.000Z",
+     "text": "REALOGIS vermittelt rund 5.770 Quadratmeter Lager- und Büroflächen in Hamburg-Veddel ASSETPHYSICS",
+     "via": "ASSETPHYSICS"
+    },
+    {
+     "title": "Newmark vermittelt Nooma Betriebsgesellschaft 3.000 m² Bürofläche im Hamburger Asia-Haus - Konii - Digital Real Estate",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmJnSUZaTWh1bWVnUWpnY3E0OEpXN1ctNjJwMHh2SVZWYmgtWWI4S09kbGZzbDMzNElWbGJBWlpFNXNUbTdYMU1hLVE0UGRhTEE0NVVJbjhDU0tRR3VXajBycHdDN05FQlJYTGt2RUhvdEZwYjY3c1N5Q3JJZ2dFdXdDYlF3OFZqNTdIaXZoXzNzUzU1N3hRbnNrUmtoRG4zb00zVGsxY3QyOHJUZ1ZiQjlEdXBNNERZWFFkWXZKYw?oc=5",
+     "date": "2026-11-19T07:17:09.000Z",
+     "text": "Newmark vermittelt Nooma Betriebsgesellschaft 3.000 m² Bürofläche im Hamburger Asia-Haus Konii - Digital Real Estate",
+     "via": "Konii - Digital Real Estate"
+    }
+   ]
   },
   {
    "name": "Google News: Immobilienmarkt Deutschland",
