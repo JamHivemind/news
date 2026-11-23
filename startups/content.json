@@ -1,50 +1,50 @@
 {
- "date": "2026-11-22",
- "intro": "Ruhiger Sonntag mit einigen großen Summen: Die Telekom steigt bei Mistral AI ein, und Bending Spoons kauft Mailchimp. Aus Hamburg und Norddeutschland liegt heute nichts Neues vor.",
- "top": [
-  {
-   "title": "Telekom steigt mit 100 Millionen Euro bei Mistral AI ein",
-   "text": "Die Deutsche Telekom beteiligt sich laut aktien.news mit 100 Millionen Euro an Mistral AI. Das ist ein französisches Startup, das KI-Sprachmodelle entwickelt. Für Europa ist das ein Signal, dass große Konzerne auf eigene KI-Anbieter setzen. Mehr Details nennt die Kurzmeldung nicht.",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODBTcjU5aVo2dWZVWmZmUFRuazFmY0JUeUZUd1VxR0VRSWNnSGFpTWdKNGlxQUo1V0JieUlqSF9leC16TVJ1NFg1Y0tWQ3Q5MGppcjBMY0tTMVhPQ3VjYlZha2tSako0emJ2TWMwMlJuM1ZnWF9ZUHVCVDdsR3FnUEdKWlI1VWc?oc=5",
-   "source": "aktien.news",
-   "category": "Finanzierungen"
-  },
-  {
-   "title": "Bending Spoons kauft Mailchimp für 3,35 Milliarden Euro",
-   "text": "Das Mailänder Technologieunternehmen Bending Spoons übernimmt den E-Mail-Marketing-Dienst Mailchimp vom US-Konzern Intuit. Der Kaufpreis von 3,35 Milliarden Euro wird komplett bar gezahlt. Intuit steckt davon 335 Millionen Euro wieder in Bending Spoons. Dazu kündigt die Firma eine Kapitalerhöhung bei Investoren über 1,18 Milliarden Euro an.",
-   "url": "https://www.eu-startups.com/2026/11/berkshire-hathaway-backed-bending-spoons-to-buy-mailchimp-for-e3-35-billion-announces-e1-18-billion-private-placement/",
-   "source": "EU-Startups",
-   "category": "Exits & Übernahmen"
-  },
-  {
-   "title": "Quantum Systems investiert über 10 Millionen Euro in Ukraine-Drohnen",
-   "text": "Das Drohnen-Startup Quantum Systems und Frontline Robotics wollen mehr als 10 Millionen Euro in die langfristige Unterstützung von Drohnen in der Ukraine stecken. Das kommt kurz nach einer Finanzierungsrunde von einer Milliarde Euro. EU-Startups zählt in diesem Jahr bereits mehr als 1,8 Milliarden Euro Finanzierung für europäische Verteidigungs-Technik.",
-   "url": "https://www.eu-startups.com/2026/11/following-e1-billion-funding-round-quantum-systems-commits-over-e10-million-to-expand-drone-support-in-ukraine/",
-   "source": "EU-Startups",
-   "category": "Europa & Welt"
-  }
- ],
- "entries": [
-  {
-   "title": "Archer sammelt 9,1 Millionen Euro für KI-Recruiting-Agenten",
-   "summary": "Das Unternehmen, früher hackajob, setzt KI-Agenten für Recruiter und Jobsuchende ein. Angeführt wurde die Runde von Volition Capital, auch der Bestandsinvestor AVP ist dabei.",
-   "url": "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/",
-   "source": "EU-Startups",
-   "category": "Finanzierungen"
-  },
-  {
-   "title": "Gradyent erhält 20 Millionen Euro EIB-Kredit",
-   "summary": "Das niederländische Startup optimiert Fernwärme- und Kältenetze digital. Der Kredit der Europäischen Investitionsbank folgt auf eine überzeichnete Runde über 28 Millionen Euro.",
-   "url": "https://www.eu-startups.com/2026/11/dutch-startup-gradyent-lands-e20-million-eib-loan-to-expand-digital-twin-technology-across-europes-heating-networks/",
-   "source": "EU-Startups",
-   "category": "Finanzierungen"
-  },
-  {
-   "title": "Malmö will Schwedens Food-Hotspot werden",
-   "summary": "Sifted porträtiert die schwedische Stadt, die die Zukunft der Ernährung baut. Der Artikel ist nur teilweise frei lesbar.",
-   "url": "https://sifted.eu/articles/inside-the-swedish-city-building-the-future-of-food-brnd/",
-   "source": "Sifted",
-   "category": "Europa & Welt"
-  }
- ]
+  "date": "2026-11-23",
+  "intro": "Ein ruhiger Start in die Woche: Nach der Slush-Konferenz in Helsinki gibt es neue Finanzierungen und Debatten um europäische KI. Aus Hamburg kommt eine Gründergeschichte aus der Fernseh-Show „Die Millionenidee“.",
+  "top": [
+    {
+      "title": "Black Forest Labs setzt auf „World Models“",
+      "text": "Das KI-Startup Black Forest Labs, unterstützt von Nvidia und dem Risikokapitalgeber a16z, will sich auf sogenannte World Models konzentrieren. Das sind KI-Systeme, die die physische Welt nachbilden sollen. Einzelheiten stehen beim Sifted-Bericht hinter der Bezahlschranke.",
+      "category": "Europa & Welt",
+      "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/",
+      "source": "Sifted"
+    },
+    {
+      "title": "Monzo-Ehemalige gründen Anti-Betrugs-Startup",
+      "text": "Ehemalige Mitarbeiter der britischen Digitalbank Monzo haben ein Startup gegen Betrug gegründet. Die Investorin Eileen Burbidge steigt mit ein, die Pre-Seed-Runde (frühe Startfinanzierung) umfasst 1,8 Millionen Pfund.",
+      "category": "Finanzierungen",
+      "url": "https://sifted.eu/articles/acorda-pre-seed/",
+      "source": "Sifted"
+    },
+    {
+      "title": "Wollmäuse aus Sasel: Hamburger Gründerin in „Die Millionenidee“",
+      "text": "Heike aus Hamburg-Sasel ist mit einem Saugroboter-Aufsatz namens Wollmäuse in der Fernseh-Show „Die Millionenidee“ aufgetreten. Gründerfreunde berichtet über die Idee der 64-Jährigen.",
+      "category": "Hamburg & Norddeutschland",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KcHpXSkw5MktaYk5TTG81X0lYOWtlX2VzVHo0ZGl1TnJLRzdETFYyaGUyb2ZTYUFLaWs1ZksxRDdiVm5MR2RWVzRobkx3OU1ELUVSaGVNLUhtU3ExbVJMQjFxNGpJZkpoZ0xKU25jWDhidFk?oc=5",
+      "source": "Gründerfreunde"
+    }
+  ],
+  "entries": [
+    {
+      "title": "Britische KI-Ministerin lehnt eigenes Sprachmodell ab",
+      "summary": "Die Ministerin weist Forderungen nach einem staatlichen KI-Modell zurück. Das löst laut Sifted Empörung in der Szene aus.",
+      "category": "Förderung & Politik",
+      "url": "https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/",
+      "source": "Sifted"
+    },
+    {
+      "title": "Slush 2026: Roboter, Reichtum und das Rennen um Superintelligenz",
+      "summary": "Sifted fasst die Startup-Messe in Helsinki zusammen und beschreibt die Stimmung zwischen Robotik und KI-Hype.",
+      "category": "Europa & Welt",
+      "url": "https://sifted.eu/articles/inside-slush-2026-robots-riches-and-the-race-to-superintelligence/",
+      "source": "Sifted"
+    },
+    {
+      "title": "Nvidia nach dem Rücktritt von Chef Huang",
+      "summary": "Nvidia legte trotz des Rücktritts von Chef Jensen Huang gute Quartalszahlen vor und versprach weiter Wachstum. Die Folgen des Skandals beschäftigen den Konzern weiter.",
+      "category": "Europa & Welt",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch Startups"
+    }
+  ]
 }
