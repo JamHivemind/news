@@ -1,114 +1,108 @@
 {
- "date": "2026-11-22",
- "intro": "Der Börsengang von Anthropic fällt in eine schwache Woche für Tech-Aktien. Nebenbei sorgt ein angeblicher Beweis der Riemannschen Vermutung mit Hilfe von Claude für Aufsehen.",
- "top": [
-  {
-   "title": "Anthropic ist an der Börse – und die Aktie schwankt stark",
-   "text": "Anthropic, die Firma hinter dem KI-Assistenten Claude, ist an die Börse gegangen. Die Aktie startete laut Latent Space deutlich über dem Ausgabepreis und schloss am ersten Tag niedriger als zur Eröffnung. Am Folgetag verlor sie laut Reuters weitere 13 Prozent. Der Börsengang fiel in eine Phase großer Verunsicherung: Anleger zweifeln, ob der KI-Boom anhält. Für Nutzer ändert sich zunächst nichts, für Anthropic wird der Druck durch Anleger aber größer.",
-   "url": "https://t3n.de/news/starker-start-an-der-boerse-wird-anthropic-den-erfolgskurs-halten-koennen-1774672",
-   "source": "t3n",
-   "category": "Business & Funding"
-  },
-  {
-   "title": "Mathematiker beweist mit Claude die Riemannsche Vermutung – nach eigenen Angaben",
-   "text": "Ein Mathematiker von Anthropic sagt, er habe mit Hilfe von Claude die Riemannsche Vermutung bewiesen. Das ist eines der berühmtesten ungelösten Probleme der Mathematik. Der Beweis liegt in Lean vor, einer Software, die Beweise automatisch auf Fehler prüft. Laut Guardian haben zwei Gruppen die Behauptung bereits überprüft. Wenn es hält, zeigt das, wie weit KI in der Forschung inzwischen helfen kann.",
-   "url": "https://the-decoder.de/heiliger-gral-der-mathematik-offenbar-gefallen-anthropic-forscher-loest-riemannsche-vermutung-mit-ki/",
-   "source": "The Decoder",
-   "category": "Forschung & Deep Tech"
-  },
-  {
-   "title": "US-Techbörse bricht ein: KI-Zweifel und Nvidia-Skandal",
-   "text": "Der Nasdaq 100, ein Index großer Tech-Firmen, ist in den Bärenmarkt gerutscht. Das heißt: Er liegt mehr als 20 Prozent unter dem Höchststand. Es war die schlechteste Woche seit Beginn der Corona-Krise. Nvidia verlor 14 Prozent, die US-Börsenaufsicht SEC prüft die Buchhaltung. Nvidia hat zuvor seinen Chef Jensen Huang abgesetzt. Wer KI-Aktien oder Fonds mit Tech-Anteil hält, spürt das direkt.",
-   "url": "https://the-decoder.de/us-techmarkt-im-freien-fall-perfekter-sturm-aus-ki-zweifeln-skandalen-und-inflationsangst/",
-   "source": "The Decoder",
-   "category": "Business & Funding"
-  }
- ],
- "entries": [
-  {
-   "title": "OpenAI will Abschreiben von KI-Fähigkeiten verhindern",
-   "summary": "OpenAI beschreibt, wie es sogenannte Destillation abwehrt. Dabei trainieren Dritte ein eigenes Modell mit den Antworten eines fremden, um dessen Können zu kopieren. OpenAI setzt auf Training, Schutzmaßnahmen, Erkennung und Durchsetzung.",
-   "url": "https://openai.com/index/combatting-adversarial-distillation",
-   "source": "OpenAI News",
-   "category": "Modelle & Releases"
-  },
-  {
-   "title": "OpenAI veröffentlicht Prompt-Tipps für GPT-6.2 Astra und Sol",
-   "summary": "Die Vorlagen sollen typische Macken der Modelle ausgleichen, etwa zu knappe Antworten, unnötige Rückfragen und übertriebenes Texten.",
-   "url": "https://the-decoder.de/openai-teilt-prompting-tipps-fuer-gpt-6-2-astra-und-sol/",
-   "source": "The Decoder",
-   "category": "KI im Alltag & Beruf",
-   "tipp": "Wer GPT-6.2 nutzt, kann die neuen Prompt-Vorlagen von OpenAI ausprobieren, wenn Antworten zu kurz ausfallen oder das Modell zu viel nachfragt."
-  },
-  {
-   "title": "Signal sperrt Screenshots, damit KI-Assistenten nicht mitlesen",
-   "summary": "Signal schränkt Bildschirmfotos in der Android- und iOS-App ein. So sollen KI-Funktionen wie Gemini oder Siri keine privaten Nachrichten lesen können.",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-   "source": "The Verge AI",
-   "category": "KI im Alltag & Beruf"
-  },
-  {
-   "title": "UN-Gespräche zu Killer-Robotern ohne Ergebnis",
-   "summary": "Die Konferenz in Genf endet ohne Mandat für ein verbindliches Verbot autonomer Waffen. Staaten wie Russland und die USA blockierten laut heise erneut einen klaren Fahrplan.",
-   "url": "https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html",
-   "source": "heise online",
-   "category": "Regulierung & Politik"
-  },
-  {
-   "title": "Goldman Sachs bremst bei KI-Werkzeugen",
-   "summary": "Die Bank beschränkt Claude Code und GitHub künftig auf Entwickler. Hintergrund sind stark steigende KI-Kosten.",
-   "url": "https://t3n.de/news/goldman-sachs-ki-kosten-bremse-1771271",
-   "source": "t3n",
-   "category": "Business & Funding"
-  },
-  {
-   "title": "US-Gesetz soll KI-Chips auf Schmuggel überprüfbar machen",
-   "summary": "Der Chip Security Act sieht vor, den Standort von KI-Chips zu verfolgen, um Schmuggel nach China zu verhindern. t3n fragt, was Nvidia und Branchenverbände davon halten.",
-   "url": "https://t3n.de/news/nvidia-chips-tracking-1773433",
-   "source": "t3n",
-   "category": "Regulierung & Politik"
-  },
-  {
-   "title": "Inkling 2 Mini: offenes KI-Modell denkt in Schleifen",
-   "summary": "Thinking Machines veröffentlicht ein offenes Modell, das einen Teil seiner Schichten mehrfach durchläuft, um intern länger nachzudenken. Es läuft trotzdem auf einem Laptop.",
-   "url": "https://the-decoder.de/inkling-2-mini-neues-ki-modell-denkt-in-schleifen-und-laeuft-trotzdem-auf-dem-laptop/",
-   "source": "The Decoder",
-   "category": "Modelle & Releases"
-  },
-  {
-   "title": "Spotify-Gründer Daniel Ek unterstützt Fusions-Startup",
-   "summary": "Europa Fusion wurde von einer Person aus der KI-Forschung gegründet und will Strom aus Kernfusion gewinnen. Ek investiert in die Firma.",
-   "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-   "source": "TechCrunch AI",
-   "category": "Business & Funding"
-  },
-  {
-   "title": "KI-Rechenzentren belasten das Stromnetz",
-   "summary": "Der hohe Strom- und Wasserverbrauch sorgt in den USA für wachsenden Widerstand. Eine neue Harvard-Studie liefert laut t3n dazu Argumente.",
-   "url": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938",
-   "source": "t3n",
-   "category": "KI im Alltag & Beruf"
-  },
-  {
-   "title": "Mini-Workstations mit Nvidia RTX Spark ab 4.600 Euro",
-   "summary": "Asus und MSI liefern kompakte Windows-PCs mit bis zu 128 GByte Speicher für KI-Anwendungen. Einige Konkurrenzgeräte mit AMD-Chips sind günstiger.",
-   "url": "https://www.heise.de/news/KI-Mini-Workstations-mit-Nvidia-RTX-Spark-jetzt-ab-4600-Euro-erhaeltlich-11532573.html",
-   "source": "heise online",
-   "category": "Tools & Agenten"
-  },
-  {
-   "title": "Musk: Anthropic dürfte Rechenleistung bei SpaceX ausbauen",
-   "summary": "Laut Elon Musk ist es sehr wahrscheinlich, dass Anthropic seinen Vertrag über Rechenleistung mit SpaceX erweitert. Genannt wird ein möglicher Bedarf von 10 Gigawatt zusätzlich.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkU0N25PUzUwTWlsM1NUeFFaZXphS19wdDBNbWNFNjBmRzNheDRKRkxRb1N1ajBSeDdSeGVISmNUbHV3WThYZEF2ZEVwb2ZoMzlfNGJHQVhVX051Q1dIMk5ycTFoRUIwMTZ1Z2FPbE1lRENRWHU4cFlVeGphM2ljYWpaaUhNR0xDT0paZmJQMXFTZVFBcWw3cFQzbjZJcXM?oc=5",
-   "source": "Yahoo Finance",
-   "category": "Business & Funding"
-  },
-  {
-   "title": "KI und Lean sollen Software automatisch beweisbar korrekt machen",
-   "summary": "Software mathematisch auf Fehlerfreiheit zu prüfen, war bisher Spezialarbeit. Mit KI und Lean lässt sich das zunehmend automatisieren.",
-   "url": "https://latent.space/p/formal-verification/",
-   "source": "AINews (Latent Space)",
-   "category": "Forschung & Deep Tech"
-  }
- ]
+  "date": "2026-11-23",
+  "intro": "Der Beweis der Riemannschen Vermutung mit Claude gilt nun als bestätigt. Gleichzeitig geraten Tech-Aktien unter Druck, und viele Alltags-Tools bekommen neue KI-Funktionen.",
+  "top": [
+    {
+      "title": "Beweis der Riemannschen Vermutung offiziell bestätigt",
+      "text": "Die Lean-Community hat den Beweis des Anthropic-Mathematikers Levent Alpöge offiziell als korrekt eingestuft. Der Beweis liegt als 17 Millionen Zeilen langer Computercode in Lean vor, einer Software zum Prüfen mathematischer Beweise. Dutzende unabhängige Prüfer haben ihn kontrolliert. Das Rätsel gilt als eines der berühmtesten der Mathematik; Claude half bei der Arbeit.",
+      "category": "Forschung & Deep Tech",
+      "url": "https://the-decoder.de/lean-community-bestaetigt-offiziell-den-beweis-der-riemannschen-vermutung/",
+      "source": "The Decoder"
+    },
+    {
+      "title": "US-Tech-Aktien rutschen in den Bärenmarkt",
+      "text": "Ermittlungen gegen Nvidia und Skandale um Firmenchef Jensen Huang belasten die Kurse. US-Tech-Aktien haben nach heftigen Verlusten den Status eines Bärenmarkts erreicht, so nennt man einen länger anhaltenden Kursrückgang. Für Anleger heißt das: Die Zweifel am KI-Boom bleiben groß.",
+      "category": "Business & Funding",
+      "url": "https://www.heise.de/news/Nvidia-geraet-weiter-unter-Druck-und-US-Tech-Aktien-in-den-Baerenmarkt-11533802.html",
+      "source": "heise online"
+    },
+    {
+      "title": "Claude als Office-Helfer: Alternative zu Copilot?",
+      "text": "Claude übernimmt zunehmend klassische Office-Aufgaben. t3n erklärt, dass sich Anthropics Ansatz grundsätzlich von Microsofts Copilot unterscheidet, und nennt auch, was noch fehlt. Wer im Büro KI nutzt, findet hier eine Orientierung für den Vergleich.",
+      "category": "KI im Alltag & Beruf",
+      "tipp": "Probiere eine typische Büroaufgabe, etwa eine Tabelle zusammenfassen, in beiden Tools aus und vergleiche das Ergebnis.",
+      "url": "https://t3n.de/news/claude-office-microsoft-copilot-test-1773849",
+      "source": "t3n"
+    }
+  ],
+  "entries": [
+    {
+      "title": "Anthropic und die 900 Milliarden: Schulden womöglich Ramsch",
+      "summary": "Laut WSJ hat sich Anthropic zu Ausgaben von rund 900 Milliarden Dollar verpflichtet. Die Wall Street erwartet, dass die Schulden der Firma als „Junk“, also als riskante Anlage, eingestuft werden.",
+      "category": "Business & Funding",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNHFQOEdMZm5FNmNuNWo3WHNuNHhBVkprTmplTktaZ1J5Ni0wN0NBdHF5YWg5X2pfc09rZldBYU80NWVCNTRRZDVsb1RfVkRHdFBseWh5VmZieU45WnhMb0JpNEFkZHlCRXp1Y1FMb1M0WjNEWGk0MjBJb3V5eGRtQmVaVzBWaWtPeUhOX1hleHkteHRNN2JUekRTMGpTYmtuMTNKNUdZZG8xWF9iSzYzT3kzaUEzbkYzZ0NsT281aHl6U1FDWUE?oc=5",
+      "source": "WSJ"
+    },
+    {
+      "title": "„Ask Maps“ startet in Deutschland",
+      "summary": "Google Maps kann mit der neuen KI-Funktion den Tagesablauf planen und Termine buchen. Sie ist jetzt auch hierzulande verfügbar.",
+      "category": "KI im Alltag & Beruf",
+      "url": "https://t3n.de/news/google-ask-maps-start-deutschland-1773919",
+      "source": "t3n"
+    },
+    {
+      "title": "KI wird schneller besser, als man sie testen kann",
+      "summary": "Die Organisation METR berichtet, dass führende Modelle wie Opus 5.5 und GPT-6 Astra bei Forschungsaufgaben rasant zulegen. Die vorhandenen Tests kommen kaum noch hinterher.",
+      "category": "Forschung & Deep Tech",
+      "url": "https://the-decoder.de/ki-modelle-werden-schneller-besser-als-sich-ihre-faehigkeiten-pruefen-lassen/",
+      "source": "The Decoder"
+    },
+    {
+      "title": "Perplexity lässt KI-Agenten das Web überwachen",
+      "summary": "Die neue Monitor-API durchsucht das Web nach Zeitplan. Ein KI-Agent (ein Programm, das selbstständig Aufgaben erledigt) wird nur benachrichtigt, wenn sich etwas Relevantes ändert.",
+      "category": "Tools & Agenten",
+      "url": "https://the-decoder.de/perplexity-laesst-ki-agenten-das-web-als-ganzes-rund-um-die-uhr-beobachten/",
+      "source": "The Decoder"
+    },
+    {
+      "title": "GPT-6.2 antwortet kürzer, räumt aber seltener Unsicherheit ein",
+      "summary": "Laut Artificial Analysis sind die Antworten von GPT-6.2 Astra und Sol rund 40 Prozent kürzer. Dafür geben die Modelle deutlich seltener zu, wenn sie etwas nicht sicher wissen.",
+      "category": "Modelle & Releases",
+      "url": "https://the-decoder.de/gpt-6-2-antwortet-bis-zu-40-prozent-kuerzer-und-gesteht-unsicherheit-seltener-ein/",
+      "source": "The Decoder"
+    },
+    {
+      "title": "UN einigen sich nicht auf Regeln für „Killerroboter“",
+      "summary": "Bei den Beratungen in Genf kam keine Einigung über Regeln für autonome Waffen zustande. Damit bleibt der Einsatz solcher Systeme international ungeregelt.",
+      "category": "Regulierung & Politik",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge AI"
+    },
+    {
+      "title": "Signal schränkt Screenshots auf dem Handy ein",
+      "summary": "Der Messenger Signal begrenzt in seinen Android- und iOS-Apps die Möglichkeit, Bildschirmfotos zu machen. Anlass ist laut Bericht die Sorge vor KI-Überwachung.",
+      "category": "KI im Alltag & Beruf",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "Black Friday: KI-Shopping-Hilfen nicht blind vertrauen",
+      "summary": "In einem Praxistest von t3n lieferten ChatGPT, Gemini & Co. beim Preisvergleich nicht zuverlässig die besten Ergebnisse. Die Chatbots versprechen viel, machen aber Fehler.",
+      "category": "KI im Alltag & Beruf",
+      "tipp": "Prüfe Preise, die ein KI-Chatbot nennt, immer noch einmal direkt beim Händler.",
+      "url": "https://t3n.de/news/black-friday-shopping-ki-risiken-chatgpt-gemini-1773798",
+      "source": "t3n"
+    },
+    {
+      "title": "Gemini Notebook macht Notizen zu Webseiten",
+      "summary": "Das Notiz- und Recherchetool von Google kann jetzt alle Infos eines Projekts in eine Webseite verwandeln. Ein Satz als Auftrag genügt.",
+      "category": "Tools & Agenten",
+      "url": "https://t3n.de/news/google-gemini-notebook-website-1773890",
+      "source": "t3n"
+    },
+    {
+      "title": "KI-Agenten für Textnachrichten im Überblick",
+      "summary": "TechCrunch hat die wichtigsten KI-Agenten gesammelt, die man per Textnachricht ansprechen kann. Sie reichen von allgemeinen Assistenten bis zu Helfern für Familie, Reisen und Beruf.",
+      "category": "Tools & Agenten",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "title": "OpenAI testet KI bei der Suche nach Wirkstoffen",
+      "summary": "Der neue Test MedChemBench misst, wie gut KI-Modelle Molekülstrukturen deuten und aus Versuchsdaten vielversprechende Stoffe auswählen. Er soll die frühe Medikamentenforschung vergleichbar machen.",
+      "category": "Forschung & Deep Tech",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI News"
+    }
+  ]
 }
