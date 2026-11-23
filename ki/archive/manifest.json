@@ -1,6 +1,28 @@
 {
   "briefs": [
     {
+      "date": "2026-11-23",
+      "file": "2026-11-23.html",
+      "headline": "Beweis der Riemannschen Vermutung offiziell bestätigt",
+      "count": 14,
+      "sources": 7,
+      "cats": {
+        "Forschung & Deep Tech": 3,
+        "Business & Funding": 2,
+        "KI im Alltag & Beruf": 4,
+        "Tools & Agenten": 3,
+        "Modelle & Releases": 1,
+        "Regulierung & Politik": 1
+      },
+      "ents": {
+        "Anthropic": 3,
+        "Nvidia": 1,
+        "Microsoft": 1,
+        "Google": 3,
+        "OpenAI": 4
+      }
+    },
+    {
       "date": "2026-11-22",
       "file": "2026-11-22.html",
       "headline": "Anthropic ist an der Börse – und die Aktie schwankt stark",

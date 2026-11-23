@@ -259,7 +259,7 @@
    ],
    [
     "2026-11-23",
-    89.77
+    90.07
    ]
   ],
   "GC=F": [
@@ -521,7 +521,7 @@
    ],
    [
     "2026-11-23",
-    3603.5
+    3604.9
    ]
   ],
   "^GDAXI": [
@@ -958,10 +958,10 @@
   },
   {
    "mag": 6.7,
-   "place": "9 km NE of Carhuamayo, Peru",
-   "time": "2026-11-21T00:09:19.667Z",
-   "lon": -75.9779,
-   "lat": -10.8548,
+   "place": "7 km ENE of Carhuamayo, Peru",
+   "time": "2026-11-21T00:09:21.810Z",
+   "lon": -75.966,
+   "lat": -10.8889,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm"
   },
   {
@@ -975,9 +975,9 @@
   {
    "mag": 6.5,
    "place": "Vanuatu region",
-   "time": "2026-11-23T02:40:57.933Z",
-   "lon": 172.2423,
-   "lat": -13.6607,
+   "time": "2026-11-23T02:40:58.052Z",
+   "lon": 172.2672,
+   "lat": -13.5846,
    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm"
   },
   {
@@ -990,5 +990,5 @@
   }
  ],
  "gdacs": [],
- "updated": "2026-11-23T03:58:03.555Z"
+ "updated": "2026-11-23T05:18:08.113Z"
 }

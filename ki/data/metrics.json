@@ -59,6 +59,11 @@
    "cs.AI": 109,
    "cs.LG": 119,
    "cs.CL": 64
+  },
+  "2026-11-23": {
+   "cs.AI": 87,
+   "cs.LG": 96,
+   "cs.CL": 58
   }
  },
  "stocks": {
@@ -1120,19 +1125,19 @@
  "hf": [
   {
    "id": "thinkingmachines/Inkling-2-Mini",
-   "likes": 5058,
+   "likes": 5091,
    "downloads": 23543,
    "task": "image-text-to-text"
   },
   {
    "id": "unsloth/Inkling-2-Mini-GGUF",
-   "likes": 909,
+   "likes": 918,
    "downloads": 805993,
    "task": "image-text-to-text"
   },
   {
    "id": "inworld/voice-isolator",
-   "likes": 646,
+   "likes": 650,
    "downloads": 0,
    "task": "audio-to-audio"
   },
@@ -1144,17 +1149,17 @@
   },
   {
    "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 993,
+   "likes": 995,
    "downloads": 2831,
    "task": "image-text-to-text"
   },
   {
    "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-   "likes": 509,
+   "likes": 521,
    "downloads": 129693,
    "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-23T03:58:00.168Z",
+ "updated": "2026-11-23T05:18:05.038Z",
  "updatedDay": "2026-11-06"
 }
