@@ -1,273 +1,296 @@
 {
-  "date": "2026-11-23",
-  "intro": "Die Weltklimakonferenz ist ohne Abschlusserklärung zu Ende gegangen. Gleichzeitig sorgt ein mutmaßlicher Drohnenangriff auf ein russisches Kriegsschiff in Libyen für Aufsehen, und in den USA bauen die Demokraten ihre Mehrheit aus.",
+  "date": "2026-11-24",
+  "intro": "Der Ukraine-Krieg erreicht das Mittelmeer: Ukrainische Drohnen haben im libyschen Hafen Bengasi ein russisches Kriegsschiff versenkt. Dazu kommen Berichte über russische Atomwaffenpläne im All und die überraschende Rückkehr von Jensen Huang an die Nvidia-Spitze.",
   "regionen": {
-    "Europa": "Russland greift die Ukraine weiter an, bei einem Angriff auf ein Wohnhaus bei Kiew starben mindestens zehn Menschen. Die NATO berät über Verletzungen des polnischen Luftraums, und die EU hat sich mit Großbritannien auf ein neues Abkommen geeinigt.",
-    "Nahost": "Die Zeichen mehren sich, dass die USA und Israel einen neuen Schlag gegen den Iran vorbereiten. In Israel will Oppositionschef Eisenkot mit Netanjahus Likud über eine Koalition sprechen, und Saudi-Arabien stellt sich auf einen langen Krieg gegen die Huthi im Jemen ein.",
-    "Asien": "In Indonesien starben bei einem Fabrikbrand mindestens drei Menschen, viele weitere werden vermisst.",
-    "Amerika": "Die Demokraten stellen im US-Repräsentantenhaus ab Januar mindestens 258 Abgeordnete und erschweren Präsident Trump das Regieren. In Mexiko wurde ein gesuchter Kartellboss festgenommen, elf Menschen starben.",
-    "Afrika": "Vor Bengasi in Libyen wurden Schiffe angegriffen, ein russisches Kriegsschiff soll gesunken sein. Im Sudan beschädigte ein Drohnenangriff in Khartum mehrere Gebäude, darunter eines der Vereinten Nationen."
+    "Europa": "Russland und die Nato stehen sich nach Marschflugkörpern in Polen, Drohnenangriffen auf Schiffe und Berichten über eine Atomwaffe im All angespannt gegenüber.",
+    "Nahost": "Im Krieg zwischen den USA und Iran melden die Revolutionswächter brennende Tanker bei Hormus, im Gazastreifen warnt Oxfam vor Giftstoffen und verseuchtem Wasser.",
+    "Asien": "Russische Militärflugzeuge näherten sich Südkoreas Luftraum, und nach dem Genozid-Urteil gegen Myanmar sanktioniert Großbritannien Militärführer.",
+    "Amerika": "In den USA streiten Kongress und Weißes Haus über Trumps Rolle bei Huangs Rückkehr, die Demokraten kommen im Repräsentantenhaus auf ihre größte Mehrheit seit Jahrzehnten, in Haiti greift El Salvador militärisch ein.",
+    "Afrika": "Libyen fürchtet, in den Ukraine-Krieg hineingezogen zu werden, und der Kongo stoppt erneut Kobalt-Exporte."
   },
   "top": [
     {
-      "title": "Weltklimakonferenz endet ohne Einigung",
-      "art": "politik",
-      "ort": {
-        "name": "Türkei (Antalya)",
-        "lat": 36.9,
-        "lon": 30.7
-      },
-      "text": "Die längste Weltklimakonferenz aller Zeiten ist ohne gemeinsamen Abschlusstext zu Ende gegangen. Nach zwei Wochen Verhandlungen in der Türkei blieben tiefe Gräben zwischen den Staaten. Australiens Regierungschef, dessen Land mitveranstaltete, nannte die schwierige weltpolitische Lage als Grund. Für den Klimaschutz heißt das: Neue gemeinsame Ziele gibt es vorerst nicht.",
-      "category": "Katastrophen & Klima",
-      "hamburg": "Die Bundesregierung wirft Ölstaaten wie Saudi-Arabien und Russland vor, die Konferenz blockiert zu haben.",
-      "stimmen": [
-        {
-          "richtung": "links",
-          "url": "https://www.spiegel.de/ausland/cop31-in-antalya-klimakonferenz-endet-ohne-gemeinsame-abschlusserklaerung-a-bd3592c1-a2b1-41be-a497-33522c4e6cf7#ref=rss",
-          "source": "Spiegel"
-        },
-        {
-          "richtung": "mitte",
-          "url": "https://www.deutschlandfunk.de/nach-scheitern-bundesregierung-wirft-oelstaaten-blockade-der-klimakonferenz-vor-102.html",
-          "source": "Deutschlandfunk"
-        },
-        {
-          "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/fossile-brennstoffe-und-geldsorgen-bringen-die-globalen-klimaverhandlungen-zum-scheitern-ld.10068913",
-          "source": "NZZ"
-        }
-      ],
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC"
-    },
-    {
-      "title": "Explosion auf russischem Kriegsschiff im Hafen von Bengasi",
+      "title": "Ukraine versenkt russisches Kriegsschiff in Libyen",
+      "text": "Mit Seedrohnen hat die Ukraine im ostlibyschen Hafen Bengasi die russische Korvette „Merkury“ versenkt. Präsident Selenskyj bekannte sich zu dem Angriff. Es ist laut tagesschau das erste Mal, dass im Krieg ein Hafen im Mittelmeer getroffen wurde. Moskau kündigt „schmerzvolle Konsequenzen“ an, in Libyen wächst die Sorge, in den Konflikt hineingezogen zu werden.",
+      "url": "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html",
+      "source": "tagesschau",
+      "category": "Krieg & Konflikte",
       "art": "konflikt",
       "ort": {
-        "name": "Libyen (Bengasi)",
+        "name": "Bengasi, Libyen",
         "lat": 32.12,
         "lon": 20.07
       },
-      "text": "Im ostlibyschen Hafen Bengasi gab es eine Explosion auf einem russischen Kriegsschiff, das nach einem Bericht gesunken ist. Die Behörden vermuten einen Drohnenangriff, Berichten zufolge wird die Ukraine verantwortlich gemacht. Russland und die Ukraine äußern sich bisher nicht. Zuvor war schon der russische Frachter „Sparta II“ in der Ostsee von einer Drohne getroffen worden.",
-      "category": "Krieg & Konflikte",
-      "hamburg": "Die Ostsee ist ein wichtiger Schifffahrtsweg für den Hamburger Hafen; Angriffe auf Frachter dort können Reeder und Versicherer verunsichern.",
+      "hamburg": "Angriffe auf Schiffe machen Seewege unsicherer, was Reedereien und Häfen wie Hamburg betrifft. Konkrete Folgen nennen die Quellen noch nicht.",
       "stimmen": [
         {
+          "source": "taz",
           "richtung": "links",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohne-libyen-explosion-schiff-russland-li.3571967",
-          "source": "Süddeutsche Zeitung"
+          "url": "https://taz.de/Ukraine-greift-russische-Schiffe-an/!6227614/"
         },
         {
-          "richtung": "rechts",
-          "url": "https://www.welt.de/politik/ausland/video6b03cc0e5842ff528b9e4752/libysche-kueste-zwoelf-wasserdrohnen-sichergestellt-angriff-auf-russisches-schiff-im-mittelmeer.html",
-          "source": "WELT"
+          "source": "Reuters",
+          "richtung": "mitte",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVOaXhUTVZWaDZ0YnlSQnRpZk1JdVpWdkJKVUlmQVpETHVkYV9CazJxR0xnS041MUYxQXcyV3IxZWpqbkVrWk9ZU1NaY2NyNTdHTjd6YmFHSFRIX0NpTE8tV3ZYaS1LajllOGxZZlAzclF3OGpiWU1Jd1dTNVB2VWtJMEZQd1lROVhxUnhYUUJ3TFBsMUV2YlFaQktHU0Q4RHktYnpTLXRndjl2aEZlQ3VzZWZSSFRSVzJiZjJsa3JaSkV4?oc=5"
         },
         {
+          "source": "WELT",
           "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/libysche-streitkraefte-fangen-vor-bengasi-mehr-als-zwoelf-drohnenboote-ab-ld.10071748",
-          "source": "NZZ"
+          "url": "https://www.welt.de/politik/ausland/video6b040dad5842ff528b9e531c/libysche-kueste-russisches-kriegsschiff-im-mittelmeer-versenkt-ukraine-reklamiert-wasserdrohnen-angriff-fuer-sich.html"
         }
-      ],
-      "url": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
-      "source": "tagesschau"
+      ]
     },
     {
-      "title": "US-Demokraten bauen Mehrheit im Repräsentantenhaus aus",
+      "title": "Berichte: Russland bereitet Atomwaffe im All vor",
+      "text": "Nach Berichten von WDR, NDR und Süddeutscher Zeitung könnte Russland noch in diesem Jahr einen Satelliten mit Atomsprengkopf ins All bringen. Kanzler Merz nennt die Berichte „schockierend“, die Nato kündigt Verteidigung gegen Bedrohungen aus dem All an. Ein solcher Satellit könnte laut FAZ-Einschätzung fast alle Systeme im Erdorbit lahmlegen. Bestätigt von offizieller Seite ist die Planung nicht.",
+      "url": "https://www.spiegel.de/ausland/russland-moskau-soll-laut-medienberichten-atomwaffe-im-weltraum-vorbereiten-a-10573e3d-4a7d-4f77-8b22-6af9dbabf94c#ref=rss",
+      "source": "Spiegel",
+      "category": "Weltpolitik",
       "art": "politik",
       "ort": {
-        "name": "USA (Washington)",
-        "lat": 38.91,
-        "lon": -77.04
+        "name": "Moskau, Russland",
+        "lat": 55.76,
+        "lon": 37.62
       },
-      "text": "Bei den Zwischenwahlen, den Midterms, haben die Demokraten ihre Mehrheit im Repräsentantenhaus weiter ausgebaut. Ab Januar stellen sie mindestens 258 Abgeordnete, zuletzt gelang ihnen das zu Zeiten von Bill Clinton. In vier Wahlkreisen steht das Ergebnis noch aus. Für Präsident Trump wird das Regieren damit schwieriger.",
-      "category": "Weltpolitik",
+      "hamburg": "Ausfälle von Satelliten träfen auch Systeme im Erdorbit, auf die Deutschland angewiesen ist. Konkrete Folgen für Hamburg nennen die Quellen nicht.",
       "stimmen": [
         {
-          "richtung": "links",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kongress-repraesentantenhaus-demokraten-senatswahl-li.3578585",
-          "source": "Süddeutsche Zeitung"
+          "source": "Deutschlandfunk",
+          "richtung": "mitte",
+          "url": "https://www.deutschlandfunk.de/merz-berichte-ueber-moskaus-atom-plaene-im-all-schockierend-102.html"
         },
         {
+          "source": "FAZ",
           "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/die-usa-nach-den-midterms-trotz-harscher-kritik-bezeichnet-trump-putin-erneut-als-freund-ld.10056111",
-          "source": "NZZ"
+          "url": "https://www.faz.net/aktuell/politik/ausland/russland-plant-nuklear-bestueckten-satelliten-im-weltraum-accg-201708566.html"
+        },
+        {
+          "source": "NZZ",
+          "richtung": "rechts",
+          "url": "https://www.nzz.ch/international/russland-plant-offenbar-die-stationierung-einer-atomwaffe-im-all-ld.10072611"
         }
-      ],
-      "url": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
-      "source": "tagesschau"
+      ]
+    },
+    {
+      "title": "Nvidia holt Jensen Huang zurück, Trump reklamiert den Erfolg",
+      "text": "Der Chipkonzern Nvidia hat Jensen Huang nur wenige Tage nach seinem Rücktritt wegen einer Affäre mit Spionageverdacht als Chef zurückgeholt. Laut US-Medien hat Präsident Trump dabei Einfluss genommen. Im Kongress kritisieren das Demokraten wie Republikaner. Die US-Regierung setzte zugleich die Firma Megaspeed auf eine Sperrliste. Die Börsen reagierten mit einem Kurssprung bei KI-Werten.",
+      "url": "https://www.deutschlandfunk.de/us-praesident-trump-nahm-einfluss-auf-rueckkehr-von-huang-an-die-spitze-von-nvidia-100.html",
+      "source": "Deutschlandfunk",
+      "category": "Wirtschaft & Handel",
+      "art": "wirtschaft",
+      "ort": {
+        "name": "Santa Clara, USA",
+        "lat": 37.35,
+        "lon": -121.96
+      },
+      "hamburg": "Der Dax erholte sich nach sechs Verlusttagen auch dank der Nachricht, die KI-Werte nach oben zog.",
+      "stimmen": [
+        {
+          "source": "taz",
+          "richtung": "links",
+          "url": "https://taz.de/Nvidia-holt-zurueckgetreten-Chef-zurueck/!6232572/"
+        },
+        {
+          "source": "WELT",
+          "richtung": "rechts",
+          "url": "https://www.welt.de/politik/ausland/article6b047a67172877701c070837/nvidia-trump-veroeffentlicht-meme-mit-jensen-huang.html"
+        },
+        {
+          "source": "NZZ",
+          "richtung": "rechts",
+          "url": "https://www.nzz.ch/international/das-comeback-von-jensen-huang-eine-chronologie-der-ereignisse-ld.10061069"
+        }
+      ]
     }
   ],
   "entries": [
     {
-      "title": "Ukraine: Zehn Tote nach Angriff auf Wohnhaus",
-      "summary": "In der Nacht zu Sonntag griff Russland ein Mehrfamilienhaus in der Region Kiew an. Mindestens zehn Menschen starben.",
+      "title": "Polen: Russische Marschflugkörper, Luftalarm, Nato verlegt Awacs",
+      "summary": "Drei russische Marschflugkörper waren in Polens Luftraum eingedrungen und abgestürzt. Die Nato verlegt ein Awacs-Frühwarnflugzeug und verstärkt die Überwachung. Am Montag gab es erneut Luftalarm, Anwohner im Südosten sollten Schutzräume aufsuchen.",
+      "url": "https://www.spiegel.de/ausland/nato-verstaerkt-kontrolle-von-polens-luftraum-verlegt-awacs-fruehwarnflugzeug-a-a1541387-9b0d-4e4f-a179-60f84dd226cf#ref=rss",
+      "source": "Spiegel",
       "category": "Krieg & Konflikte",
       "art": "konflikt",
       "ort": {
-        "name": "Ukraine (Kiew)",
-        "lat": 50.45,
-        "lon": 30.52
+        "name": "Südostpolen",
+        "lat": 50.04,
+        "lon": 22
       },
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
-      "source": "tagesschau"
+      "hamburg": "Deutschland ist Nato-Partner an der Ostflanke. Kanzler Merz warnte Russland vor „gefährlichen Provokationen“."
     },
     {
-      "title": "Trump rechnet mit weiteren Angriffen auf den Iran",
-      "summary": "Die Anzeichen verdichten sich, dass die USA und Israel einen neuen Schlag gegen den Iran vorbereiten. Trump nennt die Verhandlungen „Bullshit“.",
+      "title": "Weltklimakonferenz COP31 endet ohne Einigung",
+      "summary": "Die Klimakonferenz in Antalya war die längste in der Geschichte der UN und endete ohne Abschlusserklärung. Streit gab es über fossile Brennstoffe und Geld.",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "category": "Katastrophen & Klima",
+      "art": "politik",
+      "ort": {
+        "name": "Antalya, Türkei",
+        "lat": 36.9,
+        "lon": 30.7
+      },
+      "hamburg": "Hamburgs Umweltsenatorin Katharina Fegebank zeigte sich enttäuscht und macht die Öl- und Gaslobby verantwortlich."
+    },
+    {
+      "title": "Iran greift Tanker und Militäranlagen am Golf an",
+      "summary": "Laut NZZ erhöht Teheran den Druck: Die Revolutionswächter melden brennende Tanker bei Hormus, Bahrain gerät erneut unter Beschuss. Die USA und Iran befinden sich seit Februar 2026 im Kriegszustand.",
+      "url": "https://www.nzz.ch/international/drohnen-auf-stuetzpunkte-jagd-auf-schiffe-iran-ist-zurzeit-im-angriffsmodus-ld.10070685",
+      "source": "NZZ",
       "category": "Krieg & Konflikte",
       "art": "konflikt",
       "ort": {
-        "name": "Iran (Teheran)",
-        "lat": 35.69,
-        "lon": 51.39
+        "name": "Straße von Hormus",
+        "lat": 26.57,
+        "lon": 56.25
       },
-      "hamburg": "Neue Angriffe im Iran-Krieg würden die Ölmärkte unruhig machen, was sich an deutschen Tankstellen zeigen kann.",
-      "url": "https://www.welt.de/politik/ausland/article6b038c2939a3e8110f0e732f/iran-krieg-trump-nennt-verhandlungen-bullshit-und-rechnet-mit-fortsetzung-der-angriffe.html",
-      "source": "WELT"
+      "hamburg": "Der Golf ist eine wichtige Öl-Route, Vorfälle dort können auf Energiepreise wirken. Konkrete Preisfolgen nennt die Quelle nicht."
     },
     {
-      "title": "Tausende demonstrieren in Istanbul für Pressefreiheit",
-      "summary": "Die größte Oppositionspartei rief nach der Schließung mehrerer oppositionsnaher Medien zur Demonstration auf.",
+      "title": "Gaza: Oxfam spricht von „toxischer Wüste“",
+      "summary": "Laut dem Bericht gibt es in fast ganz Gaza Hinweise auf mögliche Verseuchung. Auf den Straßen sammelt sich Müll, in zerstörten Häusern steckt Asbest. Die Kriegsfolgen könnten Jahrzehnte spürbar sein.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "category": "Krieg & Konflikte",
+      "art": "konflikt",
+      "ort": {
+        "name": "Gazastreifen",
+        "lat": 31.5,
+        "lon": 34.47
+      }
+    },
+    {
+      "title": "Myanmar: Sanktionen nach Genozid-Urteil des IGH",
+      "summary": "Großbritannien sanktioniert Spitzen des Militärs, mehrere Staaten schließen sich an. Westliche Länder begrüßen das Urteil, die Nachbarländer Myanmars reagieren laut NZZ verhalten.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
       "category": "Weltpolitik",
       "art": "politik",
       "ort": {
-        "name": "Türkei (Istanbul)",
-        "lat": 41.01,
-        "lon": 28.98
-      },
-      "url": "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html",
-      "source": "tagesschau"
+        "name": "Naypyidaw, Myanmar",
+        "lat": 19.76,
+        "lon": 96.08
+      }
     },
     {
-      "title": "NATO berät über Luftraumverletzungen in Polen",
-      "summary": "Die 32 NATO-Staaten sprechen heute in Brüssel über die jüngsten Verletzungen des polnischen Luftraums durch Russland.",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Polen (Warschau)",
-        "lat": 52.23,
-        "lon": 21.01
-      },
-      "hamburg": "Polen ist NATO-Partner Deutschlands; die Sicherheit an der Ostflanke betrifft auch Deutschland.",
-      "url": "https://www.deutschlandfunk.de/beratungen-ueber-verletzungen-des-polnischen-luftraums-durch-russland-102.html",
-      "source": "Deutschlandfunk"
-    },
-    {
-      "title": "Britischer Premier wirbt für EU-Abkommen",
-      "summary": "Burnham nennt das am Freitag vereinbarte Abkommen eine Wahl zwischen einem kaputten Status quo und Wandel. Er will es den Abgeordneten vorstellen.",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Großbritannien (London)",
-        "lat": 51.51,
-        "lon": -0.13
-      },
-      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC"
-    },
-    {
-      "title": "Sudan: UN-Gebäude bei Drohnenangriff in Khartum beschädigt",
-      "summary": "Mehrere Gebäude in einem Wohngebiet wurden schwer beschädigt, darunter eines der Vereinten Nationen.",
+      "title": "Südkorea: Russische Militärflugzeuge in der Luftverteidigungszone",
+      "summary": "Mehrere russische Maschinen sind am Dienstagmorgen in Südkoreas Luftverteidigungszone eingedrungen. Taiwan und Japan hatten kürzlich Ähnliches gemeldet.",
+      "url": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
+      "source": "tagesschau",
       "category": "Krieg & Konflikte",
       "art": "konflikt",
       "ort": {
-        "name": "Sudan (Khartum)",
-        "lat": 15.5,
-        "lon": 32.56
-      },
-      "url": "https://www.spiegel.de/ausland/krieg-in-sudan-uno-gebaeude-bei-drohnenangriff-beschaedigt-a-c4b398b9-f7f6-40a0-a92c-3377e276a67a#ref=rss",
-      "source": "Spiegel"
+        "name": "Seoul, Südkorea",
+        "lat": 37.57,
+        "lon": 126.98
+      }
     },
     {
-      "title": "Israel: Eisenkot lädt Netanjahus Partei zu Koalitionsgesprächen ein",
-      "summary": "Die Gespräche mit dem Likud sollen beginnen. Zudem melden Berichte vier Tote bei einem israelischen Angriff in Gaza und neue Angriffe auf Tanker in der Straße von Hormus.",
+      "title": "Haiti: El Salvador schickt Soldaten, Bukele wird gefeiert",
+      "summary": "Nachdem internationale Missionen kaum etwas gegen die Gewalt in Haiti ausrichten konnten, griff El Salvadors Präsident Bukele mit mehreren Tausend Soldaten ein, ohne UN-Mandat.",
+      "url": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
+      "source": "tagesschau",
+      "category": "Weltpolitik",
+      "art": "konflikt",
+      "ort": {
+        "name": "Port-au-Prince, Haiti",
+        "lat": 18.54,
+        "lon": -72.34
+      }
+    },
+    {
+      "title": "US-Zwischenwahlen: Demokraten mit größter Mehrheit seit Jahrzehnten",
+      "summary": "Drei Wochen nach der Wahl steht fest, dass die Demokraten im Repräsentantenhaus die größte Mehrheit seit Jahrzehnten haben. Für die Republikaner ist es die schwerste Niederlage seit 1958.",
+      "url": "https://www.nzz.ch/international/auszaehlung-in-den-usa-fast-beendet-schwerste-wahlniederlage-der-republikaner-seit-1958-ld.10070048",
+      "source": "NZZ",
       "category": "Weltpolitik",
       "art": "politik",
       "ort": {
-        "name": "Israel (Jerusalem)",
-        "lat": 31.77,
-        "lon": 35.22
-      },
-      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-eisenkot-laedt-netanjahus-partei-zu-koalitionsgespraechen-ein-faz-200583539.html",
-      "source": "FAZ"
+        "name": "Washington, USA",
+        "lat": 38.9,
+        "lon": -77.04
+      }
     },
     {
-      "title": "Saudi-Arabien stellt sich auf langen Jemen-Krieg ein",
-      "summary": "Riad will den Druck auf die Huthi-Rebellen erhöhen. Die zeigen sich unbeeindruckt und rücken weiter vor.",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
+      "title": "EU will russische Sportler unter russischer Flagge ausschließen",
+      "summary": "Die EU-Kommission schlägt vor, dass russische Athleten bei europäischen Wettkämpfen nicht mehr für ihr Land antreten dürfen. Neutral dürfen sie weiter starten. Der Vorschlag ist Teil eines Sanktionspakets und noch nicht beschlossen.",
+      "url": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
+      "source": "tagesschau",
+      "category": "Europa",
+      "art": "politik",
       "ort": {
-        "name": "Jemen (Sanaa)",
-        "lat": 15.37,
-        "lon": 44.19
-      },
-      "url": "https://www.faz.net/aktuell/politik/ausland/saudi-arabien-plant-langen-krieg-gegen-huthi-im-jemen-201704686.html",
-      "source": "FAZ"
+        "name": "Brüssel, Belgien",
+        "lat": 50.85,
+        "lon": 4.35
+      }
     },
     {
-      "title": "Mexiko: Kartellboss „El Chapo Isidro“ festgenommen",
-      "summary": "Sicherheitskräfte nahmen einen der meistgesuchten Drogenbosse im Norden Mexikos fest. Die Operation forderte elf Tote.",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "url": "https://www.faz.net/aktuell/politik/ausland/11-tote-bei-festnahme-von-drogenboss-fausto-isidro-meza-in-mexiko-accg-201706370.html",
-      "source": "FAZ"
+      "title": "Kongo stoppt Kobalt-Exporte erneut",
+      "summary": "Die Aufsichtsbehörde will so ein Überangebot bekämpfen und die Preise stützen.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjhmU2RxdS1CQXQ5ZnZkQTZXczg4THYzbDNLRlJFWHZTQy1yblF2Z3ZNb0ZzdWtCVW1TeW1TMlVtVVdvNHVNeFpzSklBMXpjTDk5LWZGNE5pSlB0aHV0R2dvVGRKanJtSU5fNWxXeUNNRVV0bVdMc21ESmkxMGY5TzdscVpicGxGN3AyR0E1RlVhOE9jOGVVcFRnejBrT1JGb05GTUVjUGpQc0ZadDk5RTM0VzR1WTV4QlUxZmRqSjA?oc=5",
+      "source": "Reuters",
+      "category": "Wirtschaft & Handel",
+      "art": "wirtschaft",
+      "ort": {
+        "name": "Kinshasa, Kongo",
+        "lat": -4.44,
+        "lon": 15.27
+      }
     },
     {
-      "title": "Indonesien: Fabrikbrand mit Toten und Vermissten",
-      "summary": "Bei einem Brand in einer Süßwarenfabrik starben mindestens drei Menschen, viele weitere werden befürchtet tot.",
+      "title": "Nepal: Wiederaufbau nach der Flut kommt nur langsam voran",
+      "summary": "Drei Monate nach der Sturzflut im Himalaja warten viele Menschen noch auf Hilfe. Erst wenige Brücken und Straßen sind repariert. Indien hat Hilfe zugesagt.",
+      "url": "https://www.nzz.ch/international/in-nepal-kommt-der-wiederaufbau-nach-der-flutkatastrophe-nur-langsam-voran-nun-sagt-indien-hilfe-zu-ld.10072137",
+      "source": "NZZ",
       "category": "Katastrophen & Klima",
       "art": "katastrophe",
       "ort": {
-        "name": "Indonesien (Jakarta)",
-        "lat": -6.21,
-        "lon": 106.85
-      },
-      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC"
+        "name": "Kathmandu, Nepal",
+        "lat": 27.72,
+        "lon": 85.32
+      }
     },
     {
-      "title": "Belgien: Fluglotsen streiken, Flugverkehr eingeschränkt",
-      "summary": "Flugreisende müssen den ganzen Tag mit Einschränkungen rechnen. Hintergrund sind landesweite Streiks.",
-      "category": "Europa",
-      "art": "wirtschaft",
-      "ort": {
-        "name": "Belgien (Brüssel)",
-        "lat": 50.85,
-        "lon": 4.35
-      },
-      "hamburg": "Von Deutschland aus gibt es tagsüber keine regulären Flüge nach Belgien, auch Reisende aus Hamburg müssen umplanen.",
-      "url": "https://www.deutschlandfunk.de/einschraenkungen-im-flugverkehr-wegen-beteiligung-der-lotsen-an-landesweiten-streiks-102.html",
-      "source": "Deutschlandfunk"
-    },
-    {
-      "title": "Syrien: Fünf Kinder sterben durch Landmine in Idlib",
-      "summary": "Anti-Personen-Minen sind ein düsteres Erbe der Assad-Zeit. Im Nordwesten des Landes kam es zu einem besonders tragischen Unglück.",
-      "category": "Krieg & Konflikte",
+      "title": "Frachter „Sparta II“ nach Drohnentreffer in russische Gewässer geschleppt",
+      "summary": "Das in der Ostsee von einer Drohne getroffene russische Schiff wurde vor Finnland in Brand geraten war. Laut FAZ verlief die Bergung zwischen Finnland und Russland erstaunlich reibungslos.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/russisches-frachtschiff-sparta-ii-warum-finnland-es-nicht-beschlagnahmte-201708325.html",
+      "source": "FAZ",
+      "category": "Hafen & Schifffahrt",
       "art": "konflikt",
       "ort": {
-        "name": "Syrien (Idlib)",
-        "lat": 35.93,
-        "lon": 36.63
+        "name": "Finnischer Meerbusen",
+        "lat": 60,
+        "lon": 27
       },
-      "url": "https://www.spiegel.de/ausland/syrien-fuenf-kinder-sterben-bei-explosion-einer-landmine-in-idlib-a-0ed9f39a-c436-4611-bae9-e6316c5c081a#ref=rss",
-      "source": "Spiegel"
+      "hamburg": "Die Ostsee ist eine zentrale Handelsroute auch für Hamburger Schiffe. Die Nato will dort eine Eskalation verhindern."
     },
     {
-      "title": "Geheimdienste fürchten atomare Aufrüstung im All",
-      "summary": "In der NATO kursiert laut SZ ein Szenario, wonach Russland bald eine Atomwaffe im Orbit stationieren könnte. Deutschland sei darauf schlecht vorbereitet. Das ist bisher eine Befürchtung, kein Beleg.",
-      "category": "Weltpolitik",
+      "title": "Ukrainische Drohnen sollen in Deutschland gebaut werden",
+      "summary": "Ukrainische Aufklärungsdrohnen sollen künftig auch in Deutschland hergestellt werden. Verteidigungsminister Pistorius wurde bei der Zusammenarbeit konkreter.",
+      "url": "https://www.deutschlandfunk.de/ukrainische-drohne-soll-in-deutschland-produziert-werden-108.html",
+      "source": "Deutschlandfunk",
+      "category": "Europa",
       "art": "politik",
-      "url": "https://www.sueddeutsche.de/politik/russland-atomwaffe-weltraum-nato-sputnik-s-satelliten-bundeswehr-aufruestung-li.3582627",
-      "source": "Süddeutsche Zeitung"
+      "ort": {
+        "name": "Berlin, Deutschland",
+        "lat": 52.52,
+        "lon": 13.4
+      },
+      "hamburg": "Die Rüstungsproduktion in Deutschland wächst, der Bundeswehr-Etat 2027 soll laut NZZ rund 140 Milliarden Euro betragen."
     },
     {
-      "title": "Nvidias Bilanzierung im Visier der US-Börsenaufsicht",
-      "summary": "Laut Reuters stehen die Bilanzen von Nvidia im Mittelpunkt einer Untersuchung der US-Börsenaufsicht SEC. Reuters beruft sich auf Insider.",
-      "category": "Wirtschaft & Handel",
+      "title": "Norddeutsche Seehäfen: Bund sagt Nein zu mehr Geld",
+      "summary": "Der Bund lehnt laut NDR zusätzliche Mittel für die norddeutschen Seehäfen ab.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTQ0a0JlNDZMbmpQWmdtTVpVODBjMW9XT3REZTE1cmxOUmJKclp1ZlRHMm01dFlodFhBaW43RTVrbi1MUzJDOHpkd04wLWZkdVFlSUN2cnE0WEdXb0RvVjNBVzNIRUQwTXVvU1QxUTRZc0lrbHVMUE5GWFVGeXNrXy1iaXAwbm8yemRLc0pKLXg2U1FmVmFGdjFXcG8yTlpVVWd1NVZzZE5aT01h?oc=5",
+      "source": "NDR",
+      "category": "Hafen & Schifffahrt",
       "art": "wirtschaft",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
-      "source": "Reuters"
+      "ort": {
+        "name": "Hamburg, Deutschland",
+        "lat": 53.55,
+        "lon": 9.99
+      },
+      "hamburg": "Das betrifft auch den Hamburger Hafen."
     }
-  ],
-  "rueckblick": "Die Woche begann mit schweren Angriffen in der Ukraine, mit über 70 Toten und neuen Attacken auf Kiew. Die Ukraine traf zudem die Krim-Brücke schwer. Im Iran-Konflikt sank ein Öltanker, und ein dritter US-Flugzeugträger traf vor Ort ein. Für Aufmerksamkeit sorgte das erste Dreiertreffen von Xi, Trump und Putin in Shenzhen, bei dem sie eine „Friedenserklärung“ veröffentlichten. Am Sonntag schlug dann eine russische Rakete in Polen ein."
+  ]
 }
