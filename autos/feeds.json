@@ -1,11 +1,143 @@
 {
- "fetched": "2026-11-23T10:23:11.869Z",
- "hours": 80,
+ "fetched": "2026-11-24T02:34:01.562Z",
+ "hours": 48,
  "sources": [
   {
    "name": "Auto Bild",
    "ok": true,
    "items": [
+    {
+     "title": "Elektro oder Verbrenner: Welcher GLC ist die bessere Wahl?",
+     "url": "https://www.autobild.de/artikel/mercedes-glc-kaufberatung-bd4f1ac-28868047.html",
+     "date": "2026-11-23T17:24:00.000Z",
+     "text": "Reihensechszylinder gegen zwei E-Motoren, Diesel gegen Strom: Mercedes GLC 450 d und GLC 400 elektrisch im AUTO BILD-Duell."
+    },
+    {
+     "title": "Speedgolf mit kleinem Handycap: Beim R ärgert der Preis",
+     "url": "https://www.autobild.de/artikel/vw-golf-r-test-344f9a6-28845623.html",
+     "date": "2026-11-23T16:45:00.000Z",
+     "text": "Seit 52 Jahren bewegt ein kompakter Wolfsburger die Nation, mit dem aktuellen Topmodell Golf R zieht jetzt großer Fahrspaß ein. AUTO BILD macht den Test."
+    },
+    {
+     "title": "Warum fällt die THG-Prämie 2027 niedriger aus?",
+     "url": "https://www.autobild.de/artikel/thg-quoten-vergleich-anbieter-21337529.html",
+     "date": "2026-11-23T16:27:00.000Z",
+     "text": "Für die Vermittler ist das THG-Quotenjahr 2027 schon angebrochen – allgemein fällt die Prämie um ein Viertel niedriger aus. Warum? Der Anbietervergleich 2027 gibt einen Marktüberblick – wer zahlt wie viel THG-Prämie?"
+    },
+    {
+     "title": "Barock, brillant, BMW: Neue Klasse im 7er",
+     "url": "https://www.autobild.de/artikel/bmw-740-xdrive-facelift-im-test-695091b-28863723.html",
+     "date": "2026-11-23T16:06:00.000Z",
+     "text": "BMW hat den 7er renoviert. Sehr gründlich. Der kommt jetzt mit jeder Menge Technik aus der Neuen Klasse. Im AUTO BILD-Test der 740 xDrive mit Sechszylinder-Benziner und 400 PS."
+    },
+    {
+     "title": "Subaru baut supereffizienten Boxermotor",
+     "url": "https://www.autobild.de/artikel/neuer-verbrenner-von-subaru-mit-unerreichter-effizienz-b272b72-28900887.html",
+     "date": "2026-11-23T15:27:00.000Z",
+     "text": "Subaru entwickelt einen Verbrennungsantrieb der nächsten Generation. Der japanische Allradspezialist mit dem Faible für Boxermotoren will ein Triebwerk mit bisher unerreichter Effizienz konstruieren."
+    },
+    {
+     "title": "Künftig gibt es sechs Opel-Modelle in der Basisversion \"Start\"",
+     "url": "https://www.autobild.de/artikel/neue-startversionen-bei-opel-80ca08b-28915369.html",
+     "date": "2026-11-23T14:48:00.000Z",
+     "text": "Opel führt die Einstiegslinie \"Start\" für drei weitere Modelle ein. Nach Frontera, Astra und Combo folgen nun Corsa, Mokka und Grandland in der neuen Basisvariante."
+    },
+    {
+     "title": "VW T-Roc Goal mit wenigen Kilometern für unter 20.000 Euro",
+     "url": "https://www.autobild.de/artikel/gebrauchtwagen-angebot-vw-t-roc-goal-3fffaa9-28919199.html",
+     "date": "2026-11-23T14:12:00.000Z",
+     "text": "Der VW T-Roc GOAL bietet 116 PS, Navigation und zahlreiche Fahrassistenten. Ein Exemplar von 2025 steht jetzt im AUTO BILD-Gebrauchtwagenmarkt."
+    },
+    {
+     "title": "Mercedes bekommt als erster Hersteller diese Zulassung",
+     "url": "https://www.autobild.de/artikel/neue-fahrassistenz-auf-deutsche-strassen-9d631e7-28916737.html",
+     "date": "2026-11-23T14:09:00.000Z",
+     "text": "Mercedes bekommt die Zulassung für einen Fahrassistenten, der auch im Stadtverkehr lenkt und bremst. Erste Kunden können ihn ab Dezember ausprobieren."
+    },
+    {
+     "title": "Toyota bringt den Corolla als Pick-up",
+     "url": "https://www.autobild.de/artikel/toyota-corolla-deck-in-brasilien-praesentiert-fa48099-28913583.html",
+     "date": "2026-11-23T13:30:00.000Z",
+     "text": "Toyota zeigt den Corolla Deck, einen kompakten Hybrid-Pick-up auf SUV-Basis. Er wird ab 2027 in Brasilien gebaut. Kommt er auch nach Deutschland?"
+    },
+    {
+     "title": "7000 Euro günstiger! Dieser Smart hat erst 8000 km runter",
+     "url": "https://www.autobild.de/artikel/gebrauchtwagen-angebot-smart-5-pro-76-kwh--fbe40b4-28919223.html",
+     "date": "2026-11-23T12:53:00.000Z",
+     "text": "Viel Platz, 340 PS und reichlich Ausstattung: Dieser Smart #5 steht als junger Gebrauchter im AUTO BILD-Gebrauchtwagenmarkt zum Verkauf!"
+    },
+    {
+     "title": "Das kann das gigantische Luxus-E-SUV aus China",
+     "url": "https://www.autobild.de/artikel/erste-fahrt-im-xpeng-g9l-a4a53b3-28902465.html",
+     "date": "2026-11-23T12:51:00.000Z",
+     "text": "Beim XPeng G9L steht das \"L\" nicht nur für die enorme Länge des SUV, sondern auch für Luxus. Das neue Flaggschiff des chinesischen Herstellers setzt auf eine Luxusausstattung, die selbst Käufer der etablierten Premiummarken aufhorchen lassen sollte."
+    },
+    {
+     "title": "BMW X3 mit Allrad! So günstig gibt es das 252-PS-SUV",
+     "url": "https://www.autobild.de/artikel/gebrauchtwagen-angebot-bmw-x3-mit-252-ps-e2aee65-28919297.html",
+     "date": "2026-11-23T12:31:00.000Z",
+     "text": "252 PS, Allradantrieb und jede Menge Platz: Diesen BMW X3 gibt es für 28.900 Euro im AUTO BILD-Gebrauchtwagenmarkt."
+    },
+    {
+     "title": "S-Klasse mit V8! Jetzt über 90.000 Euro günstiger",
+     "url": "https://www.autobild.de/artikel/gebrauchtwagen-angebot-mercedes-s-500-amg-line-06ae13a-28919249.html",
+     "date": "2026-11-23T12:24:00.000Z",
+     "text": "455 PS, Luxusausstattung und ein Neupreis von mehr als 137.000 Euro: Diese Mercedes S-Klasse gibt es jetzt im AUTO BILD-Gebrauchtwagenmarkt."
+    },
+    {
+     "title": "29 Jahre lang verheimlichte BMW uns den sportlichsten 7er aller Zeiten",
+     "url": "https://www.autobild.de/artikel/bmw-m7-e38-prototyp-1997--bf64d01-28903525.html",
+     "date": "2026-11-23T12:12:00.000Z",
+     "text": "Der 7er ist eines der wenigen BMW-Modelle, von dem es nie eine reine M-Version gab. Dass die Münchner Ingenieure zumindest einmal über einen M7 nachdachten, beweist dieser Prototyp, den BMW jetzt erstmals zeigt."
+    },
+    {
+     "title": "Erste Fahrt mit den Van-Vierlingen von Stellantis",
+     "url": "https://www.autobild.de/artikel/kastenwagen-im-test-citroen-berlingo-fiat-dobl--opel-combo-peugeot-partner-a7b4143-28894055.html",
+     "date": "2026-11-23T11:33:00.000Z",
+     "text": "Citroën Berlingo und Fiat Doblò teilen sich die Technik mit Opel Combo und Peugeot Partner. Erste Ausfahrt mit Diesel und E-Auto im Alltag."
+    },
+    {
+     "title": "Tesla zeigt die Straße plötzlich wie ein Computerspiel",
+     "url": "https://www.autobild.de/artikel/wie-bei-gta-tesla-zeigt-voellig-neue-fahransicht-33b3adc-28919039.html",
+     "date": "2026-11-23T11:10:00.000Z",
+     "text": "Wie bei GTA: Mit dem neuen Feature \"Reality View\" zeigt Tesla die Umgebung seiner Autos in einer verblüffend realistischen 3D-Ansicht. Doch das Software-Update kann noch mehr!"
+    },
+    {
+     "title": "So behalten Sie im Winter den Durchblick",
+     "url": "https://www.autobild.de/artikel/sponsored-gute-sicht-im-winter-sonax-klarsicht-snow-limit-28879101.html",
+     "date": "2026-11-23T11:00:00.000Z",
+     "text": "Gute Sicht im Winter: Vor dem ersten Frost sollte der Scheibenwaschbehälter mit einem geeigneten Reinigungsmittel befüllt sein!"
+    },
+    {
+     "title": "David Hasselhoffs ehemaliger Pontiac findet keinen neuen Besitzer",
+     "url": "https://www.autobild.de/artikel/k.i.t.t.-ist-zu-teuer-d3aaf7d-28875787.html",
+     "date": "2026-11-23T10:54:00.000Z",
+     "text": "Der Pontiac Firebird Trans Am aus der Fernsehserie \"Knight Rider\" gehört zu den bekanntesten Filmautos. Ein Modell, mit dem Hauptdarsteller David Hasselhoff selbst durch Europa tourte, fand bei einer Auktion in Zürich trotzdem keinen neuen Besitzer."
+    },
+    {
+     "title": "VW Golf GTI mit 300 PS im Leasing",
+     "url": "https://www.autobild.de/artikel/vw-golf-gti-clubsport-im-leasing-d2e6c0b-28918371.html",
+     "date": "2026-11-23T10:33:00.000Z",
+     "text": "Privatkunden können den 300 PS starken VW Golf GTI Clubsport zurzeit im Leasing ergattern und einen Großteil des normalen Kaufpreises sparen!"
+    },
+    {
+     "title": "Welcher Eiskratzer bricht das Eis und sorgt für gute Sicht?",
+     "url": "https://www.autobild.de/produkttests/eiskratzer-test-21002413.html",
+     "date": "2026-11-23T10:28:00.000Z",
+     "text": "AUTO BILD hat gemeinsam mit Carglass zwölf Eiskratzer getestet. Der Test zeigt deutliche Unterschiede: Manche Modelle entfernen Eis gründlich und schonen dabei die Scheibe, andere hinterlassen schnell Frust bei Frost."
+    },
+    {
+     "title": "Sportliches SUV mit viel Ausstattung zum kleinen Preis",
+     "url": "https://www.autobild.de/artikel/cupra-terramar-im-privatleasing-fuer-265-euro-28918355.html",
+     "date": "2026-11-23T10:22:00.000Z",
+     "text": "Mit dem Terramar bietet Cupra seit 2024 ein dynamisches Kompakt-SUV an. Aktuell gibt es das Auto mit viel Ausstattung günstig im Privatleasing. Alle Infos!"
+    },
+    {
+     "title": "10 Fehler, die Autofahrer im Winter nicht machen sollten",
+     "url": "https://www.autobild.de/artikel/autofahrer-fehler-im-winter-16121607.html",
+     "date": "2026-11-23T10:21:00.000Z",
+     "text": "Das Autofahren im Winter kann manchmal zur Herausforderung werden, doch viele Fahrer machen es sich durch ihr Verhalten sogar noch viel schwerer. AUTO BILD verrät, welche Fehler Sie im Winter vermeiden sollten!"
+    },
     {
      "title": "100.000 km mit anschließender Zerlegung: Das sind die besten Autos!",
      "url": "https://www.autobild.de/artikel/dauertest-die-50-besten-autos-b251408-28745421.html",
@@ -53,138 +185,6 @@
      "url": "https://www.autobild.de/artikel/sie-fahren-taeglich-mit-bdb18f4-28886039.html",
      "date": "2026-11-23T07:34:00.000Z",
      "text": "Sie sehen sie nicht, aber bei jeder Fahrt sind sie dabei. Berühmte Genies sorgen dafür, dass Ihr Navi den Weg findet, dass das Auto Gefahren erkennt und dass Sensoren im richtigen Moment reagieren. Wer alles heimlich mitfährt – und was Ihr Auto diesen klugen Köpfen verdankt!"
-    },
-    {
-     "title": "Bei alten Stromern ziehen plötzlich die Preise an",
-     "url": "https://www.autobild.de/artikel/fruehe-e-autos-im-gebrauchtwagen-check-c0210be-28834183.html",
-     "date": "2026-11-23T07:23:00.000Z",
-     "text": "Sie galten lange als die großen Verlierer auf dem Gebrauchtwagenmarkt. Doch jetzt ziehen die Preise gebrauchter E-Autos wieder an. Wir schauen auf die Stromer, mit denen alles begann: Leaf, i3 & Co sind inzwischen 10 bis 15 Jahre alt. AUTO BILD zeigt, welche Elektro-Pioniere gut gealtert sind und wo Akku, Ladetechnik oder Ersatzteilversorgung zum Risiko werden."
-    },
-    {
-     "title": "Günstiger Bestseller: Elektro-SUV zum fairen Preis",
-     "url": "https://www.autobild.de/artikel/gebrauchtwagen-vw-id.4-7ffbfa4-28918133.html",
-     "date": "2026-11-23T07:16:00.000Z",
-     "text": "VWs beliebtestes Elektro-SUV ID.4 ist als junger Gebrauchter deutlich unter dem ursprünglichen Neupreis zu haben. So klappt es mit dem E-Schnäppchen."
-    },
-    {
-     "title": "Kompakt, sparsam und günstig: Renault-SUV zum Schnäppchenpreis",
-     "url": "https://www.autobild.de/artikel/gebrauchtwagen-renault-captur-9d978b0-28917845.html",
-     "date": "2026-11-23T07:11:00.000Z",
-     "text": "Die aktuelle Generation des Renault Captur ist als junger Gebrauchter zu tollen Preisen zu haben. Das gilt auch schon für Facelift-Modelle."
-    },
-    {
-     "title": "Wird VW vom Ansturm der Käufer auf E-Autos überrollt?",
-     "url": "https://www.autobild.de/artikel/lieferfristen-fuer-id.polo-skoda-epiq-und-cupra-raval-9d978b0-28913619.html",
-     "date": "2026-11-23T07:11:00.000Z",
-     "text": "Einige der Lieblinge auf dem Markt für kleine E-Autos heißen VW ID.Polo, Skoda Epiq und Cupra Raval. Von Lieferzeiten bis zu über einem Jahr berichten Medien. Was sagen Volkswagen, Cupra und Skoda dazu? AUTO BILD hat nachgefragt."
-    },
-    {
-     "title": "Diese Mercedes W 124 waren noch nie zugelassen",
-     "url": "https://www.autobild.de/artikel/mercedes-300-e-1986-scheunenfund-im-doppelpack-zu-verkaufen-28910823.html",
-     "date": "2026-11-23T05:26:00.000Z",
-     "text": "Zwei Mercedes 300 E standen knapp vier Jahrzehnte in einer Garage auf Madeira, ehe sie nach Deutschland zurückkehrten. Jetzt sollen die 124er verkauft werden!"
-    },
-    {
-     "title": "Dieser Carbon-Mustang hat dreimal so viel Leistung wie das Original",
-     "url": "https://www.autobild.de/artikel/ford-mustang-shelby-gt500-1967-classic-recreations-aus-carbon-mit-900-ps-fuer-rund-650000-euro-28880141.html",
-     "date": "2026-11-23T05:05:00.000Z",
-     "text": "Der Ford Mustang Shelby GT500 aus 1967 leistet in der Basis 360 PS. Dieses umgebaute Exemplar von Classic Recreations hat fast die dreifache Leistung und ist dank seiner Carbon-Karosserie auch enorm leicht."
-    },
-    {
-     "title": "Diese Mercedes W 124 waren noch nie zugelassen",
-     "url": "https://www.autobild.de/videos/mercedes-300-e-1986-scheunenfund-im-doppelpack-zu-verkaufen-28916005.html",
-     "date": "2026-11-23T05:00:00.000Z",
-     "text": "Zwei Mercedes 300 E standen knapp vier Jahrzehnte in einer Garage auf Madeira, ehe sie nach Deutschland zurückkehrten. Jetzt sollen die 124er verkauft werden!"
-    },
-    {
-     "title": "Bessere Abgaswerte dank KI? So geht's!",
-     "url": "https://www.autobild.de/artikel/jeep-cherokee-tuning-mit-ki-28915409.html",
-     "date": "2026-11-23T05:00:00.000Z",
-     "text": "Software-Entwickler Muhammad Zulali reparierte seinen 94er Jeep Cherokee mit KI statt Werkstatt. Doch die Methode taugt nichts für normale Autofahrer."
-    },
-    {
-     "title": "Das kann das gigantische Luxus-E-SUV aus China",
-     "url": "https://www.autobild.de/artikel/erste-fahrt-im-xpeng-g9l-8f1c173-28902465.html",
-     "date": "2026-11-22T22:29:00.000Z",
-     "text": "Beim XPeng G9L steht das \"L\" nicht nur für die enorme Länge des SUV, sondern auch für Luxus. Das neue Flaggschiff des chinesischen Herstellers setzt auf eine Luxusausstattung, die selbst Käufer der etablierten Premiummarken aufhorchen lassen sollte."
-    },
-    {
-     "title": "29 Jahre lang verheimlichte BMW uns den sportlichsten 7er aller Zeiten",
-     "url": "https://www.autobild.de/artikel/bmw-m7-e38-prototyp-1997--74d6c90-28903525.html",
-     "date": "2026-11-22T21:42:00.000Z",
-     "text": "Der 7er ist eines der wenigen BMW-Modelle, von dem es nie eine reine M-Version gab. Dass die Münchner Ingenieure zumindest einmal über einen M7 nachdachten, beweist dieser Prototyp, den BMW jetzt erstmals zeigt."
-    },
-    {
-     "title": "Elektrisches SUV-Coupé mit riesiger Reichweite im Test",
-     "url": "https://www.autobild.de/artikel/xpeng-l03-reev-fahrbericht-c1ec11d-28898273.html",
-     "date": "2026-11-22T20:55:00.000Z",
-     "text": "Der Xpeng L03 will es mit Tesla Model Y oder Skoda Enyaq Coupé aufnehmen. Mit Range-Extender verspricht das SUV-Coupé eine Reichweite von über 1000 Kilometern. Erste Fahrt!"
-    },
-    {
-     "title": "Form und Format: EV3 und Born bieten bezahlbare E-Mobilität",
-     "url": "https://www.autobild.de/artikel/kia-ev3-cupra-born-test-50e48e8-28873127.html",
-     "date": "2026-11-22T20:08:00.000Z",
-     "text": "Wenn wir ein Volk von E-Mobilisten werden sollen und wollen, dann braucht es mehr bezahlbare Elektro-Crossover. Sind Cupra Born und Kia EV3 da die Richtigen?"
-    },
-    {
-     "title": "Erste Fahrt mit den Van-Vierlingen von Stellantis",
-     "url": "https://www.autobild.de/artikel/kastenwagen-im-test-citroen-berlingo-fiat-dobl--opel-combo-peugeot-partner-8fcecd7-28894055.html",
-     "date": "2026-11-22T19:21:00.000Z",
-     "text": "Citroën Berlingo und Fiat Doblò teilen sich die Technik mit Opel Combo und Peugeot Partner. Erste Ausfahrt mit Diesel und E-Auto im Alltag."
-    },
-    {
-     "title": "Das sind die besten Autos des Jahres",
-     "url": "https://www.autobild.de/artikel/goldenes-lenkrad-2026-d35b96f-28883297.html",
-     "date": "2026-11-22T18:34:00.000Z",
-     "text": "Fünfzig Jahre Vollgas, Fortschritt und Fahrspaß! Zum 50. Mal suchen AUTO BILD und BILD am SONNTAG die besten Autos des Jahres. Hier lesen Sie, wer die begehrten Goldenen Lenkräder in diesem Jahr gewonnen hat!"
-    },
-    {
-     "title": "Redaktionspreis \"Bestes Auto unter 25.000 Euro\" für den VW ID. Polo",
-     "url": "https://www.autobild.de/artikel/das-goldene-lenkrad-2026-255daf0-28883177.html",
-     "date": "2026-11-22T17:47:00.000Z",
-     "text": "So sehen Sieger aus: AUTO BILD und BILD am SONNTAG prämieren die besten Autos des Jahres mit dem Goldenen Lenkrad 2026. Dabei zeichnen die Redaktionen die Kategorie \"Bestes Auto unter 25.000 Euro\" aus. Der VW ID. Polo hat Großes vor und erhält das Goldene Lenkrad!"
-    },
-    {
-     "title": "Redaktionspreis \"Bestes Auto unter 30.000 Euro\" für den Kia EV2",
-     "url": "https://www.autobild.de/artikel/das-goldene-lenkrad-2026-b1ccc13-28883229.html",
-     "date": "2026-11-22T17:00:00.000Z",
-     "text": "So sehen Sieger aus: AUTO BILD und BILD am SONNTAG prämieren die besten Autos des Jahres mit dem Goldenen Lenkrad 2026. Dabei zeichnen die Redaktionen die Kategorie \"Bestes Auto unter 30.000 Euro\" aus. Der Kia EV2 hat Großes vor und erhält das Goldene Lenkrad!"
-    },
-    {
-     "title": "Redaktionspreis \"Bestes Auto unter 35.000 Euro\" für den Mazda CX-5",
-     "url": "https://www.autobild.de/artikel/das-goldene-lenkrad-2026-b2ffd89-28883317.html",
-     "date": "2026-11-22T16:13:00.000Z",
-     "text": "So sehen Sieger aus: AUTO BILD und BILD am SONNTAG prämieren die besten Autos des Jahres mit dem Goldenen Lenkrad 2026. Dabei zeichnen die Redaktionen die Kategorie \"Bestes Auto unter 35.000 Euro\" aus. Der Mazda CX-5 hat Großes vor und erhält das Goldene Lenkrad!"
-    },
-    {
-     "title": "David Hasselhoffs ehemaliger Pontiac findet keinen neuen Besitzer",
-     "url": "https://www.autobild.de/artikel/k.i.t.t.-ist-zu-teuer-3ec13c4-28875787.html",
-     "date": "2026-11-22T14:39:00.000Z",
-     "text": "Der Pontiac Firebird Trans Am aus der Fernsehserie \"Knight Rider\" gehört zu den bekanntesten Filmautos. Ein Modell, mit dem Hauptdarsteller David Hasselhoff selbst durch Europa tourte, fand bei einer Auktion in Zürich trotzdem keinen neuen Besitzer."
-    },
-    {
-     "title": "Auf diese Änderungen müssen sich Autofahrer 2027 einstellen",
-     "url": "https://www.autobild.de/artikel/kosten-plaketten-und-termine-das-aendert-sich-fuer-autofahrer-2027-5c980c2-28873615.html",
-     "date": "2026-11-22T13:52:00.000Z",
-     "text": "Neues Jahr, neue Regeln: Der Umweltpass fürs Auto kommt, der Führerschein wird reformiert, Belgien führt eine Maut ein. AUTO BILD zeigt alle wichtigen Änderungen für Autofahrer 2027!"
-    },
-    {
-     "title": "Schon mal vom Opel Kadett GSi Superboss gehört?",
-     "url": "https://www.autobild.de/artikel/opel-kadett-gsi-16v-s-superboss-homologationsmodell-c889884-28556763.html",
-     "date": "2026-11-22T13:05:00.000Z",
-     "text": "Der Opel Kadett GSi 16V S Superboss war ein Homologationsmodell für den südafrikanischen Markt, das lange Zeit einen Rekord innehielt. Alle Infos!"
-    },
-    {
-     "title": "Der vergessene Rallye-Ascona 400",
-     "url": "https://www.autobild.de/artikel/opel-ascona-400-basis-wiedergefunden-6ea46db-28323021.html",
-     "date": "2026-11-22T12:18:00.000Z",
-     "text": "Walter Röhrl wurde 1982 Rallye-Weltmeister auf Opel Ascona 400 – aber die Basisvariante hat kaum jemand je gesehen. Eine ist aufgetaucht. Fahrbericht!"
-    },
-    {
-     "title": "Gebrauchte 4x4 zum Kleinwagenpreis",
-     "url": "https://www.autobild.de/artikel/gebrauchtwagen-check-allrad-autos-unter-10.000-euro-f0b3e8a-27964851.html",
-     "date": "2026-11-22T11:31:00.000Z",
-     "text": "Allrad muss nicht teuer sein: Schon für unter 10.000 Euro gibt es überraschend vielseitige Gebrauchte mit vier angetriebenen Rädern. AUTO BILD zeigt sechs spannende 4x4-Gebrauchtwagen und erklärt ihre Schwächen."
     }
    ]
   },
@@ -195,15 +195,15 @@
    "items": [
     {
      "title": "Knight-Rider-Auto findet bei Zürcher Auktion keinen neuen Besitzer - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcmZVMnJJVC11LWRBYkNKVWNvQ00zYnBvSklGSlpyNjFpcDdmR1BmbndqZVZmbTZpdU5pSzhZaDJMX3ZzTFVFcW05cDVNM1RvaXRyZF9zMXE5bEZBaVlBM0ItUnlJYlQzaWxRVXQ1Ri1RdmtubVp0OXkyemlxRVVQbQ?oc=5",
-     "date": "2026-11-22T14:39:00.000Z",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkwwNVBrMGFkWGZoY2I2dzlRSVBiaWlaX1lrRTlHRHB5WDhEQ2Fmai1NQ2F5S2JIcFF2WENNaXo2cElFSFZyWVJuU3lGdjNfT0t5UFVPSmliSFJVRVlDV2NsaTBIYjFNUlN0TE9ZYXhLdFA1Sl9nZ2l1R2NZWVV1bg?oc=5",
+     "date": "2026-11-23T10:54:00.000Z",
      "text": "Knight-Rider-Auto findet bei Zürcher Auktion keinen neuen Besitzer Autobild.de",
      "via": "Autobild.de"
     },
     {
      "title": "Der 7er ohne M-Version: Dieser Prototyp zeigt, was BMW einmal plante - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzdNZGl4eDM5ZHhrREZmUnpkREdUUTdFcVBROTNSSGJoaDFwdnRfdm9yOHlJQmdJTldNNy1ELUlsMFZmd2JQWXY1MFZWclh1em5rQWZLREx3al93LTYwUzh0OFZjNnNrR2Zpc1VpV3AtVEJ4M3Zfb1FlZTktd3BHclJub2kydw?oc=5",
-     "date": "2026-11-20T17:15:00.000Z",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTXFvaGRHUllObFMxS192VWJ4MmZncExDcmVId2p5Q0wzU1U1bTk5M2ZOTUZMdlE3OHVZaGVLVEhnaTNCbWYydzA3VEE3YV9GVV9JdThUZFZIM1NqOER4Y1JPZVRXMkMzeWczY2twU0pRZEdBWUN2ODBSUm9WbllULTB1Nk9rQQ?oc=5",
+     "date": "2026-11-22T21:42:00.000Z",
      "text": "Der 7er ohne M-Version: Dieser Prototyp zeigt, was BMW einmal plante Autobild.de",
      "via": "Autobild.de"
     },
@@ -215,11 +215,11 @@
      "via": "Autobild.de"
     },
     {
-     "title": "Video: VW ID.Polo GTI Clubsport Concept - Auto Bild",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcXlQSU5vQkp5V3ZhNy1uNG5JN0ZGZG5TSHdZVHZTTmRTejRhMlRGVE1vRVAxMXpPeC1ZNFRnblJRY2ZlbnF2bHVoVTQwSVZ6UFJLN2xQek8ycXFjWnhCZHZTN1I2OHZSUjg0c3Z2RFFFZkIyVnJ3QXpaZnhWRTdZWjNlTzY?oc=5",
-     "date": "2026-11-20T11:00:00.000Z",
-     "text": "Video: VW ID.Polo GTI Clubsport Concept Auto Bild",
-     "via": "Auto Bild"
+     "title": "Mercedes bekommt als erster Hersteller diese Zulassung - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3JOdmN3Mml1V2YzT0NfeFBIYkFvQkhZd1Nzc2NyNS01MndsU3FGTlpjQ0NUTUlvVWVuczhKZkVpMEN0TldEbGV3bHc5czF4SWJXMF9TZ29HT2JGaUNFNndvVnhFaE9VbGlOc25ZU0xua0xuWnJRaUdsTXBDb05hc2tIWmxFNnh1cjMwa3VwWnM2ZUZBTDBWdkZn?oc=5",
+     "date": "2026-11-23T14:09:00.000Z",
+     "text": "Mercedes bekommt als erster Hersteller diese Zulassung Autobild.de",
+     "via": "Autobild.de"
     },
     {
      "title": "Das Goldene Lenkrad 2026: Bestes Auto unter 25.000 Euro im Überblick - Autobild.de",
@@ -236,20 +236,6 @@
      "via": "Autobild.de"
     },
     {
-     "title": "Opel erweitert Start-Reihe: Corsa, Mokka, Grandland als Basismodelle - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMTJFNldmc0VyOElYVjBCWmQ5aXV5UHZ0Zl93X2R5YTBsejBLa0RCcDFnVjlSbnRsRlZ6dm5taWN6Y3RDZnhWU201ZENTcV9WaXltR2NqQmRoN1h4TEd2cWw3d080YXJHYlAxUnVOakg1Qm9ncTBBdFVRZVBqd2tnR2dfbDVwVUs1alE?oc=5",
-     "date": "2026-11-21T05:00:00.000Z",
-     "text": "Opel erweitert Start-Reihe: Corsa, Mokka, Grandland als Basismodelle Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
-     "title": "Mercedes bekommt als erster Hersteller diese Zulassung - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb243UWtEbnh1aldPVTlCRFl2RGM4SVUtZkcxUDh3NUdWTkxZd3FiMHhMNGNYUmpnX0VhZ2dnWFo1STRYSVdXdWk5OENXMXVzUklIeVQyOTNFNW42NHRRYllrOVNTUTBoeWVHc2tfMGh4cVdMUElIZW5CZ0I0U0hMcmNvcFlLS2FtS3dQQXVadw?oc=5",
-     "date": "2026-11-20T15:40:00.000Z",
-     "text": "Mercedes bekommt als erster Hersteller diese Zulassung Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
      "title": "Bessere Abgaswerte dank KI? So geht's! - Autobild.de",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tc2JVV1JaanptVkVVWjFqMGJDbTFzLTdudjFxdnhCZmtXcS01X0RENkYtQm5MdGxIUFdVang1cWdoN3dkT3VqYjB1UDVONG9yZmJFX0xaeTJMaFFTZXMxM24yV1V3VzRnWnlPd0lQWWNPRHZjLWU0dzhMRFA3Zw?oc=5",
      "date": "2026-11-23T05:00:00.000Z",
@@ -257,94 +243,24 @@
      "via": "Autobild.de"
     },
     {
-     "title": "Goldenes Lenkrad 2026: Der Sieger unter 30.000 Euro steht fest - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZUltbmNVMm9hRXNhbmtUM0NEM0NQRENlSFpIXzlNcGJpSUR3YS10VTduTzhubEZES25mSlVBNmE4MVo2czQ5Rk9OLXVuOUV5eVJpcG5VckxhQmk1bjdjT0JkVHVJOC1Na3JoQWxHSWc5bEo5MXo5MHVjaTdHY3l5alFBamg?oc=5",
-     "date": "2026-11-21T13:27:00.000Z",
-     "text": "Goldenes Lenkrad 2026: Der Sieger unter 30.000 Euro steht fest Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
-     "title": "Toyota bringt den Corolla als Pick-up: Kommt er auch nach Deutschland? - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlZBZWp6cklDa3lpOGhmWWUxWFZoaVc3dEhtOFRPQVJLaVNmOHYxN1VnTzcwU29yeXJFVlp6c0Q1ZE1XV1phZ1RPbHRrX2tSVnFSQkFfaEgzNUh3VHVjZHlvRXkxSHRlZXdGMDJmaGQtQTJOXzhfVGxEalpuTHhqUnJnVVI1TUk3dTdCeVFuOWU4bGNNUG00S0xuY1dOR1Zn?oc=5",
-     "date": "2026-11-21T19:54:00.000Z",
-     "text": "Toyota bringt den Corolla als Pick-up: Kommt er auch nach Deutschland? Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
-     "title": "Hyundai und mobile.de verlosen sieben Autos - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkY5VFFMLUJ2eEJhTTBqZlA0QVJXdHRpOFJfZzZfOXVKbkpwMmFvRElOUVBhQXJEN29CSl9NZlpGa0dZLXdpeTVSRHlxeWhYQTFZaDk0M3BPWnBRX3BNNl9rRlZLRzV3SzVOaWtLNkc4N3U3WHZCSEt5RkNXX0RpMzVqVQ?oc=5",
-     "date": "2026-11-21T05:00:00.000Z",
-     "text": "Hyundai und mobile.de verlosen sieben Autos Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
      "title": "Subarus neuer Boxermotor ist ein Sparwunder - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNS14SGtYdEgxV2FLVnlYMGFuWkNDZHVTa19kd0NtRUtrODU5Vk5Ca3JQRmVYT0MwYVVZY2liOFo1RUpVWGV0MXEzd1YzUXBKZ3RHZkxKTV83WWhocnAwR29TeF8zeWdPSXp2aWhQeTRJaGFwcWRKa2NsalhPNlI2S2U3WmxQREp2cTlHVnhubFpFdWFOVnlzLXJLRTNVWGFpdUVsQWFZaXdDQ0ZIQ0hOU09kZ3IxMzhQ?oc=5",
-     "date": "2026-11-21T05:09:00.000Z",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU081QlVQTU15dXZYSE1MdlpUajcydDBYSGN1MERKSVhUWElDRWZoMy1GXzc2X29jYTlnSUF0b2hPRktROEhmNW1yMnpzWjQxNWFYR1dVQWdxNkRtNVZ2VXRzbnFRb3VhaVVEdTFCOEs0YXFlQnQtTVBCZU13RHFyRVRNWlQ3TnM2WDhoVk9XSDNadzBHbjdRNl8wWWJnZ2s3NlZOTlNscl9RMG9D?oc=5",
+     "date": "2026-11-23T15:27:00.000Z",
      "text": "Subarus neuer Boxermotor ist ein Sparwunder Autobild.de",
      "via": "Autobild.de"
     },
     {
-     "title": "Sportlicher Skoda-Kombi für 245 Euro im Monat – inklusive 500 Euro Tankguthaben - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSTVvcmxmZlBEbzMxVjlwSHZsbkh3ZldrWmdXb0RIcjc2bVY3ODluU0Y0cmhGdEdvR2prbzVGeWktSUY0UkNLQUZIbHVEaDFpeld2bHg0WkhWcGFQLVp0U2JVVnN6UmpJWVdXRDM5dFhwLVU5aU9GZXBmbDFvZjlTcHV6NEQ0SUZ2eE5ReDVSejBETjY5dzU5NExaZHAzeG5Bd28tdUlkOW5oaWpvSTZ0dmlKbHM?oc=5",
-     "date": "2026-11-20T10:51:00.000Z",
-     "text": "Sportlicher Skoda-Kombi für 245 Euro im Monat – inklusive 500 Euro Tankguthaben Autobild.de",
+     "title": "Kompakt-SUV mit viel Ausstattung: Das kostet der Cupra Terramar im Privatleasing - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM3Z3RlVNQzZDTzlicEt4emJuY1RTcWdNTU9NNDJIZEc2dk5tRU5RMDBiZWhSNy1mN2xaSkx0QnhuZDNpOWpXUU5adE9TT3hUcjlVMGd6YkdjS1J0SkZSSWNDbS1VTnU5U2RuTF9PYVRTVGlrS3ktSzBjYTlrSHhSYVBhUTRmLTBLMks5VzBnd1FIeXFocFE?oc=5",
+     "date": "2026-11-23T10:22:00.000Z",
+     "text": "Kompakt-SUV mit viel Ausstattung: Das kostet der Cupra Terramar im Privatleasing Autobild.de",
      "via": "Autobild.de"
-    },
-    {
-     "title": "Kia Sportage im Leasing: Topausstattung für Privatkunden - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVM1OXcyblN5dXo2NEMySl8ydV84bzFxUmdiUzQyNEtGdVZfXzZCOXQ1ajVsdWp3NjhCMW4tSGxfRGVTd0xlQ3dZbEtlOGlNa1FEZTRldFZwWUo4U19reUZzYWdzZG1wUGVobThveF9JNHpqX2t2WmtocXhhcXZya2lqR0ZZS004MERFVkRsVQ?oc=5",
-     "date": "2026-11-20T08:30:00.000Z",
-     "text": "Kia Sportage im Leasing: Topausstattung für Privatkunden Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
-     "title": "Hülkenberg wie vor 16 Jahren: Audi-Pilot überrascht im Regen von Brasilien - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tWcHJIOFRxTnBGQUwtREgtSEZvYkhvVGhENC1hMEZwQWlsMXRnR3ZBTFJnYjlSSmsyNUtfZk1fSmd0UzhtYkFiYVVFdnJtMUc0elFuYU05aVp6WEx1NnpMRVprR1RWWFdJS19TU2pJQ25wajU1WksxeTROWGM1cEdOTGo2X1ZqX1phN1dTYmhucVJsYmpySnpyY2ZWSXg4Ukx1aXRNSk1yZFlqelRSNG5GSWN3blFpUkV5SkZlTDM?oc=5",
-     "date": "2026-11-22T15:26:00.000Z",
-     "text": "Hülkenberg wie vor 16 Jahren: Audi-Pilot überrascht im Regen von Brasilien Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
-     "title": "Nächster Ärger um JP! Firma wird auf fast 700.000 Euro verklagt - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDNBVjNuNW5KRjZwaENZbDNZVVlsNTZLV2ltc0VVS08xa0pGYWgyVElSMWFBVUctajZ3eTFESEpyQVZnMWlsTXNmYlFOekd0dWVDT3BqMnlTa2FyRDM3RmIyaWU4T3hKaEs5ZlNGSXByc19hSVZtaUQzQmdRMTU4aDFpNHZIV196NG83RzRDR2tOcEl5?oc=5",
-     "date": "2026-11-20T19:07:00.000Z",
-     "text": "Nächster Ärger um JP! Firma wird auf fast 700.000 Euro verklagt Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
-     "title": "Google Maps integriert KI für die Reiseplanung - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWk9Rby1MOGpZb0NmaXBTUU5uc21Tb2RyS0laR25xT1pKRDdkZ1lrREszbE05WHNGRGc1R3lYaHhDWml6czN2NmZ6RWh0dGZ3S2lyd1ZfZGN4alM0a2hYU2xTWkdlYzhyV1pxVlcwdW9FajFtNk9PT1AtUWdwdmVqWk5RemxPczl5SmFpcTlRSjc?oc=5",
-     "date": "2026-11-21T05:03:00.000Z",
-     "text": "Google Maps integriert KI für die Reiseplanung Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
-     "title": "Bis zu 3,95 Prozent Zinsen: Diese Autobanken locken beim Tagesgeld - Auto Bild",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSzdHai0xRUQtUm1YSVN1TWh1WkNpNFRuQ0V4QzNFZVY3NWoya0tpTzJwUzQ3ZnVPMVQtbkpqUXdOOGVMRnBGNnlVcjNPUGU4VTduSDRxdFJoUzRJbkl4dWtjQ3Y1M3VWbWZJbG5Yc3RhWlVJcExCQ2N6MGZHUk9PdzZ3QW1lbHNaZ1lseWJpLWlBYU54LXJmQjNPNjVTc1BFVjViVFk5OXRjUWwwbFNwUy1FUUM3Um83a2FDWQ?oc=5",
-     "date": "2026-11-20T05:22:00.000Z",
-     "text": "Bis zu 3,95 Prozent Zinsen: Diese Autobanken locken beim Tagesgeld Auto Bild",
-     "via": "Auto Bild"
     },
     {
      "title": "In diesem 59 Jahre alten Ford Mustang aus Carbon schlummern 900 Pferde - Autobild.de",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMzNYTDRQUWpDeDl3MkdyZGN1a0N6UG9RRE5DV3JGdWdfQzhTemw5NmJhTVJnM2RoV1RpRWQwRXdURC1ldlR2RFBwY2NwNDBCd2Z0aUJZVWcxaWlpS1FXOVI1MHJtQUdzZUlGLTFUSi1ESVFtSG5PYnJoN3NYWUdJay0yRjJRZEd1b0ZTYk1tbGx4MXFOcGFSV0l0MEt3ZFBhSFl6bFc5NDZXbUQxbllROGl5T1g1ZHRpVUZ3cXU3S295amh6VGdIM1ZkS1lZVkwydlJIaTROcw?oc=5",
      "date": "2026-11-23T05:05:00.000Z",
      "text": "In diesem 59 Jahre alten Ford Mustang aus Carbon schlummern 900 Pferde Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
-     "title": "Ioniq 3, der kompakte Hyundai mit Sparpotenzial - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWG0xOERoV25lbEliWlZUTzFJa2I3STMwdGFPRUZ4NGNxYjZvdVg3dldmc2VWSk92eWxrcFBVTUQ4X0YwT2M2VFg5V1lPa0pvcWVhc0ZVRjhEejcwZURydDZUa2NuaXlSUmcwU3ZJeGloSkdwVnRDaTB6MFBpYXZHdGhKQ0xtWEtYbG9aUGx5cGt6MXg5Vll5SUxUaFJYN3g3RHpKeEREdGljN0E?oc=5",
-     "date": "2026-11-22T09:00:00.000Z",
-     "text": "Ioniq 3, der kompakte Hyundai mit Sparpotenzial Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
-     "title": "Formel 1: Bestzeit für Mercedes im Las-Vegas-Training - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYkJ6SksxaWhnVmFXdXUxcGV0a2VxdkRDb2FDSmZLRmVlOTRWWi1obnc3b3p6MTBNS3J2MUVYcjhYSzc4dzA3MkJ4SDRvczFoSF9ONlpSZ3ktWHROaXVYVDVNMTQzcmdHNzVuWjJKLW9uYW1YLUozNGZOWTJyR0E4UTI5ZjFkNFlhdERSQVNiWEJUVDQ5TTAzVmVLSjFETWVV?oc=5",
-     "date": "2026-11-20T09:22:00.000Z",
-     "text": "Formel 1: Bestzeit für Mercedes im Las-Vegas-Training Autobild.de",
      "via": "Autobild.de"
     },
     {
@@ -355,17 +271,10 @@
      "via": "Autobild.de"
     },
     {
-     "title": "US-Familienkutsche mit sieben Plätzen zum Spitzenpreis - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDhtVG9WeF9nQzFpZ3JYSHVUcEdPVzA0R0dKQ1p5N096b3V6WlYyZ1NKT3EtRkZzSHV4VmxqTHZ0OExLT3pKbTlpV0hJS0RJUEZTd2p2bUxtbWxkM2Q0c19wMk9QRmlsMnFSd0ZZeUxCWVd4cXFBbmpndnlDeGNidWlRamhmaFVkNzhlTkY2U3JUb3RCN21YcmFnZHRWbjVwMURVWFJmd2dFeFRjNHZ5WQ?oc=5",
-     "date": "2026-11-20T11:42:00.000Z",
-     "text": "US-Familienkutsche mit sieben Plätzen zum Spitzenpreis Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
-     "title": "Zum Preis eines neuen Audi Q5: Darum ist dieser Opel Kadett so teuer! - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFhIZEtaN3JqajBxejNVeV96SUxzeDNCV3dEeTRveUxRX0tzTXFlanN3N0x3RXRIUlNtb09LM0lhMkFQNG1PaVpSWVdBV19US3lxbTRWRmE0bWs4M0s1VmFlUDBSWFV3WXFBbkFJS3lHdTRyU1BSMEltZU5ZaUZydmtZQ0hWSUJHWTJGRmt0YkNDWl9wYWlzSQ?oc=5",
-     "date": "2026-11-21T08:20:00.000Z",
-     "text": "Zum Preis eines neuen Audi Q5: Darum ist dieser Opel Kadett so teuer! Autobild.de",
+     "title": "7000 Euro günstiger! Dieser Smart hat erst 8000 km runter - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT3J4VGgyNXZXVjlPMjNiTUQxQU9EVnZuSGF4QncxczNvajlQSm5oMXpkeVZreExSRHU3Z0RBZi1MVGVnUjNlNHkxa0J2Wm1YWXBwS1VyNTFybHNEUmpON0JIQVAxUWNsU0VfS3NubEFoSDBQZFpyTngtVVAxbElsOVVFSngtbl84S2VDYlBOZjdhR3hPQVhkZHk5SU8?oc=5",
+     "date": "2026-11-23T12:53:00.000Z",
+     "text": "7000 Euro günstiger! Dieser Smart hat erst 8000 km runter Autobild.de",
      "via": "Autobild.de"
     },
     {
@@ -376,31 +285,122 @@
      "via": "Autobild.de"
     },
     {
-     "title": "Wird so das erste vollelektrische BMW M4 Cabrio aussehen? - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNell6WFNjNnViQ1NtVnh5clhFSFBrMUl5cWttbE9wMHJ5QTQ2NVktRXEwYU52UmY1R3FPQk9xTVpkdXAzTXJfYTJ1Z1d6a2swemIyTEJoRm5KVUNTM3dxMzVBTXZiX3d1aldkSkNLQW8yVXdNdjZEQzB2eHNkWHh1TEE2em9JNEpjQ045Z1Rn?oc=5",
-     "date": "2026-11-21T05:00:00.000Z",
-     "text": "Wird so das erste vollelektrische BMW M4 Cabrio aussehen? Autobild.de",
+     "title": "VW ID.4: Elektro-Bestseller zum fairen Preis - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObjYwX284ZnV6QU0wOTkwNzBLeHpCVTVobnJNYXR3LTQ5V2RLeEFxSkxtT09tY1c4RWxVUDliV3lMdjNDTHdrWEJaSkg1WVJxRnE4UWotcnhfOTdNTktLejZRSGJkYzBKdVdrS3BBZzVsUTRoWVVDSXZxYW1EQVE3dTFB?oc=5",
+     "date": "2026-11-23T07:16:00.000Z",
+     "text": "VW ID.4: Elektro-Bestseller zum fairen Preis Autobild.de",
      "via": "Autobild.de"
     },
     {
-     "title": "Volvo EX90: vollelektrisches Luxus-SUV über 30.000 Euro günstiger - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFo5bVNwS2Rhb0JqVERabmZNRUN3M2F3U255aW9VQ2FpdzctQmpuel9GcUFqa19XZUFfdlRCZWpXcGRIbnhBSUZxdmE0YWJJRlAwTjFxM0RzLWkxaHo0TlM1Z19MZXVzTWpWb0JqQzhzTFIzTkJfeGVJaHQtVmdYRXNrQTZfUQ?oc=5",
-     "date": "2026-11-20T09:20:00.000Z",
-     "text": "Volvo EX90: vollelektrisches Luxus-SUV über 30.000 Euro günstiger Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
-     "title": "100.000 km mit anschließender Zerlegung: Die 50 besten Autos im Dauertest! - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV2xVZWhBWkFCelFsSHRLcld1SGpoeGNKakpaeG1kRk1EMnB1X2gwa0RaQjB5MmMtVkpzdkJQaHhxcWtPWllfMVZMNlJvaGpvd0NKYlV3ZHNrbE96SGxTZ3loS2dRS3dlVjZyV01CYzZRSzBhcFczdmVhUC1pR0J5bw?oc=5",
+     "title": "Ein 7er wie eine Staatslimousine – diesen BMW kennt kaum jemand - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qMTVrWjkybU9aeVozdUFZUVJLUWNIRWhNOVQxM190azhDc1NOSTdnZjdhc2xhRmRJVEZLbG45enhjYmRLbi0yVFNLSkUtWUVHUUhSa3JjemlIQU5Ec014TDBQcG9BRU9iVHEyaWNoclN1M240NHBF?oc=5",
      "date": "2026-11-22T05:00:00.000Z",
-     "text": "100.000 km mit anschließender Zerlegung: Die 50 besten Autos im Dauertest! Autobild.de",
+     "text": "Ein 7er wie eine Staatslimousine – diesen BMW kennt kaum jemand Autobild.de",
      "via": "Autobild.de"
     },
     {
-     "title": "Wie viel sparen E-Auto-Fahrer mit der Stromsteuersenkung? - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnBScWYtLVh4ZXdIbUc5UlVfaXZONGhrVWpWMEtIYTVmSXRqMkVsQ0VIR1hTcEp2RFdFUGxaRVE3VFhkUmhlb2tzNXBDbzhmY2haX2w5czhpWFRyRFJiUC01U0NXb2NlcXhybFdfcHkzd0ZtQ01BbGxpSzhEaF9JQmZDYTlRVFRJclQzbkY2ZDRRNmNEVVVXellVVjEzZVRFSVM3ek9GM2pqbVBUVzhGQUFn?oc=5",
-     "date": "2026-11-20T05:03:00.000Z",
-     "text": "Wie viel sparen E-Auto-Fahrer mit der Stromsteuersenkung? Autobild.de",
+     "title": "S-Klasse mit V8! Jetzt über 90.000 Euro günstiger - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjB4MWt1TkM5VHUta3VNSW5OaGtfUjIxWVVQZTRPQkhqNFBiVzFyMG02UmRlcmpmV2M5OXBkOEZXS1VvalBKRklZbHp2YVplWXVxNEVYMm1SNDQxcVVVNjJoRFNoOC0xTUR2MFk1cGlNWlhKdDNfMzlmNUR6OFlYdThsSHk0ck5nLXBBQlRWNlBZTDZ5bUhXUFRnRmpyMjdxenc?oc=5",
+     "date": "2026-11-23T12:24:00.000Z",
+     "text": "S-Klasse mit V8! Jetzt über 90.000 Euro günstiger Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "F1 Las Vegas: Verstappen gewinnt verrückten Windschatten-Poker - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjFjUm9IYVRoUHIzVGZ2T2ktOHAzUkxTeUtSdFdvOVpYLTlVcTdJWjJYUHktcy1LYTZVTFhUVEdGMkpTOHVnRnFieTY5Z1hnZkZKSVdaMkd0TzljSkp5aFpHa3Naems5ekhzRzl6YVRkdFVieWVnczdvd2NFaHNITlI2SVhMX1FtS3dvc3htbmZsbGNqcjg4b2VZU2RWaTdORUNDS1pXb1phTlQ5eWE2Qkl5RjhtRFBt?oc=5",
+     "date": "2026-11-22T06:12:00.000Z",
+     "text": "F1 Las Vegas: Verstappen gewinnt verrückten Windschatten-Poker Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Mercedes Hands-free Assist: So fährt der Stern jetzt freihändig - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb2MyNkJjTjZCR1d4M283NlowRzNzT1Q2czVFbFAtT0JsbEwyODBDelRheDc5U3Z2N0NDSDdTbTkyNDBmbFBUY29tVnh2R3R5OFBHV29HUUZXUlQ4MnZ5RkNtbzBlb1FBNVlBUlBDNnRIbFVScHh2WXlWdXgtNUVCUkhfUW40WF9RR3poR1RmaGctZw?oc=5",
+     "date": "2026-11-23T09:20:00.000Z",
+     "text": "Mercedes Hands-free Assist: So fährt der Stern jetzt freihändig Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "VW T-Roc Goal mit wenigen Kilometern für unter 20.000 Euro - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDZnWFRJZFI2M0pmT2dhak4zVUJTcjg2UkdQa1FRMXFRWjk5OFFBRWVjRUlpOG1DT0pRM2syRGNWYzdtb0EzcHI5Z1p0WEZwam85ZHZwRkJfbi0wUFRUSGRPMDMzaE5SWTdxc2ktVFRVSUhGRmwxQkJvel9Yd3ZZWFVfT1VaLWZzbFpKMlU2SnZYRDg2?oc=5",
+     "date": "2026-11-23T14:12:00.000Z",
+     "text": "VW T-Roc Goal mit wenigen Kilometern für unter 20.000 Euro Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Renault Captur: Kompaktes SUV mit geringer Laufleistung zum Schnäppchenpreis - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY1JOU25SWnBjRWF3YlZlZ044dkhPQmFxaE5rS0xCaXA5aDZxbjc1cUE1MC1vZWNVRVpoVmFnSGZKZnk1TGpQOG4zSjYxblBmYUItTl9BSmNYTVpSRE43LVFVTEtSSEpDQ1pOdjRkMnhQZE85UWVTY3pmajl5NDB5cVJzOXJIZ1lLMmtJ?oc=5",
+     "date": "2026-11-23T07:11:00.000Z",
+     "text": "Renault Captur: Kompaktes SUV mit geringer Laufleistung zum Schnäppchenpreis Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Unglaublich: Mercedes 300 E als Scheunenfund im Doppelpack - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHpCYkQ1YnBJUVByYkZPY1BjUTZMaklnTm4tLWtwRUl0dW1vOGl0VWlFOFhpTlBWSzJmeHJ4SEVfUVFrTXJyUHp2a19lbmFRbGEzcWJQNmFPc0xiaFh5bkVlWEQ1LWM5bzJ1NUxZZEI4VmRWdTJuSEhKZGFjb182RVJaR2JxWW1WNU14TXFkMTZfbkxHWVhZbTFycEtUYkRKdUlqX2FjM2c?oc=5",
+     "date": "2026-11-23T05:26:00.000Z",
+     "text": "Unglaublich: Mercedes 300 E als Scheunenfund im Doppelpack Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Wieso ist dieser Mercedes SLS AMG so günstig? - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDl6b0lCZzh1SkxEalN3cThaQzBDZGJEVFFDdUx0Z29ZNm1rMDI4TTNDckRLTm1RX2hsVG03Nm9nUUwxbjFKaXNtYzA3d2FlbnNQYWJOUzNNdkNaZ19kZ0dQcVNJTUhFWUlGWi12RENTZ1JtVUowUVlEckFkRFVPY3pxWkNKYm9UZDVObWFqUkhaODRteVhtRlVXTWJZY2pr?oc=5",
+     "date": "2026-11-22T05:00:00.000Z",
+     "text": "Wieso ist dieser Mercedes SLS AMG so günstig? Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Erste Fahrt mit dem Stellantis Smart Compact Van - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN0dwdlJuVzBtaHo2VGotRGdBT1hfNEV4WUYxazQ4MzNuWmp0aDBPcVdJMnlHbVpxOHU5QkkwcmZKZTkzZjB6ZVNNVS1xeUFxVFNtUXBuWFBUNzlKdzFuQl9OXy10UXZVdDlnZWZDd0VReDBGOWZtelZmcmF1b05ZYlhLVERYRGNONno3RkhKdjRlam1KNDQ3RkYzSk9XUzM3dnNOblVLdENobDRWZllEU2l2cC1SeFNTRXVab3RrVVhIOFhodWhZ?oc=5",
+     "date": "2026-11-23T11:33:00.000Z",
+     "text": "Erste Fahrt mit dem Stellantis Smart Compact Van Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Goldenes Lenkrad 2026: Das sind die besten Autos des Jahres! - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3VoN1dRSTRUZmhBTTJ1dWhCdS01NmgxN3RzSXAxcERLdW1DOXBsa29CNVdnd3ktQ0RIZXdfVDdUMjhzT2I5Z2ttckJuUU8tcHROakE3X2M1eWJYa3U0dzEzdTA5bTJPQVd6bVNkN3hzZjlzWFRMb0ZCa0FkMjJGVg?oc=5",
+     "date": "2026-11-22T18:34:00.000Z",
+     "text": "Goldenes Lenkrad 2026: Das sind die besten Autos des Jahres! Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Wird VW vom Ansturm auf kleine E-Autos überrollt? - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaTNfZDJaTXhCS0JGOXIyQTUxNHp1cDlDZVVfTlo5cUhzSmNIQmFyUEEyWUpMMjdFVVZncVpnbWhKNWRZd1FLb0JXMm8tanJUdGdEZHkwR056NU9wbGhBWWE3MlRvc0VMMWRkeU5vdDhKQUhmdmE2eEY5NWFnUDhya0NaZTY0bHdvdHIyaUQyclJiWnJtM2FHazJjcVBPYWkzdlVKZERoTGNYYjQ?oc=5",
+     "date": "2026-11-23T07:11:00.000Z",
+     "text": "Wird VW vom Ansturm auf kleine E-Autos überrollt? Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Sie fahren täglich mit: Diese Genies stecken heimlich in Ihrem Auto - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHU4R1pyNFg5MnRLTTRpb3lIYUhfc2pNdG13OU9rQ0RCeGdWTWVGMnVJLWNoUWlvdldrZmdjcFpZU3Q2VHU1T0s4MWFuSm11S3ExZ0NOaXZ2UzNmdFJma2hXREV1TDg5eFR2dWQxNHhROExtcmkxQllPSTFGQ0xxZk5FUQ?oc=5",
+     "date": "2026-11-23T07:34:00.000Z",
+     "text": "Sie fahren täglich mit: Diese Genies stecken heimlich in Ihrem Auto Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "VW Golf R: kompaktes Topmodell im Test - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43WFRUX0JES2tMd0ZwUkJDU1VIb28ycnBZUVEwX0VEMUkwbVdBVVRJR25xcE9WYzFqdi10R0U1ekhldjJ4cHlwdEkxLXQ2MmFuU2ZPWk5EOVVpVUlOY0ExU0R2eDhGcFlXd3hIZ0lYSjE0UzlYcHhz?oc=5",
+     "date": "2026-11-22T09:52:00.000Z",
+     "text": "VW Golf R: kompaktes Topmodell im Test Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Kosten, Plaketten, Termine: Alle Autofahrer-Änderungen 2027 auf einen Blick - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjVlYVZXUUZ0czl2aG5JaFpEeWJGRlNhRVBNa3RudTFHR3NrVzg3YkdrRnp4OFY0Y3FpeDZtc0kxWlBNbzhidjBxanlUeGtPVVFzOGFHcjB5VzM1MXpXYkltd2I1dHktSW1lODJhTXZmaEN5aXhLN2Z6QnJQUkxOd1pLbzdDMHprTk5uY1gwNHhLdGJSOVNKTzI1VXZJdDlIUmk0dG41ZERVNnN2UnlINW02Y3piMVJNNDE1dw?oc=5",
+     "date": "2026-11-22T13:52:00.000Z",
+     "text": "Kosten, Plaketten, Termine: Alle Autofahrer-Änderungen 2027 auf einen Blick Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Batterie wechseln: So groß sind die Preisunterschiede - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNck1pZndZVHllUUg0YldpU2xMb3VJb1VZcW9QV2RaYk9nY2pqVGdRUHAtbGNWNjhzUkI1S1J1bVRucG1CcXZFRm5WUndzV1g3NWpTWXRHLWlPZWpnVFgza3pIVlpRdXYtVWNmYUZ3ODF5dVdxRmhGYUpKUmVtS1JaN2dmNXBKMHVkR2c?oc=5",
+     "date": "2026-11-22T05:00:00.000Z",
+     "text": "Batterie wechseln: So groß sind die Preisunterschiede Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Klassiker im Rückblick: Der Opel Kadett GSi 16V S Superboss - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmpQT0QxSDljY1ZLalk5R29WUlZnQ2R0dlpMak4taThGbWFRNUQyVDNyaXhETUlyUE9tYnpNMzJ5cGJzWTRxRDV5TUN3U09EZjJLemtWR0VjenRwVEcxaGVvTkwtZ0k3TWRoam5sYVZQaUxoREJ6S0E5em1mdGZSTjNFSk11OHBydUtKRTlFTjhyM0YzcC1CaUNOR1oxY0tFZ2t2VWFpazE?oc=5",
+     "date": "2026-11-22T15:13:14.000Z",
+     "text": "Klassiker im Rückblick: Der Opel Kadett GSi 16V S Superboss Autobild.de",
      "via": "Autobild.de"
     }
    ]
@@ -410,87 +410,31 @@
    "ok": true,
    "items": [
     {
-     "title": "39 Führungswechsel im Zockerparadies - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXdqNWlnSlc5NXhLbkwwaVJKSmRXZDR5cmRoY0Q4a0VIcTgtZmtObFd3MlpOdTRyd01xNEQ1ZzFQSUVZeGRGN09JZVhwRGdGYlJjTXdIT01SUDZiMV9VdVp0dW91WHlnS2NaVkVqVVQ5Z1ZwaEZsWlozdnJqX2wzOXZ4TEpoRXBQcFZMS29kNFJFT3d0bTJyVnRBMA?oc=5",
-     "date": "2026-11-22T06:37:18.000Z",
-     "text": "39 Führungswechsel im Zockerparadies Auto Motor und Sport",
+     "title": "Streit um Defender-Design: Gericht untersagt BYD den Verkauf des Ti7 - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUJGZ3EzQzQ5US1SSlJrVngyNjFhYTdrYThiZll4LUZVenVYOURXa0RieU9aTVh3QWFjZ1RybGhnWmprb0JDdkpGYkNBbnBqZzdEdGZvN256Ui04MHJZdjc4MEJoaHVDOFBEUFpDaEpiSWU4Z1luNGdjR05rODdHbkF6MjdOZUVFbmNNZFVyem5HXzNmZDA1a1FLZzdIVVRtWWkzaTFtZ1ExVEljYlFvMHBR?oc=5",
+     "date": "2026-11-23T10:54:36.000Z",
+     "text": "Streit um Defender-Design: Gericht untersagt BYD den Verkauf des Ti7 Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
-     "title": "Die besten Helfer für freie Sicht im Winter: Eiskratzer im Vergleich - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUhNcVlCZEI4WTl6VV92enF1V2V5dTBobU1iODJKRnVoN0o0YnpwNXBWR1NnTnhOdkZnWWM4WDJmOW5VOG1SdzM2dllFOHJtT2Z6ZTNFX0Z6U25VWTVxRHRXVWxlTU1oQTNmRGMyZy1kZlFSVUNSeDAwdkhuaVF2MVV3RVp4V1RHa0h1MU42MTN4dW1Nd29venJYbE11dDgzTWx6a3ZtdmczMmtCQi1Hb05yMA?oc=5",
-     "date": "2026-11-22T04:52:31.000Z",
-     "text": "Die besten Helfer für freie Sicht im Winter: Eiskratzer im Vergleich Auto Motor und Sport",
+     "title": "Punktabzug für Las-Vegas-Rennsieger Max Verstappen - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41VF9QRXNESVd4Y1pDU0JCZXJ0dGYtYm9zSUVaRU11Ni14TDg1RmZiUUlKWjdHbGEzME93d2V5bTRuN2dWTzVqbDR6VDl5SWZldDV2WWd6V1ZPX0xCQjJncEZhalNCMEZkdGpDT1lMb1RjSnBvVWRtNFlDcUs?oc=5",
+     "date": "2026-11-23T11:12:27.000Z",
+     "text": "Punktabzug für Las-Vegas-Rennsieger Max Verstappen Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
-     "title": "Euro 6 trotz früher Schäden: Subaru entwickelte den Boxer-Diesel weiter - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1R0ekZfVDFUNGViNlFpcEZCeUZPeWNmUHVPT2tGR2xmaF84eFBOS2Zaam9ROElCaVhfWFBJLVZRY0RjNXVja0VDa0x6WFNFNGx3UGJaMWJtTnVEUFZNdTg5dHd5RnprQndRcF9kcWdaSDVLUEVnQzQxX2xOUEJpTFBabXRzYld6dEYwekVmOUFpc0pPZFdfNkJlOUxnTWR1TW4zSTRzYXF2ZVFNMjRJUUdJcw?oc=5",
-     "date": "2026-11-22T15:12:19.000Z",
-     "text": "Euro 6 trotz früher Schäden: Subaru entwickelte den Boxer-Diesel weiter Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "H7-LED nachrüsten: Auch die Nummer am Scheinwerfer muss zur Freigabe passen - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0FueVgtVExCZGd4UzFocTNBcXFJMkdLTjRIczhKSDFhLUdYaGloUnAwLU5aNGZCV1NFYzF2TVU0LUs0bll5OGNMd0kxRDJ5ajdUZmpwTWJIT05ENC1UamNwcXQ1cTc2RTVBRTFQX1BpNkxQTzhHUnBtLW9zbGk0akVCa1JWNVZuWWY2di1Td0JpMDJIN1RqS2N0OXZjaHRxNHFPbjM5STBQRE9IbndrZHZFVQ?oc=5",
-     "date": "2026-11-23T09:47:19.000Z",
-     "text": "H7-LED nachrüsten: Auch die Nummer am Scheinwerfer muss zur Freigabe passen Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "20 Millimeter tiefer: Was Porsche am Fahrwerk des 968 Turbo S änderte - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSUFEY0MwdUstXzhmMHFSVXc0MWI4bUYtMXIyNXJ0UzItMUhwdmQ2dnhiS1A3MWJ3eHUxSFVyZVNjbWJieGpQX1JuUWxaWk54MXRsVFRfMFNnWndIS0oxMERFUWJvb2JpRU1Fd2dnT29IZjJPUjVGeVJVZHFSSjBDSEJKMGE1X0xqOTd4UHlNZWtTaW1o?oc=5",
-     "date": "2026-11-23T09:27:19.000Z",
-     "text": "20 Millimeter tiefer: Was Porsche am Fahrwerk des 968 Turbo S änderte Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Zwei Türen sagen wenig über den Platz in BYDs Kleinstwagen-Entwurf - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1MzTk5wd045QnZsSURudkRMbVU0Zmh3U2lra3JmdV85c01yUmlHV0U0VEtkREFJN3pYUlNHdmJhR2o0d1owZzNVdkI1VDg0bWRIcjBUc3V6bHJtdEptUnN0bTk3ZDl5SnEtUWgxeXdEUUtsaGduU1haZUVXTlhWY0N3UmxIb1pKVUpCR3dRcjU1X0drYlJZaVM4eGxlczk1Wk5pWVN2TXFQcFNzb1E?oc=5",
-     "date": "2026-11-22T17:12:19.000Z",
-     "text": "Zwei Türen sagen wenig über den Platz in BYDs Kleinstwagen-Entwurf Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Dieser BMW Vierzylinder trägt die Gene des legendären M1! - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUlrMTNjbDE1RklzS2tGeFJPUDhxMnAteG82VVZ3V3h1aHUzVHVxZEpTWDRyRUpmSFdFTlZ4N3h6Mm1ENFVLdm1VTVdrLVByaUpZSS1nRm5BQ1RlTHN1VTluSHYyTzV3NU1nOVRFQVBuWHNscll2dnBsWlNyTl9NRUNRVTBUVndnQlR1ZnFGS1M2NVk?oc=5",
-     "date": "2026-11-22T07:17:18.000Z",
-     "text": "Dieser BMW Vierzylinder trägt die Gene des legendären M1! Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "FIA-Stewards ändern Las-Vegas-Ergebnis in den Nachtstunden - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT01QWmdmNVQxYWdnZ0VsNDkzZF9MOS0tLVhoRGdHZlNuVG4wblQ2b1p4bDFVNXV1TF9SUzFIRTRjZmxkdHdiNWhDYjQ2SFZRNWRHaVI2cG0yRmlNR1BPcEFHa3pMQ2dWM3ZNVlJjSzgxU25YN2FhTDJncHpLRUFsMVduWmNOXzJZQjVkYXljWHNMWW92elE?oc=5",
-     "date": "2026-11-22T08:57:18.000Z",
-     "text": "FIA-Stewards ändern Las-Vegas-Ergebnis in den Nachtstunden Auto Motor und Sport",
+     "title": "Von der Anti-Schleuder-Bremse zum Race-ESP - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0dnR0Y0VGgyUGpqM3pMbVpUUGx1a1N0STFaeFFiMjBPYXU0ci1mVzYwUG5yUWpRb2o0VGFseEtqMHdhZTVhakZqN3dpeDdjOWNMdDVpd3hteFlaa0JUSmEtbW9hTFhoX0tlMjZGcVhYel9MakJ3dlBKTDZWejhYclplN0ZqQnJNYU1rVk9uZ2RKVlR3VGh5MGFzUDdwRk0?oc=5",
+     "date": "2026-11-23T11:51:29.000Z",
+     "text": "Von der Anti-Schleuder-Bremse zum Race-ESP Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
      "title": "911 Turbo Touring erwischt: Porsche nimmt dem Turbo-Cabrio den Spoiler - Auto Motor und Sport",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0ViV21KMUI0Nk5FMkxuVGloQ2RwX1I3bnctbXlLVXNSQkZnSVFxaWNfNUstZGlldW80N0ZqdkRVcDJldE5fRzl1X1pQRGJpeGlRcVRxd2k3dzJ2NER1SkZkUWRaWjIwMmJXZmRXNDlIeDV5aEgzNTU1OWFaM3RiNkFEV0gtZlktZG1PdnA2NHllMzlYTXVVenpCSmVBYmJNbEh3ZWRiZzF1dGRrLUdwdnBnc0lSb3pF?oc=5",
-     "date": "2026-11-23T08:01:13.000Z",
+     "date": "2026-11-23T08:43:12.000Z",
      "text": "911 Turbo Touring erwischt: Porsche nimmt dem Turbo-Cabrio den Spoiler Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Zehntausende Autojobs fallen weg – Bilger fordert Treue zum Standort Deutschland - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLWRDOG12WVVZSHRXdnh3UklQSGo3WGtYc3hhZFJwb0R1M25wVFUtMVp2bUF2T1pJbE9ZSWRRS1hFNnhsUXozMDJKZ01qSUhnaVVTTVZqWHlUaWxkUkhIMUt5eXNfWDF1TkxKaFBNMnpSVnRncmlzbVpqRndUc0pBSF9PUTR6MlZnVlZCUVMyeXJpQmVWTXlXLTlIQ3pncnROUXNfbUZOSUg?oc=5",
-     "date": "2026-11-21T13:17:10.000Z",
-     "text": "Zehntausende Autojobs fallen weg – Bilger fordert Treue zum Standort Deutschland Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "6x6 Radhaubitze: Hier ersetzt CAESAR die russische \"Nelke\" - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcWZhYUIyVnNkOUJqMlJ1R2QySFRnSW1oQ1BZbDhOUm5HYmhTY0s1MmpPSmNQVkd2SEo2OGtvWXBTRmpRbzBWcUg5VnhlVTFFaUtkZm5HaHd4RloyMm9JdUNlb2pQV0JVY2pQVF9NY0lYeVFUbTg1dDZtWjlDZkpjSEtLd2Z2VWlNa0ZoRDlLVk9WT0hsM25RdW5SSk9iNEFucnc?oc=5",
-     "date": "2026-11-22T07:12:18.000Z",
-     "text": "6x6 Radhaubitze: Hier ersetzt CAESAR die russische \"Nelke\" Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Diesel bleibt bei Frost liegen: Wann 112 zuständig ist und wann die Pannenhilfe - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1VZTnRzbmtib0FsSXVZZ0xoUWJVWHZKbGROdGpIRDZsYnN1aXVtRGlsUTdNX2VxeThRS29taDBaRlJXZGlWelFoc3pEbkZibnFUXzVva0FZeVpZMUZxSmNOeDNDUUNPTlpINXZqUHlwT2FXZ0lqQ2I1NFUzQ2d0VmEyZWRGZDJFTFduWU5WMFB1NGZlbEE1Ym5CaGtkR3M?oc=5",
-     "date": "2026-11-22T11:07:19.000Z",
-     "text": "Diesel bleibt bei Frost liegen: Wann 112 zuständig ist und wann die Pannenhilfe Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
@@ -501,17 +445,171 @@
      "via": "Auto Motor und Sport"
     },
     {
-     "title": "BMW: Der Konzern plant weitere Abfindungen für Beschäftigte - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RSm5LWmljai1sMFFXR0hrUjFQdGxiWEZFR1ppZGpzODFQREs4LWlrS1hmckoyQS1kc1oxRTZDRGtCVGJ6Y0FnSWJra2JrRXk0NU83MTRZcm52dzJaQVE3M3NOYjY2cDkyMm1PQ01JMVVzQ1puSE85MnU2aWo?oc=5",
-     "date": "2026-11-22T00:17:16.000Z",
-     "text": "BMW: Der Konzern plant weitere Abfindungen für Beschäftigte Auto Motor und Sport",
+     "title": "Auch Mietwagen betroffen – BND soll Auskünfte über gespeicherte Fahrzeugdaten erhalten - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQU1Va3JvSHNVVDVMWTBPaUNFR2J6SFlxWFNwSmFYYmJZdnVnY25CQkkwU0oxSTB6ZHg3cUhqV25vbWdpbEVxTU1RcGRWOVJ2SXRtNlRfOUpPNDNJRUJObm5ZY3JCVjh1cDRETm1LVnlRNmozd3hiS1NiRkZXTEF5b2UwVTh2SWkxREEtRHllVXVTcnNpTnk3dHFrc1Rsb284U2ZDNnNqMVZjNktW?oc=5",
+     "date": "2026-11-22T23:56:58.000Z",
+     "text": "Auch Mietwagen betroffen – BND soll Auskünfte über gespeicherte Fahrzeugdaten erhalten Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
-     "title": "Mercedes W123 als 200 D kaufen? Bei der Probefahrt zählt auch die Lenkung - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXZJZ09xYklWMU5aWXppSVQxVEdjeWozc1JHRVZPNDFaNWcyZHlwZE8zdVg0Ym9oeEVEd3M5dnZuc1pZOHpVMkpjN3pJVEZxRXRDV25FVERjdko1akN3dFB5aFlKMFNuMWZ0Mk96ZmNEQzZBZXNoUXRHaTlLUzREVFk3MU1RYzlaM21VQ0tBejRrUjFJcWd6STRpUjBnaEh3Tm9oQjY2UQ?oc=5",
-     "date": "2026-11-21T17:17:10.000Z",
-     "text": "Mercedes W123 als 200 D kaufen? Bei der Probefahrt zählt auch die Lenkung Auto Motor und Sport",
+     "title": "9,30 Euro je 100 Euro Umsatz – wie Suzukis operative Marge zu lesen ist - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3pNQ2VXMndpYV80blpPWDNvdVl4aUdneEw0Y1NtVXdwU2piSmZWYUVWNmhyWEtac1hPdGNZMmdKT0NZc0YxLTNMTGZlWDNTRzNyY1FSdjVNT1NMVHhBa2ZnMm5wSnlPWE53MWRjbUVwb1k3TXN1Rk9ac1VJUl9vaks3VXBLb0dtVEpweGtNRW1naFlENldaYl9zODFua3dhX1h1QnB3?oc=5",
+     "date": "2026-11-23T12:40:59.000Z",
+     "text": "9,30 Euro je 100 Euro Umsatz – wie Suzukis operative Marge zu lesen ist Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "20 Millimeter tiefer: Was Porsche am Fahrwerk des 968 Turbo S änderte - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSUFEY0MwdUstXzhmMHFSVXc0MWI4bUYtMXIyNXJ0UzItMUhwdmQ2dnhiS1A3MWJ3eHUxSFVyZVNjbWJieGpQX1JuUWxaWk54MXRsVFRfMFNnWndIS0oxMERFUWJvb2JpRU1Fd2dnT29IZjJPUjVGeVJVZHFSSjBDSEJKMGE1X0xqOTd4UHlNZWtTaW1o?oc=5",
+     "date": "2026-11-23T09:27:19.000Z",
+     "text": "20 Millimeter tiefer: Was Porsche am Fahrwerk des 968 Turbo S änderte Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "H7-LED nachrüsten: Auch die Nummer am Scheinwerfer muss zur Freigabe passen - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0FueVgtVExCZGd4UzFocTNBcXFJMkdLTjRIczhKSDFhLUdYaGloUnAwLU5aNGZCV1NFYzF2TVU0LUs0bll5OGNMd0kxRDJ5ajdUZmpwTWJIT05ENC1UamNwcXQ1cTc2RTVBRTFQX1BpNkxQTzhHUnBtLW9zbGk0akVCa1JWNVZuWWY2di1Td0JpMDJIN1RqS2N0OXZjaHRxNHFPbjM5STBQRE9IbndrZHZFVQ?oc=5",
+     "date": "2026-11-23T09:47:19.000Z",
+     "text": "H7-LED nachrüsten: Auch die Nummer am Scheinwerfer muss zur Freigabe passen Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Sternzeichen Fische: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2MxZXlrcHB5NF9vWTEzN3VrVEJVX2IxbU13TmRfUGxmX29HM29NUVQ0UXFEZ1k1b3ktMHpNMmhKLXZpdENhRVhOTWltN2lXVjhSdWJkNTBkODNjZXFXd2k5T1NhRlRUdURVRmN2MEIwU2tyZl94Qlo2NFUzUkp0UEJ5MXc?oc=5",
+     "date": "2026-11-23T01:52:31.000Z",
+     "text": "Sternzeichen Fische: Charakter, Stärken und Fahrstil Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Euro 6 trotz früher Schäden: Subaru entwickelte den Boxer-Diesel weiter - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT1R0ekZfVDFUNGViNlFpcEZCeUZPeWNmUHVPT2tGR2xmaF84eFBOS2Zaam9ROElCaVhfWFBJLVZRY0RjNXVja0VDa0x6WFNFNGx3UGJaMWJtTnVEUFZNdTg5dHd5RnprQndRcF9kcWdaSDVLUEVnQzQxX2xOUEJpTFBabXRzYld6dEYwekVmOUFpc0pPZFdfNkJlOUxnTWR1TW4zSTRzYXF2ZVFNMjRJUUdJcw?oc=5",
+     "date": "2026-11-22T15:12:19.000Z",
+     "text": "Euro 6 trotz früher Schäden: Subaru entwickelte den Boxer-Diesel weiter Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Diese Scheibenfrostschutzmittel für Autos sind echte Black-Week-Deals - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFQta2RINlBxUEVfaE04MVlEb3dXM1FnMWxwa3JkMW5TUElIdXV1dnRURkJPYjhubjBISkF1LVV4Mk9KZWpVdmZoNlpYdGpIUUk1d3V0aUNkU1lydWNOUHh2WGw4NTZDSXNMZ3pGeFA5b2JKLTFsZXdySFRxcVhzT2pzSzNUa19za3NyYW43TXVvbk1ac1l0MFVjcVZrQnIwTHVRQWtHcWpYTUx2bkxQTW42b0hqZFVyWmhOMUJyMU9EdWRXdzJuVWhTUmF6bHRS?oc=5",
+     "date": "2026-11-23T14:35:57.000Z",
+     "text": "Diese Scheibenfrostschutzmittel für Autos sind echte Black-Week-Deals Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Ferrari 296 Challenge Stradale und Challenge Evo: 700 PS pure Verbrenner-Power - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXBURXpSV2l6bnAxcHlRbU4yTVktM3BBdWpIaHJVRTRQaFRtYk1reWdMRWRqQ1UweTQzdk96M3VBS2VyT3h5bHFtWnY4b0FFd3R5MkpPOHlrM2czSDNNV19tcG83WXpjRWp4M1pkVlA5bzhPWkhnM3B0cmNIVldwSW1UcXZ4b21UODlhQV82aDk5a19DUjFmcnEwUTB3V2d3eEVsaFpndERfVW5GRDVDanR0UXBNT3NpSVZ6MmhzRmo4UQ?oc=5",
+     "date": "2026-11-23T15:56:14.000Z",
+     "text": "Ferrari 296 Challenge Stradale und Challenge Evo: 700 PS pure Verbrenner-Power Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "39 Führungswechsel im Zockerparadies - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXdqNWlnSlc5NXhLbkwwaVJKSmRXZDR5cmRoY0Q4a0VIcTgtZmtObFd3MlpOdTRyd01xNEQ1ZzFQSUVZeGRGN09JZVhwRGdGYlJjTXdIT01SUDZiMV9VdVp0dW91WHlnS2NaVkVqVVQ5Z1ZwaEZsWlozdnJqX2wzOXZ4TEpoRXBQcFZMS29kNFJFT3d0bTJyVnRBMA?oc=5",
+     "date": "2026-11-22T06:37:18.000Z",
+     "text": "39 Führungswechsel im Zockerparadies Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Zwei Türen sagen wenig über den Platz in BYDs Kleinstwagen-Entwurf - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1MzTk5wd045QnZsSURudkRMbVU0Zmh3U2lra3JmdV85c01yUmlHV0U0VEtkREFJN3pYUlNHdmJhR2o0d1owZzNVdkI1VDg0bWRIcjBUc3V6bHJtdEptUnN0bTk3ZDl5SnEtUWgxeXdEUUtsaGduU1haZUVXTlhWY0N3UmxIb1pKVUpCR3dRcjU1X0drYlJZaVM4eGxlczk1Wk5pWVN2TXFQcFNzb1E?oc=5",
+     "date": "2026-11-22T17:12:19.000Z",
+     "text": "Zwei Türen sagen wenig über den Platz in BYDs Kleinstwagen-Entwurf Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Die besten Helfer für freie Sicht im Winter: Eiskratzer im Vergleich - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUhNcVlCZEI4WTl6VV92enF1V2V5dTBobU1iODJKRnVoN0o0YnpwNXBWR1NnTnhOdkZnWWM4WDJmOW5VOG1SdzM2dllFOHJtT2Z6ZTNFX0Z6U25VWTVxRHRXVWxlTU1oQTNmRGMyZy1kZlFSVUNSeDAwdkhuaVF2MVV3RVp4V1RHa0h1MU42MTN4dW1Nd29venJYbE11dDgzTWx6a3ZtdmczMmtCQi1Hb05yMA?oc=5",
+     "date": "2026-11-22T04:52:31.000Z",
+     "text": "Die besten Helfer für freie Sicht im Winter: Eiskratzer im Vergleich Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Sternzeichen Fische: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWM0UFN3LVNuMVByc09FUU14RnowUzN3MkM2aHVQTVI3WEY1MXp5X0pHajExdHp3QXh1Y25kdkpNOWZ1QzRtWUVITXZ2TUpTR0NXN0RfQnhfZDVQRWhIYzFIOTMzc1JGbFlJRmNxdTEyREt1TTdmcldJUVBfV0g3UndfdkZCQQ?oc=5",
+     "date": "2026-11-23T01:52:31.000Z",
+     "text": "Sternzeichen Fische: Charakter, Stärken und Fahrstil Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Fahrschulreform verabschiedet: Ab wann gibt es den billigeren Führerschein? - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSFF3dXZYVnY5SEtUNG9YYzhWa1BOMEVtRVljVk9lS3l2bVlFblNZU3ZubnFFelIxYU5OSVpka01LRVQzZUZjX2FmY21tUzVKS3lMUTBQbUsxRmlEWWNVM200MnpRMlZ0MlhoNEJHSGpwQXoteDFudEFtR205YjBQZzhlc2RIRGRJNlpFZzhiQVdrVU5fWTBGdEh4Y0RCbEF2bkVhVGlwOWcydmZZUDFOQUY0YlBtUFdvc2t1dVliY0hPdDhpdmc?oc=5",
+     "date": "2026-11-23T12:19:36.000Z",
+     "text": "Fahrschulreform verabschiedet: Ab wann gibt es den billigeren Führerschein? Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Drei M8-Schrauben je Hauptfuß: Wann die DMSB-Vorgabe für Überrollkäfige gilt - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkQ3SXkxbjRvYm9YVE9BTWQ1anFQVDkwY182bHZjZ0pDY3lrT3UxcjhWWnF4RVcxYU5tMWktOE1ERVczYmxQUUhwQkNqczRKeWN5SWZfNzBJN1JaWGMzQVJ1OTB5dVR5b21QSG1ZWUl4cUZmNjcwREpMVTBHUGNxU0gyYUNEWEljbkhmMDlreTlZajM4R0pJNUdiLUc0Ny1JdFdtQXkzVEpqLUtYc3RhTQ?oc=5",
+     "date": "2026-11-23T11:35:57.000Z",
+     "text": "Drei M8-Schrauben je Hauptfuß: Wann die DMSB-Vorgabe für Überrollkäfige gilt Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Diesel bleibt bei Frost liegen: Wann 112 zuständig ist und wann die Pannenhilfe - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1VZTnRzbmtib0FsSXVZZ0xoUWJVWHZKbGROdGpIRDZsYnN1aXVtRGlsUTdNX2VxeThRS29taDBaRlJXZGlWelFoc3pEbkZibnFUXzVva0FZeVpZMUZxSmNOeDNDUUNPTlpINXZqUHlwT2FXZ0lqQ2I1NFUzQ2d0VmEyZWRGZDJFTFduWU5WMFB1NGZlbEE1Ym5CaGtkR3M?oc=5",
+     "date": "2026-11-22T11:07:19.000Z",
+     "text": "Diesel bleibt bei Frost liegen: Wann 112 zuständig ist und wann die Pannenhilfe Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Blitze in Berlin: Die blitzt auch Fußgänger! - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUzlCQkpuSm42a2tmQllEQnlQS1BGLTN0OUozLVg0Tkw5XzBLZF85X09EbzNJclhxRlBpcVNTbDlQTV8yWVpuVVVzVDB2X1lNZVdZdzRPWVhmdjM0SlNMMnBaZzN0Q0lxZFNfVUx1SWJldWxEU1BrYVR3alpBWGFUSllZUkc3bm1YWnh6MTRUZ294SEE?oc=5",
+     "date": "2026-11-23T15:05:57.000Z",
+     "text": "Blitze in Berlin: Die blitzt auch Fußgänger! Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "FIA-Stewards ändern Las-Vegas-Ergebnis in den Nachtstunden - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT01QWmdmNVQxYWdnZ0VsNDkzZF9MOS0tLVhoRGdHZlNuVG4wblQ2b1p4bDFVNXV1TF9SUzFIRTRjZmxkdHdiNWhDYjQ2SFZRNWRHaVI2cG0yRmlNR1BPcEFHa3pMQ2dWM3ZNVlJjSzgxU25YN2FhTDJncHpLRUFsMVduWmNOXzJZQjVkYXljWHNMWW92elE?oc=5",
+     "date": "2026-11-22T08:57:18.000Z",
+     "text": "FIA-Stewards ändern Las-Vegas-Ergebnis in den Nachtstunden Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Geely Monjaro EM-i im Test: Macht Spaß - bis man bremsen muss - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbjVXMDFoOWk0M3NjYlJxWWRtektCQ3pOVHJIYUsyWDM3TGs1RG5zNEVEMW4xN1FNVFVQNWtBZUtuVlFrcWl2UlVMQmt0cFFSVW5MeF9YWTJ5dUVON3M5V1FRVmJfTzN6cXhNMDgtaEJyMmtHU1hjakNCNW1IaGp6Uzh3ZzNQSDVUa3Q1cF9yVTNOTE1wTDg5MlliV24?oc=5",
+     "date": "2026-11-23T07:57:19.000Z",
+     "text": "Geely Monjaro EM-i im Test: Macht Spaß - bis man bremsen muss Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Dieser BMW Vierzylinder trägt die Gene des legendären M1! - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUlrMTNjbDE1RklzS2tGeFJPUDhxMnAteG82VVZ3V3h1aHUzVHVxZEpTWDRyRUpmSFdFTlZ4N3h6Mm1ENFVLdm1VTVdrLVByaUpZSS1nRm5BQ1RlTHN1VTluSHYyTzV3NU1nOVRFQVBuWHNscll2dnBsWlNyTl9NRUNRVTBUVndnQlR1ZnFGS1M2NVk?oc=5",
+     "date": "2026-11-22T07:17:18.000Z",
+     "text": "Dieser BMW Vierzylinder trägt die Gene des legendären M1! Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Spritpreisdeckel ab 1.1.2027: Aber, diese Tankstellen bleiben wohl teuer - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUY3VXhTR1cwS0Q1RmM5OTc5Um1BZExUbF85MFBhWElpTlpXNG5QdEFUVTZpSUY4bnZyXzNIMkJNNE5rbGd1Q19YUDJnVHdKanBNSVJzdWkxaWRMSnFTYmRka0MtRlFad2hUd1V1UHJpeDJxQlZkcGZ3eTVsQ3RQS1lZcHJEeVlJcGZrYXcyR2l2NTU0SnlVLU9ONzJRSVNBMUlodV95UDZqejRiWklJNF85RQ?oc=5",
+     "date": "2026-11-23T14:05:57.000Z",
+     "text": "Spritpreisdeckel ab 1.1.2027: Aber, diese Tankstellen bleiben wohl teuer Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Warum Sie auf einen ID. Polo bis zu 12 Monate warten müssen - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWW1Xb3FMelE0SkxnRnd3dmFVM3Jhczd2bm9FcG8xQzR5dHFjU3ZnWEhjdTJqXzVzTHFaSzd5THlNR1l2eW9WY1FrNF93M2tfbnlURkRVSHRzcE0wV29DaUc2WkxKUFdzdHJGLTIwekIzcklvaDcwejIzMDh3d0ZtMHYzdGIybzdCMFNOM0hON09HalllNGRWOWNLUjlCcjllVzNZZlo5R1pXVTczNDNGTW5FYldhUQ?oc=5",
+     "date": "2026-11-23T00:37:19.000Z",
+     "text": "Warum Sie auf einen ID. Polo bis zu 12 Monate warten müssen Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Passat gegen Bagger: Das konnte nicht gut gehen - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTMwbHRKQ1lkT3hnQk1ISGtfemp6bi1vdXhvSEt4VVhPcUttRGdHMXdoMXdwYngta0lLUkRzZkp3c1BWdzJhS3RNT0NQcW1HZnJuYXZhN3hxUUFTek1DVFBPZnNfTldxVEstc09iMUVrQXVraEhUZGNUN3BRbFRUV21kc1l5NEVIMjdMemVlbWE2TkthUUpfWA?oc=5",
+     "date": "2026-11-23T13:45:57.000Z",
+     "text": "Passat gegen Bagger: Das konnte nicht gut gehen Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "USS Theodore Roosevelt & Co: Diese „Autos“ fahren auf Flugzeugträgern – eines ist deutsch - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdk1EUnlRcEhIUFBldnpXUG45dW5sTHM4SzRuVFZkV0x1Y2RmSnYxaWYwZ2NDYWp6M0JRUmtDVTBjLWY0aHFpZzhFRDE0T3ZfdWswTjRPYUNCazQ1OGMwR3A2Q3lfZ25IRDV5eUpQY0VlWTgybVpUd0hfeFYweFFXRnd0TnVLaHFCZmhjU1ZwZkdaUDFOZ3dMeThaWW9RWFhqRjNLVjB0bU5EbDl2Q2ZOaEtEbWNMS2ZSdi1McUtQa2hreV9vVzFj?oc=5",
+     "date": "2026-11-23T11:10:55.000Z",
+     "text": "USS Theodore Roosevelt & Co: Diese „Autos“ fahren auf Flugzeugträgern – eines ist deutsch Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "6x6 Radhaubitze: Hier ersetzt CAESAR die russische \"Nelke\" - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcWZhYUIyVnNkOUJqMlJ1R2QySFRnSW1oQ1BZbDhOUm5HYmhTY0s1MmpPSmNQVkd2SEo2OGtvWXBTRmpRbzBWcUg5VnhlVTFFaUtkZm5HaHd4RloyMm9JdUNlb2pQV0JVY2pQVF9NY0lYeVFUbTg1dDZtWjlDZkpjSEtLd2Z2VWlNa0ZoRDlLVk9WT0hsM25RdW5SSk9iNEFucnc?oc=5",
+     "date": "2026-11-22T07:12:18.000Z",
+     "text": "6x6 Radhaubitze: Hier ersetzt CAESAR die russische \"Nelke\" Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
@@ -519,104 +617,6 @@
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdExsOEU2Y0FwbEk1VXZIRXBZaDBrRkNNMjNWbFRpdXFDREhrTE93YU9QR1V2RXlrbkp3TFhhT2ZHVE9Va3ZZZWQxMVV4ZDE5ZTRoTHpVcnVBT2wyWDJQOU93R1FQT0NwVTNlbXEwbDB4NExGdlJUdjhiM2lLanR6TTlDcmhlbUFjRTE3aGd1aUhqTHY5SWFEUFFfb084SElQSVc4VE9sNWNNdTFNTUVmTkJLSVhsbWs?oc=5",
      "date": "2026-11-22T11:07:19.000Z",
      "text": "Bentley Supersports Cabriolet für mind. 420.000 Euro: Da fliegt das Dach weg Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Sternzeichen Steinbock: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlo2NmRPMUg1UHZCNXZSZTRiZGVmUGlrZUxrYXA3YlVUY1RWdHN2TEE1MzNsSk1mMlZfLWRFbkk3RzBCVWhWcDJEd3lubW1ueWU4amtZOEYxTThSRXdhRjEyMjVFT09TZDZHa3lDc2VoTXo2MUR0SXlSMHcwaGpBV09LN0pFMXJN?oc=5",
-     "date": "2026-11-22T06:17:09.000Z",
-     "text": "Sternzeichen Steinbock: Charakter, Stärken und Fahrstil Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Mercedes erhält KBA-Lizenz für Point-to-Point-Fahren - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSUlrdXpZZ04zU01LLS1lV2pXd0gyX2xjbC1pdUNYanlKdEpmdlozYTROQXFxT2d4N2tpU3ZHY09GcExpcklCbkc4ejFYTmJXZVZIVG0yQzFsLVYzUlRyWVN1QS15dUhHSFBkUlZ3RUR3WVkzQi0xdjBTU0tkS3RDMS0xLVhHM25FRGg4b25DbVlfbW5tb2pRb3ZIeFVPQmp1SWFQM2tvNGhMdGRQQngxRW1Edkx2Y3dHSExMUkZFeS0?oc=5",
-     "date": "2026-11-21T09:07:07.000Z",
-     "text": "Mercedes erhält KBA-Lizenz für Point-to-Point-Fahren Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Sternzeichen Löwe: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3ZpaDJiRzF1czNYRS1xVXc4a3ZCalpnOGpVTGxqSGFwY2hTWnZYXzExSmMtS0k2WE1HT1FCVVRRaXN6MmZlczdiVmdWcDFjREpQQXhIWWdSTnNYQ244angtbDFoTm9KMVlwQU5aLUtfWms1Q1BOdHNYOVR5VHFNX1hETQ?oc=5",
-     "date": "2026-11-22T06:17:09.000Z",
-     "text": "Sternzeichen Löwe: Charakter, Stärken und Fahrstil Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Sternzeichen Krebs: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVhZTEZqdHQ3bXFuNlUxc196OXZvUzhzX1ZySWtXSnNnSWxmYVMzclR4akx1czR4WkNENXgtMFZRQmZvNG43MS1pbDQxLURMZXpkOXBMdDRkLTVoeFhyT094SE5vc2R6Y002R3FNTmlpTGJ1R01BQzFlMTZYUjJSalpmTQ?oc=5",
-     "date": "2026-11-22T06:17:08.000Z",
-     "text": "Sternzeichen Krebs: Charakter, Stärken und Fahrstil Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Mazda bereitet den nächsten CX-3 vor, der Mazda 2 fällt raus - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2VQT1RXYUpZazUwdjc5ZzJBeFhNR0M5bHdxbzdKcHJOUHhQb2txaHlZa0drV05OaUpybHpqcHBZWnNnOHFna0RfbmdIa1F2U2JUazFPbXdoM01HSXE2OXdxbEIzaHhTTjQ0OUE4UXdFXzlhS0xQcHBuZXdZY3dZTllyTVpVYUtmUUJfWkNJNHJVX1hDcjJuU1V4Vk8zVmlT?oc=5",
-     "date": "2026-11-22T13:12:19.000Z",
-     "text": "Mazda bereitet den nächsten CX-3 vor, der Mazda 2 fällt raus Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Performance-Paket inklusive: So tritt der Ford Mustang GTD 1901 an - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNek54UFBqNHN3SzQxb0xGanNhWFpHRmZKMXN3Qnl1WVpKSnpkZFU0UTJkcnh0QWZMN1RSMGFpdklvaGFBeGEtQTBEb1Iwa0M1Q3NMbWRpcEVYMi1qRXJYUEV4ZEJic1RVRGRuQUFXdExWSjkwTDZ5MmUtd1N1RkpLQWhQenpHMjBFSVgzNlB4MDhuQ1BvRUpCaGFGZTU0bzV3R2d0VWpNY1ZNelg1?oc=5",
-     "date": "2026-11-22T23:45:46.000Z",
-     "text": "Performance-Paket inklusive: So tritt der Ford Mustang GTD 1901 an Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Geely Monjaro EM-i im Test: Macht Spaß - bis man bremsen muss - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbjVXMDFoOWk0M3NjYlJxWWRtektCQ3pOVHJIYUsyWDM3TGs1RG5zNEVEMW4xN1FNVFVQNWtBZUtuVlFrcWl2UlVMQmt0cFFSVW5MeF9YWTJ5dUVON3M5V1FRVmJfTzN6cXhNMDgtaEJyMmtHU1hjakNCNW1IaGp6Uzh3ZzNQSDVUa3Q1cF9yVTNOTE1wTDg5MlliV24?oc=5",
-     "date": "2026-11-23T00:47:35.000Z",
-     "text": "Geely Monjaro EM-i im Test: Macht Spaß - bis man bremsen muss Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Sternzeichen Zwillinge: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGdjd3lKa2xmb2N4R2U4NHNvTWZoYzZyb1Y0dmRSb1Fsc3NKMkRvcWpXMExQbFB0U1RyQ3NGSVMtdGhKRlhOdXh5dl8tTlR6UGtvSTA0UnRIY1R3SEg1R1dxNGNBWUdVNURvRDBtOXNackRUYTRrY3JCSVVEaWk4clFuUGFYbjdO?oc=5",
-     "date": "2026-11-22T03:44:23.000Z",
-     "text": "Sternzeichen Zwillinge: Charakter, Stärken und Fahrstil Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Sparsam, doch nicht ohne Schwächen: Toyota RAV4 2.5 Hybrid AWD im Test - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN0dQdHEyNGpkTnlHbkVSTWI0MmQ5YlJFYzB1dXRVeTgzeFZjR20xZGlzTWVfREtocDc0bDV3YW9HWU16VXI1bnRHUEcwcnFtX3h6aTJDUk1ER292eklYVVhOcEdyMnZHN0NkN3gwUE04eUZBS0pXUDJFdEFKaUJZNTVXeWhIN1BTdVlVa25pSDl3cW5WTG5sX2wxNkdQUnlVTnd3MlJCam5fa0FodTI0RA?oc=5",
-     "date": "2026-11-21T11:12:09.000Z",
-     "text": "Sparsam, doch nicht ohne Schwächen: Toyota RAV4 2.5 Hybrid AWD im Test Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Sternzeichen Waage: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0o1LTFVS2hvd2ZpZnVnNDdOZWtia2kyNWlwVFNxRmMtcVp6QUNoY0VrWkdVSi00M3dlLXlLWEh6YUpGTHFGQTU2M1RMemJrTnBoRmU3YVREVVFDTXBZY0xxSVN0MDRLUHVWcmkyV1NtVnlSTThVNG9Vb1VhYU9VeHpxaw?oc=5",
-     "date": "2026-11-22T06:17:09.000Z",
-     "text": "Sternzeichen Waage: Charakter, Stärken und Fahrstil Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Formel 1: Verstappen feuert gegen Russell: \"Karma ist eine Bitch!\" - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYzg5cDRaeU5EeUVTRGFRYUJNMjNSZEdzQjBuUFNNNWhaakRYUG0xRDd3dHVZa1NTOVRCcFpnMl9NUWh2TjZON2dsTEYzMDZaTFktNXpOckNpM3NLcnZwa2VSQ3JIVlhpR2dsQVpMeDR1UXdkbW4wbWhXMTRCYy1DYjd6RHdSbWsxMDY0X193?oc=5",
-     "date": "2026-11-22T13:27:49.000Z",
-     "text": "Formel 1: Verstappen feuert gegen Russell: \"Karma ist eine Bitch!\" Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Toyota Corolla Deck: Corolla Cross wird zum Pick-up - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVzBqc2hCRmEyMmZhS0FhNzgyUlJ2d3dfZnR2S1o1UWxyRzBHTXNBZTFXV3ItRkFjc0xqaHV5Q1FTRjFJdkhQSy12cGJCc0RieUkxbUMyR1pSVVllNkJLYWNHMGlVT0F5Nm9MTllndDQ1WnI3MFBZUWc3eGdWTXNYemNEWTg1dDFucXQycXA4ZER6UQ?oc=5",
-     "date": "2026-11-23T06:08:23.000Z",
-     "text": "Toyota Corolla Deck: Corolla Cross wird zum Pick-up Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Sternzeichen Wassermann: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZFFsTl84Nmxzdmpta0llLTZkQVVFQk12dmI1ejlMWk9UNFZQRHEyNE5nWUhCUHZTS2x6TlVhZk9TUU5aT2VwNEl0RWtDSGh4TzFjS2Y1SnRhZzBaYzQ1YzBpYmhPUGdZRlJWdER3dGNDcnd5aHV5ZlFfVXQwWXNtbzlSS29kWHJmTHc?oc=5",
-     "date": "2026-11-22T02:42:07.000Z",
-     "text": "Sternzeichen Wassermann: Charakter, Stärken und Fahrstil Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "3-in-1-Antrieb im E-Auto: Kürzere Kabel können elektrische Störungen verringern - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMXVTUk9iZ1o1ZHcyQnpOSW1vdUloTFUzbWpTeXY1ck41T2xMTWhhclM2T2pFX1I4ZjBoQVdvSWZndGNyMXNGLWVkNkNxMDZqSXlvSE9JSWE4WjhfLVJpVmxhZWxoWkJpeHpFV1ZfM3djbGFUMGd3N2ZOaEhJZ3JVX3NqTTBva3M4SEthT2duM2UyOGU1OXlHSlRGNG5rV1JvMmFYTk9qVVNKM3FObjBzVDBCOU0zUGVGb0hUZ3NSOA?oc=5",
-     "date": "2026-11-21T11:12:09.000Z",
-     "text": "3-in-1-Antrieb im E-Auto: Kürzere Kabel können elektrische Störungen verringern Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     }
    ]
@@ -626,16 +626,52 @@
    "ok": true,
    "items": [
     {
-     "title": "Autos werden durch die EU-Regeln bald 6000 Euro teurer",
-     "url": "https://www.focus.de/auto/renault-chef-francois-provost-autos-werden-durch-die-eu-regeln-bald-6000-euro-teurer_6ac4b3a8-3021-4bcc-a801-7256c5511f25.html",
-     "date": "2026-11-23T09:48:00.000Z",
-     "text": "Renault-Chef François Provost warnt vor steigenden Autopreisen und wachsender Konkurrenz aus China. Er fordert einen Kurswechsel der EU."
+     "title": "Dienstwagen: Kein Elektro-Zwang, Verbrenner bleiben absetzbar",
+     "url": "https://www.focus.de/auto/elektroauto/dienstwagen-kein-elektro-zwang-verbrenner-bleiben-absetzbar_862c0eb8-0fc5-49a6-bb6d-b01d44f38dc5.html",
+     "date": "2026-11-23T21:58:00.000Z",
+     "text": "Die EU hatte geplant, ab 2030 in vielen Ländern nur noch E-Autos als Dienstwagen zu erlauben. Was stattdessen kommen soll."
+    },
+    {
+     "title": "Slate Truck: Vollelektrisch mit einfacher Technik",
+     "url": "https://www.focus.de/auto/fahrberichte/slate-truck-vollelektrisch-mit-einfacher-technik_eebd87a5-3b13-4c74-b7ed-c36f580627da.html",
+     "date": "2026-11-23T21:44:00.000Z",
+     "text": "Hauptinvestor des Start-Ups Slate Jeff Bezos folgt Elon Musk in die schwächelnde Automobilwelt. Wir haben mit dem 25.000 Dollar teuren Slate eine Runde gedreht."
+    },
+    {
+     "title": "Renault 5 im Micra-Kostüm: Nissan fehlt das Rabatt-Argument",
+     "url": "https://www.focus.de/auto/fahrberichte/renault-5-im-micra-kostuem-nissan-fehlt-das-rabatt-argument_66eea2d0-5d61-476d-ae52-2f538d5748f8.html",
+     "date": "2026-11-23T18:57:00.000Z",
+     "text": "Nissan Micra 52 kWh Evolve im Fahrbericht: Renault-5-Technik plus Kulleraugen. Wie flott, wie weit und wie teuer der Elektro-Kleinwagen im Alltag ist."
     },
     {
      "title": "Nach der Ente folgen Fiat „Koala“ und neuer Opel als E-Mobil",
      "url": "https://www.focus.de/auto/elektroauto/nach-der-ente-folgen-fiat-koala-und-neuer-opel-als-e-mobil_c99e3d9b-3384-4b9d-bd42-7302a2658687.html",
-     "date": "2026-11-23T09:44:00.000Z",
+     "date": "2026-11-23T16:12:00.000Z",
      "text": "Stellantis hat eine Elektroauto-Kooperation mit Leapmotor. Zur China-Technik gesellen sich Kult-Modelle aus Europa. Ein weiteres Projekt könnte bald folgen."
+    },
+    {
+     "title": "Schluss mit Müsli-Motoren: Formel 1 bringt V8 zurück",
+     "url": "https://www.focus.de/auto/schluss-mit-muesli-motoren-formel-1-bringt-v8-zurueck_f90ee28a-0619-44c0-b39d-f4f505012945.html",
+     "date": "2026-11-23T13:57:00.000Z",
+     "text": "Die Formel 1 steuert auf eine V8-Rückkehr zu. Flavio Briatore spricht von Einigkeit und fordert einfachere Motoren mit mehr Sound."
+    },
+    {
+     "title": "Neuer Retro-Racer sieht aus wie direkt aus den 80ern",
+     "url": "https://www.focus.de/auto/news/neuer-retro-racer-sieht-aus-wie-direkt-aus-den-80ern_bd26f639-7b89-4901-b860-8879c26bd970.html",
+     "date": "2026-11-23T13:27:00.000Z",
+     "text": "Haxch Moto verwandelt die GSX-8TT in einen spektakulären Retro-Racer. Vorbild ist Suzukis Langstrecken-Weltmeister von 1983"
+    },
+    {
+     "title": "Nach 30 Jahren greift VW erstmals Toyota bei Hybriden an",
+     "url": "https://www.focus.de/auto/news/nach-30-jahren-greift-vw-erstmals-toyota-bei-hybriden-an_5df33866-1062-464d-b88e-eb59f78e3cb3.html",
+     "date": "2026-11-23T13:23:00.000Z",
+     "text": "Als Ersatz für den weitgehend verbannten Diesel setzt VW nun auf Hybridtechnik. VW setzt auf einen Turbomotor, Toyota kontert mit Allradantrieb. Ein Vergleich."
+    },
+    {
+     "title": "Autos werden durch die EU-Regeln bald 6000 Euro teurer",
+     "url": "https://www.focus.de/auto/renault-chef-francois-provost-autos-werden-durch-die-eu-regeln-bald-6000-euro-teurer_6ac4b3a8-3021-4bcc-a801-7256c5511f25.html",
+     "date": "2026-11-23T09:48:00.000Z",
+     "text": "Renault-Chef François Provost warnt vor steigenden Autopreisen und wachsender Konkurrenz aus China. Er fordert einen Kurswechsel der EU."
     },
     {
      "title": "ADAC warnt vor Keyless-Go: Diebe knacken Autos nur per Funk",
@@ -660,84 +696,6 @@
      "url": "https://www.focus.de/auto/news/neuer-vw-t-roc-r-der-hochgelegte-golf-r-im-detail_8f596261-c3ac-4bc6-b4ba-096e5d4abc63.html",
      "date": "2026-11-22T20:09:00.000Z",
      "text": "VW hat die nächste Generation des T-Roc R vorgestellt. 333 PS hauen hier auf den Putz und es gibt sogar einen Drift-Modus."
-    },
-    {
-     "title": "Renault 5 im Micra-Kostüm: Nissan fehlt das Rabatt-Argument",
-     "url": "https://www.focus.de/auto/fahrberichte/renault-5-im-micra-kostuem-nissan-fehlt-das-rabatt-argument_66eea2d0-5d61-476d-ae52-2f538d5748f8.html",
-     "date": "2026-11-22T12:34:00.000Z",
-     "text": "Nissan Micra 52 kWh Evolve im Fahrbericht: Renault-5-Technik plus Kulleraugen. Wie flott, wie weit und wie teuer der Elektro-Kleinwagen im Alltag ist."
-    },
-    {
-     "title": "BMW enthüllt M7-Prototyp, der heimlich gebaut wurde",
-     "url": "https://www.focus.de/auto/news/bmw-enthuellt-m7-prototyp-der-heimlicn-gebaut-wurde_eece3a88-862a-4595-8d91-e1cee13b9410.html",
-     "date": "2026-11-21T13:20:00.000Z",
-     "text": "Die M GmbH hatte in den 1990er Jahren einen Super-Siebener gebaut. Jetzt kommt er erstmals ans Tageslicht."
-    },
-    {
-     "title": "Der globale E-Auto-Boom bekommt neue Gewinner, während Europa schwächelt",
-     "url": "https://www.focus.de/auto/der-globale-e-auto-boom-bekommt-neue-gewinner-waehrend-europa-schwaechelt_4432ba8f-fe49-4013-b383-b726c9519a61.html",
-     "date": "2026-11-21T12:35:00.000Z",
-     "text": "China schwächelt, Europa wächst, Schwellenländer holen auf. Eine Analyse zeigt, warum beim E-Auto am Ende vor allem der Preis entscheidet."
-    },
-    {
-     "title": "Batteriepass, Vignette, Strafverfolgung: Die neuen Auto-Regeln für 2027",
-     "url": "https://www.focus.de/auto/news/batteriepass-vignette-strafverfolgung-die-neuen-auto-regeln-fuer-2027_6ca79fd0-c9db-4831-8a1c-98569dbefe64.html",
-     "date": "2026-11-21T06:53:00.000Z",
-     "text": "Der digitale Führerschein kommt, die EU verschärft die grenzüberschreitende Verfolgung von Verkehrsverstößen und Tanken wird teurer: Alle Änderungen 2027."
-    },
-    {
-     "title": "REO: Neuer Hersteller verspricht simple Autos ohne Software-Gedöns und anfälliger Hightech",
-     "url": "https://www.focus.de/auto/news/reo-neuer-hersteller-verspricht-simple-autos-ohne-software-gedoens-und-anfaelliger-hightech_bbfd1a84-6cef-4135-a63c-f1818e751d6a.html",
-     "date": "2026-11-21T06:52:00.000Z",
-     "text": "Fehlercodes lassen sich mit jedem einfachen 30-Dollar-Lesegerät auslesen: REO verspricht Rückkehr zu simplen Konstruktionen statt anfälliger Hightech."
-    },
-    {
-     "title": "Chinas Autos droht ein „Rostet schon im Katalog“-Image",
-     "url": "https://www.focus.de/auto/ratgeber/china-autos-droht-ein-rostet-schon-im-katalog-image_50b39ea9-d158-45a2-a4fe-d6f5f6e76e54.html",
-     "date": "2026-11-20T16:51:00.000Z",
-     "text": "Chinesische Autobauer fluten Europas Märkte und wollen den Erfolg von Japans Marken wiederholen. Doch wie sieht es um die Langzeithaltbarkeit aus?"
-    },
-    {
-     "title": "Tesla plant autonomes Model Y ohne Lenkrad für sieben Personen",
-     "url": "https://www.focus.de/auto/elektroauto/tesla-plant-autonomes-model-y-ohne-lenkrad-fuer-sieben-personen_5485c2a9-fd28-407f-8a41-729d3508e6bc.html",
-     "date": "2026-11-20T13:42:00.000Z",
-     "text": "US-Elektroautobauer Tesla plant eine vollständig autonome Variante des SUV-Crossovers Model Y, die ohne Lenkrad und Pedale auskommen soll."
-    },
-    {
-     "title": "Hongqi EHS4: Neues Elektro-SUV für Europa vorgestellt",
-     "url": "https://www.focus.de/auto/neuheiten/hongqi-ehs4-neues-elektro-suv-fuer-europa-vorgestellt_a786769e-087e-4658-9586-faf80d0dec5f.html",
-     "date": "2026-11-20T12:43:00.000Z",
-     "text": "Der chinesische Hersteller Hongqi hat den neuen EHS4 vorgestellt. Für Deutschland wurden bislang weder ein Verkaufsstart noch Preise bekannt gegeben."
-    },
-    {
-     "title": "VW zeigt den ID. Polo GTI Clubsport als Konzept",
-     "url": "https://www.focus.de/auto/news/vw-zeigt-den-id-polo-gti-clubsport-als-konzept_7cbc6cd2-e268-4840-827d-3cc8411afb58.html",
-     "date": "2026-11-20T12:19:00.000Z",
-     "text": "Das Clubsport Concept macht definitiv Lust auf mehr. Ob es eine Serienversion geben wird, hängt stark von der Kundenrückmeldung und Nachfrage ab."
-    },
-    {
-     "title": "Slate Truck: Vollelektrisch mit einfacher Technik",
-     "url": "https://www.focus.de/auto/fahrberichte/slate-truck-vollelektrisch-mit-einfacher-technik_eebd87a5-3b13-4c74-b7ed-c36f580627da.html",
-     "date": "2026-11-20T10:08:00.000Z",
-     "text": "Hauptinvestor des Start-Ups Slate Jeff Bezos folgt Elon Musk in die schwächelnde Automobilwelt. Wir haben mit dem 25.000 Dollar teuren Slate eine Runde gedreht."
-    },
-    {
-     "title": "TÜV-Report 2027: So schneiden E-Autos bei der HU ab",
-     "url": "https://www.focus.de/auto/tuev-report-2027-so-schneiden-e-autos-bei-der-hu-ab_138f14ba-3e50-40ea-8a3b-ab47f71432f9.html",
-     "date": "2026-11-20T09:14:00.000Z",
-     "text": "Der TÜV-Report 2027 deckt große Unterschiede bei Elektroautos auf: Mazda und Audi können überzeugen, Tesla Model Y und MG4 landen am Tabellenende."
-    },
-    {
-     "title": "Über diesen Audi sprechen alle, wir haben ihn schon getestet",
-     "url": "https://www.focus.de/auto/fahrberichte/ueber-diesen-audi-sprechen-alle-wir-haben-ihn-schon-getestet_14f8431a-e6e6-4470-895a-c837f02efc2b.html",
-     "date": "2026-11-20T08:29:00.000Z",
-     "text": "Über diesen Audi sprechen alle, wir haben ihn schon getestet: Q9 im Fahrbericht"
-    },
-    {
-     "title": "Seat: Alle Neuheiten 2027 der spanischen VW-Tochter",
-     "url": "https://www.focus.de/auto/news/seat-alle-neuheiten-2027-der-spanischen-vw-tochter_c68440e6-611b-45a5-a1c7-117df35c8954.html",
-     "date": "2026-11-20T07:41:00.000Z",
-     "text": "Der Seat Ibiza und der Arona werden hybridisiert und eventuell erhält der Leon ein Facelift, wodurch die Vollhybrid-Technik aus dem VW-Regal Einzug erhalten könnte."
     }
    ]
   },
@@ -746,6 +704,12 @@
    "focus": "Nur Auto- und Verkehrsthemen, keine Uhren oder Technik ohne Autobezug.",
    "ok": true,
    "items": [
+    {
+     "title": "Dauertest iPhone Duo: Fummelei und Faszination",
+     "url": "https://www.faz.net/aktuell/technik-motor/digital/das-iphone-duo-im-ersten-praxistest-was-nach-einigen-wochen-wirklich-zaehlt-accg-201677696.html",
+     "date": "2026-11-23T14:04:56.000Z",
+     "text": "Nach Samsung, Google und anderen Herstellern bringt Apple sein erstes klappbares Smartphone. Das iPhone Duo will die Konkurrenz auszutricksen. Erfahrungen aus dem Dauereinsatz."
+    },
     {
      "title": "Rallye-talent: Fahren am Limit",
      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/frauen-im-motorsport-claire-schoenborn-faehrt-rallye-accg-201694091.html",
@@ -769,36 +733,6 @@
      "url": "https://www.faz.net/aktuell/technik-motor/schlusslicht-18-prozent-fuer-alle-accg-201680565.html",
      "date": "2026-11-22T08:00:00.000Z",
      "text": "Wir empfehlen diese Woche drei Dinge zur Nachahmung: Enteignen wie in Berlin, bauen wie in Frankfurt und anrufen beim Personalchef."
-    },
-    {
-     "title": "Spielen und feiern: Kneipen, Keller, Knaller",
-     "url": "https://www.faz.net/aktuell/technik-motor/technik/kneipen-keller-knaller-unterhaltungsgeraete-fuer-zuhause-accg-201668446.html",
-     "date": "2026-11-21T14:00:00.000Z",
-     "text": "Wer einen ungenutzten Raum zur Verfügung hat, kann der schwindenden Kneipenspielkultur ein privates Refugium entgegensetzen. Mit allem, was dazugehört: Billard, Dart, Flipper, Poker und Automat."
-    },
-    {
-     "title": "Autopionier Nadig: Der Carl Benz vom Glan",
-     "url": "https://www.faz.net/aktuell/technik-motor/motor/henry-nadig-der-vergessene-automobilpionier-aus-odernheim-am-glan-accg-201606247.html",
-     "date": "2026-11-21T08:00:00.000Z",
-     "text": "Auswanderer Henry Nadig aus Odernheim am Glan baute 1889 in Allentown, Pennsylvania, eine selbstfahrende Kutsche mit Motor. Heute ist der Automobilpionier vergessen. Ein engagiertes Team will das ändern."
-    },
-    {
-     "title": "Überwachung im Auto: Der Hund hat einen Vogel",
-     "url": "https://www.faz.net/aktuell/technik-motor/wenn-assistenzsysteme-im-auto-mehr-schaden-als-nuetzen-accg-201648583.html",
-     "date": "2026-11-20T12:05:12.000Z",
-     "text": "Moderne Autos haben moderne Assistenzsysteme. Wenn die denn mal das täten, wofür sie gedacht sind. Stattdessen setzen sie uns zu. Das schafft Risiken, statt sie zu verhindern."
-    },
-    {
-     "title": "BT-Kopfhörer im Test: Glorreich gesiebt",
-     "url": "https://www.faz.net/aktuell/technik-motor/digital/das-sind-die-besten-bluetooth-kopfhoerer-im-test-accg-201678004.html",
-     "date": "2026-11-20T12:29:45.000Z",
-     "text": "Wir haben sie nicht alle. Aber unter diesen sieben Bluetooth-Kopfhörern ist für jeden etwas dabei: Klassiker, Aufsteiger, Exoten und Überraschungsgäste. Es lohnt sich, jedem mal zuzuhören."
-    },
-    {
-     "title": "Fünf am Freitag: Heißer Doppelgänger",
-     "url": "https://www.faz.net/aktuell/technik-motor/von-nimbus-bis-sinsheim-accg-201202881.html",
-     "date": "2026-11-20T08:35:21.000Z",
-     "text": "Allwettermaschine, Japaner in Sinsheim, Socken für Schnee, Buch für den Müll und Diebstahlalarm: Das sind unsere Neuheiten aus der Technikkiste."
     }
    ]
   },
@@ -811,18 +745,6 @@
      "url": "https://www.spiegel.de/mobilitaet/auto/audi-a2-im-test-sparn-sparn-sparn-auf-der-autobahn-a-e58450ca-8527-4500-8dae-b1ac908841e8#ref=rss",
      "date": "2026-11-23T06:02:00.000Z",
      "text": "In den USA setzt Audi auf fette SUV und die Nähe zu Präsident Trump, zu Hause eher auf Effizienz. Das Sparmobil A2 erinnert stark an seinen ikonischen Vorgänger von 2000. Am meisten Spaß bringt es, den Fuß vom Gas zu lupfen."
-    },
-    {
-     "title": "Bundesrat: Mopeds und Motorroller sollen Tempo 60 fahren dürfen",
-     "url": "https://www.spiegel.de/mobilitaet/bundesrat-mopeds-und-motorroller-sollen-tempo-60-fahren-duerfen-a-13b5992a-7c53-4253-be60-c46e0bbf9ac5#ref=rss",
-     "date": "2026-11-20T15:20:00.000Z",
-     "text": "Die Regierungen von Sachsen und Thüringen haben ihre Länderkollegen überzeugt: Das in Kleinkrafträder eingebaute Tempolimit 45 sei nicht mehr zeitgemäß. Die Bundesregierung soll sich für neue EU-Regeln einsetzen."
-    },
-    {
-     "title": "Führerschein-Reform beschlossen: So sollen Fahrschüler sparen",
-     "url": "https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-beschlossen-so-sollen-fahrschueler-sparen-a-f2dc9706-e233-430d-94f5-bc83a0c54c5c#ref=rss",
-     "date": "2026-11-20T12:07:00.000Z",
-     "text": "Den Führerschein zu machen, soll deutlich günstiger werden – deshalb hat nach dem Bundestag auch der Bundesrat neue Regeln für Fahrschulen beschlossen. Was sich konkret ändern wird und welche Kritik es an dem Vorhaben gibt."
     }
    ]
   },
@@ -831,34 +753,16 @@
    "ok": true,
    "items": [
     {
+     "title": "Streit ums Design: Gericht verhindert EU-weiten Verkauf des E-SUV BYD Ti7",
+     "url": "https://www.heise.de/news/Streit-ums-Design-Gericht-verhindert-EU-weiten-Verkauf-des-E-SUV-BYD-Ti7-11534173.html",
+     "date": "2026-11-23T11:01:00.000Z",
+     "text": "Ein Gericht in Den Haag untersagt BYD vorläufig Import, Verkauf und Produktion des SUV Ti7 in der EU. Es sieht Designrechte am Land Rover Defender verletzt."
+    },
+    {
      "title": "E-Motorräder: Energica wagt nach der Insolvenz einen Neustart",
      "url": "https://www.heise.de/news/E-Motorraeder-Energica-wagt-nach-der-Insolvenz-einen-Neustart-11533966.html",
      "date": "2026-11-23T07:01:00.000Z",
      "text": "Nach der Insolvenz 2024 wurde Energica von Investoren aus Singapur übernommen. Die Produktion soll nach Asien verlagert werden, um Kosten zu senken."
-    },
-    {
-     "title": "Klasse AM: Bundesrat will Tempo 60 für Mopeds und Leichtfahrzeuge",
-     "url": "https://www.heise.de/news/Klasse-AM-Bundesrat-will-Tempo-60-fuer-Mopeds-und-Leichtfahrzeuge-11533194.html",
-     "date": "2026-11-20T16:20:00.000Z",
-     "text": "Die Länder verlangen eine Anpassung der EU-Regeln für Kleinkrafträder und Leichtkraftfahrzeuge mit Führerscheinklasse AM, um das Tempo-45-Limit zu lockern."
-    },
-    {
-     "title": "Triumph Street Triple 798 RS vorgestellt: Mehr Hubraum, weniger Gewicht",
-     "url": "https://www.heise.de/news/Triumph-Street-Triple-798-RS-vorgestellt-Mehr-Hubraum-weniger-Gewicht-11532762.html",
-     "date": "2026-11-20T14:18:00.000Z",
-     "text": "Triumph schärft die Street Triple nach: Mit 798-cm³-Motor, 135 PS, weniger Gewicht und moderner Elektronik wird sie noch sportlicher."
-    },
-    {
-     "title": "Tarifstreit bei VW: Was auf Beschäftigte zukommen könnte",
-     "url": "https://www.heise.de/news/Tarifstreit-bei-VW-Was-auf-Beschaeftigte-zukommen-koennte-11532387.html",
-     "date": "2026-11-20T10:52:00.000Z",
-     "text": "Nullrunden, länger arbeiten und keine Zulagen mehr: VW verlangt von Mitarbeitern weitreichende Zugeständnisse. Die IG Metall kündigt harten Widerstand an."
-    },
-    {
-     "title": "Rückkehr des V8: Formel 1 ab 2030 wieder mit Achtzylindern",
-     "url": "https://www.heise.de/news/Rueckkehr-des-V8-Formel-1-ab-2030-wieder-mit-Achtzylindern-11532293.html",
-     "date": "2026-11-20T09:57:00.000Z",
-     "text": "Die aktuelle Motorengeneration in der Formel 1 wird nicht alt. Die Rennserie macht eine Kehrtwende zurück zum V8 – mit kleinerem Hybridanteil."
     }
    ]
   },
@@ -868,10 +772,70 @@
    "ok": true,
    "items": [
     {
-     "title": "Hybrid-Importbremse zwischen EU und China gilt nicht für Range Extender",
+     "title": "Erste Ausfahrt im Mercedes-Benz GLA: Kompakter SUV mit 800 Volt und zwei Tonnen Anhängelast",
+     "url": "https://www.electrive.net/2026/11/23/mercedes-benz-gla-im-test/",
+     "date": "2026-11-23T17:00:00.000Z",
+     "text": "Der neue Mercedes-Benz GLA 350 4MATIC elektrisch setzt im dicht besetzten Segment der kompakten Elektro-SUV technische Ausrufezeichen. Mit 800-Volt-Architektur, 85-kWh-Akku und Zweigang-Getriebe verbindet der Allradler hohe Effizienz mit kurzen Ladestopps. Ein großer Frunk, zwei Tonnen Anhängelast und das neue Betriebssystem MB.OS schärfen zudem den Nutzwert im Alltag."
+    },
+    {
+     "title": "TruckCharge-Netz bindet nun auch öffentliche Lader von Milence ein",
+     "url": "https://www.electrive.net/2026/11/23/truckcharge-netz-bindet-nun-auch-oeffentliche-lader-von-milence-ein/",
+     "date": "2026-11-23T16:30:00.000Z",
+     "text": "Daimler Truck meldet, dass sein TruckCharge-Ladenetz für E-Lkw nun 21 Märkte umfasst und neuerdings auch die Ladepunkte von Milence integriert. Los ging die Initiative 2025 als halböffentliches Ladenetz mit Standorten bei Händlern und Kunden. Neben Depotladern wird nun aber auch die Einbindung öffentlicher Lader wichtiger."
+    },
+    {
+     "title": "Gerichtsverfügung: BYD Ti7 sieht dem JLR Defender zu ähnlich",
+     "url": "https://www.electrive.net/2026/11/23/gerichtsverfuegung-byd-ti7-sieht-dem-jlr-defender-zu-aehnlich/",
+     "date": "2026-11-23T16:00:00.000Z",
+     "text": "Nächste Runde im Zwist zwischen JLR und BYD: Ein niederländisches Gericht verpflichtet zehn BYD-Tochtergesellschaften im Eilverfahren, vom Bau und Handel des Ti7 in der EU abzusehen. Denn das Modell sieht nach Einschätzung der Richter dem JLR Defender zu ähnlich. Der Hauptprozess steht aber noch aus."
+    },
+    {
+     "title": "Solaris liefert 13 Wasserstoffbusse nach Frankreich",
+     "url": "https://www.electrive.net/2026/11/23/solaris-13-wasserstoffbus-frankreich/",
+     "date": "2026-11-23T15:00:00.000Z",
+     "text": "Solaris hat 13 Wasserstoffbusse des Typs Urbino 12 hydrogen an den Gemeindeverband Béziers Méditerranée in Südfrankreich ausgeliefert. Die Fahrzeuge sollen künftig im Nahverkehrsnetz beeMob eingesetzt werden."
+    },
+    {
+     "title": "VW ID. Polo jetzt schon teils mit einem Jahr Wartezeit",
+     "url": "https://www.electrive.net/2026/11/23/vw-id-polo-ein-jahr-wartezeit/",
+     "date": "2026-11-23T14:29:51.000Z",
+     "text": "Volkswagen hat den Erfolg seiner neuen Elektro-Kleinwagenfamilie offenbar deutlich unterschätzt. Für den VW ID. Polo müssen Kunden teils mehr als ein Jahr warten und auch bei den anderen drei Modellen benötigen Kunden viel Geduld. Nun soll die Fertigung in Spanien schneller skaliert werden. Doch auch fehlende Batteriezellen bremsen die Produktion."
+    },
+    {
+     "title": "Mercedes erhält KBA-Zulassung für Tür-zu-Tür-Fahrassistent",
+     "url": "https://www.electrive.net/2026/11/23/mercedes-erhaelt-kba-zulassung-fuer-tuer-zu-tuer-fahrassistent/",
+     "date": "2026-11-23T14:00:00.000Z",
+     "text": "Mercedes-Benz hat als erster Autohersteller in Deutschland die behördliche Zulassung für einen Point-to-Point-Fahrassistenten erhalten. Das Kraftfahrt-Bundesamt (KBA) genehmigte das System MB.Drive Assist Pro auf Grundlage der UN-Regelung R171. Dadurch werden automatisierte Tür-zu-Tür-Fahrten auf SAE-Level 2 möglich, einschließlich komplexer Situationen im Stadtverkehr."
+    },
+    {
+     "title": "Aachener Startup Cylib übernimmt Batterierecycling-Geschäft von BASF",
+     "url": "https://www.electrive.net/2026/11/23/aachener-startup-cylib-uebernimmt-batterierecycling-geschaeft-von-basf/",
+     "date": "2026-11-23T13:30:00.000Z",
+     "text": "Klein schluckt groß: Ganz so ist es zwar nicht – aber dass das Aachener Batterierecycling-Startup Cylib das Batterierecycling-Geschäft des Chemiekonzerns BASF übernimmt, ist zumindest ein großes Ausrufezeichen. Der Deal umfasst dabei u.a. zwei Anlagen in Schwarzheide (Brandenburg) und das Nordamerika-Geschäft."
+    },
+    {
+     "title": "Auch EU-Rat positioniert sich gegen bindende E-Quoten für Firmenflotten",
+     "url": "https://www.electrive.net/2026/11/23/auch-eu-rat-positioniert-sich-gegen-bindende-e-quoten-fuer-firmenflotten/",
+     "date": "2026-11-23T13:00:00.000Z",
+     "text": "Die EU-Kommission hatte bei Vorstellung des \"Auto-Pakets\" eine Passage in ihrem Entwurf, wonach Mitgliedsländer ab 2030 konkrete Vorgaben für den Hochlauf von E-Dienstwagen erhalten sollen. Erst degradierte das EU-Parlament die vorgeschlagenen Pflicht-Quoten zu freiwilligen Zielen. Jetzt wohl auch der Rat."
+    },
+    {
+     "title": "Opel und Leapmotor besiegeln E-SUV-Kooperation",
+     "url": "https://www.electrive.net/2026/11/23/opel-und-leapmotor-e-suv-kooperation/",
+     "date": "2026-11-23T12:30:00.000Z",
+     "text": "Opel und Leapmotor haben ihre Zusammenarbeit bei der Entwicklung eines neuen Elektro-SUV offiziell vertraglich besiegelt. Das Modell soll zentrale Komponenten des chinesischen Herstellers nutzen, ab 2028 auf den Markt kommen und im spanischen Stellantis-Werk Saragossa produziert werden."
+    },
+    {
+     "title": "Freihandelsabkommen: EU und Indonesien bauen Zollhürden ab – auch für Autos",
+     "url": "https://www.electrive.net/2026/11/23/eu-indonesien-freihandelsabkommen/",
+     "date": "2026-11-23T11:30:00.000Z",
+     "text": "Die EU und Indonesien haben ein weitreichendes Freihandelsabkommen und ein Investitionsschutzabkommen unterzeichnet. In diesem Zuge sollen die indonesischen Einfuhrzölle von bislang teils 50 Prozent auf europäische Autos mittelfristig entfallen. Außerdem verspricht sich die EU einen besseren Zugang zu wichtigen Rohstoffen."
+    },
+    {
+     "title": "Hybrid-Importbremse zwischen EU und China gilt offenbar nicht für Range Extender",
      "url": "https://www.electrive.net/2026/11/23/hybrid-import-bremse-zwischen-eu-und-china-gilt-nicht-fuer-range-extender/",
      "date": "2026-11-23T10:00:00.000Z",
-     "text": "Die im Oktober zwischen der EU und China vereinbarte jährliche Importquote von 350.000 Hybridfahrzeugen umfasst offenbar keine Elektrofahrzeuge mit Range Extender. Vielmehr sollen diese Autos wohl weiter wie Batterie-elektrische Fahrzeuge eingestuft werden und damit den Sonderzöllen auf E-Autos unterliegen, aber es würde keine Importquote gelten."
+     "text": "Die im Oktober zwischen der EU und China vereinbarte jährliche Importquote von 350.000 Hybridfahrzeugen umfasst offenbar keine Elektrofahrzeuge mit Range Extender. Vielmehr sollen diese Autos wohl weiter wie Batterie-elektrische Fahrzeuge eingestuft werden und damit den Sonderzöllen auf E-Autos unterliegen."
     },
     {
      "title": "Fraunhofer forscht an leichteren Brennstoffzellen",
@@ -881,7 +845,7 @@
     },
     {
      "title": "BMW iX4 läuft jetzt neben iX3 in Debrecen vom Band",
-     "url": "https://www.electrive.net/2026/11/23/bmw-ix4-laeuft-jetzt-neben-ix3-in-debrecen-vom-band/",
+     "url": "https://www.electrive.net/2026/11/23/bmw-ix4-produktion-debrecen-ungarn/",
      "date": "2026-11-23T08:26:20.000Z",
      "text": "Im BMW-Werk in Debrecen ist die Serienproduktion des BMW iX4 angelaufen. Nach dem BMW iX3 ist das neue SUV mit Coupé-Silhouette bereits das zweite Modell der Neuen Klasse, das in dem ungarischen BMW-Werk vom Band läuft. Zu den Händlern rollt der iX4 ab März 2027 – zunächst in zwei Antriebsvarianten."
     },
@@ -908,84 +872,6 @@
      "url": "https://www.electrive.net/2026/11/22/elli-flotten-kosten-senken/",
      "date": "2026-11-22T09:00:00.000Z",
      "text": "Bei der Elektrifizierung von Fuhrparks geht es um mehr als darum, Verbrenner durch Elektroautos zu ersetzen. Flottenmanager müssen heute unterschiedliche Antriebsarten, Ladekarten, Abrechnungsmodelle und Ladeorte unter einen Hut zu bringen – und dabei die Kosten im Blick zu behalten. „Und daraus entsteht ein Flickenteppich, der einen Verwaltungsaufwand mit sich bringt“, beschreibt Joschi Jennermann, CEO von Elli Mobility, das Problem. Bei electrive LIVE zeigte er, wie Unternehmen gegensteuern kö"
-    },
-    {
-     "title": "Chinesischer E-Sportwagen SC01 soll ab Mai in Italien gebaut werden",
-     "url": "https://www.electrive.net/2026/11/21/e-sportwagen-sc01-italien/",
-     "date": "2026-11-21T11:00:00.000Z",
-     "text": "Das Unternehmen FIPA will in der Region Marken im Osten Italiens einen neuen Produktionsstandort für Elektrofahrzeuge aufbauen. Ab Mai 2027 soll dort der chinesische Elektro-Sportwagen SC01 montiert werden. Bis 2030 plant das Unternehmen mit 285 Beschäftigten und will die Produktion später auf elektrische Leichtfahrzeuge ausweiten."
-    },
-    {
-     "title": "Lagos erweitert Elektrobusflotte um elf Fahrzeuge",
-     "url": "https://www.electrive.net/2026/11/21/lagos-elektrobusse-oando-clean-energy/",
-     "date": "2026-11-21T10:00:00.000Z",
-     "text": "Im nigerianischen Lagos sind elf weitere Elektrobusse für den öffentlichen Nahverkehr vorgestellt worden. Die Fahrzeuge stammen von Oando Clean Energy und bilden die erste Tranche einer geplanten Lieferung von 50 Elektrobussen. Langfristig sollen 552 E-Busse auf den Linien der Millionenmetropole eingesetzt werden."
-    },
-    {
-     "title": "BVG will internen Fuhrpark bis 2030 vollständig elektrifizieren",
-     "url": "https://www.electrive.net/2026/11/21/bvg-fuhrpark-elektrisch/",
-     "date": "2026-11-21T09:00:00.000Z",
-     "text": "Die Berliner Verkehrsbetriebe (BVG) wollen ihren internen Fuhrpark mit Pkw, Transportern und weiteren Nutzfahrzeugen bis 2030 komplett elektrifizieren. Fuhrparkleiter Heinrich Köhnen sieht dafür kaum noch technische Hindernisse. In seinem Vortrag bei electrive LIVE zeigte er, warum sich E-Fahrzeuge nicht nur beim Antrieb rechnen, sondern auch durch intelligentes Flottenmanagement und eine effizientere Ladeinfrastruktur."
-    },
-    {
-     "title": "Elektromobilität in GTA VI: Laden in wenigen Sekunden",
-     "url": "https://www.electrive.net/2026/11/20/elektromobilitaet-in-gta-vi-laden-in-wenigen-sekunden/",
-     "date": "2026-11-20T15:30:00.000Z",
-     "text": "Der Hype um Grand Theft Auto VI ist riesig – und die Automobilbranche mischt kräftig mit. BMW, Daimler Truck und Sixt nutzen die Ästhetik des Videospiels für ihre Social-Media-Auftritte. Doch auch im Spiel selbst hat die Elektromobilität ihren Platz: E-Autos müssen geladen werden. Immerhin geht das in Vice City erheblich schneller als im echten Leben."
-    },
-    {
-     "title": "Ein elektrischer VW ID. Polo GTI für die Rennstrecke",
-     "url": "https://www.electrive.net/2026/11/20/ein-elektrischer-vw-id-polo-gti-fuer-die-rennstrecke/",
-     "date": "2026-11-20T15:00:00.000Z",
-     "text": "240 km/h in der Spitze und 4,7 Sekunden von 0 auf 100 km/h: Mit dem ID. Polo GTI Clubsport Concept zeigt Volkswagen, wie sich die GTI-Idee im Elektrozeitalter weiterentwickeln lässt. Die sprintstarke Studie kommt auf 270 kW – das sind knapp 370 PS gemäß alter Währung."
-    },
-    {
-     "title": "Zenobē kommt nach Deutschland",
-     "url": "https://www.electrive.net/2026/11/20/zenobe-kommt-nach-deutschland/",
-     "date": "2026-11-20T14:30:00.000Z",
-     "text": "Zenobē, ein britischer Spezialist für die Elektrifizierung von Nutzfahrzeugflotten, bringt sein Angebot nun auch nach Deutschland. Zenobē bietet Flottenbetreibern eine Lösung zum Festpreis, die Elektrofahrzeuge, Ladeinfrastruktur, Batteriemanagement und Flottenmanagement-Software umfasst."
-    },
-    {
-     "title": "Aptera stellt erstes Kundenfahrzeug fertig",
-     "url": "https://www.electrive.net/2026/11/20/aptera-erstes-kundenfahrzeug-fertig/",
-     "date": "2026-11-20T14:00:00.000Z",
-     "text": "Der kalifornische Solar-Elektroauto-Entwickler Aptera hat erstmals ein für einen Kunden bestimmtes Fahrzeug fertiggestellt. Das dreirädrige Solarauto soll an einen frühen Investor außerhalb der USA ausgeliefert werden."
-    },
-    {
-     "title": "Auricher Kreisbahn begrüßt Elektrobus-Quartett",
-     "url": "https://www.electrive.net/2026/11/20/auricher-kreisbahn-begruesst-elektrobus-quartett/",
-     "date": "2026-11-20T13:30:00.000Z",
-     "text": "Die Auricher Kreisbahn hat vier neue Elektrobusse in Empfang genommen. Damit wird der öffentliche Personennahverkehr im ostfriesischen Landkreis Aurich wieder etwas elektrischer. Die Fahrzeuge vom Typ Mercedes-Benz eCitaro sind für die Linienbündel Krummhörn und Städteachse Nord-Ost vorgesehen."
-    },
-    {
-     "title": "EU-Batteriepass: Verbände fordern Schreibzugriff für Werkstätten",
-     "url": "https://www.electrive.net/2026/11/20/eu-batteriepass-verbaende-fordern-schreibzugriff-fuer-werkstaetten/",
-     "date": "2026-11-20T13:00:00.000Z",
-     "text": "Der Bundesinnungsverband des Kraftfahrzeughandwerks (BIV-Kfz) und der Zentralverband Deutsches Kraftfahrzeuggewerbe (ZDK) üben Kritik an der aktuellen Ausgestaltung des europäischen Batteriepasses. Der wunde Punkt: Kfz-Betriebe können nach aktuellem Stand keine eigenen Daten zu Reparaturen, Zustand oder Sicherheit einer Traktionsbatterie im System hinterlegen. Denn sie haben lediglich Leserechte."
-    },
-    {
-     "title": "Neuer Zeekr 7X fährt mit bis zu 450 kW Ladeleistung vor",
-     "url": "https://www.electrive.net/2026/11/20/neuer-zeekr-7x-faehrt-mit-bis-zu-450-kw-ladeleistung-vor/",
-     "date": "2026-11-20T12:31:19.000Z",
-     "text": "Zeekr hat sein elektrisches Mittelklasse-SUV 7X überholt. Die überarbeitete und ab sofort in Deutschland bestellbare Version erhält bei allen Antrieben 25 kW zusätzliche Leistung, eine nochmals höhere Ladeleistung und eine neue Bosch-Assistenzplattform. Der Preis: weiterhin ab 54.990 Euro."
-    },
-    {
-     "title": "Hongqi EHS4: E-SUV mit Leapmotor-Technik für Europa",
-     "url": "https://www.electrive.net/2026/11/20/hongqi-ehs4-e-suv-mit-leapmotor-technik-fuer-europa/",
-     "date": "2026-11-20T09:30:00.000Z",
-     "text": "Die chinesische Automarke Hongqi bringt mit dem EHS4 ein neues Elektro-SUV nach Europa. Der zu FAW gehörende Hersteller startet mit dem Modell, das Technik von Leapmotor nutzt, zunächst in Italien. Dort liegt der Einstiegspreis für den Hongqi EHS4 regulär bei 35.900 Euro, zum Marktstart gelten aber befristete Aktionspreise ab 32.900 Euro."
-    },
-    {
-     "title": "Onsemi stellt neue SiC-Plattform EliteSiC M4 vor",
-     "url": "https://www.electrive.net/2026/11/20/onsemi-elitesic-m4-siliziumkarbid/",
-     "date": "2026-11-20T09:00:00.000Z",
-     "text": "Der US-Halbleiterhersteller Onsemi hat mit EliteSiC M4 die vierte Generation seiner Siliziumkarbid-Technologie präsentiert. Die neue Plattform soll die Leistungsdichte um bis zu 30 Prozent erhöhen und die Verluste um bis zu 35 Prozent reduzieren."
-    },
-    {
-     "title": "Ford Trucks setzt bei Batteriepass auf Circulor",
-     "url": "https://www.electrive.net/2026/11/20/ford-trucks-circulor-batteriepass/",
-     "date": "2026-11-20T08:00:00.000Z",
-     "text": "Ford arbeitet mit dem Technologieunternehmen Circulor zusammen, um die Batterien seiner elektrischen Lkw auf die Anforderungen des europäischen Batteriepasses vorzubereiten. Im Mittelpunkt stehen die Rückverfolgbarkeit von Batteriematerialien und die Erfassung von Lieferkettendaten."
     }
    ]
   },
@@ -994,6 +880,54 @@
    "focus": "Nur Gebrauchtwagenmarkt, Werkstattpreise, Händler und Regeln, die auch Autofahrer betreffen.",
    "ok": true,
    "items": [
+    {
+     "title": "Importeur wirbt mit Leasingrate von 131 Euro",
+     "url": "https://www.kfz-betrieb.vogel.de/importeur-wirbt-mit-leasingrate-von-131-euro-a-f8ffd1c248fd9647ca176098f3c089b4/",
+     "date": "2026-11-23T16:58:14.000Z",
+     "text": "Das vietnamesische Fabrikat kommt in Deutschland nicht voran, weder Absatz noch Partnernetz wachsen signifikant. Nun soll eine günstige Leasingrate das Interesse der Kunden wecken."
+    },
+    {
+     "title": "BSI beschreibt teils kritische Lage bei Cybersicherheit",
+     "url": "https://www.kfz-betrieb.vogel.de/bsi-beschreibt-teils-kritische-lage-bei-cybersicherheit-a-77308279e69cfdb30db1fc8ccf12f7ba/",
+     "date": "2026-11-23T16:29:21.000Z",
+     "text": "Das BSI hat seinen Jahreslagebericht vorgelegt. Darin sieht das Bundesamt für Sicherheit in der Informationstechnik eine weitere Verschärfung der IT-Sicherheitslage in Deutschland. Unternehmen aller Branchen sollten gewarnt sein."
+    },
+    {
+     "title": "Friedhelm Engel hat Toyota-Oldtimer im Fokus",
+     "url": "https://www.kfz-betrieb.vogel.de/friedhelm-engel-hat-toyota-oldtimer-im-fokus-a-bc565047271bea4fc97831af01919508/",
+     "date": "2026-11-23T15:58:32.000Z",
+     "text": "Während des Classic Business Days vergaben die Fachmedien »kfz-betrieb« und »Fahrzeug+Karosserie« zum zweiten Mal den Classic Business Award. Preisträger ist Friedhelm Engel, Inhaber des Autohauses Engel und der Engel Classic Manufaktur im oberfränkischen Wunsiedel."
+    },
+    {
+     "title": "Teilausfall des Kombiinstruments",
+     "url": "https://www.kfz-betrieb.vogel.de/teilausfall-des-kombiinstruments-a-50717c2efc4eb8a47266064c4805e35c/",
+     "date": "2026-11-23T15:27:00.000Z",
+     "text": "Warnungen vor verschiedenen Fehlern im Fahrzeug könnten ausbleiben. Fast 100.000 „NX“-SUVs benötigen daher ein Softwareupdate."
+    },
+    {
+     "title": "Formfehler machen zugestellten Bußgeldbescheid unwirksam",
+     "url": "https://www.kfz-betrieb.vogel.de/formfehler-machen-zugestellten-bussgeldbescheid-unwirksam-a-8a355890a42a181d999852ca33028f2a/",
+     "date": "2026-11-23T15:08:00.000Z",
+     "text": "Der faktische Zugang eines Bußgeldbescheids nach einem Verkehrsverstoß bedeutet nicht automatisch dessen Wirksamkeit. Formfehler in der Zustellung können für den Beschuldigten von Vorteil sein."
+    },
+    {
+     "title": "Filmstars auf vier Rädern und andere Traumautos",
+     "url": "https://www.kfz-betrieb.vogel.de/filmstars-auf-vier-raedern-und-andere-traumautos-a-1cbdf560b2c74ebc11f33e97b940279e/",
+     "date": "2026-11-23T14:59:50.000Z",
+     "text": "Originale Filmfahrzeuge aus „Fast &amp; Furious“, getunte Sportwagen und auch E-Autos zählen zu den Attraktionen der diesjährigen Essen Motor Show."
+    },
+    {
+     "title": "Rund um die Felge",
+     "url": "https://www.kfz-betrieb.vogel.de/rund-um-die-felge-a-f18366395468136b52d36434126531f8/",
+     "date": "2026-11-23T14:59:33.000Z",
+     "text": "Ein neues Modul des Softwarespezialisten JF Network eröffnet Händlern und Werkstätten eine zusätzliche Möglichkeit im digitalen Vertrieb. Es lässt sich nahtlos in vorhandene Websites einbetten und erspart so zusätzlichen Aufwand."
+    },
+    {
+     "title": "Jochen Lennertz leitet Zeekr-Vertrieb",
+     "url": "https://www.kfz-betrieb.vogel.de/jochen-lennertz-leitet-zeekr-vertrieb-a-3c816fe01387d42b585194cf99bfe0c1/",
+     "date": "2026-11-23T10:11:00.000Z",
+     "text": "Das chinesische Fabrikat Zeekr will sich einen Teil des deutschen Premiummarkts sichern. Den Ausbau des Vertriebsnetzes wird Jochen Lennertz steuern. Er hat Vertriebserfahrung und kommt von einem chinesischen Konkurrenten."
+    },
     {
      "title": "Gefälschte Rechnungen",
      "url": "https://www.kfz-betrieb.vogel.de/gefaelschte-rechnungen-a-61342e50dbcd3813a47eb29befb882bf/",
@@ -1005,12 +939,6 @@
      "url": "https://www.kfz-betrieb.vogel.de/wachstum-durch-lokalisierung-a-bb02d8d76c3e2beab92796d51ad2fe82/",
      "date": "2026-11-22T06:00:00.000Z",
      "text": "Die Automesse in Paris hat sich ihren relevanten Platz im automobilen Kalender zurückgeholt – auch, weil sie für chinesische Hersteller ein wichtiger Ankerpunkt für die Markteroberung in Europa ist. Alle betonten dort: Sie wollen stärker lokalisieren."
-    },
-    {
-     "title": "Der Händlernetzaufbau läutet Phase zwei ein",
-     "url": "https://www.kfz-betrieb.vogel.de/der-haendlernetzaufbau-laeutet-phase-zwei-ein-a-53f096c4e3cbaafff1477c0db6a17060/",
-     "date": "2026-11-21T06:00:00.000Z",
-     "text": "Nach gut zehn Monaten Direktvertrieb, die Zeekr Deutschland genutzt hat, um ein Servicenetz aufzubauen und Gewerbekunden zu gewinnen, wechselt die chinesische Premiummarke nun zum Händlervertrieb – mit klaren Vorstellungen zu Netzgröße und -qualität."
     }
    ]
   },
@@ -1020,184 +948,184 @@
    "ok": true,
    "items": [
     {
-     "title": "Rauf statt runter! Die bittere Strom-Wahrheit",
-     "url": "https://nius.de/nius-live/rauf-statt-runter-die-bittere-strom-wahrheit",
-     "date": "2026-11-23T10:14:35.000Z",
-     "text": "Auch am Montag, dem 23. November 2026, beginnt der Tag mit NIUS."
+     "title": "„Da hat die ganze Zeit offenbar was geschlummert“: Diese irren Thesen konstruiert der DLF in „Die Nazis in uns“",
+     "url": "https://nius.de/medien/deutschlandfunk-nazis-in-uns-podcast",
+     "date": "2026-11-24T02:04:56.000Z",
+     "text": "In einer vierteiligen Podcast-Reihe über Rechtsruck und Autoritarismus behauptet der Deutschlandfunk, dass nationalsozialistisches Denken in Deutschland nie verschwunden sei."
     },
     {
-     "title": "Messer-Attacke: Frau (41) bremst Auto aus und sticht auf Beifahrer und Fahrerin ein",
-     "url": "https://nius.de/nachrichten/messerattacke-frau-sticht-auf-beifahrer-ein",
-     "date": "2026-11-23T08:32:05.000Z",
-     "text": "Auf eine Landstraße bei Wetzlar stach eine 41-Jährige auf einen Mann ein, verletzte auch seine Begleiterin. Ein Zeuge und eine Polizeistreife retteten dem 21-Jährigen das Leben. Die Tatverdächtige sitzt in Untersuchungshaft."
+     "title": "Gibt es einen Bevölkerungsaustausch?",
+     "url": "https://nius.de/guten-morgen-deutschland/gibt-es-einen-bevoelkerungsaustausch",
+     "date": "2026-11-24T01:00:54.000Z",
+     "text": "Was in Deutschland als Verschwörungstheorie gebrandmarkt wird, ist in Dänemark jetzt praktisch regierungsamtlich: Westeuropa droht der Austausch der einheimischen Bevölkerung durch eingewanderte Ausländer."
     },
     {
-     "title": "Bundesregierung will 20 Millionen Euro für Wohnungen in Syrien geben",
-     "url": "https://nius.de/politik/20-millionen-fuer-wohnungen-in-syrien",
-     "date": "2026-11-23T07:34:38.000Z",
-     "text": "20 Millionen Euro für Wohnungen in Syrien: Auch Syrer ohne Deutschland-Bezug profitieren. Dabei gab es bisher nur sechs Abschiebungen."
+     "title": "Gibt es Gott, Herr Professor Ganteför?",
+     "url": "https://nius.de/gesellschaft/existiert-gott-herr-professor-gantefoer",
+     "date": "2026-11-24T00:00:25.000Z",
+     "text": "Richard Dawkins’ Buch „Der Gotteswahn“ von 2007 hat Millionen Menschen geprägt. Doch das Universum ist durchaus beseelt."
     },
     {
-     "title": "Messerstecherei in Düsseldorf: Zwei junge Männer in Lebensgefahr – Täter auf der Flucht",
-     "url": "https://nius.de/kriminalitaet/messerstecherei-zwei-maenner-in-lebensgefahr",
-     "date": "2026-11-23T07:14:10.000Z",
-     "text": "Messerstecherei auf einem Spielplatz in Düsseldorf: Zwei junge Männer schweben in Lebensgefahr. Eine Mordkommission fahndet nach den Tätern."
+     "title": "Trump feiert Rückkehr von Nvidia-Boss mit BH-Post",
+     "url": "https://nius.de/nius-live/spd-renten-kampfansage-an-cdu",
+     "date": "2026-11-23T23:20:26.000Z",
+     "text": "NIUS-Moderator Alexander Kissler begrüßt am 24. November 2026 im NIUS Live-Studio seine Gäste: NIUS-Chefredakteur Julian Reichelt und die tellvertretende NIUS-Chefredakteurin Pauline Voss."
     },
     {
-     "title": "Krankenhaus-Brand in Berlin: Patient soll Bett angezündet haben – 15 Verletzte",
-     "url": "https://nius.de/nachrichten/patient-bett-angezuendet-15-verletzte",
-     "date": "2026-11-23T06:22:51.000Z",
-     "text": "In einem Krankenhaus in Berlin-Lichtenberg soll ein Patient sein Bett angezündet haben. 15 Menschen wurden verletzt, die Polizei ermittelt."
+     "title": "AfD droht mit Verfassungsklage gegen Bundeshaushalt 2027",
+     "url": "https://nius.de/politik/afd-drohung-verfassungsklage-bundeshaushalt-2027",
+     "date": "2026-11-23T19:01:12.000Z",
+     "text": "Kurz vor den abschließenden Beratungen über den Bundeshaushalt 2027 hat die AfD eine Verfassungsbeschwerde gegen die Finanzpläne der schwarz-roten Koalition angekündigt."
+    },
+    {
+     "title": "Trump feiert Rückkehr von Nvidia-Boss mit BH-Post",
+     "url": "https://nius.de/ausland/trump-huang-rueckkehr-nvidia-post",
+     "date": "2026-11-23T18:44:49.000Z",
+     "text": "US-Präsident Donald Trump erklärte, er habe entscheidend dazu beigetragen, dass Jensen Huang wieder an die Spitze des Chipkonzerns Nvidia zurückkehrte – und feierte die Rückkehr des Nvidia-Chefs mit einem BH-Post auf seiner Plattform Truth Social."
+    },
+    {
+     "title": "Merz kritisiert Merkels Ukraine-Entscheidung als Fehler",
+     "url": "https://nius.de/politik/merz-kritik-merkel-ukraine-nato",
+     "date": "2026-11-23T17:37:37.000Z",
+     "text": "Bundeskanzler Friedrich Merz (CDU) hat die Entscheidung von 2008, die Ukraine nicht in die NATO aufzunehmen, rückblickend als Fehler eingestuft."
+    },
+    {
+     "title": "125.500 Kilometer! Staatssekretärin fährt Dienstwagen fast zweimal pro Jahr um die Erde",
+     "url": "https://nius.de/politik/dienstwagen-staatssekretaere-kilometer-rekord-afdanfrage",
+     "date": "2026-11-23T16:54:23.000Z",
+     "text": "125.500 Kilometer in 18 Monaten: Was die Regierung über ihre Dienstwagen verrät – und was sie geheim hält."
+    },
+    {
+     "title": "FBI warnt: KI-Hacker knacken Firmennetze in unter drei Stunden",
+     "url": "https://nius.de/kriminalitaet/fbi-ki-hacker-artex",
+     "date": "2026-11-23T16:40:50.000Z",
+     "text": "Ein frei verfügbares KI-Werkzeug macht Laien zu Profi-Hackern. Ziel: Banken, Kliniken, Behörden."
+    },
+    {
+     "title": "Warum immer mehr Männer schöner sein wollen, als sie sind",
+     "url": "https://nius.de/kommentar/maenner-schoenheitsoperationen-trend",
+     "date": "2026-11-23T16:30:20.000Z",
+     "text": "Bevor wir auf runderneuerte Männer schauen, schauen wir auf frische Zahlen: Die Zahl der chirurgischen Eingriffe bei Männern ist zwischen 2018 und 2025 um 95 Prozent gestiegen."
+    },
+    {
+     "title": "TK-Chef Baas kritisiert Milliarden für schnelle Arzttermine",
+     "url": "https://nius.de/nachrichten/tk-chef-baas-kritisiert-milliarden-fuer-schnelle-arzttermine",
+     "date": "2026-11-23T15:48:26.000Z",
+     "text": "Mehr Geld für Ärzte führt nach Einschätzung von TK-Chef Jens Baas nicht zu schnelleren Facharztterminen. Trotz zusätzlicher Milliarden hätten sich die Wartezeiten verlängert, erklärt er im ARD-„Bericht aus Berlin“."
+    },
+    {
+     "title": "Neue Studie: Hinter Neptun könnte eine zweite Erde kreisen",
+     "url": "https://nius.de/nachrichten/planet-x2-zweite-erde-neptun",
+     "date": "2026-11-23T15:31:48.000Z",
+     "text": "Erst Planet Nine, dann Planet Y, jetzt Planet X2: Astronomen sehen immer mehr Hinweise auf eine unentdeckte Welt."
+    },
+    {
+     "title": "Fünf Tote in Kehler Wohnung gefunden – darunter drei Kinder",
+     "url": "https://nius.de/nachrichten/fuenf-tote-in-kehler-wohnung-gefunden-darunter-drei-kinder",
+     "date": "2026-11-23T15:26:50.000Z",
+     "text": "In Kehl im Südwesten Baden-Württembergs haben Einsatzkräfte mehrere Menschen tot in einer Wohnung entdeckt."
+    },
+    {
+     "title": "BYD-Kopie des Land Rover Defender: Gericht verbietet Ti7 in der EU",
+     "url": "https://nius.de/wirtschaft/byd-ti7-defender-verbot",
+     "date": "2026-11-23T15:19:26.000Z",
+     "text": "Ein Eilurteil aus Den Haag stoppt den SUV, auch für das neue BYD-Werk in Ungarn. Der Konzern will sich wehren."
+    },
+    {
+     "title": "Stromsteuer verpufft: Reichelt sieht „Stunde der Wahrheit“",
+     "url": "https://nius.de/nius-live/stromsteuer-strompreise-steigen",
+     "date": "2026-11-23T14:53:02.000Z",
+     "text": "Über 200 Anbieter erhöhen zum 1. Januar die Preise. Für Familien bleibt rechnerisch ein Minus von rund 40 Euro."
+    },
+    {
+     "title": "Ukraine-Hilfen: Reichelt sagt „All das Geld fehlt in Deutschland“",
+     "url": "https://nius.de/nius-live/ukraine-hilfen-deutschland-reichelt",
+     "date": "2026-11-23T14:34:44.000Z",
+     "text": "Der NIUS-Chefredakteur widerspricht Claudia Major und dem Kanzler: Jeder Euro für Kiew fehle an anderer Stelle."
+    },
+    {
+     "title": "Massenschlägerei bei München: Rumänische Gruppen mit Eisenstangen",
+     "url": "https://nius.de/kriminalitaet/massenschlaegerei-kirchheim-eisenstangen",
+     "date": "2026-11-23T14:17:48.000Z",
+     "text": "Zwölf Anzeigen, ein Bewusstloser, ein gezücktes Teppichmesser. Am Ende kamen alle mit einem Platzverweis davon."
+    },
+    {
+     "title": "Nvidia holt Jensen Huang zurück!",
+     "url": "https://nius.de/news/nvidia-holt-jensen-huang-zurueck",
+     "date": "2026-11-23T14:08:37.000Z",
+     "text": "Überraschende Wende bei Nvidia! Das Unternehmen gibt bekannt, dass Jensen Huang als Präsident, CEO und Mitglied des Vorstands zurückkehrt."
     },
     {
      "title": "Rentenreform: SPD droht Union mit Komplett-Blockade!",
      "url": "https://nius.de/politik/rentenreform-spd-droht-mit-blockade",
-     "date": "2026-11-23T05:30:20.000Z",
+     "date": "2026-11-23T14:07:34.000Z",
      "text": "Die SPD droht mit dem Scheitern der Rentenreform, sollte die Union die abschlagsfreie Rente nach 45 Beitragsjahren abschaffen."
     },
     {
-     "title": "Alltag mit Sinti und Roma",
-     "url": "https://nius.de/nius-originals/alltag-mit-sinti-und-roma",
-     "date": "2026-11-23T04:52:44.000Z",
-     "text": "Müllberge auf den Straßen, verwahrloste Wohnhäuser, Ratten und fehlender Wille zur Anpassung: NIUS hat in den vergangenen Wochen zum Leben der Sinti und Roma im Ruhrgebiet recherchiert und die Heimat vieler Roma im bulgarischen Stolipinovo besucht."
+     "title": "AfD begrüßt Scheitern des Klimagipfels: „Die anderen machen nicht mit“",
+     "url": "https://nius.de/politik/cop31-afd-begruesst-klimagipfel-scheitern",
+     "date": "2026-11-23T14:06:00.000Z",
+     "text": "Die AfD sieht sich durch das Scheitern der Klimakonferenz in der Türkei in ihrer Ablehnung der bisherigen Klimaschutzpolitik bestätigt."
     },
     {
-     "title": "Die Spinne von Bonn: Wie Klaus Müller Energie und Meinungsfreiheit kontrolliert",
-     "url": "https://nius.de/politik/klaus-mueller-energie-meinungsfreiheit",
-     "date": "2026-11-22T23:04:00.000Z",
-     "text": "Der regulatorische Einfluss von Bundesnetzagentur-Chef Klaus Müller reicht inzwischen weit über das Stromnetz hinaus …"
+     "title": "Bombendrohungen an Schulen in mehreren Bundesländern",
+     "url": "https://nius.de/nachrichten/bombendrohungen-an-schulen-in-mehreren-bundeslaendern",
+     "date": "2026-11-23T12:59:50.000Z",
+     "text": "Eine Welle von Bombendrohungen erfasst deutsche Schulen. Laut Bild erhielten um die 400 Bildungseinrichtungen E-Mails mit dem Betreff „Der Tod erwartet dich“. Eine offizielle Bestätigung der Anzahl steht noch aus."
     },
     {
-     "title": "Balkone, Spielplätze, private Terrassen: So komfortabel baut Deutschland für Flüchtlinge",
-     "url": "https://nius.de/politik/millionen-investitionen-fluechtlingsunterkuenfte-deutschland",
-     "date": "2026-11-22T23:03:30.000Z",
-     "text": "Moderne Wohnanlagen mit Holzfassaden, großzügigen Balkonen, begrünten Innenhöfen und eigenen Küchen: In zahlreichen deutschen Städten entstehen neue Unterkünfte für Flüchtlinge, die auf den Architekturvisualisierungen wie moderne Wohnquartiere aussehen. Manche Projekte kosten mehrere Millionen Euro."
+     "title": "Böhm zur Pkw-Maut: „Wir bezahlen dann PKW-Steuer UND eine Maut“",
+     "url": "https://nius.de/nius-live/pkw-maut-pendler-gutachten",
+     "date": "2026-11-23T12:57:00.000Z",
+     "text": "Ein vertrauliches Gutachten bringt die PKW-Maut zurück. Julius Böhm warnt bei NIUS Live vor hohen Zusatzkosten für Pendler."
     },
     {
-     "title": "SPD-Umweltminister Schneider läuft Klima-Amok in der Türkei",
-     "url": "https://nius.de/guten-morgen-deutschland/spd-umweltminister-schneider-klima-konferenz-tuerkei",
-     "date": "2026-11-22T23:03:00.000Z",
-     "text": "Die 31. Weltklimakonferenz der UNO im türkischen Antalya (9. bis 20. November) konnte sich nach zwölf Tagen am Sonntag auf keinen gemeinsamen Beschluss einigen. Auch weil Deutschland mehr wollte."
+     "title": "Rutte erteilt raschem NATO-Beitritt der Ukraine eine Absage",
+     "url": "https://nius.de/ausland/rutte-erteilt-raschem-nato-beitritt-der-ukraine-eine-absage",
+     "date": "2026-11-23T12:54:27.000Z",
+     "text": "Die Ukraine kann nach Angaben von NATO-Generalsekretär Mark Rutte derzeit nicht auf eine Aufnahme in das Verteidigungsbündnis hoffen. Unter den Mitgliedstaaten fehlt dafür die Einstimmigkeit."
     },
     {
-     "title": "Energie-Experte Ulrich Gräber über den Chef der Bundesnetzagentur: „Ich halte es für verantwortungslos, Herrn Müller jetzt wieder zu benennen”",
-     "url": "https://nius.de/schuler-fragen-was-ist/energie-experte-ulrich-graeber-ueber-den-chef-der-bundesnetzagentur-ich-halte-es-fuer-verantwortungslos-herrn-mueller-jetzt-wieder-zu-benennen",
-     "date": "2026-11-22T15:57:14.000Z",
-     "text": "Energie-Experte Ulrich Gräber kritisiert die geplante zweite Amtszeit von Klaus Müller als Präsident der Bundesnetzagentur und warnt vor einer Fortsetzung des bisherigen Energiekurses."
+     "title": "SPD will höhere Reichensteuer und erklärt Spielraum im Haushalt für ausgereizt",
+     "url": "https://nius.de/politik/spd-will-hoehere-reichensteuer-und-erklaert-spielraum-im-haushalt-fuer-ausgereizt",
+     "date": "2026-11-23T12:46:41.000Z",
+     "text": "SPD-Generalsekretär Tim Klüssendorf drängt auf die Umsetzung einer nach seinen Angaben bereits vereinbarten Einkommensteuerreform. Kleine und mittlere Einkommen sollen entlastet werden, Spitzenverdiener über eine höhere Reichensteuer mehr zahlen."
     },
     {
-     "title": "Totensonntag – ein Tag für die Ewigkeit",
-     "url": "https://nius.de/kommentar/totensonntag-ein-tag-fuer-die-ewigkeit",
-     "date": "2026-11-22T14:47:21.000Z",
-     "text": "König Friedrich Wilhelm III. von Preußen hatte ihn 1816 angeordnet – als einheitliches Fest der evangelischen Christen zum Gedenken an die Verstorbenen. So entstand der Totensonntag, der letzte Sonntag vor dem ersten Advent."
+     "title": "Bundesregierung erteilt Söders Forderung nach Steuerentlastung eine Absage",
+     "url": "https://nius.de/politik/bundesregierung-erteilt-soeders-forderung-nach-steuerentlastung-eine-absage",
+     "date": "2026-11-23T12:34:48.000Z",
+     "text": "CSU-Chef Markus Söder fordert einen vollständigen Ausgleich der kalten Progression für 2027. Doch die Bundesregierung will die Verhandlungen darüber nicht wieder aufnehmen. Sie verweist auf die abgeschlossenen Haushaltsberatungen und die geplante Einkommensteuerreform."
     },
     {
-     "title": "Die Abschaffung des Menschen",
-     "url": "https://nius.de/kommentar/die-abschaffung-des-menschen",
-     "date": "2026-11-22T13:15:22.000Z",
-     "text": "Die aktuellen Debatten um Zähmung und Regulierung der KI verfehlen das eigentliche Thema: Parallel zum Aufstieg der KI wird jener Mensch entmündigt, der allein ihr Paroli bieten könnte."
+     "title": "Was bringt der Tank-Preisdeckel?",
+     "url": "https://nius.de/nius-live/was-bringt-der-tank-preisdeckel",
+     "date": "2026-11-23T12:21:57.000Z",
+     "text": "Bei NIUS Live am Abend beleuchten wir immer das Wichtigste vom Tage. Am Montag, den 23. November, begrüßt NIUS-Moderator Andreas Dorfmann im NIUS-Radio-Studio folgende Gäste: Journalistin Annekatrin Mücke und Junge Freiheit-Digitalchef Vadim Derksen."
     },
     {
-     "title": "SPD-Umweltminister Schneider will Beschluss der Klimakonferenz nicht zustimmen",
-     "url": "https://nius.de/politik/spd-umweltminister-schneider-will-beschluss-der-klimakonferenz-nicht-zustimmen",
-     "date": "2026-11-22T10:41:17.000Z",
-     "text": "Deutschland will dem vorliegenden Beschlusstext der Weltklimakonferenz nicht zustimmen."
+     "title": "Krebs: Dieter Nuhr sagt alle Auftritte bis zum Frühjahr ab",
+     "url": "https://nius.de/nachrichten/krebs-dieter-nuhr-sagt-alle-auftritte-bis-zum-fruehjahr-ab",
+     "date": "2026-11-23T11:52:06.000Z",
+     "text": "Dieter Nuhr hat eine Krebserkrankung öffentlich gemacht. Bei ihm sei ein Hodgkin-Lymphom diagnostiziert worden, teilte der Kabarettist auf Instagram mit. Wegen der notwendigen Therapie sagt er ab sofort sämtliche Auftritte und Sendungen bis zum Frühjahr ab. Auch sein Jahresrückblick entfällt."
     },
     {
-     "title": "Nach Stromsteuer will Söder auch Ausgleich der kalten Progression",
-     "url": "https://nius.de/politik/nach-stromsteuer-will-soeder-auch-ausgleich-der-kalten-progression",
-     "date": "2026-11-22T09:03:48.000Z",
-     "text": "Mit Hängen, Würgen, Finanztricks und einem dramatischen Beinahe-Abgang hat sich Bundeskanzler Friedrich Merz schlussendlich bei der Senkung der Stromsteuer durchsetzen können. Doch Bayerns Ministerpräsident und CSU-Chef Markus Söder startet schon den nächsten Angriff auf Bundeskanzler Friedrich Merz."
+     "title": "Tobias Gotthardt soll Bayerns neuer Wirtschaftsminister werden",
+     "url": "https://nius.de/politik/tobias-gotthardt-soll-bayerns-neuer-wirtschaftsminister-werden",
+     "date": "2026-11-23T11:47:54.000Z",
+     "text": "Die Freien Wähler setzen bei der Nachfolge von Hubert Aiwanger offenbar auf einen Vertrauten des verstorbenen Ministers: Der bisherige Wirtschaftsstaatssekretär Tobias Gotthardt (Freie Wähler) soll das Ressort übernehmen. Das erfuhr die Deutsche Presse-Agentur aus informierten Kreisen."
     },
     {
-     "title": "Warum uns der Halal-Kampf in London interessieren muss",
-     "url": "https://nius.de/ausland/warum-uns-der-halal-kampf-in-london-interessieren-muss",
-     "date": "2026-11-21T15:59:55.000Z",
-     "text": "Wütende Muslime demonstrieren gegen ein Londoner Lokal, das ausdrücklich keine Halal-Gerichte anbietet. Comedy-Legende John Cleese (Monty Python) stellt sich hinter die Restaurant-Betreiber. Er sieht den Islam schon länger sehr kritisch."
+     "title": "Löwe in Istanbul: Anwohner sollen Häuser nicht verlassen",
+     "url": "https://nius.de/ausland/loewe-in-istanbul-anwohner-sollen-haeuser-nicht-verlassen",
+     "date": "2026-11-23T11:24:29.000Z",
+     "text": "Löwenalarm in Istanbul: Eine Raubkatze streift durch den Norden der Stadt. Die Polizei sucht nach dem Tier und warnt die Anwohner."
     },
     {
-     "title": "Mann (35) attackiert Rettungskräfte nach Unfall mit Messern",
-     "url": "https://nius.de/kriminalitaet/mann-attackiert-rettungskraefte-mit-messern",
-     "date": "2026-11-21T15:58:18.000Z",
-     "text": "Nach einem Unfall in Berlin-Westend greift ein 35-Jähriger einen Sanitäter an und bedroht weitere Rettungskräfte mit zwei Messern."
-    },
-    {
-     "title": "Aiwanger-Beerdigung: Lebensgefährtin Tanja Schweiger dankt für Solidarität",
-     "url": "https://nius.de/nachrichten/beerdigung-hubert-aiwanger-1000-trauergaeste",
-     "date": "2026-11-21T14:00:32.000Z",
-     "text": "Hunderte Menschen nehmen in Niederbayern Abschied von Hubert Aiwanger. Auch führende Politiker der Freien Wähler nehmen an der Trauerfeier teil."
-    },
-    {
-     "title": "AfD-Chef Chrupalla fordert Rückführung von bis zu 2,6 Millionen Ausländern",
-     "url": "https://nius.de/politik/afd-chef-chrupalla-fordert-rueckfuehrung-von-bis-zu-2-6-millionen-auslaendern",
-     "date": "2026-11-21T12:25:17.000Z",
-     "text": "AfD-Chef Tino Chrupalla fordert die Rückführung von bis zu 2,6 Millionen Ausländern. Auch innerhalb seiner Partei gibt es Widerspruch."
-    },
-    {
-     "title": "Polizei-Brandbrief: CDU lässt sich von SPD „am Nasenring führen“",
-     "url": "https://nius.de/politik/polizei-brandbrief-cdu-am-nasenring",
-     "date": "2026-11-21T11:27:02.000Z",
-     "text": "Polizeigewerkschafter Teggatz attackiert die CDU wegen Sparplänen bei Bundespolizei und Zoll und kündigt öffentliche Proteste an."
-    },
-    {
-     "title": "Reichelt: Bei BSW-Einzug wäre Merz nie legitimer Kanzler gewesen",
-     "url": "https://nius.de/nius-live/nius-live-wochenrueckblick-21-november",
-     "date": "2026-11-21T10:49:43.000Z",
-     "text": "BSW-Klage, Merz-Eklat, Döner-Rechnung, GTA 6 und Kaulitz: die meistgeklickten NIUS-Live-Videos der Woche."
-    },
-    {
-     "title": "Schüsse in Bremer Imbiss: Mordkommission sucht flüchtige Täter",
-     "url": "https://nius.de/kriminalitaet/schuesse-imbiss-bremen-groepelingen",
-     "date": "2026-11-21T10:47:19.000Z",
-     "text": "Erst Streit am Tisch, dann Messer und mehrere Schüsse: Die Polizei sucht Zeugen und beschreibt die Verdächtigen."
-    },
-    {
-     "title": "Riester-Reform: Klingbeils staatliches Altersvorsorgedepot verspätet sich um Monate",
-     "url": "https://nius.de/politik/riester-reform-klingbeils-staatliches-altersvorsorgedepot-verspaetet-sich-um-monate",
-     "date": "2026-11-21T08:03:18.000Z",
-     "text": "Die Riester-Reform startet 2027, doch Klingbeils staatliches Altersvorsorgedepot verspätet sich offenbar bis zum Sommer. Verbraucherschützer kritisieren das."
-    },
-    {
-     "title": "Pflegeversicherung: Trotz Sparpaket droht neues Milliardenloch",
-     "url": "https://nius.de/politik/pflegeversicherung-trotz-sparpaket-droht-neues-milliardenloch",
-     "date": "2026-11-21T07:43:13.000Z",
-     "text": "Trotz Milliarden-Sparpaket droht der Pflegeversicherung 2027 ein neuer Finanzengpass. Vor allem Kinderlose sollen mehr zahlen."
-    },
-    {
-     "title": "Baerbock wird Unternehmensberaterin: Ihre „geostrategische Expertise“ ist gefragt",
-     "url": "https://nius.de/nachrichten/baerbock-wird-unternehmensberaterin-ihre-geostrategische-expertise-ist-gefragt",
-     "date": "2026-11-21T07:27:55.000Z",
-     "text": "Annalena Baerbock wird Beraterin bei FGS Global. Die Ex-Außenministerin soll Unternehmen ihre „geostrategische Expertise“ anbieten."
-    },
-    {
-     "title": "Rechte Gewalt: Bund beendet Förderung für Online-Portal",
-     "url": "https://nius.de/politik/rechte-gewalt-bund-beendet-foerderung-fuer-online-portal",
-     "date": "2026-11-21T07:06:25.000Z",
-     "text": "Der Bund beendet die Förderung des Themenportals „Rechte Gewalt“ zum Jahresende 2026. Bei den Grünen herrscht darüber Unverständnis."
-    },
-    {
-     "title": "Wirtschaftsrat-Boss warnt: „Es fehlt jeder Spar- und Konsolidierungswille“",
-     "url": "https://nius.de/wirtschaft/wolfgang-steiger-fehlt-jeder-konsolidierungswille",
-     "date": "2026-11-21T06:45:18.000Z",
-     "text": "Wolfgang Steiger warnt vor einer wachsenden Haushaltskrise, fehlendem Sparwillen und immer neuen Staatseingriffen – und sieht für die Union eine politische Überlebensfrage."
-    },
-    {
-     "title": "Mit Schulze und Merz in den Abgrund: Die CDU liegt am Boden",
-     "url": "https://nius.de/kissler-kompakt/mit-schulze-und-merz-in-den-abgrund-die-cdu-liegt-am-boden",
-     "date": "2026-11-21T06:41:51.000Z",
-     "text": "Das LKA ermittelt wegen des Verdachts der Nötigung: Bei der CDU brechen jetzt alle Dämme."
-    },
-    {
-     "title": "Amnesty International ehrt Israel-Hasser als „Botschafter des Gewissens“",
-     "url": "https://nius.de/gesellschaft/amnesty-international-israelhass",
-     "date": "2026-11-20T14:49:44.000Z",
-     "text": "Der Negativpreis „Goldene Wassermelone“ für besonders auffälligen Israel-Hass geht diese Woche an Amnesty International."
-    },
-    {
-     "title": "Berlin: Kaum ein Tag ohne Schüsse",
-     "url": "https://nius.de/kriminalitaet/schuesse-berlin-2026",
-     "date": "2026-11-20T14:44:57.000Z",
-     "text": "Schießereien, Verletzte und Tote: Eine NIUS-Auswertung zeigt das Ausmaß der Schusswaffengewalt in der Hauptstadt."
+     "title": "NRW: AfD beschließt Wahlprogramm",
+     "url": "https://nius.de/politik/nrw-afd-beschliesst-wahlprogramm",
+     "date": "2026-11-23T11:08:04.000Z",
+     "text": "Die nordrhein-westfälische AfD hat am Sonntag ihr Wahlprogramm für die Landtagswahl 2027 beschlossen."
     }
    ]
   },
@@ -1214,11 +1142,11 @@
      "via": "Ruhr Nachrichten"
     },
     {
-     "title": "Brandgefahr trotz Reparatur: Diese BMWs müssen ab sofort draußen parken - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3RVejZWWW9WSlBTV3NWWTktOEVhZzVsVkdXdUEtX3JRMmxRS3QtWjFvZWd6SXNmUnFjbEE3Y0JsVmlKcUpIeFhJLUVsN0l1QXRNMUh6MVJaWU5Pd3ZwOXB6RDZweXBDbnRfWFNrLVBTNnZGTTVnQ1ZxOXg2X2lFTWkzWVMwWTlvNHdiY1ZQVXQ2bTR0cVE4Q0p6OTV3QW8?oc=5",
-     "date": "2026-11-19T14:45:57.000Z",
-     "text": "Brandgefahr trotz Reparatur: Diese BMWs müssen ab sofort draußen parken Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
+     "title": "Rückruf wegen gefährlicher Takata-Airbags Tausende Opel- und Škoda-Fahrzeuge betroffen - Ruhr Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOXQ0NXBWcXhZeldzeEw1UmthNTZDUmJXRm15Q3RZdWI3dTJsLWFYNXQ1RmFKWXNiMktNdFBVN3JLUzNfRjRURXBpWFpIejlfNnZ5ckx0MGN3U2hoTW1tMHBPcHYwVHhYSlRKOFhROVR1NjREeTZ2NkdONndDWURLMlNBUHhlQXFxaUlLczNxR2MwS1phRjhIVnJGcUFmdjBMSERlSklPRmhRQnJmMm5PYmtrTTBOUlY0Rkt5cjZ1NDY0b0VvNXk3QmQzU3FGckpPeFN1YVdzT0ZtWnYyMU53ZUdVZw?oc=5",
+     "date": "2026-11-23T09:16:00.000Z",
+     "text": "Rückruf wegen gefährlicher Takata-Airbags Tausende Opel- und Škoda-Fahrzeuge betroffen Ruhr Nachrichten",
+     "via": "Ruhr Nachrichten"
     },
     {
      "title": "Airbags können explodieren: Rückruf bei japanischen Autoherstellern - T-Online",
@@ -1233,20 +1161,6 @@
      "date": "2026-11-21T07:20:00.000Z",
      "text": "VW- und Cupra-Rückruf wegen Brandgefahr: Mehr als 70.000 Autos weltweit betroffen Ruhr Nachrichten",
      "via": "Ruhr Nachrichten"
-    },
-    {
-     "title": "Rückruf wegen gefährlicher Takata-Airbags Tausende Opel- und Škoda-Fahrzeuge betroffen - Ruhr Nachrichten",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOXQ0NXBWcXhZeldzeEw1UmthNTZDUmJXRm15Q3RZdWI3dTJsLWFYNXQ1RmFKWXNiMktNdFBVN3JLUzNfRjRURXBpWFpIejlfNnZ5ckx0MGN3U2hoTW1tMHBPcHYwVHhYSlRKOFhROVR1NjREeTZ2NkdONndDWURLMlNBUHhlQXFxaUlLczNxR2MwS1phRjhIVnJGcUFmdjBMSERlSklPRmhRQnJmMm5PYmtrTTBOUlY0Rkt5cjZ1NDY0b0VvNXk3QmQzU3FGckpPeFN1YVdzT0ZtWnYyMU53ZUdVZw?oc=5",
-     "date": "2026-11-22T09:45:00.000Z",
-     "text": "Rückruf wegen gefährlicher Takata-Airbags Tausende Opel- und Škoda-Fahrzeuge betroffen Ruhr Nachrichten",
-     "via": "Ruhr Nachrichten"
-    },
-    {
-     "title": "Sprite-Rückruf: Zuckerfreie Sprite Zero steckt in falschen 0,33-Liter-Dosen - Netz Trends",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ESmd3TE4ycklELWNRNHFVbXR2dVRIZ0JiSW96dFh5bi05aWdpZEN0Tjc2WVZxcUVxd3MyOUhteFBWcG1DenhoWENLLTVLVFdmYlNyaUp5MkthU21qQ3ZuWHVuSzEyYjBuM085RWdlSGswWFM4dWV0ZGFB?oc=5",
-     "date": "2026-11-20T09:58:00.000Z",
-     "text": "Sprite-Rückruf: Zuckerfreie Sprite Zero steckt in falschen 0,33-Liter-Dosen Netz Trends",
-     "via": "Netz Trends"
     }
    ]
   },
@@ -1258,21 +1172,21 @@
     {
      "title": "Autofahrer, aufgepasst: Diese Neuerungen kommen 2027 - ADAC",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ucm9mZUlnLTQ4VnI0Y04wNXpKYzBpZ200ZURJLVJGOUhUMk14ZUxWdnR5dFVKOWNnclVzVWVpSHQ4RXhzNy1zS3kwaEdhWnBOd0NYSDlvU0VCUDljUTZJRnFGYUhQalRBRVNRRVRZQUtLU2s?oc=5",
-     "date": "2026-11-23T08:52:08.000Z",
+     "date": "2026-11-24T00:30:55.000Z",
      "text": "Autofahrer, aufgepasst: Diese Neuerungen kommen 2027 ADAC",
      "via": "ADAC"
     },
     {
-     "title": "Wichtige Neuheiten für Autofahrer: Was sich 2027 alles ändert - CHIP",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRkZ4bUVJSjlQOFVvZlZNMjhiSEVJV0pDbEh3SFhsY28xR3k0ekRzOUttcUt3QXpRdzBTVjhZUmJNdm03ZE5pTFdobXgtekg5eWpNeVFxdDRjaTlaXzNlWWE4dGNhVkR6V0tpQnRmSjJ4ZlNHV1pMTUlicHA5RnZ6ZXZNdjhGOElTd2FtMjdsNlN0TGw3aXNoRF9tUHQ0U0FMOFE1cmpSRm9BcldKOXdIazhUeTRFc0dTRXlBVTNWMEdES2ZTWTg1SnF2NmF1ZUV1QUU3bTQ1cWpxZw?oc=5",
-     "date": "2026-11-20T08:35:00.000Z",
-     "text": "Wichtige Neuheiten für Autofahrer: Was sich 2027 alles ändert CHIP",
+     "title": "Was sich 2027 für Autofahrer ändert: Das sind die wichtigsten Neuerungen - CHIP",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1Y0NjVIQW5GazJFSk1qdV92ZkpCOVVTSlZNTTBWN05XdzJXTXoxWUtubVBrTFVJLUgtclNxQkJBNF9GLXN0MVllUXpvMUpGejE4TlNsR1VvMnpaRXhhT09PYlhFZWx4OEw0TmNjb216VlR5UzJvVm5FTXBfQjB2UmlVbi13VkJheGRWY19OLVotNHlCelNSeTBFWmdEM01jVXNTc29GVVFXdElWZTRZX3h1NUlHbnV1bjdVRi1wQVJHTl8zdWVRM1dpWHo0VTE0b1ZIYVhxV29vQ2xBaTNjb0RVWFh2TUZ6?oc=5",
+     "date": "2026-11-23T18:20:00.000Z",
+     "text": "Was sich 2027 für Autofahrer ändert: Das sind die wichtigsten Neuerungen CHIP",
      "via": "CHIP"
     },
     {
      "title": "Kosten, Plaketten, Termine: Alle Autofahrer-Änderungen 2027 auf einen Blick - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWGN3U2p1bHdSSDdMUE5pTTR4ZFhsUnVLak5QNUtzQ2FjeF9RUmd5RHhaOUhsUnZ3czgyeE1TbGlRYnUxMEFmd3c5c1VkTjg3elRYazFTWjVkbzd4Vmo5M2lvTU0wdDZ1ekFBbW5TNFEtOWJIVm8ycndsTENxVHB5VWZ0cnRjUENkang2STh6X2xCUjJJNHdGN042a3lCbDRNX3BoSVlGaXdHWi1nbW9QSV9ERVVaQnlFODlQbQ?oc=5",
-     "date": "2026-11-20T13:31:00.000Z",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjVlYVZXUUZ0czl2aG5JaFpEeWJGRlNhRVBNa3RudTFHR3NrVzg3YkdrRnp4OFY0Y3FpeDZtc0kxWlBNbzhidjBxanlUeGtPVVFzOGFHcjB5VzM1MXpXYkltd2I1dHktSW1lODJhTXZmaEN5aXhLN2Z6QnJQUkxOd1pLbzdDMHprTk5uY1gwNHhLdGJSOVNKTzI1VXZJdDlIUmk0dG41ZERVNnN2UnlINW02Y3piMVJNNDE1dw?oc=5",
+     "date": "2026-11-22T13:52:00.000Z",
      "text": "Kosten, Plaketten, Termine: Alle Autofahrer-Änderungen 2027 auf einen Blick Autobild.de",
      "via": "Autobild.de"
     },
@@ -1298,18 +1212,18 @@
      "via": "FOCUS online"
     },
     {
+     "title": "Neue Abgasnorm bei Neuwagen: Das müssen Salzburgs Autofahrer über Euro-7 wissen - salzburg24",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUd2aFQ2bjR1ZTY2anpGQUFueHhwRF9uZi1TSnh2amhHV3hDdlNBTVAyTXlJVF8tTzN2YVpxQ3kyQ1BSZWFXbHhiT09pTXN1RGxVVHh2d2N4Z1BUbTY2OEx3clhzNFN3M1ZKTUdPekJuQ2wxTHZuTERfZmJBNnp5ZG5NaG9VUDhoUm5pYUI3cG80MFJReXFDZUxBNkF4TTdSMXAwWTJoOF9yUmlzal9jVy01a25OcDM5OHNmN1Q4ZjNvSmVTc2pONWQwNA?oc=5",
+     "date": "2026-11-23T11:44:00.000Z",
+     "text": "Neue Abgasnorm bei Neuwagen: Das müssen Salzburgs Autofahrer über Euro-7 wissen salzburg24",
+     "via": "salzburg24"
+    },
+    {
      "title": "Das müssen Lenker wissen – Vignette, Maut, Strafen – neue Regeln für Autofahrer - Heute",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbmN4cWhfMHFHc1g2QWVsdjBHbUVyamtUV1FONHYyUW9EWHlqUXhNSG9sTmZ4b041TEpDRlhjRFZEc1dpYnZUVzUwOWRlZTRKWWN6cXhJUzhyT1dNc0JIdzhlNkVRUUdGZC13VktRd042eHA5NC1oVWp1YTNfX3hTMlVTdXdrQmsxaEE?oc=5",
      "date": "2026-11-21T10:16:00.000Z",
      "text": "Das müssen Lenker wissen – Vignette, Maut, Strafen – neue Regeln für Autofahrer Heute",
      "via": "Heute"
-    },
-    {
-     "title": "Keine Toleranzfrist mehr beim Pickerl: Welche neuen Regeln bald für Autofahrer gelten - Salzburger Nachrichten",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajdyTTFsWWczSU93WjZzc2FSN050b18xejE0RU5KRm9JQ2YwdHhqMzVJV0NPaWdybEJlMGFDcG84UkV4OTNhaWpjSjFWbXJpdVRBeXgxaTVNZkotZTVMU3l4b3VpOTdCbWxxUnJKZXp3WEFvMnN4M0k3ajRkLWFZS3FXYXQ2V3VkX1pzaS1MbXRrUTA2YnY1TUxSa3o2dG5HZDdRUzNuVWhKYkc2aE1ZNHlEVWNsY0pzSTEzVWdpZGNGanNxb3JfWkZJdU5VT0Nj?oc=5",
-     "date": "2026-11-22T12:45:00.000Z",
-     "text": "Keine Toleranzfrist mehr beim Pickerl: Welche neuen Regeln bald für Autofahrer gelten Salzburger Nachrichten",
-     "via": "Salzburger Nachrichten"
     }
    ]
   },
@@ -1325,11 +1239,18 @@
      "via": "NDR.de"
     },
     {
-     "title": "Der Gebrauchtwagenmarkt für Elektroautos wächst in der Türkei laut ODMD um 55,1 Prozent - Foro3D",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXBiVDJDajdxZndrZzVqU1I2LW1VYnl1bGRIbUdaTnJHR3dTRzJjN0c2eHpKeW50UzF4ZGJ2TGQ3WVBUZnhHcTBVYnhXOU0wWHhYRlhTS3dYWjFnQjFfQTAtT3R3R2xLMVJKbm03NG1kcm9uVmptNlp5NjZTNEd3S2NLSjBtWXB4TVFsdGc3STZXanl1bjF6TkFLTVhMN1I5TlNIeTgteTF5dw?oc=5",
-     "date": "2026-11-22T22:32:33.000Z",
-     "text": "Der Gebrauchtwagenmarkt für Elektroautos wächst in der Türkei laut ODMD um 55,1 Prozent Foro3D",
-     "via": "Foro3D"
+     "title": "Cómo elegir un SUV-B urbano por menos de 25.000 euros en 2026: consumo, equipamiento y valor residual - Highmotor",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ0hEYmd2QWVWV1lqbDd0S1VzNVpmMzZKZ3BDelBIa01ITy1BTmFGYm12MlVoQlNCVTlHdzd5dDNIa0xQc0o3LUEtZjdMV2xmOFJ2QXJaRjhhbnpjUGpiMGNzTkltbTBVNm1fV1NmZDNjSUxITHZVTXQ2MmVIQURKMWhXaExHSENieUw5dFZyZEtIRWhLNHhzTVJPQ2NmckprbmVYdVo1RjdnZEI1bFo3QUxqeVI2ZDNLVXF0TnE1eGhPdHU3VEFYMnU4a09UWURVa1E?oc=5",
+     "date": "2026-11-21T18:02:27.000Z",
+     "text": "Cómo elegir un SUV-B urbano por menos de 25.000 euros en 2026: consumo, equipamiento y valor residual Highmotor",
+     "via": "Highmotor"
+    },
+    {
+     "title": "Thanh Hoa: Der Gebrauchtwagenmarkt bleibt zum Jahresende hin träge. - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV094Vkx2VV9lSXNHaGFTb2llTVpNOFZWU1JzeGhGV0c5ZmJNYkk0ekcyaFA0cmhmRGtFYmItUXowU3NMZTVVNXZFSzVkTzd0TzFjZDBPTDFnc2w2MHJCOHpaQ1FzZDlVbGNQczJySWRpcklYU2MycVFzbzRUQ0hkTlcyYw?oc=5",
+     "date": "2026-11-23T11:19:39.000Z",
+     "text": "Thanh Hoa: Der Gebrauchtwagenmarkt bleibt zum Jahresende hin träge. Vietnam.vn",
+     "via": "Vietnam.vn"
     }
    ]
   },
@@ -1345,11 +1266,11 @@
      "via": "Porsche Newsroom"
     },
     {
-     "title": "El Porsche 911 Turbo S se verá en el Salón de Ginebra - Highmotor",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkxXdjE2VkdZV09EZjF0M2JmaUhsOW4zbm1mVWJQbmMzaVJfaG44dHZLYjBxaDZmWG1ra2tDSnZhSUhHU2hiZGZsYjNSQmU4WkdQT1ZiN1hZTWhsSDF0ZF9SckVwbWJNWFp0Vmw3czRyTlhCYXF6NmNxUDg1cnZDWmpYcmFVazREcVhjbmdKNUdQWG84MmdTOHNpX3IwcGVJN3ZV?oc=5",
-     "date": "2026-11-22T08:20:12.000Z",
-     "text": "El Porsche 911 Turbo S se verá en el Salón de Ginebra Highmotor",
-     "via": "Highmotor"
+     "title": "435 PS und leichter als ein Porsche 911: Chinas Elektro-Roadster SC01 bekommt eigene Fabrik in Europa - Netzwelt",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2RMbklpMExCQnBTV0N3WDFRblhYRTUyV1Z2d3pjMjA2d2J0dVpETlZHMWp2bllrUUFJSE43MDV6MnBEWXdnRFZHb0VoaVZWSzdNa2RqQzFSX0FMS2FYOUlfZUlDeEVrY21PQk1CenZ0ek9jS1VjNjlSTEZXY2hMeXFmZkVPZE9QZEdLNWN4bjBXRGpkQnBxbmVwejAxdVU2bTRNbUhPb29ldUV1ZzIwUkxfZ09qUFZGSmtrTUxuTDh0Nk95?oc=5",
+     "date": "2026-11-23T16:02:26.000Z",
+     "text": "435 PS und leichter als ein Porsche 911: Chinas Elektro-Roadster SC01 bekommt eigene Fabrik in Europa Netzwelt",
+     "via": "Netzwelt"
     }
    ]
   },
@@ -1359,11 +1280,11 @@
    "ok": true,
    "items": [
     {
-     "title": "Comeback des Toyota S-FR als kompakter Sportwagen mit Heckantrieb - Motorsport-Total.com",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWxaVHFyN242Wkc0ekFxSDZRd2NPLXE4YVVHaW93T0RDLV9WaFVzVnBIamh1ZXUwN0lwd09Ma09vTHltOEFHUXJhaXpHeEMxLV93RVhRUkFKOEp6N0V4d2F2YXg4MUFhSFBtX0lCZzMwek1XVElzVDhGQUNMQ2ROS3RhRVhVTVdtUkJZMHdXNXBBNEk1UTcwX2hRSEY4WnVCdldMQXd4WU1NV0tRMzdqa0lJRjROQzR4?oc=5",
-     "date": "2026-11-23T07:14:04.000Z",
-     "text": "Comeback des Toyota S-FR als kompakter Sportwagen mit Heckantrieb Motorsport-Total.com",
-     "via": "Motorsport-Total.com"
+     "title": "Heroldsberg: Cobra 427 verunglückt: Seltener Sportwagen im Graben - wochenklick.de",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWhKVVBOTlVCaEJNMVV4TEpGQnE0N0VKY0xPR0pGY2VFUG5SZ2IxZ2J0dFU0TmlHRzFkbmx3ZHdHTk8zR3BSdUxqc1lxWV9KcXUzT0tWZjF4OTBCLUFGbnJ3R3B3WV82YXJwczZQMnFiVThWVWdzWi1zdVlHQS1sSDhFQ3pmYjBRRkxFeVVn?oc=5",
+     "date": "2026-11-23T10:15:33.000Z",
+     "text": "Heroldsberg: Cobra 427 verunglückt: Seltener Sportwagen im Graben wochenklick.de",
+     "via": "wochenklick.de"
     },
     {
      "title": "Skispringen: Domen Prevc – „Sportwagen, Reiten, Hubschrauber – all das lässt mich lebendig fühlen“ - WELT",
@@ -1373,11 +1294,11 @@
      "via": "WELT"
     },
     {
-     "title": "A28 bei Hude: Fahrer gerät ins Schleudern – Sportwagen abgeschleppt - Weser Kurier",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVHUzNXRFZURUN2pWdTMtOVZjZS1oV0JXaEJBVDc5ZkUwaklLbzV2anF6Q3lEYXRvWm13NWxheWVsTHlRUEtFdEZpMzVUR2dfWHd2cHRfSGtMYTZLUGlESGRCN1RfZ3NqVVRRUm9xd0RiZnR1cDhWTlBRSXlUUE5JYWZ1S1QzNFhoR3BtT2xpMGFBaEE4WE5yVWV0c0hlc1hyd0tzVXNzSU1HYWZfb0hjUzE4dVgxU2FKaWJOU3dTYlpDVnV4eEtxQ2xzYlAwTU1nZXc?oc=5",
-     "date": "2026-11-23T09:56:00.000Z",
-     "text": "A28 bei Hude: Fahrer gerät ins Schleudern – Sportwagen abgeschleppt Weser Kurier",
-     "via": "Weser Kurier"
+     "title": "El superdeportivo Zerouno llega al Salón de Ginebra y lo vamos a ver en vídeo - Highmotor",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVks1Y2g3SVlpVXhhVFo2bmh2VGxESXlUSHNPNXZmS3ZlWWtlUFNCRXNCOVFOQmZnVy1LWmFfQlRtSGRjOGdwcGNjQlJXNmhta3VvQ1FKVjl2UmRxXzBsLUg0UWVEbWNTS01wUkQyX2U2TmNEY0ozMTNvTnAwMTh0dUtQRG1UcEVtSFUzanFTbzNVX1QtemtmWGgtTjROeFpXdFVwMTdLYlFkdjdMNWt1OFd6eWNGMDVYTThvckM4X0FiYUlLU243cGExQkxCM1JUQVpHV2tHc2poWWNlSDJkeg?oc=5",
+     "date": "2026-11-23T18:30:05.000Z",
+     "text": "El superdeportivo Zerouno llega al Salón de Ginebra y lo vamos a ver en vídeo Highmotor",
+     "via": "Highmotor"
     },
     {
      "title": "In GTA 6 gibt es Paul Walkers Auto - Hier findet ihr den legendären Fast and Furious-Sportwagen - GamePro",
@@ -1387,11 +1308,18 @@
      "via": "GamePro"
     },
     {
-     "title": "Reh ausgewichen: Sportwagen gegen Baum - tirol.ORF.at",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JbGZRVGZIbWJFZnJVeGJLZWJ2cy1lMzZnWkRpd3ZheGZYRVY3c0FyTGNoUDhrQnF6SnVZVm5nRVMzWHdmMEtPSjI0UHE1UQ?oc=5",
-     "date": "2026-11-23T05:54:48.000Z",
-     "text": "Reh ausgewichen: Sportwagen gegen Baum tirol.ORF.at",
-     "via": "tirol.ORF.at"
+     "title": "Elektrischer Sportwagen SC01 wird künftig in Italien gebaut - Elektroauto-News",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOUWtaQzNNczhtVkI3WDZpNDJIekxKazhlenh6V2pBSVlQRURjeHJLQXhjcHBxeHNBZ0F5ZU95SkZPSEV2RGxPTGNBYVVIa1EwV2xERHI5Mmk5R2hXeU1jaklJMG9PdzRhNC1iUFk0RURjQjlGbVlYYlIwZw?oc=5",
+     "date": "2026-11-21T04:34:51.000Z",
+     "text": "Elektrischer Sportwagen SC01 wird künftig in Italien gebaut Elektroauto-News",
+     "via": "Elektroauto-News"
+    },
+    {
+     "title": "A28 bei Hude: Fahrer gerät ins Schleudern – Sportwagen abgeschleppt - Weser Kurier",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVHUzNXRFZURUN2pWdTMtOVZjZS1oV0JXaEJBVDc5ZkUwaklLbzV2anF6Q3lEYXRvWm13NWxheWVsTHlRUEtFdEZpMzVUR2dfWHd2cHRfSGtMYTZLUGlESGRCN1RfZ3NqVVRRUm9xd0RiZnR1cDhWTlBRSXlUUE5JYWZ1S1QzNFhoR3BtT2xpMGFBaEE4WE5yVWV0c0hlc1hyd0tzVXNzSU1HYWZfb0hjUzE4dVgxU2FKaWJOU3dTYlpDVnV4eEtxQ2xzYlAwTU1nZXc?oc=5",
+     "date": "2026-11-23T09:56:00.000Z",
+     "text": "A28 bei Hude: Fahrer gerät ins Schleudern – Sportwagen abgeschleppt Weser Kurier",
+     "via": "Weser Kurier"
     },
     {
      "title": "GTA 6: Fundort der Garage für Sportwagen Growler - giga.de",
@@ -1401,60 +1329,25 @@
      "via": "giga.de"
     },
     {
-     "title": "Elektrischer Sportwagen SC01 wird künftig in Italien gebaut - Elektroauto-News",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOUWtaQzNNczhtVkI3WDZpNDJIekxKazhlenh6V2pBSVlQRURjeHJLQXhjcHBxeHNBZ0F5ZU95SkZPSEV2RGxPTGNBYVVIa1EwV2xERHI5Mmk5R2hXeU1jaklJMG9PdzRhNC1iUFk0RURjQjlGbVlYYlIwZw?oc=5",
-     "date": "2026-11-21T04:34:51.000Z",
-     "text": "Elektrischer Sportwagen SC01 wird künftig in Italien gebaut Elektroauto-News",
-     "via": "Elektroauto-News"
+     "title": "Reh ausgewichen: Sportwagen gegen Baum - tirol.ORF.at",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JbGZRVGZIbWJFZnJVeGJLZWJ2cy1lMzZnWkRpd3ZheGZYRVY3c0FyTGNoUDhrQnF6SnVZVm5nRVMzWHdmMEtPSjI0UHE1UQ?oc=5",
+     "date": "2026-11-23T05:54:48.000Z",
+     "text": "Reh ausgewichen: Sportwagen gegen Baum tirol.ORF.at",
+     "via": "tirol.ORF.at"
     },
     {
-     "title": "Peugeots Konzernmutter zieht den Le-Mans-Stecker - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMG8tU1JZdW9DQjlGNk8xallfbHB5RlgyTjZxUGlpUU5aaHNaclo4VWJlMzFJMm44VmlIczl2djI0d3JsczctQmlqdmVib1g0NzU5Yzl5LUR6OE1HamRPa1V1SDZndXpiOXZWdVFydnE2SW54blYtME1ES1NpTUNnbFhYcDlmSlg4dlE?oc=5",
-     "date": "2026-11-20T12:37:05.000Z",
-     "text": "Peugeots Konzernmutter zieht den Le-Mans-Stecker Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
+     "title": "Comeback des Toyota S-FR als kompakter Sportwagen mit Heckantrieb - Motorsport-Total.com",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWxaVHFyN242Wkc0ekFxSDZRd2NPLXE4YVVHaW93T0RDLV9WaFVzVnBIamh1ZXUwN0lwd09Ma09vTHltOEFHUXJhaXpHeEMxLV93RVhRUkFKOEp6N0V4d2F2YXg4MUFhSFBtX0lCZzMwek1XVElzVDhGQUNMQ2ROS3RhRVhVTVdtUkJZMHdXNXBBNEk1UTcwX2hRSEY4WnVCdldMQXd4WU1NV0tRMzdqa0lJRjROQzR4?oc=5",
+     "date": "2026-11-23T07:14:04.000Z",
+     "text": "Comeback des Toyota S-FR als kompakter Sportwagen mit Heckantrieb Motorsport-Total.com",
+     "via": "Motorsport-Total.com"
     },
     {
-     "title": "Unterm Hammer: Mercedes versteigert berühmten Supersportwagen zum Wahnsinnspreis - T-Online",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzBqZ3k5emdvVWs1T1V4WjdaRjdmTlVIcjNlTlBoQ3pXZTZTaDlNMlFnUUNtb3p5T3VlTnh2LXRHODF2UC1aRGh4eEgzY25XQVFKeEhWQzVFeDI4Q1VlRDhFc0dxaDczUFdzNngyNkRZOG1ldjA5R19SSHhCOVJnLV9VRlJEZmNBYXZlV0oxaVVFc1plWU9Sbk4zQ2FmSUZtWExTZV9TY0ZMR0RZWE8wX042VjVtV283YTljTGRaYVNsQQ?oc=5",
-     "date": "2026-11-20T07:47:40.000Z",
-     "text": "Unterm Hammer: Mercedes versteigert berühmten Supersportwagen zum Wahnsinnspreis T-Online",
-     "via": "T-Online"
-    },
-    {
-     "title": "Was wäre, wenn Koenigsegg einen Offroad-Sportwagen im Stil des Lamborghini Sterrato hätte? - Motor1.com Deutschland",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaDNXZURaYnctRFJWMmxwSFNPSUNyYWRpUVc2TlJlYlI4bnJLMVE5MVA2YnZXQzB6aFppZ0ZZeF9kZ3dwa3J6eUhmVml4M0FGaDQydk5EX0cxWGNnWGh5aVBrOGFfZUtyNW1PbjNIU1VlcWJWeW1QR3pyWDN4SFdlVnZ6VQ?oc=5",
-     "date": "2026-11-20T16:44:00.000Z",
-     "text": "Was wäre, wenn Koenigsegg einen Offroad-Sportwagen im Stil des Lamborghini Sterrato hätte? Motor1.com Deutschland",
-     "via": "Motor1.com Deutschland"
-    },
-    {
-     "title": "Mit Tempo 119 durch Rendsburg: Raser mit Sportwagen in 50er-Zone unterwegs - Kieler Nachrichten",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdllSaUZfc0tKeFhCa1lnVDBfYkdfbDFVNjA0b2JOS2gweW9ld2hvd1lLckxPU09LaV9md0JBcGJVVE5pTnlBMWtsR25LeEYxRW1icDhFREc4cnItdzJxYkRXQjNabkdIc29NYzhYTkR3amFNd1I0cmRxQU1seFJldGVERldXLWs2akFSQUhjOXVtdk1iYU1lZmgyMHlyM1pBd3N6X3pDZllYQ29pcl82c3ZoVWJwMVNBOWlrSDdSTWJwTkdQeERLU1hEY2doQjFlVmc5NDNJMXhldVJfUlNvamt1anc4MWthbU43cVpobk1KY0nSAY8CQVVfeXFMUHNZQ09TU2hPZGFEd0d0c0J5X0FQa2dZR2l6VEM5RG9nVUU5WGhhUy1qZEN4VTNmbjNfMk1KWWQzWWVQby0wcm1ObUxsbUFtUFg4cTczUmd4UldSckFvQmlRamdzamQzcEVManNLbWJaMkZMVmpKYm9aN3l6dVNGWVRweU1jWWdCMHQtSlAxT3FCdHBHZkdkV3BGMXctbkQ4RkZSY21nMmUyajRoRGM2ZVpVdDh1TXNLOEprSTQzdlNBV09YYU13RTlYVzZMTEd2cE5VTndPa1FiM3dSRE5vbHhFdXkxYnNPODVGdU1NRzEwb2QxT0Nma01uT2kyaFN3dzdhU3pIbVNpb0JjSnhHWQ?oc=5",
-     "date": "2026-11-20T09:28:15.000Z",
-     "text": "Mit Tempo 119 durch Rendsburg: Raser mit Sportwagen in 50er-Zone unterwegs Kieler Nachrichten",
-     "via": "Kieler Nachrichten"
-    },
-    {
-     "title": "Lamborghini Temerario Spyder: 920 PS im offenen Sportwagen - BILD",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlNtc3c1aUhiNUYxNGt4bVZzZUdQeVF5T2FvQ2dqUmREVTFHVE1pRXh0R1RMbkpFVWdmbm9BYkZlbmU0aERIZmZaTnV3dFhUVVR1bmY4VkVtV1NINEpsMmtKd1J5emFIV3NWbkFCdzNaQXJqbkoyYnNESnRROTBtT2h1M1hub3VnR0JQd21UMzdOM1ZtbzEzSnZRb0twZ3F2QVB5clBER2x3Y0pfRDJOSXNVbG85Q0JQb1lSdQ?oc=5",
-     "date": "2026-11-20T12:27:04.000Z",
-     "text": "Lamborghini Temerario Spyder: 920 PS im offenen Sportwagen BILD",
-     "via": "BILD"
-    },
-    {
-     "title": "Vorne Sportwagen und hinten Kinderwagen: Cupras 333-PS-Kombi bringt die ganze Familie auf Tempo - Netzwelt",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTkMyc2JPUGdqeEt6aFREUGlzS1J2ZkZCQXdramxZX0Q1bW5fcUNWYlJJZEhpMUhuc0pUdUZXaC11OTNDQm5DNWF0cVQ2RWFKRDZTT0ptX1BVLVpyY1piNHpYZkVCVHhKVk1kU3dvcURaeDNMUFA3U0s0V3c5LTZONkJR?oc=5",
-     "date": "2026-11-20T17:30:00.000Z",
-     "text": "Vorne Sportwagen und hinten Kinderwagen: Cupras 333-PS-Kombi bringt die ganze Familie auf Tempo Netzwelt",
-     "via": "Netzwelt"
-    },
-    {
-     "title": "Tragischer Unfall mit Aston Martin im Starkregen - T-Online",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa2tJdUZGSG9GUnBRcWNQcnJrOGlmMm9JcVBWQk0yekJrZm5yc3lKY3BTMW5lZlZfQ3NCM2drdUxtd2xHOHVNMGFUUE02eXZLbm4xMnhrTkxxb2lWalYySEVuWV9qNU9CNlluMUttdDBta1Y3UGVDb21HN3V1aGVyb0g0NUVPVTVGN25hWmFHVTlydTh0Q3UteHhFbk9UeVZtOTRXVHh4VUpCdU1lTXNtVUd1d19MY2lMZGJfd2wwYVZIenRHNlVSQmFzS0VtMmM5eXc?oc=5",
-     "date": "2026-11-20T06:52:50.000Z",
-     "text": "Tragischer Unfall mit Aston Martin im Starkregen T-Online",
-     "via": "T-Online"
+     "title": "El Nissan GT-R de nueva generación será anticipado por un prototipo - Highmotor",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUEJ0NGxBWDJLQkFLaW84RjFwSjA3Ui1ET3I1Q2YwamxCYkVDUTdrOEFpVEpoN3llR2N1Wk1FZ1FEcml1RnFISFFNVGlxaXFoakt6ZENRN1BJRzNSM0FDcG9ORWhvU1JBRVZxam1RcVFiWEZNbXZEQTRJNk1JZTdHbEM3SjlFZThCVlZEbDJvN25UREdMUlRFOVhUblBuLWhlV3hyUGgyV1FPcS1qTFZzR0RnTlJmOHV1Z0E?oc=5",
+     "date": "2026-11-23T08:44:15.000Z",
+     "text": "El Nissan GT-R de nueva generación será anticipado por un prototipo Highmotor",
+     "via": "Highmotor"
     },
     {
      "title": "Fahrzeug ist Schrott - Reh auf Straße: Sportwagen krachte frontal in Baum - Kronen Zeitung",
@@ -1464,18 +1357,11 @@
      "via": "Kronen Zeitung"
     },
     {
-     "title": "Mercedes-AMG Concept AMG GT Track Sport, el prototipo que anticipa un nuevo superdeportivo en la familia AMG GT - Highmotor",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaTZ6bkZHcDRZNXFOT3JIbVhuaVBhak1ONGFkVVBjTElXTmRhV3lTYm52UjhfX21FcFo1WjJOUFE2UXlxeEV1NXVYZER0S2tHWTFrc1hab0EyYndmV1c5UEIwMS1CLUozWlVlbVpScGdoZFhaaVdQam9hNzQ5TFY5Y2dRRjlGcDBqSjdkS3VxaVJWcXpzeS01d1dpYVBOelZCZ3FIT0xQREdDQ3kxUTNwSEVDSEtOUDZHSHBLS2cwSkFlR09xcGtoOXZEMjN0bnNwU0ZJelpiR3pqSkVLRXMtM1RZQlc0UGNNd3hadVVB?oc=5",
-     "date": "2026-11-21T11:13:15.000Z",
-     "text": "Mercedes-AMG Concept AMG GT Track Sport, el prototipo que anticipa un nuevo superdeportivo en la familia AMG GT Highmotor",
-     "via": "Highmotor"
-    },
-    {
-     "title": "Der neue Temerario Spyder: Lamborghini ohne Dach - https://autopresse.at/",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zSk1Iekl2TEV6MWpRYWxmSnFlbEh6b3Fqd1NTVTJxNmNMSHpqTkt3eTJOSFlpMl8zeHUteU5neFU5aFlxMjZiRnNmLTZkVHZmVzhmS1BvbmplVUZkRFdnLVEyX21xazJtcVdOTWpsVXNWQ0dndENBYVhB?oc=5",
-     "date": "2026-11-22T03:47:29.000Z",
-     "text": "Der neue Temerario Spyder: Lamborghini ohne Dach https://autopresse.at/",
-     "via": "https://autopresse.at/"
+     "title": "Kévin Estre verstärkt Toyota Gazoo Racing im Hypercar-Aufgebot - Il Messaggero",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0FsQTR3M3lOenJOaFFzQi1qaEZ3YWJIWFEwUXVWSmFsdGlCbDJtQkUxYnpoVm9ZUW44dGNoT1BZTjNkenNsYWdiaXY2bmxmQ2RYd1drUDNXdjVXdDlLWm84Q25VOEQweFRiLUpQcUJ3TDhKWjBLRzg2a3JsdEpPeUhqanp4aG9wRFBPem9LMU1VNHh3STVyb1RmcjBFWmY4QmU4UmE5NVI1UdIBrwFBVV95cUxNb3M2cnRGSndaVnVSU0xfdWRjODhaUVlPQ3I0bHpEVW5peFpubUJIbUJHaThXQ281eTVmZklnZWgtU1J6VndMZHVLWXZlYzF2T2ZLSlFJZHdRM1k0ZndxclRQTHdSQjZJU0lpLTdpMmRIS1FiLWFqcVpDVVVYN0tjbUNfVVpHbFN2TGthRUZCcTVWTUdtcGtQLWd3d2diNlRISXJrWFlqMW0tam82ajFv?oc=5",
+     "date": "2026-11-23T13:01:19.000Z",
+     "text": "Kévin Estre verstärkt Toyota Gazoo Racing im Hypercar-Aufgebot Il Messaggero",
+     "via": "Il Messaggero"
     },
     {
      "title": "Sportwagen kracht in Lkw – Aston-Martin-Crash: Vater tot, Baby schwer verletzt - Heute",
@@ -1492,11 +1378,11 @@
      "via": "ItalPassion"
     },
     {
-     "title": "GTA 6 Autos: 9 kostenlose Sportwagen und ihre Fundorte in Leonida - MMOEXP",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzltYUVNYThpN0x4OUJDNGpIbDNKR2Fka3JOSkZid1lFTzRHWkI3SG50X2w4V1djQktPaUJNQkU3cmtaM2hzSWp1VDBMdnQtQUlFWGJqVjZsNmZRQ2RzZ0RYMG00enV6djBWTWJlTGRLc25VX3VuaVd0NHRNYTZYXzJqcGRLbUZvd1psbXM5TFNfT1BZSWxUOWFqSUk2UQ?oc=5",
-     "date": "2026-11-21T02:58:44.000Z",
-     "text": "GTA 6 Autos: 9 kostenlose Sportwagen und ihre Fundorte in Leonida MMOEXP",
-     "via": "MMOEXP"
+     "title": "Luxusvilla gestürmt: Supersportwagen beschlagnahmt - Wochenblitz",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ3h1R29RQ2NoeHlicjB0QlBEZ3djTkhORmJLbGxaM01yTTMtMGZvTEZKNTUzZ2Z4WF9WbmMwcnlxWElIWUU0X1JXYnJ0RHgxNW5QeklhSzUxQzdrZ0RtRXZOck9oOVNZNWtUUHYzTjRfOXgxbmFCVFhSQkxYZzZLV3d3QmoxQQ?oc=5",
+     "date": "2026-11-23T23:40:00.000Z",
+     "text": "Luxusvilla gestürmt: Supersportwagen beschlagnahmt Wochenblitz",
+     "via": "Wochenblitz"
     }
    ]
   },
@@ -1506,60 +1392,60 @@
    "ok": true,
    "items": [
     {
-     "title": "Marseille - Le Mans: Tor zum 2:3 durch Vercruysse in der 90.+5 Minute | Match-Clip Ligue 1 | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSElHckMzUW93MWdPSXNLVnk4U2U5blVWYkV2bVprbGI5dW0ycjlQZk5hbktDcnNCbTRhQmZTa1hOWE1NNXRMLVdwOEU0eDdDVERhczcwUjBiYTljb0FhM1BuQTVkejFsYUJ5SVFjMVh1UzdXNDR1WGpvU1VOVk1qVm9DNnFrbjE0VDlLQzlMWU5zOVNCUFpVa1g2VmNjMVc5SEhN?oc=5",
-     "date": "2026-11-22T21:44:51.000Z",
-     "text": "Marseille - Le Mans: Tor zum 2:3 durch Vercruysse in der 90.+5 Minute | Match-Clip Ligue 1 | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Aufstellung Olympique Marseille - Le Mans FC 2:3 | 11. Spieltag, Ligue 1 2026/2027 - sport.de",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2F6Q1U0RGRVcjlSQWNvaWdoTDJGdHd5d2h4V2pBdFpnSW9CUk9NWEt5NTNxNTNYbmFDNFdwWDZ4cXFtQnVxYTgtcHNQLU1hV1RUSzJhTExXRDgwX1VzY0k3UzFqNjBBRkpyTlpQLU5yY2NZZ2VIR2F4Z01MbHZ6TXdiWHB3Qk1LMmI3RmRodERta1hzQTZOU1NNRDBkT3lhOV9fNUx3?oc=5",
-     "date": "2026-11-22T19:45:00.000Z",
-     "text": "Aufstellung Olympique Marseille - Le Mans FC 2:3 | 11. Spieltag, Ligue 1 2026/2027 sport.de",
-     "via": "sport.de"
-    },
-    {
-     "title": "Höjbjerg fehlt im Kader von Marseille gegen Le Mans - Tu Futbolero",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVM0Z0U0MGdnaHlDYmRlTEZYUDZFa3NvOThqVnBDakJBTDBnWUMtcklvWTRrYmRuX0U5bzVwb1VXYmZfZU94NFpVRUtROFVUQW9LMm5Db1RTSUJqYmNJWGE2cFExUTlkcWpLa3IzazFVcTBmc2VTajd0R3lYcWJYMmRDcjJGU3Z2bmRIZkVfcmxfWTZUVmh0bVdrQldQemltbmdJ?oc=5",
-     "date": "2026-11-22T20:01:34.000Z",
-     "text": "Höjbjerg fehlt im Kader von Marseille gegen Le Mans Tu Futbolero",
-     "via": "Tu Futbolero"
-    },
-    {
-     "title": "Marseille gegen Le Mans heute live sehen: Wer überträgt das Spiel im TV und Livestream? - Goal.com",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNFpTS2FYMzI1cnpsNFVqQTlxWm1TeFNUSXpvQ1pRUThMY1ZsWTdLNDBqcVBrQk02RnhHQkl3V1JKc3o2Q1lHOFhpX252ZlptRVZIc3hzSmhqU0F2VzJTbVVpc0lROFlYSnVvNTlRa2tCM2hCcE1FT3duYVlHMXpRR3ZmcnhFdHFQeHRZU25LUGh1RTdsdXBiWWc4akhHQkNxckNPdTFkU0hJcnM1d2t2NlBYcy1DS0VlSkdIM2ZVdkdjQnloVnpySnV0TG1hWENUMVVNbHVBMGw?oc=5",
-     "date": "2026-11-22T18:50:16.000Z",
-     "text": "Marseille gegen Le Mans heute live sehen: Wer überträgt das Spiel im TV und Livestream? Goal.com",
-     "via": "Goal.com"
-    },
-    {
-     "title": "MAR - LEM | Olympique Marseille gegen Le Mans FC 22/11/2026, Aufstellungen - Flashscore.de | Spiel - Ergebnisse",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObUQ2Mlo3THBKdm5GQnpKRW1YLTJnSlpQSnN0UnZKRTBLVjVlVklfbGJ2aGVMZVBTRlRSSjA5bmxDS185dk9YRmp1ZG4tU2REVWJDQ3hEcll0b0ZCR0RxUGt1ejd5LU41dlBrLTByeFU3dER4bkhXVkxjOTRhUGRYS2JGMWRiVmVUdVpCR1EtMEdDdF9MT2N5bW1nTTk0LUx5TklzTW03S3FtR29qbk5JRmZVSE0?oc=5",
-     "date": "2026-11-22T19:12:49.000Z",
-     "text": "MAR - LEM | Olympique Marseille gegen Le Mans FC 22/11/2026, Aufstellungen - Flashscore.de | Spiel Ergebnisse",
-     "via": "Ergebnisse"
-    },
-    {
-     "title": "Peugeots Konzernmutter zieht den Le-Mans-Stecker - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMG8tU1JZdW9DQjlGNk8xallfbHB5RlgyTjZxUGlpUU5aaHNaclo4VWJlMzFJMm44VmlIczl2djI0d3JsczctQmlqdmVib1g0NzU5Yzl5LUR6OE1HamRPa1V1SDZndXpiOXZWdVFydnE2SW54blYtME1ES1NpTUNnbFhYcDlmSlg4dlE?oc=5",
-     "date": "2026-11-20T12:37:05.000Z",
-     "text": "Peugeots Konzernmutter zieht den Le-Mans-Stecker Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Endlich offiziell: Kevin Estre ersetzt Mike Conway bei Toyota - Motorsport-Total.com",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0hwOEJZMkpwYkFMN1RON0l0TUNIdm9Fdkc5dTgxZ0NnMzVMWG1DUTg3S3l2bnB6Qlg5YS1EbDdWTEpWclR0VVNQUFlUakwxVFhWdXpidDlLV0pqMl81R0dkdXZFQ0E0UWhUQnIwRDN3MkNDNzM5VEhGTEVULWtiNW5VR0M0R0x4dmVPZnRtb3hINWNwVTd6UTd5RW92UDdmTjBIckZ0S0RNTnA1SjFnUzVEeUhHaTR6UXotaElmSkdrYzh4bU4xaFNB?oc=5",
-     "date": "2026-11-20T08:00:04.000Z",
-     "text": "Endlich offiziell: Kevin Estre ersetzt Mike Conway bei Toyota Motorsport-Total.com",
+     "title": "DTM-Albtraum, Macau-Märchen: Bleibt Kelvin van der Linde 2027 bei BMW? - Motorsport-Total.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0R4OFpmVElKQ1YzenJ1aWtyNDBoOUpVSGQzTFlyUUtxYmlITnh0a3RVQ0pCZnY3SmtkY2tNMHhUeVp3NmdKSTVDM1BwSUtDaVBWODNLXzNWVmpiYW5KYllfYy00Y1dKYjE3cWtvdXA4YzE2dVpfTEJtMlh5OUJkU2xJMDE0bTNaMVM5ZkJFeHo1czNBRldUcnpUVWhkMWlNMjhrXy1RLXRLRHA3Z1FraVZjMWRwMXVzTHow?oc=5",
+     "date": "2026-11-23T14:03:00.000Z",
+     "text": "DTM-Albtraum, Macau-Märchen: Bleibt Kelvin van der Linde 2027 bei BMW? Motorsport-Total.com",
      "via": "Motorsport-Total.com"
     },
     {
-     "title": "Marseille 2-3 Le Mans: Vercruysse-Treffer in der min. 90+5 - Tu Futbolero",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlZZaEhqM3d0S09PdmZmQWNhN3pTTDczWmJKYjY1R21WVkU1Z3hHbjg4ZEtReUxyS3dhekR2a2ZQeUVVUjF1TFZ5Zk4tTjY0UXZZZXJmODlubjFGN0hJWDNxZGlmRUR6NHAxcEt5UW9ZclBZb0JBZjlKWVZZVU56WEdOTGZfY2pUcDJ1Z2JEU2l1eDJpcVNZdVFzYTRsM0tmTzIwXzJVbE5sUQ?oc=5",
-     "date": "2026-11-22T22:28:08.000Z",
-     "text": "Marseille 2-3 Le Mans: Vercruysse-Treffer in der min. 90+5 Tu Futbolero",
-     "via": "Tu Futbolero"
+     "title": "Stellantis steigt aus der WEC und der Formel E aus - Auto-Medienportal.net",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EcHdya2g0Uy1URko3eWxBNVp2cGJQSWItcWNBbG9acFpWVmRhQzkxR2dydXN3X0F1aU1XWUlOd3ZkR1FVSlVfYlI1RjgzejAyM1owZEVZM3VPeWNLYjE1Z0RIWVI?oc=5",
+     "date": "2026-11-23T15:58:28.000Z",
+     "text": "Stellantis steigt aus der WEC und der Formel E aus Auto-Medienportal.net",
+     "via": "Auto-Medienportal.net"
+    },
+    {
+     "title": "Stellantis-Schock! Peugeot verlässt WEC, Opel verkündet Formel-E-Aus noch vor erstem Rennen - Motorsport-Magazin.com",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLW5SVEx4SmUydmFIWTVRRU5kRVN1MDNTNGhYNllaQVJreV93bGlhcEhuVVNQekt3VWRuZ3dDSDNBM1NmVTZURXA5X1paUXVOa0N0eHA3eS1NVV95ckpGODVuQS1UT0thX2Q0SDkzX0RWWC1ZOW4wM2dPOS1FY1BVbjR3aDAzZTloSUJ1aDdmRDdPakM4M1I2a0c1WjdETUJrVUJnX3pnbURZMGtYTzJFWXphZWZhMGhoWThvUFJPdGU1WUlRNlNhTHhLbXphc3NyM29sdVhXQjZYbXI1ZnpfbTJGS3FxcGZMeHU0?oc=5",
+     "date": "2026-11-23T16:30:00.000Z",
+     "text": "Stellantis-Schock! Peugeot verlässt WEC, Opel verkündet Formel-E-Aus noch vor erstem Rennen Motorsport-Magazin.com",
+     "via": "Motorsport-Magazin.com"
+    },
+    {
+     "title": "Steigt Opel aus der Formel E aus? Ja, nach der Saison 2026/27 – Stellantis beendet seinen Werksmotorsport - Nacionale",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3ZSWUlvOElTTTMta2hVZy14MXg1dkY0RDF5MGdOUmluVVhvTzNYLTVPNE5KblhmT0pMMWdRazFhSTh6dFRITXRqWFNTd1J1VkplR3dqYU9zNmJmTnJ6eWhKNDJTXy1XWkFVMC00aDBoM2I3bEhTOExNaV9Ka3paa3YycHNHNWkzT21kbG4wcmhCMTZiU2x4WlZVeFlZbkpWd2x5U25nTklNT0pDdEthNHlWSQ?oc=5",
+     "date": "2026-11-23T21:48:35.000Z",
+     "text": "Steigt Opel aus der Formel E aus? Ja, nach der Saison 2026/27 – Stellantis beendet seinen Werksmotorsport Nacionale",
+     "via": "Nacionale"
+    },
+    {
+     "title": "Geldfrage: Stellantis streicht den Werksmotorsport - Peugeot verlässt Le Mans, Opel und Citroën die Formel E - Motor1.com Deutschland",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHdvX3ZzTkt2YXdQZXQ5a3QzbGVXa1RldTRkSF9ITUlONVd0OVU2d2UyeE1ELVZiWGtZNUV1dFhyMkdHd0NsM1haRnhPUUtMUHJlMlZ2WlJXVjdoSjZnNGRfRWx2MFo4WmpSZXFvNlZjQ21JcWVPV1ZUdUJjUU50RWZpM2wzdVpDb1A4?oc=5",
+     "date": "2026-11-23T14:58:00.000Z",
+     "text": "Geldfrage: Stellantis streicht den Werksmotorsport - Peugeot verlässt Le Mans, Opel und Citroën die Formel E Motor1.com Deutschland",
+     "via": "Motor1.com Deutschland"
+    },
+    {
+     "title": "Rückzug aus WEC und Formel E: Keine Werksprogramme mehr bei Stellantis - GrenzEcho",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM2lSLWF4RElJODVvQ0wwbkZZM05zajdra1pqNGs5V1kyb1k4V1pUVy1LWEpMeGJ3Tmc4dmhMU1BEYU1fUnBscEJ1dFBhV0JNWTV4NWJJZEpiMF91ZmpicXBscUxFQWV1Z0hlQmY4bDRNWV95Rk9zb0JNY0s2RWc4WWQ0RklPYXRvd2w3VDRPRVl5aHc4ckhJOTZROFJxeEN3QXBxbW1Jb1FMRzJOUExzZERDUGhRMTdvR0hiWUtn?oc=5",
+     "date": "2026-11-23T16:40:29.000Z",
+     "text": "Rückzug aus WEC und Formel E: Keine Werksprogramme mehr bei Stellantis GrenzEcho",
+     "via": "GrenzEcho"
+    },
+    {
+     "title": "Toyota Racing komplettiert Fahreraufgebot für die WEC-Saison 2027, Toyota Deutschland GmbH, Story - lifePR",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWWh3bWZ3MzJ6YzBGWlhuNlhWSUFGWUZaczlrRTI1V2FvMFFMbHY2ejR2SGZkaGt6UU9JLXllMkU4a1RHY1czUno3Z1NBVURPTXFhMkFSck5TNWtFLVRNeFA2b3hPbFNNTzZJVFUtcERubThfQkZoWXRqWnlzV0NkTXZTMy1NZkhKNFp1ZTFILWxCNUJHbHktVmp3SXRQUG9QbWp6VU5qSDBjcjg3UUs5YVladGtvbnBBWmVNUjNNYnNtemRiMk5jamtrVjA?oc=5",
+     "date": "2026-11-23T15:36:00.000Z",
+     "text": "Toyota Racing komplettiert Fahreraufgebot für die WEC-Saison 2027, Toyota Deutschland GmbH, Story lifePR",
+     "via": "lifePR"
+    },
+    {
+     "title": "Thomas Preining: Vom Kart-Talent zum zweifachen DTM-Champion - autorevue.at",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDc2ltWXhXNDBMeUo0WnExZm1HZHotNF9EYVZpV3pZNnBscG5LbC1BbG85dDh1YnBhLVA0YUpON0hJRGY3MVoya3JjUFNHSktic0c0VUx4WlV0NmM1Zk00?oc=5",
+     "date": "2026-11-23T13:11:00.000Z",
+     "text": "Thomas Preining: Vom Kart-Talent zum zweifachen DTM-Champion autorevue.at",
+     "via": "autorevue.at"
     },
     {
      "title": "Video | Olympique Marseille - FC Le Mans 2:3 | 11. Spieltag | Ligue 1 2026/27 - Kicker",
@@ -1569,39 +1455,25 @@
      "via": "Kicker"
     },
     {
+     "title": "Offiziell: Stellantis streicht Aktivitäten im Motorsport, auch die Formel E betroffen! - Motorsport-Total.com",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU01CdUJGODhNUUxfbVdBaFdoODM2d3BYcmlza1p1YkVXR1lVUnJhVGttdDAyY0Rqdm52TXRWRjZLNmw1MGZ2dWpLS1lFbWdGM1dRY0dyUmF5ODJaMktfWEhXbWFreHBBNjFOMkdXS3Y1OU9sdU9EVDZjUjJWM3dGTHBBZVlaT3cyOHluY1JnNG1nOU5pNzd1b1o1OTFEcTVvbWpuRFBjMjhjeERRVkZZTFhUanJJdzQzZkZ4U2xNNEEyZjZackJQMGhaVTAtVHJockMtMndUd0lwak9kcldMSmw2Y0x2REF0MWc?oc=5",
+     "date": "2026-11-23T14:57:47.000Z",
+     "text": "Offiziell: Stellantis streicht Aktivitäten im Motorsport, auch die Formel E betroffen! Motorsport-Total.com",
+     "via": "Motorsport-Total.com"
+    },
+    {
+     "title": "\"Ich weiß es nicht\": Kelvin van der Linde stellt Titelverteidigung in Macau infrage - Motorsport-Total.com",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMno3d2tpZ3BwajdwZU5ObndMV3FKYzBHbGxTb3Q3dmZJd000ZGlvVzdJalBNZnp5VjJ0dVh4QndVWDc2Y1hrM3RVMkFVN0Izc1p5RGI4NjVmN1JucUYwdmFfZEg0cEx1QmRQSUF6MjJaVHYxWVgxem1WSDVYb3hfSV9tYXhyQlRuZTYwYWZQeC1vVFA1dUwxajVnNnNPOFJta2xjMzBpWTdJVnBEcWluNmR0YUNxa1poVXdacDNoakdQMlhrQzl0WE5QU1FTWElRZVIwbW9oUVhkQ2trTVJlbjJLZDlkTmpSQ1ktOTBBcw?oc=5",
+     "date": "2026-11-23T10:20:00.000Z",
+     "text": "\"Ich weiß es nicht\": Kelvin van der Linde stellt Titelverteidigung in Macau infrage Motorsport-Total.com",
+     "via": "Motorsport-Total.com"
+    },
+    {
      "title": "Macau-Crash: Heinrich von Marciello \"tief enttäuscht, aber nicht überrascht\" - Motorsport-Total.com",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYVNyM0MxYzlXdUhlZmVleTZGamxRb1B3MVFULWE1WlRGUlNwUWZhVGlsTVgyRUprSG83SUd1Tl9paThGbk5MbGJEMXNlQ2FzNWxmTHFtc0ZNZmloMlJhLXVreGhpbHR0bW9EMkx6bmJmRjVQT2NrRWhxaXl0V3c2bVh5LVRKVDF5SElnd2VSV0ZtcHVBUzd3dTlmcnJqc0MxRXB4QUJYaWpUSzhPTW9JdWN1cUlRZDJiOEVISXBhWEJ0TWJrVkhZVW1mWVZ5LUVRbHlOZUdfUDJUUlpiS3Y5Zm8wNHRmdw?oc=5",
      "date": "2026-11-22T13:55:01.000Z",
      "text": "Macau-Crash: Heinrich von Marciello \"tief enttäuscht, aber nicht überrascht\" Motorsport-Total.com",
      "via": "Motorsport-Total.com"
-    },
-    {
-     "title": "Spielschema | Olympique Marseille - FC Le Mans 2:3 | 11. Spieltag | Ligue 1 2026/27 - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlOUt6Y2YyeGVWZENoek9PWUdScW5wUjNDTmpYbE1GaFhQanVzVDNDVlBoTDZwYzhyZG0yM004dGM4WTM5S0hvTUk2Q2RhakNnTldBSHJWSjE2YzByT1phOTJQVWJsNkZjZ2RieUs0MEFnOEF3S0lwMXJoZw?oc=5",
-     "date": "2026-11-22T21:42:01.000Z",
-     "text": "Spielschema | Olympique Marseille - FC Le Mans 2:3 | 11. Spieltag | Ligue 1 2026/27 Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "DTM-Kultbolide mit Techniktrick: Klasse-1-Mercedes von 1995 wird versteigert - Motorsport-Total.com",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTzNpZkZVNU4tTXE4OEJ4WmZtcHZpOXhIQ0JkaUVsLUhxYy1GUkNDc1V3aW9iNnZkUHBSbElmb280ZHEyajJLYjVwWlhaYUMtQTdxNTFSODVUZUcyaW55RkwtQ21YQnNTQ1h6blZEaGs1WGhBQU1RV1hxLTJTWTdUOVp6QmU1Wjd5YTV4VlNrejNUX041NFhHZmJuYWlSR21OM0RIVUx1NEJNd2RSZy14a1BhYV9HSkR6c21wanVqaUVJbm00?oc=5",
-     "date": "2026-11-20T07:33:39.000Z",
-     "text": "DTM-Kultbolide mit Techniktrick: Klasse-1-Mercedes von 1995 wird versteigert Motorsport-Total.com",
-     "via": "Motorsport-Total.com"
-    },
-    {
-     "title": "Aufstellung | Olympique Marseille - FC Le Mans 2:3 | 11. Spieltag | Ligue 1 2026/27 - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWk1nSVh6VU9zcU4wZUdUVXZZdDk4UVVrV3Rqa3NzS00yNDQzTmFmNW5fRWthM3lzak5PVTVxNXNCcHFzQ0tmVXdyUF85NDBIM3dnRWtpMmZrQU8yX1FKcEZzUkJTcDkzRkFPRk5lbUV6UlBrcXVkYUMzRzZCdC0wSkRB?oc=5",
-     "date": "2026-11-22T19:39:17.000Z",
-     "text": "Aufstellung | Olympique Marseille - FC Le Mans 2:3 | 11. Spieltag | Ligue 1 2026/27 Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Marseille gegen Le Mans Prognose: Kann die Heimmannschaft ihre Siegesserie ausbauen? - Vietnam.vn",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlljOENmb19sUmY1bUlfTzB0TGk1enZKRFFHd2NHUFdCWG9GZ1JJRmNReEtwZm5OWG56N3VTU1k0ekI0V3N0cXRMWXB4Nzc5SjRjU28zWkZBOFU5YWpVMXFvUmVGeEUzSjJrN2NsQy1hQlBvR0xxZWNPTXZNcFBFWm1ma0VCWlRZWmhmVFV2RnI?oc=5",
-     "date": "2026-11-22T17:32:25.000Z",
-     "text": "Marseille gegen Le Mans Prognose: Kann die Heimmannschaft ihre Siegesserie ausbauen? Vietnam.vn",
-     "via": "Vietnam.vn"
     },
     {
      "title": "FIA-GT-Weltcup Macau 2026: KVDL setzt sich in chaotischem Rennen durch - Motorsport-Total.com",
@@ -1611,11 +1483,11 @@
      "via": "Motorsport-Total.com"
     },
     {
-     "title": "Paris FC - Le Mans Live Stream | Jetzt Anmelden | DAZN DE - DAZN",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmk1dHlSd0pleTBRQndxNmJYU0ZlalJBbHpwUlBUaWVpYTZzXzJvMTdqTlJNYVdvN0VQNlRHSEhEY3ltVlMyMGRua3hpOHB3WGoxQWZRWU4takJhaWhVeW1UNmE2Rl9GMW8wX1pnZWo2NEc4LWlSd2pHOUtQaDJONzdETHY3U1FaTHJN?oc=5",
-     "date": "2026-11-20T19:21:26.000Z",
-     "text": "Paris FC - Le Mans Live Stream | Jetzt Anmelden | DAZN DE DAZN",
-     "via": "DAZN"
+     "title": "Aufstellung Olympique Marseille - Le Mans FC 2:3 | 11. Spieltag, Ligue 1 2026/2027 - sport.de",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2F6Q1U0RGRVcjlSQWNvaWdoTDJGdHd5d2h4V2pBdFpnSW9CUk9NWEt5NTNxNTNYbmFDNFdwWDZ4cXFtQnVxYTgtcHNQLU1hV1RUSzJhTExXRDgwX1VzY0k3UzFqNjBBRkpyTlpQLU5yY2NZZ2VIR2F4Z01MbHZ6TXdiWHB3Qk1LMmI3RmRodERta1hzQTZOU1NNRDBkT3lhOV9fNUx3?oc=5",
+     "date": "2026-11-22T19:45:00.000Z",
+     "text": "Aufstellung Olympique Marseille - Le Mans FC 2:3 | 11. Spieltag, Ligue 1 2026/2027 sport.de",
+     "via": "sport.de"
     },
     {
      "title": "Marciello über Heinrich-Kollision: Denke nicht, dass ich zu aggressiv war - Motorsport-Total.com",
@@ -1625,18 +1497,18 @@
      "via": "Motorsport-Total.com"
     },
     {
-     "title": "FIA-GT-Weltcup Macau 2026: Heinrich fährt im Regen auf Pole - Motorsport-Total.com",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNEJndzBDWDdncm5CZnBNQTJaSWNnWjdnWXdOcmhmcVRxOXM0LTlEblhPQkRzYnRqeXVKc201QUxvSVJlWl9TX0FaSUw3dk5EUWN3UGdmekp0N3hXMHBtRFBsWjdRUDJHQmZsMVJZcDFFNEZQRGhjWG1FdzA3MXZhcWc3ZC14U1hpSlNFWVpTSWdLMTdTUG1WZjJsWGQyZV9mcElpZXVaZ2ZrYTBIRV81bWRzUTd1c0pUcml1cjNwV2MyeWlzd3BSWFRDUUdpZHFkaVE?oc=5",
-     "date": "2026-11-20T09:44:00.000Z",
-     "text": "FIA-GT-Weltcup Macau 2026: Heinrich fährt im Regen auf Pole Motorsport-Total.com",
-     "via": "Motorsport-Total.com"
+     "title": "Stellantis steigt aus WEC und Formel-E-Rennsport aus, um sich auf Strategie für 2030 zu konzentrieren - MarketScreener Schweiz",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONjUxd0R5TEhiUkp0NW5xTU03T0pCdHNvVVEyTlFIQ1hpVGhDbkNTLVlOQmFMeC15N3d0RVBTOWhzcTJJQV9DV0otOEY5N2ZiT2hpdjlaUjJ1NnlKdzlUb3dVNHFZTkZXSWhSd0RvZzVOOGdyQW1VYWF3cURqUGtEcV9sSDkyYkNlblJwbWN6NVBJY21ibVZVSGl0aF80TGZrb2huM2tzd0pxd2d1ZzJMeS1URnFEX0hMWjVFZ1l5UFF2Q2huWXViS2x2QXYyaFB5cktpZXdYRzFoa0NqT01KUnRyUzU1RGoyalJHVHhiRFlEak1XQXNYNXFn?oc=5",
+     "date": "2026-11-23T14:52:42.000Z",
+     "text": "Stellantis steigt aus WEC und Formel-E-Rennsport aus, um sich auf Strategie für 2030 zu konzentrieren MarketScreener Schweiz",
+     "via": "MarketScreener Schweiz"
     },
     {
-     "title": "Ligue 1: Marseille unterliegt Le Mans 2:3 - Nau",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlJNcmNfekZUN2dRNkVoZkQ0eFJJMW9wR1ROeFhsYzRyeEdzYVVGek1KQWxFQjItcHBOZGNNWWFlZl9VUEhuZzdZZlFkS29GM08ydzlVZnF2SHZGOFcyM0RIMERIWHp5QmFJZ0U4YzdPV2otd0dhbVVEVzlmQXBEV1Rva1M2Vkc5d1RPSmk3b1dFd2ls?oc=5",
-     "date": "2026-11-22T19:15:10.000Z",
-     "text": "Ligue 1: Marseille unterliegt Le Mans 2:3 Nau",
-     "via": "Nau"
+     "title": "MAR - LEM | Olympique Marseille gegen Le Mans FC 22/11/2026, Aufstellungen - Flashscore.de | Spiel - Ergebnisse",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObUQ2Mlo3THBKdm5GQnpKRW1YLTJnSlpQSnN0UnZKRTBLVjVlVklfbGJ2aGVMZVBTRlRSSjA5bmxDS185dk9YRmp1ZG4tU2REVWJDQ3hEcll0b0ZCR0RxUGt1ejd5LU41dlBrLTByeFU3dER4bkhXVkxjOTRhUGRYS2JGMWRiVmVUdVpCR1EtMEdDdF9MT2N5bW1nTTk0LUx5TklzTW03S3FtR29qbk5JRmZVSE0?oc=5",
+     "date": "2026-11-22T19:12:49.000Z",
+     "text": "MAR - LEM | Olympique Marseille gegen Le Mans FC 22/11/2026, Aufstellungen - Flashscore.de | Spiel Ergebnisse",
+     "via": "Ergebnisse"
     },
     {
      "title": "Fotostrecke: Startkollision beim FIA-GT-Weltcup in Macau - Motorsport-Total.com",
@@ -1660,25 +1532,32 @@
      "via": "Motorsport-Total.com"
     },
     {
-     "title": "Olympique Marseille - Le Mans FC Wett Tipp & Quoten 22.11.2026 - sport.de",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVUFqRVZtMC1xaXNrSm9zdDd5N3F2TmI4eGdKX3QtR2tpeTg0MDdFXzZpUF9fTTRhYWpra25HX1Q1TU82azZFbkdLYkp2dVhINEZKaTNac0JRUHc2bkwyTjZLdnBCWlM0VU1UUDhucDBFX0xzd0tZOUlwODgxdUJNX3FWVnQ4Zks4aWd3Q0FGLVJGWm04Qk41SW5B?oc=5",
-     "date": "2026-11-21T00:10:18.000Z",
-     "text": "Olympique Marseille - Le Mans FC Wett Tipp & Quoten 22.11.2026 sport.de",
-     "via": "sport.de"
+     "title": "Marseille gegen Le Mans Prognose: Kann die Heimmannschaft ihre Siegesserie ausbauen? - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlljOENmb19sUmY1bUlfTzB0TGk1enZKRFFHd2NHUFdCWG9GZ1JJRmNReEtwZm5OWG56N3VTU1k0ekI0V3N0cXRMWXB4Nzc5SjRjU28zWkZBOFU5YWpVMXFvUmVGeEUzSjJrN2NsQy1hQlBvR0xxZWNPTXZNcFBFWm1ma0VCWlRZWmhmVFV2RnI?oc=5",
+     "date": "2026-11-22T17:32:25.000Z",
+     "text": "Marseille gegen Le Mans Prognose: Kann die Heimmannschaft ihre Siegesserie ausbauen? Vietnam.vn",
+     "via": "Vietnam.vn"
     },
     {
-     "title": "Genesio will Marseilles gute Serie vor Le Mans fortsetzen - Tu Futbolero",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYlhmc3NvOGx0U2dSRU1HRU9FU3ZGS0l2UE1pRmJsN0tGM2wyYmI2WkZkN2g1OGRWaGxJeGJqSTJQbXA3dE9xeC1fUkFhUHlkN19CSWNlR0xsb3VBb0VCWjg2WXl0a2htYm1nN3VQalZTRy1HOFVUdDNtamU0UkhNajRxZHF3Q3pDMFFDbUwwdTJobzY5aUVEVHltR3lkbGdYYWVrdlJUX3FlbFE?oc=5",
-     "date": "2026-11-20T14:32:00.000Z",
-     "text": "Genesio will Marseilles gute Serie vor Le Mans fortsetzen Tu Futbolero",
-     "via": "Tu Futbolero"
+     "title": "Motorsport: European Le Mans Series Staffel 1 Folge 23: Motorsport Le Mans Cup 2026: Season Review - Joyn Österreich",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV05PaU1TaWxnMlg3RUxvc2lMYklJbG83WWs0azhxV1puSXNoU09zOWpyZlByVnJ2M1JscmROR2tfbXA2Unh2MXBwc1hPTE40Q3p0Q09BY0VrNFAyaWs5eVVTWWRUbV9mZExwRWszMHpKbnVNTjZldnZESV83YWNvdy1mSjBpNGc4d3JvQ2VSSGtvZWs3Y1M0NjU3b01iUVpCSUlJb1JIUUtaVmZp?oc=5",
+     "date": "2026-11-22T08:00:00.000Z",
+     "text": "Motorsport: European Le Mans Series Staffel 1 Folge 23: Motorsport Le Mans Cup 2026: Season Review Joyn Österreich",
+     "via": "Joyn Österreich"
     },
     {
-     "title": "Marseille - Le Mans FC - Ligaportal",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ2IyTzVkY2tZX3N0ZFgyd0drUmRfdWVZQW9JVk93LTFvTlJYVjV0U21PYnZkSm5KRVhZSjViYlpuMmVhaFJVbWpDMkdYcnp6emR5blFtNFRlVlAwbVZSdXZUeUNEdXhXc0JSb3MtR2NZckowM3BNaDlNU3hyTUJnWWlhVUVVRHkwY3hfYVBR?oc=5",
-     "date": "2026-11-22T19:45:00.000Z",
-     "text": "Marseille - Le Mans FC Ligaportal",
-     "via": "Ligaportal"
+     "title": "Top 5 Tore | 11. Spieltag | Jetzt Anmelden | DAZN DE - DAZN",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOREJDZU9MWjBZNjAtcTE5LUFRSkRGeThTbmRwZUgwYVpSYU1URDZpQWZLVTVkYkJDZ3A4cTJRRnU1d2lBR0lfbW9MZnM3YU00a0xSbk5CU0EyZ2VaOUZYNlpQeHhyRzlMazRkd1BwUFZSdHJxRDJPMjBacHRld0QzYmdHNDVkc052VWpFVE92YTM4UFdHZVVmbw?oc=5",
+     "date": "2026-11-23T00:00:00.000Z",
+     "text": "Top 5 Tore | 11. Spieltag | Jetzt Anmelden | DAZN DE DAZN",
+     "via": "DAZN"
+    },
+    {
+     "title": "Was passiert, wenn drei Redakteure gegen einen DTM-Star fahren? - VOL.AT",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcVltbGJLZ1QxTVViWmJJZW9HY3lJUTZ0OFNJUkV6cm9VV3FBYmxBb19za2ZuUmxGdGY1Z1ZDVmRiY3o0OWFjblpDNW53X2ZKNl9hTXczN0pvTFFMYjhtSmFoZ3RZZkZXYlVZQTdocUE3NHpRZjd4YTdiMEhmN29aOQ?oc=5",
+     "date": "2026-11-23T15:39:03.000Z",
+     "text": "Was passiert, wenn drei Redakteure gegen einen DTM-Star fahren? VOL.AT",
+     "via": "VOL.AT"
     },
     {
      "title": "Mit 340 PS und Front-Kardan nach Le Mans: Sigma Regen Superbike - MOTORRAD",
@@ -1686,34 +1565,6 @@
      "date": "2026-11-22T11:05:12.000Z",
      "text": "Mit 340 PS und Front-Kardan nach Le Mans: Sigma Regen Superbike MOTORRAD",
      "via": "MOTORRAD"
-    },
-    {
-     "title": "Aufstellung | Olympique Marseille - FC Le Mans : | 11. Spieltag | Ligue 1 2026/27 - kicker.ch",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOEhGNEhVRUtidkFPWHduUlQ2ZDZNVk5TU0xwcGw2RV9QOEcyT0R5TElwODY3Q3RYc1FwUndaNmxMdkVNSktpMFUyVVNYNUswMkV5azRnR3Z1SlY0M1hlZU11NWFIb192V21sRy0xYmVxaWxxUm9HSmRSdDd1aTFVaHJR?oc=5",
-     "date": "2026-11-22T18:57:25.000Z",
-     "text": "Aufstellung | Olympique Marseille - FC Le Mans : | 11. Spieltag | Ligue 1 2026/27 kicker.ch",
-     "via": "kicker.ch"
-    },
-    {
-     "title": "Paukenschlag: Stellantis stellt alle Motorsport-Programme ein! - Nau",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzF3NFkxRFhiMFdsSDZybWg1SF9seDVXZEJFclBBU0lQc0FDVDhTb21kUnZsd1Y0eHlCOVZKRE8xRHd3X0N6RHU0T0xyZHU0dFc3d3FjWHp5NjlKN2lBa180UHJlZmNMald1OTRfNWRxeFQ1QnhXTFI1OXJRbTZjZ09VWk0yODZRX0VjYzdSQ2JyUTNOQkgxR0RvbTBlaWNGWWMtVVpoaHM?oc=5",
-     "date": "2026-11-20T10:59:04.000Z",
-     "text": "Paukenschlag: Stellantis stellt alle Motorsport-Programme ein! Nau",
-     "via": "Nau"
-    },
-    {
-     "title": "Olympique Marseille - Le Mans im Liveticker: Alle Tore & Highlights - 20 Minuten",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZG9US2Yzc1REVHNtTndoWWNBTVkzNk1pUnlqQ29RN3ZPOFdTMm1SczItWmtxNnpFUFJZVU9uQkF1Y3NDU0o4UG00Zk5CdWhwb2hnZXAtRVpFdl9GTlAtaWtVeFRKVTBvYkVvbm94T19HeTVLSTZGMG9EUHhyZTNaeU5PVTlqUGJ5TDNIeGF4YzVKY2RGSjRxOW43MTZRMFhCSVFFbm1yMldiN0E?oc=5",
-     "date": "2026-11-20T23:10:10.000Z",
-     "text": "Olympique Marseille - Le Mans im Liveticker: Alle Tore & Highlights 20 Minuten",
-     "via": "20 Minuten"
-    },
-    {
-     "title": "How Many Shares of Southern Company, NextEra Energy or WEC Energy Pay $1,000 a Month in Dividends? - TIKR.com",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX0ZRYXJTTVhrdHVkX19sbkFhSktIakJoVE5Hbnd4cEFHV3FSdTlFMUp3WS0yaGZDR3VaeGZuYmJyWGR3bm1iTFpLYnhLdjZvdkRhRFloTjY1aTk5Xy0tUlU2MUNmRWd3OUs4Vjd3UFVDN0lpZWdWc3RiZHJnb0dmeTVRTXc4OWl5dFFBTktFSTVWN0o1eVhyNmpaaHJYRDd5bTIyUFNsY1RTNGxFVjU4Q2VXWTBIMVVXTW9fVkJobWtFdw?oc=5",
-     "date": "2026-11-21T13:20:03.000Z",
-     "text": "How Many Shares of Southern Company, NextEra Energy or WEC Energy Pay $1,000 a Month in Dividends? TIKR.com",
-     "via": "TIKR.com"
     }
    ]
   },
@@ -1721,7 +1572,15 @@
    "name": "Google News: Oldtimer-Auktionen",
    "focus": "Auktionsergebnisse und Rekordpreise für Klassiker, mit Preis und Auktionshaus.",
    "ok": true,
-   "items": []
+   "items": [
+    {
+     "title": "RM Sotheby’s erzielt 12,1 Millionen Euro bei Oldtimer-Auktion in München - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWlEenU4Nk53WE1ENHliSGU0Nm9NZHNlSm5uNVVEZDBLVXdpVUN3LW03NWVCLUZJdGtwRWlsdVVCUlRWRGFwa2Yxa01IaTFYRmlxVEJvX2J0TnRGbTN5Y1J2S1dSWTJranQ0T2NBTHhFeldJLVRpc0Zhajc4RE5EdHl1YmRJWkV6RUNHSEI5ak9EVzc4SzRsYjF6WGZnMXlVd044Nw?oc=5",
+     "date": "2026-11-23T19:43:14.000Z",
+     "text": "RM Sotheby’s erzielt 12,1 Millionen Euro bei Oldtimer-Auktion in München Startbase",
+     "via": "Startbase"
+    }
+   ]
   },
   {
    "name": "Google News: Szene Hamburg",

@@ -69,10 +69,6 @@
  "stocks": {
   "NVDA": [
    [
-    "2026-08-21",
-    214.72
-   ],
-   [
     "2026-08-24",
     208.48
    ],
@@ -327,13 +323,13 @@
    [
     "2026-11-20",
     125.53
+   ],
+   [
+    "2026-11-23",
+    165.05
    ]
   ],
   "MSFT": [
-   [
-    "2026-08-21",
-    483.24
-   ],
    [
     "2026-08-24",
     487.31
@@ -589,13 +585,13 @@
    [
     "2026-11-20",
     484.52
+   ],
+   [
+    "2026-11-23",
+    492.5
    ]
   ],
   "GOOGL": [
-   [
-    "2026-08-21",
-    344.82
-   ],
    [
     "2026-08-24",
     348.06
@@ -851,13 +847,13 @@
    [
     "2026-11-20",
     265.29
+   ],
+   [
+    "2026-11-23",
+    282.1
    ]
   ],
   "META": [
-   [
-    "2026-08-21",
-    549.9
-   ],
    [
     "2026-08-24",
     559.02
@@ -1113,6 +1109,10 @@
    [
     "2026-11-20",
     560.84
+   ],
+   [
+    "2026-11-23",
+    597.6
    ]
   ]
  },
@@ -1125,41 +1125,41 @@
  "hf": [
   {
    "id": "thinkingmachines/Inkling-2-Mini",
-   "likes": 5217,
-   "downloads": 23543,
+   "likes": 5504,
+   "downloads": 41888,
    "task": "image-text-to-text"
   },
   {
    "id": "unsloth/Inkling-2-Mini-GGUF",
-   "likes": 965,
-   "downloads": 805993,
+   "likes": 1120,
+   "downloads": 1292888,
    "task": "image-text-to-text"
   },
   {
    "id": "inworld/voice-isolator",
-   "likes": 674,
+   "likes": 739,
    "downloads": 0,
    "task": "audio-to-audio"
   },
   {
-   "id": "tencent/Hy4-flash",
-   "likes": 632,
-   "downloads": 6617,
+   "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+   "likes": 657,
+   "downloads": 329497,
    "task": "image-text-to-text"
   },
   {
    "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 1008,
-   "downloads": 2831,
+   "likes": 1039,
+   "downloads": 3132,
    "task": "image-text-to-text"
   },
   {
-   "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-   "likes": 556,
-   "downloads": 129693,
-   "task": "image-text-to-text"
+   "id": "higurashi-ai/Haru-4B",
+   "likes": 940,
+   "downloads": 9087,
+   "task": "audio-to-audio"
   }
  ],
- "updated": "2026-11-23T10:24:15.555Z",
+ "updated": "2026-11-24T02:35:07.511Z",
  "updatedDay": "2026-11-06"
 }

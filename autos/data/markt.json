@@ -21,10 +21,20 @@
      "min": 500000,
      "max": 500000,
      "kmMedian": 113800
+    },
+    {
+     "datum": "2026-11-24",
+     "anzahl": 1,
+     "median": 500000,
+     "p25": 500000,
+     "p75": 500000,
+     "min": 500000,
+     "max": 500000,
+     "kmMedian": 113800
     }
    ],
    "hamburg": {
-    "datum": "2026-11-18",
+    "datum": "2026-11-24",
     "angebote": [
      {
       "haendler": "BRALO Automobile GmbH",
@@ -90,10 +100,20 @@
      "min": 39900,
      "max": 795993,
      "kmMedian": 118925
+    },
+    {
+     "datum": "2026-11-24",
+     "anzahl": 67,
+     "median": 84990,
+     "p25": 76435,
+     "p75": 92952,
+     "min": 58993,
+     "max": 795993,
+     "kmMedian": 119650
     }
    ],
    "hamburg": {
-    "datum": "2026-11-18",
+    "datum": "2026-11-24",
     "angebote": [
      {
       "haendler": "Fineeleven",
@@ -159,10 +179,20 @@
      "min": 42997,
      "max": 109997,
      "kmMedian": 89700
+    },
+    {
+     "datum": "2026-11-24",
+     "anzahl": 38,
+     "median": 64895,
+     "p25": 57413,
+     "p75": 75500,
+     "min": 42997,
+     "max": 125000,
+     "kmMedian": 89032
     }
    ],
    "hamburg": {
-    "datum": "2026-11-18",
+    "datum": "2026-11-24",
     "angebote": [
      {
       "haendler": "DAVID Finest Sports Cars DFSC GmbH",
@@ -190,7 +220,7 @@
       "titel": "Porsche 911 Carrera 4S Cabriolet",
       "jahr": "2006",
       "km": 82075,
-      "preis": 67997,
+      "preis": 65997,
       "url": "https://www.autoscout24.de/angebote/porsche-911-carrera-4s-cabriolet-deutsch-unfallfrei-wls-benzin-blau-cat_ma57gr100070ge286va2953tr480682-99d313a2-aa1a-4433-a0e7-5312afa8b763",
       "quelle": "AutoScout24"
      }
@@ -218,10 +248,20 @@
      "min": 67480,
      "max": 120000,
      "kmMedian": 42400
+    },
+    {
+     "datum": "2026-11-24",
+     "anzahl": 29,
+     "median": 82900,
+     "p25": 77900,
+     "p75": 89900,
+     "min": 64490,
+     "max": 120000,
+     "kmMedian": 41000
     }
    ],
    "hamburg": {
-    "datum": "2026-11-18",
+    "datum": "2026-11-24",
     "angebote": [
      {
       "haendler": "Blue Carline GmbH",
@@ -267,19 +307,29 @@
      "min": 5999,
      "max": 118500,
      "kmMedian": 140000
+    },
+    {
+     "datum": "2026-11-24",
+     "anzahl": 289,
+     "median": 34900,
+     "p25": 25500,
+     "p75": 44000,
+     "min": 5999,
+     "max": 118500,
+     "kmMedian": 135700
     }
    ],
    "hamburg": {
-    "datum": "2026-11-18",
+    "datum": "2026-11-24",
     "angebote": [
      {
-      "haendler": "Rehders Automobile GmbH",
-      "ort": "Hemdingen",
-      "titel": "Mercedes-Benz SL 560",
-      "jahr": "1988",
-      "km": 138572,
-      "preis": 26990,
-      "url": "https://www.autoscout24.de/angebote/mercedes-benz-sl-klasse-benzin-weiss-cat_ma47gr100067ge10824mt1053tr480527-3d2cea0c-e667-47c5-b9cc-b9cd433487bd",
+      "haendler": "Classic Youngtimer",
+      "ort": "Tangstedt",
+      "titel": "Mercedes-Benz SL 450",
+      "jahr": "1973",
+      "km": 132078,
+      "preis": 26500,
+      "url": "https://www.autoscout24.de/angebote/mercedes-benz-sl-klasse-deutscher-sl-20+-jahre-alte-volrestaurantion-gute-historie-schoener-roadster-benzin-silber-cat_ma47gr100067ge10824mt14891-c2df2d85-7c58-420b-a7ed-7ef4cd237203",
       "quelle": "AutoScout24"
      },
      {
@@ -288,18 +338,18 @@
       "titel": "Mercedes-Benz SL 560",
       "jahr": "1989",
       "km": 111900,
-      "preis": 27390,
+      "preis": 26990,
       "url": "https://www.autoscout24.de/angebote/mercedes-benz-sl-klasse-roadster-benzin-gruen-cat_ma47gr100067ge10820mt1053tr480527-e9defb4c-ed5c-4b0d-9ed5-b6dfa95f5517",
       "quelle": "AutoScout24"
      },
      {
-      "haendler": "Classic Youngtimer",
-      "ort": "Tangstedt",
-      "titel": "Mercedes-Benz SL 450",
-      "jahr": "1973",
-      "km": 132078,
-      "preis": 28500,
-      "url": "https://www.autoscout24.de/angebote/mercedes-benz-sl-klasse-deutscher-sl-20+-jahre-alte-volrestaurantion-gute-historie-schoener-roadster-benzin-silber-cat_ma47gr100067ge10824mt14891-c2df2d85-7c58-420b-a7ed-7ef4cd237203",
+      "haendler": "Rehders Automobile GmbH",
+      "ort": "Hemdingen",
+      "titel": "Mercedes-Benz SL 560",
+      "jahr": "1988",
+      "km": 138572,
+      "preis": 26990,
+      "url": "https://www.autoscout24.de/angebote/mercedes-benz-sl-klasse-benzin-weiss-cat_ma47gr100067ge10824mt1053tr480527-3d2cea0c-e667-47c5-b9cc-b9cd433487bd",
       "quelle": "AutoScout24"
      },
      {
@@ -329,7 +379,7 @@
       "jahr": "1984",
       "km": 75544,
       "preis": 49900,
-      "url": "https://www.autoscout24.de/angebote/mercedes-benz-sl-klasse-500-sl-mit-75-000-km-benzin-grau-cat_ma47gr100067ge10824mt14891-a47ea33f-b916-4ece-a459-c90e6d64ea4c",
+      "url": "https://www.autoscout24.de/angebote/mercedes-benz-sl-klasse-500-sl-mit-nur-75-000-km-1-vorbesitzer-benzin-grau-cat_ma47gr100067ge10824mt14891-a47ea33f-b916-4ece-a459-c90e6d64ea4c",
       "quelle": "AutoScout24"
      },
      {
@@ -356,5 +406,5 @@
    }
   }
  },
- "abgerufen": "2026-11-18"
+ "abgerufen": "2026-11-24"
 }

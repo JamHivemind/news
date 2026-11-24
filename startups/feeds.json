@@ -1,6 +1,6 @@
 {
- "fetched": "2026-11-23T10:23:49.248Z",
- "hours": 80,
+ "fetched": "2026-11-24T02:34:39.840Z",
+ "hours": 48,
  "sources": [
   {
    "name": "deutsche-startups.de",
@@ -42,14 +42,86 @@
   },
   {
    "name": "EU-Startups",
-   "ok": false,
-   "error": "HTTP 403",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "German startup Playbook secures €8 million to help pharma companies deploy AI safely",
+     "url": "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/",
+     "date": "2026-11-23T15:40:56.000Z",
+     "text": "Munich’s Playbook, a startup developing neurological AI to ensure rule-based compliance in pharmaceutical industries, has raised €8 million to turn documents into data AI can read, but not change. Heal Capital leads the round, together with Bayern Kapital and existing investor Capnamic. The company raised €2.5 million in 2025. “Our ambition is to help Pharma […] The post German startup Playbook secures €8 million to help pharma companies deploy AI safely appeared first on EU-Startups ."
+    },
+    {
+     "title": "OPINION: Europe’s rearmament risks creating empty factories",
+     "url": "https://www.eu-startups.com/2026/11/opinion-europes-rearmament-risks-creating-empty-factories/",
+     "date": "2026-11-23T14:42:34.000Z",
+     "text": "Weapons factories are springing up all over Europe as proof, many say, that the continent is taking its rearmament seriously. It seems so simple. Build factories, manufacture arms and kit, and Europe, faced with aggression on its eastern flank and the changing realities of a complex, multipolar world, will be able to take care of […] The post OPINION: Europe’s rearmament risks creating empty factories appeared first on EU-Startups ."
+    },
+    {
+     "title": "UK-based Agon raises €63.98 million at €411.3 million valuation to build Europe’s sovereign defence AI infrastructure",
+     "url": "https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/",
+     "date": "2026-11-23T13:40:17.000Z",
+     "text": "Agon, a London-based defence AI startup building sovereign infrastructure for autonomous military systems, has raised a €63.87 million ($70 million) Series A round at a valuation of €411.3 million ($450 million). The round was led by Northzone with participation from returning investors Lakestar, XYZ, Lux Capital, and Global Founders Capital. The UK Government’s Sovereign AI […] The post UK-based Agon raises €63.98 million at €411.3 million valuation to build Europe’s sovereign defence AI infras"
+    },
+    {
+     "title": "Is Silicon Valley turning its back on Europe? Plug and Play’s Thomas Bigagli weighs in",
+     "url": "https://www.eu-startups.com/2026/11/is-silicon-valley-turning-its-back-on-europe-plug-and-plays-thomas-bigagli-weighs-in/",
+     "date": "2026-11-23T12:33:20.000Z",
+     "text": "Sequoia Capital’s decision to close its London office has reignited debate about the future of European innovation and the commitment of US investors to the continent – especially amid other departures including Andreessen Horowitz and Coatue. However, not all US investors in Europe share this gloomy outlook. Thomas Bigagli, Partner and Managing Director at Plug […] The post Is Silicon Valley turning its back on Europe? Plug and Play’s Thomas Bigagli weighs in appeared first on EU-Startups ."
+    },
+    {
+     "title": "OPINION: AI will favour the companies built for AI, not adapted to it",
+     "url": "https://www.eu-startups.com/2026/11/opinion-ai-will-favour-the-companies-built-for-ai-not-adapted-to-it/",
+     "date": "2026-11-23T12:13:41.000Z",
+     "text": "For decades, business leaders have been warned that the impending arrival of a new technology will completely reorder the corporate world. But for the best part of the last thirty years, it did not. The web, mobile phones, cloud computing and social media, for example, were all predicted as disruptors that would sweep the incumbents […] The post OPINION: AI will favour the companies built for AI, not adapted to it appeared first on EU-Startups ."
+    },
+    {
+     "title": "Theseus Robotics secures €455k to put robots to work in supermarkets across Europe and US",
+     "url": "https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/",
+     "date": "2026-11-23T11:15:57.000Z",
+     "text": "Theseus Robotics, a Swiss startup developing AI-powered robots to automate shelf restocking and online grocery order picking, has secured €455k ($500k) from Y Combinator and will be launching in a grocery store in Silicon Valley. The investment follows earlier backing from Founderful Campus, S2S Ventures, Earthling VC and Berlin-based Caesar Ventures, as the company prepares […] The post Theseus Robotics secures €455k to put robots to work in supermarkets across Europe and US appeared first on E"
+    },
+    {
+     "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
+     "url": "https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/",
+     "date": "2026-11-23T10:31:19.000Z",
+     "text": "Acorda, a London-based FinTech startup helping payment providers stop financial scams through shared risk data, has raised €2.15 million (£1.8 million) in a pre-Seed funding round. The round was led by Concept Ventures, the first venture capital firm to back AI unicorn Eleven Labs, with participation from NFG Ventures, the firm founded by early Monzo […] The post London-based Acorda raises €2.15 million to help banks detect payment scams before money moves appeared first on EU-Startups ."
+    },
+    {
+     "title": "Swiss startup coprod raises €5.45 million to solve “integration hell” in robotics and physical AI hardware",
+     "url": "https://www.eu-startups.com/2026/11/swiss-startup-coprod-raises-e5-45-million-to-solve-integration-hell-in-robotics-and-physical-ai-hardware/",
+     "date": "2026-11-23T09:01:18.000Z",
+     "text": "coprod, a Swiss robotics hardware startup building modular hardware components for robotics and physical AI applications, has raised €5.45 million ($6 million) in a pre-Seed funding round. The round was co-led by Founderful and PROTOTYPE, with additional backing from General Catalyst, Pace Ventures, Tiny Supercomputer Investment Company, Kima Ventures, SDAC, Unruly Capital, and Venturekick. Angel […] The post Swiss startup coprod raises €5.45 million to solve “integration hell” in robotics and p"
+    },
+    {
+     "title": "Paris-based HoloSolis raises over €15 million to advance €1 billion solar gigafactory in France",
+     "url": "https://www.eu-startups.com/2026/11/paris-based-holosolis-raises-over-e15-million-to-advance-e1-billion-solar-gigafactory-in-france/",
+     "date": "2026-11-23T07:48:17.000Z",
+     "text": "HoloSolis, a Paris-based solar manufacturing startup, has closed a Series A funding round of more than €15 million to build Europe’s next solar gigafactory. The round saw participation from four new investors: Crédit Agricole Group, through four of its regional banks; investment firm Algebris; solar manufacturer Trina Solar; and EV charging infrastructure company StarCharge. They […] The post Paris-based HoloSolis raises over €15 million to advance €1 billion solar gigafactory in France appeared"
+    }
+   ]
   },
   {
    "name": "Sifted",
    "ok": true,
    "items": [
+    {
+     "title": "Defence startup Agon raises $70m backed by Northzone and Lakestar",
+     "url": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/",
+     "date": "2026-11-23T13:56:34.000Z",
+     "text": ""
+    },
+    {
+     "title": "Sign up for the first London tech chess night",
+     "url": "https://sifted.eu/articles/sign-up-for-the-first-london-tech-chess-night-brnd/",
+     "date": "2026-11-23T13:07:34.000Z",
+     "text": ""
+    },
+    {
+     "title": "Plural’s Sten Tamkivi on its €1bn fund, defence tech and why Europe didn’t miss the AI wave",
+     "url": "https://sifted.eu/articles/plural-fund-ai-podcast/",
+     "date": "2026-11-23T10:49:28.000Z",
+     "text": ""
+    },
     {
      "title": "Why AI startups should build governance early",
      "url": "https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/",
@@ -67,60 +139,6 @@
      "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/",
      "date": "2026-11-23T05:00:45.000Z",
      "text": ""
-    },
-    {
-     "title": "Exclusive: Storonsky-backed Aikido seeks €4bn valuation",
-     "url": "https://sifted.eu/articles/exclusive-aikido-4bn-valuation/",
-     "date": "2026-11-20T16:04:11.000Z",
-     "text": ""
-    },
-    {
-     "title": "How a handful of European angels hit the Anthropic jackpot",
-     "url": "https://sifted.eu/articles/european-angels-anthropic-ipo/",
-     "date": "2026-11-20T15:34:03.000Z",
-     "text": ""
-    },
-    {
-     "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
-     "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/",
-     "date": "2026-11-20T13:00:51.000Z",
-     "text": ""
-    },
-    {
-     "title": "Inside Malmö: The Swedish city building the future of food",
-     "url": "https://sifted.eu/articles/inside-the-swedish-city-building-the-future-of-food-brnd/",
-     "date": "2026-11-20T09:00:01.000Z",
-     "text": ""
-    },
-    {
-     "title": "UK AI minister rejects calls for sovereign model, sparking backlash: 'I'm so angry'",
-     "url": "https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/",
-     "date": "2026-11-20T05:00:50.000Z",
-     "text": ""
-    },
-    {
-     "title": "13 pre-seed fintechs to watch, according to VCs",
-     "url": "https://sifted.eu/articles/pre-seed-fintechs-to-watch/",
-     "date": "2026-11-20T05:00:48.000Z",
-     "text": ""
-    },
-    {
-     "title": "Inside Slush 2026: Robots, riches and the race to superintelligence",
-     "url": "https://sifted.eu/articles/inside-slush-2026-robots-riches-and-the-race-to-superintelligence/",
-     "date": "2026-11-20T05:00:44.000Z",
-     "text": ""
-    },
-    {
-     "title": "‘I want to be the world’s youngest billionaire’: Meet the Slush 20u20",
-     "url": "https://sifted.eu/articles/slush-20u20-2026/",
-     "date": "2026-11-20T05:00:05.000Z",
-     "text": ""
-    },
-    {
-     "title": "Espoo closes in on Helsinki as Finland’s startup funding race tightens",
-     "url": "https://sifted.eu/articles/espoo-closes-in-on-helsinki-as-finlands-startup-funding-race-tightens/",
-     "date": "2026-11-20T05:00:03.000Z",
-     "text": ""
     }
    ]
   },
@@ -130,28 +148,16 @@
    "ok": true,
    "items": [
     {
-     "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-     "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-     "date": "2026-11-20T20:58:29.000Z",
-     "text": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit."
+     "title": "Figma employee sues, alleging company forced her to confront harassers",
+     "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+     "date": "2026-11-23T23:07:49.000Z",
+     "text": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination."
     },
     {
-     "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-     "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-     "date": "2026-11-20T19:53:41.000Z",
-     "text": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
-    },
-    {
-     "title": "Bending Spoons buys Mailchimp for $3.68B",
-     "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-     "date": "2026-11-20T16:16:06.000Z",
-     "text": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain."
-    },
-    {
-     "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-     "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-     "date": "2026-11-20T14:55:44.000Z",
-     "text": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]"
+     "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+     "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+     "date": "2026-11-23T22:02:05.000Z",
+     "text": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
     }
    ]
   },
@@ -161,25 +167,11 @@
    "ok": true,
    "items": [
     {
-     "title": "Saugroboter-Aufsatz aus Die Millionenidee: Heike (64) aus Hamburg-Sasel und die Wollmäuse - Gründerfreunde",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KcHpXSkw5MktaYk5TTG81X0lYOWtlX2VzVHo0ZGl1TnJLRzdETFYyaGUyb2ZTYUFLaWs1ZksxRDdiVm5MR2RWVzRobkx3OU1ELUVSaGVNLUhtU3ExbVJMQjFxNGpJZkpoZ0xKU25jWDhidFk?oc=5",
-     "date": "2026-11-22T17:21:57.000Z",
-     "text": "Saugroboter-Aufsatz aus Die Millionenidee: Heike (64) aus Hamburg-Sasel und die Wollmäuse Gründerfreunde",
-     "via": "Gründerfreunde"
-    },
-    {
      "title": "Hamburger E-Scooter-Pionier pleite: So geht es jetzt weiter - MOPO",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVV8yZmdhN0pBa3p1bnV4YXlVUUN1eEdkRG9KbkZDSUo0clc1aWt4MV9DT1JpajU2eF9TUlg5dFJqaTE4enZDOUMyV0Z1Mm43UE54N1ZfT0xEeUdmQkFSczdqekVTYy1zUHdob1JTM2wtVV81TGJCMmV4aDd2Y091aURDQUg5MFFsdUpIalIxU2tSM1Vsd09fdg?oc=5",
      "date": "2026-11-20T05:11:45.000Z",
      "text": "Hamburger E-Scooter-Pionier pleite: So geht es jetzt weiter MOPO",
      "via": "MOPO"
-    },
-    {
-     "title": "Hamburger E-Scooter-Pionier Egret insolvent – Gründer: „Ich schäme mich nicht“ - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRm12Q2hJczBxTVdqU191a19Ec0x5TGpQRTVaNEZWNEhvYWNvQnZwVU9veFF2OURMMjlmOVpCZldBNGxiY0pWbjlGX25QUVlYWFBXT1VfREZhS1h6Y3RHTFNCREtOTm5JcWM3V1RVV0loWEZOMzdCUVcxWWFhbEtCdjhsblZsZmVZSEtJMmRvcjFIcElIdlFfR1ZHc1FLeUhQaHRjN0JfaThhSXJNN1FFcnBaOFNIcjZqazIya1BXSGlrWjFESk1aMVVFUkpYSERlSDU2Z2h0bFo?oc=5",
-     "date": "2026-11-18T12:12:00.000Z",
-     "text": "Hamburger E-Scooter-Pionier Egret insolvent – Gründer: „Ich schäme mich nicht“ Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
     }
    ]
   },
@@ -189,11 +181,11 @@
    "ok": true,
    "items": [
     {
-     "title": "Telekom steigt mit 100 Millionen Euro bei Mistral AI ein - aktien.news",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODBTcjU5aVo2dWZVWmZmUFRuazFmY0JUeUZUd1VxR0VRSWNnSGFpTWdKNGlxQUo1V0JieUlqSF9leC16TVJ1NFg1Y0tWQ3Q5MGppcjBMY0tTMVhPQ3VjYlZha2tSako0emJ2TWMwMlJuM1ZnWF9ZUHVCVDdsR3FnUEdKWlI1VWc?oc=5",
-     "date": "2026-11-20T14:56:11.000Z",
-     "text": "Telekom steigt mit 100 Millionen Euro bei Mistral AI ein aktien.news",
-     "via": "aktien.news"
+     "title": "Robotik-Startup Coprod erhält 6 Millionen - Inside IT",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzBhLWtWTVk4U1RtMklmVkxSSHF6elhVWi1TMzRsd1NEVE1waE9RNmMzNm04NjNiRW1aV29KTDZJU0F6M2toX053REtxazF5MnB0TWVua1RzeXZ2cDBDMGdoOGpKX0FoT181akg5MTRBTllHSjR6SzlQeTNBZEdTNUhR?oc=5",
+     "date": "2026-11-23T02:00:00.000Z",
+     "text": "Robotik-Startup Coprod erhält 6 Millionen Inside IT",
+     "via": "Inside IT"
     }
    ]
   }
