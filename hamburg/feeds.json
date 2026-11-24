@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-24T05:23:57.233Z",
+ "fetched": "2026-11-24T08:41:50.208Z",
  "hours": 48,
  "sources": [
   {
@@ -7,10 +7,22 @@
    "ok": true,
    "items": [
     {
-     "title": "Sparpolitik an Hochschulen: Große Demo für Donnerstag geplant",
+     "title": "Postgelände Kaltenkirchener Platz: Kreative Projeke gefährdet",
+     "url": "https://www.ndr.de/nachrichten/hamburg/postgelaende-kaltenkirchener-platz-kreative-projeke-gefaehrdet,kaltenkircherplatz-100.html",
+     "date": "2026-11-24T08:15:45.000Z",
+     "text": "Seit gut acht Jahren ermöglicht die Stadt in den sonst leer stehenden Gebäuden kreative Zwischennutzung - jetzt wurde einem Großteil der Mieter überraschend gekündigt."
+    },
+    {
+     "title": "Hamburger Hochschulen wollen gegen Sparpolitik demonstrieren",
      "url": "https://www.ndr.de/nachrichten/hamburg/sparpolitik-an-hochschulen-grosse-demo-fuer-donnerstag-geplant,unihamburg-124.html",
      "date": "2026-11-24T05:02:46.000Z",
      "text": "Es ist der erste gemeinsame Protest der Hamburger Hochschulen seit über zehn Jahren. Am Donnerstag werden Tausende zu einem Sternmarsch erwartet."
+    },
+    {
+     "title": "Verbraucherzentrale: Stabsstelle Patientenbeteiligung vor dem Aus?",
+     "url": "https://www.ndr.de/nachrichten/hamburg/verbraucherzentrale-stabsstelle-patientenbeteiligung-vor-dem-aus,verbraucherzentrale-164.html",
+     "date": "2026-11-24T06:34:35.000Z",
+     "text": "Wenn es um wichtige Gesundheitsthemen geht, sitzen oft auch Patientenvertreter mit am Verhandlungstisch. Ihre Arbeit könnte in Hamburg bald schwieriger werden."
     },
     {
      "title": "Baustart für Hamburgs neue Norderelbbrücke",
@@ -25,16 +37,10 @@
      "text": "Nach dem kalten vergangenen Winter hat die Stadtreinigung die Grundeigentümer an ihre Pflichten bei Glätte erinnert. Verstöße würden schneller geahndet."
     },
     {
-     "title": "Bekannten erstochen: 36-Jähriger wegen Tötung auf Verlangen angeklagt",
-     "url": "https://www.ndr.de/nachrichten/hamburg/bekannten-erstochen-36-jaehriger-wegen-toetung-auf-verlangen-angeklagt,prozess-1138.html",
-     "date": "2026-11-23T14:49:05.000Z",
-     "text": "Der Angeklagte hatte seinen Bekannten im Mai erstochen. Seiner Aussage nach habe dieser genau das von ihm verlangt."
-    },
-    {
-     "title": "Staatsoper Hamburg macht erstmals beim Black Friday mit",
-     "url": "https://www.ndr.de/kultur/black-week-in-oper-und-theater-wenn-kultur-mit-rabatten-lockt,blackweek-106.html",
-     "date": "2026-11-23T16:40:26.000Z",
-     "text": "Statt Pullover und Smartphones gibt es Erlebnisse zum Sonderpreis. Geht diese Rechnung für die Kultur auf? Die Staatsoper Hamburg macht erstmals mit."
+     "title": "IG Metall setzt Warnstreiks fort - Airbus betroffen",
+     "url": "https://www.ndr.de/nachrichten/hamburg/ig-metall-warnstreiks-laufen-weiter-airbus-betroffen,kurzehh-4984.html",
+     "date": "2026-11-24T05:53:44.000Z",
+     "text": "Laut der Gewerkschaft sind am Dienstag fast 40.000 Beschäftigte dazu aufgerufen, ihre Arbeit niederzulegen."
     },
     {
      "title": "Uwe-Seeler-Preis für Niendorfer TSV und ESV Einigkeit Wilhelmsburg",
@@ -65,12 +71,6 @@
      "url": "https://www.ndr.de/nachrichten/hamburg/e-auto-brennt-beim-laden-in-bahrenfeld,kurzehh-4972.html",
      "date": "2026-11-23T10:11:10.000Z",
      "text": "Das Auto stand an einer Ladestation am Bahrenfelder Steindamm. Die Feuerwehr konnte es löschen."
-    },
-    {
-     "title": "Bauarbeiten: Regionalzüge fahren nicht bis Hauptbahnhof",
-     "url": "https://www.ndr.de/nachrichten/hamburg/bauarbeiten-regionalzuege-fahren-nicht-bis-hauptbahnhof,kurzehh-4974.html",
-     "date": "2026-11-23T10:20:23.000Z",
-     "text": "Zwischen Harburg und dem Hamburger Hauptbahnhof kommt es laut Bahn noch bis Dienstagmorgen zu Einschränkungen im Regionalverkehr."
     },
     {
      "title": "Historischer Weihnachtsmarkt eröffnet auf dem Rathausmarkt",
@@ -127,10 +127,28 @@
      "text": "Bundesweit waren Hunderte Schulen betroffen, heißt es von der Polizei. Eine konkrete Gefahr bestand laut deren Einschätzungen nicht."
     },
     {
+     "title": "Bekannten erstochen: 36-Jähriger wegen Tötung auf Verlangen angeklagt",
+     "url": "https://www.ndr.de/nachrichten/hamburg/bekannten-erstochen-36-jaehriger-wegen-toetung-auf-verlangen-angeklagt,prozess-1138.html",
+     "date": "2026-11-23T14:49:05.000Z",
+     "text": "Der Angeklagte hatte seinen Bekannten im Mai erstochen. Seiner Aussage nach habe dieser genau das von ihm verlangt."
+    },
+    {
      "title": "Köhlbrandbrücke blockiert: Klima-Aktivist in Hamburg vor Gericht",
      "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-blockiert-klima-aktivist-in-hamburg-vor-gericht,klimaprotest-130.html",
      "date": "2026-11-23T12:00:00.000Z",
      "text": "Klima-Aktivisten der \"Letzte Generation\" hatten 2023 den Verkehr auf der Hamburger Köhlbrandbrücke blockiert. Ein 52-Jähriger wurde angeklagt."
+    },
+    {
+     "title": "\"Ulknudel\" Helga Feddersen: Großes Herz und große Klappe",
+     "url": "https://www.ndr.de/geschichte/koepfe/todestag-von-helga-feddersen-grosses-herz-grosse-klappe,feddersen110.html",
+     "date": "2026-11-24T04:00:00.000Z",
+     "text": "Vielen ist sie als \"Ulknudel\" in Erinnerung, doch sie war weit mehr als das. Am 24. November 1990 starb Helga Feddersen in Hamburg."
+    },
+    {
+     "title": "Staatsoper Hamburg macht erstmals beim Black Friday mit",
+     "url": "https://www.ndr.de/kultur/black-week-in-oper-und-theater-wenn-kultur-mit-rabatten-lockt,blackweek-106.html",
+     "date": "2026-11-23T16:40:26.000Z",
+     "text": "Statt Pullover und Smartphones gibt es Erlebnisse zum Sonderpreis. Geht diese Rechnung für die Kultur auf? Die Staatsoper Hamburg macht erstmals mit."
     },
     {
      "title": "Dick Brave singt Zuckowskis \"Weihnachtsbäckerei\" auf Englisch",
@@ -165,26 +183,8 @@
     {
      "title": "Wahl des Bundespräsidenten: Die Teilnehmer aus Hamburg",
      "url": "https://www.ndr.de/nachrichten/hamburg/Wahl-des-Bundespraesidenten-Die-Teilnehmer-aus-Hamburg,bundesversammlung-132.html",
-     "date": "2026-11-23T06:06:23.000Z",
+     "date": "2026-11-24T07:54:45.000Z",
      "text": "Nicht nur Politikprofis reisen zur Wahl der Nachfolge von Bundespräsident Steinmeier aus Hamburg nach Berlin."
-    },
-    {
-     "title": "Nach Randale im Nordderby: Fan-Gruppen des HSV gehen auf Distanz",
-     "url": "https://www.ndr.de/sport/fussball/fan-gruppen-des-hsv-verurteilen-vorfaelle-im-nordderby-in-bremen,hsv-2428.html",
-     "date": "2026-11-23T14:48:18.000Z",
-     "text": "Hamburger Anhänger hatten am Sonntag im Weserstadion erneut randaliert und für erhebliche Sachbeschädigungen gesorgt."
-    },
-    {
-     "title": "Bundesliga: HSV nach Derby-Pleite gebeutelt - und jetzt kommen die Bayern",
-     "url": "https://www.ndr.de/sport/fussball/humpel-hsv-nach-nordderby-und-vor-bayern-im-tal-der-traenen,hsv-2424.html",
-     "date": "2026-11-23T20:02:06.000Z",
-     "text": "Die Hamburger haben die höchste Pleite gegen Werder seit 22 Jahren kassiert und nun noch mehr Verletzte. Ausgerechnet jetzt kommt der Rekordmeister."
-    },
-    {
-     "title": "Tennis: Zverev kämpft mit hartnäckiger Verletzung und anhaltenden Debatten",
-     "url": "https://www.ndr.de/sport/mehr_sport/alexander-zverev-schmerzen-debatten-und-grosse-ziel-davis-cup,tennis-812.html",
-     "date": "2026-11-23T10:49:44.000Z",
-     "text": "Trotz anhaltender Knöchelprobleme will der Hamburger für das deutsche Davis-Cup-Team spielen. Die Debatte um seinen Status als Nummer eins der Welt ebbt derweil nicht ab."
     }
    ]
   },
@@ -197,6 +197,36 @@
      "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413728629/hamburgs-bevoelkerung-geschrumpft-das-kostet-die-stadt-hunderte-millionen-euro.html",
      "date": "2026-11-23T09:49:05.000Z",
      "text": "Wächst Hamburg etwa nicht mehr? Doch, das schon. Aber wenn die Statistiker genau hinschauen, wird es für den Senat teuer. Sehr teuer."
+    },
+    {
+     "title": "Feuer in Niendorf: Rettungskräfte holen Frau und Hund aus Wohnung",
+     "url": "https://www.abendblatt.de/hamburg/eimsbuettel/article413760446/feuer-in-niendorf-rettungskraefte-holen-frau-und-hund-aus-wohnung.html",
+     "date": "2026-11-24T08:29:43.000Z",
+     "text": "Lösch- und Rettungskräfte der Hamburger Feuerwehr sind am Dienstagmorgen im Einsatz: Polizei informiert Landeskriminalamt."
+    },
+    {
+     "title": "Tarifkonflikt spitzt sich zu: 24‑Stunden-Streik jetzt auch bei Airbus",
+     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413652377/tarifstreit-bei-airbus-mercedes-arcelor-mittal-eskaliert-ig-metall-will-firmen-24-stunden-lang-lahmlegen-nordmetall-erbost-4.html",
+     "date": "2026-11-24T07:54:00.000Z",
+     "text": "IG Metall hat Beschäftigte zur Arbeitsniederlegung aufgerufen. Arbeitgeber warnen vor „überflüssiger Eskalation“. Nun trifft es Airbus."
+    },
+    {
+     "title": "Nach 78 Jahren: Eppendorfer Traditionsgeschäft „Fische Hülsen“ schließt",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-nord/article413699853/eppendorfer-traditionsladen-fische-huelsen-muss-schliessen-der-todesstoss2.html",
+     "date": "2026-11-24T07:32:00.000Z",
+     "text": "Nach fast acht Jahrzehnten schließt das Fischgeschäft in der Erikastraße. Der Umbau am Eppendorfer Marktplatz war der „Todesstoß“."
+    },
+    {
+     "title": "Wegen 10 Minuten mehr Fahrtweg: Schwerbehinderter (28) soll seinen Job verlieren",
+     "url": "https://www.abendblatt.de/hamburg/wandsbek/article413550758/schwerbehinderter-hamburger-28-soll-job-verlieren-wegen-10-minuten-mehr-fahrtweg-1.html",
+     "date": "2026-11-24T07:24:00.000Z",
+     "text": "Die Familie von Benedikt Flesch kämpft dafür, dass er seinen Arbeitsplatz auch nach einem Umzug behalten kann. Was die Behörde sagt."
+    },
+    {
+     "title": "Früher Ekelhaus, heute Single-Wohnungen: 14,6 Quadratmeter kosten hier 660 Euro",
+     "url": "https://www.abendblatt.de/hamburg/wandsbek/article413753053/frueher-ekelhaus-von-eilbek-heute-single-wohnungen-146-quadratmeter-kosten-660-euro.html",
+     "date": "2026-11-24T05:31:00.000Z",
+     "text": "Das einst berüchtigte Gebäude wurde aufwendig saniert. Nun werden die „Eilbek Studios“ vermietet. Die Preise sorgen jedoch für Kritik."
     },
     {
      "title": "Sylt: Außergewöhnliches Grundstück mit See wird versteigert – schon wieder",
@@ -289,6 +319,12 @@
      "text": "Diese Frauen rufen am Mittwoch zu einer besonderen Aktion auf. Dabei wird es bunt – es gibt aber einen ernsten Hintergrund."
     },
     {
+     "title": "Winterwetter im Norden mit Schneeregen erwartet – Rutschgefahr in Hamburg",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413759984/winterwetter-im-norden-mit-schneeregen-erwartet-rutschgefahr-in-hamburg.html",
+     "date": "2026-11-24T05:57:53.000Z",
+     "text": "Tagsüber gibt es im Norden meist Pluswerte, nachts droht Frost. Dazu ziehen Schnee- und Schneeregenschauer auf – welche Regionen besonders betroffen sind."
+    },
+    {
      "title": "Rewe beendet überraschend das Projekt der „Zukunftsfilialen“ – auch in Hamburg",
      "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413708914/rewe-beendet-das-projekt-der-zukunftsfilialen-auch-in-hamburg-01.html",
      "date": "2026-11-23T18:25:00.000Z",
@@ -301,16 +337,16 @@
      "text": "Rund 4000 Menschen demonstrierten friedlich, ein paar wenige griffen zu Gewalt. Gewerkschaft der Polizei gibt Organisatoren Mitverantwortung."
     },
     {
-     "title": "Der Protest der Gen Z geht alle an: Unterstützen wir sie, statt sie zu belehren",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413752143/der-protest-der-gen-z-geht-alle-an-unterstuetzen-wir-sie-statt-sie-zu-belehren.html",
-     "date": "2026-11-23T18:07:00.000Z",
-     "text": "Sie werden als weinerlich dargestellt. Dabei prangert die Gen Z unsere gemeinsamen Probleme an. Es wird Zeit, dass die Politik handelt."
-    },
-    {
      "title": "Jede Generation hat ihre eigenen Dämonen – Gen Z soll nicht so wehleidig sein",
      "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413751167/jede-generation-hat-ihre-eigenen-daemonen-gen-z-soll-nicht-so-wehleidig-sein.html",
      "date": "2026-11-23T18:07:00.000Z",
      "text": "Es ist normal, dass die Jungen die Welt verbessern wollen. Das wollten wir Boomer auch – zum Glück gab es noch keine sozialen Medien."
+    },
+    {
+     "title": "Der Protest der Gen Z geht alle an: Unterstützen wir sie, statt sie zu belehren",
+     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413752143/der-protest-der-gen-z-geht-alle-an-unterstuetzen-wir-sie-statt-sie-zu-belehren.html",
+     "date": "2026-11-23T18:07:00.000Z",
+     "text": "Sie werden als weinerlich dargestellt. Dabei prangert die Gen Z unsere gemeinsamen Probleme an. Es wird Zeit, dass die Politik handelt."
     },
     {
      "title": "Warum eine Hamburger Spitzenpianistin an normalen Konzerten wenig Interesse hat",
@@ -335,42 +371,6 @@
      "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413435529/zweifelhafte-geschaefte-die-miese-masche-der-abzock-polsterer.html",
      "date": "2026-11-23T17:07:00.000Z",
      "text": "Branchenverband warnt vor Lockangeboten. Fall aus Hamburg zeigt, wie teuer ein Polsterauftrag werden kann. Das rät die Verbraucherzentrale."
-    },
-    {
-     "title": "Otto Group in Hamburg spart in der Chefetage – künftig ein Vorstand weniger",
-     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413753608/otto-group-in-hamburg-spart-in-der-chefetage-kuenftig-ein-vorstand-weniger.html",
-     "date": "2026-11-23T17:00:00.000Z",
-     "text": "Der Handelskonzern ist im Sparmodus – nun kommt das auch in der Führungsetage an. Logistikvorstand scheidet aus und wird nicht ersetzt."
-    },
-    {
-     "title": "Ex-Meridian: Kostenlose Parkplätze für Fitnessclub-Mitglieder fallen weg",
-     "url": "https://www.abendblatt.de/hamburg/eimsbuettel/article413673421/parkhaus-von-ex-meridian-in-hoheluft-wird-abgerissen-wo-sollen-mitglieder-parken-1.html",
-     "date": "2026-11-23T16:47:46.000Z",
-     "text": "Für die Neugestaltung des früheren Beiersdorf-Areals wird das Parkhaus an der Quickbornstraße abgerissen. DavidLloyd Club sucht Lösung."
-    },
-    {
-     "title": "Möblierte Luxuswohnungen in der HafenCity: So leben Mieter im neuen „Vibes“",
-     "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413464707/hafencity-200-neue-moeblierte-wohnungen-warten-im-tide-quartier-auf-mieter-1.html",
-     "date": "2026-11-23T16:31:00.000Z",
-     "text": "Am Baakenhafen wurden die ersten von 200 neuen Wohnungen bezogen. Den Mietern stehen viele Extras zur Verfügung. Das hat seinen Preis."
-    },
-    {
-     "title": "Sparmaßnahmen an Hamburgs Schulen aufhalten: „Noch sind Veränderungen möglich“",
-     "url": "https://www.abendblatt.de/hamburg/politik/article413712178/sparplaene-gefaehrden-bildung-in-hamburg-tausende-eltern-planen-grossdemo-02.html",
-     "date": "2026-11-23T16:28:42.000Z",
-     "text": "Tausende Eltern planen große Bildungsdemo gegen Kürzungen an Hamburgs Schulen am 28. November. Dafür werden 6000 Euro benötigt."
-    },
-    {
-     "title": "Der größte Bühnen-Erfolg des Bestseller-Autors: Lohnt sich der Theaterbesuch?",
-     "url": "https://www.abendblatt.de/hamburg/kultur/article413731854/sophia-oder-das-ende-der-humanisten-professor-verliebt-sich-in-roboterfrau-1.html",
-     "date": "2026-11-23T16:19:00.000Z",
-     "text": "Moritz Rinkes Komödie „Sophia oder Das Ende der Humanisten“ ist im St. Pauli Theater ein charmanter Pointenspaß mit nachdenklichen Zwischentönen"
-    },
-    {
-     "title": "MS „Hamburg“ in der Werft – wird alles bis zum 11. Dezember fertig?",
-     "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413704623/kreuzfahrt-schiff-ms-hamburg-zur-modernisierung-eingedockt-plantours-will-wachsen2.html",
-     "date": "2026-11-23T16:15:24.000Z",
-     "text": "Noch herrscht an Bord ziemlich Chaos, doch bald soll es wieder auf Kreuzfahrt gehen. Plantours-Chef Steuber über Zukunft der Flotte."
     }
    ]
   },
@@ -380,22 +380,46 @@
    "ok": true,
    "items": [
     {
-     "title": "Papier statt Plastik: Kommt jetzt der Modellversuch für die Laubschlacht im Garten?",
-     "url": "https://www.mopo.de/hamburg/papier-statt-plastik-kommt-jetzt-der-modellversuch-fuer-die-laubschlacht-im-garten/5101362",
-     "date": "2026-11-23T19:58:40.000Z",
-     "text": "Hamburger sammeln Laub in Plastiksäcken und dafür nimmt die Stadt viel Geld. Die FDP fordert einen Modellversuch mit günstigen Papiersäcken."
+     "title": "Es wird nass und bitterkalt: Hier drohen jetzt Schnee und bis zu minus 7 Grad",
+     "url": "https://www.mopo.de/im-norden/es-wird-nass-und-bitterkalt-hier-drohen-jetzt-schnee-und-bis-zu-minus-7-grad/5101880",
+     "date": "2026-11-24T08:11:45.000Z",
+     "text": "Tagsüber gibt es im Norden meist Pluswerte, nachts Frost. Dazu ziehen Schnee- und Schneeregenschauer auf – welche Regionen besonders betroffen sind."
     },
     {
-     "title": "Weichenstörung sorgt für Bahn-Chaos bei Hamburg",
-     "url": "https://www.mopo.de/hamburg/weichenstoerung-sorgt-fuer-bahn-chaos-bei-hamburg/3977932",
-     "date": "2026-11-23T18:57:00.000Z",
+     "title": "Beliebte Hamburger Weihnachts-Attraktion abgesagt – das passiert mit den Tickets",
+     "url": "https://www.mopo.de/hamburg/beliebte-hamburger-weihnachts-attraktion-abgesagt-das-passiert-mit-den-tickets/5101741",
+     "date": "2026-11-24T05:54:06.000Z",
+     "text": "Schlechte Nachrichten für Weihnachtsfans: Das Winterspektakel auf der Trabrennbahn Bahrenfeld fällt in diesem Jahr aus."
+    },
+    {
+     "title": "Drohne dringt in NATO-Luftraum ein – Anwohner sollen Schutzräume aufsuchen",
+     "url": "https://www.mopo.de/news/politik-wirtschaft/drohne-dringt-in-nato-luftraum-ein-anwohner-sollen-schutzraeume-aufsuchen/102860",
+     "date": "2026-11-24T06:15:00.000Z",
      "text": ""
     },
     {
-     "title": "Der Neu-Stürmer (19) beim HSV: Derby-Klartext und ein Versprechen",
-     "url": "https://www.mopo.de/sport/hsv/der-neu-stuermer-19-beim-hsv-derby-klartext-und-ein-versprechen/5101303",
-     "date": "2026-11-23T18:56:42.000Z",
-     "text": "Alexander Røssing-Lelesiit war beim HSV trotz der Derbypleite ein Lichtblick. Nach seiner Startelf-Rückkehr sprach der 19-Jährige auch über seine neue Position."
+     "title": "Wohnmobil brennt auf Stellplatz ab – Retter machen schreckliche Entdeckung",
+     "url": "https://www.mopo.de/im-norden/bremen/wohnmobil-brennt-auf-stellplatz-ab-retter-machen-schreckliche-entdeckung/5101082",
+     "date": "2026-11-24T06:39:40.000Z",
+     "text": "Das Fahrzeug steht beim Eintreffen der Feuerwehr bereits vollständig in Flammen. Nach den Löscharbeiten wird darin eine tote Person gefunden. Die Hintergründe sind noch offen."
+    },
+    {
+     "title": "Stadt nimmt viel Geld: Hamburger sammeln Laub in Plastiksäcken – das soll sich ändern",
+     "url": "https://www.mopo.de/hamburg/stadt-nimmt-viel-geld-hamburger-sammeln-laub-in-plastiksaecken-das-soll-sich-aendern/5101362",
+     "date": "2026-11-24T05:30:00.000Z",
+     "text": "Hamburger sammeln Laub in Plastiksäcken und dafür nimmt die Stadt viel Geld. Die FDP fordert einen Modellversuch mit günstigen Papiersäcken."
+    },
+    {
+     "title": "Schwerer Lkw-Unfall: Autobahn in Richtung Hamburg voll gesperrt",
+     "url": "https://www.mopo.de/im-norden/niedersachsen/schwerer-lkw-unfall-autobahn-in-richtung-hamburg-gesperrt/5101848",
+     "date": "2026-11-24T07:07:41.000Z",
+     "text": "Ein Sattelzug übersah bei Wildeshausen-Nord die Sperrung und krachte in einen Pfeilwagen. Zwei Männer kamen ins Krankenhaus."
+    },
+    {
+     "title": "Bahnlinie im Hamburger Umland wird komplett gesperrt",
+     "url": "https://www.mopo.de/im-norden/schleswig-holstein/bahnlinie-im-hamburger-umland-wird-komplett-gesperrt/5101583",
+     "date": "2026-11-24T05:35:16.000Z",
+     "text": "Auf zwei AKN-Linien fallen am kommenden Wochenende die Züge aus. Ein Ersatzverkehr mit Bussen ist eingerichtet. Fahrgäste müssen allerdings mehr Zeit einplanen."
     },
     {
      "title": "Sauna-Ranking: Das sind die beliebtesten Wellness-Tempel im Norden",
@@ -404,16 +428,10 @@
      "text": "In der kalten Jahreszeit zieht es viele Menschen in die Sauna. Welche Wellness-Anlagen in Schleswig-Holstein besonders hoch im Kurs stehen – und wie man gesundheitlich profitieren kann."
     },
     {
-     "title": "Krebs! Dieter Nuhr sagt alle Auftritte ab – auch ARD-Show fällt aus",
-     "url": "https://www.mopo.de/news/promi-show/krebs-dieter-nuhr-sagt-alle-auftritte-ab-auch-ard-show-faellt-aus/5101703",
-     "date": "2026-11-23T20:13:17.000Z",
-     "text": "Schocknachricht von Dieter Nuhr: Der Kabarettist ist an Krebs erkrankt und muss eine monatelange Pause einlegen. Doch der 66-Jährige gibt sich kämpferisch."
-    },
-    {
-     "title": "Glatteis und Schnee: Wer nicht räumt, kassiert in Hamburg sofort ein Bußgeld",
-     "url": "https://www.mopo.de/hamburg/glatteis-und-schnee-wer-nicht-raeumt-kassiert-in-hamburg-sofort-ein-bussgeld/5101456",
-     "date": "2026-11-23T17:26:59.000Z",
-     "text": "Nach dem Schneechaos im vergangenen Winter setzt Hamburg auf bessere Vorbereitung. Zugleich sollen Verstöße gegen die Räumpflicht schneller Folgen haben."
+     "title": "Schalke will Ex-Hamburger an Zweitligist abgeben",
+     "url": "https://www.mopo.de/sport/hsv/schalke-will-ex-hamburger-an-zweitligist-abgeben/3998235",
+     "date": "2026-11-24T07:37:00.000Z",
+     "text": ""
     },
     {
      "title": "Familie durch Gasvergiftung ausgelöscht: Drei Kinder, Oma und Vater tot",
@@ -422,28 +440,10 @@
      "text": "Mehrere Geschwister tauchen nicht wie gewohnt in der Schule auf. Die Polizei sieht nach – und entdeckt drei tote Kinder. Der Vater und die Großmutter sind ebenfalls tot. Was ist passiert?"
     },
     {
-     "title": "„Gegen Abrisswahn“: MOPO-Chefreporter als erster Journalist mit Architekturpreis ausgezeichnet",
-     "url": "https://www.mopo.de/hamburg/gegen-abrisswahn-mopo-chefreporter-als-erster-journalist-mit-architekturpreis-ausgezeichnet/5101239",
-     "date": "2026-11-23T20:24:00.000Z",
-     "text": "Seit 48 Jahren arbeitet Thomas Hirschbiegel bei der MOPO – zunächst als Polizei-, dann immer mehr auch als Architekturreporter. Dafür wurde er jetzt mit einem besonderen Preis ausgezeichnet."
-    },
-    {
-     "title": "Überraschende Zahlen: Weniger Touristen in Hamburg - mit einer Ausnahme",
-     "url": "https://www.mopo.de/hamburg/ueberraschende-zahlen-weniger-touristen-in-hamburg-mit-einer-ausnahme/5100822",
-     "date": "2026-11-23T19:05:56.000Z",
-     "text": "Hamburgs Hotels und andere Unterkünfte zählten im September weniger Gäste als im Vorjahresmonat. Doch bei Reisenden aus dem Ausland zeigt sich ein anderer Trend."
-    },
-    {
-     "title": "Megaprojekt in Hamburg: Jetzt startet der nächste Brückenbau",
-     "url": "https://www.mopo.de/hamburg/megaprojekt-in-hamburg-jetzt-startet-der-naechste-brueckenbau/5101241",
-     "date": "2026-11-23T15:00:40.000Z",
-     "text": "285 Millionen Euro kostet allein der erste Bauabschnitt. Auf Autofahrer kommen jahrelange Arbeiten zu. Die alte Brücke stammt aus dem Jahr 1963."
-    },
-    {
-     "title": "Zugunglück mit 44 Verletzten: Polizei nimmt drei Männer fest",
-     "url": "https://www.mopo.de/news/zugunglueck-mit-44-verletzten-polizei-nimmt-drei-maenner-fest/5101331",
-     "date": "2026-11-23T20:38:46.000Z",
-     "text": "Ein Vater und seine beiden erwachsenen Söhne sollen an der Bahnstrecke Metall gestohlen haben. Was sie dabei zurückließen, brachte einen Regionalzug zum Entgleisen."
+     "title": "Stoff für Hollywood: Ein geklauter Film macht Deutschland zum Emmy-Preisträger",
+     "url": "https://www.mopo.de/news/promi-show/stoff-fuer-hollywood-ein-geklauter-film-macht-deutschland-zum-emmy-preistraeger/5101804",
+     "date": "2026-11-24T06:56:10.000Z",
+     "text": "Ein gestohlener Animationsfilm, ein dreister Dieb und listige Recherche: Eine ARD-Doku folgt zwei jungen Filmemachern auf der Suche nach Gerechtigkeit."
     },
     {
      "title": "Kreuzworträtsel",
@@ -470,34 +470,34 @@
      "text": ""
     },
     {
+     "title": "Hamburg auf Spitzenplatz bei Autodiebstählen: Aber in Berlin ist es noch viel schlimmer",
+     "url": "https://www.mopo.de/hamburg/hamburg-auf-spitzenplatz-bei-autodiebstaehlen-aber-in-berlin-ist-es-noch-viel-schlimmer/5101787",
+     "date": "2026-11-24T06:47:56.000Z",
+     "text": "In der Hansestadt sinkt die Zahl der Autodiebstähle zwar deutlich. Dennoch liegt Hamburg auf Platz zwei bei den Fallzahlen, wie eine neue Statistik zeigt."
+    },
+    {
+     "title": "Hamburgs Weihnachtsstern-Paradies: Hier wird der Klassiker noch gezüchtet",
+     "url": "https://www.mopo.de/hamburg/hamburgs-weihnachtsstern-paradies-hier-wird-der-klassiker-noch-gezuechtet/5100433",
+     "date": "2026-11-24T05:47:21.000Z",
+     "text": "Die Gärtnerei Martens ist die letzte in ganz Hamburg, die noch Weihnachtssterne anbaut. Sie gibt Tipps, wie sie lange schön bleiben und was nach Weihnachten mit ihnen passieren sollte."
+    },
+    {
+     "title": "Beauty-Behandlungen ohne Zulassung: Falsche Ärztin soll 9000 Euro kassiert haben",
+     "url": "https://www.mopo.de/hamburg/gericht/beauty-behandlungen-ohne-zulassung-falsche-aerztin-soll-9000-euro-kassiert-haben/5096724",
+     "date": "2026-11-24T05:36:47.000Z",
+     "text": "Eine 45-Jährige gab sich fälschlicherweise als Heilpraktikerin aus und unterspritzte zahlreiche Frauen in ihrem Salon in Rotherbaum. Nun steht sie vor Gericht."
+    },
+    {
+     "title": "„Gegen Abrisswahn“: MOPO-Chefreporter als erster Journalist mit Architekturpreis ausgezeichnet",
+     "url": "https://www.mopo.de/hamburg/gegen-abrisswahn-mopo-chefreporter-als-erster-journalist-mit-architekturpreis-ausgezeichnet/5101239",
+     "date": "2026-11-23T20:24:00.000Z",
+     "text": "Seit 48 Jahren arbeitet Thomas Hirschbiegel bei der MOPO – zunächst als Polizei-, dann immer mehr auch als Architekturreporter. Dafür wurde er jetzt mit einem besonderen Preis ausgezeichnet."
+    },
+    {
      "title": "Für Luxusyachten und das Rathaus: Das sind Hamburgs beste Handwerker",
      "url": "https://www.mopo.de/hamburg/fuer-luxusyachten-und-das-rathaus-das-sind-hamburgs-beste-handwerker/5101679",
      "date": "2026-11-23T19:32:52.000Z",
      "text": "Der eine beherrscht ein fast ausgestorbenes Handwerk, die anderen arbeiten sogar fürs Rathaus. Jetzt wurden zwei Hamburger Betriebe ausgezeichnet."
-    },
-    {
-     "title": "„Bodenständiger Alltagsladen“: Sterne-Duo eröffnet zweites Lokal",
-     "url": "https://www.mopo.de/hamburg/bodenstaendiger-alltagsladen-sterne-duo-eroeffnet-zweites-lokal-1/5100419",
-     "date": "2026-11-23T16:23:34.000Z",
-     "text": "Die Inhaber des „Koer“ machen ein weiteres Restaurant in Hamburg auf. Die MOPO hat nachgefragt, was genau geplant ist."
-    },
-    {
-     "title": "Hamburger erstochen – warum das Verfahren jetzt eingestellt wird",
-     "url": "https://www.mopo.de/hamburg/hamburger-erstochen-warum-das-verfahren-jetzt-eingestellt-wird/5100762",
-     "date": "2026-11-23T14:30:16.000Z",
-     "text": "Ein 31-Jähriger wird nahe Hamburg erstochen – doch obwohl es Verdächtige gibt, wird das Verfahren eingestellt."
-    },
-    {
-     "title": "Weihnachtsmarkt am Rathaus eröffnet – das ist in diesem Jahr neu",
-     "url": "https://www.mopo.de/hamburg/weihnachtsmarkt-am-rathaus-eroeffnet-das-ist-in-diesem-jahr-neu/5101006",
-     "date": "2026-11-23T13:08:13.000Z",
-     "text": "Glühwein, festliche Buden und ein fliegender Weihnachtsmann: Vor Hamburgs Rathaus ist die Adventszeit gestartet. Auch der Weihnachtsmann fliegt wieder."
-    },
-    {
-     "title": "Schwerer Unfall in der Hamburger City: Mehrere Verletzte – Frau in Lebensgefahr",
-     "url": "https://www.mopo.de/hamburg/polizei/schwerer-unfall-in-der-hamburger-city-mehrere-verletzte-frau-in-lebensgefahr/5098714",
-     "date": "2026-11-23T12:06:00.000Z",
-     "text": "Fahrzeuge kollidieren in der Hamburger Innenstadt, drei Menschen werden schwerer verletzt und müssen ins Krankenhaus. Die Polizei sucht nun nach Zeugen."
     },
     {
      "title": "Offensive gegen Clankriminalität: Hunderte Kontrollen und Strafverfahren",
@@ -530,34 +530,34 @@
      "text": "Ein Fußgänger wird in Cloppenburg beim Überqueren einer Straße von einem Auto erfasst und stirbt. Jetzt prüft die Polizei, ob Alkohol eine Rolle spielte."
     },
     {
+     "title": "Alarm in Polen: Drohne dringt in Luftraum – Warnung an die Bevölkerung",
+     "url": "https://www.mopo.de/news/politik-wirtschaft/alarm-in-polen-drohne-dringt-in-luftraum-warnung-an-die-bevoelkerung/5101860",
+     "date": "2026-11-24T07:29:08.000Z",
+     "text": "Nach dem Absturz russischer Raketen gerät Polen erneut in Alarmbereitschaft. Eine Aufklärungsdrohne mit Kameras fliegt minutenlang über einem Grenzort."
+    },
+    {
+     "title": "Gratis im Stream: ZDF startet das Große James-Bond-Feuerwerk",
+     "url": "https://www.mopo.de/news/promi-show/gratis-im-stream-zdf-startet-das-grosse-james-bond-feuerwerk/5100574",
+     "date": "2026-11-24T06:56:46.000Z",
+     "text": "Das ZDF zeigt fast alle 007-Filme im Stream, eine Auswahl davon auch im Fernsehen. Passend zum Fest ist James Bonds einziges Abenteuer dabei, das an Weihnachten spielt."
+    },
+    {
      "title": "Huthi-Miliz: Tote bei saudischen Luftangriffen im Jemen",
      "url": "https://www.mopo.de/news/politik-wirtschaft/huthi-miliz-tote-bei-saudischen-luftangriffen-im-jemen/972893",
      "date": "2026-11-23T20:57:00.000Z",
      "text": ""
     },
     {
-     "title": "Pistorius: Krieg darf sich nicht auf Ostsee ausweiten",
-     "url": "https://www.mopo.de/news/politik-wirtschaft/pistorius-krieg-darf-sich-nicht-auf-ostsee-ausweiten/102860",
-     "date": "2026-11-23T20:54:00.000Z",
-     "text": ""
+     "title": "Zugunglück mit 44 Verletzten: Polizei nimmt drei Männer fest",
+     "url": "https://www.mopo.de/news/zugunglueck-mit-44-verletzten-polizei-nimmt-drei-maenner-fest/5101331",
+     "date": "2026-11-23T20:38:46.000Z",
+     "text": "Ein Vater und seine beiden erwachsenen Söhne sollen an der Bahnstrecke Metall gestohlen haben. Was sie dabei zurückließen, brachte einen Regionalzug zum Entgleisen."
     },
     {
-     "title": "Medienberichte: Russland plant Atomwaffe im All",
-     "url": "https://www.mopo.de/news/politik-wirtschaft/medienberichte-russland-plant-atomwaffe-im-all/5101374",
-     "date": "2026-11-23T18:22:02.000Z",
-     "text": "Westliche Geheimdienste warnen vor einem möglichen Start noch im Dezember. Berlin nimmt die Berichte ernst, sieht aber keine unmittelbare Gefahr."
-    },
-    {
-     "title": "Quentin Tarantino (63) wieder Vater – früher war das undenkbar",
-     "url": "https://www.mopo.de/news/promi-show/quentin-tarantino-63-wieder-vater-frueher-war-das-undenkbar/5100917",
-     "date": "2026-11-23T16:00:00.000Z",
-     "text": "Hollywood-Regisseur Quentin Tarantino und seine Frau Daniella Pick haben ihr drittes Kind bekommen. Dabei wollte der Filmemacher lange gar keine Familie gründen. Was seine Meinung änderte."
-    },
-    {
-     "title": "Kurioser Einsatz: Radarfalle blitzt sogar Fußgänger und Radler",
-     "url": "https://www.mopo.de/news/panorama/kurioser-einsatz-radarfalle-blitzt-sogar-fussgaenger-und-radler/5101074",
-     "date": "2026-11-23T14:55:03.000Z",
-     "text": "Wegen eines maroden Gebäudes ist eine beliebte Einkaufsstraße teilweise gesperrt. Doch viele Autofahrer ignorieren das Verbot – mit Folgen."
+     "title": "Krebs! Dieter Nuhr sagt alle Auftritte ab – auch ARD-Show fällt aus",
+     "url": "https://www.mopo.de/news/promi-show/krebs-dieter-nuhr-sagt-alle-auftritte-ab-auch-ard-show-faellt-aus/5101703",
+     "date": "2026-11-23T20:13:17.000Z",
+     "text": "Schocknachricht von Dieter Nuhr: Der Kabarettist ist an Krebs erkrankt und muss eine monatelange Pause einlegen. Doch der 66-Jährige gibt sich kämpferisch."
     }
    ]
   },
@@ -601,17 +601,17 @@
    "ok": true,
    "items": [
     {
-     "title": "AHS Allround Service Transport / Fuhrunternehmen Hamburg Billbrook - Hamburg.de",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BcXJfNmpzR0JlVm8yRG45eGp6aWVGYUsyQjlITk9aaVBMc3VZTGMxQU1NQm9YMkhXVjJxRHFheVhjVGd4UUNneGl4Nm1ZS1hxM21OTGtoNFJtRGZrOFNUVkJpdk8yal9OZlhvd04tTQ?oc=5",
-     "date": "2026-11-24T03:08:24.000Z",
-     "text": "AHS Allround Service Transport / Fuhrunternehmen Hamburg Billbrook Hamburg.de",
-     "via": "Hamburg.de"
-    },
-    {
      "title": "Energieberatung Leopold Seidel - Hamburg.de",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwOFVTYzA5SzE1SU0xaTB6bnhMUTJTVHRJWXgybzlESks0WmwwYTFST3EyMTNGWmU4d2k2OUxpTEhzbkRoSGV1bWZSdHhIQkpZZU1HNS04WU0weDBLbVp0MkhGaVc3SmJCdzRQd1JTRQ?oc=5",
      "date": "2026-11-24T03:14:24.000Z",
      "text": "Energieberatung Leopold Seidel Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "AHS Allround Service Transport / Fuhrunternehmen Hamburg Billbrook - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BcXJfNmpzR0JlVm8yRG45eGp6aWVGYUsyQjlITk9aaVBMc3VZTGMxQU1NQm9YMkhXVjJxRHFheVhjVGd4UUNneGl4Nm1ZS1hxM21OTGtoNFJtRGZrOFNUVkJpdk8yal9OZlhvd04tTQ?oc=5",
+     "date": "2026-11-24T03:08:24.000Z",
+     "text": "AHS Allround Service Transport / Fuhrunternehmen Hamburg Billbrook Hamburg.de",
      "via": "Hamburg.de"
     },
     {
@@ -636,17 +636,17 @@
      "via": "Hamburg.de"
     },
     {
+     "title": "Berlinertordammbrücke: Erneuter reibungsloser Ablauf führt zu deutlich früherer Verkehrsfreigabe - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcHV5MU9LMnNNY0V6NFNIaFczYWV6MnNaRXp4OV9jd1lMdmU5NHkyMl95ZUFabktGa0pLeDZNUzlycUlLU095ZGRuYkpSQkVtbmM2Y1BWbUdBTVhQakpaZFNGWV9meTRNYVZWbHFFSFFPdkR0S0FpYnRMb3dLbE1wSDgtZzFhaHhWcXRidVBiSk14Z2dValN4Qlp5VWJNMkQydFFySkVWamQ1SVhsTlZHRGNRbEZWcXRNekc3cTBYckdkcUIyMW5ETGl5MFhkS09DTTFwa3BHb3ltWE5VVEdaS1Y5QW9Fa2Q0MTU4a0FfX3hpSmZVQXQ0R3RiVVo1Y3NibDh6Z19jWTVaSFEtSWQ0YkpNanAwVnI0bFpyNQ?oc=5",
+     "date": "2026-11-23T15:00:00.000Z",
+     "text": "Berlinertordammbrücke: Erneuter reibungsloser Ablauf führt zu deutlich früherer Verkehrsfreigabe Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
      "title": "Baumpflege Meinke - Hamburg.de",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56bVpKZmt4LVNkOWRwc3M5cWwxRVpBNzBBeWluSHRIVmF0b2hZcjJTT0RiM1RGWU5LUnIwZDF4RFg2MzNDem9ZckFhWkFBaUwxekJhSjB2Q2dJVS1iTUEtcXZKMkMtWDZORVVPS3Y0QQ?oc=5",
      "date": "2026-11-23T18:54:20.000Z",
      "text": "Baumpflege Meinke Hamburg.de",
-     "via": "Hamburg.de"
-    },
-    {
-     "title": "Hamburg betont gemeinsame Verantwortung beim Winterdienst - Hamburg.de",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOVdNMW05bHk5R2xuQjdpM1pCMnR1X3NTOVJyTzBqQ0R1X3hlLWFHZ1B0V0tNUW9rbEJOY1F2ZzdERVE1WnJEOVVlaElwYm9uUzNHcHNmYzhDWDgzZVFFLVpQeHpZMThvWWhfNHE4eURCUC04SHE1VVRqam1NdndZaXI2aHZXSDRFYzZIaVNNQzh1ZEd6bTJMRUJleklNQktNM2ZUVjFxbFJSb3hkUmV2SjRfeDdsbUFFcjlZMXN2dG8?oc=5",
-     "date": "2026-11-23T13:15:00.000Z",
-     "text": "Hamburg betont gemeinsame Verantwortung beim Winterdienst Hamburg.de",
      "via": "Hamburg.de"
     },
     {
@@ -657,10 +657,10 @@
      "via": "Hamburg.de"
     },
     {
-     "title": "Landespressekonferenz am 24. November 2026 - Hamburg.de",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWi1EYnhZbXRocWFKMV83VlpnQVpYNGtFMGctRy1MSjJwMjI2cGpkZm03OFZiTkFvNXJUbzVfVlB1OVltRUpnQVZNenllcmNuWXNFQUJaOTczMTNJU0UyaV9iLV85eUI5eHA2Wl95Mk1abEVwQkhXNUNhRUxpSVJJdkFSX0hOeWZjbU4yalJVVmZZT19QcEJfelE0VHlkQVdQZkdybEFsOWppSXh3N1JVR1ZYSUMtb0pGaGF1VmpPUG5YbEdxQkszWGJpREs1cWV3QUxldUlkYw?oc=5",
-     "date": "2026-11-23T14:55:48.000Z",
-     "text": "Landespressekonferenz am 24. November 2026 Hamburg.de",
+     "title": "Hamburg betont gemeinsame Verantwortung beim Winterdienst - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOVdNMW05bHk5R2xuQjdpM1pCMnR1X3NTOVJyTzBqQ0R1X3hlLWFHZ1B0V0tNUW9rbEJOY1F2ZzdERVE1WnJEOVVlaElwYm9uUzNHcHNmYzhDWDgzZVFFLVpQeHpZMThvWWhfNHE4eURCUC04SHE1VVRqam1NdndZaXI2aHZXSDRFYzZIaVNNQzh1ZEd6bTJMRUJleklNQktNM2ZUVjFxbFJSb3hkUmV2SjRfeDdsbUFFcjlZMXN2dG8?oc=5",
+     "date": "2026-11-23T13:15:00.000Z",
+     "text": "Hamburg betont gemeinsame Verantwortung beim Winterdienst Hamburg.de",
      "via": "Hamburg.de"
     },
     {
@@ -675,13 +675,6 @@
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVXR4T0wyWXpqdGdDUldpQnFseTBXdHpHbnYtazExMl9IcmJHM3ZLbkVjRGphTE93N29KZVc4eVU4NVFBaU81YWtfR2xCVmVRODA3dEFDWS1PR3M1cnF6RXhBZ29XLVNjangzWDdHX25mMm50a0Q4cW1lc0J4SFAyRmhiQ0FGaHpPM2E5UGhoUzE5MmdIbWZVQm1hOW8zSU9lT2g3WU9tUFhFdzhPVWRvaVNUTE1oVkJTZGRDdlFKbkVURTZBWFU0YmduYUEyOHd2OXpXWTVsUWhsSEhBOGU2Uk1IYV9UbENDWGswcGotRDNWeUpBcWx5dFNsVEdPX0YyMGdBRmpWR0JwZw?oc=5",
      "date": "2026-11-23T14:42:16.000Z",
      "text": "Landespressekonferenz am 24. November 2026 in Deutscher Gebärdensprache Hamburg.de",
-     "via": "Hamburg.de"
-    },
-    {
-     "title": "Berlinertordammbrücke: Erneuter reibungsloser Ablauf führt zu deutlich früherer Verkehrsfreigabe - Hamburg.de",
-     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcHV5MU9LMnNNY0V6NFNIaFczYWV6MnNaRXp4OV9jd1lMdmU5NHkyMl95ZUFabktGa0pLeDZNUzlycUlLU095ZGRuYkpSQkVtbmM2Y1BWbUdBTVhQakpaZFNGWV9meTRNYVZWbHFFSFFPdkR0S0FpYnRMb3dLbE1wSDgtZzFhaHhWcXRidVBiSk14Z2dValN4Qlp5VWJNMkQydFFySkVWamQ1SVhsTlZHRGNRbEZWcXRNekc3cTBYckdkcUIyMW5ETGl5MFhkS09DTTFwa3BHb3ltWE5VVEdaS1Y5QW9Fa2Q0MTU4a0FfX3hpSmZVQXQ0R3RiVVo1Y3NibDh6Z19jWTVaSFEtSWQ0YkpNanAwVnI0bFpyNQ?oc=5",
-     "date": "2026-11-23T15:00:00.000Z",
-     "text": "Berlinertordammbrücke: Erneuter reibungsloser Ablauf führt zu deutlich früherer Verkehrsfreigabe Hamburg.de",
      "via": "Hamburg.de"
     },
     {
@@ -713,17 +706,17 @@
      "via": "Hamburg.de"
     },
     {
-     "title": "Dashboard Immobilienmarktberichte wird noch leistungsfähiger - Hamburg.de",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNR094bkRwekRLUExydHdaWkpLUHc2eURsdHhob2l6YVZNOUF0bTNJRzRnbmhRU2sxa0RuVmkwUVphblM4a0NRZFVlcjRXT1FlTGkzYjJNd25nV196aVRkLVhyTWFta3luMTdUUVZqQTdwS3RQN1pCM1NTSUhJb3htUUoyTmV1RDJXNTlybzd2SFNDOFJYV2V4cnRrSEVQRmN4OHlkNmlxMGVFc3lZc1pCWFdEaGhKN1RIZ0NMMkNTbncyZmVJNW9aVU1YX0tvSHhHTTVHZ1VJd0ZtaC1FekVhSldUYU1sakNkaG1ubk1FdU9DbExIbXd2NzVIaU5rRnhSRmc5RVNIMWRYeFR4T09uUWJiY3FqeEpXS3lGay13?oc=5",
-     "date": "2026-11-23T08:30:00.000Z",
-     "text": "Dashboard Immobilienmarktberichte wird noch leistungsfähiger Hamburg.de",
-     "via": "Hamburg.de"
-    },
-    {
      "title": "Vor Nikolaus startet Niendorfer Waldweihnacht mit großem Baumverkauf - Hamburg.de",
      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZEZrUUlWQnlpaUw1NzdFX18yMU44UFFsdC1zTkNJRzhNV3BNN2MxMjF0alphX3ZYUG1LV2t0QzU3UE1TNWszQW5NVU1hWFk3WmFDRE42VUlJSXBZWVJVSkI0d1lLTmNLZXVNOXRDT1dEWGU1NjVQYWhjNHdkdmdnbnRSTUtmakJKRXE1SmZIQVo3ZVc1ZjZwSm00V2RaMlByWE1mNVpCUW11dGptZ0pLQl80YU0tTDBRZTRCVzFCU2MyMkVTaW1sQmlCRS0tc0Y5SmIxVEI1S1ZKcGxuak5vRzhaRy1Kc0tfcUtMa0Z6eEotc1E5X2ZSU2ljbG5ZOEllb1NxbWlBVnNJYmhy?oc=5",
      "date": "2026-11-22T23:00:00.000Z",
      "text": "Vor Nikolaus startet Niendorfer Waldweihnacht mit großem Baumverkauf Hamburg.de",
+     "via": "Hamburg.de"
+    },
+    {
+     "title": "Dashboard Immobilienmarktberichte wird noch leistungsfähiger - Hamburg.de",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNR094bkRwekRLUExydHdaWkpLUHc2eURsdHhob2l6YVZNOUF0bTNJRzRnbmhRU2sxa0RuVmkwUVphblM4a0NRZFVlcjRXT1FlTGkzYjJNd25nV196aVRkLVhyTWFta3luMTdUUVZqQTdwS3RQN1pCM1NTSUhJb3htUUoyTmV1RDJXNTlybzd2SFNDOFJYV2V4cnRrSEVQRmN4OHlkNmlxMGVFc3lZc1pCWFdEaGhKN1RIZ0NMMkNTbncyZmVJNW9aVU1YX0tvSHhHTTVHZ1VJd0ZtaC1FekVhSldUYU1sakNkaG1ubk1FdU9DbExIbXd2NzVIaU5rRnhSRmc5RVNIMWRYeFR4T09uUWJiY3FqeEpXS3lGay13?oc=5",
+     "date": "2026-11-23T08:30:00.000Z",
+     "text": "Dashboard Immobilienmarktberichte wird noch leistungsfähiger Hamburg.de",
      "via": "Hamburg.de"
     },
     {
@@ -809,6 +802,13 @@
      "date": "2026-11-22T21:36:26.000Z",
      "text": "Radverkehrsfluss entlang der Hammerbrookstraße Süd wird optimiert Hamburg.de",
      "via": "Hamburg.de"
+    },
+    {
+     "title": "Bundesweiter Vorlesetag an der Schule am See – Groß und Klein lesen gemeinsam! - Schule am See",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0pPamdXNW9NNUFURVdUWVNHalM3TGFEbE45QUQxUHhmQWJZMDY1WVFvZEY2OHpWZVFvcTBBNmhYc3Y4MVVfTDE2b3VlYmV0V3RHMXFObVJPVXJJd3pJdGhPcDltTFFGaDhjNjVYR2FXMWhaY3psVDNQRzFmc2VwSkwxMVdGYWRaZzRkcW5Ob2JVZUpmTGlYMkRMbWJ0Vlp4Z0JWaGhscG5OTEswc0Q2eTRfSQ?oc=5",
+     "date": "2026-11-23T19:23:37.000Z",
+     "text": "Bundesweiter Vorlesetag an der Schule am See – Groß und Klein lesen gemeinsam! Schule am See",
+     "via": "Schule am See"
     }
    ]
   },
@@ -816,7 +816,15 @@
    "name": "NIUS (Google News)",
    "focus": "Nur Meldungen mit Hamburg-Bezug. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
    "ok": true,
-   "items": []
+   "items": [
+    {
+     "title": "Generation Merkel-Logo - NIUS",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tUFdiTG84LW1wckdZcXQ0azJvdlI5dW10WUdjeGtPb2hya3lmT2JUekxvWDBnRngzT2xiQjg3YnhUWXJCMDA3MkI5XzFkZGl6Z3p3T0xQUXJjOGJT?oc=5",
+     "date": "2026-11-23T20:23:00.000Z",
+     "text": "Generation Merkel-Logo NIUS",
+     "via": "NIUS"
+    }
+   ]
   }
  ]
 }
