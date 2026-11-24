@@ -1,6 +1,31 @@
 {
   "briefs": [
     {
+      "date": "2026-11-24",
+      "file": "2026-11-24.html",
+      "headline": "Ukraine versenkt russisches Kriegsschiff in Libyen",
+      "count": 17,
+      "sources": 8,
+      "cats": {
+        "Krieg & Konflikte": 5,
+        "Weltpolitik": 4,
+        "Wirtschaft & Handel": 2,
+        "Katastrophen & Klima": 2,
+        "Europa": 2,
+        "Hafen & Schifffahrt": 2
+      },
+      "ents": {
+        "Ukraine": 2,
+        "Russland": 6,
+        "NATO": 2,
+        "USA": 3,
+        "Iran": 1,
+        "Gaza": 1,
+        "Taiwan": 1,
+        "EU": 1
+      }
+    },
+    {
       "date": "2026-11-23",
       "file": "2026-11-23.html",
       "headline": "Weltklimakonferenz endet ohne Einigung",
