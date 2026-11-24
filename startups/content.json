@@ -1,51 +1,57 @@
 {
-  "date": "2026-11-23",
-  "intro": "Ein ruhiger Start in die Woche: Nach der Slush-Konferenz in Helsinki gibt es neue Finanzierungen und Debatten um europäische KI. Aus Hamburg kommt eine Gründergeschichte aus der Fernseh-Show „Die Millionenidee“.",
+  "date": "2026-11-24",
+  "intro": "Rüstungs- und Sicherheitstechnik (Defense-Tech) bleibt der Wachstumsmotor der europäischen Szene, dazu kommen kleinere Runden für KI und Robotik. Meldungen aus Hamburg und Norddeutschland gab es heute nicht.",
   "top": [
     {
-      "title": "Black Forest Labs setzt auf „World Models“",
-      "text": "Das KI-Startup Black Forest Labs, unterstützt von Nvidia und dem Risikokapitalgeber a16z, will sich auf sogenannte World Models konzentrieren. Das sind KI-Systeme, die die physische Welt nachbilden sollen. Einzelheiten stehen beim Sifted-Bericht hinter der Bezahlschranke.",
-      "category": "Europa & Welt",
-      "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/",
-      "source": "Sifted"
+      "title": "Agon sammelt 70 Millionen Dollar für Verteidigungs-KI ein",
+      "text": "Das Londoner Start-up Agon baut Infrastruktur für autonome Militärsysteme in Europa. In einer Series A (frühe Wachstumsrunde) bekam es 70 Millionen Dollar, der Firmenwert liegt bei 450 Millionen Dollar. Laut Sifted sind unter anderem Northzone und Lakestar dabei.",
+      "url": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/",
+      "source": "Sifted",
+      "category": "Finanzierungen"
     },
     {
-      "title": "Monzo-Ehemalige gründen Anti-Betrugs-Startup",
-      "text": "Ehemalige Mitarbeiter der britischen Digitalbank Monzo haben ein Startup gegen Betrug gegründet. Die Investorin Eileen Burbidge steigt mit ein, die Pre-Seed-Runde (frühe Startfinanzierung) umfasst 1,8 Millionen Pfund.",
-      "category": "Finanzierungen",
-      "url": "https://sifted.eu/articles/acorda-pre-seed/",
-      "source": "Sifted"
+      "title": "Playbook aus München holt 8 Millionen Euro für sichere Pharma-KI",
+      "text": "Playbook entwickelt KI, die Dokumente in Daten verwandelt, die eine KI lesen, aber nicht verändern kann. Zielkunden sind Pharmafirmen mit strengen Regeln. Die Runde über 8 Millionen Euro führt Heal Capital an.",
+      "url": "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/",
+      "source": "EU-Startups",
+      "category": "Finanzierungen"
     },
     {
-      "title": "Wollmäuse aus Sasel: Hamburger Gründerin in „Die Millionenidee“",
-      "text": "Heike aus Hamburg-Sasel ist mit einem Saugroboter-Aufsatz namens Wollmäuse in der Fernseh-Show „Die Millionenidee“ aufgetreten. Gründerfreunde berichtet über die Idee der 64-Jährigen.",
-      "category": "Hamburg & Norddeutschland",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KcHpXSkw5MktaYk5TTG81X0lYOWtlX2VzVHo0ZGl1TnJLRzdETFYyaGUyb2ZTYUFLaWs1ZksxRDdiVm5MR2RWVzRobkx3OU1ELUVSaGVNLUhtU3ExbVJMQjFxNGpJZkpoZ0xKU25jWDhidFk?oc=5",
-      "source": "Gründerfreunde"
+      "title": "Defense-Tech: Start-ups sollen die Bundeswehr voranbringen",
+      "text": "Verteidigungstechnik gehört zu den am schnellsten wachsenden Bereichen Europas. Laut dem Report „State of Defence Tech 2026“ haben Defense-Start-ups in diesem Jahr schon mehr als sechs Milliarden Euro eingesammelt. Gründerszene fragt, wie sie die Bundeswehr konkret stärken sollen.",
+      "url": "https://www.businessinsider.de/gruenderszene/defense-tech-wie-startups-die-bundeswehr-voranbringen-sollen/t5czfrz/",
+      "source": "Gründerszene",
+      "category": "Europa & Welt"
     }
   ],
   "entries": [
     {
-      "title": "Britische KI-Ministerin lehnt eigenes Sprachmodell ab",
-      "summary": "Die Ministerin weist Forderungen nach einem staatlichen KI-Modell zurück. Das löst laut Sifted Empörung in der Szene aus.",
-      "category": "Förderung & Politik",
-      "url": "https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/",
-      "source": "Sifted"
+      "title": "Coprod bekommt 6 Millionen Dollar für Robotik-Bauteile",
+      "summary": "Das Schweizer Start-up baut modulare Hardware für Robotik und „Physical AI“ (KI, die Maschinen in der realen Welt steuert). Es will damit die „Integrationshölle“ beim Zusammenbau lösen. Die Pre-Seed-Runde (sehr frühe Finanzierung) beträgt 5,45 Millionen Euro.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzBhLWtWTVk4U1RtMklmVkxSSHF6elhVWi1TMzRsd1NEVE1waE9RNmMzNm04NjNiRW1aV29KTDZJU0F6M2toX053REtxazF5MnB0TWVua1RzeXZ2cDBDMGdoOGpKX0FoT181akg5MTRBTllHSjR6SzlQeTNBZEdTNUhR?oc=5",
+      "source": "Inside IT",
+      "category": "Deep Tech & Forschung"
     },
     {
-      "title": "Slush 2026: Roboter, Reichtum und das Rennen um Superintelligenz",
-      "summary": "Sifted fasst die Startup-Messe in Helsinki zusammen und beschreibt die Stimmung zwischen Robotik und KI-Hype.",
-      "category": "Europa & Welt",
-      "url": "https://sifted.eu/articles/inside-slush-2026-robots-riches-and-the-race-to-superintelligence/",
-      "source": "Sifted"
+      "title": "HoloSolis sammelt über 15 Millionen Euro für Solar-Gigafactory",
+      "summary": "Das Pariser Start-up will eine Solarfabrik für 1 Milliarde Euro in Frankreich bauen. Vier neue Investoren steigen ein, darunter Crédit Agricole.",
+      "url": "https://www.eu-startups.com/2026/11/paris-based-holosolis-raises-over-e15-million-to-advance-e1-billion-solar-gigafactory-in-france/",
+      "source": "EU-Startups",
+      "category": "Finanzierungen"
     },
     {
-      "title": "Nvidia nach dem Rücktritt von Chef Huang",
-      "summary": "Nvidia legte trotz des Rücktritts von Chef Jensen Huang gute Quartalszahlen vor und versprach weiter Wachstum. Die Folgen des Skandals beschäftigen den Konzern weiter.",
-      "category": "Europa & Welt",
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "source": "TechCrunch Startups"
+      "title": "Acorda erhält 2,15 Millionen Euro gegen Zahlungsbetrug",
+      "summary": "Das Londoner Fintech hilft Zahlungsanbietern, Betrugsmaschen zu erkennen, bevor Geld fließt. Die Pre-Seed-Runde führt Concept Ventures an.",
+      "url": "https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/",
+      "source": "EU-Startups",
+      "category": "Finanzierungen"
+    },
+    {
+      "title": "Sequoia schließt Londoner Büro: Wendet sich das Silicon Valley von Europa ab?",
+      "summary": "Die Entscheidung des US-Investors hat die Debatte über das Engagement amerikanischer Geldgeber in Europa neu entfacht, auch wegen weiterer Abgänge. Ein Investor ordnet das im Interview ein.",
+      "url": "https://www.eu-startups.com/2026/11/is-silicon-valley-turning-its-back-on-europe-plug-and-plays-thomas-bigagli-weighs-in/",
+      "source": "EU-Startups",
+      "category": "Europa & Welt"
     }
-  ],
-  "rueckblick": "Die Woche brachte große Finanzierungen: Isomorphic Labs sammelte Milliarden ein, Payhawk 280 Millionen Dollar, und die Telekom stieg mit 100 Millionen Euro bei Mistral AI ein. Aus der Politik kam die Nachricht, dass der Bund die Förderung für Business Angels kürzen will. Kleinere Runden gab es etwa bei Bharat Semi (24 Millionen Dollar für KI-Sensorchips)."
+  ]
 }
