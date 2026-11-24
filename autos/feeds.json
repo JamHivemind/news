@@ -1,17 +1,11 @@
 {
- "fetched": "2026-11-24T05:21:18.730Z",
+ "fetched": "2026-11-24T05:22:16.461Z",
  "hours": 48,
  "sources": [
   {
    "name": "Auto Bild",
    "ok": true,
    "items": [
-    {
-     "title": "Mustang-Sondermodell nutzt Titan aus F-22-Kampfjets",
-     "url": "https://www.autobild.de/artikel/ford-mustang-gtd-1901-edition-8caa3dc-28918733.html",
-     "date": "2026-11-24T05:11:00.000Z",
-     "text": "Ford stellt die Mustang GTD 1901 Edition vor. Diese würdigt Henry Fords ersten Rennsieg 1901 und nutzt recyceltes Titan aus F-22-Kampfjets. Bestellstart ist im Dezember 2026."
-    },
     {
      "title": "Wie viel sparen Elektroauto-Fahrer durch die Senkung der Stromsteuer?",
      "url": "https://www.autobild.de/artikel/wie-viel-sparen-e-auto-fahrer-mit-der-stromsteuer-senkung-ab-2027--28912927.html",
@@ -185,6 +179,12 @@
      "url": "https://www.autobild.de/artikel/diesel-kaufen-pro-und-kontra-28648357.html",
      "date": "2026-11-23T10:12:00.000Z",
      "text": "Der Dieselanteil bei Neuwagen in Deutschland sinkt von Monat zu Monat. Analyse: Wie sinnvoll ist noch der Dieselkauf, während Vielfahrer schon aufs E-Auto umsteigen? Ein Blick auf die Energiekosten, die Spritpreise und die Umweltbilanz!"
+    },
+    {
+     "title": "Die Kleinen können richtig was ab",
+     "url": "https://www.autobild.de/artikel/gebraucht-check-gute-mini-suv-schon-ab-6500-euro-f85adde-25874579.html",
+     "date": "2026-11-23T09:36:00.000Z",
+     "text": "Klein, praktisch, günstig und erstaunlich hart im Nehmen: Gute gebrauchte Mini-SUV müssen kein Vermögen kosten. Schon ab rund 6500 Euro gibt es Modelle, denen selbst viele Kilometer wenig anhaben können. AUTO BILD zeigt die cleversten Gebraucht-Tipps."
     }
    ]
   },
@@ -1131,9 +1131,45 @@
   },
   {
    "name": "Google News: Rückrufe",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Nur Rückrufe von Autos und Motorrädern, nicht von anderen Produkten.",
+   "ok": true,
+   "items": [
+    {
+     "title": "Rückruf bei VW, Seat, Audi & Škoda: Bei 4,6 Mio. Fahrzeugen kann die Lenkung ausfallen - Ruhr Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQWpTdVkwenpObnk3X0pBZGV5ZWdKaEZFS3RmTHRNN09FWC1uYVpOQXVRZ0VZZTFBcnpIbzRybDVGU1ZGczIxNWdrQzRxWWMtallaX1FzYW5tQWs0UXZ3VHExOVdyVXZiVzhkdGVlWnBmM3VSaGo1LXFvSm9jWXNOcm5JQzhZQkhkUlVrSHJJSEhsT1ZlS3pEWW9HT2ZralBONkFfbUJTTzNRSi1uQlg1TFltTmlrSFVmbVFOX1dtTHpaeFNRT0RqQWlHWnZ2dkJiaU4zdGRkTnNJNGZMZkRn?oc=5",
+     "date": "2026-11-21T09:54:00.000Z",
+     "text": "Rückruf bei VW, Seat, Audi & Škoda: Bei 4,6 Mio. Fahrzeugen kann die Lenkung ausfallen Ruhr Nachrichten",
+     "via": "Ruhr Nachrichten"
+    },
+    {
+     "title": "Rückruf wegen gefährlicher Takata-Airbags Tausende Opel- und Škoda-Fahrzeuge betroffen - Ruhr Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOXQ0NXBWcXhZeldzeEw1UmthNTZDUmJXRm15Q3RZdWI3dTJsLWFYNXQ1RmFKWXNiMktNdFBVN3JLUzNfRjRURXBpWFpIejlfNnZ5ckx0MGN3U2hoTW1tMHBPcHYwVHhYSlRKOFhROVR1NjREeTZ2NkdONndDWURLMlNBUHhlQXFxaUlLczNxR2MwS1phRjhIVnJGcUFmdjBMSERlSklPRmhRQnJmMm5PYmtrTTBOUlY0Rkt5cjZ1NDY0b0VvNXk3QmQzU3FGckpPeFN1YVdzT0ZtWnYyMU53ZUdVZw?oc=5",
+     "date": "2026-11-23T09:16:00.000Z",
+     "text": "Rückruf wegen gefährlicher Takata-Airbags Tausende Opel- und Škoda-Fahrzeuge betroffen Ruhr Nachrichten",
+     "via": "Ruhr Nachrichten"
+    },
+    {
+     "title": "Airbags können explodieren: Rückruf bei japanischen Autoherstellern - T-Online",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON0hoYlJWbHNmT0F2QTYzVnUzcEZva05RZzU1cnhZMkM5NFVfdFdNcWZOVzhLUGkyQmhyRjVOekJqd3NfWWRXb3NjSXdvYWhVanBya1U0MzhLY3pVMC1lWGhJRGJENmdvaW0tSVRMM3VWaXNBR2N2Xy1GM3BNd21HYnZxSTZCZWdwQ3Vudy1fZFB3ZlhXamJhdHJjRmJOczZQZDlUazd6d2h3dUxWTmJReXdxSQ?oc=5",
+     "date": "2026-11-21T03:18:58.000Z",
+     "text": "Airbags können explodieren: Rückruf bei japanischen Autoherstellern T-Online",
+     "via": "T-Online"
+    },
+    {
+     "title": "VW- und Cupra-Rückruf wegen Brandgefahr: Mehr als 70.000 Autos weltweit betroffen - Ruhr Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN1ZNR0tFMzlOTGxUYTJuX0V6cExVRi10TXdQNkVIeWl4LTRSbGJWTmVyY1BvU1FZN1VHWDczdEV6YmEyMEFUZ3psaTQwVTZhLVZDZzlqNEczanBQNWhiVnllRndHYkM4a09oNjItYWtnWFYzNGxERnhDUXV1MEJDNFhlM0dJS0dYclo2SVNubUtIM1hSWTNXUjVTdU5aVGFsUTdKdm92ZHhhRzFNLVhDaDRQdWhTMnRuMGRUbjdBR0RCcHhxeUxENzFfX0dvRzg?oc=5",
+     "date": "2026-11-21T07:20:00.000Z",
+     "text": "VW- und Cupra-Rückruf wegen Brandgefahr: Mehr als 70.000 Autos weltweit betroffen Ruhr Nachrichten",
+     "via": "Ruhr Nachrichten"
+    },
+    {
+     "title": "Tickende Zeitbombe im Lenkrad: Rückruf für 1,6 Millionen Autos - KOSMO | Eine starke Verbindung!",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2ZZUDc2S0NDc2NJQ2czQzhKQ1hxMHdNclo4M29XaEtOVHZPcnMwX0t5XzdnVUhub3R5bVc0MjhweUhEaF9IbFIxaVN6MDVRaE9NcURad0RLeFRYRUUtOEUwWTBncy1oMzBHVVdVMEMwU0pTZndZT1o2cS1ReUMzQlBVUE50VUNJbXVqcw?oc=5",
+     "date": "2026-11-21T08:21:25.000Z",
+     "text": "Tickende Zeitbombe im Lenkrad: Rückruf für 1,6 Millionen Autos KOSMO | Eine starke Verbindung!",
+     "via": "KOSMO | Eine starke Verbindung!"
+    }
+   ]
   },
   {
    "name": "Google News: Regeln für Autofahrer",
@@ -1235,13 +1271,6 @@
      "date": "2026-11-23T16:02:26.000Z",
      "text": "435 PS und leichter als ein Porsche 911: Chinas Elektro-Roadster SC01 bekommt eigene Fabrik in Europa Netzwelt",
      "via": "Netzwelt"
-    },
-    {
-     "title": "Oldtimer: Was den Porsche 911 S vor 60 Jahren so besonders machte - Handelsblatt",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjdVTURhZDN6LURaTFZsNDkxN0hMVzVlOEdzSnkwOF9BWkRjcmpKQ2FsWWdGRnB2blk4TmZ5Tlh5U2Z4VDU3cFlLWDdrbElYeVhLU2Q2c3hVMjRsRGZkV0I3dS1LWExSWWlVM195M0tZU2hHaDNCX1hPUG5qX2xGd05WYlBkX3BoV2dqWDRNRHhETTZLSFFWZ2xGSDkyRkt4YlhRVnFRamU3UVJ2Z3I3MFBsbUthYUhpOXFRbVZYRnZJX21ablU4?oc=5",
-     "date": "2026-11-20T09:07:18.000Z",
-     "text": "Oldtimer: Was den Porsche 911 S vor 60 Jahren so besonders machte Handelsblatt",
-     "via": "Handelsblatt"
     }
    ]
   },
