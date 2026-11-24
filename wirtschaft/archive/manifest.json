@@ -1,6 +1,27 @@
 {
   "briefs": [
     {
+      "date": "2026-11-24",
+      "file": "2026-11-24.html",
+      "headline": "Börsen erholen sich nach Nvidia-Nachricht",
+      "count": 14,
+      "sources": 5,
+      "cats": {
+        "Börse & Märkte": 1,
+        "Arbeit & Soziales": 6,
+        "Energie": 2,
+        "Unternehmen": 2,
+        "Politik & Handel": 2,
+        "Konjunktur": 1
+      },
+      "ents": {
+        "Volkswagen": 1,
+        "Bundesregierung": 3,
+        "BMW": 1,
+        "China": 1
+      }
+    },
+    {
       "date": "2026-11-23",
       "file": "2026-11-23.html",
       "headline": "Börsenbeben: Nvidia und Anthropic unter Druck",

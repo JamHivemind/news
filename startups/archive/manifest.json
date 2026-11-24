@@ -1,6 +1,23 @@
 {
   "briefs": [
     {
+      "date": "2026-11-24",
+      "file": "2026-11-24.html",
+      "headline": "Agon sammelt 70 Millionen Dollar für Verteidigungs-KI ein",
+      "count": 7,
+      "sources": 4,
+      "cats": {
+        "Finanzierungen": 4,
+        "Europa & Welt": 2,
+        "Deep Tech & Forschung": 1
+      },
+      "ents": {
+        "KI": 3,
+        "Rüstung": 2,
+        "München": 1
+      }
+    },
+    {
       "date": "2026-11-23",
       "file": "2026-11-23.html",
       "headline": "Black Forest Labs setzt auf „World Models“",

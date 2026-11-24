@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-24T05:17:24.659Z",
+ "fetched": "2026-11-24T05:20:17.188Z",
  "hours": 48,
  "sources": [
   {
@@ -74,7 +74,15 @@
   {
    "name": "Google News: Grunderwerbsteuer",
    "ok": true,
-   "items": []
+   "items": [
+    {
+     "title": "Portugal: Junge Menschen mit ungeteiltem Erbe bleiben von der Grunderwerbsteuer befreit - The Portugal News",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdWIteGVuZmpQT1VWOEctZS1GV0N6TXVEbVpVSldmb0JrR2ZGblc2bjlxVm9XUnZGdFd4RzBsSE5aZzF3T2EybGhHYzAwWWdFRld1NlNlNmFZTEd3R1hscXY2WW0zOF9vdzc3QjhkT0pBYURSaHc4dmhIdzRlWEJ1NmZYRkk4a1hMMHQ0RXowRU9YU2NhaEtvWXM3MkJBTzFwNWdLWjQxRkVMblJtVHlmY2ZXZFpia2hUdUEway1reGpBVUFTaHo3YUI4YXdIcTY2NGU4U2l0UTRHY3R0TXNacWxxdU51cTg?oc=5",
+     "date": "2026-11-22T15:22:30.000Z",
+     "text": "Portugal: Junge Menschen mit ungeteiltem Erbe bleiben von der Grunderwerbsteuer befreit The Portugal News",
+     "via": "The Portugal News"
+    }
+   ]
   },
   {
    "name": "Google News: Gewerbesteuer",
@@ -127,6 +135,12 @@
    "focus": "Nur Steuern, Grundsteuer, Erbschaft, Abgaben und Standortfragen. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
    "ok": true,
    "items": [
+    {
+     "title": "Angriff auf Grünen-Sitzung in Schwerte: Drei Verletzte – Staatsschutz ermittelt",
+     "url": "https://nius.de/nachrichten/angriff-auf-gruenen-sitzung-in-schwerte-drei-verletzte-staatsschutz-ermittelt",
+     "date": "2026-11-24T05:19:21.000Z",
+     "text": "Maskierter greift Grünen-Sitzung in Schwerte an: Drei Menschen sollen verletzt worden sein. Der Täter ist auf der Flucht, der Staatsschutz ermittelt."
+    },
     {
      "title": "„Da hat die ganze Zeit offenbar was geschlummert“: Diese irren Thesen konstruiert der DLF in „Die Nazis in uns“",
      "url": "https://nius.de/medien/deutschlandfunk-nazis-in-uns-podcast",
@@ -300,12 +314,6 @@
      "url": "https://nius.de/ausland/loewe-in-istanbul-anwohner-sollen-haeuser-nicht-verlassen",
      "date": "2026-11-23T11:24:29.000Z",
      "text": "Löwenalarm in Istanbul: Eine Raubkatze streift durch den Norden der Stadt. Die Polizei sucht nach dem Tier und warnt die Anwohner."
-    },
-    {
-     "title": "NRW: AfD beschließt Wahlprogramm",
-     "url": "https://nius.de/politik/nrw-afd-beschliesst-wahlprogramm",
-     "date": "2026-11-23T11:08:04.000Z",
-     "text": "Die nordrhein-westfälische AfD hat am Sonntag ihr Wahlprogramm für die Landtagswahl 2027 beschlossen."
     }
    ]
   }
