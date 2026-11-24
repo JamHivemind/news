@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-24T03:55:07.000Z",
+ "fetched": "2026-11-24T05:17:28.394Z",
  "hours": 48,
  "sources": [
   {
@@ -193,6 +193,12 @@
    "ok": true,
    "items": [
     {
+     "title": "Rio de Janeiro: Rivalen retten ältestes Restaurant nach Küchenbrand",
+     "url": "https://www.spiegel.de/ausland/rio-de-janeiro-rivalen-retten-aeltestes-restaurant-nach-kuechenbrand-a-e3e453f2-9f9b-4f93-a703-7186d1ef8c95#ref=rss",
+     "date": "2026-11-24T05:11:00.000Z",
+     "text": "Das älteste Restaurant Rio de Janeiros stand nach einem Küchenbrand vor dem Aus – bis rivalisierende Cafés und Bars eine Spendenaktion starteten. Eine Geschichte über Solidarität in einer tief gespaltenen Stadt."
+    },
+    {
      "title": "USA: Donald Trump und Gavin Newsom streiten über Todesstrafe",
      "url": "https://www.spiegel.de/ausland/usa-donald-trump-und-gavin-newsom-streiten-ueber-todesstrafe-a-f9799628-f33a-4ec5-b6d7-85587a82a2e4#ref=rss",
      "date": "2026-11-24T02:42:00.000Z",
@@ -305,12 +311,6 @@
      "url": "https://www.spiegel.de/ausland/polen-alle-abgestuerzten-objekte-als-russische-marschflugkoerper-identifiziert-a-1a40ce3b-9f31-45f1-a0e8-1657f57dbd22#ref=rss",
      "date": "2026-11-23T06:09:00.000Z",
      "text": "Im Südosten Polens stürzten vergangene Woche drei militärische Flugobjekte ab. Den polnischen Behörden zufolge handelt es sich dabei in allen Fällen um Marschflugkörper aus Russland."
-    },
-    {
-     "title": "Israel: Gadi Eisenkot und Netanyahus Partei verhandeln erneut ohne Ergebnis",
-     "url": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-und-netanyahus-partei-verhandeln-erneut-ohne-ergebnis-a-10b7b368-76d9-449a-8dc7-e6f0ecd1048e#ref=rss",
-     "date": "2026-11-23T05:52:00.000Z",
-     "text": "Der mit Israels Regierungsbildung beauftragte Gadi Eisenkot muss in den nächsten Wochen eine Mehrheit in der Knesset hinter sich vereinen. Nun trennten sich seine Partei und Netanyahus Likud erneut ohne Annäherung."
     }
    ]
   },
@@ -416,6 +416,18 @@
    "ok": true,
    "items": [
     {
+     "title": "Südkorea meldet russische Militärflugzeuge vor seiner Küste",
+     "url": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
+     "date": "2026-11-24T04:23:38.000Z",
+     "text": "Mehrere russische Militärflugzeuge sind südkoreanischen Sicherheitsbehören zufolge am Dienstagmorgen in Sükoreas Luftverteidigungszone eingedrungen. Erst kürzlich meldeten Taiwan und Japan ähnliche Vorfälle."
+    },
+    {
+     "title": "Kriegsfolgen im Gazastreifen: Verseuchtes Wasser, Gift in den Trümmern",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-162.html",
+     "date": "2026-11-24T04:09:27.000Z",
+     "text": "Auf den Straßen sammelt sich der Müll, in den zerstörten Gebäuden steckt Asbest: Im Gazastreifen leidet die Bevölkerung. Die Folgen des Krieges könnten noch Jahrzehnte spürbar sein, so Oxfam. Von Julio Segador."
+    },
+    {
      "title": "Deutschland baut künftig ukrainische Drohnen",
      "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
      "date": "2026-11-24T01:46:30.000Z",
@@ -432,18 +444,6 @@
      "url": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
      "date": "2026-11-23T17:23:33.000Z",
      "text": "Russische Sportlerinnen und Sportler sollen bei europäischen Wettkämpfen nicht mehr für ihr Land antreten dürfen - das hat die EU-Kommission vorgeschlagen. Weitere Sanktionen soll es in der Wirtschaft und im Energiesektor geben."
-    },
-    {
-     "title": "NATO-Tagung: Warnungen an Russland - \"werden uns verteidigen\"",
-     "url": "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html",
-     "date": "2026-11-23T16:57:55.000Z",
-     "text": "In Berlin endet die NATO-Jahrestagung mit einer deutlichen Warnung an Russland: Man sei bereit, jeden Fuß des NATO-Gebiets zu verteidigen. Auch zu den Berichten über russische Pläne von Atomwaffen im Weltraum äußerte sich Kanzler Merz."
-    },
-    {
-     "title": "Istanbuler Polizei sucht nach streunender Löwin",
-     "url": "https://www.tagesschau.de/ausland/europa/loewe-istanbul-100.html",
-     "date": "2026-11-23T14:14:38.000Z",
-     "text": "Ausnahmezustand in Istanbul: Eine Löwin streift im Norden der türkischen Metropole umher, Anwohner sollen in ihren Häusern bleiben. Die Polizei hat das Tier lokalisiert, doch woher kommt es?"
     },
     {
      "title": "\"Koalition der Willigen\" absolviert Militärübung in Polen",
@@ -527,110 +527,116 @@
     {
      "title": "Chiphersteller - US-Präsident Trump nahm Einfluss auf Rückkehr von Huang an die Spitze von Nvidia",
      "url": "https://www.deutschlandfunk.de/us-praesident-trump-nahm-einfluss-auf-rueckkehr-von-huang-an-die-spitze-von-nvidia-100.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Die Rückkehr von Nvidia-Chef Huang an die Spitze des Chipkonzerns geht nach übereinstimmenden US-Medienberichten auf eine direkte Einflussnahme durch das Weiße Haus und Präsident Trump zurück. Die \"New York Times\", die \"Washington Post\" und das Portal \"The Hill\" melden, Trump habe Vizepräsident Vance angewiesen, mit Huang und dem Verwaltungsrat von Nvidia zu sprechen."
     },
     {
      "title": "\"Unverantwortlich\" - Kritik bei Demokraten und Republikanern im US-Kongress nach Rückkehr von Huang als Chef von Nvidia",
      "url": "https://www.deutschlandfunk.de/kritik-bei-demokraten-und-republikanern-im-us-kongress-nach-rueckkehr-von-huang-als-chef-von-nvidia-100.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Die Rückkehr von Nvidia-Chef Huang an die Konzernspitze und die Einflussnahme von US-Präsident Trump auf die Personalie stoßen im amerikanischen Kongress parteiübergreifend auf Kritik."
     },
     {
      "title": "Satellit mit Atomsprengkopf? - Merz: Berichte über Moskaus Atom-Pläne im All \"schockierend\"",
      "url": "https://www.deutschlandfunk.de/merz-berichte-ueber-moskaus-atom-plaene-im-all-schockierend-102.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Bundeskanzler Merz hat die jüngsten Berichte über Pläne für russische Atomwaffen im All als \"schockierend\" bezeichnet. Merz sagte in Berlin, zwar seien diese Nachrichten nicht neu, dennoch zeigten sie, zu welcher Eskalation Russland offensichtlich bereit sei."
     },
     {
      "title": "\"Strategie der Einschüchterung\" - Henrichmann warnt vor russischer Erpressung durch Atomwaffen im Weltall",
      "url": "https://www.deutschlandfunk.de/henrichmann-warnt-vor-russischer-erpressung-durch-atomwaffen-im-weltall-100.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Der CDU-Geheimdienstexperte Henrichmann wirft Russland vor, den Westen mit der Entwicklung nuklearer Anti-Satelliten-Waffen unter Druck zu setzen."
     },
     {
      "title": "London - Burnham verteidigt Abkommen mit EU im Unterhaus",
      "url": "https://www.deutschlandfunk.de/burnham-verteidigt-abkommen-mit-eu-im-unterhaus-100.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Der britische Premierminister Burnham hat im Unterhaus die neuen Abkommen mit der EU über eine engere Zusammenarbeit verteidigt."
     },
     {
      "title": "ARD-Produktion - Deutsche Doku \"Der talentierte Mr. F\" über gestohlenen Film gewinnt Emmy",
      "url": "https://www.deutschlandfunk.de/deutsche-doku-der-talentierte-mr-f-ueber-gestohlenen-film-gewinnt-emmy-102.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Die deutsche Dokumentation \"Der talentierte Mr. F\" ist bei den \"International Emmy Awards\" in New York ausgezeichnet worden."
     },
     {
-     "title": "Bundestag - Abgeordnete bestimmen den Finanzetat des Bundes für kommendes Jahr",
-     "url": "https://www.deutschlandfunk.de/abgeordnete-bestimmen-den-finanzetat-des-bundes-fuer-kommendes-jahr-102.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "title": "Bundestag - Abgeordnete bestimmen heute Finanzetat des Bundes für kommendes Jahr",
+     "url": "https://www.deutschlandfunk.de/abgeordnete-bestimmen-heute-finanzetat-des-bundes-fuer-kommendes-jahr-100.html",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Nach der jüngsten Einigung auf eine Stromsteuer-Senkung beginnt der Bundestag heute mit der abschließenden Haushaltsdebatte."
     },
     {
      "title": "\"Über Jahrzehnte selbstverständlich\" - Auch Kretschmer für vollständigen Ausgleich der kalten Progression",
      "url": "https://www.deutschlandfunk.de/auch-kretschmer-fuer-vollstaendigen-ausgleich-der-kalten-progression-100.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Nach Bayerns Ministerpräsident Söder fordert auch der sächsische Regierungschef Kretschmer einen vollständigen Ausgleich der kalten Progression."
     },
     {
-     "title": "Volkswagen - Tarifverhandlungen für 120.000 Beschäftigte beginnen",
-     "url": "https://www.deutschlandfunk.de/tarifverhandlungen-fuer-120-000-beschaeftigte-beginnen-102.html",
-     "date": "2026-11-24T03:43:45.000Z",
-     "text": "In Emden nehmen Volkswagen und die IG Metall ihre Verhandlungen über den Haustarifvertrag des Autobauers auf."
+     "title": "Volkswagen - Tarifverhandlungen für 120.000 Beschäftigte beginnen heute",
+     "url": "https://www.deutschlandfunk.de/tarifverhandlungen-fuer-120-000-beschaeftigte-beginnen-heute-100.html",
+     "date": "2026-11-24T05:05:28.000Z",
+     "text": "In Emden nehmen heute Volkswagen und die IG Metall ihre Verhandlungen über den Haustarifvertrag des Autobauers auf."
     },
     {
-     "title": "Zwei-Drittel-Mehrheit erforderlich - Linksfraktion in Berlin stimmt über Ausschluss der Abgeordneten Emde ab",
-     "url": "https://www.deutschlandfunk.de/linksfraktion-in-berlin-stimmt-ueber-ausschluss-der-abgeordneten-emde-ab-100.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "title": "Zwei-Drittel-Mehrheit erforderlich - Linksfraktion in Berlin stimmt heute über Ausschluss der Abgeordneten Emde ab",
+     "url": "https://www.deutschlandfunk.de/linksfraktion-in-berlin-stimmt-heute-ueber-ausschluss-der-abgeordneten-emde-ab-100.html",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Die Linksfraktion im Berliner Abgeordnetenhaus stimmt heute über den Ausschluss der Politikerin Emde ab."
     },
     {
-     "title": "Afrika-Reise - Steinmeier eröffnet in Ghana Deutsch-Afrikanischen Wirtschaftsgipfel",
-     "url": "https://www.deutschlandfunk.de/steinmeier-eroeffnet-in-ghana-deutsch-afrikanischen-wirtschaftsgipfel-100.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "title": "Afrika-Reise - Steinmeier eröffnet heute in Ghana Deutsch-Afrikanischen Wirtschaftsgipfel",
+     "url": "https://www.deutschlandfunk.de/steinmeier-eroeffnet-heute-in-ghana-deutsch-afrikanischen-wirtschaftsgipfel-100.html",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Bundespräsident Steinmeier setzt seine Afrika-Reise heute in Ghana fort."
     },
     {
      "title": "Berlin - Ukrainische Drohne soll in Deutschland produziert werden",
      "url": "https://www.deutschlandfunk.de/ukrainische-drohne-soll-in-deutschland-produziert-werden-108.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Ukrainische Aufklärungsdrohnen sollen künftig auch in Deutschland hergestellt werden."
+    },
+    {
+     "title": "Bericht von Yonhap - Russische Militärflugzeuge nähern sich kurzzeitig dem südkoranischen Luftraum",
+     "url": "https://www.deutschlandfunk.de/russische-militaerflugzeuge-naehern-sich-kurzzeitig-dem-suedkoranischen-luftraum-100.html",
+     "date": "2026-11-24T05:05:28.000Z",
+     "text": "Mehrere russische Militärflugzeuge haben sich kurzzeitig dem südkoreanischen Luftraum genähert."
     },
     {
      "title": "Luftüberwachung - NATO verlegt AWACS-Flugzeug nach Polen",
      "url": "https://www.deutschlandfunk.de/nato-verlegt-awacs-flugzeug-nach-polen-110.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Als Reaktion auf den Absturz von drei russischen Marschflugkörpern in Polen verlegt die NATO ein Awacs-Überwachungsflugzeug in das Mitgliedsland des Verteidigungsbündnisses."
     },
     {
      "title": "Flugsicherheit - Flydubai soll nach Vorfall bald wieder Israel anfliegen dürfen",
      "url": "https://www.deutschlandfunk.de/flydubai-soll-nach-vorfall-bald-wieder-israel-anfliegen-duerfen-108.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Die emiratische Fluggesellschaft \"Flydubai\" soll bald wieder in Israel landen und starten dürfen."
     },
     {
      "title": "Verdi - Tarifkonflikt bei privaten Banken zieht sich hin",
      "url": "https://www.deutschlandfunk.de/tarifkonflikt-bei-privaten-banken-zieht-sich-hin-104.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Der Tarifkonflikt zwischen der Gewerkschaft Verdi und privaten Banken zieht sich voraussichtlich mindestens bis in den Januar hinein."
     },
     {
      "title": "Sicherheitspolitik - Bundeskanzler Merz: Ukraine sollte nach dem Krieg NATO-ähnliche Sicherheitsgarantien erhalten",
      "url": "https://www.deutschlandfunk.de/bundeskanzler-merz-ukraine-sollte-nach-dem-krieg-nato-aehnliche-sicherheitsgarantien-erhalten-110.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Bundeskanzler Merz hat es rückblickend als Fehler bezeichnet, dass im Jahr 2008 auf dem NATO-Gipfel in Bukarest nicht dem US-Vorschlag gefolgt wurde, die Ukraine in das Bündnis aufzunehmen. Der Ukraine-Krieg wäre wahrscheinlich zu verhindern gewesen, wenn das Land Mitglied der Allianz geworden wäre, sagte Merz vor einem Treffen mit NATO-Generalsekretär Rutte in Berlin."
     },
     {
      "title": "Energiekosten - Umweltminister Schneider: Förderprogramm für Stromspar-Check wird ausgeweitet",
      "url": "https://www.deutschlandfunk.de/umweltminister-schneider-foerderprogramm-fuer-stromspar-check-wird-ausgeweitet-102.html",
-     "date": "2026-11-24T03:43:45.000Z",
+     "date": "2026-11-24T05:05:28.000Z",
      "text": "Nach Angaben des Bundesumweltministeriums sollen zehntausende weitere Haushalte vom bundesweiten Stromspar-Check profitieren."
     },
     {
-     "title": "Wetter - Nach Nebelauflösung sonnig, im Nordosten leichter Schnee- und Regenschauer, 0 bis 5 Grad",
-     "url": "https://www.deutschlandfunk.de/nach-nebelaufloesung-sonnig-im-nordosten-leichter-schnee-und-regenschauer-0-bis-5-grad-100.html",
-     "date": "2026-11-24T03:43:45.000Z",
-     "text": "Das Wetter:"
+     "title": "Wetter - Teils neblig-trüb, gebietsweise auch sonnig, im Osten vereinzelt leichte Schneeschauer",
+     "url": "https://www.deutschlandfunk.de/teils-neblig-trueb-gebietsweise-auch-sonnig-im-osten-vereinzelt-leichte-schneeschauer-100.html",
+     "date": "2026-11-24T05:05:28.000Z",
+     "text": "Der Wetterbericht, die Lage: Mit einer nördlichen Strömung gelangt polare Meeresluft nach Deutschland. Den Nordosten streifen Tiefausläufer, sonst dominiert Hochdruckeinfluss."
     }
    ]
   },
@@ -639,9 +645,9 @@
    "ok": true,
    "items": [
     {
-     "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+     "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-24T01:11:54.000Z",
+     "date": "2026-11-24T04:36:31.000Z",
      "text": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value."
     },
     {
@@ -649,6 +655,12 @@
      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
      "date": "2026-11-23T23:16:08.000Z",
      "text": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
+    },
+    {
+     "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+     "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-24T02:15:59.000Z",
+     "text": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks."
     },
     {
      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
@@ -771,13 +783,6 @@
    "ok": true,
    "items": [
     {
-     "title": "Russia's sports comeback hits a European wall - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXVyZW4yUl9fcDBBNW8yRi1tMGQxMkNfX2dpYWF4b2x2bjA2Q21rRkJ1cF9naUUwbUxZenFJSmxscFpqZDBybXhHbVptejhaT08tRFpndmo0UGVXWlhfc0xMcU8zaXV5SDllV2FjeGNmejNOTVpaOGFjRFBYWm1VQ0RIcGRleWZrQ095eXJn?oc=5",
-     "date": "2026-11-23T13:49:13.000Z",
-     "text": "Russia's sports comeback hits a European wall Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "US, Mexico, Costa Rica, Jamaica awarded 2031 Women's World Cup, UK to host 2035 edition - Reuters",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdW5UVVNrT3pnZ0NqMFJGTmFtRFFLNG1vZVdiOEkwWmpIWEVxeXpFQTBUaW1aaDB2VDdGU2RDaEZnR2xrSW9OWFNjRTBaSUVxR2dGZU4wZTlhZUxyQU1vY3dVZmdmNUV4dnJaSEd0Wi1jTkM2b05RaWdpQU5GdXktMUFneVRNMGZRZzF1T19qYmlHVHlLQW9nQ05hWEFLajAwMHpjT2JKaWlIOTFGdEJ0QTlrV1FQdTJKZ0syRURmQW40R0VIQ2p6Ug?oc=5",
      "date": "2026-11-23T18:28:09.000Z",
@@ -834,13 +839,6 @@
      "via": "Reuters"
     },
     {
-     "title": "Chinese exchanges ease margin trading requirements to aid stock markets - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHZKRlQ0Y0pzZDRaTzJIdHRfX2dkZkVVUUh4YXotTkpLQTdrQ0NPTzVXTzVjczF2aUdKYTRtTHg5Wl9GLU1VbjFkREJ0bXY5S2RDdXphbnowRFdsUldyVGZsZFVIY1N0VTg0Q3RYOWp6TDVlb2lhOEhpM3M2d1NFZDhtdExWcERBS3BmVFNiVEprV0swRWhORV94MG1rcWhYUGpEQnR5akI5cXN0ZEhr?oc=5",
-     "date": "2026-11-22T13:09:00.000Z",
-     "text": "Chinese exchanges ease margin trading requirements to aid stock markets Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader - Reuters",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTERSMk14WEFYekl4TFNXSVNPMW0xMUFveUdlRG9aNlE3TWtJNWxoUE5HWG95ZUZGdEE2WTBodGwxUVRiTF9XUnBidDlJcDMzdUhMOTVKV2lrRS0wVGZzUW9RcHNVdURKVmVZYVA4REZ6TzZjTGRBN0xNMjZqZHRDNFhOdmp5V2Z5X3N5dzJpVzFwZ2NDbDZCQXdqZ1FVRllsbUdRSHRudkFBMEhRWFdBdjFRUDA4UQ?oc=5",
      "date": "2026-11-22T11:05:00.000Z",
@@ -855,10 +853,10 @@
      "via": "Reuters"
     },
     {
-     "title": "Hazlewood says was never close with Khawaja but has no issues with book release - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYWQwVS1FLWVKRkd6LVJzNmtxeUljOFdHSWFQX2xyaWU5bGI0TUhlcEVBNFZhYTZieEY0UzY2SXBnRV80ZzJUZVg3ZkRfenVHR0I5dGJLbFJucFZFMkprSjZycjJ0cElHSTBWczdkMlhDdUo3eFFQREIzcXZ5Q2JjNGhmRzJ5WHMwVWd5bllkRFpiOU9DM0tUVEhYd3M4dWxZZWZqekR4Y3dlV0pWSC1ueHNVSDFUc2ZoSHNIc0VkS0laMFJV?oc=5",
-     "date": "2026-11-22T04:09:00.000Z",
-     "text": "Hazlewood says was never close with Khawaja but has no issues with book release Reuters",
+     "title": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZ3QXNQYmJqMENPRDZLVFAyS3JkUmhjaWxHLUF6TkwzejRmTTZHaERqdmd5NkZmMVVOMEZCaW1MWnlIS3hMVE5BUjJiRTNoMy1RdXUtUVpibnhicDgxZ0JHOUNuYmRDVTNrLVpTVUFaUVM5UDVaZExqR3hTSkxrNU9nSG5aMG9sc2hsMmFvTkstR2g4Qk1UZDMzM2JSaE1yTHVtSV9qaTRPbzN1U2F3UWM4S0hyT2FpaWc?oc=5",
+     "date": "2026-11-24T02:56:00.000Z",
+     "text": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier Reuters",
      "via": "Reuters"
     },
     {
@@ -880,6 +878,20 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
      "date": "2026-11-22T11:03:00.000Z",
      "text": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Morning Bid: AI, caramba! - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QLU16VkZBVHVPOXI2M0hiazQ4QWpsNlZhZFVRaDY0ZTB6cU9SQ04yYm5sRVFfZHNwUkFla1V0ckxtb3JES3hSNi1nNXFBVzBVV0NUTE1QdWZ3WWtXTzVQTlA2WVNfTE1JYUVfRE5ZelExREluaWV1WFAtdkdpek0?oc=5",
+     "date": "2026-11-23T05:36:00.000Z",
+     "text": "Morning Bid: AI, caramba! Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Tech giants to face billions of dollars in fines under Australian internet safety bill - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORG5QdGdxRm1nOGVuczhoUXJVbnYwakY5NUxEVEVSbzhaRUtYdGx0X25LeGhQbVE0X05XeHI3OUNkZTJDWjA5aTRHN0FSSGRQZllJUjJ1Qm1wWkI4REhSbFhDUnZXRmc3UjBpWng0aExBX1JWSGJlNlNZNUwteFFEY0daYnA5LUJEa1JlakpkcUNBUDlyRTRuSnFpZ3dzU05lMV8xNHQ4YnpUODMxbHFBWXpRLW9jZk9v?oc=5",
+     "date": "2026-11-24T02:24:00.000Z",
+     "text": "Tech giants to face billions of dollars in fines under Australian internet safety bill Reuters",
      "via": "Reuters"
     },
     {
@@ -967,17 +979,17 @@
      "via": "Reuters"
     },
     {
+     "title": "Russia's sports comeback hits a European wall - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXVyZW4yUl9fcDBBNW8yRi1tMGQxMkNfX2dpYWF4b2x2bjA2Q21rRkJ1cF9naUUwbUxZenFJSmxscFpqZDBybXhHbVptejhaT08tRFpndmo0UGVXWlhfc0xMcU8zaXV5SDllV2FjeGNmejNOTVpaOGFjRFBYWm1VQ0RIcGRleWZrQ095eXJn?oc=5",
+     "date": "2026-11-23T13:49:13.000Z",
+     "text": "Russia's sports comeback hits a European wall Reuters",
+     "via": "Reuters"
+    },
+    {
      "title": "Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe - Reuters",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVOaXhUTVZWaDZ0YnlSQnRpZk1JdVpWdkJKVUlmQVpETHVkYV9CazJxR0xnS041MUYxQXcyV3IxZWpqbkVrWk9ZU1NaY2NyNTdHTjd6YmFHSFRIX0NpTE8tV3ZYaS1LajllOGxZZlAzclF3OGpiWU1Jd1dTNVB2VWtJMEZQd1lROVhxUnhYUUJ3TFBsMUV2YlFaQktHU0Q4RHktYnpTLXRndjl2aEZlQ3VzZWZSSFRSVzJiZjJsa3JaSkV4?oc=5",
      "date": "2026-11-23T07:53:00.000Z",
      "text": "Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe Reuters",
-     "via": "Reuters"
-    },
-    {
-     "title": "Poland reports bird flu outbreak on turkey farm - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0M1MkpxcUZaZEJmcmhjb0FzbjFrTEZFWGpfbFFnRjdzNm1aZkxlcHBSbUp3YUR0NnpBN0FRRElDYnJnOG8ycm12SlRQQjZ6bWZwZFMwajlZM1c1SEJTd21FQUZPM3NPNXZqSndaNlhZb1BaMGpOSVl6X2dNQ2RWaG1qZ1pjWDVEbHYyYmFuTUVGb2o0dVRTUVFxNmhlSTBWTDB5bV80WDhzaW9rbjZQWDV2V1AyMHM?oc=5",
-     "date": "2026-11-23T12:07:04.000Z",
-     "text": "Poland reports bird flu outbreak on turkey farm Reuters",
      "via": "Reuters"
     }
    ]
@@ -1215,10 +1227,10 @@
      "text": "Greta Thunberg muss eine Geldstrafe zahlen: Ein Gericht in Kopenhagen hat die Klimaaktivistin nach Straftaten bei zwei Protestaktionen schuldig gesprochen."
     },
     {
-     "title": "Liveblog Ukrainekrieg: NATO verlegt Awacs-Flugzeug nach Polen",
+     "title": "Liveblog Ukrainekrieg: Russische Drohne dringt kurzzeitig in polnischen Luftraum ein",
      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-verlegt-awacs-flugzeug-nach-polen-faz-110683325.html",
-     "date": "2026-11-23T15:57:37.000Z",
-     "text": "NATO verstärkt nach Vorfällen in Polen Luftraumüberwachung +++ Merz nennt Berichte über Moskaus Pläne zu Atomwaffen im All „schockierend“ +++ SPD: Russischer Atomsatellit wäre „gefährlicher Tabubruch“ +++ alle Neuigkeiten im Liveblog"
+     "date": "2026-11-24T04:41:02.000Z",
+     "text": "Luftalarm in Polen: Anwohner sollen Schutzräume aufsuchen +++ NATO verstärkt nach Vorfällen in Polen Luftraumüberwachung +++ Merz nennt Berichte über Moskaus Pläne zu Atomwaffen im All „schockierend“ +++ alle Neuigkeiten im Liveblog"
     },
     {
      "title": "USA unter Trump: Demokraten erringen im Repräsentantenhaus größte Mehrheit seit Jahrzehnten",
@@ -1329,6 +1341,18 @@
    "ok": true,
    "items": [
     {
+     "title": "Trotz schleppender Auszählung ist nun klar: Die Republikaner erleiden ihre schwerste Wahlniederlage seit 1958",
+     "url": "https://www.nzz.ch/international/auszaehlung-in-den-usa-fast-beendet-schwerste-wahlniederlage-der-republikaner-seit-1958-ld.10070048",
+     "date": "2026-11-24T04:30:00.000Z",
+     "text": "Drei Wochen nach den Zwischenwahlen steht fest, dass die Demokraten im Repräsentantenhaus über die grösste Mehrheit seit Jahrzehnten verfügen werden. Auch in anderer Hinsicht zeigt sich das Ausmass ihres Erfolges nun klarer als in der Wahlnacht."
+    },
+    {
+     "title": "«Viele Staatsanwälte und Richter, die im Dienst des Vucic-Regimes standen, versuchen nun, die Seite zu wechseln», sagt ein serbischer Richter nach dem Sturz des Langzeitherrschers",
+     "url": "https://www.nzz.ch/international/richter-und-krimi-autor-in-serbien-ein-insider-spricht-ueber-das-justizsystem-ld.10058451",
+     "date": "2026-11-24T04:30:00.000Z",
+     "text": "Miodrag Majic verarbeitet in seinen Kriminalromanen, was er als Richter im vom früheren Präsidenten Aleksandar Vucic gekaperten Justizsystem erlebte. Nun plädiert er dafür, die Verfehlungen der vergangenen anderthalb Jahrzehnte aufzuarbeiten."
+    },
+    {
      "title": "Nordkorea droht mit der Schliessung des erst kürzlich wiedereröffneten Schweizer Büros",
      "url": "https://www.nzz.ch/international/nordkorea-droht-mit-der-schliessung-des-erst-kuerzlich-wiedereroeffneten-schweizer-bueros-ld.10072867",
      "date": "2026-11-23T23:20:27.000Z",
@@ -1347,18 +1371,6 @@
      "text": "Ein Vorschlag der Kommission sieht vor, dass russische Sportlerinnen und Sportler bei Wettkämpfen in der EU künftig nicht mehr für ihr Land antreten dürfen. Russischen Soldaten soll die Einreise ganz verwehrt werden."
     },
     {
-     "title": "In Nepal kommt der Wiederaufbau nach der Flutkatastrophe nur langsam voran – nun sagt Indien Hilfe zu",
-     "url": "https://www.nzz.ch/international/in-nepal-kommt-der-wiederaufbau-nach-der-flutkatastrophe-nur-langsam-voran-nun-sagt-indien-hilfe-zu-ld.10072137",
-     "date": "2026-11-23T14:46:26.000Z",
-     "text": "Drei Monate nach der tödlichen Sturzflut im Himalaja warten viele Einwohner noch immer auf Hilfe. Erst wenige Brücken und Strassen sind repariert, die Umsiedlung der Überlebenden verzögert sich. Die Kritik an der Regierung wächst."
-    },
-    {
-     "title": "Das Comeback von Jensen Huang: Eine Chronologie der Ereignisse",
-     "url": "https://www.nzz.ch/international/das-comeback-von-jensen-huang-eine-chronologie-der-ereignisse-ld.10061069",
-     "date": "2026-11-23T14:36:56.000Z",
-     "text": "Jensen Huang reichte nach einer mutmasslichen Spionageaffäre seinen Rücktritt ein, nur um kurz darauf wieder als CEO zurückzukehren. Wie konnte das passieren?"
-    },
-    {
      "title": "LIVE-TICKER - Iran-Krieg: Revolutionswächter melden brennende Tanker in Hormuz +++ Bahrain gerät erneut unter iranischen Beschuss",
      "url": "https://www.nzz.ch/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss-ld.10021246",
      "date": "2026-11-23T22:30:03.000Z",
@@ -1375,6 +1387,18 @@
      "url": "https://www.nzz.ch/international/die-usa-nach-den-midterms-trotz-harscher-kritik-bezeichnet-trump-putin-erneut-als-freund-ld.10056111",
      "date": "2026-11-22T20:41:35.000Z",
      "text": "Die neuesten Meldungen aus den USA während der zweiten Amtszeit von Präsident Donald Trump."
+    },
+    {
+     "title": "In Nepal kommt der Wiederaufbau nach der Flutkatastrophe nur langsam voran – nun sagt Indien Hilfe zu",
+     "url": "https://www.nzz.ch/international/in-nepal-kommt-der-wiederaufbau-nach-der-flutkatastrophe-nur-langsam-voran-nun-sagt-indien-hilfe-zu-ld.10072137",
+     "date": "2026-11-23T14:46:26.000Z",
+     "text": "Drei Monate nach der tödlichen Sturzflut im Himalaja warten viele Einwohner noch immer auf Hilfe. Erst wenige Brücken und Strassen sind repariert, die Umsiedlung der Überlebenden verzögert sich. Die Kritik an der Regierung wächst."
+    },
+    {
+     "title": "Das Comeback von Jensen Huang: Eine Chronologie der Ereignisse",
+     "url": "https://www.nzz.ch/international/das-comeback-von-jensen-huang-eine-chronologie-der-ereignisse-ld.10061069",
+     "date": "2026-11-23T14:36:56.000Z",
+     "text": "Jensen Huang reichte nach einer mutmasslichen Spionageaffäre seinen Rücktritt ein, nur um kurz darauf wieder als CEO zurückzukehren. Wie konnte das passieren?"
     },
     {
      "title": "Kriegsschauplatz Mittelmeer: Die Ukraine versenkt eine russische Korvette in Libyen",
@@ -1431,16 +1455,28 @@
      "text": "Nach Donald Trumps Niederlage bei den amerikanischen Zwischenwahlen erhöht Teheran den Druck und greift Tankschiffe und Militäranlagen am Golf an. Doch die Strategie ist riskant."
     },
     {
-     "title": "Abschlusserklärung zur Klimakonferenz COP31: Neuer Text erwähnt Öl, Kohle und Gas nicht",
-     "url": "https://www.nzz.ch/international/abschlusserklaerung-zum-klimagipfel-cop31-neuer-textentwurf-erwaehnt-oel-kohle-und-gas-nicht-ld.10071390",
-     "date": "2026-11-22T06:36:08.000Z",
-     "text": "Nach weit über 30 Stunden Verlängerung liegt der Konferenz in Antalya ein neuer Entwurf für eine Abschlusserklärung vor. Darin wird eine bittere Wahrheit anerkannt: Die Erderhitzung kann nicht mehr bei der kritischen Marke von 1,5 Grad gestoppt werden."
-    },
-    {
      "title": "Jensen Huang ist wieder an der Spitze von Nvidia. Wie er sich unersetzlich gemacht hat",
      "url": "https://www.nzz.ch/wirtschaft/jensen-huang-ist-wieder-ceo-von-nvidia-wie-er-sich-unersetzlich-machte-nzz-ld.10062199",
      "date": "2026-11-23T15:09:04.000Z",
      "text": "Was ist das für ein Mann, der so wichtig ist für den Chiphersteller, dass selbst eine Spionageaffäre ihm nichts anhaben kann?"
+    },
+    {
+     "title": "KOMMENTAR - Schöner durchwursteln mit Premierminister Andy Burnham",
+     "url": "https://www.nzz.ch/meinung/schoener-durchwursteln-mit-premierminister-andy-burnham-ld.10067910",
+     "date": "2026-11-24T04:35:00.000Z",
+     "text": "Der neue britische Premierminister hat Labour und das Land aus der gefühlten Hoffnungslosigkeit herausgeholt. Seine Politik schwankt zwischen populären Gesten und radikalen Ankündigungen. Alle grossen Herausforderungen des Landes harren einer Lösung."
+    },
+    {
+     "title": "Rekordetat für die Bundeswehr – doch kauft Deutschland auch die richtigen Waffen?",
+     "url": "https://www.nzz.ch/pro/rekordausgaben-fuer-die-bundeswehr-doch-kauft-deutschland-die-richtigen-waffen-ld.10068959",
+     "date": "2026-11-24T04:30:00.000Z",
+     "text": "Die Regierung in Berlin sieht für 2027 rund 140 Milliarden Euro für die Verteidigung vor. Das ist so viel wie seit dem Kalten Krieg nicht mehr. An der deutschen Brigade in Litauen wird sich zeigen, ob das Land jetzt die richtigen Entscheidungen trifft."
+    },
+    {
+     "title": "Die polnische Industriestadt Lodz lockt westliche Konzerne für Auslagerungen – nun gehen ihr die Arbeitskräfte aus",
+     "url": "https://www.nzz.ch/wirtschaft/lodz-eine-alte-industriestadt-erfindet-sich-neu-ld.10059976",
+     "date": "2026-11-24T04:30:00.000Z",
+     "text": "Nach dem Niedergang der Textilindustrie erfand sich die Metropole als beliebter Standort für Industrieproduktion und Dienstleistungszentren neu. Doch Abwanderung und Überalterung drohen die Entwicklung zu bremsen."
     },
     {
      "title": "Die Hamas besiegt man nicht über die Chefetage",
@@ -1465,24 +1501,6 @@
      "url": "https://www.nzz.ch/pro/cop31-gescheitert-klimapolitik-im-realitaetsschock-energiewende-geht-weiter-ld.10071537",
      "date": "2026-11-22T16:11:27.000Z",
      "text": "Die jüngste Klimakonferenz, COP31, ist an den weltweiten Interessenkonflikten in der Klimapolitik gescheitert. Trotzdem schreitet die Energiewende voran."
-    },
-    {
-     "title": "Andy Burnham will wieder in die EU. Was wohl die Brexit-Befürworter dazu sagen?",
-     "url": "https://www.nzz.ch/international/andy-burnham-will-wieder-in-die-eu-was-wohl-die-brexit-befuerworter-dazu-sagen-ld.10069519",
-     "date": "2026-11-22T04:30:00.000Z",
-     "text": "Der britische Regierungschef Andy Burnham will Grossbritannien wieder Richtung EU führen. Der wohl berühmteste Brexiteer, Boris Johnson, schäumt vor Wut. Allein, wen kümmert’s? Die Befürworter des Brexits von damals spielen heute kaum mehr eine Rolle."
-    },
-    {
-     "title": "Der Börsengang von Anthropic löst einen massiven Absturz der Nasdaq und Angst vor einem Crash aus",
-     "url": "https://www.nzz.ch/wirtschaft/der-verpatzte-boersengang-von-anthropic-und-ein-massiver-absturz-der-nasdaq-schueren-bei-investoren-angst-vor-einem-crash-ld.10067396",
-     "date": "2026-11-22T04:30:00.000Z",
-     "text": "Der langjährige Börsenexperte Paul Jackson warnt schon lange davor, dass Anleger zu viele US-Aktien halten und somit auch hohe KI-Risiken eingehen. Wie stuft er die Börsenturbulenzen von dieser Woche ein?"
-    },
-    {
-     "title": "Die Grossmächte USA und Russland zögern ein Verbot von Killerrobotern hinaus",
-     "url": "https://www.nzz.ch/technologie/die-grossmaechte-usa-und-russland-zoegern-ein-verbot-von-killerrobotern-hinaus-ld.10070079",
-     "date": "2026-11-22T04:24:00.000Z",
-     "text": "Eine fünftägige Konferenz der Uno-Waffenkonvention endet in Genf mit einem vagen Kompromiss. Sind die Vereinten Nationen erneut gescheitert? Und wie geht es jetzt weiter?"
     }
    ]
   },
@@ -1709,22 +1727,22 @@
      "text": "On 22/11/2026, a flood started in Thailand, lasting until 24/11/2026 (last update). The flood caused 0 deaths and 0 displaced ."
     },
     {
+     "title": "Green forest fire notification in Australia",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034046",
+     "date": "2026-11-24T04:00:49.000Z",
+     "text": "On 22/11/2026, a forest fire started in Australia, until 24/11/2026."
+    },
+    {
      "title": "Green forest fire notification in Bolivia",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034027",
-     "date": "2026-11-24T00:00:53.000Z",
+     "date": "2026-11-24T04:00:57.000Z",
      "text": "On 22/11/2026, a forest fire started in Bolivia, until 23/11/2026."
     },
     {
      "title": "Green forest fire notification in Australia",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034028",
-     "date": "2026-11-24T00:01:07.000Z",
+     "date": "2026-11-24T04:00:36.000Z",
      "text": "On 22/11/2026, a forest fire started in Australia, until 23/11/2026."
-    },
-    {
-     "title": "Green forest fire notification in Central African Republic",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034007",
-     "date": "2026-11-22T16:00:09.000Z",
-     "text": "On 21/11/2026, a forest fire started in Central African Republic, until 22/11/2026."
     },
     {
      "title": "Green forest fire notification in Bolivia",
@@ -1733,15 +1751,21 @@
      "text": "On 21/11/2026, a forest fire started in Bolivia, until 23/11/2026."
     },
     {
+     "title": "Green forest fire notification in Central African Republic",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034007",
+     "date": "2026-11-22T16:00:09.000Z",
+     "text": "On 21/11/2026, a forest fire started in Central African Republic, until 22/11/2026."
+    },
+    {
      "title": "Green forest fire notification in Australia",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034038",
-     "date": "2026-11-24T00:01:27.000Z",
+     "date": "2026-11-24T04:01:20.000Z",
      "text": "On 21/11/2026, a forest fire started in Australia, until 23/11/2026."
     },
     {
      "title": "Green forest fire notification in Togo, Burkina Faso, Benin",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034039",
-     "date": "2026-11-24T00:01:34.000Z",
+     "date": "2026-11-24T04:01:03.000Z",
      "text": "On 21/11/2026, a forest fire started in Togo, Burkina Faso, Benin, until 23/11/2026."
     },
     {
@@ -1759,7 +1783,7 @@
     {
      "title": "Green forest fire notification in South Sudan",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034033",
-     "date": "2026-11-24T00:01:42.000Z",
+     "date": "2026-11-24T04:01:36.000Z",
      "text": "On 20/11/2026, a forest fire started in South Sudan, until 23/11/2026."
     },
     {
@@ -1769,28 +1793,28 @@
      "text": "On 19/11/2026, a forest fire started in South Sudan, until 23/11/2026."
     },
     {
+     "title": "Green forest fire notification in Togo, Burkina Faso, Benin",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034024",
+     "date": "2026-11-23T16:01:33.000Z",
+     "text": "On 19/11/2026, a forest fire started in Togo, Burkina Faso, Benin, until 23/11/2026."
+    },
+    {
      "title": "Green forest fire notification in South Sudan, Central African Republic",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034040",
-     "date": "2026-11-24T00:02:35.000Z",
+     "date": "2026-11-24T04:01:41.000Z",
      "text": "On 19/11/2026, a forest fire started in South Sudan, Central African Republic, until 23/11/2026."
     },
     {
      "title": "Green forest fire notification in Central African Republic",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034041",
-     "date": "2026-11-24T00:02:10.000Z",
+     "date": "2026-11-24T04:01:56.000Z",
      "text": "On 19/11/2026, a forest fire started in Central African Republic, until 23/11/2026."
     },
     {
      "title": "Green forest fire notification in South Sudan",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034042",
-     "date": "2026-11-24T00:02:14.000Z",
+     "date": "2026-11-24T04:01:59.000Z",
      "text": "On 19/11/2026, a forest fire started in South Sudan, until 23/11/2026."
-    },
-    {
-     "title": "Green forest fire notification in Togo, Burkina Faso, Benin",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034024",
-     "date": "2026-11-23T16:01:33.000Z",
-     "text": "On 19/11/2026, a forest fire started in Togo, Burkina Faso, Benin, until 23/11/2026."
     },
     {
      "title": "Green forest fire notification in Australia",
@@ -1801,13 +1825,13 @@
     {
      "title": "Green forest fire notification in Australia",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034003",
-     "date": "2026-11-24T00:02:46.000Z",
+     "date": "2026-11-24T04:02:10.000Z",
      "text": "On 19/11/2026, a forest fire started in Australia, until 22/11/2026."
     },
     {
      "title": "Green forest fire notification in Ghana, Burkina Faso",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034013",
-     "date": "2026-11-24T00:02:24.000Z",
+     "date": "2026-11-24T04:01:52.000Z",
      "text": "On 19/11/2026, a forest fire started in Ghana, Burkina Faso, until 22/11/2026."
     },
     {
@@ -1819,7 +1843,7 @@
     {
      "title": "Green forest fire notification in South Sudan",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034008",
-     "date": "2026-11-24T00:03:05.000Z",
+     "date": "2026-11-24T04:02:57.000Z",
      "text": "On 18/11/2026, a forest fire started in South Sudan, until 22/11/2026."
     },
     {
@@ -1851,12 +1875,6 @@
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034001",
      "date": "2026-11-22T08:01:18.000Z",
      "text": "On 18/11/2026, a forest fire started in Australia, until 21/11/2026."
-    },
-    {
-     "title": "Green forest fire notification in Australia",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034005",
-     "date": "2026-11-22T12:03:37.000Z",
-     "text": "On 17/11/2026, a forest fire started in Australia, until 22/11/2026."
     }
    ]
   },
@@ -1873,6 +1891,13 @@
      "via": "NDR.de"
     },
     {
+     "title": "A26-Ost in Hamburg: Arbeiten an der Hafenpassage ruhen erneut - verkehrsrundschau.de",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZTdKd0JFTEFzWGFJU3psSFVFdDZWY0p4TnBwQ3JWR2FLRFpqLWk3c2ttSEE2UmhQSThMTVVMV3ZEbV9BLWdWTUFQcWhNUTE1NHBENjRsa2NObFlOM1h5cnUyVVBjcngtQXlOeFRyei1KcHU2Sm1wLUk2enFJTEM4OWJfZUJkMlp1MDMxY21GUUN2bllSUEZodi00c2hmeVZTSWlfRmdMNERidFlCaXU3QURRZjNjZVpSa01SMVhyYzBmUUFNaTJHenZZWGw?oc=5",
+     "date": "2026-11-20T09:45:00.000Z",
+     "text": "A26-Ost in Hamburg: Arbeiten an der Hafenpassage ruhen erneut verkehrsrundschau.de",
+     "via": "verkehrsrundschau.de"
+    },
+    {
      "title": "Ukraine versenkt russisches Kriegsschiff in libyschem Hafen - tagesschau.de",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XbWs4R2p5NTliUVNocFFCaDQ4NHJTNEJ4UXg5SzlXT0laejJ5TzlUa3FWc1lXVDZzOWlLZUZ6bXRJWFJaRjFKWHdhR2llZUctb3dCN2Q5Ym9sbDZhbmFteElfVmxDNUVjS2R4Wlp3?oc=5",
      "date": "2026-11-23T10:05:00.000Z",
@@ -1880,18 +1905,18 @@
      "via": "tagesschau.de"
     },
     {
-     "title": "Angriff ukrainischer Seedrohnen?: Explosion erschüttert russisches Kriegsschiff im Hafen von Bengasi - n-tv.de",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObFAwamdhTnlIeVc3WmpBRWdGWTl3S1Y3aV9aN1lYbXdIenhydW1vXzR4b1RCYmJzU01Zc1dPRHJiLVRuUmVMUVliMjhVRmwwM1NHU0ZpckRvNHNrd3pvejE5LTU1YjEyaUlXZ0ZhYVc2c1hjd2JCYjlIZWFMUjJCRjZieWdVcmZKSHdWNi1KQmF0Z2twUXlQeEhqZE05cUotT0JtU2JNRG9WMzByVnkxeg?oc=5",
-     "date": "2026-11-22T16:47:09.000Z",
-     "text": "Angriff ukrainischer Seedrohnen?: Explosion erschüttert russisches Kriegsschiff im Hafen von Bengasi n-tv.de",
-     "via": "n-tv.de"
-    },
-    {
      "title": "Libyen: Selenskyj bestätigt ukrainischen Angriff auf russisches Kriegsschiff - DIE ZEIT",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZF93M1VsaTF2R0RZMXhuU1l0anFfT2h3TzZrVl9NUkZqZ1o4ei1WTHJ0enFZTkZrY2FGVkJkaWZkSHZTRjRJQVE0NnVrbUItSGgxVEJrUWptMUdHc0tPUTFjRWxBMHVmamdEdjNFTTBISURqVHlNTGxUR3U0WXJxelRvQUJuM2dmZU1jcDJGWE9SZmFSLVFPbThJRzE2VXdsbFJj?oc=5",
      "date": "2026-11-23T09:11:06.000Z",
      "text": "Libyen: Selenskyj bestätigt ukrainischen Angriff auf russisches Kriegsschiff DIE ZEIT",
      "via": "DIE ZEIT"
+    },
+    {
+     "title": "Angriff ukrainischer Seedrohnen?: Explosion erschüttert russisches Kriegsschiff im Hafen von Bengasi - n-tv.de",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObFAwamdhTnlIeVc3WmpBRWdGWTl3S1Y3aV9aN1lYbXdIenhydW1vXzR4b1RCYmJzU01Zc1dPRHJiLVRuUmVMUVliMjhVRmwwM1NHU0ZpckRvNHNrd3pvejE5LTU1YjEyaUlXZ0ZhYVc2c1hjd2JCYjlIZWFMUjJCRjZieWdVcmZKSHdWNi1KQmF0Z2twUXlQeEhqZE05cUotT0JtU2JNRG9WMzByVnkxeg?oc=5",
+     "date": "2026-11-22T16:47:09.000Z",
+     "text": "Angriff ukrainischer Seedrohnen?: Explosion erschüttert russisches Kriegsschiff im Hafen von Bengasi n-tv.de",
+     "via": "n-tv.de"
     },
     {
      "title": "Ursache noch völlig unklar: Russisches Kriegsschiff explodiert in Mittelmeerhafen - T-Online",
@@ -1908,11 +1933,11 @@
      "via": "Hamburg 1"
     },
     {
-     "title": "Bestätigung aus Kiew: Russisches Kriegsschiff vor Libyen versenkt - ORF",
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9uem1OdGhHcG05Y0g0NXlVaGtTU2xOaFB4Y082bW1WcVVjV05pRFJ4aUdsdnozTm45Vkt0cVhlMUE1TXoxNVE?oc=5",
-     "date": "2026-11-23T12:57:27.000Z",
-     "text": "Bestätigung aus Kiew: Russisches Kriegsschiff vor Libyen versenkt ORF",
-     "via": "ORF"
+     "title": "Ukrainische Drohnen versenken russisches Kriegsschiff im Hafen von Benghazi - DiePresse.com",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3d1OTFPRlhfYXF4T29taFJQdDFmTThpcFJHUGRuLVFrLWhadWVkRG9aOUVNSF92VGpORkxJaWY1dDdyR2FjMU1jNEYwbEttWVlBNWF6MkVSMGY3QThacW9VNFZ1cVdvOXRSR3AzVk05OGtoc284SkQtaFMtdkxXUnJoc1BSTE1rMnpNdGN6dW1RZW0xbmF0NE5pYU9Ua0hsT3h3?oc=5",
+     "date": "2026-11-23T10:53:48.000Z",
+     "text": "Ukrainische Drohnen versenken russisches Kriegsschiff im Hafen von Benghazi DiePresse.com",
+     "via": "DiePresse.com"
     },
     {
      "title": "Hunderte HSV-Ultras überraschen ihre Stars im Hafen - Blick",
@@ -1929,6 +1954,13 @@
      "via": "NDR.de"
     },
     {
+     "title": "Großbritannien mit AIDA: Kaum bekannter Hafen überraschte Kreuzfahrt-Profi - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlBjN0tiNDJUZUdMX1VDVHBIU1BHTjgxVDV1aVItc2FWQllmeGE0ZFZtVTNoaUNzLXZKUEF4bWlkOUhZTXJKTWZ5M0Q1TURyNkpCNDFMVHJCWVpPOXE0MktwdlZqZlNXMXk0WXRGLU9RNUcwamVrd0tKOHltSXQzX3BxNlI5S29xcXhVa2ZRbV8zdkptcjRSQmlkOGdWR3puTnNfMVhVRTh3a3VpTGR2azNlY3Z6bU1zX3FfRXZWT0pQUTA?oc=5",
+     "date": "2026-11-20T13:02:00.000Z",
+     "text": "Großbritannien mit AIDA: Kaum bekannter Hafen überraschte Kreuzfahrt-Profi Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
      "title": "Hafen Qingdao baut sein Schifffahrtsroutennetz zu APEC-Volkswirtschaften aus - German China.org",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FaXRnZ3JpNFY0MHF4NzlZTkVJNXVtYjNHMnNmQzg0R2lPaUdQb0VkZkNvV2lwNG93WjZjcDJoaXZjeGMzMjNjcUtZZ0lNRkFTb1FiZWdYY2J3ZDlmaExPSDJ1elZVRkxpQnJIOU44M28?oc=5",
      "date": "2026-11-20T07:20:45.000Z",
@@ -1941,20 +1973,6 @@
      "date": "2026-11-23T04:58:48.000Z",
      "text": "Libyen: Zweiter Drohnenangriff auf Schiff vor Bengasi ORF",
      "via": "ORF"
-    },
-    {
-     "title": "Großbritannien mit AIDA: Kaum bekannter Hafen überraschte Kreuzfahrt-Profi - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlBjN0tiNDJUZUdMX1VDVHBIU1BHTjgxVDV1aVItc2FWQllmeGE0ZFZtVTNoaUNzLXZKUEF4bWlkOUhZTXJKTWZ5M0Q1TURyNkpCNDFMVHJCWVpPOXE0MktwdlZqZlNXMXk0WXRGLU9RNUcwamVrd0tKOHltSXQzX3BxNlI5S29xcXhVa2ZRbV8zdkptcjRSQmlkOGdWR3puTnNfMVhVRTh3a3VpTGR2azNlY3Z6bU1zX3FfRXZWT0pQUTA?oc=5",
-     "date": "2026-11-20T13:02:00.000Z",
-     "text": "Großbritannien mit AIDA: Kaum bekannter Hafen überraschte Kreuzfahrt-Profi Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "Von Drohnen attackiert? Russisches Kriegsschiff in Hafen explodiert - TAG24",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkRYREVEUDJ0T0J4Q2F5MjJUVDJKdzgyQVJmZkZNejNXQ2RQNTQzM3BMMHVPamlubk1aeTVheDFPTmRPQkJuV2lkOVNXSmIyampkdXVfaHJnX3IxTEJ0ek1SckNJNkRYb213bEUxQ19henlRY3laU01mQ2JFdkhvVEVFS3NGS01wSEtTR0RGUTFDa0s2UndmM3NSSmZJbE9qc3R2bzZnZFVBUVpTX1E0S015RkVMZW8?oc=5",
-     "date": "2026-11-22T17:52:00.000Z",
-     "text": "Von Drohnen attackiert? Russisches Kriegsschiff in Hafen explodiert TAG24",
-     "via": "TAG24"
     }
    ]
   }

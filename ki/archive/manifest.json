@@ -1,6 +1,30 @@
 {
   "briefs": [
     {
+      "date": "2026-11-24",
+      "file": "2026-11-24.html",
+      "headline": "Anthropic startet „Claude Ship“ für KI-geprüfte Code-Änderungen",
+      "count": 16,
+      "sources": 8,
+      "cats": {
+        "Claude & Anthropic": 1,
+        "Business & Funding": 4,
+        "Modelle & Releases": 2,
+        "KI im Alltag & Beruf": 4,
+        "Tools & Agenten": 1,
+        "Forschung & Deep Tech": 3,
+        "Regulierung & Politik": 1
+      },
+      "ents": {
+        "Anthropic": 2,
+        "Nvidia": 1,
+        "OpenAI": 3,
+        "Google": 3,
+        "Amazon": 1,
+        "xAI": 1
+      }
+    },
+    {
       "date": "2026-11-23",
       "file": "2026-11-23.html",
       "headline": "Beweis der Riemannschen Vermutung offiziell bestätigt",
