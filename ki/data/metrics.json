@@ -1130,41 +1130,41 @@
  "hf": [
   {
    "id": "thinkingmachines/Inkling-2-Mini",
-   "likes": 5583,
-   "downloads": 41888,
+   "likes": 5604,
+   "downloads": 69042,
    "task": "image-text-to-text"
   },
   {
    "id": "unsloth/Inkling-2-Mini-GGUF",
-   "likes": 1158,
-   "downloads": 1292888,
+   "likes": 1167,
+   "downloads": 1913407,
    "task": "image-text-to-text"
   },
   {
    "id": "inworld/voice-isolator",
-   "likes": 758,
-   "downloads": 0,
+   "likes": 762,
+   "downloads": 12733,
    "task": "audio-to-audio"
   },
   {
    "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-   "likes": 687,
-   "downloads": 329497,
+   "likes": 691,
+   "downloads": 573775,
    "task": "image-text-to-text"
   },
   {
    "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 1048,
-   "downloads": 3132,
+   "likes": 1049,
+   "downloads": 3529,
    "task": "image-text-to-text"
   },
   {
    "id": "higurashi-ai/Haru-4B",
-   "likes": 945,
-   "downloads": 9087,
+   "likes": 946,
+   "downloads": 9575,
    "task": "audio-to-audio"
   }
  ],
- "updated": "2026-11-24T08:42:39.276Z",
+ "updated": "2026-11-24T10:21:58.707Z",
  "updatedDay": "2026-11-06"
 }
