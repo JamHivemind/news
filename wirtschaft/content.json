@@ -1,101 +1,109 @@
 {
-  "date": "2026-11-23",
-  "intro": "Die Angst vor einer KI-Blase drückt die Börsen, Nvidia hat fast die Hälfte seines Werts verloren. In Deutschland streiken Metaller, und der geplante Spritpreisdeckel sorgt für Streit.",
+  "date": "2026-11-24",
+  "intro": "Die Börse erholt sich nach einer Verlustserie, und bei VW beginnt ein harter Tarifstreit. In Berlin rücken Union und SPD beim Streit um die Rente offenbar näher zusammen.",
   "top": [
     {
-      "title": "Börsenbeben: Nvidia und Anthropic unter Druck",
-      "text": "Die Kurse vieler Tech-Aktien stürzen ab. Der Chiphersteller Nvidia hat binnen weniger Wochen fast die Hälfte seines Börsenwerts verloren. Auch der frisch gelistete KI-Konzern Anthropic ist betroffen. Für Sparer mit Welt-ETFs heißt das: Die großen Tech-Werte darin schwanken derzeit stark.",
-      "category": "Börse & Märkte",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben-a-f2133f0d-0378-4c58-9875-7410412e0df1#ref=rss",
-      "source": "Spiegel Wirtschaft"
+      "title": "Börsen erholen sich nach Nvidia-Nachricht",
+      "text": "Der Dax hatte sechs Handelstage in Folge verloren und war auf den tiefsten Stand seit Anfang Oktober gefallen. Am Montag erholte er sich erst zaghaft. Dann trieb die Rückkehr von Jensen Huang an die Nvidia-Spitze KI-Aktien nach oben. An der Wall Street schloss der Nasdaq-Index (Technologiebörse) mehr als sechs Prozent im Plus.",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Börse & Märkte"
     },
     {
-      "title": "IG Metall weitet Warnstreiks im Norden aus",
-      "text": "Nach den bundesweiten Warnstreiks vom Freitag legt die IG Metall Küste nach. In der norddeutschen Metall- und Elektroindustrie soll erneut 24 Stunden gestreikt werden, teils schon ab Sonntagabend. Betroffen sind Beschäftigte, die auf einen neuen Tarifvertrag drängen; für Kunden kann es zu Lieferverzögerungen kommen.",
+      "title": "VW und IG Metall starten harte Tarifrunde",
+      "text": "Volkswagen verlangt von den Beschäftigten wegen der Krise der Autoindustrie massive Einschnitte, etwa Nullrunden, Änderungen bei der Arbeitszeit und bei Zulagen. Laut Handelsblatt will der Konzern sogar frühere Lohnzusagen kassieren. Die IG Metall wehrt sich, die Fronten gelten als verhärtet. Für die Beschäftigten geht es um ihr Einkommen, für VW um seine Kosten.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/fronten-verhaertet-ig-metall-und-vw-starten-tarifverhandlungen/100272235.html",
+      "source": "Handelsblatt",
       "category": "Arbeit & Soziales",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
-      "source": "tagesschau Wirtschaft"
+      "tipp": "VW-Beschäftigte und Gewerkschaftsmitglieder sollten die Informationen der IG Metall zu Warnstreik- und Verhandlungsterminen im Blick behalten."
     },
     {
-      "title": "Spritpreisdeckel: Höchstpreis würde fast täglich greifen",
-      "text": "Wirtschaftsministerin Reiche hat einen Spritpreisdeckel vorgeschlagen, also eine Obergrenze für Benzin- und Dieselpreise. Handelsblatt-Berechnungen zufolge würde Sprit damit im Schnitt 7,5 Cent je Liter günstiger. Der Höchstpreis würde fast jeden Tag greifen, vor allem zu einer bestimmten Uhrzeit. Reiche will Autobahntankstellen ausnehmen, Linke und Grüne kritisieren das.",
-      "category": "Energie",
-      "url": "https://www.handelsblatt.com/politik/deutschland/kraftstoff-preisdeckel-koennte-sprit-bis-zu-75-cent-pro-liter-verguenstigen/100271834.html",
-      "source": "Handelsblatt"
+      "title": "Rentenstreit: Union und SPD deuten Kompromiss an",
+      "text": "Die Union will die „Rente mit 63“ am liebsten abschaffen, die SPD will sie behalten. Laut Handelsblatt sprechen beide Seiten inzwischen von Kompromissen. Wichtige Fragen der geplanten Reform sind aber weiter offen. Für Beschäftigte kurz vor der Rente entscheidet sich damit, ob frühes Aufhören teurer wird.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/rente-mit-63-union-macht-druck-bei-rente-spd-kompromissbereit/100272122.html",
+      "source": "Handelsblatt",
+      "category": "Arbeit & Soziales"
     }
   ],
   "entries": [
     {
-      "title": "VW fordert von der IG Metall Verzicht",
-      "summary": "Kein Lohnplus, mehr Arbeit und weniger Extras: So lautet der Forderungskatalog von Volkswagen. Eine schnelle Einigung gilt als unwahrscheinlich.",
-      "category": "Arbeit & Soziales",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifstreit-ig-metall-100.html",
-      "source": "tagesschau Wirtschaft"
+      "title": "Neue Warnstreiks in der Metall- und Elektroindustrie",
+      "summary": "In Norddeutschland läuft ein weiterer Warnstreik. Vielerorts sind die Tarifverhandlungen festgefahren.",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Arbeit & Soziales"
     },
     {
-      "title": "EU und Indonesien schließen Handelspakt",
-      "summary": "Zölle auf europäische Autos sollen bald entfallen. Indonesien will dafür mehr wichtige Batterierohstoffe liefern.",
-      "category": "Politik & Handel",
-      "url": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss",
-      "source": "Spiegel Wirtschaft"
-    },
-    {
-      "title": "Netzbetreiber fordern Krisengipfel für Stromnetze",
-      "summary": "Rechenzentren und Industrie warten oft Jahre auf einen Stromanschluss. Die Netzbetreiber verlangen deshalb ein Treffen mit Bund und Ländern.",
+      "title": "Stromspar-Check für weitere drei Jahre gesichert",
+      "summary": "Haushalte mit wenig Geld können sich weiter kostenlos zum Stromsparen beraten lassen und Zuschüsse bekommen. Die Finanzierung ist für drei weitere Jahre gesichert.",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
+      "source": "tagesschau Wirtschaft",
       "category": "Energie",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/stromnetze-bdew-und-vku-fordern-krisengipfel-mit-katherina-reiche-201701678.html",
-      "source": "FAZ Wirtschaft"
+      "tipp": "Haushalte mit geringem Einkommen können die kostenlose Stromspar-Beratung nutzen."
     },
     {
-      "title": "Streit um EU-Haushalt geht weiter",
-      "summary": "Ratspräsident Costa kürzt seinen Vorschlag, Kanzler Merz kritisiert ihn trotzdem. Steuern für Digitalkonzerne sollen die Finanzen entspannen.",
-      "category": "Politik & Handel",
-      "url": "https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag-a-dabd98ed-f515-48af-af87-b52c783e71ee#ref=rss",
-      "source": "Spiegel Wirtschaft"
+      "title": "Nachfrage nach MINT-Fachkräften steigt wieder",
+      "summary": "Erstmals seit 2023 suchen Firmen wieder mehr Fachkräfte aus Mathematik, Informatik, Naturwissenschaften und Technik (MINT). Die bessere Konjunktur wirkt sich damit auf den Arbeitsmarkt aus.",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mint-fachkraefte-steigende-nachfrage-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Arbeit & Soziales"
     },
     {
-      "title": "Verbrenner-Aus: Minister fordert Bekenntnis der Autobauer",
-      "summary": "Die EU könnte neue Verbrenner und Hybride auch nach 2035 erlauben. Verkehrsminister Bilger knüpft daran eine klare Erwartung an die Hersteller.",
-      "category": "Unternehmen",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/verbrenner-aus-verkehrsminister-steffen-bilger-fordert-bekenntnis-zu-deutschland-a-8059c9a8-fb59-4254-91cd-d70b666eb42b#ref=rss",
-      "source": "Spiegel Wirtschaft"
+      "title": "Obi und Toom wollen fusionieren",
+      "summary": "Die beiden Baumarktketten wollen ihre mehr als 600 Märkte unter einem Dach vereinen. Die Marke Toom soll wegfallen. Für Kunden heißt das: Märkte unter dem Namen Obi.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/baumarktketten-obi-und-toom-schliessen-sich-zusammen-a-3a984bb7-6185-415f-a62e-146a593dd5c7#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Unternehmen"
     },
     {
-      "title": "Streik legt Flugverkehr nach Belgien lahm",
-      "summary": "Am Montag gibt es tagsüber keine regulären Flüge von Deutschland und anderen Ländern nach Belgien. Der Ärger bei Reisenden ist groß.",
-      "category": "Arbeit & Soziales",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/generalstreik-in-belgien-legt-flugverkehr-lahm-accg-201707705.html",
-      "source": "FAZ Wirtschaft"
+      "title": "BYD darf SUV Ti7 in der EU nicht verkaufen",
+      "summary": "Ein Gericht in Den Haag untersagt den Verkauf, weil das Modell dem Land Rover Defender zu ähnlich sieht. Die BYD-Aktie reagierte mit Kursverlusten.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/byd-aktie-faellt-nach-eu-verkaufsverbot-fuer-ti7-suv-wegen-defender-aehnlichkeit-a-d3dce60e-82ac-4c8f-b443-41e969718b32#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Unternehmen"
     },
     {
-      "title": "Tesla investiert drei Milliarden Euro in Grünheide",
-      "summary": "Tesla will am Standort autonome Fahrzeuge bauen. Die FAZ fragt, ob das Werk zur Investitionsruine werden könnte.",
-      "category": "Unternehmen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/teslas-wette-auf-europa-ist-gewagt-201700919.html",
-      "source": "FAZ Wirtschaft"
+      "title": "Spritpreisdeckel: Reiche will Autobahntankstellen ausnehmen",
+      "summary": "Wirtschaftsministerin Katherina Reiche befürchtet bei einem harten Preisdeckel knappes Benzin und Diesel und will Ausnahmen für Autobahntankstellen. Linke und Grüne kritisieren das.",
+      "url": "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Energie"
     },
     {
-      "title": "Katar will über 15 Milliarden Euro in Deutschland investieren",
-      "summary": "Die Börsen-Zeitung berichtet, Deutschland und Katar rücken enger zusammen. Die Investitionen sollen 15 Milliarden Euro übersteigen.",
-      "category": "Politik & Handel",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObklLMG1ObU5NZzkzTGdvUWNqdXdWV2FVbGJueFNGZUpmMW1sRld3MkJhWWpBeEZfMDd4TF9WOG5VRUdVak9YR2czZmRhODhmY1pQaURpV1RCLUVkbzkyTEc4SktRX1U2WFhXOEdGUUt2SW9hZGM1aC1XWDFmajdzUHZOVUl4cllMQWkyRVY1b1VqTDNvODZJWVdIVW94Y2VrTVNmZG1aV25veFVkdU9oS05DSzNkVTJjNzEtVjBR?oc=5",
-      "source": "Börsen-Zeitung"
+      "title": "Altersteilzeit: Strengere Regeln könnten Milliarden bringen",
+      "summary": "Die Rentenkommission der Bundesregierung will die Altersteilzeit strenger regeln. Das DIW (ein Wirtschaftsforschungsinstitut) hat ausgerechnet, was das dem Staat einbringen würde.",
+      "url": "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Arbeit & Soziales"
     },
     {
-      "title": "Söder macht Druck bei der kalten Progression",
-      "summary": "Kalte Progression bedeutet: Steigt das Gehalt nur mit der Inflation, zahlt man trotzdem mehr Steuern. Die Koalition fand dafür keinen Ausgleich, Söder will das ändern.",
-      "category": "Politik & Handel",
-      "url": "https://www.handelsblatt.com/politik/deutschland/versteckte-steuererhoehung-soeder-laesst-bei-kalter-progression-nicht-locker/100271857.html",
-      "source": "Handelsblatt"
+      "title": "Regierung lehnt Söders Ruf nach Steuerentlastung ab",
+      "summary": "CSU-Chef Markus Söder fordert, die kalte Progression (steigende Steuer allein durch Inflation) für 2027 voll auszugleichen. Die Bundesregierung will darüber nicht neu verhandeln.",
+      "url": "https://nius.de/politik/bundesregierung-erteilt-soeders-forderung-nach-steuerentlastung-eine-absage",
+      "source": "NIUS",
+      "category": "Politik & Handel"
     },
     {
-      "title": "Kartenzahlung auf Märkten oft unmöglich",
-      "summary": "Auf Wochenmärkten und Stadtfesten geht oft nur Bargeld. Eine Umfrage zeigt, dass viele Kunden das stört.",
+      "title": "Junge sehen Aktien als Altersvorsorge, Ältere zögern",
+      "summary": "Das Vertrauen in die gesetzliche Rente sinkt. Laut einer Umfrage setzen besonders junge Menschen auf Aktien, Ältere sind skeptischer. Am beliebtesten ist trotzdem eine andere Form der Vorsorge.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/graben-zwischen-generationen-junge-sehen-aktien-als-gute-altersvorsorge-aeltere-zoegern/100272214.html",
+      "source": "Handelsblatt",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "BMW und Rheinmetall planen Handelshaus für Rohstoffe",
+      "summary": "Mehrere Unternehmen wollen Rohstoffe gemeinsam einkaufen, um unabhängiger von China zu werden. Auch die Bundesregierung soll dabei eine Rolle spielen.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/industrie-bmw-und-rheinmetall-planen-handelshaus-fuer-rohstoffe/100271875.html",
+      "source": "Handelsblatt",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "Exporte bei Maschinenbau und Elektro ziehen an",
+      "summary": "Laut WirtschaftsWoche steigen die Ausfuhren in zwei wichtigen Industriezweigen. Das passt zu Meldungen über eine anziehende Konjunktur.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVndUQmtnM19NTjhFdlZSOExCRlAtamQxWjdaOEFOa181MFVrYWxMendNbzBvSzdieXVmdHVJX3d0RGdfUFZHOGtLM194NS02ZmpVX24xbm9ZVVk1cHE5NnhacnkzZ2twTDd6ZHBwV1R0a093dlpKSDRNMDRIMGR6aURIdV9WR0FsX01GLTlaODZ5cVdTSEcyd2ZCV2F1aEMtMXRfVmNXUkpZNDVLbzJKN0pB?oc=5",
+      "source": "WirtschaftsWoche",
       "category": "Konjunktur",
-      "tipp": "Auf dem Wochenmarkt besser etwas Bargeld einstecken.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/umfrage-kartenzahlung-auf-maerkten-oft-unmoeglich-kunden-unzufrieden/100271923.html",
-      "source": "Handelsblatt"
+      "tipp": "Am Mittwoch um 8 Uhr erscheint die zweite Schätzung zum Bruttoinlandsprodukt, die erste Zahl lag bei plus 0,2 Prozent."
     }
-  ],
-  "rueckblick": "Die Woche begann mit der Genehmigung der Commerzbank-Übernahme durch Unicredit durch die EU, danach hob die EU-Kommission ihre Prognose für Deutschland stark an. Die Koalition beschloss niedrigere Stromsteuer und einen Spritpreisdeckel. Ab Freitag legte die IG Metall mit 24-Stunden- und ganztägigen Warnstreiks nach. Am Wochenende drückten der Anthropic-Börsengang und ein Tech-Ausverkauf die Stimmung."
+  ]
 }
