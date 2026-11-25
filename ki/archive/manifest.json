@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-25",
+      "file": "2026-11-25.html",
+      "headline": "Claude Ship: KI prüft und gibt Code selbst frei",
+      "count": 18,
+      "sources": 6,
+      "cats": {
+        "Claude & Anthropic": 2,
+        "Business & Funding": 2,
+        "Modelle & Releases": 2,
+        "Tools & Agenten": 3,
+        "Regulierung & Politik": 2,
+        "Forschung & Deep Tech": 1,
+        "KI im Alltag & Beruf": 6
+      },
+      "ents": {
+        "Anthropic": 6,
+        "OpenAI": 5,
+        "Google": 2,
+        "Nvidia": 1,
+        "Amazon": 1
+      }
+    },
+    {
       "date": "2026-11-24",
       "file": "2026-11-24.html",
       "headline": "Anthropic startet „Claude Ship“ für KI-geprüfte Code-Änderungen",

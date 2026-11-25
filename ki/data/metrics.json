@@ -1130,41 +1130,41 @@
  "hf": [
   {
    "id": "thinkingmachines/Inkling-2-Mini",
-   "likes": 5809,
+   "likes": 5821,
    "downloads": 69042,
    "task": "image-text-to-text"
   },
   {
    "id": "unsloth/Inkling-2-Mini-GGUF",
-   "likes": 1267,
+   "likes": 1272,
    "downloads": 1913407,
    "task": "image-text-to-text"
   },
   {
    "id": "inworld/voice-isolator",
-   "likes": 823,
+   "likes": 824,
    "downloads": 12733,
    "task": "audio-to-audio"
   },
   {
    "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-   "likes": 760,
+   "likes": 762,
    "downloads": 573775,
    "task": "image-text-to-text"
   },
   {
-   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 1076,
-   "downloads": 3529,
-   "task": "image-text-to-text"
-  },
-  {
    "id": "SulphurAI/Sulphur-3",
-   "likes": 944,
+   "likes": 949,
    "downloads": 160965,
    "task": ""
+  },
+  {
+   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+   "likes": 1079,
+   "downloads": 3529,
+   "task": "image-text-to-text"
   }
  ],
- "updated": "2026-11-25T03:56:54.390Z",
+ "updated": "2026-11-25T05:17:30.410Z",
  "updatedDay": "2026-11-06"
 }
