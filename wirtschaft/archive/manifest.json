@@ -1,6 +1,29 @@
 {
   "briefs": [
     {
+      "date": "2026-11-25",
+      "file": "2026-11-25.html",
+      "headline": "Ifo-Index steigt zum siebten Mal in Folge",
+      "count": 16,
+      "sources": 9,
+      "cats": {
+        "Konjunktur": 4,
+        "Arbeit & Soziales": 2,
+        "Politik & Handel": 3,
+        "Börse & Märkte": 2,
+        "Energie": 2,
+        "Unternehmen": 2,
+        "Zinsen & Geldpolitik": 1
+      },
+      "ents": {
+        "ifo": 1,
+        "Volkswagen": 1,
+        "China": 3,
+        "USA": 2,
+        "EZB": 1
+      }
+    },
+    {
       "date": "2026-11-24",
       "file": "2026-11-24.html",
       "headline": "Börsen erholen sich nach Nvidia-Nachricht",

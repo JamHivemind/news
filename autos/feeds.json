@@ -1,41 +1,11 @@
 {
- "fetched": "2026-11-25T05:16:37.539Z",
+ "fetched": "2026-11-25T05:18:02.745Z",
  "hours": 48,
  "sources": [
   {
    "name": "Auto Bild",
    "ok": true,
    "items": [
-    {
-     "title": "BYD schenkt Kunden bis zu 24.000 Euro!",
-     "url": "https://www.autobild.de/artikel/black-friday-2026-auto-rabatt-zubehoer-opel-fiat-byd-hyundai-toyota-ford-28898963.html",
-     "date": "2026-11-25T05:04:00.000Z",
-     "text": "Black Friday 2026 erreicht auch die Autobranche. AUTO BILD zeigt, welche Hersteller mit Rabatten, Leasing-Deals und Extras locken."
-    },
-    {
-     "title": "Darum braucht VW 16 Monate, um eine Software-Lücke zu schließen",
-     "url": "https://www.autobild.de/artikel/vw-spionagegefahr-durch-bluetooth-schwachstelle-update-28920519.html",
-     "date": "2026-11-25T05:02:00.000Z",
-     "text": "Die Bluetooth-Sicherheitslücke war seit Juli 2025 bekannt. Nun bringt VW endlich ein Update, das Datenklau in Zukunft verhindern soll. Aber warum hat das so lange gedauert? AUTO BILD hat nachgefragt!"
-    },
-    {
-     "title": "Auf welche Autos haben es Autodiebe in Deutschland abgesehen?",
-     "url": "https://www.autobild.de/artikel/autodiebstahl-das-sind-die-meistgeklauten-autos-2025-28919375.html",
-     "date": "2026-11-25T05:00:00.000Z",
-     "text": "Welche Modelle knacken Autodiebe am liebsten? Die aktuelle Liste der Versicherer zeigt: Vor allem eine Geländewagen-Marke ist bedroht. Doch auch zwei neue E-Autos sind im Visier der Kriminellen. Die Diebstahlbilanz!"
-    },
-    {
-     "title": "Vergessenen Luxusautos sind heute Geheimtipps",
-     "url": "https://www.autobild.de/artikel/youngtimer-v6-luxus-zum-kleinwagenpreis-28823609.html",
-     "date": "2026-11-25T05:00:00.000Z",
-     "text": "Kein Stern, kein Propeller, keine vier Ringe: Diese Luxuslimousinen schwammen schon als Neuwagen gegen den Strom. Heute locken die vergessenen Exoten mit Sechszylindern, Komfort und Charakter zu Preisen, für die es sonst kaum einen neuen Kleinwagen gibt."
-    },
-    {
-     "title": "Freie Scheiben und warmer Innenraum: So funktioniert die Standheizung",
-     "url": "https://www.autobild.de/artikel/standheizung-nachruesten-1120037.html",
-     "date": "2026-11-25T05:00:00.000Z",
-     "text": "Nie wieder Eis kratzen und morgens ins kalte Auto steigen: Eine Standheizung wärmt den Innenraum schon vor der Fahrt. AUTO BILD erklärt Technik, Einbau und Kosten."
-    },
     {
      "title": "Elektro oder Verbrenner: Welcher GLC ist die bessere Wahl?",
      "url": "https://www.autobild.de/artikel/mercedes-glc-kaufberatung-684294f-28868047.html",
@@ -185,6 +155,36 @@
      "url": "https://www.autobild.de/artikel/gebrauchtwagen-angebot-dacia-bigster-tce-140-expression-144598c-28920259.html",
      "date": "2026-11-24T10:16:00.000Z",
      "text": "140 PS, viel Platz und nur 25 Kilometer auf dem Tacho: Dieser Dacia Bigster steht jetzt im AUTO BILD-Gebrauchtwagenmarkt zum Verkauf."
+    },
+    {
+     "title": "E-Auto-Quote für Dienstwagen steht vor dem Aus",
+     "url": "https://www.autobild.de/artikel/bericht-e-quote-fuer-firmenwagen-gekippt-28919399.html",
+     "date": "2026-11-24T09:00:00.000Z",
+     "text": "Die EU wollte bislang den Umstieg großer Firmenflotten auf Elektroautos mit verbindlichen Quoten beschleunigen. Einem internen Papier zufolge ist das Thema vom Tisch, doch nun könnte erhöhter bürokratischer Aufwand drohen."
+    },
+    {
+     "title": "Jeder zweite E-Auto-Käufer kennt Akku-Checks nicht",
+     "url": "https://www.autobild.de/artikel/soh-akku-pruefung-bei-gebrauchten-elektroautos-28918295.html",
+     "date": "2026-11-24T09:00:00.000Z",
+     "text": "Viele Autofahrer schrecken vor dem Kauf eines gebrauchten E-Autos zurück, weil sie dem Akku misstrauen. Mit einem Gutachten zur Akkugesundheit könnte diese Sorge leicht entkräftet werden, deckt eine aktuelle Studie auf."
+    },
+    {
+     "title": "China-SUV zieht Flugzeug – auf zwei Rädern!",
+     "url": "https://www.autobild.de/artikel/denza-bao-5-mit-180-tonnen-boeing-im-schlepptau-f63a8f1-28918677.html",
+     "date": "2026-11-24T06:20:00.000Z",
+     "text": "VW hat es vorgemacht, Denza legt noch einen drauf: Der Bao 5 zieht eine Boeing 747 übers Rollfeld. Das Verrückte daran offenbart sich allerdings erst auf den zweiten Blick."
+    },
+    {
+     "title": "1,3 Millionen Euro Mindestgebot für vier E-Prototypen",
+     "url": "https://www.autobild.de/artikel/auktion-nevs-emily-gt-prototyp-elektroauto-von-saab-28919003.html",
+     "date": "2026-11-24T05:22:00.000Z",
+     "text": "2012 meldete Saab Insolvenz an. Der Versuch eines Comebacks mit der Elektromarke NEVS scheiterte. Jetzt kommen vier Prototypen in Schweden unter den Hammer."
+    },
+    {
+     "title": "Geely schickt den Shooting Brake die Klippe runter",
+     "url": "https://www.autobild.de/artikel/crashtest-lynk-co-07-gt-wird-die-klippe-hinuntergeschickt-28918613.html",
+     "date": "2026-11-24T05:17:00.000Z",
+     "text": "Statt klassischem Crashtest wählte Geely einen drastischen Weg: Der chinesische Konzern ließ einen Lynk & Co 07 GT mit 70 km/h von einer Klippe stürzen."
     }
    ]
   },
@@ -208,13 +208,6 @@
      "via": "Autobild.de"
     },
     {
-     "title": "Video: Erste Fahrt im Porsche 718 Elektro - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTQxbHMtVXZIcFc3ZzZkYjl2bG9nVFJZNVVjd09XazdJR2Etb3pEaGVSWlgtUlBpdFY1TUE1VVk2RktLRGRuVTdWenBlOUE3TVNhU2lPOThQUkFKNlprT1ZwNzVZel85M1JJZE5RNFctcTVpMlhpbVVyU1BWbGZYQnE2Tm1HbDN5Rk9oXzhCNV9Cd0VPMjZSM29VQ2dWTTVqLUxDQw?oc=5",
-     "date": "2026-11-24T15:01:00.000Z",
-     "text": "Video: Erste Fahrt im Porsche 718 Elektro Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
      "title": "Dacia Spring privat leasen: So günstig ist das \"alte\" Modell! - Autobild.de",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlhySlBzSmFzSjllc2gzcjExRTY3TmM0cHhpM3BVRUkzZ0tXWkoxTGUweUd2TmpBYmlEYXBRS3dGT0hkMlFlUDdrTkt4M3hObTRKeFo5TkkydUNsRzI2bURwMy1FM19EODN2V0xUVzl1SEM1WmF3TmZMYTd3QXBkOS1hOGY1QzFxUEt6QS1BUQ?oc=5",
      "date": "2026-11-24T11:51:00.000Z",
@@ -229,17 +222,17 @@
      "via": "Autobild.de"
     },
     {
-     "title": "Opel erweitert Start-Reihe: Corsa, Mokka, Grandland als Basismodelle - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVG1pSjV6SFlvcGZkSG41U3BJSHFKSjVyZzhUS0dKOGdqSTI1bldPaVE5al9vNjFpd2xSSDlGX19RWTMtalpBenJmU0ZPZ1M0amJOcFZnSmItRFpFd1BGeXVVdURSR0xtNzNaLVBBM2RtclZsN2RnSHJ2bEM5SzNuTWkyQl9JTG51b1E?oc=5",
-     "date": "2026-11-24T22:19:00.000Z",
-     "text": "Opel erweitert Start-Reihe: Corsa, Mokka, Grandland als Basismodelle Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
      "title": "VW Golf GTI Clubsport im Leasing: 300 PS für 263 Euro im Monat! - Autobild.de",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjlfUnFXdkpzczFuNjBpd3JNX3JKRUxadGNTOUFtRzg0RDNpdjl6cm5qOV8zZUkyX2JuXzhDUERsYWJWSmtmbHQwaXVTLVZ5WC03Nm9WcG5Mbkh0WkxzZlhXcmFjbmZnaVpYOTdOTnlETW5VSEliZjhKMUNlMnViRy1kLVZ6SWNjVVVkTkM1UQ?oc=5",
      "date": "2026-11-23T10:33:00.000Z",
      "text": "VW Golf GTI Clubsport im Leasing: 300 PS für 263 Euro im Monat! Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Opel erweitert Start-Reihe: Corsa, Mokka, Grandland als Basismodelle - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVG1pSjV6SFlvcGZkSG41U3BJSHFKSjVyZzhUS0dKOGdqSTI1bldPaVE5al9vNjFpd2xSSDlGX19RWTMtalpBenJmU0ZPZ1M0amJOcFZnSmItRFpFd1BGeXVVdURSR0xtNzNaLVBBM2RtclZsN2RnSHJ2bEM5SzNuTWkyQl9JTG51b1E?oc=5",
+     "date": "2026-11-24T22:19:00.000Z",
+     "text": "Opel erweitert Start-Reihe: Corsa, Mokka, Grandland als Basismodelle Autobild.de",
      "via": "Autobild.de"
     },
     {
@@ -264,6 +257,13 @@
      "via": "Autobild.de"
     },
     {
+     "title": "Formel 1: Ferrari-Juwel ohne Vertrag - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1ZaeXF3ckxEeXZvXzNZMnUzS0VSTE9fd3YwRVZBdDBKbWxUY2MtV0VMQV9KaTByaWdUTndTQzc1WVhUNk1fSlMtbVY1dHR1Z1dKT0NJTFAtRERubllGZHU4VFNrQ1dCUUIza1VIMU5OSjFmOUpyMVNxRTktaGdhTkxlaGl5TkdL?oc=5",
+     "date": "2026-11-24T06:28:00.000Z",
+     "text": "Formel 1: Ferrari-Juwel ohne Vertrag Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
      "title": "Kompakt-SUV mit viel Ausstattung: Das kostet der Cupra Terramar im Privatleasing - Autobild.de",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM3Z3RlVNQzZDTzlicEt4emJuY1RTcWdNTU9NNDJIZEc2dk5tRU5RMDBiZWhSNy1mN2xaSkx0QnhuZDNpOWpXUU5adE9TT3hUcjlVMGd6YkdjS1J0SkZSSWNDbS1VTnU5U2RuTF9PYVRTVGlrS3ktSzBjYTlrSHhSYVBhUTRmLTBLMks5VzBnd1FIeXFocFE?oc=5",
      "date": "2026-11-23T10:22:00.000Z",
@@ -275,13 +275,6 @@
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaF93WTVFR3VweERkS1hMZlp0R18tWERWSTBEcFhJWE1DYkR4YWFzR1AxdWpkNDlXaUl4UTNNeVJyUlRlVU5jaC0zYS1ZaG8tU3RxOF9SLUg1Q2FQX2pEOHNJMmlVMVBwZkVNeVdtS3hocmQ3bU1TdE1rdXdQeFRsNWl0RlU1dVVvSVR1QVVDQzljVEI5WGhRWlVR?oc=5",
      "date": "2026-11-24T05:00:00.000Z",
      "text": "868 Parkversuche: E-Auto parkt sich die ganze Nacht selbst um Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
-     "title": "Formel 1: Ferrari-Juwel ohne Vertrag - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1ZaeXF3ckxEeXZvXzNZMnUzS0VSTE9fd3YwRVZBdDBKbWxUY2MtV0VMQV9KaTByaWdUTndTQzc1WVhUNk1fSlMtbVY1dHR1Z1dKT0NJTFAtRERubllGZHU4VFNrQ1dCUUIza1VIMU5OSjFmOUpyMVNxRTktaGdhTkxlaGl5TkdL?oc=5",
-     "date": "2026-11-24T06:28:00.000Z",
-     "text": "Formel 1: Ferrari-Juwel ohne Vertrag Autobild.de",
      "via": "Autobild.de"
     },
     {
@@ -303,6 +296,13 @@
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1kwRmhfNUYyN1Y4a2JaU3BlenRUb0doMVBzR0ZzVTJfYnBEOUlvWXdWZ2E0VHJBRHFxTVFsY3ZaYXE4TUo5MWg4ODh0b0ZoMVNlaFVDRXBQX0MyQUdIWlFPRnVfWW9pSjlnSlE3VUZmbFJiMkFFck1YZS1xUTFzNy1aRWl0a1BROS1HWDdZbDhzeGR1STRtQUM5RERzakpncExZ?oc=5",
      "date": "2026-11-24T06:20:00.000Z",
      "text": "Dieses China-SUV zieht eine Boeing – auf zwei Rädern! Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Video: Erste Fahrt im Porsche 718 Elektro - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTQxbHMtVXZIcFc3ZzZkYjl2bG9nVFJZNVVjd09XazdJR2Etb3pEaGVSWlgtUlBpdFY1TUE1VVk2RktLRGRuVTdWenBlOUE3TVNhU2lPOThQUkFKNlprT1ZwNzVZel85M1JJZE5RNFctcTVpMlhpbVVyU1BWbGZYQnE2Tm1HbDN5Rk9oXzhCNV9Cd0VPMjZSM29VQ2dWTTVqLUxDQw?oc=5",
+     "date": "2026-11-24T15:01:00.000Z",
+     "text": "Video: Erste Fahrt im Porsche 718 Elektro Autobild.de",
      "via": "Autobild.de"
     },
     {
@@ -341,17 +341,17 @@
      "via": "Autobild.de"
     },
     {
-     "title": "Festgeld bei Renault, Opel & VW Bank - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9POWNZb2F3LVQ2cHVXMDF2d1B3b1NQalVhYmdRY1ZxRFdLa1lROGFIM3RNYm5CRk50TmhXMjJuSFAtdjZKQlhTMWlfaHd0ckZuejJsanhwLW1RbjJhNGZONElMeXhkQXNYTHBIRlc4aUNna254?oc=5",
-     "date": "2026-11-24T16:29:00.000Z",
-     "text": "Festgeld bei Renault, Opel & VW Bank Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
      "title": "Fiat 500X Sport jetzt über 10.000 Euro günstiger - Autobild.de",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVNueDcxTEZrMXR0ZENPa1ZLeUFTU1EwMXREN1V3LUFtdHVZUkZRUFpFTktTTTg4Rm00V0d5V21UYWlJYjBkSExnbDlNR0NKY29fZVIxNFBBYmhKUl83NDdFU1RZLXY1TGtlMjlmc2EyUVdfMVUxbm5Yd1h1T2JZT0FOYVZLTGF3S3pGZDNCNHdXWmtQeHQ4?oc=5",
      "date": "2026-11-24T10:41:00.000Z",
      "text": "Fiat 500X Sport jetzt über 10.000 Euro günstiger Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Festgeld bei Renault, Opel & VW Bank - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9POWNZb2F3LVQ2cHVXMDF2d1B3b1NQalVhYmdRY1ZxRFdLa1lROGFIM3RNYm5CRk50TmhXMjJuSFAtdjZKQlhTMWlfaHd0ckZuejJsanhwLW1RbjJhNGZONElMeXhkQXNYTHBIRlc4aUNna254?oc=5",
+     "date": "2026-11-24T16:29:00.000Z",
+     "text": "Festgeld bei Renault, Opel & VW Bank Autobild.de",
      "via": "Autobild.de"
     },
     {
@@ -376,13 +376,6 @@
      "via": "Autobild.de"
     },
     {
-     "title": "Mercedes S 500 mit V8! Jetzt über 90.000 Euro günstiger - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjB4MWt1TkM5VHUta3VNSW5OaGtfUjIxWVVQZTRPQkhqNFBiVzFyMG02UmRlcmpmV2M5OXBkOEZXS1VvalBKRklZbHp2YVplWXVxNEVYMm1SNDQxcVVVNjJoRFNoOC0xTUR2MFk1cGlNWlhKdDNfMzlmNUR6OFlYdThsSHk0ck5nLXBBQlRWNlBZTDZ5bUhXUFRnRmpyMjdxenc?oc=5",
-     "date": "2026-11-23T12:24:00.000Z",
-     "text": "Mercedes S 500 mit V8! Jetzt über 90.000 Euro günstiger Autobild.de",
-     "via": "Autobild.de"
-    },
-    {
      "title": "Gebrauchter Volvo V60 mit 197 PS jetzt 28.000 Euro günstiger - Autobild.de",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObW9NSDFRemVZb29kZHN0NU90bV9SV2hTZjNtUXFmMzRFSjJyLWRBMEI0b0VnaU11cDFaT2ZYdGhvcnZCNEtFQkVFV2Y3S01RTWo3SVROcVptNmdaVl9pR0pEa2NYcDA0aEdVVkUzWTJnSTJIZHZfQVhKdEFEUkRYOXhwVjJaOHM5d01EcUtSN3RCVE5hLTZBQWFkYVFHVzU4SXM4?oc=5",
      "date": "2026-11-24T14:02:00.000Z",
@@ -390,10 +383,17 @@
      "via": "Autobild.de"
     },
     {
-     "title": "Black Deal: Geely Starray EM-i Max+ ab 275 Euro im Leasing - Autobild.de",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1pJdURrVlBPQUJsZDVOOFpLR1F3Yk9sdE9VV2dGdy11TjQ4N0NDUWJXSWJ3LTdXMXl4Qk9zTUN0Y3plTFJCTkZlcE9YYmQ4VHNyYVFVTTNHc2FhNWFfVzMxTVNHcUd6S19YWDhJUmVEcWxnSGFPUXJWLVRKbG5xc0VFZ2V0ZWZ5SkRsNmtxUXpiVldQaEd1Y3JGWQ?oc=5",
-     "date": "2026-11-23T07:41:00.000Z",
-     "text": "Black Deal: Geely Starray EM-i Max+ ab 275 Euro im Leasing Autobild.de",
+     "title": "Mercedes S 500 mit V8! Jetzt über 90.000 Euro günstiger - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjB4MWt1TkM5VHUta3VNSW5OaGtfUjIxWVVQZTRPQkhqNFBiVzFyMG02UmRlcmpmV2M5OXBkOEZXS1VvalBKRklZbHp2YVplWXVxNEVYMm1SNDQxcVVVNjJoRFNoOC0xTUR2MFk1cGlNWlhKdDNfMzlmNUR6OFlYdThsSHk0ck5nLXBBQlRWNlBZTDZ5bUhXUFRnRmpyMjdxenc?oc=5",
+     "date": "2026-11-23T12:24:00.000Z",
+     "text": "Mercedes S 500 mit V8! Jetzt über 90.000 Euro günstiger Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Assistenzsysteme im Auto: viele Autofahrer genervt - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLUpEVlFJSGlFSEQ4YlRMZU02QlpNbVZNbERaVjdEZndtSnJ5WkRqQV9EdWtlZnZRVlRjN29HMmJUTHduRllzckNPb3hhUjhCc0lXV3M3NUF5OE9rY245Q1ZYR0NfajhVdjhQWks1SG5qdzRFYVl4anZ6aHctMGh3WUdZaGlRVTJPYkFhZG1tcw?oc=5",
+     "date": "2026-11-25T05:12:00.000Z",
+     "text": "Assistenzsysteme im Auto: viele Autofahrer genervt Autobild.de",
      "via": "Autobild.de"
     },
     {
@@ -1351,18 +1351,18 @@
    "ok": true,
    "items": [
     {
-     "title": "Audi-Rückruf zur Abgassteuerung betrifft bis zu 6.243 Autos - Netz Trends",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Pd3lTSXU4QXpuWUM2VF9DLU1Eem4tQ1gxTllfMnYyV1ZFMVh2TGFMTE5raHpLSXNCOXh4OEUtZ3VtRnY0Y3ZLY25MeUVGTGNibGZWSFRSUm05c2QxTFFjRkhrZFoyb2Q4TUljS2xtN1hiQ3FBbm01SA?oc=5",
-     "date": "2026-11-25T00:58:00.000Z",
-     "text": "Audi-Rückruf zur Abgassteuerung betrifft bis zu 6.243 Autos Netz Trends",
-     "via": "Netz Trends"
-    },
-    {
      "title": "Rückruf bei VW, Seat, Audi & Škoda: Bei 4,6 Mio. Fahrzeugen kann die Lenkung ausfallen - Ruhr Nachrichten",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQWpTdVkwenpObnk3X0pBZGV5ZWdKaEZFS3RmTHRNN09FWC1uYVpOQXVRZ0VZZTFBcnpIbzRybDVGU1ZGczIxNWdrQzRxWWMtallaX1FzYW5tQWs0UXZ3VHExOVdyVXZiVzhkdGVlWnBmM3VSaGo1LXFvSm9jWXNOcm5JQzhZQkhkUlVrSHJJSEhsT1ZlS3pEWW9HT2ZralBONkFfbUJTTzNRSi1uQlg1TFltTmlrSFVmbVFOX1dtTHpaeFNRT0RqQWlHWnZ2dkJiaU4zdGRkTnNJNGZMZkRn?oc=5",
      "date": "2026-11-21T09:54:00.000Z",
      "text": "Rückruf bei VW, Seat, Audi & Škoda: Bei 4,6 Mio. Fahrzeugen kann die Lenkung ausfallen Ruhr Nachrichten",
      "via": "Ruhr Nachrichten"
+    },
+    {
+     "title": "Audi-Rückruf zur Abgassteuerung betrifft bis zu 6.243 Autos - Netz Trends",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Pd3lTSXU4QXpuWUM2VF9DLU1Eem4tQ1gxTllfMnYyV1ZFMVh2TGFMTE5raHpLSXNCOXh4OEUtZ3VtRnY0Y3ZLY25MeUVGTGNibGZWSFRSUm05c2QxTFFjRkhrZFoyb2Q4TUljS2xtN1hiQ3FBbm01SA?oc=5",
+     "date": "2026-11-25T00:58:00.000Z",
+     "text": "Audi-Rückruf zur Abgassteuerung betrifft bis zu 6.243 Autos Netz Trends",
+     "via": "Netz Trends"
     },
     {
      "title": "Tesla-Rückruf: Kurzschluss kann Rückfahrkamera lahmlegen - autoservicepraxis.de",
@@ -1510,13 +1510,6 @@
      "via": "Porsche Newsroom"
     },
     {
-     "title": "435 PS und leichter als ein Porsche 911: Chinas Elektro-Roadster SC01 bekommt eigene Fabrik in Europa - Netzwelt",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2RMbklpMExCQnBTV0N3WDFRblhYRTUyV1Z2d3pjMjA2d2J0dVpETlZHMWp2bllrUUFJSE43MDV6MnBEWXdnRFZHb0VoaVZWSzdNa2RqQzFSX0FMS2FYOUlfZUlDeEVrY21PQk1CenZ0ek9jS1VjNjlSTEZXY2hMeXFmZkVPZE9QZEdLNWN4bjBXRGpkQnBxbmVwejAxdVU2bTRNbUhPb29ldUV1ZzIwUkxfZ09qUFZGSmtrTUxuTDh0Nk95?oc=5",
-     "date": "2026-11-23T16:02:26.000Z",
-     "text": "435 PS und leichter als ein Porsche 911: Chinas Elektro-Roadster SC01 bekommt eigene Fabrik in Europa Netzwelt",
-     "via": "Netzwelt"
-    },
-    {
      "title": "Porsche stellt neue Dashcam-Generation vor - Porsche Newsroom",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUUzRTBwUERUXzJrU3k3dzVhR2lodkZuNWNSczN6b3FrOHU4cGpIVlA2SjM2S3hUb19YS0R4N3BVY0Z1QkpiekVqV3g0NmNLUGVsN19aNmJLbjJKV0ZfR2R1akYyZGVwWGpGMWZQX1dkc3k5N0hpX0VUTV9MZ3Z4M2sybTNhaGdE?oc=5",
      "date": "2026-11-24T09:35:22.000Z",
@@ -1529,6 +1522,13 @@
      "date": "2026-11-23T08:16:23.000Z",
      "text": "Icons of Porsche 2026: Klassiker treffen auf die Zukunft Porsche Newsroom",
      "via": "Porsche Newsroom"
+    },
+    {
+     "title": "435 PS und leichter als ein Porsche 911: Chinas Elektro-Roadster SC01 bekommt eigene Fabrik in Europa - Netzwelt",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2RMbklpMExCQnBTV0N3WDFRblhYRTUyV1Z2d3pjMjA2d2J0dVpETlZHMWp2bllrUUFJSE43MDV6MnBEWXdnRFZHb0VoaVZWSzdNa2RqQzFSX0FMS2FYOUlfZUlDeEVrY21PQk1CenZ0ek9jS1VjNjlSTEZXY2hMeXFmZkVPZE9QZEdLNWN4bjBXRGpkQnBxbmVwejAxdVU2bTRNbUhPb29ldUV1ZzIwUkxfZ09qUFZGSmtrTUxuTDh0Nk95?oc=5",
+     "date": "2026-11-23T16:02:26.000Z",
+     "text": "435 PS und leichter als ein Porsche 911: Chinas Elektro-Roadster SC01 bekommt eigene Fabrik in Europa Netzwelt",
+     "via": "Netzwelt"
     }
    ]
   },
@@ -1613,6 +1613,34 @@
      "date": "2026-11-23T07:59:00.000Z",
      "text": "Fahrzeug ist Schrott - Reh auf Straße: Sportwagen krachte frontal in Baum Kronen Zeitung",
      "via": "Kronen Zeitung"
+    },
+    {
+     "title": "Er verbrachte 6 Jahre damit, den ‘Alithia’ zu entwickeln – einen Supersportwagen mit einem 500 PS starken V8-Saugmotor und einem Gewicht von weniger als 1000 kg. - ItalPassion",
+     "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOY296ZjZ4b1dKdk5qOGg5TXlnenM0WUZfVFUtN3JrMXowOW1SNlhBQlZlbVdEb2xYbVBUOUt2YmpTNkV6OHFyOGFPeWhfSGNEWmcwZUlSZUNObUZDYnp4RExXVWF6UnhCdUE1d1lCUmJ3a25mcjFuSnUtVkZKSy1pUFltc05yMGdTMWhLdHU5bnduVUNaRV90c2ZuZVVIb2RnaEZpaElrN1lxSUVta3VCck9IZUpqeWNjVGNRdHdVd2ZFc3lYakVwdTJzNVR2cHlISDVkRDFtb2F0STJxSFdtODhrMFlTTi1fSVNab3E2WFhXSHU0ZjhQbWFGX3A0emtPUDFKdy1oN2k1anFENUx6WkZnWFA1ZkVJd2JBRWdwNGg4WGw2cVdsM3M2VExITVRvaks0?oc=5",
+     "date": "2026-11-24T10:02:43.000Z",
+     "text": "Er verbrachte 6 Jahre damit, den ‘Alithia’ zu entwickeln – einen Supersportwagen mit einem 500 PS starken V8-Saugmotor und einem Gewicht von weniger als 1000 kg. ItalPassion",
+     "via": "ItalPassion"
+    },
+    {
+     "title": "Porsche bereitet elektrischen Sportwagen vor - mobiFlip",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xckJZSlQ4bi1mWVNmejdqWUNKaWxFYzhVcVZtck9EMUdrQnNXX1kxRUtMOEc3UjVORXF3MGFOTFZ5WEotNDNSU3RPUDQ2bGppZHdxekxwekt4ZnptVUJ2cVdKNXhuLTgySWNlQUdBenFOUWtMbDNOV9IBfkFVX3lxTE5CbWFURmdkUTJreXBubWU4VE9zWEkwam1NLV9nYnhYZERia3ZPanowaDd2MnpkQkphZTB0X1ZoMmdmRmdEa0MyeWZDNUJLOTQ2WWZ2dXl6cThoZFhnTlNtLTVJRlpaaE95NGlOdGZ1U05BbHhIYkUzMERZcUlndw?oc=5",
+     "date": "2026-11-25T04:50:15.000Z",
+     "text": "Porsche bereitet elektrischen Sportwagen vor mobiFlip",
+     "via": "mobiFlip"
+    },
+    {
+     "title": "Ferrari verzichtet bei seinem neuen V6-Supersportwagen auf den Hybridantrieb … 160 PS weniger, dafür aber leichter und schneller - ItalPassion",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMFZRQk1DZGZrZml4cTR0UGVfaU9LVEd0OWlRSE4tbU9XRlBOZ1Nlb3ZnZlIzSTFOaktDVTIyVXJ3VmVyaHYtc21tNWFHaEVJbUtWNlJqbU1uLXphcGItcXpFelU0MGZsYm5wc2pjQmI5STBTa1BuRy1sYlloODVKUnYyQmJlRi1RNWlxMUpLZlQzaE1vM3pTOS13M2lvTVpjZWotVmxCbk05M0VaWkp2ZGtlS3o3TlZTUUVuejRsb1E1NE1PcFJ6SUZrMHVIR1RyRUtOM0Q4T0xCUW5rTnB4T3V5NTQ4Q0NvU3R6bWY1SlU4emFFZ1o0?oc=5",
+     "date": "2026-11-22T05:59:48.000Z",
+     "text": "Ferrari verzichtet bei seinem neuen V6-Supersportwagen auf den Hybridantrieb … 160 PS weniger, dafür aber leichter und schneller ItalPassion",
+     "via": "ItalPassion"
+    },
+    {
+     "title": "Luxusvilla gestürmt: Supersportwagen beschlagnahmt - Wochenblitz",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ3h1R29RQ2NoeHlicjB0QlBEZ3djTkhORmJLbGxaM01yTTMtMGZvTEZKNTUzZ2Z4WF9WbmMwcnlxWElIWUU0X1JXYnJ0RHgxNW5QeklhSzUxQzdrZ0RtRXZOck9oOVNZNWtUUHYzTjRfOXgxbmFCVFhSQkxYZzZLV3d3QmoxQQ?oc=5",
+     "date": "2026-11-23T23:40:00.000Z",
+     "text": "Luxusvilla gestürmt: Supersportwagen beschlagnahmt Wochenblitz",
+     "via": "Wochenblitz"
     }
    ]
   },
@@ -1650,13 +1678,6 @@
      "via": "electrive.net"
     },
     {
-     "title": "Geldfrage: Stellantis streicht den Werksmotorsport - Peugeot verlässt Le Mans, Opel und Citroën die Formel E - Motor1.com Deutschland",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHdvX3ZzTkt2YXdQZXQ5a3QzbGVXa1RldTRkSF9ITUlONVd0OVU2d2UyeE1ELVZiWGtZNUV1dFhyMkdHd0NsM1haRnhPUUtMUHJlMlZ2WlJXVjdoSjZnNGRfRWx2MFo4WmpSZXFvNlZjQ21JcWVPV1ZUdUJjUU50RWZpM2wzdVpDb1A4?oc=5",
-     "date": "2026-11-23T14:58:00.000Z",
-     "text": "Geldfrage: Stellantis streicht den Werksmotorsport - Peugeot verlässt Le Mans, Opel und Citroën die Formel E Motor1.com Deutschland",
-     "via": "Motor1.com Deutschland"
-    },
-    {
      "title": "Stellantis steigt aus der WEC und der Formel E aus - Auto-Medienportal.net",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EcHdya2g0Uy1URko3eWxBNVp2cGJQSWItcWNBbG9acFpWVmRhQzkxR2dydXN3X0F1aU1XWUlOd3ZkR1FVSlVfYlI1RjgzejAyM1owZEVZM3VPeWNLYjE1Z0RIWVI?oc=5",
      "date": "2026-11-23T15:58:28.000Z",
@@ -1664,11 +1685,18 @@
      "via": "Auto-Medienportal.net"
     },
     {
-     "title": "Stellantis: Peugeot verlässt WEC – Gnadenfrist für Formel-E-Teams - Nau",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUFJqTWRSVXM4VDVxeVlGZVUyQkg0Y3FqekxmTjA5V2NGWFlGMm5uX1BtdWN0aUo2dzRNOENSMFV3YlUtODJTYUUyR2tjRWVyaDFrcmVXUE1kZ3NEOEVQcTliNF9vLTRXSVhqS0xpLXpzQUY4Y1hfZ3VhSGlublVVTGw4R0FJWnV4NUFZd0ZwZFRyeE5sN2Z2OHp0VnNxcHlxZWhEVFRuMTRrUXc?oc=5",
-     "date": "2026-11-24T06:38:26.000Z",
-     "text": "Stellantis: Peugeot verlässt WEC – Gnadenfrist für Formel-E-Teams Nau",
-     "via": "Nau"
+     "title": "Geldfrage: Stellantis streicht den Werksmotorsport - Peugeot verlässt Le Mans, Opel und Citroën die Formel E - Motor1.com Deutschland",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHdvX3ZzTkt2YXdQZXQ5a3QzbGVXa1RldTRkSF9ITUlONVd0OVU2d2UyeE1ELVZiWGtZNUV1dFhyMkdHd0NsM1haRnhPUUtMUHJlMlZ2WlJXVjdoSjZnNGRfRWx2MFo4WmpSZXFvNlZjQ21JcWVPV1ZUdUJjUU50RWZpM2wzdVpDb1A4?oc=5",
+     "date": "2026-11-23T14:58:00.000Z",
+     "text": "Geldfrage: Stellantis streicht den Werksmotorsport - Peugeot verlässt Le Mans, Opel und Citroën die Formel E Motor1.com Deutschland",
+     "via": "Motor1.com Deutschland"
+    },
+    {
+     "title": "Le Mans FC - Lille OSC Wett Tipp & Quoten 28.11.2026 - sport.de",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEozU09xUGJGV3F2TjF5bkN5Uld5OE9xc2U1R2drR0o0RlVkZ0pPQm1nSDh2SWRHWi1SWllqbGJ1U0Y5Vm1jbl9JOVBuQ09aSVJ3R0VIb2pDcmdKQVhfWkxJcWV0QUEyWndYTXJiUzZNQmNzYk9ubnVxTGV3cTJac3FiUHpTUlhZdVViag?oc=5",
+     "date": "2026-11-24T07:39:36.000Z",
+     "text": "Le Mans FC - Lille OSC Wett Tipp & Quoten 28.11.2026 sport.de",
+     "via": "sport.de"
     },
     {
      "title": "Peugeot-Aus in der WEC: Warum Stellantis plötzlich die Reißleine zieht - Motorsport-Total.com",
@@ -1685,17 +1713,17 @@
      "via": "Motorsport-Total.com"
     },
     {
-     "title": "Grasser-Team und Bortolotti zu McLaren? Das sagt der McLaren-Motorsportchef - Motorsport-Total.com",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVV9hUHJ6N1NfZjUxV2pHblU5SGRVOXgyVjM1ODJONXBIY0lxNlFoajJVMzdDQ3pmN203dmhhY1FRc29sQXc0WHZVeXJzNkpXeENGVG12aTdjQXdiTW9Cb3A1N080aXJjOV9vbGZidDkwMkQwTlBaNzFqenFWaV9BV1RPSFY0ZDdqZ0lvdTRzU2RNb3kyTHk3a3Z1dGI3di1wOFdvNUZzb3NYTEwwczlWenM5T0QzT3U3aEcwdmY4QzZjaEU?oc=5",
-     "date": "2026-11-24T10:50:00.000Z",
-     "text": "Grasser-Team und Bortolotti zu McLaren? Das sagt der McLaren-Motorsportchef Motorsport-Total.com",
-     "via": "Motorsport-Total.com"
-    },
-    {
      "title": "Offiziell: Stellantis streicht Aktivitäten im Motorsport, auch die Formel E betroffen! - Motorsport-Total.com",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU01CdUJGODhNUUxfbVdBaFdoODM2d3BYcmlza1p1YkVXR1lVUnJhVGttdDAyY0Rqdm52TXRWRjZLNmw1MGZ2dWpLS1lFbWdGM1dRY0dyUmF5ODJaMktfWEhXbWFreHBBNjFOMkdXS3Y1OU9sdU9EVDZjUjJWM3dGTHBBZVlaT3cyOHluY1JnNG1nOU5pNzd1b1o1OTFEcTVvbWpuRFBjMjhjeERRVkZZTFhUanJJdzQzZkZ4U2xNNEEyZjZackJQMGhaVTAtVHJockMtMndUd0lwak9kcldMSmw2Y0x2REF0MWc?oc=5",
      "date": "2026-11-23T14:57:47.000Z",
      "text": "Offiziell: Stellantis streicht Aktivitäten im Motorsport, auch die Formel E betroffen! Motorsport-Total.com",
+     "via": "Motorsport-Total.com"
+    },
+    {
+     "title": "Grasser-Team und Bortolotti zu McLaren? Das sagt der McLaren-Motorsportchef - Motorsport-Total.com",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVV9hUHJ6N1NfZjUxV2pHblU5SGRVOXgyVjM1ODJONXBIY0lxNlFoajJVMzdDQ3pmN203dmhhY1FRc29sQXc0WHZVeXJzNkpXeENGVG12aTdjQXdiTW9Cb3A1N080aXJjOV9vbGZidDkwMkQwTlBaNzFqenFWaV9BV1RPSFY0ZDdqZ0lvdTRzU2RNb3kyTHk3a3Z1dGI3di1wOFdvNUZzb3NYTEwwczlWenM5T0QzT3U3aEcwdmY4QzZjaEU?oc=5",
+     "date": "2026-11-24T10:50:00.000Z",
+     "text": "Grasser-Team und Bortolotti zu McLaren? Das sagt der McLaren-Motorsportchef Motorsport-Total.com",
      "via": "Motorsport-Total.com"
     },
     {
@@ -1706,24 +1734,17 @@
      "via": "Motorsport-Total.com"
     },
     {
-     "title": "Le Mans FC - Lille OSC Wett Tipp & Quoten 28.11.2026 - sport.de",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEozU09xUGJGV3F2TjF5bkN5Uld5OE9xc2U1R2drR0o0RlVkZ0pPQm1nSDh2SWRHWi1SWllqbGJ1U0Y5Vm1jbl9JOVBuQ09aSVJ3R0VIb2pDcmdKQVhfWkxJcWV0QUEyWndYTXJiUzZNQmNzYk9ubnVxTGV3cTJac3FiUHpTUlhZdVViag?oc=5",
-     "date": "2026-11-24T07:39:36.000Z",
-     "text": "Le Mans FC - Lille OSC Wett Tipp & Quoten 28.11.2026 sport.de",
-     "via": "sport.de"
+     "title": "Stellantis: Peugeot verlässt WEC – Gnadenfrist für Formel-E-Teams - Nau",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUFJqTWRSVXM4VDVxeVlGZVUyQkg0Y3FqekxmTjA5V2NGWFlGMm5uX1BtdWN0aUo2dzRNOENSMFV3YlUtODJTYUUyR2tjRWVyaDFrcmVXUE1kZ3NEOEVQcTliNF9vLTRXSVhqS0xpLXpzQUY4Y1hfZ3VhSGlublVVTGw4R0FJWnV4NUFZd0ZwZFRyeE5sN2Z2OHp0VnNxcHlxZWhEVFRuMTRrUXc?oc=5",
+     "date": "2026-11-24T06:38:26.000Z",
+     "text": "Stellantis: Peugeot verlässt WEC – Gnadenfrist für Formel-E-Teams Nau",
+     "via": "Nau"
     },
     {
      "title": "\"Ich weiß es nicht\": Kelvin van der Linde stellt Titelverteidigung in Macau infrage - Motorsport-Total.com",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMno3d2tpZ3BwajdwZU5ObndMV3FKYzBHbGxTb3Q3dmZJd000ZGlvVzdJalBNZnp5VjJ0dVh4QndVWDc2Y1hrM3RVMkFVN0Izc1p5RGI4NjVmN1JucUYwdmFfZEg0cEx1QmRQSUF6MjJaVHYxWVgxem1WSDVYb3hfSV9tYXhyQlRuZTYwYWZQeC1vVFA1dUwxajVnNnNPOFJta2xjMzBpWTdJVnBEcWluNmR0YUNxa1poVXdacDNoakdQMlhrQzl0WE5QU1FTWElRZVIwbW9oUVhkQ2trTVJlbjJLZDlkTmpSQ1ktOTBBcw?oc=5",
      "date": "2026-11-23T10:20:00.000Z",
      "text": "\"Ich weiß es nicht\": Kelvin van der Linde stellt Titelverteidigung in Macau infrage Motorsport-Total.com",
-     "via": "Motorsport-Total.com"
-    },
-    {
-     "title": "FIA-GT-Weltcup Macau 2026: KVDL setzt sich in chaotischem Rennen durch - Motorsport-Total.com",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX0dXZ1BBZmxFbjg4a2UwT0plV0tBSG0tR0F4VVhock9oMWR5SDRsOG5IV3EtLTVfQ1dQa3FKOHRSM1Y1SWxWQzlOM0R3NDd4WDJIS2FyMnd0ZDdOUmUxTVRhSGFnV2RUM2dRbjhKSU41WjNmblN6TE5lX20wX1pvSmNBWGFkSDI3X2EtOVVJQlFoa1o4YUo0SzRhOGpaYlNWbFF5SldsRHllT2o5bG1oQjVJN0JCOGN5d0FxUEtaNlR5ZzFmeWxWREY0VWxPS1RmTkxlTzRqeFdqT1NDb2ZR?oc=5",
-     "date": "2026-11-22T06:02:00.000Z",
-     "text": "FIA-GT-Weltcup Macau 2026: KVDL setzt sich in chaotischem Rennen durch Motorsport-Total.com",
      "via": "Motorsport-Total.com"
     },
     {
@@ -1738,6 +1759,13 @@
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYVNyM0MxYzlXdUhlZmVleTZGamxRb1B3MVFULWE1WlRGUlNwUWZhVGlsTVgyRUprSG83SUd1Tl9paThGbk5MbGJEMXNlQ2FzNWxmTHFtc0ZNZmloMlJhLXVreGhpbHR0bW9EMkx6bmJmRjVQT2NrRWhxaXl0V3c2bVh5LVRKVDF5SElnd2VSV0ZtcHVBUzd3dTlmcnJqc0MxRXB4QUJYaWpUSzhPTW9JdWN1cUlRZDJiOEVISXBhWEJ0TWJrVkhZVW1mWVZ5LUVRbHlOZUdfUDJUUlpiS3Y5Zm8wNHRmdw?oc=5",
      "date": "2026-11-22T13:55:01.000Z",
      "text": "Macau-Crash: Heinrich von Marciello \"tief enttäuscht, aber nicht überrascht\" Motorsport-Total.com",
+     "via": "Motorsport-Total.com"
+    },
+    {
+     "title": "FIA-GT-Weltcup Macau 2026: KVDL setzt sich in chaotischem Rennen durch - Motorsport-Total.com",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX0dXZ1BBZmxFbjg4a2UwT0plV0tBSG0tR0F4VVhock9oMWR5SDRsOG5IV3EtLTVfQ1dQa3FKOHRSM1Y1SWxWQzlOM0R3NDd4WDJIS2FyMnd0ZDdOUmUxTVRhSGFnV2RUM2dRbjhKSU41WjNmblN6TE5lX20wX1pvSmNBWGFkSDI3X2EtOVVJQlFoa1o4YUo0SzRhOGpaYlNWbFF5SldsRHllT2o5bG1oQjVJN0JCOGN5d0FxUEtaNlR5ZzFmeWxWREY0VWxPS1RmTkxlTzRqeFdqT1NDb2ZR?oc=5",
+     "date": "2026-11-22T06:02:00.000Z",
+     "text": "FIA-GT-Weltcup Macau 2026: KVDL setzt sich in chaotischem Rennen durch Motorsport-Total.com",
      "via": "Motorsport-Total.com"
     },
     {
