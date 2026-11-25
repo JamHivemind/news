@@ -1,11 +1,29 @@
 {
- "fetched": "2026-11-24T10:21:04.171Z",
+ "fetched": "2026-11-25T02:37:17.388Z",
  "hours": 48,
  "sources": [
   {
    "name": "kicker",
    "ok": true,
    "items": [
+    {
+     "title": "Rössing-Lelesiit: Hamburgs Hoffnung aus dem Lazarett",
+     "url": "https://www.kicker.de/roessing-lelesiit-hamburgs-hoffnung-aus-dem-lazarett-1274650/artikel#omrss",
+     "date": "2026-11-24T17:05:57.000Z",
+     "text": "In Tagen, in denen sich die seit Wochen bestehende Verletzungsmisere beim Hamburger SV auf dramatische Weise zuspitzt, sind Lichtblicke rar. Einer kommt ausgerechnet selbst erst frisch aus dem Krankenstand: Alexander Rössing-Lelesiit."
+    },
+    {
+     "title": "Kommt eine neue Anstoßzeit am Bundesliga-Samstag?",
+     "url": "https://www.kicker.de/kommt-eine-neue-anstosszeit-am-bundesliga-samstag-1274658/artikel#omrss",
+     "date": "2026-11-24T16:40:05.000Z",
+     "text": "Ab der Saison 2029/30 könnte der Bundesliga-Samstagabend ein neues Gesicht bekommen. Doch der Weg ist noch weit."
+    },
+    {
+     "title": "Via Sublizenz: Bundesliga-Highlights ab Januar auch bei Disney+",
+     "url": "https://www.kicker.de/via-sublizenz-bundesliga-highlights-ab-januar-auch-bei-disney-1274545/artikel#omrss",
+     "date": "2026-11-24T10:39:15.000Z",
+     "text": "Fans des deutschen Spitzenfußballs können die Highlights der Spiele der 1. und 2. Bundesliga ab dem 8. Januar 2027 auf einer weiteren Plattform abrufen: Via Sublizenz steigt \"Disney+\" in den Rechtemarkt im Fußball der Männer ein."
+    },
     {
      "title": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter",
      "url": "https://www.kicker.de/werder-nennt-sachbeschaedigung-inakzeptabel-und-reicht-kosten-an-den-hsv-weiter-1274489/artikel#omrss",
@@ -23,249 +41,55 @@
      "url": "https://www.kicker.de/polzin-ueber-24-gegentore-jungs-sind-unzufrieden-mit-sich-1274200/video#omrss",
      "date": "2026-11-23T09:21:52.000Z",
      "text": "Nach dem 0:4 in Bremen zeigte sich HSV-Coach Merlin Polzin enttäuscht. Besonders die defensiven Defizite machten dem Trainer der Rothosen zu schaffen."
-    },
-    {
-     "title": "Brennende Sitze und zerstörte Sanitäranlage in Bremen",
-     "url": "https://www.kicker.de/brennende-sitze-und-zerstoerte-sanitaeranlage-in-bremen-1274110/artikel#omrss",
-     "date": "2026-11-22T22:55:00.000Z",
-     "text": "Im Zuge des Nordderbys zwischen Werder Bremen und dem Hamburger SV kam es auch zu mutwilligen Zerstörungen. So brannte es auf einem der Blöcke, während auch eine Sanitäreinrichtung gehörig ramponiert wurde."
-    },
-    {
-     "title": "Muheims Selbstanklage: \"Das haben unsere Fans nicht verdient\"",
-     "url": "https://www.kicker.de/muheims-selbstanklage-das-haben-unsere-fans-nicht-verdient-1274033/artikel#omrss",
-     "date": "2026-11-22T20:28:40.000Z",
-     "text": "Der HSV muss eine empfindliche Derby-Pleite aufarbeiten, unmittelbar nach dem 0:4 von Bremen fingen Trainer Merlin Polzin und Routinier Miro Muheim damit an."
-    },
-    {
-     "title": "\"Vier krachende Ohrfeigen\": Der HSV steht vor \"riesigen Aufgaben\"",
-     "url": "https://www.kicker.de/vier-krachende-ohrfeigen-der-hsv-steht-vor-riesigen-aufgaben-1274032/video#omrss",
-     "date": "2026-11-22T19:21:17.000Z",
-     "text": "Der Hamburger SV verlor das Nordderby gegen den SV Werder Bremen deutlich mit 0:4 und steht jetzt vor großen Aufgaben. kicker-Reporter Sebastian Wolff berichtet aus Bremen."
     }
    ]
   },
   {
    "name": "kicker (Google News)",
-   "focus": "Nur HSV-Meldungen. Doppelte mit dem direkten kicker-Feed nur einmal.",
-   "ok": true,
-   "items": [
-    {
-     "title": "Friedl wie ein Stürmer, Njinmah doppelt: Werder deklassiert HSV im Nordderby - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oUndGOExTdEp5Zm1xc2l2SlZaMVB1b0MybTkxSENwUDFIcFBna0pOYkZFaEd1VWVKaDRyUjdMTlpZNENCZUJLMzZSMjZFQlVPRVNteVp1ZTZmUlJEYUtlLU0wd0g0SEtOd0MzZGFXTVlOXzY5bUdBZA?oc=5",
-     "date": "2026-11-22T16:54:45.000Z",
-     "text": "Friedl wie ein Stürmer, Njinmah doppelt: Werder deklassiert HSV im Nordderby Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "\"Vier krachende Ohrfeigen\": Der HSV steht vor \"riesigen Aufgaben\" | Sebastian Wolff aus Bremen | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeWxyeTNGOHVOZloxcDVrTDR2bG1fdG5kcnM1Z1VRZlJ4azFVcmFGaWRZX2N0UG5yQklFTkZMcXprcHRTd3Z6Q256UVMxd0RUejFfQ2tSMjNNcTNkTUZ0WktLbDFWdHlNc1F2clNxdjhoTkd0c00yd2JnUExjNlFzT3lfTUgyczY4MmhJV0lSUzZydXFJMVB2YlFsWE8?oc=5",
-     "date": "2026-11-22T19:21:17.000Z",
-     "text": "\"Vier krachende Ohrfeigen\": Der HSV steht vor \"riesigen Aufgaben\" | Sebastian Wolff aus Bremen | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Friedl wie ein Stürmer, Njinmah doppelt: Werder deklassiert HSV im Nordderby - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0dkxZbzZ6cGhhTGxvWERXbVNfR3EwZmlFeTlQYmZQSjJDOUZnYXRGdTNwMXY1bWhQMkQ3emFPRnpuWUlSZ0ZlM2o1Mm83eHNsclVrdHRrVVkzWldzd29RQjhtNXRTbDJlTzVnNEVPdUtpVThtelZtd0pB?oc=5",
-     "date": "2026-11-22T18:37:00.000Z",
-     "text": "Friedl wie ein Stürmer, Njinmah doppelt: Werder deklassiert HSV im Nordderby Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Brennende Sitze und zerstörte Sanitäranlage in Bremen - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblRVSFRMd1MxQ0dVQUZQMDBOX21MNFVRNmZpR0xWZWJYWk1CaXNfMW1zUnkxTlFKTm4zTzZvNF9FcC0yMFZwa0d0V3RSOG00MWYtanZlZThBd1htb1ZVSlFXNUdfdnlWamtwUW42OUNsMVVYRzlvZUhVSGdROEJyUmJFcFZ3V3V5MTAyWXN5TGpEb2ZlWl82Mw?oc=5",
-     "date": "2026-11-22T22:55:00.000Z",
-     "text": "Brennende Sitze und zerstörte Sanitäranlage in Bremen Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Muheims Selbstanklage: \"Das haben unsere Fans nicht verdient\" - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZXVsMEt2d29rdVJYbHVpU1g0aWt5akJmQkNueEdqSkFrMmJXVWhNeTAtQ2t6ZmFiLW9waTNEMkJ4cEFrUGxSOVZ0MGpxZWxzOVBwV3Bkbk0wU0JiVlY5TWU1eG55TUxsTy0tV20yb0djMU9lZ08xckJ6Q041MUtKdUNMWlk0bW83bkVPdWo5S1N3OFVEUjNRb1VfaS0?oc=5",
-     "date": "2026-11-22T20:28:00.000Z",
-     "text": "Muheims Selbstanklage: \"Das haben unsere Fans nicht verdient\" Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYTVQWHVZMTBjbW5JRkRybXFhakt4THBCWDJGTlgtY20wWWpOazUtdHhIR2pIMTNZbGRQR2xOOUs2S1FPQzY1N3VibjBxYU5OMHlUclZsTVdtZ05jTmVrVzgyMTFMNU10aUltR1BZRmw3RTF2dWhBNlV3T0htN0FlQXV2WG54dHlrckFESEI2djA1U0daRnRFbENIeEJwWWJPS2xDVjNDdUVhUGlidFh4RTl5RFZTczVM?oc=5",
-     "date": "2026-11-24T08:00:36.000Z",
-     "text": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "(k+) Derby-Debakel und Muheim-Verlust als Hypothek - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMk4yMFRSMFdEbzF0R0FPUUVKc3YzNF9CQjRrbmZDNEhwaGJ0cEhtWUJUekJIVkZQeV9Wa2J4c3pmMGZsZU5vdEREdm95SzNHWmFjaEhJbjFCdzFWVFh6cnZxTHR2YXRNNzlFNlVhT0gzcC1XaFRhX1pzcW9XYVFrN0ZKbVRMNjdwLUpF?oc=5",
-     "date": "2026-11-22T18:39:18.000Z",
-     "text": "(k+) Derby-Debakel und Muheim-Verlust als Hypothek Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Njinmah \"im Flow\" - und nach dem Doppelpack schnell im Krankenhaus - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkVtSGZtMWJPVDVJSzNXX0xXT2lXbTlpUGVBYWFJTzNNSVY3YVgzcWRGLW5qRGpvbTR1c3hvLTVpRnVrTUNFLTlnSVZBblVPa1ByTDVSbWQtTGRvU2k4MHhMT19pVXlJc0pUVzRMdjh1aGpQVXZUT3o1Y0JHQ3U4UjNfNUF6Q3RJN2xyVXVfc3R2M0dHY1Z3LWhxZ2xhRWNFdXc?oc=5",
-     "date": "2026-11-23T18:42:08.000Z",
-     "text": "Njinmah \"im Flow\" - und nach dem Doppelpack schnell im Krankenhaus Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Wadenverletzung: Muheim steht dem HSV \"vorerst nicht zur Verfügung\" - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0U2cldTRDB6TEN6NENZdVFZMVcyZUdBTnd0RDdCSDdFZDlBQWNROE9OYkZpTzJjSlB2QWNaYUZpQ0FRalVqSTB6MXd6Tlpzd2JjeWc5UXJtcG44MjctcE12M05hT0xTRUppVDRIMkVzX0M5MzVLTG4tZ0hQaU00NktaMzFNQ2VHbVlKSUwyOWRZNjRaNjRmV29GY3RRdmhTajJvX1FR?oc=5",
-     "date": "2026-11-23T16:05:00.000Z",
-     "text": "Wadenverletzung: Muheim steht dem HSV \"vorerst nicht zur Verfügung\" Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Werder-Ärger trotz Derby-Coup: \"Mit dem Ball einfach schlecht\" - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUWd1N3JabV9PSUZEa1o0RlQ0OVRwSldEbUhLZzZDNjlOZ3U3ZUFiLUI1X2pqTTNHaDc0RFhhVkoxdjd2RmpkY0VZenVtVHd3bGoxU2ZqQVktV3pJRkpBVGUwbXhLNUp1X0dFc2NTUjFaWmN4WTJEZFB6Qk5zLXU3MlZGNkc4Z2Q0ZWpoMnVGV1lrRUZVcFJYSG5RcXBFNWM?oc=5",
-     "date": "2026-11-22T20:43:00.000Z",
-     "text": "Werder-Ärger trotz Derby-Coup: \"Mit dem Ball einfach schlecht\" Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "(k+) Friedl wie ein Stürmer, Njinmah doppelt: Werder deklassiert HSV im Nordderby - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeUF0RFg5MVNtd1ZCaldyNUdUTlV0MlNEWnBxZE1Va0pqelFOZFFSWWJpN0dUSWEzLUhiRVhvekNRaEZKOWp4bldtYVVidzkyMHU4TDlCOGJ3VFZEQjZsWlRHTVNUZHNNREVZTnJ0YTFKdzRpOUVXZkpwRThoSkRJcQ?oc=5",
-     "date": "2026-11-22T19:53:22.000Z",
-     "text": "(k+) Friedl wie ein Stürmer, Njinmah doppelt: Werder deklassiert HSV im Nordderby Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Thioune schwärmt von Reis: \"Hat sich für unsere Farben zerrissen\" - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUVLU3VTRC1JTHI2TE9Jck13eGZoRU9PeXRwV0ZqVmZOSWVZMHlfT1ZmUE9WcFg2bE1YOXppdExidHJ4b3E0Yk41cVJLQUltTVVQNzFxOHREamRTVXd6QlN5S2hBdFNPT0FHVkhXN3YzYmdoRHR4elJqM1p6ZUxBRTJLYzhOZVJ3alJETHgteWxKTXZRLTdzVEJCM3ZKT2cwLW1JdA?oc=5",
-     "date": "2026-11-23T09:39:00.000Z",
-     "text": "Thioune schwärmt von Reis: \"Hat sich für unsere Farben zerrissen\" Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "\"Werder darf träumen\": Was der Derbysieg in Bremen auslösen kann - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkZjdxOWZFYjBLT1dzdjFiMVJxbFVDT2pTY3d2OGUtRmh1QVBWRVpidnFLZl9JVmJRanRxQ092Z3VSOXNLVlJkWWlCSVJUWEoxN01iXw?oc=5",
-     "date": "2026-11-23T03:07:43.000Z",
-     "text": "\"Werder darf träumen\": Was der Derbysieg in Bremen auslösen kann Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Bayern bleibt dank Imade auch gegen Hoffenheim makellos - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGozS1d5VnEyZDJwVjJJU2ZxRWhOVUU1d3JKdlZ3b084RTQyQWFuRmZwa1h6LXZGX2tsTDhQS19Od0YzVjhpMmFaT2llT01PWWRKSTRRNHh2SVNESUJjcnhmbjMzLWdDZ3RsMFZ0bGVlMk1uMThWX2FNS29PQkRaS2g4dEk5Y1lMckoyc1NHcnVfNEk?oc=5",
-     "date": "2026-11-23T19:00:00.000Z",
-     "text": "Bayern bleibt dank Imade auch gegen Hoffenheim makellos Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Trotz Hattrick von Brandt: Eisbären gewinnen auch in Straubing | Eishockey - Highlights by MagentaSport | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORHNydkZTZ2N6eGFjNVBoaHphQ25uNENrRlh2ZlRTbGhJa2tWdzc0ak5fdERkNHBmYW5sbHpTQXU2OGljaWIwRGVVVGhlTE82alN2d1RtMGp4N2REMlR6WE1oOExWTVVKSXNLQVFiYmhRaTNoNTBFbDFHSmdiZXNEN0J0cGdHTTQyS1BEb3p6RVd2aWM2N0RQRWl5WXJCRzg?oc=5",
-     "date": "2026-11-22T16:54:09.000Z",
-     "text": "Trotz Hattrick von Brandt: Eisbären gewinnen auch in Straubing | Eishockey - Highlights by MagentaSport | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Sportnachrichten | Alle Fußball & Sport News | Live-Ticker & Ergebnisse - kicker - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBpclltRllsUllJdDhUQlcwcFJrWlozYUhINnlnUFlYN0Q2Ym03NGZVcFpqQzBoVEhrRnc?oc=5",
-     "date": "2026-11-23T20:32:00.000Z",
-     "text": "Sportnachrichten | Alle Fußball & Sport News | Live-Ticker & Ergebnisse - kicker Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Zwischen Debakel und Aufwärtstrend: Hoffenheims Suche nach der Konstanz - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0Y4NEFKRHY0UldFT3h6eWQyV2U3MFJqR2Nmcy10NzhGTjdVTjJsNTVmX2hoSkNCaDNIbzByNUJLU3lkYXkxVWJmTjFoNUY1VWcxLU1wanVSSEhOUXRFVG9pcWRvYzhSQjY2QTd6aGROaXQ4bEk4ZnRBMGlneE9uaWRnRmphME1vSVhfZE5SdS1zSllBMU9zOW9RbE41dUNWbE5NYTZ3T25ybUN3T2c?oc=5",
-     "date": "2026-11-23T08:13:25.000Z",
-     "text": "Zwischen Debakel und Aufwärtstrend: Hoffenheims Suche nach der Konstanz Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Ulreich scherzt über Nachfolger: \"Ob sie jemals einen wie mich finden\" | FCB-Keeper exklusiv | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSnpUS3NTWnBvSl9UU2NSZVdZclc2c2NrcEhuX3RfRGpsZ09GNzRDQ1ltRklvdzg4T2oxX1h4azJvZGxBT0VrRk5KeTM3Q2ZMalhqMlY5U2Z2TmRDcXlnalZMU1ZHcE9nRTNCMHF1cWdwa0ZnamJFT3oxMFdJdkV6ZC1MMUxKWl84aElkN0F4WVRKWmZZZUVVbjFKX1RycVp1c3dNa1FhNA?oc=5",
-     "date": "2026-11-23T06:39:48.000Z",
-     "text": "Ulreich scherzt über Nachfolger: \"Ob sie jemals einen wie mich finden\" | FCB-Keeper exklusiv | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Tor direkt nach dem Bully: Minnesota feiert Sieg in San Jose | NHL - Highlights | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVHdnVjRGQTJ1YV9ySTNYM3NrejhodUVLMEE0Z2VlMG5mY1ZrZEdvMGZlWmVwczAzLW8ydF96bDJYSDZ3Y2thUU9BcThweExvVXdrZjU0bG9kM2ViNnNqMGdsSUR0LTVlcHZ2RDJCZWhMRTBIWW93RnZibXJhS3NNazN1TEluSlNWc1JaaGRoNWswLVFabHU2bVVVQQ?oc=5",
-     "date": "2026-11-24T06:48:08.000Z",
-     "text": "Tor direkt nach dem Bully: Minnesota feiert Sieg in San Jose | NHL - Highlights | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Mahomes und Kelce zaubern: Chiefs lassen Cardinals keine Chance | NFL - Highlights | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWZEWnM3aXBKTXVIUThjNTNrdzRnU01sQjhZd0dOLWFwQTN6Q0hERzh3VHBUanMwOGpCc2VVTC1mRHhYanBTVFdkcmh4WGdqRzZUVDJUcC1mcG9NTzNNUHNSSXF4R2ZNVVZCQXNCYXFqVlRJYlVpNTUtRmtyYWxjcXp0b0d6QWZueVhGcjJHU2pGMjY3X1VMY0E4ZFVBcTg?oc=5",
-     "date": "2026-11-22T21:48:21.000Z",
-     "text": "Mahomes und Kelce zaubern: Chiefs lassen Cardinals keine Chance | NFL - Highlights | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Hütter lobt Elferkiller Atubolu: \"Schwer beeindruckend\" | Unglaubliche Quote | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa1JBOTNjQWdsUmFTdW96Q09vM3ZuNWRnOVBVQ09IQUhjREtKa2pQS2sxVnBTSFBacWhNTnU3d25WVFhBZ2FsN2pMdEtCRktqLTdIcXJRQUFhR0E2STNvdGFYdHg1ck1Sd0s1Y2ZQVDJFNWpTVmZjZVNkQVZiTEJRUG80cWxzTm9SWEZmLWpaYmkyUmc?oc=5",
-     "date": "2026-11-22T11:03:03.000Z",
-     "text": "Hütter lobt Elferkiller Atubolu: \"Schwer beeindruckend\" | Unglaubliche Quote | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Dicke Überraschung: Commanders schlagen Bengals | NFL - Highlights | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWkY0N3FrRVliX3FqOXJ3aU5MWkNVd2FLRWZtRlZmZ2RMaE9SVGdONTZqQXBDUUMyWG5uV0t2UTBKbmZGZG5pcGdRczc4WTg1bVl0YkMyazVlYjZjeDJTZ1Vqd3pkWGViT1ItLW15LUtpMVdvQVgxUC1ZTlIxYUtnQzFWZmV4RHBoZzdF?oc=5",
-     "date": "2026-11-24T05:24:55.000Z",
-     "text": "Dicke Überraschung: Commanders schlagen Bengals | NFL - Highlights | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Nach fatalem Fehlstart: Barca dreht 0:2 gegen Villarreal in zehn Minuten | Highlights La Liga | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWplNDJ5TzBmTy1xVkE3SVNscHl0MmIxSFFGcGM5WmQ2LUFkTHVNRXlDTW5sQ0RDQURLRzg3VGQ5dlNFTnA2LVNra1JRaEMwM2pmcE9yRHJIdXlyamYwUHdzYm5pNDdqSDlzZHc4czhHRWRFRlJjSElFcTdZbXVBMGRrbTdiVU1vRjkzbGc3QW0xLUhfSTB4QzBvZmNLWDhZZ2dzaVE1ZnFEbE0?oc=5",
-     "date": "2026-11-22T15:40:51.000Z",
-     "text": "Nach fatalem Fehlstart: Barca dreht 0:2 gegen Villarreal in zehn Minuten | Highlights La Liga | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Muslic: \"Die Jungs haben das hervorragend gemacht\" | \"Kleine Schritte nach vorn\" | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWlh5XzZ6dnBVMUZ5bDN0WXdXVmNRa2h5TjdUQVJ2Z3BTMXBfWjl6LS03YXZNb283Y19STEEzdDFxNk9aMi05c250U0k4MXBnMEdWUXdtOEhoVEgxa3Jxc3hTMTVoVFl3cUdhZmZpNEt5ZkhCTmZ2V1hWcFVyYlRVV2R4WngzY3J1RDFZ?oc=5",
-     "date": "2026-11-22T15:22:47.000Z",
-     "text": "Muslic: \"Die Jungs haben das hervorragend gemacht\" | \"Kleine Schritte nach vorn\" | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Im DEL-Klassiker: Mattinen und Calce bringen Adler gegen Köln auf Siegkurs - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHVCTk9qSDVIcEJnb0NMYWdpUjVFelZDQm01Y0tRamNKbjNLbEFRMXNCZldLSU1PQWlZYjAzc29VbkNQanB6amYyOWhCc3VmZDl4Qm9Calkxb3hqV2RsXzhBd25JMDZpc0tlWXdFTzAtRGcwQTFMbzR2MWJHU1Zjc1NTcElJQ1BvZUNvMzd0dWlxLTU0T0o2SHpCb1ZyOGJ3SGdTd1QtdGlyb25xdldj?oc=5",
-     "date": "2026-11-22T19:34:05.000Z",
-     "text": "Im DEL-Klassiker: Mattinen und Calce bringen Adler gegen Köln auf Siegkurs Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "United-Coach Pochettino zur Roten Karte: \"Das ist niemals ein Foul\" | Missglücktes Debüt an der Linie | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXRTbGVqR3drZlBUTGNsM0haWjRhUHlSWEtMRzkyeWh2ME04dFcwVUlUUWdyLWRMNnl0N0ZLTTZENnplVXFMbXBBY2FBRl84WmU5bVJTSE1UYVdSa3pFY1FwMlRPUEVDNC0tZjZOM1VicEpUTm8tQTdlaU43RjR0aVVWU1gxWjNkN0YzUjhzbEY5MDJMUndHbG5oU2ItcHNMd2c?oc=5",
-     "date": "2026-11-23T09:53:35.000Z",
-     "text": "United-Coach Pochettino zur Roten Karte: \"Das ist niemals ein Foul\" | Missglücktes Debüt an der Linie | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Fischer enttäuscht: \"Von dem war nichts zu sehen\" | Fünfte Niederlage in Serie | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNDBkTzJoZ3IyT3FTanl0aWk0Y1VjVmhnMmV1YXhXeE5kSXNvazNybERyMHYyVEhYODFIMW83SFBnVFpDYUxUNlNxTTRtWGhITDBwYVVXYTZIT2pMTV9scDBxWURVRzJiY25aejZsQy1WYXRoR3JkVFh3dnQ2Y3FnN0I4RVl1b0lHbFlB?oc=5",
-     "date": "2026-11-22T19:55:29.000Z",
-     "text": "Fischer enttäuscht: \"Von dem war nichts zu sehen\" | Fünfte Niederlage in Serie | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Blanks Serie geht weiter: Schwenningens Aufholjagd kommt zu spät | Eishockey - Highlights by MagentaSport | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUlU4R1U0aFFBVHZMT3dYQ1N2QnhTZWZYRE5XSUZoYVBQYWl5bTNVMkRuQkw1cF9VUXBaUnNSR190ZFJXcGx1U1pEcWZCZXdnMlE3aXFXSHZHRzdMOFFRTS12cGR2ay1OQnNvczdMQnV5b3phRXd3MHBCOVYtdFRDT042RzJaRXo5bmEyTWlXaHNvckJpSVhYR1F5eFZScGZWOHc?oc=5",
-     "date": "2026-11-22T19:49:42.000Z",
-     "text": "Blanks Serie geht weiter: Schwenningens Aufholjagd kommt zu spät | Eishockey - Highlights by MagentaSport | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Bei 5:1-Gala netzt Jashari erstmals für Milan ein | Highlights Serie A | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjdqZVQzYWs1UHVmTHhJYkRXSkNKWlV5X2RRNHdLS0RXLTZYclNZVjZncmJsVGZCNjZLMzZ3YkRvT0pGNDhLT3hyVFF1V1NLSl94S0YwX2RVVGI4bmJoNUxPbGw5MGVxN0JGNWZOdmtJMUdzWEhXNDVZZC1VNnJSZG5ZNlBKM2RtZ1dxeElKUQ?oc=5",
-     "date": "2026-11-22T19:14:56.000Z",
-     "text": "Bei 5:1-Gala netzt Jashari erstmals für Milan ein | Highlights Serie A | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Hammer aus spitzem Winkel: Vancouver und Müller siegen zum Playoff-Start | MLS - Highlights | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVkdVSzdOelpsMVNUdVlxZ0RDMFdEOTFpblRRR190M2hDYjBFVHhaLWp4Y0JnTTN5NjEtZGIzNlFIcVF0SVFMYjJQdFBjWGF1NngwZHJZNkxxQ0s3Mkdxd2J5VTZjTHA1T0loQ01vTERMTzVDSVg2aGZ1MDJVSDBYU3RRQ21oOWhoM0FJeTVLTUZfRTdHRG8wMTA0VERFRk90Sm1ZRWY1X1RqUkJH?oc=5",
-     "date": "2026-11-23T06:06:17.000Z",
-     "text": "Hammer aus spitzem Winkel: Vancouver und Müller siegen zum Playoff-Start | MLS - Highlights | Video Kicker",
-     "via": "Kicker"
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 429",
+   "items": []
   },
   {
    "name": "Hamburger Abendblatt (Google News)",
    "focus": "Nur HSV-Meldungen, keine Liveticker.",
    "ok": true,
    "items": [
+    {
+     "title": "Muskelverletzungen beim HSV werfen Fragen auf – Aufsichtsrat schaltete sich ein - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMNmhhY2RDaEdNaFpkLW5KUTJQYjM4N00yVEc1YjNTNnFXdzhjU1R6X1lfbmtCNmVOZzh3dU9FQ0M5WExFbUc5cTlWb1NncFhlbm1yX3p4OXo3VVdpYXY3Snk1MXJ3NWVndHc?oc=5",
+     "date": "2026-11-24T18:00:00.000Z",
+     "text": "Muskelverletzungen beim HSV werfen Fragen auf – Aufsichtsrat schaltete sich ein Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Mehr Zuschauer gegen den FC Bayern: So kommen HSV-Fans an Tickets - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalFWejN1dFNwbUpMTDR2ZWZQbVF3VGZ6Z1BQd1FVelJzOW51dTN6c0hRSnFEbXdoNWhMOXJ3LTRDMUc2dEdTWHFmS0tYejZGV2ZzYlVJaTRWdW1KbWplMjYzaEF1bHB5U29jczFQWkh2SGxvel9vNVNad0c3RnZNb0xNc04tUkZ5OHVfRmZaUVg1b1c0ZFdLT1FQaUJnZDRQNFppUkQ4Y29KdUxCZU1HUG45NkNMVVNKLWZPVlRIWQ?oc=5",
+     "date": "2026-11-24T16:26:00.000Z",
+     "text": "Mehr Zuschauer gegen den FC Bayern: So kommen HSV-Fans an Tickets Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "HSV-Sprinter bittet um Geld – Hamburger Touristenattraktion mit Großspende - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXhLS3pKZUlzS3VLZ3FGN00yVDF1REwxSVVpaG1qWEJKOFIxeExYTzlqbzZIX3hSYnVRb2tCMHFlSEdadkN5aFlBM2pURGFjUDkwaVBuMEVqQWZ6MThGd01GYUdYdDZIV0s5bjRTUnROSWxERTduVE9iQkZoRWJXSFZaRW5XNHg1d01KS0RLRVJKNUY4a2loNENuS2QtSXV6RG5sVFRYS2ZDdV92X0xJcTlxd0N6VXVqMVh2OVRCY3dJNGx3alpNeTl2TQ?oc=5",
+     "date": "2026-11-24T15:33:49.000Z",
+     "text": "HSV-Sprinter bittet um Geld – Hamburger Touristenattraktion mit Großspende Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Hamburg-News: HSV-Randale in Bremen und neuer Direktflug nach Damaskus - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWRuUF9uZ1RybGhHaUZFUVRqdzVZTG1RQjhoOThsUzdGd3BWY21MS1lQZGhhRUlIOHNNZ2J6TEY1X0NrUE1FWjdmbFJzMTUyZDRuWmRlcllvaVV0X2l0QTdFbW05NVQtbkg4Y2ROZnpadFdQQ3QxeGZWU3lUdllnaWFwN0FNdnpUblV5REtIajNSRWlUZlJPTWNiOVFGWkZFdVRhT3RuelIwU2dzd1BQRk92Q2pJdDRVaktnQlFXNEtEVEE?oc=5",
+     "date": "2026-11-24T15:30:00.000Z",
+     "text": "Hamburg-News: HSV-Randale in Bremen und neuer Direktflug nach Damaskus Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "HSV-Fans randalieren im Weserstadion: Wer die zerstörten Toiletten zahlt - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSERqT1JzaHhTVXowMTNnTWlWblZkZUpEelRjUUpLS0FGRm9IY215RUdYaU4xWWdMSGs5NW03OWMzR3pPRS1fajJSOER5bDNPVXY4NGc4VHBnN1JQWFVtOUxabmFqbkt0WGEyRWFfbHhtbXB3QXAxN0tiaTZMMEluLV82NzF1VjNSaXJkZzlhVXo0SzNsSXZwalBVTHBpVHl3Y0ZMdjNEMWFNRm10Q200OUt0QzI4ZVpjU3dzN1M0T0tWeGNEeUpfM0NR?oc=5",
+     "date": "2026-11-24T10:19:41.000Z",
+     "text": "HSV-Fans randalieren im Weserstadion: Wer die zerstörten Toiletten zahlt Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
     {
      "title": "HSV taumelt ins Defensiv-Chaos: Kriegt Polzin das wieder hin? - Hamburger Abendblatt",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnJsZkxjdk5sS3FUT0NzMi1HdEJJMVhORzJpanNlLTFLRDJZMjRwSnNIMGl4bk1VWnpvaEsxNVJYcENQSjBiQ0hFSjRveVFUbER6UkVEbFB4VVpRQ2dJc1RqRUFzcFpMRi1iSkRyXzFLNHNCcDhOWWR5X01mV1Z4ZERYZVpQZ1AxWVJ1SXRVTkFpMXozSVMxM1Jfa2U4WGxxdnpYVDh6STE3LTRBX01RQTBTakJScnNE?oc=5",
@@ -288,17 +112,17 @@
      "via": "Hamburger Abendblatt"
     },
     {
-     "title": "Zoff im Nordderby: Darum gingen zwei HSV-Profis aufeinander los - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEotNDBoTUNlN0YyMm5udWU2ZUt4Y2s2M1FJdzZDWVhLZWVwOE9kRnFMZi10eUJ3OU9GN0xwbTdpYl9POXFkdmM0dVRuQng0Mmp1aHhCZ0ZBeGp4ZTUzVXVuM1B2TGxNUm9Kek95UGpsMWpGY1EtQlp1S1dxYkxwNmNFVnFNOGQwVmRHcWFQalBUYTBHSThfT3NiVXVTU20tTmtvTm16cE1qbmtpNGtHbmtKVHhianpONXdR?oc=5",
-     "date": "2026-11-23T08:52:09.000Z",
-     "text": "Zoff im Nordderby: Darum gingen zwei HSV-Profis aufeinander los Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
      "title": "HSV‑Fanclubs verurteilen eigene Anhänger scharf und fordern Konsequenzen - Hamburger Abendblatt",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQngxSWxRa2RqejQ5ODlObkJSS2ZJazl0dXBCUXRqNGxWS0NHWkIzSjVhVHFJaHpLZzhMenVWdi1oR3Y0TFdGTFBGd0I4bkxfRXU1SnRGeEI3Y2FaWGFDQlN3STlyd3BBNjN1VFZNZEtnM3VUWkg2YWxsSVB2elFwRFUydjNEQUV6VUlZQUZqbjRhY0ptREpVOVZTMjJtb1k3d1ItY3ZVWE4ydm9rSGFfS2FXS0FrQWxxTG0tbkVqUDVvTTY1aEtQcER6NzFwSV9tREE?oc=5",
      "date": "2026-11-23T11:18:59.000Z",
      "text": "HSV‑Fanclubs verurteilen eigene Anhänger scharf und fordern Konsequenzen Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Zoff im Nordderby: Darum gingen zwei HSV-Profis aufeinander los - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEotNDBoTUNlN0YyMm5udWU2ZUt4Y2s2M1FJdzZDWVhLZWVwOE9kRnFMZi10eUJ3OU9GN0xwbTdpYl9POXFkdmM0dVRuQng0Mmp1aHhCZ0ZBeGp4ZTUzVXVuM1B2TGxNUm9Kek95UGpsMWpGY1EtQlp1S1dxYkxwNmNFVnFNOGQwVmRHcWFQalBUYTBHSThfT3NiVXVTU20tTmtvTm16cE1qbmtpNGtHbmtKVHhianpONXdR?oc=5",
+     "date": "2026-11-23T08:52:09.000Z",
+     "text": "Zoff im Nordderby: Darum gingen zwei HSV-Profis aufeinander los Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
@@ -316,59 +140,10 @@
      "via": "Hamburger Abendblatt"
     },
     {
-     "title": "HSV-Profi mit deutlicher Kritik nach Derbypleite: So reagierten die Fans - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV19ReVBLZ2d2dVA5b2wyVVUzcVd4cjYzaVN6OVMwbmJWTVdma3J2VHVucmVhbmg3WmZjeE5OLXU0OV9WeS0xZ0E1SE5SSEszaXRiZU1TS3dfdW1OcTNJdXhBVjA3TEJPOUFGQnlTOV9nVVVnMUc5WVVKdGJ5clRzS0dfYkpqMkhsVGxndURnQV9BczJ5X1BUT3QxNGJZM0Q2cFFrSExNemN1Z05DNzRBVkZhZWppWXJJbG0xTW9ndnVrVGNwc2FmNg?oc=5",
-     "date": "2026-11-22T20:31:00.000Z",
-     "text": "HSV-Profi mit deutlicher Kritik nach Derbypleite: So reagierten die Fans Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "HSV-Fans sorgen in Bremen für Ärger: Feuer im Block und zerstörte Toiletten - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS2JpNG9LSkJPcE5UOGNkaV9JUXF5cWM2ZURla25URHNTa0l0OGNlMG95TzIwUlNPUi1hWjFoc196R0hsODZ5UG9HaW0tQk9XdmZoYl9BTmZCZnBsLTVSU21kaURlLUg3dzdjSFRtU3RDUDdfaFlVY0tOQ05wZFpCSm9YRjQxSkJqRmN3WkJoUGR3enpNR3VZSXN2T3R0MWNrQ25iaHFXa1pjUUtXREhRTkR6ZDJHa2VQVVowQUR3V0FYQ25QektZZ0cyaUpJTmdU?oc=5",
-     "date": "2026-11-22T20:02:10.000Z",
-     "text": "HSV-Fans sorgen in Bremen für Ärger: Feuer im Block und zerstörte Toiletten Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "Sechsmal die Note Fünf: Das Derbyzeugnis der HSV-Profis nach dem 0:4 gegen Bremen - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZDFHT293VU5Fc2VQUnc4TXdZM2RaNWtnNHJxZGdWeFhfNzdoVUJ5amxoSjhqS3gxRERXenpjOTB6LW8xdUxETDFqVXp1V1RQNUJyOHktbWY3UTdTenJtX21KVkJpUXdBSnZPM2tVZ3hMOUFiNVVBb19NQ3ZoV1JmbXRqWVhFZ0R3aVlZbHA3X3htNW5ZVWNqOEJJNWs1SWxDemZjdzd0ZnFQbnFZZmdoR0JReGRiUDVBdXh0LXBTczN6QlJuY0p6SjBxNURPazFrM0lodQ?oc=5",
-     "date": "2026-11-22T18:35:07.000Z",
-     "text": "Sechsmal die Note Fünf: Das Derbyzeugnis der HSV-Profis nach dem 0:4 gegen Bremen Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "Drei Gegentore in 15 Minuten: HSV geht 0:4 im Nordderby baden - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWGxkeTRnWXk4QWl1WUdPajhNRHNUMGxwVmZ0WE0xNVJVOTY3bFprY0ljcWtzcEZnVFVSeVNUYWl1LWVmN0FOaERoU0N4QXFWZkluX3FNdlotWkN4RzNvUGZkNFEzZ3J4ZHo0LXdkWlg0YXJOTWx6cS1fUEozUW9mMHhvNHZackdzbEppYlhqUFg0T1pHTzN0Y3VNY0RhalhDRUhUMmlaYnJYcU9HMUhPTHNlZmxSbTJ3cTZTNXN1Nzh2R2dw?oc=5",
-     "date": "2026-11-22T18:30:00.000Z",
-     "text": "Drei Gegentore in 15 Minuten: HSV geht 0:4 im Nordderby baden Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "Muheim-Schock: Es ist die Wade! Wie lange fällt der Schweizer aus? - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMU9IRnE1UEFPV191cUxDaHdsX1JWZ29fVTI3Z2pLLWhwSWM2M3FSeE90cVZ2Vmk5VGc4d1BrbGI1bXZIMFA5NHZOOWZvRk9HTlZSLVo4SEhjN3NjdlA4MGdSRUFfOHFvN2dCUGxEcmZvQjNKelpMOG5jV2hCYnFIMHdxUzlReFZlcE1IbnpQamZPMHhiTXprSlpQT3N1UmpMYU1EemtobW5tak40MjdtVjhINXlrakhpZE1lMXNmdw?oc=5",
-     "date": "2026-11-22T17:48:06.000Z",
-     "text": "Muheim-Schock: Es ist die Wade! Wie lange fällt der Schweizer aus? Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "Liveticker: HSV muss Muheim-Schock verkraften – Schweizer verletzt raus - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZExHbVlsa09kbVBiT0JEb0VSNzhYbnRrYjN4RldNbDQ3WjFQYmFrYnNHTklpa3BMZzdaTmZBZ0I3TlR4N2czT3h0OHlodkpsbkotNTZacW1fRG1mVXRYVTFmT0w4cEVBYjZfUjZCQ1NSSWhMQzVVS2tXQ2FFUWY5OHdRVnRGQ3JKVm8xZWI3c3hLRTdOeGVRSm1HdEp2RVRCZS1OZHB2ZVF6UFlPamtOMTZEcFVnS3VCRGFacXRBY01ldw?oc=5",
-     "date": "2026-11-22T16:59:00.000Z",
-     "text": "Liveticker: HSV muss Muheim-Schock verkraften – Schweizer verletzt raus Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
      "title": "FC Bayern wechselt Hotel in Hamburg – Autogrammjäger müssen gewarnt sein - Hamburger Abendblatt",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFM0ZXVCelU4LXQyajdJSDRVbHMtV2JVSThjTUJkeF9tS3JCZVc0eTZ3d2N1c0VMY0FpcVlZcTVBSGxITDRLYi0tdkw4dzM1bDlWRzZkLXU4VDhmN0FLelRQTHh6Smp5WHRxSVVEUHktX2RpQWxydDFNUFlWaV9TNUQ1ak9SQkd4a25rTlY3dDJRTldRcXFDb2lWSG9BMnIxSmhkaTdmX2JiTzlaSm9GZ2d1RjFmNkROU1BZdjZKWE9kWElKeExYT1dn?oc=5",
      "date": "2026-11-24T04:30:00.000Z",
      "text": "FC Bayern wechselt Hotel in Hamburg – Autogrammjäger müssen gewarnt sein Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "Der HSV und der FC Bayern: Kann man die Fälle Musiala und Vuskovic vergleichen? - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnBubXVKTm54ZkQzSlV6N19UWE82RGFlcG9aWlNwcnp1cjg0bFBxaFpPMTlndEFkY2ctcmNjbVpKcXFhNkkzclhSaXRmZVktbFVMOTdrc3l0NXdzUEtDSkFfRFlDb2M3aC1IOWMtaV9UN0hMM0N0RXVGRkhvX24wRFE5RkhoYzlmV0FtVUdiNGJQQ1h0TDdDOGFmLUZOSEJpREI3MVVlSlZNa0wyd1h0Q3Vfa3lqODlTX1lJWlFzUTF5QnVTcWlYRmkzMWRmRWVtdkE?oc=5",
-     "date": "2026-11-22T11:59:47.000Z",
-     "text": "Der HSV und der FC Bayern: Kann man die Fälle Musiala und Vuskovic vergleichen? Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
@@ -393,10 +168,10 @@
      "via": "Hamburger Abendblatt"
     },
     {
-     "title": "St.-Pauli-Fans werfen Flaschen auf Streifenwagen – Polizei flüchtet - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVS1YWWROa1VCVWpsNGtpRW41NWFJZXR5UVloNjFBODVTYkxHSzJVQll2dW95d1BMdmJtTW4tSkk2Y0ZQV2xkQ0JiMk5OdFVQNm5SRUlFR05XOHlYTjlEWUVIUm5wVm84a0xEanNQSzd3RW9hNE44NGRVTUVyOXhtZHhyZ0ZuODV5cG4xdEpZQV9NWnA3MGV4V0N4Wl9DUXNRamlhZ2t4OWNHQXlPUFd6ZEJPMXMxWUJNbE5mOGFQaGNxSlBicGFZ?oc=5",
-     "date": "2026-11-22T10:37:00.000Z",
-     "text": "St.-Pauli-Fans werfen Flaschen auf Streifenwagen – Polizei flüchtet Hamburger Abendblatt",
+     "title": "Meterhohes Feuer über Hamburgs Süden zu sehen: Was hinter der Stichflamme steckt - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTWpfVHJ4TklVNFJfdGlETnAxVUpfVU9weERwanBpZmYwN0tzZzh6b1RDRXhsdVFVd0REbmJFUXFsQUZJcUZXdmhIVXJEcmpBYTRMMEdoTHgtU09CQ1FEbjJuaGUxWlZ3clZibEhQamtWb1RYeHhzSm9TUmtRc3JDMTNVdUF3TjFqN2xmeG1ncW5xUkdxVkFpNFJWUkpQX1l6clRqcWRFQlVMLTc1TUpKaWd1V1BNdnR1cmp3TkZ3Y3FXcFRkT3JibE1INzVSQ2JEb3p4YVJ4aDBtQ3I0V0E?oc=5",
+     "date": "2026-11-24T15:19:24.000Z",
+     "text": "Meterhohes Feuer über Hamburgs Süden zu sehen: Was hinter der Stichflamme steckt Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
@@ -407,10 +182,31 @@
      "via": "Hamburger Abendblatt"
     },
     {
+     "title": "Großkontrolle auf der B75 bei Tostedt: Polizei kontrolliert 316 Fahrzeuge - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSmd1MDVHcEUwaWhYYlJpUFpydGhGd2FNSU9qaDFUTU1kakVpblB5cnVaRWpTdFAxLWRpZkRuVGVXYkozVHRycmUweWp3YjJmVUVfMERrem1rbkpwYUhsd2htaWo2RWQ3QjRueXROM0tDT0F5UE5oLTg3dURReXZJYVdVQkNTOXRueDFheHpXRnNSN2thSWhiT091U2gtWHVDNEZwOXpwQmRPSHBiYlRLZ1M3dGNwOWhLcWU5ZXlEeW5CaENubVE?oc=5",
+     "date": "2026-11-24T13:52:09.000Z",
+     "text": "Großkontrolle auf der B75 bei Tostedt: Polizei kontrolliert 316 Fahrzeuge Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
      "title": "Weltstars im Elbphilharmonie-Duett: Da hatten zwei richtig Spaß an der Freude - Hamburger Abendblatt",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPczYwSGRzNUg0MDVvYXYtdlhqSkRLN3VVeHQtM1ZxX1JCdVpXNlVFb1dVWHR6WktNUUtRM3JWanA5bFFlWGpCSWROUlg2XzBYNEFYeVFiNmlvVHh2RC0wMzd5dWNFdmxtNXhTRW9oX210ekxwNjIwR00tcW91N1YxVHdqLU4xQ3o4MjlNNElHckJ5b3B0dzBqbUpYS1VOdXFsOUdjclloczFKQ1VSWTBPeERzTUE1enB5ZGg0ZUE2eVRSTGhVTlM5bjdzSkE?oc=5",
      "date": "2026-11-23T11:06:34.000Z",
      "text": "Weltstars im Elbphilharmonie-Duett: Da hatten zwei richtig Spaß an der Freude Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Hamburgs Bevölkerung geschrumpft: Das kostet die Stadt Hunderte Millionen Euro - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWEVMZHVNcndFRVJXNDFhVGJPSWxhOHh2Q0VhcmxVb2wxbW1aUTVDRkpudzVWaG43QnpWRGc2dmpXa3FPcldvVHlfSkEtOHV1M3JPU2RiOFQwUUk5LTk4NkRKS202VmZ4dkh3QTM0b3I0OUk0OE1Ibjd6MWdvM2NMaTFfY2FrLVROUkM4eFdiYXdKc0NSc051UmNta0xhaGJFVTg3TWZKRmtCaGdWMTZrTHZobDdWTXM5WU1oME9DLVVacTRzdEFTOVh2alp2enBjcnY3Z09iMlhSdURqdlE?oc=5",
+     "date": "2026-11-23T09:49:05.000Z",
+     "text": "Hamburgs Bevölkerung geschrumpft: Das kostet die Stadt Hunderte Millionen Euro Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Kaffee mit Butter zum Abnehmen? Expertin erklärt, ob es wirklich hilft - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkFfdmFsUlQwQldPTXB3dTVvanUyYV9KdmNFNTFaMVhxTm9IdHJ3VHU2MUQ3QkJGZDBBYXZWTmU4LTFvYVRFVU5STmtJZG5RUDF4cHdXVGtRaFBMLWc2bENIRUNRNnpJUGtNclA4eGRFM1RkYzR0T0xzTHA3elRQVFlaTS1OejAydkJfcTBLOVhUdTBydDVFUzhlY3VnU1UycW02WTRVQ0FweFkz?oc=5",
+     "date": "2026-11-24T10:41:00.000Z",
+     "text": "Kaffee mit Butter zum Abnehmen? Expertin erklärt, ob es wirklich hilft Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
@@ -428,10 +224,38 @@
      "via": "Hamburger Abendblatt"
     },
     {
-     "title": "Hamburgs Bevölkerung geschrumpft: Das kostet die Stadt Hunderte Millionen Euro - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWEVMZHVNcndFRVJXNDFhVGJPSWxhOHh2Q0VhcmxVb2wxbW1aUTVDRkpudzVWaG43QnpWRGc2dmpXa3FPcldvVHlfSkEtOHV1M3JPU2RiOFQwUUk5LTk4NkRKS202VmZ4dkh3QTM0b3I0OUk0OE1Ibjd6MWdvM2NMaTFfY2FrLVROUkM4eFdiYXdKc0NSc051UmNta0xhaGJFVTg3TWZKRmtCaGdWMTZrTHZobDdWTXM5WU1oME9DLVVacTRzdEFTOVh2alp2enBjcnY3Z09iMlhSdURqdlE?oc=5",
-     "date": "2026-11-23T09:49:05.000Z",
-     "text": "Hamburgs Bevölkerung geschrumpft: Das kostet die Stadt Hunderte Millionen Euro Hamburger Abendblatt",
+     "title": "Jede sechste Familie in Schleswig-Holstein ohne Kita-Platz - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMG9xOXJmTDQtTnpyWk4wSjBxbkNGN1lLN2wtU1NOeGQ1QkRwcFZGSmFxQ0tKbEVDUzd5YUFPdDA4cDQwOWhYc3pKZWR1Mk9QWWZrZWhBRWRKQjNmMTFURGhIMTRqRHhRMkJvV2JBamp2UVdybHB6djdDaFZTbUpRZU5PT0hnQnREMmNPYWFjYkZJTEFHT2xtNWh2a19oZ3V2WW9iVUtOQmkwc29jRjFpU05PRFRGeTYyM2k2X0lweHREYXM?oc=5",
+     "date": "2026-11-24T11:14:48.000Z",
+     "text": "Jede sechste Familie in Schleswig-Holstein ohne Kita-Platz Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Philipp Plein: „Ich war immer ein Außenseiter“ - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVkg5Wk84WTl0dmxRX0REeEUwLU1KYXFhV2s5ZnE0ZWF4R2U4Qk1kM3Nqb2hQbFpTblRPNHBDcnp0cWgtZ3hSQzl3eEJkUzhaVWZ6Mnl1RG51V0c2QkR0anJBbHhpa0dlZU5KMGlyaTdoWi1pUUNCN29pVUJMVHpCTFFLY056ZEJaTG5NejUwemtYMXQwbTBFMlNPaHBXZmFUWmc?oc=5",
+     "date": "2026-11-24T04:00:00.000Z",
+     "text": "Philipp Plein: „Ich war immer ein Außenseiter“ Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Studierenden in Harburg fehlt Wohnraum – wie Vermieter die Not ausnutzen - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdzBwalZZS1pZNjRCejg2djJIUUMwTVVmOU1EeDlMNEhNdkJBT0RxVHU3bDFsaEU4VU5hNHRVLVV4aldSTVJKRWZvSHpJZE9XYjh2N1dCWVpsLW1QVHNmYU9IRUNYamVRQThuODhPSHlnb0NITHNzLWxHdkZnZ0FKR0tWSlpQSTRDSDdrd1RIT3lHVVl0Qjg1eUpVMEpVQkhzNS1CVDJPOEwzRjJnNm5lTUM5SC0ycHQ2bWpUWV9fS1luZ19rZ1ZSb2trWW1rUEU?oc=5",
+     "date": "2026-11-24T04:41:00.000Z",
+     "text": "Studierenden in Harburg fehlt Wohnraum – wie Vermieter die Not ausnutzen Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Zehn Jahre nach der Air-Berlin-Pleite gibt es plötzlich Millionen - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDViRG5ZemhXdWVwUWZKYlBPS01vZDFhMUxyajB5NlZhdnoxRU8tTU9OakItY2tIcnlUZllRVGlNSlp5NDVHV0Y0MVVpQWVkZWlJeWFuUHJialNkU3pwM0pKV3I4aWdBS05vOW9fdk9HNy1xVDktLTZPQVVIMUQ4eGY3SFIxLUZEYk5SelJnZEZ4RVprTzdrbzZtSjJWSkNudWpEYUR2ZDVra0VkcFFqdi1UdGQ1dE1rWTBzMjBvUF9HN28?oc=5",
+     "date": "2026-11-24T14:19:41.000Z",
+     "text": "Zehn Jahre nach der Air-Berlin-Pleite gibt es plötzlich Millionen Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Flensburgs Handballer feiern fünften Sieg im fünften Spiel - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON1k3UUIzLS1oSDhtY05tUkkxb3JycnRGMjRjWHF5UVN0Z0NFcTZxT2N2SGRzeUl0clYxeDBlUjhKemZyQWNQWGxQX2xUTC1zOVUwSVN0bGt5M1Y1QnBRQ2pNYkF3SkZYSUs1aWltdG1fRGRlX1BUME9FT3BvUHRlMW9rcld5NHJKTjRRY0JOdHJ1UDI5TDU4MmFSb1RISDFrUGhvRVZlMHJWVEVrejRLcEVhS084QUM2QkZOdmhjTjJlelJkMmc?oc=5",
+     "date": "2026-11-24T19:19:05.000Z",
+     "text": "Flensburgs Handballer feiern fünften Sieg im fünften Spiel Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
@@ -439,41 +263,6 @@
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTnAtcjk5ZUNYeFBUcWhaY3ZYQzFQVE93b3kzX0FJVTZvOHplcm02UWFESVdObDNjSTRCR1U2S2lrbkdnU3BvOXZvM1NPbkdxa0VMWmJPejJmZ21hSUV3WUFVWTBnc3VDaWxWZmpucHFFUWk5Mzl6Z0lvSGdrS3FRYVNyX25XRUVlaXJKQkNYdjJNQWxDdHpWZHZYYw?oc=5",
      "date": "2026-11-24T02:40:01.000Z",
      "text": "Tarifrunde bei Volkswagen beginnt Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "2.000 Kinder suchten mit Müttern Schutz in Frauenhäusern - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWVWcWk5eWNTRkE2VnhrcDlydXZnb0pLOVd6ZHE2VG95ei14VHBIVFNkZk9uZFR5WDZfR3hBNmFkUFp3ZmRncm5tSFVxdzZwdW1BR2RVWWRFUzMwSXBqVHZ6eG1ES1locnMzQmxMclFZczRmRTAzTnN2X0NsN1VjYUJxaGNFOTNkQ1NBNmlyb2wwekNPZ0dxWkR5SVc4bm5LU2xkdTJyRDIyc1dXcHlOZFI0cFFSckp1YkFF?oc=5",
-     "date": "2026-11-24T08:00:01.000Z",
-     "text": "2.000 Kinder suchten mit Müttern Schutz in Frauenhäusern Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "Die schönen Seiten des Hausbaus: So lassen sich Glücksmomente bewusst planen - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVU80dnNFbzdnTlc2OXk4M1VrV2tFRWd6YUhMNF80dURMQUpKZ0EtVEZuS2ROdTFveVE4bDkwUWNacW5kdjdUNGh1WkVkQ1B1S0NZT1pvWFZVZzF1X3JES1dRY3ZvdW4weS1lMWNWRXRLRllSWFRfUC1NV0VFMVlSTkhVd0NhMTZROEJFRVEzZXFJQmhHZF9UUS1RRXRxSEViTFh6Y2NXM2JkZ2lHOHBReTRyX2JmM184eERIOTdBdXVkekVyOTcxTWgtM1pBUmR2WXhMcm83Ni1DdkJNOGNkeg?oc=5",
-     "date": "2026-11-23T11:54:32.000Z",
-     "text": "Die schönen Seiten des Hausbaus: So lassen sich Glücksmomente bewusst planen Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "Der grausame Herr Huang: Macht der Nvidia-Boss mit der Methode Demütigung weiter? - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTXEyYWZkWGpER0gtbVRUbldLb2d6ZnVzaE5VOEZBRHlnQXlhU3Z5WU1BWWpDT2swWG5NZXg0MUs4Ym01bWRPaVpKWTdob295WDA4OWFoMVV0Rlp2QWptazB6Q2gyc3htakFFbU1YNnZkZVRWRm1uWjQyVFpOTFBNbzlXSFEtakloaGdSenlEZ1p2cThTcEVOclFqZFFxNHVzeFJJd2lTVXZjamw3SjM4MVZ1cDBJclY2dUlVbWR2WlVhS1ZRRmhnNk5R?oc=5",
-     "date": "2026-11-23T15:10:10.000Z",
-     "text": "Der grausame Herr Huang: Macht der Nvidia-Boss mit der Methode Demütigung weiter? Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "Bombendrohungen an Schulen: Behörden alarmiert – was steckt dahinter? - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUjZfMG5kNjBmUFV1bGlvSGM1TE94WlhDR1pQNnl2VE15Yzg3WDZkaE9jVlRpQklPRFlyMVRFNWNRZ29rQThkUTFJSXJIeENkbG92V1JLUFRTaU5hZndUSW03SUNFWk41czNTclFPQlIxUVNmVFpLdk9Ud1JPbU05Q0MyTUdDWk9xNWlfdy1OZHV2UU9yODZMR2hHVU1rejVEZjNrY19DMi1PZV8tRjBiaTVvZkNjQllfQkJMdWYzZzhsR3NWcXpQS0tfNW1jSlE?oc=5",
-     "date": "2026-11-23T16:07:04.000Z",
-     "text": "Bombendrohungen an Schulen: Behörden alarmiert – was steckt dahinter? Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
-     "title": "AIDA Karneval in Rio 2028: Erste Kabinenkategorien schon jetzt ausgebucht - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGpLSFpxZjdmVTN2YVFsMmVSanhuaHRXWHhMUmx1RHJPd0pEY3dmYXVwMC1Eb3pKV2sxaWN1ZHVmT3RPVkpBYXNKZ3FhellrZ1I5YjNGS0w3X1JUSVNsd1lVRkxqUlhxY3Y4V2xoaDVlLXVtZmdQSnRGU3o1UTBEUzNsMU1WdU1HOXBSUDVBTDVXWml5RTJtamlrWFVqV0ZBLTRYYzNBR3YwM3A3cnhvcUl5SlFtNWR4WG5V?oc=5",
-     "date": "2026-11-23T08:08:00.000Z",
-     "text": "AIDA Karneval in Rio 2028: Erste Kabinenkategorien schon jetzt ausgebucht Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     }
    ]
@@ -484,10 +273,24 @@
    "ok": true,
    "items": [
     {
-     "title": "HSV-Fans wüten in Bremen: Scharfe Kritik von der Polizei - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNek94V2ZmcktubkFCb0tYZndISmdmeXdZTmJwZURuZXFZbHhmRFJ1bnVjcDVBX2x6cE1Rak9sTGFlYzduTzU0YnJtNHY3LWNGZ01wUFpnclV5NUNaVFNvYzNSWUM2MGNuTVBjSUFpQ2xxVUxDcHlFTVRsLXhGZ05OUXo2TndJbE53by1zVFYxSnZlM2xWdmxlVWh1R1J1UVhmOTA5RVd5c2YyZUJaV3poTlhzR1lNN25U?oc=5",
-     "date": "2026-11-23T10:21:00.000Z",
-     "text": "HSV-Fans wüten in Bremen: Scharfe Kritik von der Polizei MOPO",
+     "title": "„Das wird ein guter Ritt“: Was HSV-Chefin Krüger beim Bayern-Abschied zu hören bekam - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdWFXRm5VNndkNGhGdjlNYlFnTlhhRkZNOHptVWY4SjdIdGZwNDNVc0hPY3NKTEktV0RvR0h6TXhGSnprZXRBWWJfdHlfNkZJTlhoMWVjekcycE9jY29yZjgwalB2bmVqRWlSdzltczhrLWx4QlBQN0ltWm9UemtyejRWV2c3WTRlZTc0d0lsRm1HUUdXcER5cnJsMlplOS1rVllSbkwwSlMtTzlvU0gyMEtUY1k1M1pKOGVDREFn?oc=5",
+     "date": "2026-11-24T17:35:33.000Z",
+     "text": "„Das wird ein guter Ritt“: Was HSV-Chefin Krüger beim Bayern-Abschied zu hören bekam MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Neue Plätze am Gästeblock: So voll wird das HSV-Stadion gegen die Bayern - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0NUMzN5YlRBTWJfS2RQSTJQZmItQjR1RWh1eEEzYmpFV2tKVzdWSUM1TkNoWHp0enNqdFdPX0hoRDdLTE5zY2Zxb0VjS0xMWGFEY3Fyc1hFWno5QW0waUYteXFhS3pua1BoVTM2ZWVYckYycWltQ2IxNTQxRUVreWFnYzFHMzJLeHRlUFN3MWJmVkFfWDh5VG5XUktocHZUWWRPUUJvNkFBaEtHbmxUZQ?oc=5",
+     "date": "2026-11-24T15:04:19.000Z",
+     "text": "Neue Plätze am Gästeblock: So voll wird das HSV-Stadion gegen die Bayern MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Bundesliga plant neuen XXL-Fußball-Samstag - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSTFXbTh5dGdWWGlLSGlpbkpuNF94Snlvb25ZUmsyRE8xQkZJZFdSVDdxc0QtSzVkdVpyQld2bmZTblA2b3RoR2IzZWcwMmhvRVNNOFRoRVljNGwyRVZwS01EaC04dGJ1QkJoVmVvay1xVVhveC0wTnhRTzhmR0JiMGRTU2dhWFpCYlhsMFBfYmFxdGYwZmpQdkQ5YlQ?oc=5",
+     "date": "2026-11-24T16:30:19.000Z",
+     "text": "Bundesliga plant neuen XXL-Fußball-Samstag MOPO",
      "via": "MOPO"
     },
     {
@@ -505,59 +308,31 @@
      "via": "MOPO"
     },
     {
+     "title": "Manko verwundert selbst einen Profi: Warum bricht der HSV plötzlich so oft ein? - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZDJRSTRaZ1JEZThaMVdOVFlkR2dKVDRRaE9hOG42MUNqRkluVXB1V2hrc0M0dEJ1a0hjVXhSVkdET0l6b1NGVHNCMUlCa3BwbjRFV2tFZVVoUGs2QlZNYWdYcGRpRXhNSG1FbWtiSjYwSHRLV20zQ3VwNXcyVzRwNjR5OWMwSkdKN2pGSGpWLVRtbDlJcFhGSTBNVGJycFJ2c21SNDJob0h4cENrZTdrMENuR0JNQ0U?oc=5",
+     "date": "2026-11-24T13:15:55.000Z",
+     "text": "Manko verwundert selbst einen Profi: Warum bricht der HSV plötzlich so oft ein? MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Zusammenbruch auf dem Platz hat Folgen für DFB-Traum von früherem HSV-Talent - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb2pvdV83bTVRZ3NBNnBHczgyRWhlRFBMbmY3anB2c2hvT1NKNldIc0RQZEVUNnA4LTF3Qk5SdjNKbm9vb09MS0ozcFNocHpCUFl4dHNyZERFMW5jbV9DT1Axd0pOZWVFMUdmUVlBa0swX3hnWWRrR3paLVBkYU5fcEx0bnFoMEhEUVNCQ3JTZEtvcFZReFVlcXdnTV96R0xQNWw0OWtPNUI5a0RzeEZwbHpZU244cXp0RWhLTmZ3?oc=5",
+     "date": "2026-11-24T13:03:22.000Z",
+     "text": "Zusammenbruch auf dem Platz hat Folgen für DFB-Traum von früherem HSV-Talent MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Transfer-Coup von HSV-Konkurrent: Worauf sich Berger am meisten freut - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFJ5enlhT1Qyek4xMkpUSDM0VUlDZU04OEQyTWtLR0R2c01ndzk3eF80UnMzeU13ZTFhSE1VekcwU1djSmNfNUdKbnN3Slg2LVE4alBpODRPZENRR1hxWXdOT3JrX003X015U0FrdFhhUzllM0FROWZqYVF1VnhKMDFQUlVOdk1LY2ltcXc5WDNMR21KVkVWZTZ4REV3VF9xQVpMQjI0eGVhc0trUzFOZg?oc=5",
+     "date": "2026-11-24T12:06:10.000Z",
+     "text": "Transfer-Coup von HSV-Konkurrent: Worauf sich Berger am meisten freut MOPO",
+     "via": "MOPO"
+    },
+    {
      "title": "Trotz Nachricht eines HSV-Profis: Ex-Hamburger feiert den Derbysieg mit Werder - MOPO",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVktajEzRDFPeHRDYzI4cGpqNWs1TnZJM25feDJZU3N1cWtpanAwWFYta3pVQTl3QkVHS1otSXdZek9yV1d3RkxVZHc4aVpIZXVPU0NKTFBZdFdEZTFVQVI3YU9talJXdG5YejJrTU1zbkg1eUFXTWZ2cUZxcWl2S3VjTTVwWUpreUZOWnBzc1hGdWd5QmVkenBBejdkMmloOWd2Yk5NX2RLX254Y1kxeGZYdXk2Zw?oc=5",
      "date": "2026-11-24T05:54:31.000Z",
      "text": "Trotz Nachricht eines HSV-Profis: Ex-Hamburger feiert den Derbysieg mit Werder MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "HSV-Youngster setzt nach Derby-Debakel klares Zeichen - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3hQbXJtbXV5YmM0LVRsaHBpQ2FIR3lNcXNTb3kyUWdwTU50c1FkU1hpMy1wNW5Tc2Q2N1Y0SUlyRjFGX2ZOTzRCOXppUnc3RnpPSl9venZYSDBGczZ6cHBtMzNrQU84RUxMN3Vyb3VZZU9VOFBaaW5CaUtDby1BUGdRY082N1o4cGpIbGN6a0g1MDMtZ3RUUndRekJOdk5mYWtF?oc=5",
-     "date": "2026-11-23T18:56:42.000Z",
-     "text": "HSV-Youngster setzt nach Derby-Debakel klares Zeichen MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "HSV provoziert Werder-Fans – und erlebt dann ein übles Derby-Desaster - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYU1WRmFBSTBSWWQwODJqWUNjaUdUb1Q3YmptT3RzRkFSWlZZR3ZNQTdGUy00d3RpYjllNDk3OS02c1hMU09MV0tYTkdzNW1DQnNoc3RGLU0ybmVObjIzR2FURW12dGptWXpYdXpPN3lzdTlwOFNzTHZUQ1dwdlp1cXRjNXRWOEFQSHVZZ0xRLWp2cjJvazY0QUhZU0dXbEhOTno1b1l1WlRqUQ?oc=5",
-     "date": "2026-11-23T08:01:00.000Z",
-     "text": "HSV provoziert Werder-Fans – und erlebt dann ein übles Derby-Desaster MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "HSV-Fanclubs fordern nach Derby-Randale harte Konsequenzen - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ012dnpqcHBBUHo1RS1EeTBzck5KdVpWaTFJNUxpTmpzTzVhdVUtY0x4WEpKYWZOcDZNRHNCQmlQVWtLUnRVYUlfckN2bGR3d2hJZ2dzWUxpaUh5S2cxb29NTDl2SnRpdlhGbG1zU3BsM2o4aHBuY1Q0c3gzODJDUWsySGNHM1VxN0p6elZmUFVoMDNEbjktMWZCbEFKNi1MQkpCUWdkZ2JhYnl4aFc2ZDd2aGt2cFZxNk1lbm5xNA?oc=5",
-     "date": "2026-11-23T13:43:00.000Z",
-     "text": "HSV-Fanclubs fordern nach Derby-Randale harte Konsequenzen MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Nach Derby-Klatsche: HSV zittert um Top-Torschützen - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSU5GQXk5SGxqeF9pY2pvcWpseGhnS19nbXJqZXhUcE9wODRRcGF5RzZqWWR2VGJtTjAwM29kSk1yZU52TnJKTVZGenMzSGFyaUIyQkVOSU5WQkdEbkFJSV9razR5bVQwZGNnU284NWpOeURTbjVvbGtMT3F2NjFvVXEwN1NaU1VvVWRGTkFuc2t6blRoMnZiM0p4TzRXTV9taHFUMmFHSQ?oc=5",
-     "date": "2026-11-23T08:47:00.000Z",
-     "text": "Nach Derby-Klatsche: HSV zittert um Top-Torschützen MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "„Wichtig und schön“: Werder-Star mit überraschender Anerkennung für die HSV-Fans - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkZfRklPZ3FiWXJDZDlDYmN6OWRGUm5meldQMGdoeGFxSnEzRjJobUh0Vk9JQlFxMzVqRkxQVFNLSmZHelhnYnpRZ3BtZVVJdGt4VWNJdmZHUUJLaW1KYkp4TmdzcFBWMm9zZXBkOG51U1RKeXVFS1phbTh2UzFWcHp4bzJyV2xNcTFlY3NPRGdLVzJBOTZ6WGdUcTQ3d2h6VUpBdER6cUhESjVaT0hyaXQ3SGU5NFBSY0E?oc=5",
-     "date": "2026-11-23T07:08:53.000Z",
-     "text": "„Wichtig und schön“: Werder-Star mit überraschender Anerkennung für die HSV-Fans MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Schock um Ex-HSV-Spielerin: Lisa Baum bricht zusammen - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXhXcjNhTE92QmVYUlVlcS0zSkZKbTAxVmhkWFFfU2FlaDg5XzhBX0dTVW01eWtVeWVSTDBCYzNmMFpuTUpuUjdIQWRXcjdQS3FZSGVOTUhwczdXYUdOUkstVWNTZ0ZwLU0xcFhoUVV6anJYUUx2bHgtSXNUSWRVN2hnR0FTd1ZZZmx2dzNXOXFfVVo4cTZlbmpldWFBWl9KMGhWVTNzS0RTR3RwWlNuby1JTQ?oc=5",
-     "date": "2026-11-23T06:38:00.000Z",
-     "text": "Schock um Ex-HSV-Spielerin: Lisa Baum bricht zusammen MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Aufreger: HSV-Profis gehen bei Derby-Klatsche aufeinander los – Polzin reagiert - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUpSbHo5S0dlbHpvV3lWOWpqM3BlcTFpbWhybDV0eGctTllBel94elBqLXMwalZ2MWpWYng1TEo3VDk0SVlMT24tVHhlT0VGZk1nNEhwMS1WekRDN0dOSkVLNTk3Uk4wTU1nNWs3cEN6MzJlX0FmV1I2d0oxWmo4TndLMlRwSU9mVm4ya0ZYS1lFUjdOREpVSzkzNFprQ2pyRXFlcEhseTI0ZW9IbFZrOUF6amY?oc=5",
-     "date": "2026-11-23T08:08:00.000Z",
-     "text": "Aufreger: HSV-Profis gehen bei Derby-Klatsche aufeinander los – Polzin reagiert MOPO",
      "via": "MOPO"
     },
     {
@@ -568,32 +343,67 @@
      "via": "MOPO"
     },
     {
-     "title": "0:4! HSV geht im Derby unter – auch Muheim macht Sorgen - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQamZoZmk1cnRwTC1CUUdLWUkzcU1lcjJxdloxeGFPWk1Dck1kcDhXZnBHQjJ0S0x3eVhJdl94Q1pEVm9YbERxREZBaWRVWnQxWWJCb0VaM1FMQjdqd1VHVUt3VFVOX29aUGlRdExtQ195TWxUVURuVkpTa1hrVlV1enlpZTRQdElkYUpERG1LSlpDbzVkTkN3NjM3cXNWNXU0WFBLbnc2dHFmSjdwdzRoTWM2N3A1UkU?oc=5",
-     "date": "2026-11-22T18:31:00.000Z",
-     "text": "0:4! HSV geht im Derby unter – auch Muheim macht Sorgen MOPO",
+     "title": "HSV-Youngster setzt nach Derby-Debakel klares Zeichen - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3hQbXJtbXV5YmM0LVRsaHBpQ2FIR3lNcXNTb3kyUWdwTU50c1FkU1hpMy1wNW5Tc2Q2N1Y0SUlyRjFGX2ZOTzRCOXppUnc3RnpPSl9venZYSDBGczZ6cHBtMzNrQU84RUxMN3Vyb3VZZU9VOFBaaW5CaUtDby1BUGdRY082N1o4cGpIbGN6a0g1MDMtZ3RUUndRekJOdk5mYWtF?oc=5",
+     "date": "2026-11-23T18:56:42.000Z",
+     "text": "HSV-Youngster setzt nach Derby-Debakel klares Zeichen MOPO",
      "via": "MOPO"
     },
     {
-     "title": "(+) Derby-Debakel: Wer beim HSV noch Hoffnung machte - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZGVKZkZHTVdfLURsakNZRjQzRHRWNG94UTNqMUhibWZKaHVSSnBQZ084TUNRMnBvMGN6bFFjV291UXFSc1FmNlBVSHZKTXVtUEdCZjhzSFM4NVJjRXcxcVNudl9ER2twM1dQYTNtZXVJQWV1OHhtR2dCa1h1N3VVSk50ZFp6bXpsUW5nZ092NERYZnN0SmF5QlpZVkk1TEZkbl9ZYnFoRTB5Ynh5ODBESDJpYmdMZzFs?oc=5",
-     "date": "2026-11-22T18:48:09.000Z",
-     "text": "(+) Derby-Debakel: Wer beim HSV noch Hoffnung machte MOPO",
+     "title": "HSV-Sprinter bittet um 150.000 Euro: Ansah startet Spenden-Aufruf - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDYzaVEwenpiZlM5M0VWZmFWNGFNdUtYZ0dJdGR6UXhLNVA5NmZnNVNpZ25ieFJ2OXRFb1NFVmtLX0RWdHR2endMaE81b0VFdGxHaEJ3WlIzWnlmOUdlOEoyZlA1OThSU2FNUUY4VXFZeGtsdF8xMVQtTHJfZ2NLbGhGcnZ5MUFzZTVKZ1k0ekg4MWFtVGtFVzJZTFRpN0tGX3U3MXFidmQ2Zw?oc=5",
+     "date": "2026-11-24T14:23:28.000Z",
+     "text": "HSV-Sprinter bittet um 150.000 Euro: Ansah startet Spenden-Aufruf MOPO",
      "via": "MOPO"
     },
     {
-     "title": "Toiletten zerstört, Tribüne angezündet: HSV-Fans benehmen sich in Bremen daneben - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM0NCSFdtX2pzdXRqMzV0N1pRNERCYjVqOEVsYkljbDMzeEV0bE9fbmlFRWtaTS1xS25vWDU0OFlkc3FISUc5Ukt6Ym1ySHM5Q2JtR1MzTG9GV2E2aWs5aURxMkNFODhwaml4b1VvanQ0R3pJX1UzQlRXWk9Ic3pZQ1BzZFZ0QnQ5UEZiX1NZM0wtekQ5UzVOLW1oOFRuMl9RMzNqZzF0TGF6NTd0TC1jQXVWeTlSM09BZElj?oc=5",
-     "date": "2026-11-22T20:42:48.000Z",
-     "text": "Toiletten zerstört, Tribüne angezündet: HSV-Fans benehmen sich in Bremen daneben MOPO",
+     "title": "HSV-Fans wüten in Bremen: Scharfe Kritik von der Polizei - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNek94V2ZmcktubkFCb0tYZndISmdmeXdZTmJwZURuZXFZbHhmRFJ1bnVjcDVBX2x6cE1Rak9sTGFlYzduTzU0YnJtNHY3LWNGZ01wUFpnclV5NUNaVFNvYzNSWUM2MGNuTVBjSUFpQ2xxVUxDcHlFTVRsLXhGZ05OUXo2TndJbE53by1zVFYxSnZlM2xWdmxlVWh1R1J1UVhmOTA5RVd5c2YyZUJaV3poTlhzR1lNN25U?oc=5",
+     "date": "2026-11-23T10:21:00.000Z",
+     "text": "HSV-Fans wüten in Bremen: Scharfe Kritik von der Polizei MOPO",
      "via": "MOPO"
     },
     {
-     "title": "Nordderby in Bremen unter Hochspannung: Werder - HSV jetzt live! - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWkJqMjQtdTBuc2FMU3VaeHZ3MTVnWVZBcExZMjdLYkxZZ28ydHZzTEh2dXpJSFMwRVY3MV9HTUo2MmI1UXVJRkZQMi15X0RKTjhJRUdzbUtFOXUxQTFjWmxfeXpTWVI3RFFzQTJjTlRDS2IzalNmcUQ0REkxNEVOSWZFYnJxeXM0WkpqU0JXb1BfekpWYnQtUXVxZXRxSVdSNDNOeWpCc0VYcFhmYVdtWkxhSW95OUdV?oc=5",
-     "date": "2026-11-22T17:53:00.000Z",
-     "text": "Nordderby in Bremen unter Hochspannung: Werder - HSV jetzt live! MOPO",
+     "title": "HSV-Fanclubs fordern nach Derby-Randale harte Konsequenzen - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ012dnpqcHBBUHo1RS1EeTBzck5KdVpWaTFJNUxpTmpzTzVhdVUtY0x4WEpKYWZOcDZNRHNCQmlQVWtLUnRVYUlfckN2bGR3d2hJZ2dzWUxpaUh5S2cxb29NTDl2SnRpdlhGbG1zU3BsM2o4aHBuY1Q0c3gzODJDUWsySGNHM1VxN0p6elZmUFVoMDNEbjktMWZCbEFKNi1MQkpCUWdkZ2JhYnl4aFc2ZDd2aGt2cFZxNk1lbm5xNA?oc=5",
+     "date": "2026-11-23T13:43:00.000Z",
+     "text": "HSV-Fanclubs fordern nach Derby-Randale harte Konsequenzen MOPO",
      "via": "MOPO"
+    },
+    {
+     "title": "HSV provoziert Werder-Fans – und erlebt dann ein übles Derby-Desaster - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYU1WRmFBSTBSWWQwODJqWUNjaUdUb1Q3YmptT3RzRkFSWlZZR3ZNQTdGUy00d3RpYjllNDk3OS02c1hMU09MV0tYTkdzNW1DQnNoc3RGLU0ybmVObjIzR2FURW12dGptWXpYdXpPN3lzdTlwOFNzTHZUQ1dwdlp1cXRjNXRWOEFQSHVZZ0xRLWp2cjJvazY0QUhZU0dXbEhOTno1b1l1WlRqUQ?oc=5",
+     "date": "2026-11-23T08:01:00.000Z",
+     "text": "HSV provoziert Werder-Fans – und erlebt dann ein übles Derby-Desaster MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Nach Derby-Klatsche: HSV zittert um Top-Torschützen - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSU5GQXk5SGxqeF9pY2pvcWpseGhnS19nbXJqZXhUcE9wODRRcGF5RzZqWWR2VGJtTjAwM29kSk1yZU52TnJKTVZGenMzSGFyaUIyQkVOSU5WQkdEbkFJSV9razR5bVQwZGNnU284NWpOeURTbjVvbGtMT3F2NjFvVXEwN1NaU1VvVWRGTkFuc2t6blRoMnZiM0p4TzRXTV9taHFUMmFHSQ?oc=5",
+     "date": "2026-11-23T08:47:00.000Z",
+     "text": "Nach Derby-Klatsche: HSV zittert um Top-Torschützen MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Schock um Ex-HSV-Spielerin: Lisa Baum bricht zusammen - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXhXcjNhTE92QmVYUlVlcS0zSkZKbTAxVmhkWFFfU2FlaDg5XzhBX0dTVW01eWtVeWVSTDBCYzNmMFpuTUpuUjdIQWRXcjdQS3FZSGVOTUhwczdXYUdOUkstVWNTZ0ZwLU0xcFhoUVV6anJYUUx2bHgtSXNUSWRVN2hnR0FTd1ZZZmx2dzNXOXFfVVo4cTZlbmpldWFBWl9KMGhWVTNzS0RTR3RwWlNuby1JTQ?oc=5",
+     "date": "2026-11-23T06:38:00.000Z",
+     "text": "Schock um Ex-HSV-Spielerin: Lisa Baum bricht zusammen MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "„Wichtig und schön“: Werder-Star mit überraschender Anerkennung für die HSV-Fans - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkZfRklPZ3FiWXJDZDlDYmN6OWRGUm5meldQMGdoeGFxSnEzRjJobUh0Vk9JQlFxMzVqRkxQVFNLSmZHelhnYnpRZ3BtZVVJdGt4VWNJdmZHUUJLaW1KYkp4TmdzcFBWMm9zZXBkOG51U1RKeXVFS1phbTh2UzFWcHp4bzJyV2xNcTFlY3NPRGdLVzJBOTZ6WGdUcTQ3d2h6VUpBdER6cUhESjVaT0hyaXQ3SGU5NFBSY0E?oc=5",
+     "date": "2026-11-23T07:08:53.000Z",
+     "text": "„Wichtig und schön“: Werder-Star mit überraschender Anerkennung für die HSV-Fans MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Zwei HSV-Spielerinnen für U23-Nationalmannschaft nachnominiert - HSV24",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcTgxcUY5RkJvQ0pDSE5JX2Q1bmw1UXBYa3hQZjQ3eWhWLWZqeHVoZk1iajdDd3Q1VHc5eFhCLU16aS16WUVEdnRQVUdBUnpiR1lHMXVHZzVNNGtmbDdld1dOb25WcDZqRzljei1QV2l5V1BMdHNjUzB1ZE1MVmVlTkN2U0tPZUpySTlBVG9ISElUd25RN3RNb2FsT3M3TUx4V0Rz?oc=5",
+     "date": "2026-11-24T18:15:00.000Z",
+     "text": "Zwei HSV-Spielerinnen für U23-Nationalmannschaft nachnominiert HSV24",
+     "via": "HSV24"
     },
     {
      "title": "Werder-Held aus Eimsbüttel: Ein Hamburger schießt den HSV ab - MOPO",
@@ -603,45 +413,17 @@
      "via": "MOPO"
     },
     {
-     "title": "HSV-Verteidiger trifft auf seinen persönlichen Albtraum: Füllkrug! - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3p3U2NKZkZwYXQzMHNtZjdBWTBidGtMQno3MGlJMG1pLTJ4bmtoMUZtY1g2LVZzbEhRSzlhUGdmNG1GV2hVZ0s2dkVaa1Z5NkZ2Q01XemJpSHdQQnRVQ0dUNFgwWmpfbHVZSG5iMG9XSzhYdGU0QTJVY1JFQldWZzlIYUNkQ2FYSm9ncElMOWhJSzR3VXdkQl95c3BSNl9wN29vUi1UNkpDYXhER1pQWHZtdDlrRksxN1Rtcg?oc=5",
-     "date": "2026-11-22T12:25:12.000Z",
-     "text": "HSV-Verteidiger trifft auf seinen persönlichen Albtraum: Füllkrug! MOPO",
+     "title": "Aufreger: HSV-Profis gehen bei Derby-Klatsche aufeinander los – Polzin reagiert - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUpSbHo5S0dlbHpvV3lWOWpqM3BlcTFpbWhybDV0eGctTllBel94elBqLXMwalZ2MWpWYng1TEo3VDk0SVlMT24tVHhlT0VGZk1nNEhwMS1WekRDN0dOSkVLNTk3Uk4wTU1nNWs3cEN6MzJlX0FmV1I2d0oxWmo4TndLMlRwSU9mVm4ya0ZYS1lFUjdOREpVSzkzNFprQ2pyRXFlcEhseTI0ZW9IbFZrOUF6amY?oc=5",
+     "date": "2026-11-23T08:08:00.000Z",
+     "text": "Aufreger: HSV-Profis gehen bei Derby-Klatsche aufeinander los – Polzin reagiert MOPO",
      "via": "MOPO"
     },
     {
-     "title": "HSV-Derby in Bremen: Großkreutz wagt diese Vuskovic-Prognose - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVW15ZEhTcnVSaENnUXNSRjZmM3I1cVJqUG5Zdm9oQmVHX2k4ak01RWxVQ3Y2TmpOX3VkbUlhQm5hV1N2aUMwMUh1ekFudjdyLTJndURHVnFMSi1iYTJqRUZJampqaDBRUVJlOElsOVBaYW9BQWw0d3NKOUpfcndXNzNIaVdhcGZkM2FrbENRQW1XejhGSkhQSU1JUFE3TkVxcWFPMTNCM18?oc=5",
-     "date": "2026-11-22T14:24:00.000Z",
-     "text": "HSV-Derby in Bremen: Großkreutz wagt diese Vuskovic-Prognose MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "0:4! HSV geht im Derby unter – auch Muheim macht Sorgen - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHBVQmlIQnRta0Z2eV8xNzBvVVd2MTV3RVpUVHZPZ1NmaVZTZU9venp2UlRaZkZPcmxQdFdHdW9McEZCa2FvMWNjbnJ2cUx3dEFDejlLSlNKcnA0dTlxMjVCSDFhLWxMUmdzQjlqakNiOERCRFlVX2EzR1BheVNQa3RYaHV1WnNWendyVm9aa3BaX0JLcEtadV9EM1JrLTZvVmN3cVk0aHRmMmc?oc=5",
-     "date": "2026-11-22T18:31:00.000Z",
-     "text": "0:4! HSV geht im Derby unter – auch Muheim macht Sorgen MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Nordderby in Bremen: Ein Teenager als HSV-Überraschung? - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0E2UEdNUzhyenpYV3NQLVdZUmNDeDZnY0pDZGNQY294bnlzQUQzX3VQSmdVX1E2ZTFIdjdVMnlldDdwcGYxTU5KcDZHUjducHYzNXctZFhHZDlBenNzYnp6SXpDUmZubExtS2pRQ0MwMDR4cmV0Y3lWUDl0QzV1VXFJMFkyMkNuRDM2R0d6QTNTX19BMXU3NEJYVUdrZEtzanA4ZWtPU2hBTEU1dTRlazVPdDhaZw?oc=5",
-     "date": "2026-11-22T10:30:00.000Z",
-     "text": "Nordderby in Bremen: Ein Teenager als HSV-Überraschung? MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "(+) HSV oder Werder? Derby-Legenden zeigen ihre wahre Seite - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnJmd1J3RHdJZ1BDNGt3RGJoSUVoSGw5VVVSTWJGdjAtdlg2dzNGckMtZHB2dzA3dEE2cnBoamtyOElMbG10WVJudERTaFItbFZGWjZtMnhMb3U1M2JMWXhielpwS0NuMExXSl9NaWVSNDViT1M3eEoydlhYVXJQdUZNQWduckdtcGQ1b2FobWZQazMwWVhMc3R1TjFETXg5R0cwWVZxbnJzclhLNkt3?oc=5",
-     "date": "2026-11-22T13:13:00.000Z",
-     "text": "(+) HSV oder Werder? Derby-Legenden zeigen ihre wahre Seite MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Ex-HSV-Profi Glatzel erreicht Karriere-Meilenstein - HSV24",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0tfbndNYk9yUUFIVEd3TWthdUdDOXFIT25GTWhOTlg1dHVnZEE4cUhST01PeExwY3hXQkVfbVpZRWEyZ0daTS1qR2JRQ2FQWmtPSzBpVnoyZHp5dHMxTXFXX1h1Qi1LUkFHQmhYMkVOYlpfUjVkdGFFN0psY01kT0xLWGotYS15UnJzQ1liU0pNQQ?oc=5",
-     "date": "2026-11-23T21:39:00.000Z",
-     "text": "Ex-HSV-Profi Glatzel erreicht Karriere-Meilenstein HSV24",
+     "title": "Ausbau gestartet: So voll wird das HSV-Stadion gegen die Bayern - HSV24",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1NidjFIMGtHS3VHSzlaU2t0Q3dFTE5abGlwQmVsNXVUSnNWbmRJMEJfNFJjazFSU1h4eGFjREUtY2pueHFYSWxiZ2kyV3N6a2pweG1EdDU2T2ptVnRuRjZRckktNnhqbWFVRDEzdEJmdjRsdjhjWXBoa1VEeXhfWkFxWUF0eDRkcDktX2tWd19Ydm0xaUg0aXZoR21RUy03WWc?oc=5",
+     "date": "2026-11-24T19:20:00.000Z",
+     "text": "Ausbau gestartet: So voll wird das HSV-Stadion gegen die Bayern HSV24",
      "via": "HSV24"
     },
     {
@@ -652,24 +434,38 @@
      "via": "HSV24"
     },
     {
+     "title": "Ex-HSV-Profi Glatzel erreicht Karriere-Meilenstein - HSV24",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0tfbndNYk9yUUFIVEd3TWthdUdDOXFIT25GTWhOTlg1dHVnZEE4cUhST01PeExwY3hXQkVfbVpZRWEyZ0daTS1qR2JRQ2FQWmtPSzBpVnoyZHp5dHMxTXFXX1h1Qi1LUkFHQmhYMkVOYlpfUjVkdGFFN0psY01kT0xLWGotYS15UnJzQ1liU0pNQQ?oc=5",
+     "date": "2026-11-23T21:39:00.000Z",
+     "text": "Ex-HSV-Profi Glatzel erreicht Karriere-Meilenstein HSV24",
+     "via": "HSV24"
+    },
+    {
+     "title": "Hier schlafen die Bayern in Hamburg vor dem HSV-Spiel - HSV24",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDlJQl8weTFVanBPYVB4WmJvOGxobHN6bUtYSVNWcXFZRS1fV3NKeTd3X1pGQTBjcU95c3FUR01hYWIxSjlIQkg5VVRvcThsbDV1THVfN2VsVzY4ZGFLb0FOVjVHaGpNLXAwTDU5VzRYZEZWZnhzY1lmRmRDd3Q2YmRnSWdwN1Joa1B1cHBjWm02bDA2Snc?oc=5",
+     "date": "2026-11-24T14:57:00.000Z",
+     "text": "Hier schlafen die Bayern in Hamburg vor dem HSV-Spiel HSV24",
+     "via": "HSV24"
+    },
+    {
+     "title": "Ex-HSV-Kapitän Leibold feiert Meistertitel in den USA - HSV24",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDBpQUhKbG5TaklTQ0JRT1RicS16U0FGcmJxT1ViRlBadDhEZWpGUTBXZ3hfbThTSnUyNExSMU0yaWltcjJ1M3YyQUFJcHZ2ZERYLXBmRVliZUFLeVFDLWJOR0x3NzBNaXBQSTRVOWhDTDBCWFhoTm5mWmVvOW5fV0k1LVh5bXNyNTk4VUJSdlczcDJJdHpv?oc=5",
+     "date": "2026-11-24T09:42:00.000Z",
+     "text": "Ex-HSV-Kapitän Leibold feiert Meistertitel in den USA HSV24",
+     "via": "HSV24"
+    },
+    {
+     "title": "Das gab es noch nie: Ex-HSV-Profi Tah will im Volkspark irre Rekordserie ausbauen - HSV24",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdC1lcjFtSm9JUXBiNzEyODN3YzRXM25tWF96c1ByRnN5WDZlalFlWmxndzV2UndjM196dUlCYndDc3RUc0lHWWRFSUQxcDVtaDl6T2NjeGppdHlOeTZseTJ0NmZ4a2R5SVpPTWJoMWk4RGg2b1I1LVFFU0JLMHFuRGdrUUs0VlJFcHotc09iMnlydFc5eUx2bElYbzRTQ01Jc1F5NGxkQmNNMlpleVRkVFV6cGxYODhiVkE?oc=5",
+     "date": "2026-11-24T16:01:00.000Z",
+     "text": "Das gab es noch nie: Ex-HSV-Profi Tah will im Volkspark irre Rekordserie ausbauen HSV24",
+     "via": "HSV24"
+    },
+    {
      "title": "HSV-Abgang erzielt unwahrscheinlichstes Tor des Spieltags - HSV24",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNFFrNVlxS3l4dTl6cXBCR0twMDUteE8yTmtiZWRlS1pIT2tRSFBCZTRHdDNncFQ5WElhMV9VMXNqa1B3YnRKVklFU2FsZG9YZVpCSTMyZVpScm9RRzQtY0piQVBfaE8wYnJCU245THo4cXZuRnZ0N0JCQzltZ3NwNXpPNFVRMTlxaWRGdkhZTFFKN2d1eDVPX2NXSQ?oc=5",
      "date": "2026-11-23T18:21:00.000Z",
      "text": "HSV-Abgang erzielt unwahrscheinlichstes Tor des Spieltags HSV24",
-     "via": "HSV24"
-    },
-    {
-     "title": "Startet Røssing-Lelesiit beim HSV jetzt richtig durch? - HSV24",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVXN5eHg1UzB4cGZUX1JoTUo2V0FoWDQydFlmbDlCdVpmYTRCRVJobTdrZ24yNVpSdTI5eDVWdkxMTzFmQ292SWVoM0JDT2lVT2JnTVhVcnNaOWVXckp6aWdiZ0Z6clJmR2FZczgtT01iVDByQ0pWcTNBZTRKZWFtUHVsSVY2cWRnUVAwUks0cG5sa2dBNVE?oc=5",
-     "date": "2026-11-24T07:31:00.000Z",
-     "text": "Startet Røssing-Lelesiit beim HSV jetzt richtig durch? HSV24",
-     "via": "HSV24"
-    },
-    {
-     "title": "Reis glänzt beim Wiedersehen mit dem HSV und liefert starke Zahlen - HSV24",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTGJudXBoSE9rcU1Jck5pb082cUZMRmpBcjRwdV9Xc3ljS2stNi1MSG12NmFab3B5ckJ1ZlhVZllMVVZ6cWRFVWhEZl9zTGN6RURiYlhSUGhyVkNWU0taTnFPN0FqTEh5M1ZQU09ZWXZMeVdVNEdEQzVOZGhGVkFncXVfcElxVW5UU1Q0My1kSXZOWWpmNlZlZm1WelU0RWhPd3ZxV1diNE8?oc=5",
-     "date": "2026-11-23T20:41:00.000Z",
-     "text": "Reis glänzt beim Wiedersehen mit dem HSV und liefert starke Zahlen HSV24",
      "via": "HSV24"
     },
     {
@@ -684,13 +480,6 @@
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUR2YmtyZHBuVFRqRVotdmljalRuRmh2ZnVJWVNqcExUeV9fV29RdUVYZVN0YmJKaDBkVWtDeVFtMU0yckRaV0NBbVczb1NmdDlWWFQ5ZGdYMTFsMXltR2FkT09fYkNBa0J2SmFCNl9YUnFHczRrMEpRUGtpOVVTNVhrYS1GaThabWc4V3NHbEdxMVZ6X1gxQklB?oc=5",
      "date": "2026-11-23T16:07:00.000Z",
      "text": "HSV-Youngster sorgt im Nordderby für neuen Tempo-Rekord HSV24",
-     "via": "HSV24"
-    },
-    {
-     "title": "Die HSV-Abwehr ist so anfällig wie seit knapp 40 Jahren nicht mehr - HSV24",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV09ydmlCREUydi1iZ2pfd2xNLXg1eE9hYU9oWDlJeTlMbldfUW1uNFNLLTE4eTUxeldUWnhfRjVFNHJyTDBMYVI2Y2IzNlBFdXJiMWVRd3V2UEx6SFFaRkdiZ3FMUmktMXItUUtseFNrYllqMzB1Si1DNnR2R0VWWkttWU9xcXJfWTNOLWVRYlF0Zlg5bFh3amE1Y0ItN3g5dnpQbFBfYVc?oc=5",
-     "date": "2026-11-23T11:46:00.000Z",
-     "text": "Die HSV-Abwehr ist so anfällig wie seit knapp 40 Jahren nicht mehr HSV24",
      "via": "HSV24"
     }
    ]
@@ -729,25 +518,39 @@
      "via": "HSV"
     },
     {
-     "title": "„Wir sind brutal enttäuscht“ - HSV",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pY01CSzl0dUZHM3VTbEdwTTF4akJEVTFvbHdYM1otY2xCSl93Wk9mMWQyUWw3SUpIMlpMbWJMRk5WY25hT0JjdnJndVYwYnJyYjVQT3Vha0owTndrTGl0Nw?oc=5",
-     "date": "2026-11-22T20:27:39.000Z",
-     "text": "„Wir sind brutal enttäuscht“ HSV",
+     "title": "Buntes Lichtermeer beim HSV-Laternenumzug - HSV",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96YnE1YmNpWEowTHRuZDk3VDdLT19QeDRvZGZ2Q285cXhwN1dzZ0FIQ2t0VmcxcHpvQWNjTE9lNUZVbl8waU15RWw5aUw3R0Vva1hQYUs4RVJIcFZWY1AwbUlZR0Y5OHp3UU5TRXlGTmNjZ00?oc=5",
+     "date": "2026-11-24T14:05:23.000Z",
+     "text": "Buntes Lichtermeer beim HSV-Laternenumzug HSV",
      "via": "HSV"
     },
     {
-     "title": "0:4 – HSV unterliegt Werder Bremen im Nordderby - HSV",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85ak9TM3FhOER1WF9DVG9FWFowU284QllUSkFrYWQ4cFZMYUpwZTctRFZVei1SSkduQWI5UWxueHRIRjZaaUFFelVJVFFkUGZRVndQT1ZHY0RUS1dTd3diYVJMMFR3ODREQS1BTnhOWmM4QnVocGhlaw?oc=5",
-     "date": "2026-11-22T18:44:01.000Z",
-     "text": "0:4 – HSV unterliegt Werder Bremen im Nordderby HSV",
+     "title": "Rössing-Lelesiit zieht wieder an - HSV",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15OUtpMEhlNU54VUtJWklQbEJNUGxqb1N1NjBwcmJKU3Mtd3JpWjR4SjVSOU82U0dKNFlZSXhqajE0UTdjcmdybjhiSFhvNGVDYzNUdFZ4NGF2bW8xNlBRQU8xSko5MzZB?oc=5",
+     "date": "2026-11-24T10:23:23.000Z",
+     "text": "Rössing-Lelesiit zieht wieder an HSV",
      "via": "HSV"
     },
     {
-     "title": "Highlights: SV Werder Bremen - Hamburger SV - HSVtv",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeEFFaU00MkctQTBpMDdSWVEwNTdQQjhvQ25JalQ2NzgtS2Z1MmtHTkM2cTdScVluLUE5YmlvQzk2dVhOVzA4U0FrQXJCcWY4WlVJMEEwX2djUE5xYjA5RHFqVWo3ck10UUE2VzF0bXVEQUdmYlZUMTBJTGVHd3Z2UzVCSzloQQ?oc=5",
-     "date": "2026-11-22T19:34:43.000Z",
-     "text": "Highlights: SV Werder Bremen - Hamburger SV HSVtv",
-     "via": "HSVtv"
+     "title": "Fabio El Ouali - HSV",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GN1lNOWlEUm5IWVQyaVhIWFBJQXk3aVdlc3VrdjJiWEMya3p5UTk0eG9XeGVjME9sOENOUGUxVHJBbXdsUUhjc01udk5NRlhsNWhoTk9pOEJMWXJfbndEMVlZV211T1FUdzRIOWlTc3dFMms?oc=5",
+     "date": "2026-11-25T02:30:45.000Z",
+     "text": "Fabio El Ouali HSV",
+     "via": "HSV"
+    },
+    {
+     "title": "Mehr Plätze im Volksparkstadion zum Heimspiel gegen Bayern - HSV",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMFhYZzJsQ1hRVmJlUmhXRjNVajVtVFBSYnhSbUJZcENFcnVWbWRrSnJLUEg4Z2NoTUVVMkRWZ0VLcDBCT2x6R2NHbV9FckdsalRSS2NEWkhGU2ExNDNjRnU2Y0daRDZqLVFtUXdjc1RfVC1yMXFOVlUwU3pKY21xNXFuUmk0cTR0TGQ0?oc=5",
+     "date": "2026-11-24T15:59:31.000Z",
+     "text": "Mehr Plätze im Volksparkstadion zum Heimspiel gegen Bayern HSV",
+     "via": "HSV"
+    },
+    {
+     "title": "Vier Nationalspielerinnen auf Länderspielreise - HSV",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIbXVIZWVqZUhIWGlxbVNxejBhdi1wdE1LRXhXZXphUzFDMXFSOTFtRUV0RHkyVmk0eDJCSU5ITlNJV2cxdWJobmxFb25TTzVqem5PRllocjZ0dWVSdjM5U3BuaDUtenNJU1ZNU1VCTnUzc21sNGpfbnMzSQ?oc=5",
+     "date": "2026-11-24T13:30:02.000Z",
+     "text": "Vier Nationalspielerinnen auf Länderspielreise HSV",
+     "via": "HSV"
     }
    ]
   },
@@ -757,22 +560,34 @@
    "ok": true,
    "items": [
     {
+     "title": "Trainer Schultz verlängert beim VfL Osnabrück",
+     "url": "https://www.ndr.de/sport/fussball/trainer-schultz-verlaengert-beim-vfl-osnabrueck,osnabrueck-952.html",
+     "date": "2026-11-24T21:37:26.000Z",
+     "text": "Chefcoach Timo Schultz und Co-Trainer Ferydoon Zandi, beide seit Sommer 2025 im Amt, haben ihre Verträge beim Zweitligisten verlängert."
+    },
+    {
      "title": "XXL-Platz und 112 Minuten Fußball: Wenn Männer wie Frauen spielen müssten",
      "url": "https://www.ndr.de/sport/fussball/xxl-platz-und-riesentore-wenn-maenner-wie-frauen-fussball-spielen-muessten,frauenfussball-140.html",
      "date": "2026-11-24T09:40:02.000Z",
      "text": "Eine Studie aus Norwegen zeigt, was am Männerfußball verändert werden müsste, damit das Spiel mit dem der Frauen verglichen werden kann."
     },
     {
+     "title": "Hansa Inside: Die Konkurrenz läuft Hansa Rostock davon",
+     "url": "https://www.ndr.de/sport/fussball/hansa-inside-die-konkurrenz-laeuft-rostockern-davon,hansainside-290.html",
+     "date": "2026-11-24T19:05:00.000Z",
+     "text": "Der Abstand zu den vorderen Tabellenplätzen in der 3. Liga wird immer größer, vom zu Saisonbeginn benannten Aufstiegsziel ist nicht mehr viel zu hören."
+    },
+    {
+     "title": "2. Liga: Neuer Sportchef Gabor Ruhr übernimmt bei Hannover 96",
+     "url": "https://www.ndr.de/sport/fussball/Zweite-Bundesliga-Hannover-96-Gabor-Ruhr,hannover-1420.html",
+     "date": "2026-11-24T13:49:51.000Z",
+     "text": "Nach dem Personalbeben soll der 38-Jährige beim Fußball-Zweitligisten aus Niedersachsen die Grundlage für die Bundesliga-Rückkehr legen."
+    },
+    {
      "title": "Schiedsrichterin Nguyen und der Traum vom Sprung in die Bundesliga",
      "url": "https://www.ndr.de/sport/fussball/thao-quyen-nguyen-mit-24-jahren-auf-dem-sprung-in-die-bundesliga,schiedsrichterin-106.html",
      "date": "2026-11-24T07:12:36.000Z",
      "text": "Die Hamburgerin ist Deutschlands Nachwuchsschiedsrichterin des Jahres und möchte schon bald Spiele in der Ersten Liga pfeifen."
-    },
-    {
-     "title": "Bundesliga: HSV nach Derby-Pleite gebeutelt - und jetzt kommen die Bayern",
-     "url": "https://www.ndr.de/sport/fussball/humpel-hsv-nach-nordderby-und-vor-bayern-im-tal-der-traenen,hsv-2424.html",
-     "date": "2026-11-23T20:02:06.000Z",
-     "text": "Die Hamburger haben die höchste Pleite gegen Werder seit 22 Jahren kassiert und nun noch mehr Verletzte. Ausgerechnet jetzt kommt der Rekordmeister."
     },
     {
      "title": "Nach Randale im Nordderby: Fan-Gruppen des HSV gehen auf Distanz",
@@ -787,22 +602,28 @@
      "text": "Die 35-Jährige erlitt im Spiel gegen Leipzig eine Bandverletzung am rechten Sprunggelenk und wird dem Fußball-Bundesligisten vorerst fehlen."
     },
     {
-     "title": "Frauen-WM 2031 und 2035: FIFA vergibt Turniere und erhöht auf 48 Teams",
-     "url": "https://www.sportschau.de/fussball/fifa-frauen-wm/frauen-wm-2031-in-usa-2035-im-vereinigten-koenigreich,wm-frauen-2031-2035-100.html",
-     "date": "2026-11-23T17:11:07.000Z",
-     "text": "Die FIFA hat die Frauen-Weltmeisterschaften 2031 und 2035 offiziell vergeben. Zunächst wird in den USA und drei weiteren Ländern gespielt, vier Jahre später im Vereinigten Königreich."
+     "title": "96-Sportdirektor Ruhr: \"Traditionsverein mit Entwicklungspotenzial\"",
+     "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/96-sportdirektor-ruhr-traditionsverein-mit-entwicklungspotenzial,hannover96-162.html",
+     "date": "2026-11-24T12:52:29.000Z",
+     "text": "Gabor Ruhr hat beim Fußball-Zweitligisten Hannover 96 die Arbeit aufgenommen. Im NDR Interview spricht er über seinen neuen Job und seine Pläne."
     },
     {
-     "title": "Dritte Liga: MSV Duisburg bezwingt Hansa Rostock und bleibt Zweiter",
-     "url": "https://www.ndr.de/sport/fussball/in-langer-unterzahl-hansa-rostock-verliert-beim-msv-duisburg,hansa-1044.html",
-     "date": "2026-11-23T21:21:29.000Z",
-     "text": "Die Mecklenburger waren nach Platzverweis eine Halbzeit nur zu zehnt. Philipp Klewin hält einen Elfmeter, kann die Pleite aber nicht verhindern."
+     "title": "Muss Hansa Rostock sich vom Aufstiegstraum verabschieden?",
+     "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/muss-hansa-rostock-sich-vom-aufstiegstraum-verabschieden,nordmagazin-16232.html",
+     "date": "2026-11-24T19:35:04.000Z",
+     "text": "Hansa kann die entscheidenden Momente nicht auf die eigene Seite ziehen. Franziska Hänlein mit den Details."
     },
     {
      "title": "Derby: Werder Bremen gewinnt 4:0 gegen den HSV",
      "url": "https://www.ndr.de/nachrichten/info/derby-werder-bremen-gewinnt-40-gegen-hsv,ndrinfo-19892.html",
      "date": "2026-11-23T14:30:18.000Z",
      "text": "Nach einer engen, aber torlosen ersten Halbzeit leitet Kapitän Marco Friedl die Wende nach der Pause ein."
+    },
+    {
+     "title": "Datenanalyse: Darum ist Werder Bremen unter Trainer Thioune so stark",
+     "url": "https://www.ndr.de/sport/fussball/datenanalyse-darum-ist-werder-bremen-unter-trainer-thioune-so-stark,audio-3614964.html",
+     "date": "2026-11-24T10:18:50.000Z",
+     "text": "Derbysieger und Tabellensechster: Daniel Thiounes Werder Bremen ist im Höhenflug. Warum das so ist, erklärt Jakob Silvester Schmidt."
     },
     {
      "title": "Derby gegen Bremen endet für den HSV mit Frust",
@@ -817,58 +638,22 @@
      "text": "Neben dem sportlichen Dämpfer droht den Rostockern nach massivem Pyro-Einsatz der eigenen Fans nun eine hohe Geldstrafe."
     },
     {
-     "title": "Wolfsburgs Fußballerinnen siegen in Leipzig",
-     "url": "https://www.ndr.de/sport/fussball/wolfsburgs-fussballerinnen-siegen-in-leipzig,wolfsburgfrauen-112.html",
-     "date": "2026-11-22T18:05:51.000Z",
-     "text": "Nach der Niederlage im Spitzenspiel gegen München sind die VfL-Frauen in die Erfolgsspur zurückgekehrt. Die Partie in der Zusammenfassung."
+     "title": "Bundesliga: HSV nach Derby-Pleite gebeutelt - und jetzt kommen die Bayern",
+     "url": "https://www.ndr.de/sport/fussball/humpel-hsv-nach-nordderby-und-vor-bayern-im-tal-der-traenen,hsv-2424.html",
+     "date": "2026-11-23T20:02:06.000Z",
+     "text": "Die Hamburger haben die höchste Pleite gegen Werder seit 22 Jahren kassiert und nun noch mehr Verletzte. Ausgerechnet jetzt kommt der Rekordmeister."
     },
     {
-     "title": "Hamburgs Heuer Fernandes: \"Der Gegner war sehr effizient\"",
-     "url": "https://www.ndr.de/sport/fussball/hamburgs-heuer-fernandes-der-gegner-war-sehr-effizient,audio-3611724.html",
-     "date": "2026-11-22T19:01:10.000Z",
-     "text": "HSV-Torhüter Heuer Fernandes zeigt sich nach der Niederlage im Nordderby kritisch, aber auch kämpferisch: \"Wir haben eine gute Mannschaft und werden das in Zukunft zeigen.\""
+     "title": "Frauen-WM 2031 und 2035: FIFA vergibt Turniere und erhöht auf 48 Teams",
+     "url": "https://www.sportschau.de/fussball/fifa-frauen-wm/frauen-wm-2031-in-usa-2035-im-vereinigten-koenigreich,wm-frauen-2031-2035-100.html",
+     "date": "2026-11-23T17:11:07.000Z",
+     "text": "Die FIFA hat die Frauen-Weltmeisterschaften 2031 und 2035 offiziell vergeben. Zunächst wird in den USA und drei weiteren Ländern gespielt, vier Jahre später im Vereinigten Königreich."
     },
     {
-     "title": "Werders Njinmah: \"Das war sehr deutlich\"",
-     "url": "https://www.ndr.de/sport/fussball/werders-njinmah-das-war-sehr-deutlich,audio-3611720.html",
-     "date": "2026-11-22T18:47:10.000Z",
-     "text": "Die Bremer besiegten den HSV im Nordderby mit 4:0. Matchwinner war Justin Njinmah, dem ein Doppelpack gelang."
-    },
-    {
-     "title": "Hansa Rostock verliert in Unterzahl beim MSV Duisburg",
-     "url": "https://www.ndr.de/sport/fussball/hansa-rostock-verliert-in-unterzahl-beim-msv-duisburg,hansarostock-126.html",
-     "date": "2026-11-22T21:38:05.000Z",
-     "text": "Die ambitionierten Rostocker kassierten beim Aufstiegs-Mitfavoriten an einem bitteren Abend einen herben Rückschlag."
-    },
-    {
-     "title": "Osnabrück-Torwart Krumrey: \"Jeder Punkt zählt\"",
-     "url": "https://www.ndr.de/sport/fussball/osnabrueck-torwart-krumrey-jeder-punkt-zaehlt,audio-3611472.html",
-     "date": "2026-11-22T15:00:56.000Z",
-     "text": "Torwart Jonas Krumrey hatte beim 0:0 in Karlsruhe viel zu tun - und mit einigen Paraden großen Anteil am Punktgewinn des VfL."
-    },
-    {
-     "title": "VfL-Trainer Schultz: \"Verteidigen auf höchstem Level\"",
-     "url": "https://www.ndr.de/sport/fussball/vfl-trainer-schultz-verteidigen-auf-hoechstem-level,audio-3611468.html",
-     "date": "2026-11-22T14:52:46.000Z",
-     "text": "Osnabrück erkämpfte sich beim Karlsruher SC ein torloses Remis und verhinderte damit den Sturz auf Relegationsplatz 16."
-    },
-    {
-     "title": "Bundesliga: Werder Bremen mit Schützenfest im Nordderby gegen den HSV",
-     "url": "https://www.ndr.de/sport/fussball/njinmah-doppelpack-werder-bremen-deklassiert-hsv-im-nordderby,nordderby-226.html",
-     "date": "2026-11-22T19:55:58.000Z",
-     "text": "Die Grün-Weißen feiern ein Schützenfest gegen den Erzrivalen. Umjubelter Held war Justin Njinmah, der zwei Tore erzielte."
-    },
-    {
-     "title": "VfL Osnabrück erkämpft sich Remis im Kellerkick beim Karlsruher SC",
-     "url": "https://www.ndr.de/sport/fussball/vfl-osnabrueck-erkaempft-sich-remis-im-kellerkick-beim-karlsruher-sc,osnabrueck-948.html",
-     "date": "2026-11-22T19:56:49.000Z",
-     "text": "In einem schwachen Zweitliga-Spiele mit wenigen Torchancen verhindern die Niedersachsen durch das Unentschieden das Abrutschen auf Relegationsplatz 16."
-    },
-    {
-     "title": "VfL-Frauen melden sich zurück: Wolfsburg siegt ungefährdet in Leipzig",
-     "url": "https://www.ndr.de/sport/fussball/VfL-Wolfsburg-Frauen-RB-Leipzig,wolfsburg-frauen-194.html",
-     "date": "2026-11-22T17:46:00.000Z",
-     "text": "Die Niedersächsinnen gaben am Sonntag die richtige Antwort auf die Niederlage im Topspiel gegen Bayern München. Matchwinnerin war Startelf-Debütantin Cecilie Flöe."
+     "title": "Dritte Liga: MSV Duisburg bezwingt Hansa Rostock und bleibt Zweiter",
+     "url": "https://www.ndr.de/sport/fussball/in-langer-unterzahl-hansa-rostock-verliert-beim-msv-duisburg,hansa-1044.html",
+     "date": "2026-11-23T21:21:29.000Z",
+     "text": "Die Mecklenburger waren nach Platzverweis eine Halbzeit nur zu zehnt. Philipp Klewin hält einen Elfmeter, kann die Pleite aber nicht verhindern."
     }
    ]
   },
@@ -878,66 +663,52 @@
    "ok": true,
    "items": [
     {
-     "title": "Werder Bremen hämmert den HSV im Nordderby weg - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPXzlEN0duZ3hXblRLSlNVT0N2ZE00V3JteXgyZXdjRGdLUXJMZFJOLUYtYXVGUUsxdmZ1VnJJMFo3N1JuOFo3aV9naTY1bjRaSmh4SXF4QnlmVjlJeGdvb0F5MW1rbmFkWUZ1TnFGYjBxcTcwV0UzbnZSRzlHX2JrSmFncTlkSXlMbFJFaUV2WGhLV29RX2ZwQ1JfYTNCZUUxeWhIMU5jbVdRNk9mMVB2R1hwQ19nMnNxSDh4UlJEWmc0aWxaYUc0WThiZw?oc=5",
-     "date": "2026-11-22T21:39:51.000Z",
-     "text": "Werder Bremen hämmert den HSV im Nordderby weg sportschau.de Livestream: Bremen - HSV live sehen DAZN Sechsmal die Note Fünf: Das Derbyzeugnis der HSV-Profis nach dem 0:4 gegen Bremen Hamburger Abendblatt Werder Bremen fertigt Hamburger SV im Nordderby ab STERN.de HSV kommt beim Nordderby in Bremen unter die Räder – Sorgen um Leistungsträger t-online – Hamburg SV Werder Bremen - Hamburger SV | 10. Spieltag | Spielbericht | Highlights Bundesliga | official website Bundesliga heute: Bremen gegen H",
-     "via": "sportschau.de"
+     "title": "Hamburger SV plant Transfer-Doppelschlag - Fussball Transfers",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMUJzSVRVMmIwWFlyVlFxMXQ2dVBtbVV3YUVuUmh5OUtOUFhWUmVFRmxLTDBZZHkya1JpUEFPUEtfWkphY0ZteXhPSkZCR2NJOVV1WTlPQXhwMm5fN0JjY2xuVDhRSkh1U0Z1c3E5dlZfM0FDRmdGWk8xUE9UNExxTnQ4eHBLaXdGWnVkTEpZdw?oc=5",
+     "date": "2026-11-24T18:05:18.000Z",
+     "text": "Hamburger SV plant Transfer-Doppelschlag Fussball Transfers",
+     "via": "Fussball Transfers"
     },
     {
-     "title": "HSV-Fans sorgen in Bremen für Ärger: Feuer im Block und zerstörte Toiletten - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS2JpNG9LSkJPcE5UOGNkaV9JUXF5cWM2ZURla25URHNTa0l0OGNlMG95TzIwUlNPUi1hWjFoc196R0hsODZ5UG9HaW0tQk9XdmZoYl9BTmZCZnBsLTVSU21kaURlLUg3dzdjSFRtU3RDUDdfaFlVY0tOQ05wZFpCSm9YRjQxSkJqRmN3WkJoUGR3enpNR3VZSXN2T3R0MWNrQ25iaHFXa1pjUUtXREhRTkR6ZDJHa2VQVVowQUR3V0FYQ25QektZZ0cyaUpJTmdU?oc=5",
-     "date": "2026-11-22T20:02:10.000Z",
-     "text": "HSV-Fans sorgen in Bremen für Ärger: Feuer im Block und zerstörte Toiletten Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
+     "title": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYTVQWHVZMTBjbW5JRkRybXFhakt4THBCWDJGTlgtY20wWWpOazUtdHhIR2pIMTNZbGRQR2xOOUs2S1FPQzY1N3VibjBxYU5OMHlUclZsTVdtZ05jTmVrVzgyMTFMNU10aUltR1BZRmw3RTF2dWhBNlV3T0htN0FlQXV2WG54dHlrckFESEI2djA1U0daRnRFbENIeEJwWWJPS2xDVjNDdUVhUGlidFh4RTl5RFZTczVM?oc=5",
+     "date": "2026-11-24T08:23:00.000Z",
+     "text": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter Kicker",
+     "via": "Kicker"
     },
     {
-     "title": "HSV-Splitter – der Liveticker rund um die Rothosen - HSV",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UYnZmS3AxQi1oUzNxMDdZdDdDVFItNUJiVjdHSURDbWxQbVVfVUowYm84S2l1eGNDLUctOEhWME5lS0dYbFhpTWJ4eU4?oc=5",
-     "date": "2026-11-24T07:45:31.000Z",
-     "text": "HSV-Splitter – der Liveticker rund um die Rothosen HSV",
-     "via": "HSV"
+     "title": "Bundesliga: HSV-Chaoten legen Feuer auf Werder-Tribüne - SPORT BILD",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWUtY1FOdUVXLTdCU3ViazA4VkVxM0tSa0lCNzhzS3ROd3pzbVp1QjBWSmlESDFkYU9BbTAtTC1tcVRzRGdkMkdjT0pqc2RTUDFaS0k3Ylk3RTRVb1VWbm1YUUtlajY1OGJSYV9HZ056N3pPSlktSFVGb3Qwc0xrWk1SRmlKZTl1TnBUdV9uNHk2QktMM3V0ak54R1Z5RWluSlMzZHNKT1dEeUpXU2x2bHdDaVpDUFNLa0t4VjdpTWE4QVI2cmc?oc=5",
+     "date": "2026-11-23T09:19:52.000Z",
+     "text": "Bundesliga: HSV-Chaoten legen Feuer auf Werder-Tribüne SPORT BILD",
+     "via": "SPORT BILD"
     },
     {
-     "title": "HSV vor Bayern: Polzin kämpft mit neuen Sorgen - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPODdZd1JmQ1pFVmFqUEZmYl9MX2lQMVF6Nm9fXzg5RVZEMXJGU3NTNHd6UTFRY2hZd3c0bXBJNmFHQ1NLSldTOFV4c3hweUQtYXpVV0VTMEhMdDVJQ1R3Q2hQWF9jcjkyOFZBOFNpSF9aSk02MHN5amx1QnJ5bWNlNVFCUEhtQnVJRC1vRnl3N1NxTG9TRGFQbGt5Z2pJS2MxeEFnZ3M5Rk5fVVJ3X09KUDQ5RWFFVW0xaGNUSThJTQ?oc=5",
-     "date": "2026-11-24T08:40:00.000Z",
-     "text": "HSV vor Bayern: Polzin kämpft mit neuen Sorgen MOPO",
-     "via": "MOPO"
+     "title": "Zoff bei Derby-Blamage: Ex-FC-Star mittendrin: HSV-Profis geraten aneinander - Express",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTZlLTJpSThLRTNoczVTUF9hVFAwVGRLTzFYT1RvVkFudVl0b1NBdUZ6ZlJYTXVNLXZ3dXhHTjM1cDBfYmQ1alJDRDc2ZG1OYVpUd05icjV3c0lVcXgxOC0zU2JtdGtaTGZSY3RxWktHQ2lBcVZjZ2lmbTU4cHdZdjNBdmdiRzg1MW16MmJlTzB1djlsYktST2JfZmdxSDE4RUVrREFnWDJmZw?oc=5",
+     "date": "2026-11-23T08:11:00.000Z",
+     "text": "Zoff bei Derby-Blamage: Ex-FC-Star mittendrin: HSV-Profis geraten aneinander Express",
+     "via": "Express"
+    },
+    {
+     "title": "HSV droht nächster Verletzungsschock - sport.de",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEZXQ25PRHJ0LWpYN3VyOWRobkxUazZ5WEx1SW80eVU5dDRHcWJUZDg3TUhrTi1wUkhiOVZyYTYyb0pTQVFFNkhkOEhtc3BkZEdDZ0Q5Sk1TOEpqd05JckdfdkpqVU9ObnluNy1MazNZWVJ0Mm1IS2w3V3Z0ZUo5dg?oc=5",
+     "date": "2026-11-23T06:59:00.000Z",
+     "text": "HSV droht nächster Verletzungsschock sport.de",
+     "via": "sport.de"
+    },
+    {
+     "title": "Nach 24 Gegentoren: Plant der HSV gegen Bayern jetzt die Vuskovic-Überraschung? - 90min.de",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkVsRE5sRm56QWVNVzA4XzNpVGhfQXZCeWdNMkY5WWNFR3h0ZVAwMG1CMlVoYm5vSmdHVVYxeUZ2SGl1QlpQREswSU5rcUNjLWVLM2JsaHNWVDRyYkZITVFMNjBmWXlmNGZBVElOYzRoQWtYQzRmbnJpTmNnZllmXzFkTWh1Z3VpTHdrYjdnNE1CNENLRzdEZ09HejJRNnM?oc=5",
+     "date": "2026-11-24T16:31:14.000Z",
+     "text": "Nach 24 Gegentoren: Plant der HSV gegen Bayern jetzt die Vuskovic-Überraschung? 90min.de",
+     "via": "90min.de"
     },
     {
      "title": "Bundesliga: HSV nach Derby-Pleite gebeutelt - und jetzt kommen die Bayern - NDR.de",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlBidmQ2VlVXY2gxNTd2dXhmVnZza0lNNVd0RWxHbS1GbzRLTVNia2c2RDRROVFiWlhjOGFBWHFkWlE5Y1dlVTc5U0lNLXNFZlRoMklOUk5YNEkyV2sxQ0VDOHpVU3Jvdm9OZzl6YTRuMnNVbk1kNHZrUmVNWk85RWF3eF9EYU85NDF6dUExNUp3NmFFb3R0QTYteW5KQzlRai1rbS1DYzZQeVE?oc=5",
      "date": "2026-11-23T15:30:39.000Z",
      "text": "Bundesliga: HSV nach Derby-Pleite gebeutelt - und jetzt kommen die Bayern NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Pyro, Feuer, Verletzte: Die Bilanz des Nordderbys in Bremen - buten un binnen",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVHRpVjlxN1lDTjlvQ1pmZk1DR2Y5OUQ1WTdlU3dxN09WR0U0dU9pUGxFWDJZRW5WN2F4OS1RYmtLakdCNGdpS1ZuLUVpLTRqTmM3MG1tRHVuRjFxb2VtbGNQZkFfOXU3eXRQZ2pZTnJTY0o4a0llUHB1clFIbFhnblNZcDhDdw?oc=5",
-     "date": "2026-11-23T15:11:35.000Z",
-     "text": "Pyro, Feuer, Verletzte: Die Bilanz des Nordderbys in Bremen buten un binnen",
-     "via": "buten un binnen"
-    },
-    {
-     "title": "Der Spielbericht zum Nordderby gegen den Hamburger SV - Werder Bremen",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oTEFCcm5CZmVNblhaSXVGLUVnUW9sOXJBVy1yemF0M2U4bzUxcXcxRXJWMlZvZUlxa2ZGM3RjblFJQXZkUkJQMHhURnZHcXBJR3BnaTFDX0FYU2k0ZDNwMlpkaFM3VkxxV1dLV19IanpmdmlJZDBoN3BzM2p2ZlU?oc=5",
-     "date": "2026-11-22T18:34:22.000Z",
-     "text": "Der Spielbericht zum Nordderby gegen den Hamburger SV Werder Bremen",
-     "via": "Werder Bremen"
-    },
-    {
-     "title": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYTVQWHVZMTBjbW5JRkRybXFhakt4THBCWDJGTlgtY20wWWpOazUtdHhIR2pIMTNZbGRQR2xOOUs2S1FPQzY1N3VibjBxYU5OMHlUclZsTVdtZ05jTmVrVzgyMTFMNU10aUltR1BZRmw3RTF2dWhBNlV3T0htN0FlQXV2WG54dHlrckFESEI2djA1U0daRnRFbENIeEJwWWJPS2xDVjNDdUVhUGlidFh4RTl5RFZTczVM?oc=5",
-     "date": "2026-11-24T08:00:36.000Z",
-     "text": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "Nach Randale im Nordderby: Fan-Gruppen des HSV gehen auf Distanz - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXl1REdlcHBfWXItNmNoaWdQeThTOU9kaVhoOFU4T1AxZXlhdTM5Rlp2UlNzYXRGV0tBVTdZSU05QVZ0ZE5sbzBVWEx0MGJIeGd5bnNnMGZlZTJqM3ktZFRBYVNHX1k2MXhlQWVpNmE5VlJXc2JPU0hEUkRGSVdabE1aS2I0VGVROVdiakZiS3R3ckI2a19JYlhVXy1UaktjeFl4SG93OXVJZVk1cXg0WHpR?oc=5",
-     "date": "2026-11-23T14:43:44.000Z",
-     "text": "Nach Randale im Nordderby: Fan-Gruppen des HSV gehen auf Distanz NDR.de",
      "via": "NDR.de"
     },
     {
@@ -948,60 +719,25 @@
      "via": "buten un binnen"
     },
     {
-     "title": "HSV-Youngster setzt nach Derby-Debakel klares Zeichen - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3hQbXJtbXV5YmM0LVRsaHBpQ2FIR3lNcXNTb3kyUWdwTU50c1FkU1hpMy1wNW5Tc2Q2N1Y0SUlyRjFGX2ZOTzRCOXppUnc3RnpPSl9venZYSDBGczZ6cHBtMzNrQU84RUxMN3Vyb3VZZU9VOFBaaW5CaUtDby1BUGdRY082N1o4cGpIbGN6a0g1MDMtZ3RUUndRekJOdk5mYWtF?oc=5",
-     "date": "2026-11-23T18:56:42.000Z",
-     "text": "HSV-Youngster setzt nach Derby-Debakel klares Zeichen MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Werder nicht zu stoppen: Bremen fegt über den HSV im Nordderby - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYm53Yjdnb3dKa1lDOUV0Y1ZtbVJxa1VEN04weFNCYU9WU0Npbl9uSzJCSzY4TUVYZ0pNbElNU01DQ256cTdUMGN2MVdXaXNldE5RcFFZXzhaakNuR09UNUJ5UEJUUDdnZFcyNmRVR2REbFoyMW93X0FBREFsQldYYWNxQUdZdUxnM3pySlRrejlvbW5XU1hESkJITUFFODA5blRmODg4dHRySEZGRFZsX2ZMTjZTc0MwckNIN3lEdW5NZXBJY3Bjc3JmWld1N2ZtVU5v?oc=5",
-     "date": "2026-11-22T23:00:28.000Z",
-     "text": "Werder nicht zu stoppen: Bremen fegt über den HSV im Nordderby sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "Werder Bremen gegen den HSV: Wo läuft das Nordderby heute live? - DAZN",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS3NhRk81eXExMFhIU0NtelpOVGtzc0JlRk1mLTVNbHRlTjBDWnhjM1BGdHM5V0FwOTRueGxiUEUzV1VxQ2tMSW9xRXlUZTNKeHoyLVRjeEpTTkdLTFA2NjVyZnA4enZ6TVdTUWxuWlNNOG00ODVnbFNuX2VOQmg1RXBHOEY4YzI5cEU3RnNFX2M2TzdCZ2VQT2x5bGhhODJBY3dFTHVIZlpzNVVQMjdMSEJJemhXYmV3THNLMWJ1QlRncDRCemFYMEtn?oc=5",
-     "date": "2026-11-22T10:41:26.000Z",
-     "text": "Werder Bremen gegen den HSV: Wo läuft das Nordderby heute live? DAZN",
-     "via": "DAZN"
-    },
-    {
-     "title": "Bundesliga: Werder Bremen mit Schützenfest im Nordderby gegen den HSV - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORGdYZjFreTZjRlBmY0ExLXRsYlo3YzYzeGdEcmZMZUJvRkplVENRbDVjNXlrMXFRc3JrbTZwZjA0VWVXNHlLSnNsNGZDOTgxMnY5TVVYcHhNZFdsNWdBc1lEekRJbjVMWEhUUTcwTDU1V2JldFByY1J3YkxLTG1uZDMzTmNjZnFMSUxEOFNiQk9CeldyM2I3WEFYbWU4bUg0NUNhTnBxV1cxbnRTek43RHR6WXQ?oc=5",
-     "date": "2026-11-22T18:50:13.000Z",
-     "text": "Bundesliga: Werder Bremen mit Schützenfest im Nordderby gegen den HSV NDR.de",
+     "title": "Nach Randale im Nordderby: Fan-Gruppen des HSV gehen auf Distanz - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXl1REdlcHBfWXItNmNoaWdQeThTOU9kaVhoOFU4T1AxZXlhdTM5Rlp2UlNzYXRGV0tBVTdZSU05QVZ0ZE5sbzBVWEx0MGJIeGd5bnNnMGZlZTJqM3ktZFRBYVNHX1k2MXhlQWVpNmE5VlJXc2JPU0hEUkRGSVdabE1aS2I0VGVROVdiakZiS3R3ckI2a19JYlhVXy1UaktjeFl4SG93OXVJZVk1cXg0WHpR?oc=5",
+     "date": "2026-11-23T14:43:44.000Z",
+     "text": "Nach Randale im Nordderby: Fan-Gruppen des HSV gehen auf Distanz NDR.de",
      "via": "NDR.de"
     },
     {
-     "title": "Ein Doppelpack und viel Pyrotechnik: Werder gewinnt Nordderby mit 4:0 - buten un binnen",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZbU1JYVpZMHVMWkYyWGNBd2ExOEtMTC10Q1ZEN0lNSHNNZ0hfVWc5R2F0N2VkMlFRYVAxNXlEZHI3VlZlRXdpUzVVd0h4Y2RneXJwdHhjS0E2OTNpRVF3Y05Sc1o2ZGdKLXZyaGpzN3QwWnlBNThtYXRNVF9Pdw?oc=5",
-     "date": "2026-11-22T21:20:05.000Z",
-     "text": "Ein Doppelpack und viel Pyrotechnik: Werder gewinnt Nordderby mit 4:0 buten un binnen",
+     "title": "\"Inakzeptabel\": Werder verurteilt die Randale beim Nordderby - buten un binnen",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnYwbHR4LVlGWnNWb1Boa25HdGd3X3FaUjJ2Rl9lbU1nTTBNZEs4S3pjTWNmTC1fVHU3VmItOFczeDk4a0ZialY0bjhrM3BuUzl6SXJVZVVyeG1oaUZDREJMN0VQTmpiX29MTFptbVhodnd4WmNibWxKLTI2WHUydlEyQ3l5QkduSWU4QXpJbkVGUGd3clpaUDBoNDZlZXlicUg4ZA?oc=5",
+     "date": "2026-11-24T10:29:42.000Z",
+     "text": "\"Inakzeptabel\": Werder verurteilt die Randale beim Nordderby buten un binnen",
      "via": "buten un binnen"
     },
     {
-     "title": "Bundesliga: HSV-Chaoten legen Feuer auf Werder-Tribüne - SPORT BILD",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWUtY1FOdUVXLTdCU3ViazA4VkVxM0tSa0lCNzhzS3ROd3pzbVp1QjBWSmlESDFkYU9BbTAtTC1tcVRzRGdkMkdjT0pqc2RTUDFaS0k3Ylk3RTRVb1VWbm1YUUtlajY1OGJSYV9HZ056N3pPSlktSFVGb3Qwc0xrWk1SRmlKZTl1TnBUdV9uNHk2QktMM3V0ak54R1Z5RWluSlMzZHNKT1dEeUpXU2x2bHdDaVpDUFNLa0t4VjdpTWE4QVI2cmc?oc=5",
-     "date": "2026-11-23T09:19:52.000Z",
-     "text": "Bundesliga: HSV-Chaoten legen Feuer auf Werder-Tribüne SPORT BILD",
-     "via": "SPORT BILD"
-    },
-    {
-     "title": "Heute Werder Bremen – HSV im TV & Live-Stream: Nordderby in der Bundesliga - SPORT BILD",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ3hCS0FjLXN2SURrQ3N4WmFlYTRSNWtfNVc1YnpvMENLZVNnNlNiMjdTSUdVeDRFZmFxdk56a1NGQl9QdmFYVDhpMlFZSWZBVDF2b28xWGJvZlAxQlhEcG0yOHU3a25YS1VaY215MnJhakVPUFZNcWZaeW5pb25lQy1JRDlvQVhEdnRYejM4R1FVOWJCelR1UFhMM01WQmJrSVY3bUFGMEJkR1UzOGJqZThraGF4RDd3eUNzVTlOQU1OaVhEdXRBREJaZjhsRWdjclE?oc=5",
-     "date": "2026-11-22T11:46:00.000Z",
-     "text": "Heute Werder Bremen – HSV im TV & Live-Stream: Nordderby in der Bundesliga SPORT BILD",
-     "via": "SPORT BILD"
-    },
-    {
-     "title": "Fußball heute live im TV und LIVE-STREAM: Werder Bremen - Hamburger SV - DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaUlUYV9KRnZTdkpSWjhCcmVRRXZnRHJwbG9yNlRJeWZESktVM0Vvb3FjbV9HTmpMd25oYUgtRHQ4eXFOQVR5WHgxVUVyTjY3T3IxWTdmbG5LS1Vsc3BoRURjT0gwVk5VMzRxaHJMUHZEYkJJM0NDaVBIdjB3bXc3bmh6ZHNQR3F4THVNNUExcUtNZTBrSFZ0RkJxZC1TLVRqRkpxbktJTFJXUW5VbTE4M0xRZjVKdzBicmtxZXhvM0trdExDdjFSY2huWHJHLWp5M0xCVnBBdw?oc=5",
-     "date": "2026-11-22T12:57:07.000Z",
-     "text": "Fußball heute live im TV und LIVE-STREAM: Werder Bremen - Hamburger SV DAZN",
-     "via": "DAZN"
+     "title": "HSV vor Bayern: Polzin kämpft mit neuen Sorgen - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPODdZd1JmQ1pFVmFqUEZmYl9MX2lQMVF6Nm9fXzg5RVZEMXJGU3NTNHd6UTFRY2hZd3c0bXBJNmFHQ1NLSldTOFV4c3hweUQtYXpVV0VTMEhMdDVJQ1R3Q2hQWF9jcjkyOFZBOFNpSF9aSk02MHN5amx1QnJ5bWNlNVFCUEhtQnVJRC1vRnl3N1NxTG9TRGFQbGt5Z2pJS2MxeEFnZ3M5Rk5fVVJ3X09KUDQ5RWFFVW0xaGNUSThJTQ?oc=5",
+     "date": "2026-11-24T08:40:00.000Z",
+     "text": "HSV vor Bayern: Polzin kämpft mit neuen Sorgen MOPO",
+     "via": "MOPO"
     },
     {
      "title": "Bundesliga: Werder Bremen zerlegt HSV 4:0! Njinmah-Doppelpack im Nordderby - SPORT BILD",
@@ -1011,53 +747,11 @@
      "via": "SPORT BILD"
     },
     {
-     "title": "\"Vier krachende Ohrfeigen\": Der HSV steht vor \"riesigen Aufgaben\" | Sebastian Wolff aus Bremen | Video - Kicker",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeWxyeTNGOHVOZloxcDVrTDR2bG1fdG5kcnM1Z1VRZlJ4azFVcmFGaWRZX2N0UG5yQklFTkZMcXprcHRTd3Z6Q256UVMxd0RUejFfQ2tSMjNNcTNkTUZ0WktLbDFWdHlNc1F2clNxdjhoTkd0c00yd2JnUExjNlFzT3lfTUgyczY4MmhJV0lSUzZydXFJMVB2YlFsWE8?oc=5",
-     "date": "2026-11-22T19:21:17.000Z",
-     "text": "\"Vier krachende Ohrfeigen\": Der HSV steht vor \"riesigen Aufgaben\" | Sebastian Wolff aus Bremen | Video Kicker",
-     "via": "Kicker"
-    },
-    {
-     "title": "0:4! HSV geht im Derby unter – auch Muheim macht Sorgen - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQamZoZmk1cnRwTC1CUUdLWUkzcU1lcjJxdloxeGFPWk1Dck1kcDhXZnBHQjJ0S0x3eVhJdl94Q1pEVm9YbERxREZBaWRVWnQxWWJCb0VaM1FMQjdqd1VHVUt3VFVOX29aUGlRdExtQ195TWxUVURuVkpTa1hrVlV1enlpZTRQdElkYUpERG1LSlpDbzVkTkN3NjM3cXNWNXU0WFBLbnc2dHFmSjdwdzRoTWM2N3A1UkU?oc=5",
-     "date": "2026-11-22T18:31:00.000Z",
-     "text": "0:4! HSV geht im Derby unter – auch Muheim macht Sorgen MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Vieiras steiniger Weg: Kommt sein Moment gegen Bayern? - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnVwVVhlclVHRG5XdmNQNkpBbVlMYUdRSHpRS3RIb2FLQ2I0dHFDcExvZHRFUnBNV1JTUTFtSXV5QzNIbjhmdjJfT1Z2VE9kNHdKOTZDVm0temdGbVlMZXVXcTNfanJPeTA4b2V3UkZDbnlLQmppMVRJSjNubjM2dnZUVFl1SzRnbjVmdDBFUW9GZmhOa1VrMjZXLVBRQnU1VmtjSVdselpEdVpuQzhJRzBSV3N3NXdk?oc=5",
-     "date": "2026-11-24T09:24:00.000Z",
-     "text": "Vieiras steiniger Weg: Kommt sein Moment gegen Bayern? MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "„Ein Derbysieg ist dann doch mehr wert als drei Punkte“ - Werder Bremen",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ra1gyT2c1elVCX2NtTHBRMFdwWDlNSS1NVl9pN0xEenlYYWtTRXhYNGZ1VjMyZ0NQTkdQSUFBS2xjbWl0a2FOQjlnSHJrQzEwTkRYWFVRb3gyVXg5andmSGFUNUNFUWZKaGs5eWg5ZUpmYXZfdlJ3bg?oc=5",
-     "date": "2026-11-22T19:59:14.000Z",
-     "text": "„Ein Derbysieg ist dann doch mehr wert als drei Punkte“ Werder Bremen",
-     "via": "Werder Bremen"
-    },
-    {
-     "title": "Zoff im Nordderby: Darum gingen zwei HSV-Profis aufeinander los - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEotNDBoTUNlN0YyMm5udWU2ZUt4Y2s2M1FJdzZDWVhLZWVwOE9kRnFMZi10eUJ3OU9GN0xwbTdpYl9POXFkdmM0dVRuQng0Mmp1aHhCZ0ZBeGp4ZTUzVXVuM1B2TGxNUm9Kek95UGpsMWpGY1EtQlp1S1dxYkxwNmNFVnFNOGQwVmRHcWFQalBUYTBHSThfT3NiVXVTU20tTmtvTm16cE1qbmtpNGtHbmtKVHhianpONXdR?oc=5",
-     "date": "2026-11-23T08:52:09.000Z",
-     "text": "Zoff im Nordderby: Darum gingen zwei HSV-Profis aufeinander los Hamburger Abendblatt",
-     "via": "Hamburger Abendblatt"
-    },
-    {
      "title": "Werders 4:0-Sieg im Nordderby gegen den HSV im Video - sportschau.de",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnZYSzJsalFOMFc3NUlJb09NeVA5TkpESy1jR0lJZ3F0ZGJIclRFaGV3dl9aTk9iY0dHajlTUVU2TGk5ZWJ6UGRtNzBMd2s1WlJ6cE5CQks1aFZrR1ZGRmtReGZ0VkpKZU41RnU2ekZTNW95V2c2Zll3OFY5Z0ZDX012Nnh3ZzhDVUlIbWxfNDVFYTZtRlQzM0o2MHYtbTVpdTQw?oc=5",
      "date": "2026-11-23T06:59:19.000Z",
      "text": "Werders 4:0-Sieg im Nordderby gegen den HSV im Video sportschau.de",
      "via": "sportschau.de"
-    },
-    {
-     "title": "Nordderby live im TV: Hier sehen Sie Werder Bremen gegen den HSV - t-online – Hamburg",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQThBbXVfN3RGdUJESGRPRm84MUdFOFNidEdOT21lRGpyZ0xDZFl4WGU5Z1RKcFAybllUSnl0RFMwMkxrR2ZXNElxdmZTSTNuN3RYQUY3Q1hTRUFiV05sNFlHcDI4Tk95cDFwRGVXRUk0UXllQ0FndWR1T3dpRlN1eHRZSEdtZ1pNOXRPVlZCMGRIdGh0VVhZZUhhUEJVWl9LdWRKWm0wZ2hnOHQ4cjQ0dTZ2XzA5WmVNYUVtbXdIZXlUbkcwSVZfTg?oc=5",
-     "date": "2026-11-22T13:09:28.000Z",
-     "text": "Nordderby live im TV: Hier sehen Sie Werder Bremen gegen den HSV t-online – Hamburg",
-     "via": "t-online – Hamburg"
     },
     {
      "title": "Brisanz vor dem Derby: HSV-Star schützt Bremens Reis - SPORT BILD",
@@ -1067,24 +761,115 @@
      "via": "SPORT BILD"
     },
     {
-     "title": "Trotz Nachricht eines HSV-Profis: Ex-Hamburger feiert den Derbysieg mit Werder - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVktajEzRDFPeHRDYzI4cGpqNWs1TnZJM25feDJZU3N1cWtpanAwWFYta3pVQTl3QkVHS1otSXdZek9yV1d3RkxVZHc4aVpIZXVPU0NKTFBZdFdEZTFVQVI3YU9talJXdG5YejJrTU1zbkg1eUFXTWZ2cUZxcWl2S3VjTTVwWUpreUZOWnBzc1hGdWd5QmVkenBBejdkMmloOWd2Yk5NX2RLX254Y1kxeGZYdXk2Zw?oc=5",
-     "date": "2026-11-24T05:54:31.000Z",
-     "text": "Trotz Nachricht eines HSV-Profis: Ex-Hamburger feiert den Derbysieg mit Werder MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Drei Gegentore in 15 Minuten: HSV geht 0:4 im Nordderby baden - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWGxkeTRnWXk4QWl1WUdPajhNRHNUMGxwVmZ0WE0xNVJVOTY3bFprY0ljcWtzcEZnVFVSeVNUYWl1LWVmN0FOaERoU0N4QXFWZkluX3FNdlotWkN4RzNvUGZkNFEzZ3J4ZHo0LXdkWlg0YXJOTWx6cS1fUEozUW9mMHhvNHZackdzbEppYlhqUFg0T1pHTzN0Y3VNY0RhalhDRUhUMmlaYnJYcU9HMUhPTHNlZmxSbTJ3cTZTNXN1Nzh2R2dw?oc=5",
-     "date": "2026-11-22T18:30:00.000Z",
-     "text": "Drei Gegentore in 15 Minuten: HSV geht 0:4 im Nordderby baden Hamburger Abendblatt",
+     "title": "Zoff im Nordderby: Darum gingen zwei HSV-Profis aufeinander los - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEotNDBoTUNlN0YyMm5udWU2ZUt4Y2s2M1FJdzZDWVhLZWVwOE9kRnFMZi10eUJ3OU9GN0xwbTdpYl9POXFkdmM0dVRuQng0Mmp1aHhCZ0ZBeGp4ZTUzVXVuM1B2TGxNUm9Kek95UGpsMWpGY1EtQlp1S1dxYkxwNmNFVnFNOGQwVmRHcWFQalBUYTBHSThfT3NiVXVTU20tTmtvTm16cE1qbmtpNGtHbmtKVHhianpONXdR?oc=5",
+     "date": "2026-11-23T08:52:09.000Z",
+     "text": "Zoff im Nordderby: Darum gingen zwei HSV-Profis aufeinander los Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
-     "title": "0:4! HSV geht im Derby unter – auch Muheim macht Sorgen - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHBVQmlIQnRta0Z2eV8xNzBvVVd2MTV3RVpUVHZPZ1NmaVZTZU9venp2UlRaZkZPcmxQdFdHdW9McEZCa2FvMWNjbnJ2cUx3dEFDejlLSlNKcnA0dTlxMjVCSDFhLWxMUmdzQjlqakNiOERCRFlVX2EzR1BheVNQa3RYaHV1WnNWendyVm9aa3BaX0JLcEtadV9EM1JrLTZvVmN3cVk0aHRmMmc?oc=5",
-     "date": "2026-11-22T18:31:00.000Z",
-     "text": "0:4! HSV geht im Derby unter – auch Muheim macht Sorgen MOPO",
+     "title": "HSV-Fans wüten in Bremen: Scharfe Kritik von der Polizei - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFJ2RnR6ZVpfRlBUNTI0dFEwNWNBc1k2dE5mQVBtcG9EeDE1OEZCemZZbnNQX2tEcVNsT3VrOWlCdVlXQ0lhZk1NcFNDbHBIbUlrTkdrLWVreDdvMXp6Y2FfZGI1RzBSdGd4QzFYMDdILWZ5ZlMwdXd4d3ZQeUdoX3RBX1pXd29EZkRaMUhMbTJIWWRjakxVNjlqXy1HRktNUEVQOWNvSEVyUWlTaDRCa2R2RzE1d2NN?oc=5",
+     "date": "2026-11-23T10:21:00.000Z",
+     "text": "HSV-Fans wüten in Bremen: Scharfe Kritik von der Polizei MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Deutscher Meister 1984: Als Förster und der VfB dem HSV ein Schnippchen schlugen - SWR",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmRkQU9ZamtobGw1ZTJmTDcyQ2lCaXFxUmpTOWVEazNpZHlYMGhCcDF5dExBWjN2UUZXcm5EN29FLTFyUkxjU1N1ZUtuQnB3MlVmcHd0aFJOc0o1VHZzYV9aelcza0xKQmRieXNnN0JqWUxlODFrUHVGb080NjRZWmE1VV9SemZSb1E0bjdadkFFSU85OTluX1Y0U2dTUQ?oc=5",
+     "date": "2026-11-23T04:00:00.000Z",
+     "text": "Deutscher Meister 1984: Als Förster und der VfB dem HSV ein Schnippchen schlugen SWR",
+     "via": "SWR"
+    },
+    {
+     "title": "Wintertransfers: HSV sucht neben Remberg-Ersatz noch auf einer anderen Baustelle - 90min.de",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1R3dUlobjROd3d4T1RkcjJnMk5seFdRek5XZVN5WE1ub01acTF5aC02d1I4eGp6ckJvb0s4UzJyeGtfS0p3d1A1VGhBMS1adUpTZFM0TWliZkpfZmVQenJBbGdMWWVzUVVNNl9LQ0VjaEUyYzZsdzFDVFlVLVhQZDBBNDJ3SVpOSTdnYkZ2NllhcTMwMk9iaEFwMWItSG8tTWc?oc=5",
+     "date": "2026-11-24T18:02:20.000Z",
+     "text": "Wintertransfers: HSV sucht neben Remberg-Ersatz noch auf einer anderen Baustelle 90min.de",
+     "via": "90min.de"
+    },
+    {
+     "title": "Polzin über 24 Gegentore: \"Jungs sind unzufrieden mit sich\" | HSV wird zur Schießbude | Video - Kicker",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFF5b1JvbkNfTTVlQWNHLTllTGVDSVk0ZmNHeG1fWUFHc3hmOVdhblJCNDNjY3lRWnhibFRCTjI2TFBDX3VrV2FkY0JmcXN5cU9iTWNWMzI0ZURGOFJGT1F6TDN4dGtBSE1EelFaTjUzWFNOb05wY2tFMVc2RzNyV1hfaUxtczZhbnF4VTVmZU5EazZzb094OA?oc=5",
+     "date": "2026-11-23T09:21:52.000Z",
+     "text": "Polzin über 24 Gegentore: \"Jungs sind unzufrieden mit sich\" | HSV wird zur Schießbude | Video Kicker",
+     "via": "Kicker"
+    },
+    {
+     "title": "Er war der einzige Lichtblick im Derby: Der HSV hat eine neue Allzweckwaffe - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS3NwVEFPRUdJQWJfWnFHeW5kcXZEcXdsUlZpUkpyWDhnb2tqaUgxb0hGR09QZVZRd1NxUDA0b3BpdHVRRm0xc3YwaEJpaEZKRVZIUVRJZlNnd3VWamU3NmRRaUJVR0o1WWpqUTN6aG5xcjEydHhTdV90dXZxZmZQS1RWOFcxVXBCY190clFXLU01RVhpNXgzT3FodUdVemhCWGR0eWNuTThnc1RRbllBYnpYQWF2N3JrT00wTXY4XzhCNW9HUDhVa3Y0ci0?oc=5",
+     "date": "2026-11-23T08:00:00.000Z",
+     "text": "Er war der einzige Lichtblick im Derby: Der HSV hat eine neue Allzweckwaffe Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Nach Nordderby-Ausschreitung: Werder bittet den HSV zur Kasse - 90min.de",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWZBSDYwVG9lZG9Ba0VBQUpwVVpOWmNpUWJ4TkI5YzdCbXB0WV9xd3dsRDFwMU5kcWlSeVYtcUREemI1RGc5bnBfUXMwUHQyNGNqOE9CZC0tcWFURENHNnpFVXZjSFk2NV9aYktVOFB6VzI0UjVTWm1rOXRZdlRrVTBjTzVWWXdR?oc=5",
+     "date": "2026-11-24T13:29:41.000Z",
+     "text": "Nach Nordderby-Ausschreitung: Werder bittet den HSV zur Kasse 90min.de",
+     "via": "90min.de"
+    },
+    {
+     "title": "Rössing-Lelesiit ist zurück: Lichtblick für den HSV - Tu Futbolero",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmlJYlF1d0ZYWktPc2RiZ1lLbWtZcVBrT0VaS3VqU2tmcVg0V1pDZEFCalBnVUdLaEZ4M3ZlWlNHN1c0X1VManRPaXY3eWNZbmNBVC13STZfQzNGc2pTMHpVQkhHVC1PbWYwV2Nybno5SmpacWFsRjRTTlp4cTVZYnM4TmktOWZIV3VlRTdxT0tlM0xYLV84ZmxXUDllUDY5bmc?oc=5",
+     "date": "2026-11-24T18:00:21.000Z",
+     "text": "Rössing-Lelesiit ist zurück: Lichtblick für den HSV Tu Futbolero",
+     "via": "Tu Futbolero"
+    },
+    {
+     "title": "HSV-Youngster setzt nach Derby-Debakel klares Zeichen - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3hQbXJtbXV5YmM0LVRsaHBpQ2FIR3lNcXNTb3kyUWdwTU50c1FkU1hpMy1wNW5Tc2Q2N1Y0SUlyRjFGX2ZOTzRCOXppUnc3RnpPSl9venZYSDBGczZ6cHBtMzNrQU84RUxMN3Vyb3VZZU9VOFBaaW5CaUtDby1BUGdRY082N1o4cGpIbGN6a0g1MDMtZ3RUUndRekJOdk5mYWtF?oc=5",
+     "date": "2026-11-23T18:56:42.000Z",
+     "text": "HSV-Youngster setzt nach Derby-Debakel klares Zeichen MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Aufreger: HSV-Profis gehen bei Derby-Klatsche aufeinander los – Polzin reagiert - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUpSbHo5S0dlbHpvV3lWOWpqM3BlcTFpbWhybDV0eGctTllBel94elBqLXMwalZ2MWpWYng1TEo3VDk0SVlMT24tVHhlT0VGZk1nNEhwMS1WekRDN0dOSkVLNTk3Uk4wTU1nNWs3cEN6MzJlX0FmV1I2d0oxWmo4TndLMlRwSU9mVm4ya0ZYS1lFUjdOREpVSzkzNFprQ2pyRXFlcEhseTI0ZW9IbFZrOUF6amY?oc=5",
+     "date": "2026-11-23T08:08:00.000Z",
+     "text": "Aufreger: HSV-Profis gehen bei Derby-Klatsche aufeinander los – Polzin reagiert MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "HSV-Sorgen nach Nordderby: Muheim gibt trauriges Verletzungs-Update - 90min.de",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUS1qT1hWQXA4RUdKSXRXNFZlbExnbUNLUVZPTEg2YjFmejBzclRwVHpaZUgzek1wZGVheHJOa3h4ejFPamRSOGRnSEcyZHFHRFFEWjNQS1N3VklRTE9lc2k1c09xZUpOaDNxdDg2ZGUyNTdYRVFYRkwzbnRvZndEa1EwWnA0ZlpMVUhGdk5Bbk0?oc=5",
+     "date": "2026-11-23T07:06:57.000Z",
+     "text": "HSV-Sorgen nach Nordderby: Muheim gibt trauriges Verletzungs-Update 90min.de",
+     "via": "90min.de"
+    },
+    {
+     "title": "Muskelverletzungen beim HSV werfen Fragen auf – Aufsichtsrat schaltete sich ein - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMNmhhY2RDaEdNaFpkLW5KUTJQYjM4N00yVEc1YjNTNnFXdzhjU1R6X1lfbmtCNmVOZzh3dU9FQ0M5WExFbUc5cTlWb1NncFhlbm1yX3p4OXo3VVdpYXY3Snk1MXJ3NWVndHc?oc=5",
+     "date": "2026-11-24T18:00:00.000Z",
+     "text": "Muskelverletzungen beim HSV werfen Fragen auf – Aufsichtsrat schaltete sich ein Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Mehr Zuschauer gegen den FC Bayern: So kommen HSV-Fans an Tickets - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalFWejN1dFNwbUpMTDR2ZWZQbVF3VGZ6Z1BQd1FVelJzOW51dTN6c0hRSnFEbXdoNWhMOXJ3LTRDMUc2dEdTWHFmS0tYejZGV2ZzYlVJaTRWdW1KbWplMjYzaEF1bHB5U29jczFQWkh2SGxvel9vNVNad0c3RnZNb0xNc04tUkZ5OHVfRmZaUVg1b1c0ZFdLT1FQaUJnZDRQNFppUkQ4Y29KdUxCZU1HUG45NkNMVVNKLWZPVlRIWQ?oc=5",
+     "date": "2026-11-24T16:26:00.000Z",
+     "text": "Mehr Zuschauer gegen den FC Bayern: So kommen HSV-Fans an Tickets Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "„Das wird ein guter Ritt“: Was HSV-Chefin Krüger beim Bayern-Abschied zu hören bekam - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdWFXRm5VNndkNGhGdjlNYlFnTlhhRkZNOHptVWY4SjdIdGZwNDNVc0hPY3NKTEktV0RvR0h6TXhGSnprZXRBWWJfdHlfNkZJTlhoMWVjekcycE9jY29yZjgwalB2bmVqRWlSdzltczhrLWx4QlBQN0ltWm9UemtyejRWV2c3WTRlZTc0d0lsRm1HUUdXcER5cnJsMlplOS1rVllSbkwwSlMtTzlvU0gyMEtUY1k1M1pKOGVDREFn?oc=5",
+     "date": "2026-11-24T17:35:33.000Z",
+     "text": "„Das wird ein guter Ritt“: Was HSV-Chefin Krüger beim Bayern-Abschied zu hören bekam MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "HSV-Sprinter bittet um Geld – Hamburger Touristenattraktion mit Großspende - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXhLS3pKZUlzS3VLZ3FGN00yVDF1REwxSVVpaG1qWEJKOFIxeExYTzlqbzZIX3hSYnVRb2tCMHFlSEdadkN5aFlBM2pURGFjUDkwaVBuMEVqQWZ6MThGd01GYUdYdDZIV0s5bjRTUnROSWxERTduVE9iQkZoRWJXSFZaRW5XNHg1d01KS0RLRVJKNUY4a2loNENuS2QtSXV6RG5sVFRYS2ZDdV92X0xJcTlxd0N6VXVqMVh2OVRCY3dJNGx3alpNeTl2TQ?oc=5",
+     "date": "2026-11-24T15:33:49.000Z",
+     "text": "HSV-Sprinter bittet um Geld – Hamburger Touristenattraktion mit Großspende Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
+    },
+    {
+     "title": "Nach Derby-Klatsche: HSV zittert um Top-Torschützen - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSU5GQXk5SGxqeF9pY2pvcWpseGhnS19nbXJqZXhUcE9wODRRcGF5RzZqWWR2VGJtTjAwM29kSk1yZU52TnJKTVZGenMzSGFyaUIyQkVOSU5WQkdEbkFJSV9razR5bVQwZGNnU284NWpOeURTbjVvbGtMT3F2NjFvVXEwN1NaU1VvVWRGTkFuc2t6blRoMnZiM0p4TzRXTV9taHFUMmFHSQ?oc=5",
+     "date": "2026-11-23T08:47:00.000Z",
+     "text": "Nach Derby-Klatsche: HSV zittert um Top-Torschützen MOPO",
      "via": "MOPO"
     }
    ]
@@ -1102,13 +887,6 @@
      "via": "NDR.de"
     },
     {
-     "title": "Bundesliga: HSV nach Derby-Pleite gebeutelt - und jetzt kommen die Bayern - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlBidmQ2VlVXY2gxNTd2dXhmVnZza0lNNVd0RWxHbS1GbzRLTVNia2c2RDRROVFiWlhjOGFBWHFkWlE5Y1dlVTc5U0lNLXNFZlRoMklOUk5YNEkyV2sxQ0VDOHpVU3Jvdm9OZzl6YTRuMnNVbk1kNHZrUmVNWk85RWF3eF9EYU85NDF6dUExNUp3NmFFb3R0QTYteW5KQzlRai1rbS1DYzZQeVE?oc=5",
-     "date": "2026-11-23T15:30:39.000Z",
-     "text": "Bundesliga: HSV nach Derby-Pleite gebeutelt - und jetzt kommen die Bayern NDR.de",
-     "via": "NDR.de"
-    },
-    {
      "title": "Derby: Werder Bremen gewinnt 4:0 gegen den HSV - NDR.de",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTE3ODgyNzVlaHU5cHhOdHlNOXlIMXVoczJxeVotc19tZGZVUmhoR25aUU9wSlFDekFRQnVMU1VRQVVUR0MxN1Z3czZaQTZnY01xV0hWVGd2cG5iTzZ0a2lMci10N3JFM1RqeHBvSUt1UUlJNjh4WU9uQUQ0c2h3SEdHdk9uMEV1SUtKa2F6M3lyb1RRN0tXSzItTQ?oc=5",
      "date": "2026-11-23T14:22:19.000Z",
@@ -1118,8 +896,15 @@
     {
      "title": "Derby gegen Bremen endet für den HSV mit Frust - NDR.de",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHlIb2t0c3FKNV9YTHRSaHgyYlpUV3B4SlhnRUszdlI4NVNEOEtoOG1lSG9vMmdKZlFLOXlJYzFHS1BzbTJ0Xzkxa3hId3Y2b0NlVTlMRW5za0hzNWlZX2hYel9lRVVGU29fTDQ5N0dWRFpJQUw4cUc5N2FqUmhfaFRsZklBcU4zcmszaS1iTjdIQWZ3SVR6M0V1TFNMWjlGRjhZSUNtZnRJVlh0aEQ0T1phODg?oc=5",
-     "date": "2026-11-23T21:05:20.000Z",
+     "date": "2026-11-24T09:25:24.000Z",
      "text": "Derby gegen Bremen endet für den HSV mit Frust NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Bundesliga: HSV nach Derby-Pleite gebeutelt - und jetzt kommen die Bayern - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlBidmQ2VlVXY2gxNTd2dXhmVnZza0lNNVd0RWxHbS1GbzRLTVNia2c2RDRROVFiWlhjOGFBWHFkWlE5Y1dlVTc5U0lNLXNFZlRoMklOUk5YNEkyV2sxQ0VDOHpVU3Jvdm9OZzl6YTRuMnNVbk1kNHZrUmVNWk85RWF3eF9EYU85NDF6dUExNUp3NmFFb3R0QTYteW5KQzlRai1rbS1DYzZQeVE?oc=5",
+     "date": "2026-11-23T15:30:39.000Z",
+     "text": "Bundesliga: HSV nach Derby-Pleite gebeutelt - und jetzt kommen die Bayern NDR.de",
      "via": "NDR.de"
     },
     {
@@ -1130,17 +915,10 @@
      "via": "NDR.de"
     },
     {
-     "title": "Bundesliga: Werder Bremen mit Schützenfest im Nordderby gegen den HSV - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORGdYZjFreTZjRlBmY0ExLXRsYlo3YzYzeGdEcmZMZUJvRkplVENRbDVjNXlrMXFRc3JrbTZwZjA0VWVXNHlLSnNsNGZDOTgxMnY5TVVYcHhNZFdsNWdBc1lEekRJbjVMWEhUUTcwTDU1V2JldFByY1J3YkxLTG1uZDMzTmNjZnFMSUxEOFNiQk9CeldyM2I3WEFYbWU4bUg0NUNhTnBxV1cxbnRTek43RHR6WXQ?oc=5",
-     "date": "2026-11-22T18:50:13.000Z",
-     "text": "Bundesliga: Werder Bremen mit Schützenfest im Nordderby gegen den HSV NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Werders Njinmah: \"Das war sehr deutlich\" - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQck1vVXM3TlEyR2o2MEVYcGtCb3pwVjlEeGtheWtaYW5MN3VHLUR4NGJUMXBxOGdUdk5VcERMSGhvd2I0blRVM3pZUkFpUURHcFBoTTVHNFRfUjM2RlVIeXFVMkxRbzQxUmpMNWhKZEYyazY3QXlEVzY4eEhZTWtUeUtJVHFUTHJ6bFA3cElfUzc0SFpO?oc=5",
-     "date": "2026-11-22T18:47:10.000Z",
-     "text": "Werders Njinmah: \"Das war sehr deutlich\" NDR.de",
+     "title": "HSV-Sprinter Owen Ansah steht vor teurem juristischen Hickhack - und startet Crowdfunding-Kampagne - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzZBRDYyQ2NZU245SDFTeFdaR19HcUJkV05sWEx2ZGlWN0JJcG90NzRhU0FTNlJza2NoSkJVQVNlR2pENmYteWE3WHFkS1NLRzBGa2dLNzJVdDJZWXlRbHdqV2REbDJXMk9UXzV2MXFZMG9JY3daSWtrMHNKSGlnU3Zmd3JUdlFidzRZY180dEVnRGtpZTNfU0d5OFJLd1RSV3hSYjdYSGxlaG1KU210OEVPNUJLTmtwRWQw?oc=5",
+     "date": "2026-11-24T11:34:06.000Z",
+     "text": "HSV-Sprinter Owen Ansah steht vor teurem juristischen Hickhack - und startet Crowdfunding-Kampagne NDR.de",
      "via": "NDR.de"
     },
     {
@@ -1151,17 +929,10 @@
      "via": "NDR.de"
     },
     {
-     "title": "Hamburgs Heuer Fernandes: \"Der Gegner war sehr effizient\" - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXJlNkhSZldrLUpCVDl4SkJDQURqbWZqd0pZS0xRZmpDZk93QnNpRVdiYldhSk5CRmtHdjZEbmk0dU0tcThoMFBKVFMzLVZ4THlFMzd1MDllVFpUb1ROX2V4U0ExQXN5Y2VrX0dDVjlabjlCWXhZUlZjOVFnOUY3YURrUWRZQVZhdThVWTRGeXE3VVNRWGtQUDYtMkVQR1I1MGJ1YU5TV2pfNDg?oc=5",
-     "date": "2026-11-22T18:50:00.000Z",
-     "text": "Hamburgs Heuer Fernandes: \"Der Gegner war sehr effizient\" NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Osnabrück-Torwart Krumrey: \"Jeder Punkt zählt\" - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm1PaF9DMnVHa29GYXB1RXN5OExvTmgtWU9rNTZRbFZ3MUttQTdScE1QMDBqMnZxYko5QU5kZkJVTjRQbzFFUFBoZzRUVlRkZDc4LTU3cEtHZWozbkx4bXNHNFEtTkEtcWV5UFdnbUU4a3ZFem53SGZJbkNyMUhISDBvaTFNUXpLbUFpOVZJX2lmSnlndVhCdHoxRGktZDA?oc=5",
-     "date": "2026-11-22T15:00:56.000Z",
-     "text": "Osnabrück-Torwart Krumrey: \"Jeder Punkt zählt\" NDR.de",
+     "title": "Hannover 96 stellt neuen Sportdirektor Gabor Ruhr vor - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjZ4UDFPYUh5YXNHNEZOZFhEMml5aG52Njk2clZvaER4U0dxS2dXZExjNFNBRHBkemc5S3ZMNXFOOEZINGk1NV9nQ2g3TkZoZHFpQXRfaVl1OVZrZ2ticENOMzMtaXdhMHJ6Y2hmcWhIaHdadWZZRDEwbWplUjdqTDNqQVFmMXAweGNpSlFhaWIwVkVJSnlxMk9qbWtKbUg5dFpySHU4VlNGUQ?oc=5",
+     "date": "2026-11-24T11:55:26.000Z",
+     "text": "Hannover 96 stellt neuen Sportdirektor Gabor Ruhr vor NDR.de",
      "via": "NDR.de"
     },
     {
@@ -1172,73 +943,10 @@
      "via": "NDR.de"
     },
     {
-     "title": "Alexander Zverev verpasst dritten Titel bei ATP Finals - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZlJ1eE9veTNqMV9vcjJSXzJSWk93bFJpSWp4ZU51TmJBX01QakRaM0VrSUpxdXl0X05zNHo4d0dEbmNzdTJGRHJzWVlFbFpDbWVnT2RibFRXdjdHQy1ENVJ0VVFFcWRZY2ItVXFNQnZMcjFVa0lBVWlLdGs4dGZPNjlKc1Z6VkRreDVmRFFWSXlmakxTTHh3SnZMNW4wcHJueUlMeG5iQjY2QnN3cEE?oc=5",
-     "date": "2026-11-22T19:31:40.000Z",
-     "text": "Alexander Zverev verpasst dritten Titel bei ATP Finals NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "SV Meppen gegen Rot-Weiss Essen - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONm9tbDNqeXJIcWxoVW1zQmJUYlNiaVRNaGFlWUhNRmJDZ3Nmam1mRG5LZi1pQlhCb3JHMURteXdTZjJNdUM0RnRGckNSelBVWW9mZ3EwLUk0cV9ZZ29mSW5MVG92cXlEOFVVMkNKTExCZV9SVGRNUWRIcnNZQVhsbmVITHJTRi1NOWl4SlA4NVpqMm5sb05EX1lEck1KcGJocDVfcEw4YkFoSXJ6a0QyeUJWVmdoWmtobkFB?oc=5",
-     "date": "2026-11-23T12:21:56.000Z",
-     "text": "SV Meppen gegen Rot-Weiss Essen NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Fußball-Bundesliga: VfL-Kapitänin Huth fällt bis Jahresende aus - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXRaSXVWc2lzR3l6dFZhakpWelc5Y3B1MVcyWmZxUER6T0E1LU45cWRVbUpkRzVoOVJoQUJNcGZEVjltbHNna2wxNkxIckxOeU40cEVTMTlUWFZKc1hVZ3lGZURsYkZyd0VqLUdOVjJpT01za3RtWW82c0xaTHpYd0gtSVg3dldtaE1ibUFnOVV3N1AydEVwTnB5bEpCOHY3Yl9qM0lGWEkzTjFBVjRSTmJnRWlTMm9tUTNaazBB?oc=5",
-     "date": "2026-11-23T14:26:58.000Z",
-     "text": "Fußball-Bundesliga: VfL-Kapitänin Huth fällt bis Jahresende aus NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "VfL-Frauen melden sich zurück: Wolfsburg siegt ungefährdet in Leipzig - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2VLV3dyRjRJYkNhWU1uTDR0QmZwWW15MVZCTEpremIyOEFVYVNPQ3dybFBTd3NoSkEtN3owaFRId0ZTZmZJa2Fvc3JKNTdTOVd4eGE0bU1wNkRrOGwwRjFWdmxNUTZuQktIRzVMRERqenYtY0xmS1QzaWZlUmVDVkI1UGt4TW9yS2hJVmNLVEk4aUtPakE?oc=5",
-     "date": "2026-11-22T17:46:00.000Z",
-     "text": "VfL-Frauen melden sich zurück: Wolfsburg siegt ungefährdet in Leipzig NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Tennis: Zverev kämpft mit hartnäckiger Verletzung und anhaltenden Debatten - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEU1dUxid2ZhaGRRRkNDNzBLeHdyS0R6aFRJYmdHaTUwM1F4ZFk0OTdxWXlFNy1Tenk4RFcyUlJibkoySTFDR0NSQ1pCMWN1THJZNW5JclJibUtQR0Q2bmd1X2Fra0htX202dzdDNHJPZFV0TnI3VUpURVQ5TE1icmpobi1PdlctZEw5d1VlQzgzU3dhempMR1N6SUlUbFdwc2xEbXRUa1pRcDd6dENXRnZVcw?oc=5",
-     "date": "2026-11-23T10:49:00.000Z",
-     "text": "Tennis: Zverev kämpft mit hartnäckiger Verletzung und anhaltenden Debatten NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Dritte Liga: MSV Duisburg bezwingt Hansa Rostock und bleibt Zweiter - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3ZSZDY3SExIOENGUDJlQ0Q4ZUFGTnNNbjVlR1l2eC14YXlMSjRDckQxenREVEN3TUQ4LTd2NDVDY0FLaEtQX3lNUy04ZGlGOXFkV3VMMHk3NldfT2xJY0xscWJ3VkQ1ZXd1T21uSUtMTjZqQngwTThjYktsVmd2UDZuSVlUOVd4RDMtbk9fVkNLZnk2czQ4b2hDREdlYTFCQnI5Qko0NW5NVDZkd3RZ?oc=5",
-     "date": "2026-11-22T20:44:05.000Z",
-     "text": "Dritte Liga: MSV Duisburg bezwingt Hansa Rostock und bleibt Zweiter NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "VfL Osnabrück erkämpft sich Remis im Kellerkick beim Karlsruher SC - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHkzZXRZM1pKdnpaR3RjRHpFWnBaUTNtTUlzb3RhQlFmX2xpdlIxUmtFUUpVdmJlWUh6d3QxUUt1NThvNE1PaVE0N2cxOTVMcnFsa0RIV3FLVVBzVF8xaTRmbzVuUUVZMlE2S2plRDFyY1l1TkR5YVVSa2FlUzFnXzdVLU10MmJiRndDTENWSHNqU2pLR2NwYmRzSDY2UDRreEI0SjJvOWNxVE5qdUtnRTQ1T3g0dk5ZaG9Va0tqcw?oc=5",
-     "date": "2026-11-22T15:01:09.000Z",
-     "text": "VfL Osnabrück erkämpft sich Remis im Kellerkick beim Karlsruher SC NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Hamburg: Winterdienst seit 1 Uhr im Einsatz - wer jetzt die Gehwege streuen muss - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObTVESE5jTEROSHFwTkdRRVJBakhYQkhkdWRMcHlaWk85NlNCcURDWHJtSHdXR2lrV3BQUlY5OHhLYlhhdFJWUnU0cEItcUY1Y2dOcDZLLTc2VDRDeWtUM0ltOHA3N2stMnZGT2ZmaEJmaTlyell4bW84bkJsWlFZOFE1aDJWQjF4QUt3UHhwSXhrNjZqTlRLNE5HaWlPSVREWk1lclhHTFV6Q0hEMk04?oc=5",
-     "date": "2026-11-23T09:17:00.000Z",
-     "text": "Hamburg: Winterdienst seit 1 Uhr im Einsatz - wer jetzt die Gehwege streuen muss NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Fünfte Niederlage in Folge: RB Leipzig unterliegt VfL Wolfsburg - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUdsejNCQ3ZGX0ZKeHZERW1SbFpsNnJlZTVEY0g2blZTZHliSU1iTlhQNkRRdVZhc2tWSTJsR0h2emZMSHVwbW4xWlI1OEQ5UWkxRkFOcHIyd1FqT3l5eHpUYXZDd1JXWXV1cU1NM0lxcERDN21jekNQdlR3VmllOVB5RW9CSnpSS2dvdms4bGkwaEtSUU5DZ3RCWW02cFli?oc=5",
-     "date": "2026-11-22T17:11:00.000Z",
-     "text": "Fünfte Niederlage in Folge: RB Leipzig unterliegt VfL Wolfsburg NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Schiedsrichterin Nguyen und der Traum vom Sprung in die Bundesliga - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM01yZWtOTDhUZnVYcUFIeUpPakIxdjZKY184MXlWNHdDWDVZb3l4VElNTjktdHF3TzF3aTFSOHA3Y0liQWJfeldLQU11V0VjTUJrQkRIUnZqOEJGRm9faGNlU2gzMTZ1cGxKamE3STFteGE3UkluOUJFOEc4dDZ5STR5SWk3djRqbzk5ZW81YWNLV3pfa2NBSmlSNGtrMXNWOS1xREZ4U25ydmVwTmJlQmg4VXBTWDh5bC1tRlJYcjhEZw?oc=5",
-     "date": "2026-11-24T07:12:00.000Z",
-     "text": "Schiedsrichterin Nguyen und der Traum vom Sprung in die Bundesliga NDR.de",
+     "title": "Fußball-Regionalliga Nord: VfB Lübeck feiert Auswärtssieg - Phönix kassiert Heimniederlage - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWTRDQ0IwYU1DNnV6alNOWkl4djlJSjlrdG1uRHltNXhSZDU0YjJFLTYtMDdDT3JVV2xoYTAtU2R3S3BZaHQ3MkNHOXViaWdHdV9yVS1DOU92YlZUMWN0RGF4TEpxaFlVWFlieG5UN3pnazFwMWR0RkVkTzZobDkwcWVwTllmR2JXVXp3d0pKWDJfTTVvMGhMekFDRF9fM25SaXJYZU92UGZ2LUkzQWpBLTdwcVAxN0hMWXRwaG1YbVhwWDg?oc=5",
+     "date": "2026-11-23T06:04:12.000Z",
+     "text": "Fußball-Regionalliga Nord: VfB Lübeck feiert Auswärtssieg - Phönix kassiert Heimniederlage NDR.de",
      "via": "NDR.de"
     },
     {
@@ -1249,38 +957,10 @@
      "via": "NDR.de"
     },
     {
-     "title": "Spatenstich für Hamburgs neue Norderelbbrücke - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVV9WVTN5bk1sa3g4Wjc2VHBJMHJhcnkwZDBtOXlqU0pUWTVhTGtPWE9lSEJHZzhiQ2tVNC1uWV8ta0c3WlJrb01OeEpyZUZ5Szh1QzNuUVJCN1dja1U0eFJyX1lxSjRWQ2NkNXRNNWJJLVBpck5FVi1QLUowVy1nWmlRRjRUMUR6MU5GVjA2djZDcUw1cEQwd1RMNW81UFJrVTFPMmZPdnlKTVpYN0NiYVM0VEZxckhzbmc?oc=5",
+     "title": "Beachvolleyball: Lui Wüsts steiler Aufstieg - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3hoU25VQ1VZREdsb1pfTkhJbmN4UVNfOENTTmFIOWs3NTBFRHY2Q0RNZjJvckx2NVJDREtsaUl0SFdUeUhBdjZxcHRqZFBTc2o1ajV2aW1xTkpxc0NGdkdCZGNGVHNWLXRGZXlZd3A2a0F5dWFpMG9ZWWc5XzA2VzF2NG56TERUQ1NUcFhkU04yUFRTSmpiQ1p3R0xYNkVmeF9kX1A0bEp1eUpxc3UxSjR6djA?oc=5",
      "date": "2026-11-23T21:05:24.000Z",
-     "text": "Spatenstich für Hamburgs neue Norderelbbrücke NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Alte Post in Altona: Kreative Zwischennutzung vor dem Aus? - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcFVxZzB3NTNaZUdfTmhDX19vVjk4TDFtaFl6S3JiVEtaY0V4eXpUZE5MN3FXcmJOd3JxTk5wdS1FX3VZMlkzSjFRczVuSDl0RUx0WlZaTFA3NVV3ckp2bk1XUXJfNVRTSnJ0bVNJdFVtOWRoSk9QazFUMGp5VWVacGVhdGItclB5TVV0eWJhNTUzRDkzbEVYakVsWUVSbVhZbHB4NGpxblRFdmNrYUNYcWlWV0ljTzhkYTNqY2FGajl3bHdjRVE?oc=5",
-     "date": "2026-11-23T21:05:18.000Z",
-     "text": "Alte Post in Altona: Kreative Zwischennutzung vor dem Aus? NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Bauarbeiten: Regionalzüge fahren nicht bis Hamburg-Hauptbahnhof - noch bis Dienstag - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWW1BaFRnZHJZLVlNUGlWMUJvQThzbktpMG8wMmNUUGpjUTd0Z293elplUFBmLWVWX0NjQ0NvcWYzNkpsOWRackdNd3VLVzQ5bWVEcl85YUZXYnlLdk1aQ3pfZWhfcGU0ZEtmWXdXUGkwNXlmOGZaUFdGSGlsRGNaaDJUejBTSjBVRkJWeXFyZW82Q0trYnpqOFBkWG5wOUtMWlB4NWlseUs2YkRNZzkwLUN3?oc=5",
-     "date": "2026-11-23T10:20:23.000Z",
-     "text": "Bauarbeiten: Regionalzüge fahren nicht bis Hamburg-Hauptbahnhof - noch bis Dienstag NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "XXL-Platz und 112 Minuten Fußball: Wenn Männer wie Frauen spielen müssten - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdUVlZ0dDN3RZS0RIeW1kcHppb0NLREdBS2hBSWRZejBqMm9ra1d6cU5QczhFY3RraWtUX0h5S2NMNll1Z05jajJzTUtnV21CRzhMSDA3MlE1R19uQy1oaEtscnRabTZDbUl6bTZJdW8tVF9jckF4V2dwZlJGRldIcWtaaHZQVGhrMFh2cXAtS1pWWFp5UDJqTEJOdVFmTkw4clozckxEUHdZeVZlUTFwVzdid3dWMTNnT05fcDFCbk9xUE1yZks1S2pXb3o?oc=5",
-     "date": "2026-11-24T06:54:56.000Z",
-     "text": "XXL-Platz und 112 Minuten Fußball: Wenn Männer wie Frauen spielen müssten NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Nächtlicher Unfall in Hamburgs Altstadt: Beifahrerin in Lebensgefahr, Alkoholverdacht bei Autofahrer - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTE5dmhKYi13NnpsVHFQTl9KaklrTVBJS2o5QUxFRG5kcHhzSEFhRnVsNWFQYzhMbW14bWVhMHk5VW14VS05VHplSEpBMjdJTnJpdXhsM25JbVRGWENZOVJ5XzJvTF8yaEZMdXh2QTM1YTlrU2hiUzNIRXZuWFBIMEQzdXNCVlR1cHRMNnlMNGxLWUp1dFRQTklMM3RndzhqMkw0b2w4aWdfaXhXYXF0X2YxMlVqZw?oc=5",
-     "date": "2026-11-22T18:36:07.000Z",
-     "text": "Nächtlicher Unfall in Hamburgs Altstadt: Beifahrerin in Lebensgefahr, Alkoholverdacht bei Autofahrer NDR.de",
+     "text": "Beachvolleyball: Lui Wüsts steiler Aufstieg NDR.de",
      "via": "NDR.de"
     },
     {
@@ -1291,10 +971,17 @@
      "via": "NDR.de"
     },
     {
-     "title": "Beachvolleyball: Lui Wüsts steiler Aufstieg - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3hoU25VQ1VZREdsb1pfTkhJbmN4UVNfOENTTmFIOWs3NTBFRHY2Q0RNZjJvckx2NVJDREtsaUl0SFdUeUhBdjZxcHRqZFBTc2o1ajV2aW1xTkpxc0NGdkdCZGNGVHNWLXRGZXlZd3A2a0F5dWFpMG9ZWWc5XzA2VzF2NG56TERUQ1NUcFhkU04yUFRTSmpiQ1p3R0xYNkVmeF9kX1A0bEp1eUpxc3UxSjR6djA?oc=5",
-     "date": "2026-11-23T21:05:24.000Z",
-     "text": "Beachvolleyball: Lui Wüsts steiler Aufstieg NDR.de",
+     "title": "Spatenstich für Hamburgs neue Norderelbbrücke - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVV9WVTN5bk1sa3g4Wjc2VHBJMHJhcnkwZDBtOXlqU0pUWTVhTGtPWE9lSEJHZzhiQ2tVNC1uWV8ta0c3WlJrb01OeEpyZUZ5Szh1QzNuUVJCN1dja1U0eFJyX1lxSjRWQ2NkNXRNNWJJLVBpck5FVi1QLUowVy1nWmlRRjRUMUR6MU5GVjA2djZDcUw1cEQwd1RMNW81UFJrVTFPMmZPdnlKTVpYN0NiYVM0VEZxckhzbmc?oc=5",
+     "date": "2026-11-24T11:14:37.000Z",
+     "text": "Spatenstich für Hamburgs neue Norderelbbrücke NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Alte Post in Altona: Zwischennutzung vor dem Aus? - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcFVxZzB3NTNaZUdfTmhDX19vVjk4TDFtaFl6S3JiVEtaY0V4eXpUZE5MN3FXcmJOd3JxTk5wdS1FX3VZMlkzSjFRczVuSDl0RUx0WlZaTFA3NVV3ckp2bk1XUXJfNVRTSnJ0bVNJdFVtOWRoSk9QazFUMGp5VWVacGVhdGItclB5TVV0eWJhNTUzRDkzbEVYakVsWUVSbVhZbHB4NGpxblRFdmNrYUNYcWlWV0ljTzhkYTNqY2FGajl3bHdjRVE?oc=5",
+     "date": "2026-11-24T08:53:35.000Z",
+     "text": "Alte Post in Altona: Zwischennutzung vor dem Aus? NDR.de",
      "via": "NDR.de"
     },
     {
@@ -1302,6 +989,69 @@
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUS1JdEM2TDJaTkRoWXRLWDdscXFxZTlIMkZyV21UeG9OdTE0UkI3WGRYUmFrNWF6b0xsMUdVdUJYazlpT3kyTk9MLXVhdXpad0ctTE1uVUJMMlk2Q3dnQkhkenB5b19pcUNOTzZfRXlfcVJwU1ZfTG5BT1MyVUFZZjJVYkN6LWJvYXVtOURKS29OWjk5NEYxMTBKaE5sRk1EZ2tsTHFJVnk2enVDNVdTSXMzTE85bF96RF9OMEp4X2p4TC1manc?oc=5",
      "date": "2026-11-23T21:05:18.000Z",
      "text": "Drohnen in Einflugschneisen vom Hamburger Flughafen tabu NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Im Pierdrei Hotel: Tatort gucken und Maschen zählen - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNkt2TDVaakptV0Z0c3dYRVJVSkpnaFltOTVJLVhqc2pudXhNNXE5X0stOHhpVW1YOVJ2SU1VYUpIRGp4SkxyTV9QdGowb3ZOaVdwR3pqQlZCdHIwNVZGQnBoZFA1Qlh4YnNaSnNNSlhoRXlxVnRzTF9mbDQyMjFSTC1VUWw0dWtUNGhSVEZVM0d4MC1sZlh6emFwTjRDNE5KSmljMzFyUElTQlR1cGJQanZOcHF5UjRybldxU2NQTQ?oc=5",
+     "date": "2026-11-23T21:05:24.000Z",
+     "text": "Im Pierdrei Hotel: Tatort gucken und Maschen zählen NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "EL: SG Flensburg-Handewitt schlägt Aguas Santas mit 33:21 - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3ozVm9QTjYtaTVCYVRqN2ZGRmlWeUdoQ3V1SHFTblhFZFJSN09OOWNMRmV1QVFqczBDbzhaRHhVcS01RThQQXFFdUF5dzB2RXZrc1kwODVYY0ZJSnJGU0ZSTHUyYmtQelU5QTI5NlRsSnJWdGcxelFuYS1sWjVWQm9aa0ZvZ0pLMUlhOHZ0Y2I0NkJLTnBvckl6TEdwc1Qt?oc=5",
+     "date": "2026-11-24T19:15:19.000Z",
+     "text": "EL: SG Flensburg-Handewitt schlägt Aguas Santas mit 33:21 NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Schiedsrichterin Nguyen und der Traum vom Sprung in die Bundesliga - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM01yZWtOTDhUZnVYcUFIeUpPakIxdjZKY184MXlWNHdDWDVZb3l4VElNTjktdHF3TzF3aTFSOHA3Y0liQWJfeldLQU11V0VjTUJrQkRIUnZqOEJGRm9faGNlU2gzMTZ1cGxKamE3STFteGE3UkluOUJFOEc4dDZ5STR5SWk3djRqbzk5ZW81YWNLV3pfa2NBSmlSNGtrMXNWOS1xREZ4U25ydmVwTmJlQmg4VXBTWDh5bC1tRlJYcjhEZw?oc=5",
+     "date": "2026-11-24T07:12:00.000Z",
+     "text": "Schiedsrichterin Nguyen und der Traum vom Sprung in die Bundesliga NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Datenanalyse: Darum ist Werder Bremen unter Trainer Thioune so stark - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdV9vWkEwenR1RUcxQXg3dHZzdXZxa0VDZUZmczhhQ0NKaFBpaDkwMlRKaXctU2xTeGdNVDlqcjFJYTk4VmJZOUZfZUU2VmM0OXlhTjRoME1MdWU1LUJoeGhGMXZUU0tBN2phSEFVVF93M2ZRLVA2a1RMOU9hTkc5b19BNGZaR2ZMM21xbDFLeFJISDJZdERXUGhpVEN6Z000aVkybFUyelh6X2pTdzNqWm9Ic1pnQVhJLXJrVQ?oc=5",
+     "date": "2026-11-24T10:18:50.000Z",
+     "text": "Datenanalyse: Darum ist Werder Bremen unter Trainer Thioune so stark NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Tennis: Zverev kämpft mit hartnäckiger Verletzung und anhaltenden Debatten - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEU1dUxid2ZhaGRRRkNDNzBLeHdyS0R6aFRJYmdHaTUwM1F4ZFk0OTdxWXlFNy1Tenk4RFcyUlJibkoySTFDR0NSQ1pCMWN1THJZNW5JclJibUtQR0Q2bmd1X2Fra0htX202dzdDNHJPZFV0TnI3VUpURVQ5TE1icmpobi1PdlctZEw5d1VlQzgzU3dhempMR1N6SUlUbFdwc2xEbXRUa1pRcDd6dENXRnZVcw?oc=5",
+     "date": "2026-11-23T10:49:00.000Z",
+     "text": "Tennis: Zverev kämpft mit hartnäckiger Verletzung und anhaltenden Debatten NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Hannover: Nachts im Einsatz für die Weihnachtsbeleuchtung - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOXzdkbkdPNTQxUUc1QmU5UlRacXFzR1JfSkRkSG9YU2hXRnBYUXI3WDdfTWZidUVoSWhlZUEydG9zQ3d5d24zV3dfZ3lBWHBJUEFJYzNWOHRhN3pUdEtUYXV4eXg2QmQwNm85c2JmcmlzOVlIbDFEU1Y1QU9nVDdhc1M5QWVRbVpzNlh1WFJHTlhPWU5hV1ZEeG8xMlMyM29DY21tX0ZZZGNxVmhiclhrOTlR?oc=5",
+     "date": "2026-11-23T14:39:25.000Z",
+     "text": "Hannover: Nachts im Einsatz für die Weihnachtsbeleuchtung NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "NDR Info 15:00 | 23.11.2026 - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lOGFRU20wNXF0UHRpYXU4cjc5WHRtWUNXdnVLaFBMRjBBNU1JQnV4dHF3dkVFOFRCUlBER2ZzTGQ5djdFY3lkZTcwWmRZOGRnOS1PVS0wdXZXM0NZQTRmVjRWUWJLOUZDU2NJSVRlOTRtcnhUT2JJ?oc=5",
+     "date": "2026-11-23T14:59:17.000Z",
+     "text": "NDR Info 15:00 | 23.11.2026 NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Azubis bei VW sorgen sich um ihre Zukunft - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnJZdlhEUzVwbDZteUtHYTQ1a1oyV1luNnZzakRtNjNTS2JHZk9OMXFhaWF4UjhadVhXZmtqdnBuaHdDeERRODIzbEN1eThvX3hzRW5TaEVTQ2x1LXU3UURVS1FqenQ4djhIM3FrUFlBSV9oaE1BVDROUWs0ZzZ1WlpQNktWX1U4SEQ2emNDZW94OXcxS28xMlVrdTg?oc=5",
+     "date": "2026-11-23T14:39:25.000Z",
+     "text": "Azubis bei VW sorgen sich um ihre Zukunft NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "\"Black Week\": Unterwegs mit einem Paketzusteller in Hamburg - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVTlEUnNGakwwaEUxR3JhTnljc0hUQ2ltcDRrOGRBLVhNQWtHWkc0cVE5cFFtZTQzZlh6czJEYlI4Y2ZaRC1QTHpnVi11YmFZVU5EamFxOTZVNzNlSEhrOUN0c3kzeTdJSF8xSXRmaE5fbmpTdHMydjBDdERWcGNBV241ZTFIRWV3SGJFNWlRdDJ1RDlwYk8tSnkyVXJ4SDktWGZYOUVoZkZhS1hFQXlVaQ?oc=5",
+     "date": "2026-11-23T14:39:25.000Z",
+     "text": "\"Black Week\": Unterwegs mit einem Paketzusteller in Hamburg NDR.de",
      "via": "NDR.de"
     }
    ]
@@ -1311,13 +1061,6 @@
    "focus": "Nur HSV-Meldungen.",
    "ok": true,
    "items": [
-    {
-     "title": "Werder Bremen hämmert den HSV im Nordderby weg - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPXzlEN0duZ3hXblRLSlNVT0N2ZE00V3JteXgyZXdjRGdLUXJMZFJOLUYtYXVGUUsxdmZ1VnJJMFo3N1JuOFo3aV9naTY1bjRaSmh4SXF4QnlmVjlJeGdvb0F5MW1rbmFkWUZ1TnFGYjBxcTcwV0UzbnZSRzlHX2JrSmFncTlkSXlMbFJFaUV2WGhLV29RX2ZwQ1JfYTNCZUUxeWhIMU5jbVdRNk9mMVB2R1hwQ19nMnNxSDh4UlJEWmc0aWxaYUc0WThiZw?oc=5",
-     "date": "2026-11-22T21:39:51.000Z",
-     "text": "Werder Bremen hämmert den HSV im Nordderby weg sportschau.de",
-     "via": "sportschau.de"
-    },
     {
      "title": "\"Gehören aktuell dahin\" - Werders Derby-Helden träumen von Europa - sportschau.de",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjRRd3J2WEt4M3ljNDNETEkzTkxkOTBBdXhkVm9XOEFjWkFYWko4eFR2WEpsUURMdEJOZlExUmdaS0xQUFRhR19ZQ2k2d3R3eHdYVWhPVUtuWm9RLUYtTmRNNjhwUVlJaFlxa3pzYjktcm1BR2Y5Q2VfWVgzSkplb2RpZDZXRmpuZFRJeHNDZXNVS3pBRDRNUW00QlhQMVBNTzBVMXVOWQ?oc=5",
@@ -1333,87 +1076,17 @@
      "via": "sportschau.de"
     },
     {
-     "title": "Werder nicht zu stoppen: Bremen fegt über den HSV im Nordderby - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYm53Yjdnb3dKa1lDOUV0Y1ZtbVJxa1VEN04weFNCYU9WU0Npbl9uSzJCSzY4TUVYZ0pNbElNU01DQ256cTdUMGN2MVdXaXNldE5RcFFZXzhaakNuR09UNUJ5UEJUUDdnZFcyNmRVR2REbFoyMW93X0FBREFsQldYYWNxQUdZdUxnM3pySlRrejlvbW5XU1hESkJITUFFODA5blRmODg4dHRySEZGRFZsX2ZMTjZTc0MwckNIN3lEdW5NZXBJY3Bjc3JmWld1N2ZtVU5v?oc=5",
-     "date": "2026-11-22T23:00:28.000Z",
-     "text": "Werder nicht zu stoppen: Bremen fegt über den HSV im Nordderby sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
      "title": "Bundesliga: HSV nach Derby-Pleite gebeutelt - und jetzt kommen die Bayern - sportschau.de",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmdTWVBwUUxWRXprMG5SSzllSHREcy0yUDVFTVBxUXVvRkEtdzY5dFFQdVpXa1dLY09tTGNMaDA3Y1drWUtVRHdBcGxVUmFJbmNicWhCTDJjUDhJTEZYa3B5NHNhYkxwUkJDSnRiWWdsUi0ydzE2SjJyUVBha3VZY2loOWN5X0RYZVhvY1c2bzZpcjNoY09JUGlBV3puZWx0V0s2TmgwR0tyeXJZMUI4ZlR3?oc=5",
-     "date": "2026-11-23T10:36:00.000Z",
+     "date": "2026-11-23T20:02:00.000Z",
      "text": "Bundesliga: HSV nach Derby-Pleite gebeutelt - und jetzt kommen die Bayern sportschau.de",
      "via": "sportschau.de"
     },
     {
-     "title": "Bundesliga : Bremen deklassiert HSV im Nordderby - die Audio-Highlights - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOEZQcU0tU3haZWgtTERJTmY1WFlpNDZ6UXRTMS1zLU5TMmswZUwzSHFfaFROYnpyTWhtaTdOaTQzNG81QmlucVh2NkdON2F6UFdsX1VBLXZNdjVUN2JqdWJmZ1FMbzlLYjFmdnNxRlJXdnRqbjJaeWVwaVUwbjktY2JFcGRWN2RmeDFobk45LVQzTDFCTG9FWE5IbTRxR2ZST1RycFBRSVBhbXRnUy11SnVLODdyUmFGVVBQQTZzWG5vak54SzdfVmlVZEFMaHJjSEJUSC1IR0VXTkNuUXc?oc=5",
-     "date": "2026-11-22T18:41:09.000Z",
-     "text": "Bundesliga : Bremen deklassiert HSV im Nordderby - die Audio-Highlights sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "Bundesliga: Werder Bremen mit Schützenfest im Nordderby gegen den HSV - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFl4NXExa1d2aDFqVFA4bU1VN25NcHlaejFCSzVnVkh6RzlRcWEyVldySHNOOTBVTWRKZ0NHOFpHQjNiTXlvNkEzQloxRXY1SmlUTEZ4OVJDYXVXRDhPZnVGRlR1QmFLSUhCaU9SdlBXcU9rVDVMSTVtQ3NmQXhNeTlqa0V2bnM4b2lzQ3AxMEFERENRTndnelJqcGhRdzJabEw0Um1CM0gyZnRTQkt6VFNMXzlmdDVpUGh3?oc=5",
-     "date": "2026-11-22T18:40:56.000Z",
-     "text": "Bundesliga: Werder Bremen mit Schützenfest im Nordderby gegen den HSV sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "Bremen dreht in Hälfte zwei auf: Werder-Coach Thioune - \"Völlig verdient die Punkte geholt\" - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmxjQkI4c3FyN3hOa2pWU2pmQlNCdEdyUnJIY21NVTR4RWNHNDJyZ2E3X2g1RFhqRHRhVUlBQjl0MVBpc0doT3lUX05aV2VTdGloSDNTNTFZRm0xQ3Z3ZWk3cWFLcWRaMkFBNHJ0bnp6dDVXTEdKajNWczF5Rkt2WEdUSzlEWnl1dnpyRXJiWFFaQjlDRi1UZEtMUWRIeUNCTUNubklBbE1IVnA5aUdqQlZNRkRXNGhWSy0wTzBDaFNBVi1B?oc=5",
-     "date": "2026-11-22T19:54:48.000Z",
-     "text": "Bremen dreht in Hälfte zwei auf: Werder-Coach Thioune - \"Völlig verdient die Punkte geholt\" sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "Tausende Werder-Fans empfangen den Mannschaftsbus vorm Nordderby - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWRoVVJ5eElHdXRsY3NaeFF4WkY0RFdYTUZoUERjeU5DS2hkZ3NzQnJrM21ESjVzX0hzXy03WVFpRW5tYTVmVVlCalFra3pmTkN6RTA1NXo0dnhHSGF3TFgtcWRoSUZTZnB3Znljdk1NUlFfazhOd3pVYnlNRzNVQ1dzWkxDUHlKZDhNUGhYSENRcXlUa01jM09abGUzQXJlbXBoMmlZR21HbzdPeTFoSFRUeUU?oc=5",
-     "date": "2026-11-22T16:25:04.000Z",
-     "text": "Tausende Werder-Fans empfangen den Mannschaftsbus vorm Nordderby sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "Werder-Kapitän Friedl trifft im Nordderby: \"Ein schönes Gefühl\" - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTFBRUUY2ZVJJX3M4LTFDaFowT2pTUlFOR1UyVkdndWVZWTlfaDZ6X2N4WVM1Yzh2cS1wbmVsMGM5MjNvaWhnaXB1Z3Mxa0lXc3JpY2FtbWN6UDlobkVvNFVzdU5peTRNOGdvWFNTcG11eFJkNXZFZU9TQWMxbE1vVFBWLWZDb2RFNHQzOC15LXdCbWY1Q3pEbG41QTJCUUZQSEhnTFdXQW42TXRld3ZuSzgxQQ?oc=5",
-     "date": "2026-11-22T21:14:01.000Z",
-     "text": "Werder-Kapitän Friedl trifft im Nordderby: \"Ein schönes Gefühl\" sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "Fußball-Bundesliga: VfL-Kapitänin Huth fällt bis Jahresende aus - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYTROOXU1TEhpeHVubHhscHhOc1NGVDh5VHVZc0JDZlVmVUxwaFlVNmlqWk5tTFRLcFd4NUQxQnFJWkNRbXNrSnJVU01rQVYwZy14WjFnajh3SXB3STQ3TXVOajZoVGxLS0dRU0p2RlgtaUdBdjgyaVRJeFFoTUMzVTZCekMzWlhMOUdmeWo1Qll6dF84OEJMUlhFV1NKTWhrWkEyVkJtazBPdGprRkNpdGVEa0dtQ0tGaU9nTEhqOXpteFJf?oc=5",
-     "date": "2026-11-23T15:10:00.000Z",
-     "text": "Fußball-Bundesliga: VfL-Kapitänin Huth fällt bis Jahresende aus sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "SG Flensburg-Handewitt siegt souverän gegen Rhein-Neckar Löwen - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ18ycC1NM1RXaGZ3aVhqRUtNM3FDdVVTQXFVTU51MjdqX3dpQ0IxUjY0dDJ4M1BHczBYRDNJNEtwaXFmcHJYQzRpYlVWY1dCekgwNGZmVzNKTE84STdzSTJzOGVmaHhNNHF6V21teWNNODM5ZDNocmQ1YmZJeVBDVGRRRF9kTnFSYThiSGVVYW1YVVNORTNaelVWWmRPSXJsWmp2ZGxmeGZob1F5eVNhbnZzMEJxcVc0T1pWR2FvZkM1OC1QMnV5cEo5eFM?oc=5",
-     "date": "2026-11-22T18:23:16.000Z",
-     "text": "SG Flensburg-Handewitt siegt souverän gegen Rhein-Neckar Löwen sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "VfL-Trainer Schultz: \"Verteidigen auf höchstem Level\" - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXh4TVF6Rkw5ZUkxd2lxdVc4MXpWTDN4anM0aHhJYUVqa095RlNEck8xYWU3dng3cnNOMGZHRjFtTnluRC1aQ2kwTXM2TktyT0oyZWQ0ak85cmoxc3JWU0w4ZjU2a3VwUmxoNXFiaElGMUNBZWhzbkpDNjJxZW0zLWlPaGVnd0RrUkFHNUFuSUo0ZnVDQ0dzMmhqQ181WjhackRibjBMY3FKQklhUkE?oc=5",
-     "date": "2026-11-22T14:52:46.000Z",
-     "text": "VfL-Trainer Schultz: \"Verteidigen auf höchstem Level\" sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "Osnabrück-Torwart Krumrey: \"Jeder Punkt zählt\" - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzBwRU5yZm1zRlZqTmNIOWtWT2hIaDVoOHZWRG9jYU94OEx0Mi1VN0gzcGkxTmc3N2gyVjN1ckxlVnBDX0ZmVF9jODFxaFZHNVV3NUpLQVJWQnhROWlOMEs0S1JZM3BfUzRLYkZZMFpsSEk0OF9wZnBMQnJ1MjlJVzZWWmEtRkZMWVVBSEZFWTBEWE1iMmVJUV9abmNPTXB3OU1MdUxn?oc=5",
-     "date": "2026-11-22T15:00:56.000Z",
-     "text": "Osnabrück-Torwart Krumrey: \"Jeder Punkt zählt\" sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "Beide Keeper parieren Elfer: Frankfurt siegt dank Atubolu gegen Hoffenheim - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbUhlRmV5ZF9XTXo4OGpIdEU4ZUI1Ql9UNGU3bkJpYi1hOTJhcGE0RlJ4T0d3SW1jRkdsWGNsR2ppTld2RFBPWVp4TmJOU3BEZ3BjbExmN2NLRXh3U21qNWpaR3JEZGp3c1JqcjZlMTFqaWpkN0g1TGVydUg0bjRNRHRza0habFlvb1RzSm5rNHN2a2lCdXdIX0JOenItbkl2RXNUSlZuOER2RHRJM1VGa0FnQ2hMeG1XbC0xUjV4NkFYMjgzekVWZ0FzTk84Q2V4cmlFT2dvdXd5TFhBTGRCbnAtaE1Hdk16UHc?oc=5",
-     "date": "2026-11-22T23:00:00.000Z",
-     "text": "Beide Keeper parieren Elfer: Frankfurt siegt dank Atubolu gegen Hoffenheim sportschau.de",
+     "title": "HSV-Sprinter Owen Ansah steht vor teurem juristischen Hickhack - und startet Crowdfunding-Kampagne - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1h1bGh1UnhuUGhmMVFXVXJNWUJ5bjdvU0VXaDZEcng4Yk9PUTBxbmNnWVdkX1ZYcThmeHVyVHRfVGlBLVhRUFppUXpkZXRWTXY2TG5lWGotZmZWdjZDNFp6X09UbDlTckd6VzdNa0R2Yjg3ZjRSMURBREVtRW5tdzVqV21pWDFVWFdibkxhMnVBT3hiRUV5SmU1SjlmZXk1M2VTOTF3UEtLTy1HUE5oV2RFQ2JDMHZTU1Ftc2dtRQ?oc=5",
+     "date": "2026-11-24T11:34:06.000Z",
+     "text": "HSV-Sprinter Owen Ansah steht vor teurem juristischen Hickhack - und startet Crowdfunding-Kampagne sportschau.de",
      "via": "sportschau.de"
     },
     {
@@ -1424,66 +1097,38 @@
      "via": "sportschau.de"
     },
     {
-     "title": "Moreira gelingt Doppelpack: Leverkusen fertigt überfordertes Paderborn ab - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbXRnVWJVQ2phVllBbEo3Z204dm1IcGFFWWRHNmc0TUJ5cXNHNi13SXQ1S2xfT0V4UjFSXzZNTEVkNzExMDhmc09UeXBuOXdYQlZyWUZNbjZ6WUw1N2pCYmRCb2IxSjBFNXpOVjNmTVVfMC00ZTg2MWpqVnZkb3ZnekpxUE9OdUplLU0yclFvS2QyejBzbU5FcFo1TDNEN1pJczFWNEVHdE5pbEVpZk9pN0dMaEZCNkh0cm9tN3Rnb3dNSUxELUR3SlNWeE9MUWxfSHBuLVluaG5BMzdIR2RZU1FPbEg1d3lFQ3dv?oc=5",
-     "date": "2026-11-22T23:00:23.000Z",
-     "text": "Moreira gelingt Doppelpack: Leverkusen fertigt überfordertes Paderborn ab sportschau.de",
+     "title": "\"Inakzeptabel\": Werder verurteilt die Randale beim Nordderby - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2tPY2ZscnVNVEdkZnRIb2ZjTm1vTW1NLXZ6N2hONThCM0lKMXgwSmZlOElYWkxMUnI5S2hhZEkzNFA2UnhGQ08xdlBiT25lLXgxV3Q0dXNJS1ZlYWFJNjVaQkFadUF1bldEZERhcERsbGUyTDlyQ0R5My1rTlNFelR6WkJlZmFfMjl4cXBMZEl1VG5sUC1oY2N5RlIzWm84UDQ0Z0ZtRWRGZUU?oc=5",
+     "date": "2026-11-24T10:28:00.000Z",
+     "text": "\"Inakzeptabel\": Werder verurteilt die Randale beim Nordderby sportschau.de",
      "via": "sportschau.de"
     },
     {
-     "title": "Fußball 3. Liga: Hansa Rostock verliert in Unterzahl beim MSV Duisburg - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTE9jbXMzS2wzaDg1elFiSXRyNEl1Z2pLRUJIUWF6Y2xUMDBSeF9qQlB4cFFRZUJRNXhRQWFGMW14WFZFcFFZMHRaSjVkbU56M2QzMnJyYXFaeHc0QW1NVDRFS1hGeWpJX0VMb1gwZ3lJWUtGakxQVWlpR0hfbXNzbURFc2M5bThJdHNxajBfOHZyZF8xSEdwa2RUM0tMZzM0d3JtWVRjNkhKM2UzcW5mb3VVNVo?oc=5",
-     "date": "2026-11-22T21:38:05.000Z",
-     "text": "Fußball 3. Liga: Hansa Rostock verliert in Unterzahl beim MSV Duisburg sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "Entscheidende Nmecha-Aktion: Guirassys Kopfballtor im Februar gegen Mainz - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNi1sMkJlbWk3VW0ybExIZmNGejlORTZRcUpOa3RBZ2ViS3UtUHRUYnRnX3pQZS1kNWtXNW95MXFjNFZqVVYtUk9ralRKSDNBaWl2UFQ4ak1yVDdma2Nhak9ZQzRuT2hha0FucFlDSGNUeXFNRmtyUDNJZkQ5Q191MXZIWFZDb3ZxTVUxY3hHQVF6a0FuMUpEc3JRUHViYVN2RzVBLVhGLVNUbDhjVmRLcktWOTB2QQ?oc=5",
-     "date": "2026-11-23T12:34:36.000Z",
-     "text": "Entscheidende Nmecha-Aktion: Guirassys Kopfballtor im Februar gegen Mainz sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "Live hören: SV 07 Elversberg gegen VfB Stuttgart - Bundesliga - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX01rUVlNTkRSVEpwZlgwZUJtNjl2eW1uenU5NEpTR2tyLVpJRXdfbHNmLUlIMUZtMmNxQnlMWTVIdVpIdUZIX2NWSm1mdHdxZ2N1OVVWeFprUlF6VXgtUW12Q1JsbUM1YTB1T3ZkRFhSYkxlMXh6ZldKYWhPQWxJUG1SMnE1dHBKTTRXRXB2UElwZHNRY2NsU055aFBKRG5WMy0wUzBKWFRlT1I4d08tVGZwVFFYWU80T2NIUG1jYmhHclVORzNqYWRPTFVfNnhmWndicE5nZw?oc=5",
-     "date": "2026-11-24T09:32:08.000Z",
-     "text": "Live hören: SV 07 Elversberg gegen VfB Stuttgart - Bundesliga sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "Desolate Mainzer Defensive: Gregoritsch führt Augsburg zum Befreiungsschlag - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOellFcmUzNnZYdEZVS3YzWWt6VHE4NE5JSG5EeV9LbFdHOUFJQ2JXQU42WWs5ZUJOY0hUYnBuWHdCZzJuand1Zi1OLTlNZHFtX2gzR0NGOW9BQzl3QUlyQ2NGQlBzaGh1T0VyWVJHNHpMTWNMclI2d0M0al9jWFhwZ1E4VXdOS1Etb1Y4OHdTRE9ZLVpMaTlRYm0zYjBPNWpCejNXZmNhdzNhNUItNVpxMWpFLTNGdWdlTk9qT3luM3VvWmpKRllDUHBic2lNaWR4UEk0d09jQTlhUU9OYW9rakVIeThzZw?oc=5",
-     "date": "2026-11-22T23:00:25.000Z",
-     "text": "Desolate Mainzer Defensive: Gregoritsch führt Augsburg zum Befreiungsschlag sportschau.de",
-     "via": "sportschau.de"
-    },
-    {
-     "title": "S04 zu Hause weiter torlos: Stuttgart und Schalke verpassen die Entscheidung - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcEkxWDZnSURKTUNJMXBkdkttei0ySm9SS0diY081VGRkWDhaNkJvRFFGOFFvWXVwZzM5Njd6aU5hMlprcWhmNmdTMmI4WHd1VFNLN0hHYjZTbWJhLXJzRnJFLVpuZXNIVTlFS1dQQnVvcHkzY0RqYS1TS2s4YzJVd3NNak95czNmQ1NZSE9fVFNOTUFVcW1ZcXM4RGhlY3oyeWF4WkVrTFF1VXhMZUhrci1JRXZ5allISVMwSXNIQUNZNnFQaXN6WTdVWVZoaXctejVBSmYxUXdHZlBuUlpWUWJNNWhWR3c3VWc?oc=5",
-     "date": "2026-11-22T23:00:33.000Z",
-     "text": "S04 zu Hause weiter torlos: Stuttgart und Schalke verpassen die Entscheidung sportschau.de",
+     "title": "\"Club mit riesen Strahlkraft\" - Ruhr übernimmt bei Hannover 96 - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdXF2X1FzN1NSRzNyTDdwY2g1Y1ZyWHVROFhqd3RmbWN2b01COVhQUUw3N2RnWW40YTFOU0tFdXRsVXE5cDZZQkdWZDFEMU5jbU9yRHlueDBfZnR3NnJMVnE1a3lXMmktS2taYTNBT0VCQjc4bmR5eU9MSFRmVGFmQUdOWTBlRVM5Q0ZHdXMwMkdEbWFaMEJtcE9nMGJKcHM?oc=5",
+     "date": "2026-11-24T12:52:29.000Z",
+     "text": "\"Club mit riesen Strahlkraft\" - Ruhr übernimmt bei Hannover 96 sportschau.de",
      "via": "sportschau.de"
     },
     {
      "title": "Wie verhext: Schalke trifft auch gegen Stuttgart zu Hause das Tor nicht - sportschau.de",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYkpCTnVORnJoUkI3Mk5jQkV2ZEJOcmk0RFBycERTVWNpeUtOVmZ5SmF4eDJ3Wk1sS2ctNk84UXVFMlVwWEMyVklHRTU3QlFCRTluUGpTODFDU3ZCTzlFdGY3RFNpeDN2UGxFZEo3T2dtdkFVRHBvanlfSTNzZS03Ynp2TjVQbjRlWEEwU0tETDQ4NU1UeFp1Q0VEbEZxZlNuSk55dEw4dEVPLWtEN3ZJbTlzcS1yRkhrcVkwZkJvbFRtbGJnZUswRlBVX0VnQXMzX054WQ?oc=5",
-     "date": "2026-11-24T05:15:48.000Z",
+     "date": "2026-11-23T08:00:00.000Z",
      "text": "Wie verhext: Schalke trifft auch gegen Stuttgart zu Hause das Tor nicht sportschau.de",
      "via": "sportschau.de"
     },
     {
-     "title": "Blitz-Rot und Wirtz-Traumtor: Liverpool besiegt ManUnited - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNYlN4X1RtSnJVVURmVWtxNVRWbHdrMHBrbmVZZndRQUYzTWZKa1RGWGlrWkJqdWdlT282WnBPWGNuTFpGdFpJZFlZRzk0SmVZWXJ2bFBob18tQlpXU0NlalNBbVI1T1ZOZ20yeTRaTzRYbWZtMTM1UjE0ZFIzT01GNy0zRkxGMF9GMkVua19aNHpuZE5QcGd0ZFZiNkVSRWtEdlBlR1RmX0dTUlkyU1B6VEJFZEpCdmtzRjBxZ0t2ZlpONHh2bzVDVlRhWUpnQVJndjlYa25lWlo3TEhROE5nT3ZVNGU4TGhvQzZfaVNOX3laZkVHUmVRajF2TW5ydGYtSkJIMg?oc=5",
-     "date": "2026-11-22T19:17:38.000Z",
-     "text": "Blitz-Rot und Wirtz-Traumtor: Liverpool besiegt ManUnited sportschau.de",
+     "title": "Frauen-Bundesliga: Hoffnungsschimmer für den 1. FSV Mainz 05 - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13SVo5dkRqbWxFLTlsY2FTa0hZOUpuYXhzUkJiU0VIV1JFQ200TmJUMnRKSU0ySHgxZ3NtQ2J6eUVpNHVaUGc5OUs0a0xjUTNfbjJyZ1Vob0hOZkVkZmFNLWFvaWFnZmVhei1LTmVyNHM1Q19K?oc=5",
+     "date": "2026-11-23T13:27:00.000Z",
+     "text": "Frauen-Bundesliga: Hoffnungsschimmer für den 1. FSV Mainz 05 sportschau.de",
      "via": "sportschau.de"
     },
     {
-     "title": "Frauen-Bundesliga: VfL-Frauen melden sich zurück: Wolfsburg siegt ungefährdet in Leipzig - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVA3MGtTUDV3YTFvSGxVQ3poSVpiVGpiX0VDNGppeTBNamVMWXY2Q0dVWjZKYjJkQy1LWk9HVXloRXJkLUpFcWVJOEp1clcyUEZBblkzbFRqMW96Tm0yOXo4ZHJ4eHdsTFZDSldWS0o5V0dXaXVqYjNhSk5zU2dCUGFEZFJYWnpSTXgzZzJPNE43Qk9LSUpjaURnMmM?oc=5",
-     "date": "2026-11-22T17:40:12.000Z",
-     "text": "Frauen-Bundesliga: VfL-Frauen melden sich zurück: Wolfsburg siegt ungefährdet in Leipzig sportschau.de",
+     "title": "Nordische Kombination: Nach Olympia-Aus - NoKo mit neuen Wettkampf-Ideen - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE84a0VRTndGdkFVaW1HUExrRlh2MmpFelNQTXdVUlJjanBVVmQtOXdfZEVVWC1nOWl3TUhMWlpacTdyeFBlaVUxUXdwdkN3aWR0ZmlMXzdSc0N2SHlDRDVPOXhNeG9XT3p4dnlXYmJHMENicHZoVlgtV0d4QjJDUXdUMzNWZk9TTkxia092V0lYUlNWYm8tMUdYSFhZMlQwQWxLZTNpTXBIbWJubHJJZk1CaHJwUQ?oc=5",
+     "date": "2026-11-24T14:07:31.000Z",
+     "text": "Nordische Kombination: Nach Olympia-Aus - NoKo mit neuen Wettkampf-Ideen sportschau.de",
      "via": "sportschau.de"
     },
     {
@@ -1494,24 +1139,115 @@
      "via": "sportschau.de"
     },
     {
-     "title": "Schutz für Torhüter: Niko Kovac: \"Schwierig, in gefährliche Situationen zu kommen\" - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNamwzempEa09hQloza0dlUGVKV1JLcEFqbDd2MTNqRkJBXzJVcldJR2hmQWtKTXZxNjN2dE9meXpJSU9iQS1kSHk1U1N1LUgwVVZWRDBzU3ZEbnduVFVnUTg4RkZsN3ZUODY0eWVBMWVCMzhxUEVMM3V3Tlo0MENmVkhxR2Q1TDN0ZWh2dnVjckRIZ0FCXzlQZlBwSHVpN3pnNDI0T0FQc0lzRGYya0ZobnhQOU5nUF80Y00yc1Q1MmlxMF9fRnc?oc=5",
-     "date": "2026-11-23T12:23:21.000Z",
-     "text": "Schutz für Torhüter: Niko Kovac: \"Schwierig, in gefährliche Situationen zu kommen\" sportschau.de",
+     "title": "Eberl beendet Gehaltsdebatte: \"Werden Musiala stärker erleben\" - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkdjYjFLNjcwcC1wR05ZTnhiUGhFNWdmN28zcWo4bGgxX1lOdUhTdHhNME1iQjlTVXlwZkE4cjlLaW1DVTdFM0RiN3c5MHE5STE0MGxyUy1XeVNjckxTZU51dmcxb3ducUdyYW9PSWk2N2xQVExYRllUT25xZWVVNklxWFJOeHhKWjhta3VQak93YnR1akdNLUhCeDhCQ3dXVUFGTWJzcU1pbEd0LVJZ?oc=5",
+     "date": "2026-11-24T20:51:41.000Z",
+     "text": "Eberl beendet Gehaltsdebatte: \"Werden Musiala stärker erleben\" sportschau.de",
      "via": "sportschau.de"
     },
     {
-     "title": "Debatte um Jamal Musiala: Darf der FC Bayern sein Gehalt kürzen? - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRHQxSElaS1RHZ0VZMnluZjFILXVGdzVOeWNyLTZLVUg4OEhlMHR6ZVpYd3FhQnZYcjhfNmFwU3JuU3pMbnZwZGZGMGJzaVF1V0stMzNsdnJMZDhlZXZrVXpKZi1KU3lZcHctYzRLYUYwVEZpcS1rMzZqNTA0c3ZNZVNVRE50eWltQjU2a0pEX3YwNDVyaXlzbXZidG1yRXhvRFNnUG5DMjhuTmdNSFUxOXhLQQ?oc=5",
-     "date": "2026-11-23T15:48:14.000Z",
-     "text": "Debatte um Jamal Musiala: Darf der FC Bayern sein Gehalt kürzen? sportschau.de",
+     "title": "Kramny sieht großes Champions-League-Potenzial beim SC Freiburg - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnhtT3ZIQkhwZVh5a1dKaklFeVVWSkVRWE5DbXp6QkFVZS1kX1hGQjJoX0xyVGN1QVAxNkEybHR2NkFLWUpUVkdaZkxyQ0xHLWxFRUFKNmhGem1ReVdEaTN6RGNpTnhqaHc4TFV5WE5Ca050VEo1bC1iQ1NKV2h5SVVsWlg5QUE3OU5IbXZPcTBFYmdIWHJyQWpiZW5wS2ZuMDF4a1J4MnFpWmFGNUk3NmxXS1JuYU0?oc=5",
+     "date": "2026-11-23T11:18:32.000Z",
+     "text": "Kramny sieht großes Champions-League-Potenzial beim SC Freiburg sportschau.de",
      "via": "sportschau.de"
     },
     {
-     "title": "THW Kiel nimmt Angstgegner HSG Wetzlar den Schrecken - sportschau.de",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3I4WlI5dUc0YTk4Q0txMTNCMmZKS3pxM0JzN01obHpoczdWekRNY213RWhZYVUzZHVrSUs2dXIwSDBtWTNkZWRpRDA3NTdiMVJ0bDU3d0Y1Rkl2X3I5dDUxUDB6bk9nOFVGTUFCRExGd2xKc1pUNWtlUk1YZmNlRExOa1BMQmZxOElaM0liSlI1R3RCcTAzSFFRdDJfcXpZRUdGMFNIYWI2WE11ay00eVNB?oc=5",
-     "date": "2026-11-22T18:46:02.000Z",
-     "text": "THW Kiel nimmt Angstgegner HSG Wetzlar den Schrecken sportschau.de",
+     "title": "Entscheidende Nmecha-Aktion: Guirassys Kopfballtor im Februar gegen Mainz - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNi1sMkJlbWk3VW0ybExIZmNGejlORTZRcUpOa3RBZ2ViS3UtUHRUYnRnX3pQZS1kNWtXNW95MXFjNFZqVVYtUk9ralRKSDNBaWl2UFQ4ak1yVDdma2Nhak9ZQzRuT2hha0FucFlDSGNUeXFNRmtyUDNJZkQ5Q191MXZIWFZDb3ZxTVUxY3hHQVF6a0FuMUpEc3JRUHViYVN2RzVBLVhGLVNUbDhjVmRLcktWOTB2QQ?oc=5",
+     "date": "2026-11-23T12:34:36.000Z",
+     "text": "Entscheidende Nmecha-Aktion: Guirassys Kopfballtor im Februar gegen Mainz sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "Davis Cup (M), Tennis - Viertelfinale - CZE vs. CAN (24.11.), 24.11.2026 - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT01zUUlZMjRPZXZqVWZSWEtOTWZ5OE8xSTE4YTZKMEdwck5XTm5CaDI3NFltZnpOamU3UFBIWVNySXFnTjZaTUlLcWpTaEszYm51enBOTXk4NE1ubk4tSk5sdEN6TE9jM1l0M3QzcHlsbmVSSXZYb2QzbTJkOV90ZFFmeDFNTE0xT0hRRFNqTVBrMTJsNDh0QmJrZUt1SDRCNnRESTRDMk1fbVRUdUFsNG9tU29tdmx2SFY2WnFQbVZRWkk?oc=5",
+     "date": "2026-11-24T15:18:56.000Z",
+     "text": "Davis Cup (M), Tennis - Viertelfinale - CZE vs. CAN (24.11.), 24.11.2026 sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "Fußball Bundesliga Frauen: FC Bayern gegen Hoffenheim - Aufstellung - 11. Spieltag - 2026/2027 - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYVV6bWtpdzM0ajZSTk1QWmluSXZSNGlncC1RU3A5bFpvNGpBZy0wZW5KVHgzZWZkazlhckRrdmtaNnJteHFUZ0Q2aGxVcmFhSzNfSFV3RHNZenVLbjZLaHRTakRUWlVXd3JaVEp6eW8zOXNzTDMwLTZvUURvcF9GaTZINy1iRXBRNV9rZUhCTTN0TVdqRTRubzZ3M29UUmx5UEVyQ2lfbzhkYWNtZEJOc1VRNFFTM2Ewb2xmRHN5Z2VXQVRob3ByWU5XVnFZdnJnN3dYSHdzamVibkhqM0VqZFFn?oc=5",
+     "date": "2026-11-23T20:37:37.000Z",
+     "text": "Fußball Bundesliga Frauen: FC Bayern gegen Hoffenheim - Aufstellung - 11. Spieltag - 2026/2027 sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "Tennis Davis Cup: J. Lehečka gegen F. Auger-Al. - Direkter Vergleich - Viertelfinale - CZE vs. CAN (24.11.) - 2026 - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLU5KYlFzM1ZrbzVxVC05YzJHN0VtUFJ5LXdjbTB1OF9MeURiYU81X1I4WlVhVFZDai1kcEJqTHlTU2N6SUNNdm85MDdSZG9jQVFxTFNvc0g1OWxIT3BRcVZLc0hZRGZwcGJyRXZfSHd6WWhnUmZIY1cyOTdIN2w5Tno4LTRfSDBUcnRnTjhEOVg2WURlcG1JMnFOTTkzRTZNcjRnMzRrUnBCOElRQVRyMFRIdw?oc=5",
+     "date": "2026-11-24T15:18:56.000Z",
+     "text": "Tennis Davis Cup: J. Lehečka gegen F. Auger-Al. - Direkter Vergleich - Viertelfinale - CZE vs. CAN (24.11.) - 2026 sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "Fußball Champions League: Leipzig gegen RC Lens - Aufstellung - 5. Gruppenspieltag - 2026/2027 - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSU9ybzVYckMtckZxMGloNDA5RzA5QzlnbldBbzliVm5XWWlzTzFsSm5lekw5UzlVYk5qRUJlTWZmYnJCZHJLbXp0WERBQi1BMnZ6SkFkVzgtMUpfazZXUWkyZmxGaEhLcDQ4MkZzUW5FWGo5SUVUWTlTZEo5YUFkMGFtRU9TaE5CV3h6UjIwMnI2V3I5TU1Vd0U3Q3RwNDIxOWxOc2NsNThtWVFBelU3WnpCdTZyWnpNdllHeGt2VjNia0kxWkRn?oc=5",
+     "date": "2026-11-24T19:48:51.000Z",
+     "text": "Fußball Champions League: Leipzig gegen RC Lens - Aufstellung - 5. Gruppenspieltag - 2026/2027 sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "Fußball Champions League: Real Madrid gegen PSV Eindhoven - Aufstellung - 5. Gruppenspieltag - 2026/2027 - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbkp5Ul9hbTMzTllZRy0tR1RDVTFGVENuZWEycU5ycEQxYUNIdmlsbkgxdl9qcE95bF8xdWtLUEFpN1RQZldEd0xUVE9GUW5xcTBMLUdFOHVObWMzWWdIc2hlN1E1dERYczdUWENUNlpTeTg2aXRkeklJcHd1Y1FsSnJ6ckQ3dGhER2VrX25pa3JDN3NXbWQ2TzFibl9USGJJR3Fld2thWjdBazdlV0NRQ1Y2U0tvSHZ3WWl0SmpXczNmSFBoWFZoaHZ1M3BNeE1Z?oc=5",
+     "date": "2026-11-24T22:29:36.000Z",
+     "text": "Fußball Champions League: Real Madrid gegen PSV Eindhoven - Aufstellung - 5. Gruppenspieltag - 2026/2027 sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "Neues Sanktionspaket: EU verbietet Teams und Sportler unter russischer Flagge - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZDVTNjlVSlRQeER2S3dQMDlILWl6UHpUSDFhTDM3R2xUQUwtUXB5WlFPOEV5RGdiVHVpYmlfM3pQeDBaaHZ1SFR4V0RSNGI5dFJNaTNXanY3T1dka2VRTDlFTU91Z3VvWUZwLUJJaXJuUE1fTDlKbnhsSkJkSUFkTUhDRjhwVmJIQm85Z2N0UUhoYmlDM1M3MDh5U1BSWTkwY0lRZENnZG1uYlh4dlZGLV9mQ2NtREdsb2JVU0tudHZXaGFyaTd6aFBVdHNWV2ZHWG1rdzlpdHBCQklFejFXZWRjVkItWjZiOGZVdUsxMFdJeVJpNzl4WjZB?oc=5",
+     "date": "2026-11-24T09:28:45.000Z",
+     "text": "Neues Sanktionspaket: EU verbietet Teams und Sportler unter russischer Flagge sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "Bundesliga: Bayern gewinnt auch gegen Hoffenheim - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1JxekwzS1A1NTVpbFpXT3BwWE5OZmpVX0lRNEo1QXN6RUNzY29FLWhFM1pmdldBTW5aOFJfMjFaVUNLazR5S0U0a2tZV1FUNm9DME1tUWR2cEdYZVlhNGlfSUR0TUVOYl84elJZcFNvREVfRVFzaHhDWkNjSVFqRzVUWktSU1RmU2ZyY1oxaGVZVDdKbjBwc1dyYm14bkdPZFVfcHcxNnFaLVU3WnNNb0g2Mnl0b3RsSDdCMGhuTFJXVmZqTXVR?oc=5",
+     "date": "2026-11-24T09:10:49.000Z",
+     "text": "Bundesliga: Bayern gewinnt auch gegen Hoffenheim sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "FC Bayern Frauen: Knapper Sieg bei Oberdorf-Comeback - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcnJzRTdmWV9JQm5ZRmVaTEg4d1V2WTBCSVBWZVBqWEQyZEFDcGg3UmJfaWM0WHUwdy11T3FlWjRwU2hLVDZ5Y1dfT19PTXBKNTgwQmVUcExQTmFVMEtNTlUwbl9Ua1FvTS1Bcm1XQmtBMGRZSG45RExPcnRuUldtMXg0dmcyeWRybzg5Vi1UdXMwd3d6V2J0WmtBX0c0QmE1Nng0?oc=5",
+     "date": "2026-11-24T07:28:42.000Z",
+     "text": "FC Bayern Frauen: Knapper Sieg bei Oberdorf-Comeback sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "Eberl beendet Gehaltsdebatte: \"Werden Musiala stärker erleben\" - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejZsa1pscGhocUVmblpVVHhFbU1SNkh6MGZKMkdidUg4U21QUzlSdmIzbkFGbjJZSUUyMHUtNUM2VE5uZTdwb1BuYUpvdXdqNWcyRUZKSmxqTUhocUltQ0dYREpXTlctb2JKN0dHejY0bEZpMmpKbllOZXgzdmVMeTgwYlE4WGxQbnlaeU5uU2s3SHJEckp2aF8wRHZJSlphTTdiUVoxMzBRMFZYMkFn?oc=5",
+     "date": "2026-11-24T17:20:43.000Z",
+     "text": "Eberl beendet Gehaltsdebatte: \"Werden Musiala stärker erleben\" sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "FC-Bayern-Gegner OSC Lille: alte Bekannte und große Namen - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHBqaTVNcUNhYU81d1k3cHVMOXJlYU9yS01KdV9peEYyekhJdTdZVFA1QW9tZFJkR2x4SXI4S25pWDVHUlN0d0tMb2czcU1VNWc1b3kxc2NsVWpNRGw5NkwxbzU1bXZLWGVpaWp0UTUtdHVtZ0NwUzVrS3FDRjBFZGRyY2xZU09ZN04tY2lIYWFmbXhBRzhTMzFMdE1iaU91STYzQmtWdEVpclE?oc=5",
+     "date": "2026-11-24T10:26:03.000Z",
+     "text": "FC-Bayern-Gegner OSC Lille: alte Bekannte und große Namen sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "Wintersport: Ski-Weltcup in Beaver Creek kann stattfinden - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObUlBMC1yaTFabnNxMFRJYTMtSjZ0aWRaOFcxUjl4emhsbnF1TVM3NDk1SWxSU053elFkUkNIVjBjaVY0YllKbHFJQXNsaXoyR29fOGUySU9vSmNuQmJOVzFsc25CM3Bwc3lxVWVWQWpXVTBhMnBfWHRSZDlONXZYeDVjaFJmenpYSFlHaGhQZVpIb3JPNXNtSGQ5WUZ1aDNDWld0Uk51UHotUUNUQktxOXVqOXFWMDZOMmN6amlwTWRSa2ZwNFAzRGxqam5vV3FhTFE?oc=5",
+     "date": "2026-11-24T09:53:57.000Z",
+     "text": "Wintersport: Ski-Weltcup in Beaver Creek kann stattfinden sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "Gegen Lettland: Deutsche Basketballer wollen vorzeitig WM-Ticket lösen - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUHpReWxzdHAxZy1rTC1fSkRFZFl0dlpTY0pPblJxNkk5V1V6cldFeUdNd2ZGTnhkTC02T0pvS0Q3MHBtdXZQNjBWSXljMG0zVUt3MTRva1BpRkJOTXNvQU9NUEJuQmh4NTFCdnpQcFFncDloOWdYZExIWkRYQUNmcFAxYml1dF9Vcy14dkpMWHpudHYwTU5zcU42S1dMZnMzeWZUaFVYWENjY1ltZ0MyMUFvVUNaUUZhR0N6M3ZzdnBSZmpzS1BiT0w0bmdwNFhoTWZ5U0tsSWtrUGM3Z0hybDVZbjJjMEIybUMwTQ?oc=5",
+     "date": "2026-11-24T16:01:45.000Z",
+     "text": "Gegen Lettland: Deutsche Basketballer wollen vorzeitig WM-Ticket lösen sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "FIFA-Machtkampf: UEFA-Vertreter lehnen FIFA-Akteneinsicht ab - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMERIaU5RNGYtSEFTXzV0am9lVlhRUFBoeENqMF9mUEp0TkY2ZWdTQ3RCako0Ri1wYzRCQS1ZTTFRNGtzSFJjSU9ZcTF3Yk5HbHpTUWQ2OFR1QWZ6Qmtoc0NER1V4bE80MjhLR0I1VlBfVXI2WkNYUDBtdVNycGplamVZSEppa3BZZDNJTkNucjFaYXdqQ09meHFTYy1nQUthdm12cnY2bFhUc1oxbkpFa0JKMTd1SjZFZW1RSFd1T29COHA2dTN1ZThmSlI5NmJiLTZrQzA5YzBlbVpUM0owdEctN1lDQWt3Znc?oc=5",
+     "date": "2026-11-24T13:30:10.000Z",
+     "text": "FIFA-Machtkampf: UEFA-Vertreter lehnen FIFA-Akteneinsicht ab sportschau.de",
      "via": "sportschau.de"
     },
     {
@@ -1519,6 +1255,20 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0tPR21OTkFjWTZ0S0FXdk9iVHdUelVDLWE3WjMxZUQ3X19BX25yanQzOW53T0I0aTQwalRZQWZ4SV9ubHh3YXVmTzg3cnNCY25fNDV5OURSUGY5TlRHejZrRDRWNnptYnVHVFRoaENtc1NfUXMzdjBPMzZKV0tPbjJ0SEc5MHh6VEdXaXpBM0Q4Qjd5MWlIb0JUUE00eWxiSnpIUDF3?oc=5",
      "date": "2026-11-23T11:18:40.000Z",
      "text": "Jürgen Kramny bewertet die Lage beim VfB Stuttgart sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "Mainz-Torfrau Marisa Schön zum Sieg gegen Nürnberg - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEdudFIyb29ON0JtNUJjd1haSjJlRFFtUFp0dlhfbXh1Ym4yOWc0Y2p2Q2NudHluQzdaSWp4WjdEQmg5aUtkbzE4bjlqdVV2ZzRTa2d4VlR4Q05IdldFQmZ2NHl6cDhSaVdPRUNkLUs3OGJrVGthQjdmTHJBS2hiU1QyMHhzb1ZWVk9xTmN6XzZqdzNkak1ELVlGUXk4YVhYSWNNd0pLcw?oc=5",
+     "date": "2026-11-23T13:12:49.000Z",
+     "text": "Mainz-Torfrau Marisa Schön zum Sieg gegen Nürnberg sportschau.de",
+     "via": "sportschau.de"
+    },
+    {
+     "title": "Cas hebt CAF-Entscheidung auf: Senegal nach Skandal-Finale doch Afrika-Meister - sportschau.de",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQWw1WE4tcWNQQW1Yd3cyV0xBSUh3dUYwb284MFhXWDBSbDhRb1FJVy01SWc0OE1UTGptQkRnQ2lydVRseWlOZ2FrRHZnNG1FbVpxSUJiS01VeDNGTHprR0k2UTV0UWFSbDhud1B5M0FaaEVhbUd5S2pnbDBpcHQ4MTB6amJwR1ZzS3FGbU5ITHJPYXU0dHZJT21uVUlqSWpmaTExaFc3WUYyV1loa2c?oc=5",
+     "date": "2026-11-24T15:15:16.000Z",
+     "text": "Cas hebt CAF-Entscheidung auf: Senegal nach Skandal-Finale doch Afrika-Meister sportschau.de",
      "via": "sportschau.de"
     }
    ]
@@ -1533,13 +1283,6 @@
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50YU5VeXY2ZlBmR2QtU3BDbW9CYlZJQTJrY3dtYWFKVm1kWEZ6SVF2LVJmN1VEWmlLYWFyaEkyOHFJbmUtZDZtN2FGT0F0U3FWcV8xakdtbjhETkRhSkQ2SkhQTTA2eWtLUWc?oc=5",
      "date": "2026-11-23T12:40:01.000Z",
      "text": "Zakaria El Ouahdi | Spielerprofil 2026/27 | Hamburger SV SPORT1",
-     "via": "SPORT1"
-    },
-    {
-     "title": "Bundesliga heute: Bremen gegen HSV LIVE im TV, Liveticker & Livestream - SPORT1",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXU3Q0lCQmNXUzB2dFBfZnNrOHVmUWc2T3B1akxWVkwwQThjblhBYUMzRmJ2ZVZUYnN1MV9nQkdjZFBVOXlOUmVDbGNjZ0hSMUNaaFpqOWpEZXNxNnhSREJtdVFqSFVCeFBCUHh2SWs5aWxxZmxfdnBnWFphMlRlelRQc25uM0dvWjBSaUxoeEd0UUFNdGxrNWhXdHhwT1k2WktnMFRWWDRDUk9DSHhxclktS2Jubmt5?oc=5",
-     "date": "2026-11-22T16:04:00.000Z",
-     "text": "Bundesliga heute: Bremen gegen HSV LIVE im TV, Liveticker & Livestream SPORT1",
      "via": "SPORT1"
     },
     {
@@ -1578,13 +1321,6 @@
      "via": "SPORT1"
     },
     {
-     "title": "Njinmah glänzt: Werder zerlegt den HSV im Derby - SPORT1",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnBrV2pMV1NUck9xRDlwS1pkaVBJcHZDRmdVOW5COWJoV2l1Q292SXZuN0xrZHJsZGJKdDNETUV4WGs1THh6MmcyV3pQU1hlWG54OWJxTGhmbERjVW4zMjdDbjhubjJyY0R0cUhfeXVEVnFpdGhIZUtJWWFDZUl2eUlVNnBjakN0TnJoMktYZ3I5dndUT01ROWJpWFBBYlVsc3Q0d09GQXcwZFIxLW9r?oc=5",
-     "date": "2026-11-22T18:30:00.000Z",
-     "text": "Njinmah glänzt: Werder zerlegt den HSV im Derby SPORT1",
-     "via": "SPORT1"
-    },
-    {
      "title": "Nach Verletzung im Derby: Muheim fehlt HSV vorerst - SPORT1",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1ladVNnWUhPMl9Tb2kxUW1zN1l5VGNKQ1gyOXhZazBoS05QUUR6THQxb0pEUUZiU0YwelFsWGNxdGd6aGdDOHE4SDhqbnVMOFJNQkIxUGNWZzcxajE4RnhVRHRNdVMzdUJydDVBYW9BaEZ6VXFLbl9uSzJVQWROc2x3WWRQZ0VBQTFwYVJleVlyOW1tbkZUNFZzWDlwSk1XVEdIblpoQQ?oc=5",
      "date": "2026-11-23T16:58:00.000Z",
@@ -1596,6 +1332,13 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVkJ4dTdXYXZBemQ2V0E0Y2NGYkVyRTU5bzFabzBNZU92Z01YbHlYa0xGdHdVVnFKaEV5VnZ2a09uYXVHWDNURU1lU0NFb1hTYkdvemhZSnJTaXpBTU03dDVuck9tVnU3M1RJMjQ0VzZMMHkxWk50c1loa2ZRMDZ3dmNBelB2MGpEcE9MNnE0WFdQYUdTVlFMQkJZU25mQkZEdXc?oc=5",
      "date": "2026-11-23T13:16:00.000Z",
      "text": "Derbyheld Njinmah Vater eines Sohnes geworden SPORT1",
+     "via": "SPORT1"
+    },
+    {
+     "title": "Spendenziel 150.000 Euro: Ansah startet Crowdfunding-Kampagne - SPORT1",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUFhpbVM3NGp5Zm1MNVFmblc0NkZYd2N5ZFNQWEowOG1oSHZxZ01nNURkSlJLZDVvV001Nm1HajZaOHNoV0xSRm5Dd0ZuMWViT0RuUkhYMjUyWmdtdjVTRkdWRlJXMnd1Q0xGU0c4VG1QUng2Wl9xMjZIbWRsSE9WT3pYR2pBdEM4ckg1a2t1OUdDQkNrWkZZakNsUXc1N095ZjA2QTZjcnRhRURuSDZj?oc=5",
+     "date": "2026-11-24T12:53:00.000Z",
+     "text": "Spendenziel 150.000 Euro: Ansah startet Crowdfunding-Kampagne SPORT1",
      "via": "SPORT1"
     },
     {
@@ -1615,19 +1358,19 @@
     {
      "title": "Darf der FC Bayern Musialas Gehalt kürzen?",
      "url": "https://www.sportschau.de/regional/br/br-debatte-um-jamal-musiala-darf-der-fc-bayern-sein-gehalt-kuerzen-102.html",
-     "date": "2026-11-23T17:30:07.000Z",
+     "date": "2026-11-24T12:16:25.000Z",
      "text": "Jamal Musiala steht nach seiner Erkrankung im Zentrum einer hitzigen Debatte: Die FC-Bayern-Bosse sprechen über mögliche Gehaltskürzung. Aber wäre das überhaupt erlaubt?"
     },
     {
-     "title": "Wieder Absence bei Musiala - starke Kritik an Umgang des FCB",
-     "url": "https://www.sportschau.de/regional/br/br-wieder-absence-bei-musiala-starke-kritik-an-umgang-des-fcb-102.html",
-     "date": "2026-11-22T13:16:54.000Z",
-     "text": "Der Umgang des FC Bayern mit Jamal Musialas gesundheitlichen Problemen sorgt für immer mehr Kritik. Neben internationalen Stars meldet sich auch die Spielergewerkschaft FIFPRO zu Wort."
+     "title": "Eintracht Frankfurt dank Malocher-Fußball im Aufwind",
+     "url": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-dank-malocher-fussball-im-aufwind-100.html",
+     "date": "2026-11-24T11:00:43.000Z",
+     "text": "Mit viel Energie, viel Qualität und ein wenig Glück schlägt Eintracht Frankfurt die TSG Hoffenheim und klopft oben an. Adi Hütter sieht teilweise Adi-Hütter-Fußball, die Entwicklung muss aber weitergehen."
     },
     {
      "title": "Union im Tabellenkeller - Die Fassade des Zusammenhalts bröckelt",
      "url": "https://www.sportschau.de/regional/rbb/rbb-union-berlin-im-tabellenkeller-fassade-des-zusammenhalts-broeckelt-100.html",
-     "date": "2026-11-23T20:39:08.000Z",
+     "date": "2026-11-24T15:57:52.000Z",
      "text": "Union Berlin steckt mittendrin im Tabellenkeller. Neben Manager Heldt wird auch über Trainer Lustrinelli diskutiert. Der übt nun harsche Kritik an seinen Spielern und befeuert Union-untypische Zustände."
     },
     {
@@ -1641,132 +1384,6 @@
      "url": "https://www.sportschau.de/regional/wdr/wdr-bayer-04-bekommt-zur-richtigen-zeit-die-kurve-100.html",
      "date": "2026-11-24T06:53:00.000Z",
      "text": "Gerade rechtzeitig vor dem Jahresendspurt kommt Bayer 04 Leverkusen in Form. In der Europa League soll der nächste Sieg folgen."
-    },
-    {
-     "title": "Das Meisterrennen der Bundesliga: Spannend wie lange nicht?",
-     "url": "https://www.sportschau.de/kane-verletzt-wirbel-um-musiala-ist-dortmunds-chance,bundesliga-update-spieltag-10-100.html",
-     "date": "2026-11-22T22:09:02.000Z",
-     "text": "Harry Kane fällt monatelang aus, Borussia Dortmund hat die Tabellenführung übernommen. Dahinter lauern Leipzig und Freiburg. Steht uns die spannendste Bundesliga-Saison seit langem bevor?"
-    },
-    {
-     "title": "Köln feiert Überraschungspunkt in München",
-     "url": "https://www.sportschau.de/fussball/bundesliga/koeln-feiert-ueberraschungspunkt-in-muenchen,video-bundesliga-bayern-muenchen-koeln-zusammenfassung-100.html",
-     "date": "2026-11-22T23:00:18.000Z",
-     "text": "Ein personell geschwächter FC Bayern strauchelt zu Hause und kommt gegen den 1. FC Köln nicht über ein 1:1 hinaus. Der Rekordmeister verliert nicht nur zwei Punkte, sondern auch weitere Leistungsträger."
-    },
-    {
-     "title": "Bremen fegt über den HSV im Nordderby",
-     "url": "https://www.sportschau.de/fussball/bundesliga/bremen-fegt-ueber-hsv-im-nordderby,video-bundesliga-bremen-hamburg-zusammenfassung-100.html",
-     "date": "2026-11-22T23:00:28.000Z",
-     "text": "Werder Bremen reitet weiter auf der Erfolgswelle. Auch der Erzrivale aus Hamburg kann die Bremer im Nordderby nicht aufhalten."
-    },
-    {
-     "title": "Dortmund nutzt Batz' und Bayerns Patzer",
-     "url": "https://www.sportschau.de/fussball/bundesliga/dortmund-nutzt-batz-und-bayerns-patzer,video-bundesliga-gladbach-dortmund-zusammenfassung-100.html",
-     "date": "2026-11-22T23:00:02.000Z",
-     "text": "Borussia Dortmund setzt sich in der Bundesliga mit 1:0 bei Borussia Mönchengladbach durch. Ein harmlos wirkender Schuss sorgt für die Entscheidung und beschert dem BVB die Tabellenführung."
-    },
-    {
-     "title": "Leverkusen fertigt überfordertes Paderborn ab",
-     "url": "https://www.sportschau.de/fussball/bundesliga/leverkusen-fertigt-ueberfordertes-paderborn-ab,video-bundesliga-leverkusen-paderborn-zusammenfassung-100.html",
-     "date": "2026-11-22T23:00:23.000Z",
-     "text": "Bayer 04 Leverkusen sichert sich drei Punkte gegen den SC Paderborn. Matchwinner Afonso Moreira eröffnete beim 4:0-Heimsieg den Torreigen mit seinem ersten Bundesliga-Tordebüt."
-    },
-    {
-     "title": "Frankfurt siegt dank Atubolu gegen Hoffenheim",
-     "url": "https://www.sportschau.de/fussball/bundesliga/frankfurt-siegt-dank-atubolu-gegen-hoffenheim,video-bundesliga-frankfurt-hoffenheim-zusammenfassung-100.html",
-     "date": "2026-11-22T23:00:00.000Z",
-     "text": "Eintracht Frankfurt und die TSG Hoffenheim liefern sich eine torschussreiche Partie bei der gleich zwei Elfmeter ungenutzt bleiben. Am Ende trifft nur Jonathan Burkardt und sichert den Frankfurtern einen knappen Sieg."
-    },
-    {
-     "title": "Union bricht gegen Leipzig nach der Pause ein",
-     "url": "https://www.sportschau.de/fussball/bundesliga/union-bricht-gegen-leipzig-nach-der-pause-ein,video-bundesliga-union-berlin-leipzig-zusammenfassung-100.html",
-     "date": "2026-11-22T23:00:20.000Z",
-     "text": "RB Leipzig feiert einen deutlichen 5:1-Erfolg gegen Union Berlin. Die Köpenicker halten zunächst gut dagegen, doch nach der Pause dreht Leipzig auf und erzielt vier weitere Treffer."
-    },
-    {
-     "title": "Matanovic trifft mutige Elversberger ins Herz",
-     "url": "https://www.sportschau.de/fussball/bundesliga/matanovic-trifft-mutige-elversberger-ins-herz,video-bundesliga-elversberg-freiburg-zusammenfassung-100.html",
-     "date": "2026-11-22T23:00:36.000Z",
-     "text": "Der SC Freiburg feiert einen knappen Auswärtssieg bei der SV Elversberg. In einer ausgeglichenen Partie reicht ein Moment der Unaufmerksamkeit in der Elversberger Defensive, den Torjäger Igor Matanovic eiskalt ausnutzt."
-    },
-    {
-     "title": "Stuttgart und Schalke verpassen die Entscheidung",
-     "url": "https://www.sportschau.de/fussball/bundesliga/stuttgart-und-schalke-verpassen-die-entscheidung,video-bundesliga-schalke-stuttgart-zusammenfassung-100.html",
-     "date": "2026-11-22T23:00:33.000Z",
-     "text": "Der FC Schalke 04 wartet in dieser Bundesliga-Saison weiter auf das erste Heimtor. Auch gegen den VfB Stuttgart bleibt S04 ohne Treffer. Allerdings kann auch der VfB seine Chancen nicht nutzen."
-    },
-    {
-     "title": "Gregoritsch führt Augsburg zum Befreiungsschlag",
-     "url": "https://www.sportschau.de/fussball/bundesliga/gregoritsch-fuehrt-augsburg-zum-befreiungsschlag,video-bundesliga-augsburg-mainz-zusammenfassung-100.html",
-     "date": "2026-11-22T23:00:25.000Z",
-     "text": "Der FC Augsburg hat im Abstiegskampf der Fußball-Bundesliga dank Michael Gregoritsch einen wichtigen Heimsieg eingefahren. Die Gäste aus Mainz halfen dabei kräftig mit."
-    },
-    {
-     "title": "Werder Bremen hämmert den HSV im Nordderby weg",
-     "url": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
-     "date": "2026-11-22T23:00:04.000Z",
-     "text": "Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen Erfolg im Derby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe."
-    },
-    {
-     "title": "Bei Remis gegen Köln: Bayerns Kane und Olise verletzt ausgewechselt",
-     "url": "https://www.sportschau.de/fussball/bundesliga/koeln-ueberrascht-in-muenchen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
-     "date": "2026-11-22T23:00:07.000Z",
-     "text": "Dicke Überraschung am Freitagabend: Mit einer couragierten Leistung hat der 1. FC Köln beim FC Bayern ein Remis erkämpft. Bayerns Starspieler Kane und Olise mussten früh verletzt raus. Den Ballon d'Or-Gewinner traf es schwer."
-    },
-    {
-     "title": "BVB springt gegen Gladbach an die Spitze der Bundesliga-Tabelle",
-     "url": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
-     "date": "2026-11-22T23:00:08.000Z",
-     "text": "Der BVB gewinnt 1:0 in Gladbach und übernimmt Platz eins. Dem starken Torhüter Daniel Batz unterläuft der entscheidende Fehler und Felix Nmecha trifft erneut."
-    },
-    {
-     "title": "Augsburger Befreiungsschlag verschärft Krise von Mainz 05",
-     "url": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
-     "date": "2026-11-22T23:00:09.000Z",
-     "text": "Der FC Augsburg hat in der Bundesliga trotz einer Roten Karte erstmals seit dem 2. Spieltag wieder gewonnen und damit die Krise des 1. FSV Mainz 05 weiter verschärft."
-    },
-    {
-     "title": "Wie verhext: Schalke trifft auch gegen Stuttgart zu Hause das Tor nicht",
-     "url": "https://www.sportschau.de/fussball/bundesliga/wie-verhext-schalke-trifft-zu-hause-tor-nicht,spielbericht-schalke-04-vfb-stuttgart-100.html",
-     "date": "2026-11-22T23:00:11.000Z",
-     "text": "Schalke 04 bleibt zu Hause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt."
-    },
-    {
-     "title": "Atubolu rettet Frankfurt gegen Hoffenheim den Jubiläumssieg",
-     "url": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
-     "date": "2026-11-22T23:00:12.000Z",
-     "text": "Eine hochklassige erste Halbzeit reichte Eintracht Frankfurt zu einem besonderen Sieg gegen die TSG Hoffenheim. Überragend war SGE-Torwart Noah Atubolu."
-    },
-    {
-     "title": "Leipzigs Offensive rollt auch bei Union Berlin",
-     "url": "https://www.sportschau.de/fussball/bundesliga/leipzigs-offensive-rollt-auch-bei-union-berlin,spielbericht-union-berlin-rb-leipzig-104.html",
-     "date": "2026-11-22T23:00:13.000Z",
-     "text": "RB Leipzig macht bei Union Berlin genauso weiter wie vor der Länderspielpause und fährt den nächsten hohen Sieg ein."
-    },
-    {
-     "title": "Freiburg siegt in Elversberg und bleibt oben dran",
-     "url": "https://www.sportschau.de/fussball/bundesliga/freiburg-siegt-in-elversberg-und-bleibt-oben-dran,spielbericht-sv-elversberg-sc-freiburg-100.html",
-     "date": "2026-11-22T23:00:15.000Z",
-     "text": "Der SC Freiburg hat in der Fußball-Bundesliga einen Sieg bei der SV Elversberg eingefahren und ist als Tabellendritter weiter oben mit dabei."
-    },
-    {
-     "title": "Bayer Leverkusen schießt Paderborn ab",
-     "url": "https://www.sportschau.de/regional/wdr/wdr-bayer-leverkusen-schiesst-paderborn-ab-100.html",
-     "date": "2026-11-22T23:00:16.000Z",
-     "text": "Bayer 04 Leverkusen hat gegen den SC Paderborn einen deutlichen Heimsieg in der Fußball-Bundesliga verbucht."
-    },
-    {
-     "title": "Bundesliga: Schalkes Torblockade geht auch gegen Stuttgart weiter",
-     "url": "https://www.sportschau.de/regional/wdr/wdr-aus-schalke-04-wird-schalke-00-100.html",
-     "date": "2026-11-22T11:56:25.000Z",
-     "text": "Schalkes Torblockade hat Bestand. Auch gegen Stuttgart gelingt das erste Heimtor nicht. Der Grund ist die große Abschlussschwäche."
-    },
-    {
-     "title": "Eintracht Frankfurt besteht die Reifeprüfung",
-     "url": "https://www.sportschau.de/regional/hr/hr-analyse-eintracht-frankfurt-besteht-reifepruefung-gegen-hoffenheim-100.html",
-     "date": "2026-11-22T10:34:57.000Z",
-     "text": "Gegen Hoffenheim bleibt Eintracht Frankfurt in den entscheidenden Momenten cool und fährt, auch dank Keeper Noah Atubolu, einen Heimsieg ein."
     }
    ]
   },
@@ -1783,11 +1400,25 @@
      "via": "NDR.de"
     },
     {
+     "title": "Mutiger Auftritt nicht belohnt: HSV-Frauen verlieren in Frankfurt - t-online – Hamburg",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdlVUaDhPRXg4dnhoZkpIRWQxcVZYY1d0RmVYd2hEalRtTmRmd2E4RktfWlBKMjlLRV9ObTNDbHl6Q2h0eDl3Y19SV3BJdTNWVEdyZFBOY3k5TTM0TEpyVTlaTk1GUkFXZkRFR1BabklzWlBiWEMweTlLbTJsZGZmX05PZnVpQW43ekZqMkppVDUxRERTWG5aUy1EU3RoSGZ5VFVOeUxwTFVaU2lFckotcDBuNUpOUGhSbmpIV0lJak5NSWZMTDR1Mg?oc=5",
+     "date": "2026-11-22T17:40:22.000Z",
+     "text": "Mutiger Auftritt nicht belohnt: HSV-Frauen verlieren in Frankfurt t-online – Hamburg",
+     "via": "t-online – Hamburg"
+    },
+    {
      "title": "Misslungenes Comeback von Trainer Dreke: SVHU-Frauen verlieren 2:6 beim HSV II - Kieler Nachrichten",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYVVTRHA4MmNVWU00X1hjUXBKVGxVSlBRcGhHSHBtUWRUbXFnZm1KYWw0SkVIZVQxYmZKUXlzY0FGcjRjM2htT3NWdlUyZ1FhN0lPQ0RMNkcxZUhCSGVqcHRwLUpPUHQ5RGxmaEV0TEtFVjl0cHBqdUJzSXViY3JIUFFlMTdFMHFsNkQ2cjBRTUtUMVRlc1VmSGs3S2c5bUd3SkRRNmFRMnh1cERUQXFrbkJlLUdtaVFseExmRFpqc0RyYzFfYlM5QTlMaG0yZEctcU1STTI0d0RTSmhsYnd6VldaUdIB_wFBVV95cUxQdHZKZ3ljcWhiXzlVYkVLSnI4MkhuRU9HdUh2Rmd1cTFobXRBQUM3MzBReUNYQ1Vpdlg1bHRRR3JCRDJtTTlJOWV6aER4VFczbHJ6c29ILUpUOGowdkVpWkRkRTk1S09FRmJLUHZsdVd3Rk5aNmxkeW1DUFJrSEdoSWlUUWY2NmRyVXFZMmhkeGNnWWtESHBxYTBFNkw4b3RBczIyaElrY2hGclZmV3JDOFByalJwSmNLQkVmelJNUDJ2ZzFXMURHNTI5SnBoZ3ZWeG5LUjhhSUdGX0lnZ2FSTjdocHFFSmtxYWUzSzlRSlFoV1F3YUhfOVVZbmJGNVk?oc=5",
      "date": "2026-11-23T12:33:52.000Z",
      "text": "Misslungenes Comeback von Trainer Dreke: SVHU-Frauen verlieren 2:6 beim HSV II Kieler Nachrichten",
      "via": "Kieler Nachrichten"
+    },
+    {
+     "title": "HSV-Frauen kassieren späte Niederlage in Frankfurt – neue Verletzungssorgen - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNmNkQ21BV25MejdoQWlqXzFrRGx2TmRmQ3VzVG1hT1NmNUtGWVpGV2ExNk9HTmZMNkpJTGFYYTB0S2g5OGJQelVlR2Y4czAyclZLN2xiVmtHS0NsbE1neDBFdElfMmxIVW4zR285djdtTDBaclpRLWJaY3ZheUFiXzRzakt4ZVZEbmZSamJDTFgtRkFKQXZzd3NwY3V5VEQ4ZHltOWpXTWN2UVI5bG8yVmZVMVZBSVNrTjIxTVlXRW1uUVdOQjZDS0NKU0U?oc=5",
+     "date": "2026-11-21T13:14:13.000Z",
+     "text": "HSV-Frauen kassieren späte Niederlage in Frankfurt – neue Verletzungssorgen Hamburger Abendblatt",
+     "via": "Hamburger Abendblatt"
     },
     {
      "title": "Bittere Pleite! HSV-Frauen verlieren erneut – Spielerin unter Tränen ausgewechselt - MOPO",
@@ -1811,6 +1442,13 @@
      "via": "Weser Kurier"
     },
     {
+     "title": "HSV-Frauen kassieren nächste Pleite – Spielerin muss unter Tränen raus - HSV24",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWjZuN3QyblVzb3IyVGFZck12SWlWd3JFNEVQLXlOcVRPXzUydVJBWEd6RVFQYlIyaWJ6NWk4Wkt2UEdjbXg5UXMwNzFtWEVLaEkyTVN3TXhTaGhrLV9fZ0puclNETG1iUnE3NjN4LU9UbnZCbThNU2lIdlZCLUpJUDlteFRUU3NmOENZQUVoOGVmaGRYSnozOWd4c1J2eTkxVmUwVTUxVzdOajc5?oc=5",
+     "date": "2026-11-21T13:13:01.000Z",
+     "text": "HSV-Frauen kassieren nächste Pleite – Spielerin muss unter Tränen raus HSV24",
+     "via": "HSV24"
+    },
+    {
      "title": "HSV kommt beim Nordderby in Bremen unter die Räder – Sorgen um Leistungsträger - t-online – Hamburg",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVm14N3V0a0xUa0JNbGxvZ0VzNlZCQWNNV0lTa0dkOXBPU3JHb2c4N0JueWtlcEdrWmI4Q1pHWVlIaE9LbER1S2xPSFdQVFBXVEZwTXQ4NTViSjlqZFNfYmJpMHZqTGhZc2xjVzJVUko2U25GYTZvbGlqQmNpRnFMZVRWcEllZ1FobE5kZnpRWmxLWHJaQUp0YlNfRnFKS0xKdEE1c3h4ZjZXZU1XQXQ1ZTZ6WGtLZjVoT1JJX0RnbXNpSFNrc084bkZR?oc=5",
      "date": "2026-11-22T08:00:00.000Z",
@@ -1818,11 +1456,18 @@
      "via": "t-online – Hamburg"
     },
     {
-     "title": "HSV-Frauen verlieren in Frankfurt - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdl8tM293SVRleExDalhlYThWb25GNUpPQUQ3c0lfRUdGaDU4WFBUdjdreExHbWVrajJicVY4Q1I4aU1HeUtWVDJ6ODJPZGtJcXVFOFlvTjBPbUZ3cGJQY2lEdWxxZVc0SlFlVlRiamxKcHM4Y0xOTW1JTDFYcG11ZzVmWF9NN1RNZ19odjA3RQ?oc=5",
-     "date": "2026-11-21T13:13:30.000Z",
-     "text": "HSV-Frauen verlieren in Frankfurt NDR.de",
-     "via": "NDR.de"
+     "title": "„Fußball ist manchmal so ein Kacksport!“ – Stimmen zur 3:4-Niederlage gegen HSV II - Nordwest-Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSGtpZ253UDU2a3RNQUt2bHBpVS1UOTlRWGtDM2NmbmtGbVJLQXRjdmZ6WDZ4MFNvMXNqQmhxUzVvSzRtT3dWYzhOYnFtdG5qanhJTHJMcjl2SU1PZXFQOHBhX0JoN1ZEUWJrdDJ6dUpfX2hscUpGZW5JMEVTQnJXRWsxdElQaEdsTVBRVTZ1TjBXRlZvSmFka0liSlVkZl9FNjE0cUE0WVJTU1pIdHRsclhtWlVyQ0FndmFrZF9HMzlBLVNab3pBa2pjOUVBUjREc3pIYTc3WWtIdHRSVEZkc2VkUkZyNzg?oc=5",
+     "date": "2026-11-22T19:19:48.000Z",
+     "text": "„Fußball ist manchmal so ein Kacksport!“ – Stimmen zur 3:4-Niederlage gegen HSV II Nordwest-Zeitung",
+     "via": "Nordwest-Zeitung"
+    },
+    {
+     "title": "Heimspiel der HSV-Frauen: Torfrau Barbara Renzmann-Schmidt fehlt bis Jahresende - Rhein-Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenk3OWNuQ3NtRkZReTdZTlFKWGp5U25Fakw2a1ZOMURUeDctMWN1Z2VBTHNQUDlMT2Fub2xGUXpJMlhsUzBMeVRzTVQtOGV2ay1JcUhrb3UySXlXWk5MUkdITHRHREVuZEFpQjhMRFVSVjdUOVVoYk81cWFXaXdMRUhRSXNsamdEX2lST0tNeE1YS2RWeXhyX0RYMlh0LWpOTk5aaFVvWU10b1NkYkppV0Y0NTJXcWM5bFQwZ0xZZVdNcEtyTHNUQg?oc=5",
+     "date": "2026-11-20T06:10:00.000Z",
+     "text": "Heimspiel der HSV-Frauen: Torfrau Barbara Renzmann-Schmidt fehlt bis Jahresende Rhein-Zeitung",
+     "via": "Rhein-Zeitung"
     }
    ]
   }

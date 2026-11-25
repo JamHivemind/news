@@ -74,10 +74,6 @@
  "stocks": {
   "NVDA": [
    [
-    "2026-08-24",
-    208.48
-   ],
-   [
     "2026-08-25",
     213.05
    ],
@@ -332,13 +328,13 @@
    [
     "2026-11-23",
     165.05
+   ],
+   [
+    "2026-11-24",
+    155.38
    ]
   ],
   "MSFT": [
-   [
-    "2026-08-24",
-    487.31
-   ],
    [
     "2026-08-25",
     491.71
@@ -594,13 +590,13 @@
    [
     "2026-11-23",
     492.5
+   ],
+   [
+    "2026-11-24",
+    496.13
    ]
   ],
   "GOOGL": [
-   [
-    "2026-08-24",
-    348.06
-   ],
    [
     "2026-08-25",
     346.96
@@ -856,13 +852,13 @@
    [
     "2026-11-23",
     282.1
+   ],
+   [
+    "2026-11-24",
+    279.05
    ]
   ],
   "META": [
-   [
-    "2026-08-24",
-    559.02
-   ],
    [
     "2026-08-25",
     570.05
@@ -1118,6 +1114,10 @@
    [
     "2026-11-23",
     597.6
+   ],
+   [
+    "2026-11-24",
+    589.82
    ]
   ]
  },
@@ -1130,41 +1130,41 @@
  "hf": [
   {
    "id": "thinkingmachines/Inkling-2-Mini",
-   "likes": 5604,
+   "likes": 5797,
    "downloads": 69042,
    "task": "image-text-to-text"
   },
   {
    "id": "unsloth/Inkling-2-Mini-GGUF",
-   "likes": 1167,
+   "likes": 1259,
    "downloads": 1913407,
    "task": "image-text-to-text"
   },
   {
    "id": "inworld/voice-isolator",
-   "likes": 762,
+   "likes": 819,
    "downloads": 12733,
    "task": "audio-to-audio"
   },
   {
    "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-   "likes": 691,
+   "likes": 759,
    "downloads": 573775,
    "task": "image-text-to-text"
   },
   {
    "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 1049,
+   "likes": 1074,
    "downloads": 3529,
    "task": "image-text-to-text"
   },
   {
-   "id": "higurashi-ai/Haru-4B",
-   "likes": 946,
-   "downloads": 9575,
-   "task": "audio-to-audio"
+   "id": "SulphurAI/Sulphur-3",
+   "likes": 931,
+   "downloads": 160965,
+   "task": ""
   }
  ],
- "updated": "2026-11-24T10:21:58.707Z",
+ "updated": "2026-11-25T02:38:02.412Z",
  "updatedDay": "2026-11-06"
 }
