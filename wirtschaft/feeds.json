@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-25T05:23:30.656Z",
+ "fetched": "2026-11-25T08:47:25.965Z",
  "hours": 48,
  "sources": [
   {
@@ -7,16 +7,34 @@
    "ok": true,
    "items": [
     {
+     "title": "Deutsche Industrie: Wo es hakt und wo es rund läuft",
+     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftswachstum-branchen-100.html",
+     "date": "2026-11-25T05:28:36.000Z",
+     "text": "Die Aussichten für die Wirtschaft haben sich zuletzt verbessert. Doch es gibt große Unterschiede: Während in manchen Branchen Firmen ums Überleben kämpfen, läuft das Geschäft anderswo prächtig. Ein Überblick von Axel John."
+    },
+    {
+     "title": "Ifo-Index steigt: \"Erholung der deutschen Wirtschaft kommt voran\"",
+     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html",
+     "date": "2026-11-24T10:28:45.000Z",
+     "text": "In der deutschen Wirtschaft nimmt der Aufschwung weiter Fahrt auf: Die Stimmung hat sich im November den siebten Monat in Folge verbessert. Der ifo-Index erreichte sogar den höchsten Stand seit dem Frühjahr 2023."
+    },
+    {
+     "title": "US-Gericht spricht Huawei wegen Betrugs schuldig",
+     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/huawei-geldwaesche-us-gericht-urteil-100.html",
+     "date": "2026-11-25T08:25:40.000Z",
+     "text": "Der chinesische Technologiekonzern Huawei ist in den USA in einem jahrelangen Strafverfahren schuldig gesprochen worden. Eine Jury in Brooklyn befand das Unternehmen in zehn von zwölf Anklagepunkten für schuldig."
+    },
+    {
+     "title": "US-Medienberichte: Trump plant wohl neue Zölle - auch gegen die EU",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html",
+     "date": "2026-11-25T04:08:29.000Z",
+     "text": "Die US-Regierung bereitet offenbar neue Zölle gegenüber China, der EU und weiteren Ländern vor. Der Schritt erfolgt, nachdem die Zölle vom Supreme Court als illegal eingestuft wurden."
+    },
+    {
      "title": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
      "date": "2026-11-24T20:17:10.000Z",
      "text": "Huang ist zurück als Chef von Nvidia. Doch die Krise ist nicht ausgestanden. Der US-Kongress fordert Antworten. Und auch für Trump könnte der Fall Konsequenzen haben. Von A. Herbst."
-    },
-    {
-     "title": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
-     "date": "2026-11-24T17:36:29.000Z",
-     "text": "Ist der Kurssprung der Nvidia-Aktie wegen der Rückkehr von Konzernchef Huang schon wieder abgehakt? Heute mehren sich jedenfalls die Zweifel. Und nicht nur das Papier des US-Chipkonzerns rutscht ab."
     },
     {
      "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
@@ -25,16 +43,16 @@
      "text": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profitiert hat davon offenbar auch US-Präsident Trump - der sich zuvor für Huang eingesetzt hatte."
     },
     {
-     "title": "Nvidia hält die Märkte in Atem",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html",
-     "date": "2026-11-24T14:01:35.000Z",
-     "text": "Nach der gestrigen Rally gehen an den Aktienmärkten Zweifel um. Die plötzliche Rückkehr von Nvidia-Chef Jensen Huang hat nur wenige Probleme gelöst - und neue Fragen aufgeworfen. Von D. Landmesser."
-    },
-    {
      "title": "Rückkehr von Nvidia-Chef: \"Nie dagewesenes Verwischen von Grenzen\"",
      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-trump-100.html",
      "date": "2026-11-24T07:55:06.000Z",
      "text": "Eine Rückkehr von Jensen Huang an die Spitze des Chipherstellers Nvidia haben die Wenigsten erwartet. Die Suche nach den Gründen des Comebacks führt bis zur Spitze der US-Regierung. Das kritisieren nicht nur die Demokraten. Von Antje Sieb."
+    },
+    {
+     "title": "Nvidia hält die Märkte in Atem",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html",
+     "date": "2026-11-24T14:01:35.000Z",
+     "text": "Nach der gestrigen Rally gehen an den Aktienmärkten Zweifel um. Die plötzliche Rückkehr von Nvidia-Chef Jensen Huang hat nur wenige Probleme gelöst - und neue Fragen aufgeworfen. Von D. Landmesser."
     },
     {
      "title": "Nvidia-Skandal: US-Regierung setzt Megaspeed auf schwarze Liste",
@@ -43,28 +61,40 @@
      "text": "Die Firma Megaspeed erlangte innerhalb kurzer Zeit weltweite Aufmerksamkeit. Grund war die Affäre von Nvidia-Chef Huang mit einer früheren Managerin des Unternehmens, die der Spionage verdächtigt wird. Nun landete Megaspeed auf einer US-Sperrliste."
     },
     {
-     "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
-     "url": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
-     "date": "2026-11-23T19:07:24.000Z",
-     "text": "Dieser Rücktritt war von kurzer Dauer: Jensen Huang soll zurück an die Spitze des US-Konzerns Nvidia. Präsident Trump rühmt sich damit, Einfluss genommen zu haben. Doch das könnte noch Ärger geben."
-    },
-    {
-     "title": "Nvidia setzt Jensen Huang wieder als Chef ein",
-     "url": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
-     "date": "2026-11-23T15:18:29.000Z",
-     "text": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Tagen wegen eines Spionageskandals zurückgetreten."
-    },
-    {
      "title": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html",
      "date": "2026-11-23T09:56:20.000Z",
      "text": "Alice Huang, Geliebte des ehemaligen Nvidia-Chefs, hatte offenbar mehr als ein Jahr lang Kontakt zu einem Mitarbeiter des chinesischen Geheimdienstes. Die Chinesin steht im Mittelpunkt des Skandals um den US-Chipkonzern."
     },
     {
-     "title": "Ifo-Index steigt: \"Erholung der deutschen Wirtschaft kommt voran\"",
-     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html",
-     "date": "2026-11-24T10:28:45.000Z",
-     "text": "In der deutschen Wirtschaft nimmt der Aufschwung weiter Fahrt auf: Die Stimmung hat sich im November den siebten Monat in Folge verbessert. Der ifo-Index erreichte sogar den höchsten Stand seit dem Frühjahr 2023."
+     "title": "Verbraucherschützer haben die smarte Brille im Blick",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/smart-glasses-klage-verbraucherschutz-100.html",
+     "date": "2026-11-24T19:06:34.000Z",
+     "text": "Verbraucherschützer gehen juristisch gegen KI-Brillen von Meta und Ray-Ban vor. Der Vorwurf: Mit smarten Brillen lassen sich Fotos und Videos aufnehmen, ohne dass andere Menschen das bemerken. Auch Nutzern könnten Bußgelder drohen. Von Jens Eberl."
+    },
+    {
+     "title": "Steinmeier appelliert an Wirtschaft: Chancen in Afrika nutzen",
+     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/steinmeier-deutsch-afrikanischer-wirtschaftsgipfel-100.html",
+     "date": "2026-11-24T17:21:31.000Z",
+     "text": "Bisher gehen nur 1,8 Prozent der deutschen Exporte nach Afrika. Dabei leben auf dem Kontinent 1,6 Milliarden Menschen. Von \"ungenutzten wirtschaftlichen Chancen\" spricht Bundespräsident Steinmeier in Ghana."
+    },
+    {
+     "title": "Marktbericht: DAX vor holprigem Start",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
+     "date": "2026-11-25T06:28:06.000Z",
+     "text": "Das Beben in der Technologiebranche ist noch nicht ausgestanden. In Asien fallen die Kurse, auch wegen neuer Zollsorgen. Diese könnten auch dem DAX zum Handelsstart zusetzen."
+    },
+    {
+     "title": "Wirtschaft vor acht vom 24.11.2026",
+     "url": "https://www.tagesschau.de/video/video-1689280.html",
+     "date": "2026-11-24T19:04:41.000Z",
+     "text": "Wirtschaft vor acht vom 24.11.2026"
+    },
+    {
+     "title": "Update Wirtschaft vom 24.11.2026",
+     "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1688878.html",
+     "date": "2026-11-24T08:47:49.000Z",
+     "text": "Update Wirtschaft vom 24.11.2026"
     },
     {
      "title": "Wie das VW-Vorzeigewerk Zwickau in die Krise geriet",
@@ -79,28 +109,16 @@
      "text": "Mitten in der tiefsten Krise der Konzerngeschichte startet heute die Tarifrunde für rund 120.000 Volkswagen-Beschäftigte. Das Management will Kosten senken, die IG Metall wehrt sich gegen weitere Einbußen. Von T. Hildebrandt."
     },
     {
-     "title": "\"GTA VI\": Arbeitskampf hinter dem größten Videospiel der Welt",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/gta-6-104.html",
-     "date": "2026-11-24T13:42:43.000Z",
-     "text": "Elf Jahre arbeitete Jordan Garland für das \"GTA\"-Studio Rockstar Games, dann wurde er plötzlich entlassen. Als Grund vermutet er seine Mitgliedschaft in einer Gewerkschaft. Das Unternehmen hält dagegen. Von Ilyass Alaoui."
-    },
-    {
      "title": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
      "date": "2026-11-23T20:11:45.000Z",
      "text": "Die Finanzierung des Stromspar-Checks ist für weitere drei Jahre gesichert. Damit können sich Haushalte mit geringem Einkommen kostenlos beraten lassen und Zuschüsse bekommen. Die wichtigsten Fragen und Antworten."
     },
     {
-     "title": "Wirtschaft vor acht vom 24.11.2026",
-     "url": "https://www.tagesschau.de/video/video-1689280.html",
-     "date": "2026-11-24T19:04:41.000Z",
-     "text": "Wirtschaft vor acht vom 24.11.2026"
-    },
-    {
-     "title": "Update Wirtschaft vom 24.11.2026",
-     "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1688878.html",
-     "date": "2026-11-24T08:47:49.000Z",
-     "text": "Update Wirtschaft vom 24.11.2026"
+     "title": "\"GTA VI\": Arbeitskampf hinter dem größten Videospiel der Welt",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/gta-6-104.html",
+     "date": "2026-11-24T13:42:43.000Z",
+     "text": "Elf Jahre arbeitete Jordan Garland für das \"GTA\"-Studio Rockstar Games, dann wurde er plötzlich entlassen. Als Grund vermutet er seine Mitgliedschaft in einer Gewerkschaft. Das Unternehmen hält dagegen. Von Ilyass Alaoui."
     },
     {
      "title": "Nachfrage nach MINT-Fachkräften steigt wieder",
@@ -119,30 +137,6 @@
      "url": "https://www.tagesschau.de/wissen/ki-letzte-erfindung-der-menschheit-100.html",
      "date": "2026-11-23T14:42:41.000Z",
      "text": "Wie groß sind die Gefahren Künstlicher Intelligenz? Eine neue ARD-Dokumentation zeigt, wie gegensätzlich die Positionen von KI-Experten sind - auch bei Wissenschaftlern, die der Technologie den Weg bereitet haben. Von Philipp Grüll."
-    },
-    {
-     "title": "Welche Chancen und Risiken KI bei Bewerbungen bietet",
-     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bewerbung-mit-ki-chancen-risiken-100.html",
-     "date": "2026-11-23T05:31:19.000Z",
-     "text": "Sowohl Bewerber als auch Unternehmen nutzen KI im Bewerbungsverfahren. So könnten sich in Zukunft Bewerbungsverfahren stark verändern. Doch besonders für die Firmen gelten dabei strenge Vorschriften. Von Max Ortmann."
-    },
-    {
-     "title": "Neue Warnstreiks in Metall- und Elektroindustrie angelaufen",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html",
-     "date": "2026-11-23T06:48:24.000Z",
-     "text": "In der Metall- und Elektroindustrie in Norddeutschland läuft seit der Nacht der nächste Warnstreik. Vielerorts sind die Tarifverhandlungen festgefahren. Die Gewerkschaft IG Metall fordert fünf Prozent mehr Gehalt."
-    },
-    {
-     "title": "Wer ist schuld am Scheitern des Klimagipfels?",
-     "url": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
-     "date": "2026-11-23T10:42:23.000Z",
-     "text": "Die Klimakonferenz in Antalya ist nach zwei Wochen zäher Verhandlungen ohne Abschlusserklärung zu Ende gegangen. Woran lag das? Bei der Suche nach möglichen Schuldigen richtet sich der Blick auch auf die Doppelpräsidentschaft. Von Jakob Mayr."
-    },
-    {
-     "title": "Umweltminister Schneider: Scheitern der COP31 kein Rückschlag für Klimaschutz",
-     "url": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-schneider-100.html",
-     "date": "2026-11-23T09:29:40.000Z",
-     "text": "Der XXL-Klimagipfel ist vorbei - ein Bekenntnis der fast 200 Staaten zum Klimaschutz gibt es nicht. Umweltminister Schneider sieht im Scheitern von Antalya aber auch eine gute Nachricht. Die Energiewende sei unumkehrbar - sagt auch China."
     }
    ]
   },
@@ -150,6 +144,24 @@
    "name": "Spiegel Wirtschaft",
    "ok": true,
    "items": [
+    {
+     "title": "Deutsche Bahn und Flixtrain verkaufen bald gemeinsam Tickets",
+     "url": "https://www.spiegel.de/wirtschaft/service/deutsche-bahn-und-flixtrain-verkaufen-bald-gemeinsam-tickets-a-e776561d-f14e-4697-aa9e-5cf7315f0ffa#ref=rss",
+     "date": "2026-11-25T07:06:00.000Z",
+     "text": "Lange schirmte die Bahn ihre Verkaufskanäle ab, künftig will sie im Internet und per App auch Tickets des Konkurrenten Flixtrain anbieten. Dass der Staatskonzern sich bewegt, liegt wohl auch am wachsenden Druck."
+    },
+    {
+     "title": "IG-Metall-Forderung: So viel wird in der Metall- und Elektroindustrie wirklich verdient",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-forderung-so-viel-wird-in-der-metall-und-elektroindustrie-wirklich-verdient-a-de3038ce-69f3-4b5f-b569-c374ea393c91#ref=rss",
+     "date": "2026-11-25T06:40:00.000Z",
+     "text": "Fünf Prozent mehr Lohn verlangt die IG Metall für Millionen Arbeitnehmer in der krisengeplagten Metall- und Elektroindustrie. Gierig oder gerechtfertigt? Der Überblick."
+    },
+    {
+     "title": "CDU-Politiker Yannick Bury verlangt Überprüfung aller Weiterbildungsangebote der Arbeitsagentur",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/cdu-politiker-yannick-bury-verlangt-ueberpruefung-aller-weiterbildungsangebote-der-arbeitsagentur-a-7caaff16-dd87-4349-b543-746921abb548#ref=rss",
+     "date": "2026-11-25T06:39:00.000Z",
+     "text": "Milliarden gibt der Staat für Weiterbildungen von Arbeitslosen aus, oft für teure und nutzlose Kurse. CDU-Haushaltspolitiker Yannick Bury spricht von einer »Sauerei« und warnt vor kostspieligen Folgen – auch für Beitragszahler."
+    },
     {
      "title": "Kfz-Versicherung: Wie ich in die Rabattschutz-Falle getappt bin",
      "url": "https://www.spiegel.de/wirtschaft/service/kfz-versicherung-wie-ich-in-die-rabattschutz-falle-getappt-bin-a-e34961e4-a1d3-4dde-ac31-7145fffa5d1a#ref=rss",
@@ -251,24 +263,6 @@
      "url": "https://www.spiegel.de/wirtschaft/buerokratie-umfang-der-eu-regeln-hat-sich-binnen-15-jahren-verdoppelt-a-8b59d1a6-3a69-40e5-a3d2-e05b31f42be8#ref=rss",
      "date": "2026-11-24T05:08:00.000Z",
      "text": "Das EU-Recht ist ausführlicher als alle deutschen Bundesgesetze – und laut einer Studie in den vergangenen Jahren stärker gewachsen. Auf zwei Feldern aber ist es geschrumpft."
-    },
-    {
-     "title": "Nvidia: Jensen Huang lässt sich feiern (und gelobt Besserung im zweiten Anlauf)",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-feiert-comeback-und-gelobt-besserung-a-aff2ebf3-e78a-40d4-9770-9f19439197f8#ref=rss",
-     "date": "2026-11-24T00:03:00.000Z",
-     "text": "Es ist das Techcomeback des Jahres: Der alte und neue Boss bei Nvidia heißt Jensen Huang. In der Firmenzentrale des Chipherstellers ging es bei seiner Rückkehr hoch her."
-    },
-    {
-     "title": "Nvidia: Jensen Huang – der Mann, der über allen Regeln steht",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-kehrt-auf-druck-von-donald-trump-zurueck-a-24b07e86-c1ee-4a84-833e-61d4784dd87f#ref=rss",
-     "date": "2026-11-23T20:59:00.000Z",
-     "text": "Der zurückgetretene Nvidia-CEO kommt auf Trumps Druck zurück. Das zeigt: Wenn man nur genug Börsenwert kreiert und in der richtigen Technologie unterwegs ist, gelten nicht die gleichen Regeln."
-    },
-    {
-     "title": "BYD: Aktie fällt nach EU-Verkaufsverbot für Ti7-SUV wegen Defender-Ähnlichkeit",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/byd-aktie-faellt-nach-eu-verkaufsverbot-fuer-ti7-suv-wegen-defender-aehnlichkeit-a-d3dce60e-82ac-4c8f-b443-41e969718b32#ref=rss",
-     "date": "2026-11-23T18:21:00.000Z",
-     "text": "BYD hat ein Verkaufsverbot für seinen SUV Ti7 in der EU erhalten. Das Modell sehe dem Land Rover Defender zu ähnlich, so das Gericht. Die Aktie des chinesischen Autobauers fällt, er kündigt rechtliche Gegenwehr an."
     }
    ]
   },
@@ -277,46 +271,46 @@
    "ok": true,
    "items": [
     {
-     "title": "Künstliche Intelligenz: Deutschland hinkt beim Einkaufen mit KI hinterher",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-beim-einkaufen-warum-deutschland-so-weit-hinterherhinkt-accg-201714762.html",
-     "date": "2026-11-25T03:25:08.000Z",
-     "text": "Das Einkaufen verändert sich. Künstliche Intelligenz wird für viele zum festen Berater. Allerdings werden die Tools hierzulande noch vergleichsweise wenig genutzt. Warum eigentlich?"
-    },
-    {
      "title": "Jensen Huang: „Ich mache täglich eineinhalb Stunden Therapie“",
      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kleinlaut-und-kaempferisch-nvidia-chef-jensen-huang-entschuldigt-sich-bei-mitarbeitern-201714458.html",
      "date": "2026-11-24T22:16:43.000Z",
      "text": "Der alte und neue Nvidia-Vorstandschef hält die erste Mitarbeiterversammlung seit seiner Rückkehr. Er gibt sich dabei kleinlaut und kämpferisch zugleich."
     },
     {
-     "title": "Was geschah bei Nvidia: Die Chronologie der Staatsaffäre Huang",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-kehrt-zu-nvidia-zurueck-die-chronologie-des-dramas-201712827.html",
-     "date": "2026-11-24T20:09:58.000Z",
-     "text": "Zwischen dem Rücktritt Jensen Huangs von der Spitze des Chipkonzerns Nvidia und seiner Rückkehr als Vorstandschef liegen nur elf Tage. Dazwischen wurde eine Petition geschrieben und eine Abfuhr erteilt. Ein Überblick."
+     "title": "Neue Studie: Die deutsche Industrie gerät finanziell in Nöte",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mckinsey-studie-die-deutsche-industrie-geraet-finanziell-in-noete-accg-201713955.html",
+     "date": "2026-11-25T07:30:17.000Z",
+     "text": "Die harten Auseinandersetzungen bei Volkswagen und Co. zeigen es: Die deutsche Industrie kämpft mit hohen finanziellen Belastungen. Eine neue Studie belegt die Nachteile in Europa und zeigt Auswege auf."
     },
     {
-     "title": "Business-Ticker: Huawei weist US-Urteil wegen Industriespionage zurück",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-huawei-weist-us-urteil-wegen-industriespionage-zurueck-faz-200452404.html",
-     "date": "2026-11-25T03:36:00.000Z",
-     "text": "China Southern beschert Boeing größten China-Auftrag seit fast zehn Jahren +++ US-Präsident verdiente nach Huangs Rückkehr mehrere Millionen Dollar mit Nvidia-Aktien +++ alle Neuigkeiten im Unternehmen-Liveblog"
+     "title": "Haushalt 2027: Klingbeils großes Defizit",
+     "url": "https://www.faz.net/aktuell/wirtschaft/haushalt-lars-klingbeils-grosses-defizit-201708513.html",
+     "date": "2026-11-25T07:11:09.000Z",
+     "text": "Das Land braucht einen Politiker, der die Steuergesetze versteht und die Sanierung des Haushalts entschlossen anpackt. Die Zweifel wachsen, ob Lars Klingbeil das kann."
     },
     {
-     "title": "Rohstoffe für die Industrie: Mit dem Edeka-Modell von China unabhängiger werden",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsches-rohstoffhandelshaus-wie-die-industrie-unabhaengiger-von-china-werden-will-201713017.html",
-     "date": "2026-11-24T18:54:39.000Z",
-     "text": "Die deutsche Wirtschaft will mit einem eigenen Handelshaus ihre Position gegenüber China stärken. Doch die wichtigen Rohstoffe könnten auch für den Staat teuer werden."
+     "title": "Business-Ticker: Trump: Begnadigung Huangs „immer eine Option“",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-begnadigung-von-huang-immer-eine-option-faz-200452404.html",
+     "date": "2026-11-25T07:43:54.000Z",
+     "text": "US-Präsident spricht in Interview auch über Staatseinstieg in Nvidia +++ China Southern beschert Boeing größten China-Auftrag seit fast zehn Jahren +++ alle Neuigkeiten im Unternehmen-Liveblog"
     },
     {
-     "title": "Klimaresiliente Wälder: Die Finanzierung des Waldumbaus bleibt schwierig",
-     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/waldumbau-in-deutschland-wer-zahlt-die-milliarden-201711743.html",
-     "date": "2026-11-24T18:27:50.000Z",
-     "text": "Der Waldumbau ist ökologisch erfolgreich, aber wirtschaftlich belastend. Das Thünen-Institut sieht ein „Ungleichgewicht“, weil vor allem die Waldeigentümer zahlen."
+     "title": "Zugreisen: Flixtrain-Tickets bald bei der Deutschen Bahn buchbar",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/flixtrain-tickets-bald-bei-der-deutschen-bahn-buchbar-accg-201715170.html",
+     "date": "2026-11-25T07:10:08.000Z",
+     "text": "Bislang zeigt die Bahn Flixtrain-Verbindungen zwar auf ihren Plattformen an, für die Buchung müssen Reisende aber die Website des grünen Konkurrenten nutzen. Ab wann sich das ändert."
     },
     {
-     "title": "Deutsche Arznei: Bayer probt den Medikamenten-Boykott",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-arznei-nicht-fuer-den-deutschen-markt-bayer-probt-den-medikamenten-boykott-201712417.html",
-     "date": "2026-11-24T18:26:03.000Z",
-     "text": "Den Wirkstoff Finerenon hat Bayer in Deutschland entwickelt und produziert sein Medikament Kerendia auch hierzulande. Warum deutsche Patienten trotzdem darauf verzichten müssen."
+     "title": "Die wollen nur spielen: Humanoide Roboter können „Kollegen“ gefährlich werden",
+     "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/wenn-humanoide-zur-gefahr-fuer-kollegen-werden-accg-201712647.html",
+     "date": "2026-11-25T05:50:00.000Z",
+     "text": "Der Markt für menschenähnliche Maschinen wächst rasant. In diesem Jahr könnten 100.000 Humanoide verkauft werden. Doch für ihren sicheren Einsatz in der Nähe von Beschäftigten fehlt ein zentraler Standard, der erst Mitte 2028 erscheinen wird."
+    },
+    {
+     "title": "Autonomes fahren: Europa ist auf Robotaxis (noch) nicht vorbereitet",
+     "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/tesla-cybercab-warum-europa-auf-robotaxis-noch-nicht-vorbereitet-ist-accg-201709265.html",
+     "date": "2026-11-25T05:50:00.000Z",
+     "text": "Tesla will von 2029 an in Brandenburg autonom fahrende Cybercabs bauen. Die Fabrik wird dabei das kleinere Problem sein. Andere Bedingungen entscheiden, ob die Fahrzeuge in Europa überhaupt fahren dürfen. Es ist eine riesige Wette."
     },
     {
      "title": "Knappe Medikamente: Nur ein Trostpflaster",
@@ -349,22 +343,28 @@
      "text": "Das Klima rettet man nicht, indem man einzelne Energieträger verteufelt. Die Emissionen müssen runter, auch mit CCS und Kernkraft."
     },
     {
-     "title": "NEuer Rekord: 39 Millionen „GTA VI“-Gamer auf der Playstation",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rekord-39-millionen-gta-vi-gamer-auf-der-playstation-201714267.html",
-     "date": "2026-11-24T18:00:38.000Z",
-     "text": "Das lang ersehnte Videospiel bricht weiter alle Rekorde. Dabei stellt es längst die amerikanische Filmindustrie in den Schatten."
+     "title": "Künstliche Intelligenz: Deutschland hinkt beim Einkaufen mit KI hinterher",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-beim-einkaufen-warum-deutschland-so-weit-hinterherhinkt-accg-201714762.html",
+     "date": "2026-11-25T03:25:08.000Z",
+     "text": "Das Einkaufen verändert sich. Künstliche Intelligenz wird für viele zum festen Berater. Allerdings werden die Tools hierzulande noch vergleichsweise wenig genutzt. Warum eigentlich?"
     },
     {
-     "title": "Billigflieger: Chef von Ryanair rechnet mit dem BER ab — und fordert niedrigere Abgaben",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/billigflieger-chef-von-ryanair-rechnet-mit-dem-ber-ab-201714183.html",
-     "date": "2026-11-24T17:38:48.000Z",
-     "text": "Zuletzt hat die irische Airline ihr Angebot am Hauptstadtflughafen deutlich reduziert. Nun stellt CEO O'Leary Bedingungen."
+     "title": "Was geschah bei Nvidia: Die Chronologie der Staatsaffäre Huang",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-kehrt-zu-nvidia-zurueck-die-chronologie-des-dramas-201712827.html",
+     "date": "2026-11-24T20:09:58.000Z",
+     "text": "Zwischen dem Rücktritt Jensen Huangs von der Spitze des Chipkonzerns Nvidia und seiner Rückkehr als Vorstandschef liegen nur elf Tage. Dazwischen wurde eine Petition geschrieben und eine Abfuhr erteilt. Ein Überblick."
     },
     {
      "title": "Rückkehr zu Nvidia: Huang will „beim zweiten Mal ein besserer Chef sein“",
      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-accg-201709972.html",
      "date": "2026-11-23T21:10:49.000Z",
      "text": "Der über Affären gestolperte Nvidia-Gründer darf seinen Vorstandsposten wieder beziehen. Offenbar hat Donald Trump eine Rolle gespielt. Vor jubelnden Mitarbeitern gelobt Huang „Bescheidenheit“."
+    },
+    {
+     "title": "Klimaresiliente Wälder: Die Finanzierung des Waldumbaus bleibt schwierig",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/waldumbau-in-deutschland-wer-zahlt-die-milliarden-201711743.html",
+     "date": "2026-11-24T18:27:50.000Z",
+     "text": "Der Waldumbau ist ökologisch erfolgreich, aber wirtschaftlich belastend. Das Thünen-Institut sieht ein „Ungleichgewicht“, weil vor allem die Waldeigentümer zahlen."
     },
     {
      "title": "Etat 2027 im Bundestag: SPD-Haushaltssprecher wirft Koalition „Missachtung des Parlaments“ vor",
@@ -379,28 +379,22 @@
      "text": "Künftig soll nicht mehr allein der Preis entscheiden, wenn lebenswichtige Medikamente eingekauft werden. Das schreibt eine neue EU-Verordnung vor. Lässt sich so die Antibiotika-Produktion in Europa halten?"
     },
     {
-     "title": "Alice Huang: „Siehst du aus wie eine chinesische Spionin?“",
-     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/alice-huang-doppelgaengerinnen-wettbewerb-in-new-york-accg-201708910.html",
-     "date": "2026-11-24T11:37:47.000Z",
-     "text": "Alice Huang spielt eine zentrale Rolle im Nvidia-Skandal. In einem Wettbewerb in New York wurden jetzt Doppelgängerinnen von ihr gesucht."
+     "title": "Rohstoffe für die Industrie: Mit dem Edeka-Modell von China unabhängiger werden",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsches-rohstoffhandelshaus-wie-die-industrie-unabhaengiger-von-china-werden-will-201713017.html",
+     "date": "2026-11-24T18:54:39.000Z",
+     "text": "Die deutsche Wirtschaft will mit einem eigenen Handelshaus ihre Position gegenüber China stärken. Doch die wichtigen Rohstoffe könnten auch für den Staat teuer werden."
     },
     {
-     "title": "Tarifstreit: „Volkswagen zeigt die eiskalte Fratze des Kapitalismus“",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-tarifstreit-volkswagen-zeigt-die-eiskalte-fratze-des-kapitalismus-201712613.html",
-     "date": "2026-11-24T15:27:22.000Z",
-     "text": "In Emden laufen die Verhandlungen für einen neuen Haustarif an. Die Gewerkschaft setzt den Ton und sieht den Konzern vor dem härtesten Arbeitskampf seiner Geschichte."
+     "title": "Deutsche Arznei: Bayer probt den Medikamenten-Boykott",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-arznei-nicht-fuer-den-deutschen-markt-bayer-probt-den-medikamenten-boykott-201712417.html",
+     "date": "2026-11-24T18:26:03.000Z",
+     "text": "Den Wirkstoff Finerenon hat Bayer in Deutschland entwickelt und produziert sein Medikament Kerendia auch hierzulande. Warum deutsche Patienten trotzdem darauf verzichten müssen."
     },
     {
-     "title": "Nach Evonik-Absage: BASF bleibt auf der Lauer",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/basf-sucht-nach-evonik-scheitern-weiter-nach-uebernahmezielen-201712927.html",
-     "date": "2026-11-24T14:51:45.000Z",
-     "text": "Übernahmen blieben Teil des Drehbuchs, sagt der Vorstandsvorsitzende von BASF, Markus Kamieth. Intern treibt er den Sparkurs voran."
-    },
-    {
-     "title": "Kosmetik- und Haushaltsbranche: Deutsche Shampoos und Cremes – gefragt, aber umstritten",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kosmetik-deutsche-shampoos-und-cremes-gefragt-aber-umstritten-accg-201708403.html",
-     "date": "2026-11-24T13:29:09.000Z",
-     "text": "Körperpflegeprodukte und Waschmittel sind im Ausland wieder stärker begehrt, und auch das Geschäft hierzulande wächst. Die Hersteller beklagen sich trotzdem."
+     "title": "NEuer Rekord: 39 Millionen „GTA VI“-Gamer auf der Playstation",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rekord-39-millionen-gta-vi-gamer-auf-der-playstation-201714267.html",
+     "date": "2026-11-24T18:00:38.000Z",
+     "text": "Das lang ersehnte Videospiel bricht weiter alle Rekorde. Dabei stellt es längst die amerikanische Filmindustrie in den Schatten."
     },
     {
      "title": "Wohnkosten: Vielerorts müssen Menschen kürzer für die Miete arbeiten",
@@ -445,6 +439,174 @@
    "ok": true,
    "items": [
     {
+     "title": "Dax aktuell: Dax startet unverändert – AMS-Osram-Aktie steigt zweistellig",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-unveraendert-ams-osram-aktie-steigt-zweistellig/100272589.html",
+     "date": "2026-11-25T08:31:34.000Z",
+     "text": "Nach den Verlusten vom Dienstag hält sich der Dax zum Handelsstart zurück. Anleger blicken auf das schwache deutsche Wirtschaftswachstum und die Generaldebatte im Bundestag."
+    },
+    {
+     "title": "Bundestag: AfD eröffnet Generaldebatte mit scharfer Kritik an Merz",
+     "url": "https://www.handelsblatt.com/politik/deutschland/bundestag-afd-eroeffnet-generaldebatte-mit-scharfer-kritik-an-merz/100272625.html",
+     "date": "2026-11-25T08:24:49.000Z",
+     "text": "Traditionell wird die Aussprache um den Etat des Bundeskanzleramts von der Opposition zur Abrechnung mit der Regierungspolitik genutzt. Die AfD macht den Anfang und spricht von „politischem Versagen“."
+    },
+    {
+     "title": "Geldanlage: Wer jetzt sein Geld in der Schweiz anlegt",
+     "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-wer-jetzt-sein-geld-in-der-schweiz-anlegt/100270454.html",
+     "date": "2026-11-25T08:14:44.000Z",
+     "text": "Die Schweiz wird wieder beliebter bei Anlegern aus Deutschland. Mehrere Faktoren reizen sie an dem benachbarten Finanzplatz – Steuerflucht ist keiner davon."
+    },
+    {
+     "title": "Konjunktur: Deutsche Wirtschaft wächst etwas weniger als erwartet",
+     "url": "https://www.handelsblatt.com/politik/deutschland/konjunktur-deutsche-wirtschaft-waechst-etwas-weniger-als-erwartet/100272605.html",
+     "date": "2026-11-25T08:05:31.000Z",
+     "text": "Im dritten Quartal bremsen schwächere Exporte und verhaltene Konsumausgaben der Verbraucher die Konjunktur. Für das Gesamtjahr bleiben Ökonomen aber optimistisch."
+    },
+    {
+     "title": "Immobilien: Nach LEG-Einstieg: Aroundtown bekommt überraschend eine neue Führungsspitze",
+     "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-aroundtown-bekommt-nach-leg-einstieg-neue-fuehrungsspitze/100272387.html",
+     "date": "2026-11-25T08:00:12.000Z",
+     "text": "Ende Oktober war der Gewerbeimmobilien-Spezialist unerwartet beim zweitgrößten börsennotierten Vermieter eingestiegen. Bei der Vorlage der Quartalszahlen folgt die nächste Überraschung."
+    },
+    {
+     "title": "Gebrauchtwagen-Check: So schlägt sich der VW T-Cross beim Tüv",
+     "url": "https://www.handelsblatt.com/mobilitaet/motor/autos-so-schlaegt-sich-der-vw-t-cross-beim-tuev/100272297.html",
+     "date": "2026-11-25T07:59:00.000Z",
+     "text": "Das Einstiegs-SUV der Wolfsburger ist bei Gebrauchtwagen-Käufern beliebt. Die Auswahl ist groß, der Preis auch. Worauf Käufer achten sollten."
+    },
+    {
+     "title": "KI: Microsofts Cloud-Chef warnt: „Die IT-Ausfälle dürften in den nächsten Monaten deutlich zunehmen“",
+     "url": "https://www.handelsblatt.com/technik/it-internet/ki-die-it-ausfaelle-duerften-in-den-naechsten-monaten-deutlich-zunehmen/100270347.html",
+     "date": "2026-11-25T07:58:00.000Z",
+     "text": "Im Interview erklärt Scott Guthrie, warum die KI-Welle zu Computerproblemen führt, Microsoft eigene Chips entwickelt – und wie sich EU-Kunden gegen einen „Kill-Switch“ aus Washington wehren können."
+    },
+    {
+     "title": "+++ Bundespolitik +++: Jetzt live – Merz spricht bei Generaldebatte im Bundestag",
+     "url": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-jetzt-live-merz-spricht-bei-generaldebatte-im-bundestag/100137034.html",
+     "date": "2026-11-25T07:51:10.000Z",
+     "text": "Koalition rechnet für Stromsteuer-Senkung mit Kosten von fünf Milliarden Euro +++ EU-Kommission besorgt über deutschen Bundeshaushalt +++ Klingbeil verteidigt Haushalt im Bundestag +++ Der Newsblog."
+    },
+    {
+     "title": "Doch keine Wende?: Aufträge am Bau kurzfristig eingebrochen",
+     "url": "https://www.handelsblatt.com/politik/deutschland/doch-keine-wende-auftraege-am-bau-kurzfristig-eingebrochen/100272610.html",
+     "date": "2026-11-25T07:44:10.000Z",
+     "text": "Im August sorgten mehrere Großaufträge für ein Plus von 23 Prozent – im September folgt der Rückschlag. Warum der Tiefbau besonders stark betroffen ist."
+    },
+    {
+     "title": "Karriere: „Es ist in Ordnung, kein Karriereziel zu haben“",
+     "url": "https://www.handelsblatt.com/unternehmen/management/management-wer-mehr-experimentiert-kann-seinem-eigenen-erfolg-naeherkommen/100248072.html",
+     "date": "2026-11-25T07:31:00.000Z",
+     "text": "Die Londoner Neurowissenschaftlerin Anne-Laure Le Cunff forscht über den Weg zu Erfolg und mehr Produktivität. Statt sich große Ziele zu setzen, rät sie zu einer anderen Strategie."
+    },
+    {
+     "title": "Kommentar: Huang und Trump haben die Rechnung ohne die Demokraten gemacht",
+     "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-huang-und-trump-haben-die-rechnung-ohne-die-demokraten-gemacht/100272549.html",
+     "date": "2026-11-25T07:29:48.000Z",
+     "text": "Die Märkte und Mitarbeiter wollen vielleicht glauben, dass die Affären des Nvidia-Chefs harmlos waren. Nicht so die Demokraten. Die geplanten Anhörungen sind nur der Anfang."
+    },
+    {
+     "title": "Immobilien: Neue Pflichtversicherung, die für Vermieter teuer werden kann",
+     "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-diese-neue-pflichtversicherung-kann-fuer-vermieter-teuer-werden/100266164.html",
+     "date": "2026-11-25T07:26:00.000Z",
+     "text": "Die Bundesregierung will Immobilienbesitzer besser gegen Naturkatastrophen absichern. Was das für Millionen Eigentümer bedeutet und welche Kosten auf sie zukommen."
+    },
+    {
+     "title": "Geldanlage: So entsteht ein ETF-Portfolio, das wenig Arbeit macht",
+     "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-bauen-sie-mit-wenigen-etfs-ein-starkes-depot-auf/100263502.html",
+     "date": "2026-11-25T07:26:00.000Z",
+     "text": "Ein bis zwei ETFs – und das Depot ist fertig? Das funktioniert. Eine Anleitung in vier Schritten, mit welchen ETFs das gelingt und welcher bekannte Indexfonds außen vor bleiben sollte."
+    },
+    {
+     "title": "Konjunktur: Deutsche Wirtschaft wächst im dritten Quartal nur langsam",
+     "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-deutsche-wirtschaft-waechst-im-dritten-quartal-nur-langsam/100272602.html",
+     "date": "2026-11-25T07:23:06.000Z",
+     "text": "Die deutsche Wirtschaft ist im dritten Quartal nur um 0,1 Prozent und damit langsamer als erwartet gewachsen. Das Ifo-Institut blickt dennoch positiv auf den Jahresabschluss."
+    },
+    {
+     "title": "Monika Schnitzer: Wirtschaftsweisen-Chefin: „Wir laufen mitten in ein Problem historischen Ausmaßes“",
+     "url": "https://www.handelsblatt.com/politik/deutschland/deutschland-wirtschaftsweise-fordert-neue-steuer-und-harte-kuerzungen-03/100267312.html",
+     "date": "2026-11-25T07:14:00.000Z",
+     "text": "Im Interview erklärt die Vorsitzende des Sachverständigenrats, warum Deutschlands Staatsfinanzen aus dem Ruder laufen und wie harte Kürzungen und Steuererhöhungen durchzusetzen wären."
+    },
+    {
+     "title": "Zugfahrten: Flixtrain-Tickets bald bei der Deutschen Bahn buchbar",
+     "url": "https://www.handelsblatt.com/politik/deutschland/zugfahrten-flixtrain-tickets-bald-bei-der-deutschen-bahn-buchbar/100272599.html",
+     "date": "2026-11-25T07:06:31.000Z",
+     "text": "„Preisauskunft nicht möglich“: Bislang zeigt die Bahn Flixtrain-Verbindungen zwar auf ihren Plattformen an, für die Buchung müssen Reisende aber die Flixtrain-Website nutzen. Das ändert sich nun."
+    },
+    {
+     "title": "Schienenverkehr: Flix-Tickets gibt es bald auch im DB Navigator",
+     "url": "https://www.handelsblatt.com/unternehmen/dienstleister/schienenverkehr-flix-tickets-gibt-es-bald-auch-im-db-navigator/100272319.html",
+     "date": "2026-11-25T07:00:00.000Z",
+     "text": "Das Mobilitätsunternehmen Flix und der Staatskonzern Deutsche Bahn arbeiten künftig beim Vertrieb zusammen. Allerdings gibt es dabei noch einen Haken."
+    },
+    {
+     "title": "Chipindustrie: Samsung steigt bei AMS Osram ein",
+     "url": "https://www.handelsblatt.com/unternehmen/industrie/chipindustrie-samsung-steigt-bei-ams-osram-ein/100272424.html",
+     "date": "2026-11-25T06:30:00.000Z",
+     "text": "Der hochverschuldete Osram-Konzern findet nach langer Suche eine Verwendung für sein ungenutztes Werk in Asien – und einen Ankeraktionär gleich dazu."
+    },
+    {
+     "title": "Digitalbank: Neuer N26-Chef: „Wir wollen unsere Kundenzahl bis 2030 mindestens verdoppeln“",
+     "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/n26-chef-wir-wollen-unsere-kundenzahl-mindestens-verdoppeln/100270367.html",
+     "date": "2026-11-25T06:30:00.000Z",
+     "text": "Mike Dargan spricht im ersten Interview als N26-Chef über seine Ziele und den Umbau der Digitalbank. Den Vorwurf, dass Bürokraten nun das Sagen hätten, weist er nicht nur verbal zurück."
+    },
+    {
+     "title": "Neubau und neuer Name: Memphis Art Museum eröffnet am Mississippi",
+     "url": "https://www.handelsblatt.com/unternehmen/dienstleister/neubau-und-neuer-name-memphis-art-museum-eroeffnet-am-mississippi/100272590.html",
+     "date": "2026-11-25T06:10:04.000Z",
+     "text": "Nach mehr als 100 Jahren zieht das Kunstmuseum von Memphis um: Der Neubau am Mississippi bietet viel mehr Platz – und zeigt auch Kunst unter freiem Himmel."
+    },
+    {
+     "title": "Energiewende: Solarstrom knackt erstmals die Marke von 100 Terawattstunden",
+     "url": "https://www.handelsblatt.com/unternehmen/energie/energiewende-solarstrom-knackt-erstmals-die-marke-von-100-terawattstunden/100272583.html",
+     "date": "2026-11-25T06:05:58.000Z",
+     "text": "Noch nie wurde mehr Solarstrom in Deutschland erzeugt als in diesem Jahr. Darum lässt der Sonnenstrom bisherige Rekorde so weit hinter sich."
+    },
+    {
+     "title": "Nvidia-Kontroverse: Trump: Begnadigung Huangs „immer eine Option“",
+     "url": "https://www.handelsblatt.com/technik/it-internet/nvidia-kontroverse-trump-begnadigung-huangs-immer-eine-option/100272586.html",
+     "date": "2026-11-25T05:57:17.000Z",
+     "text": "Donald Trump zeigt sich offen dafür, den alten und neuen Nvidia-Chef Jensen Huang bei Bedarf zu begnadigen. Auch könnte er sich eine Beteiligung der US-Regierung am Chip-Riesen vorstellen."
+    },
+    {
+     "title": "Wie sicher sind wir?: Die Ukraine, der Weg zum Frieden – und was Deutschland tun muss",
+     "url": "https://www.handelsblatt.com/audio/wie-sicher-sind-wir-podcast/wie-sicher-sind-wir-die-ukraine-der-weg-zum-frieden-und-was-deutschland-tun-muss/100272548.html",
+     "date": "2026-11-25T05:52:11.000Z",
+     "text": "Der Ukraine steht der nächste harte Kriegswinter bevor. Um gegen Russland bestehen zu können, benötigt das Land weitere Hilfen. Was genau braucht die Ukraine – und welche Rolle spielt Deutschland?"
+    },
+    {
+     "title": "Ifo-Beschäftigungsbarometer: Erneuter Dämpfer für Erholung am Arbeitsmarkt",
+     "url": "https://www.handelsblatt.com/politik/deutschland/ifo-beschaeftigungsbarometer-erneuter-daempfer-fuer-erholung-am-arbeitsmarkt/100272420.html",
+     "date": "2026-11-25T05:40:35.000Z",
+     "text": "Die Unternehmen sind bei ihren Beschäftigungsplänen wieder etwas zurückhaltender als im Vormonat. Vor allem in der Industrie und im Handel ist kaum mit positiven Impulsen zu rechnen."
+    },
+    {
+     "title": "Morning Briefing: Donald Trumps nächster Schlag gegen die deutsche Wirtschaft",
+     "url": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-donald-trumps-naechster-schlag-gegen-die-deutsche-wirtschaft/100272532.html",
+     "date": "2026-11-25T05:32:38.000Z",
+     "text": "Der US-Präsident könnte noch diese Woche neue Zölle gegen die EU und weitere Länder verkünden. Offiziell geht es ihm um Dumping-Importe. Auch der neue Kongress kann ihn nur schwer stoppen."
+    },
+    {
+     "title": "Beyond the obvious: Einwanderungsland mit Auswanderungsproblem",
+     "url": "https://www.handelsblatt.com/audio/bto/beyond-the-obvious-einwanderungsland-mit-auswanderungsproblem/100272582.html",
+     "date": "2026-11-25T05:30:00.000Z",
+     "text": "Deutschland muss nicht nur Talente und Fachkräfte gewinnen, es muss sie auch halten."
+    },
+    {
+     "title": "Börse am 25. November: Sechs Punkte, die für Anleger heute wichtig sind",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+     "date": "2026-11-25T05:20:24.000Z",
+     "text": "Nach einem positiven Wochenstart musste der Dax seine Gewinne am Dienstag wieder abgeben. Kehrt das Vertrauen der Anleger in die Tech-Werte am Mittwoch zurück?"
+    },
+    {
+     "title": "Berufsabschluss nachholen: E-Handwerk: Wie der Quereinstieg samt Gesellenbrief gelingt",
+     "url": "https://www.handelsblatt.com/politik/deutschland/berufsabschluss-nachholen-e-handwerk-wie-der-quereinstieg-samt-gesellenbrief-gelingt/100272580.html",
+     "date": "2026-11-25T05:20:04.000Z",
+     "text": "Im E-Handwerk wächst der Bedarf an Fachkräften. Doch nicht jeder hat eine klassische Ausbildung. Wem der Weg zum Gesellenbrief offensteht - und wie man sich dafür schrittweise qualifiziert."
+    },
+    {
      "title": "Morning Briefing Podcast: Handel: Nach dem Deal ist vor dem Streit / Pharma: Bayer streicht neues Medikament für Deutschland",
      "url": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-handel-nach-dem-deal-ist-vor-dem-streit---pharma-bayer-streicht-neues-medikament-fuer-deutschland/100272574.html",
      "date": "2026-11-25T05:09:49.000Z",
@@ -455,174 +617,6 @@
      "url": "https://www.handelsblatt.com/politik/deutschland/energiewende-solarstrom-knackt-erstmals-die-marke-von-100-terawattstunden/100272576.html",
      "date": "2026-11-25T05:00:07.000Z",
      "text": "Noch nie wurde mehr Solarstrom in Deutschland erzeugt als in diesem Jahr. Darum lässt der Sonnenstrom bisherige Rekorde so weit hinter sich."
-    },
-    {
-     "title": "+++ Iran-Krieg +++: Huthi drohen mit Angriffen auf saudi-arabische Häfen am Roten Meer",
-     "url": "https://www.handelsblatt.com/politik/international/iran-krieg-huthi-drohen-mit-angriffen-auf-saudi-arabische-haefen-am-roten-meer/100136895.html",
-     "date": "2026-11-25T04:51:00.000Z",
-     "text": "Hamas-Anführer bei israelischem Angriff im Gazastreifen getötet +++ Irak ordnet Kontrolle über Ölfelder in Kurdenregion an +++ Bahrain gerät unter iranischen Beschuss +++ Der Newsblog."
-    },
-    {
-     "title": "+++ USA unter Trump +++: Cyberangriff auf CIA-System – Keine vertraulichen Daten betroffen",
-     "url": "https://www.handelsblatt.com/politik/international/usa-cyberangriff-auf-cia-system-keine-vertraulichen-daten-betroffen/29669594.html",
-     "date": "2026-11-25T04:41:00.000Z",
-     "text": "Trump attackiert Newsom bei Rede im Justizministerium +++ Trump: Todesurteile in den USA schneller vollstrecken +++ Der Newsblog."
-    },
-    {
-     "title": "Winter in Alberta und BC: Powder to the People: Wann der Kanada-Skitrip bezahlbar wird",
-     "url": "https://www.handelsblatt.com/unternehmen/dienstleister/winter-in-alberta-und-bc-powder-to-the-people-wann-der-kanada-skitrip-bezahlbar-wird/100272572.html",
-     "date": "2026-11-25T04:34:07.000Z",
-     "text": "Wintersportler haben die Alpen hierzulande praktisch vor der Haustür. Dennoch ist ein Skiurlaub in Kanada - allein des berühmten Puderschnees wegen - für viele ein Traum. Ein erschwinglicher?"
-    },
-    {
-     "title": "Nikkei, Kospi, Taiex: Viele Chipaktien in Asien fallen unter das Niveau vor der Rally",
-     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-kospi-taiex-viele-chipaktien-in-asien-fallen-unter-das-niveau-vor-der-rally/100272545.html",
-     "date": "2026-11-25T04:23:00.000Z",
-     "text": "Nach der Rückkehr von Nvidia-Chef Jensen Huang währte die Euphorie nur kurz. Eine frühere Notenbankerin warnt vor weiteren Turbulenzen."
-    },
-    {
-     "title": "Invest: Christian Röhl: Warum defensive Aktien an der Börse so gut laufen",
-     "url": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-christian-roehl-warum-defensive-aktien-an-der-boerse-so-gut-laufen/100221423.html",
-     "date": "2026-11-25T04:10:00.000Z",
-     "text": "Der Chefökonom von Scalable Capital spricht im Podcast über den großen Börsenboom abseits der Künstlichen Intelligenz und die Rückkehr des Nvidia-Chefs."
-    },
-    {
-     "title": "Invest: Christian Röhl: Warum defensive Aktien an der Börse so gut laufen",
-     "url": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-christian-roehl-warum-defensive-aktien-an-der-boerse-so-gut-laufen/100272496.html",
-     "date": "2026-11-25T04:05:00.000Z",
-     "text": "Der Chefökonom von Scalable Capital spricht im Podcast über den großen Börsenboom abseits der Künstlichen Intelligenz und die Rückkehr des Nvidia-Chefs."
-    },
-    {
-     "title": "Jahrelanges Verfahren: US-Geschworene sprechen Huawei der Geldwäsche schuldig",
-     "url": "https://www.handelsblatt.com/technik/it-internet/jahrelanges-verfahren-us-geschworene-sprechen-huawei-der-geldwaesche-schuldig/100272536.html",
-     "date": "2026-11-25T04:03:22.000Z",
-     "text": "Das Verfahren von US-Staatsanwälten gegen den chinesischen Huawei-Konzern lief schon seit 2018. Jetzt gibt es die Entscheidung eines Geschworenen-Gerichts."
-    },
-    {
-     "title": "Brutto längst nicht Netto: Weihnachtsgeld: Wie viel kommt davon überhaupt bei mir an?",
-     "url": "https://www.handelsblatt.com/finanzen/steuern-recht/brutto-laengst-nicht-netto-weihnachtsgeld-wie-viel-kommt-davon-ueberhaupt-bei-mir-an/100272568.html",
-     "date": "2026-11-25T04:03:04.000Z",
-     "text": "Weihnachtsgeld kann Wünsche zum Jahresende in Erfüllung gehen lassen. Doch auf der Abrechnung bleibt oft weniger übrig als erwartet. Welche Abzüge den Nettobetrag bestimmen."
-    },
-    {
-     "title": "Möglicherweise Rekord: Goldener November: Warum viele bunte Blätter noch hängen",
-     "url": "https://www.handelsblatt.com/technik/forschung-innovation/moeglicherweise-rekord-goldener-november-warum-viele-bunte-blaetter-noch-haengen/100272567.html",
-     "date": "2026-11-25T04:00:11.000Z",
-     "text": "Einige Bäume scheinen sich in diesem Herbst gar nicht von ihrem Laub trennen zu wollen. Ursache ist das Wetter."
-    },
-    {
-     "title": "Lebensmittel: Einzelhandel-Honig ist häufig nicht aus Deutschland",
-     "url": "https://www.handelsblatt.com/politik/deutschland/lebensmittel-einzelhandel-honig-ist-haeufig-nicht-aus-deutschland/100272566.html",
-     "date": "2026-11-25T04:00:05.000Z",
-     "text": "Unternehmen bewerben Honig gerne als Regionalprodukt. Dabei wird das Nahrungsmittel oft Tausende Kilometer transportiert, bevor es verkauft wird. Zu dieser Einschätzung kommt die Verbraucherzentrale."
-    },
-    {
-     "title": "Mobilitätskosten: Experten: Entwurf für Spritpreisdeckel bringt wenig",
-     "url": "https://www.handelsblatt.com/politik/deutschland/mobilitaetskosten-experten-entwurf-fuer-spritpreisdeckel-bringt-wenig/100272560.html",
-     "date": "2026-11-25T03:30:05.000Z",
-     "text": "Der Mechanismus setzt wohl an der falschen Stelle auf. Einen echten Unterschied würde er wohl vor allem zu einer bestimmten Tageszeit machen."
-    },
-    {
-     "title": "Regierungsbildung: Wie es in Berlin nach Emdes Ausschluss weitergeht",
-     "url": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-wie-es-in-berlin-nach-emdes-ausschluss-weitergeht/100272561.html",
-     "date": "2026-11-25T03:30:04.000Z",
-     "text": "Die umstrittene Berliner Abgeordnete Vanessa Emde gehört nicht mehr zur Linke-Fraktion. Was bedeutet dieser Schritt für die Partei? Und wird Elif Eralp jetzt Regierende Bürgermeisterin?"
-    },
-    {
-     "title": "Arbeitsrecht: Bildungsurlaub: Was gilt für mich?",
-     "url": "https://www.handelsblatt.com/politik/deutschland/arbeitsrecht-bildungsurlaub-was-gilt-fuer-mich/100272559.html",
-     "date": "2026-11-25T03:29:04.000Z",
-     "text": "Im Bildungsurlaub können sich Beschäftigte während der Arbeitszeit weiterbilden. Doch wer hat Anspruch darauf und welche Kurse sind erlaubt? Eine Übersicht über geltende Regeln und Rechte."
-    },
-    {
-     "title": "Luftfahrt: China Southern beschert Boeing größten China-Auftrag seit fast zehn Jahren",
-     "url": "https://www.handelsblatt.com/unternehmen/industrie/luftfahrt-china-southern-beschert-boeing-groessten-china-auftrag-seit-fast-zehn-jahren/100272550.html",
-     "date": "2026-11-25T03:21:52.000Z",
-     "text": "China Southern bestellt 50 Boeing 737 MAX 8 für Xiamen Airlines. Laut Jefferies ist es die erste Festbestellung aus dem Abkommen zwischen Trump und Xi."
-    },
-    {
-     "title": "Chipunternehmen: Was Nvidia, Huang und der Trump-Regierung jetzt vom US-Kongress droht",
-     "url": "https://www.handelsblatt.com/politik/international/chipunternehmen-was-nvidia-huang-und-der-trump-regierung-jetzt-vom-us-kongress-droht/100272477.html",
-     "date": "2026-11-25T03:12:32.000Z",
-     "text": "Warum Trumps Intervention zugunsten von Jensen Huang für die Demokraten ein Geschenk ist und welche Untersuchungen jetzt möglich sind. Ein Überblick."
-    },
-    {
-     "title": "Reisen: Tourismusboom stößt an Grenzen – so will Griechenland gegensteuern",
-     "url": "https://www.handelsblatt.com/politik/international/reisen-tourismusboom-stoesst-an-grenzen-so-will-griechenland-umsteuern/100271602.html",
-     "date": "2026-11-25T03:03:31.000Z",
-     "text": "Die Branche feiert das vierte Rekordjahr in Folge. Doch Einheimischen setzen steigende Mieten zu, das Wasser wird knapp, die Infrastruktur ist überlastet. Jetzt greift die Regierung durch."
-    },
-    {
-     "title": "Digitale Einkaufshelfer: Deutschland hinkt beim Einkaufen mit KI deutlich hinterher",
-     "url": "https://www.handelsblatt.com/politik/deutschland/digitale-einkaufshelfer-deutschland-hinkt-beim-einkaufen-mit-ki-deutlich-hinterher/100272554.html",
-     "date": "2026-11-25T03:01:05.000Z",
-     "text": "Das Einkaufen verändert sich. Künstliche Intelligenz wird für viele zum festen Berater. Allerdings werden die Tools hierzulande noch vergleichsweise wenig genutzt. Warum eigentlich?"
-    },
-    {
-     "title": "Forschungssicherheit: „Gravierende Verstöße bei Forschungssicherheit“: Cispa-Skandal kostet Steuerzahler Millionen Euro",
-     "url": "https://www.handelsblatt.com/politik/deutschland/forschungssicherheit-cispa-skandal-kostet-steuerzahler-millionen-euro/100272273.html",
-     "date": "2026-11-25T03:00:43.000Z",
-     "text": "Hätten der Bund und das Saarland früher beim Helmholtz-Zentrum eingreifen müssen? Die Gesellschafter schweigen, der Bund beruft sich aufs „Staatswohl“. Die Opposition fordert Aufklärung."
-    },
-    {
-     "title": "Flaute im Bett: Junge Menschen haben zunehmend weniger Sex",
-     "url": "https://www.handelsblatt.com/technik/forschung-innovation/flaute-im-bett-junge-menschen-haben-zunehmend-weniger-sex/100272553.html",
-     "date": "2026-11-25T03:00:12.000Z",
-     "text": "Warum umständlich einen Partner umwerben, wenn es im Netz erotische Inhalte und dazu Selbstbefriedigung gibt? Die unter-35-Jährigen werden immer seltener zusammen intim. Das ist nicht nur schlecht."
-    },
-    {
-     "title": "Vor Weihnachtszeit: Hohe Aufschläge: Kerzen dürften deutlich teurer werden",
-     "url": "https://www.handelsblatt.com/politik/deutschland/vor-weihnachtszeit-hohe-aufschlaege-kerzen-duerften-deutlich-teurer-werden/100272552.html",
-     "date": "2026-11-25T03:00:07.000Z",
-     "text": "Teures Öl und hohe Energiepreise wirken sich auf die Kerzenproduktion aus. Sie sind aber nicht der einzige Grund, warum Verbraucher vor Weihnachten für Kerzen wohl tiefer in die Tasche greifen müssen."
-    },
-    {
-     "title": "USA: Comeback mit Haftungsrisiko: Was Jensen Huangs Rückkehr für die Klagen gegen Nvidia bedeutet",
-     "url": "https://www.handelsblatt.com/technik/ki/usa-was-jensen-huangs-rueckkehr-fuer-die-klagen-gegen-nvidia-bedeutet/100272289.html",
-     "date": "2026-11-25T02:59:29.000Z",
-     "text": "Der Chiphersteller und dessen Führung sehen sich bereits mit Klagen konfrontiert. Huangs Rückkehr kompliziert die Lage weiter. Juristen sehen Risiken – auch durch künftige Ermittlungen."
-    },
-    {
-     "title": "Rüstung: Insider: Helsing prüft offenbar Übernahme von Marschflugkörperhersteller Destinus",
-     "url": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-helsing-prueft-offenbar-kauf-von-marschflugkoerperbauer-destinus/100271588.html",
-     "date": "2026-11-25T02:57:19.000Z",
-     "text": "Helsing erwägt eine Akquisition des niederländischen Unternehmens, wie das Handelsblatt von Insidern erfuhr. Im Oktober sind Helsing und Destinus bereits eine Partnerschaft eingegangen."
-    },
-    {
-     "title": "Metall- und Elektroindustrie: Verhandler unter Druck: Klappt Pilotabschluss in Mannheim?",
-     "url": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-verhandler-unter-druck-klappt-pilotabschluss-in-mannheim/100272546.html",
-     "date": "2026-11-25T02:30:11.000Z",
-     "text": "Die IG Metall fordert fünf Prozent mehr Lohn, die Arbeitgeber bieten eine Einmalzahlung und später eine Tabellenstufe. Wo die Verhandler noch Spielraum haben – und was den Abschluss erschweren könnte."
-    },
-    {
-     "title": "Weltraum: Chinesische Raumfahrtmission startet mit Premiere",
-     "url": "https://www.handelsblatt.com/technik/forschung-innovation/weltraum-chinesische-raumfahrtmission-startet-mit-premiere/100272542.html",
-     "date": "2026-11-25T01:39:29.000Z",
-     "text": "Erstmals schickt China mit einem Raumfahrer aus Pakistan einen Ausländer zu seiner Raumstation. Es ist nicht die einzige Neuerung bei der „Shenzhou 24“-Mission. Was erwartet die Männer im All?"
-    },
-    {
-     "title": "Mittelstandspreis: Merz würdigt Heino als „echte deutsche Legende“",
-     "url": "https://www.handelsblatt.com/politik/deutschland/mittelstandspreis-merz-wuerdigt-heino-als-echte-deutsche-legende/100272524.html",
-     "date": "2026-11-25T01:16:44.000Z",
-     "text": "Die Mittelstands- und Wirtschaftsunion feiert ihr 70-jähriges Bestehen – mit einem besonderen Stargast. Der hat einen hochrangigen Fan, der bei der Gala ins Schwärmen kommt."
-    },
-    {
-     "title": "+++ Geschäftszahlen +++: Dell erhöht nach Rekordquartal Ziele erneut – Mehr Aktienrückkäufe",
-     "url": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-dell-erhoeht-nach-rekordquartal-ziele-erneut-mehr-aktienrueckkaeufe/24098412.html",
-     "date": "2026-11-24T22:12:00.000Z",
-     "text": "Gewinneinbruch bei Xiaomi – Rückgänge bei Autos und Smartphones +++ Schwan Stabilo wächst +++ Temu-Mutterkonzern PDD übertrifft Gewinnprognose +++ Der Newsblog."
-    },
-    {
-     "title": "USA: US-Gericht spricht Huawei wegen Betrugs schuldig",
-     "url": "https://www.handelsblatt.com/politik/international/usa-us-gericht-spricht-huawei-wegen-betrugs-schuldig/100272531.html",
-     "date": "2026-11-24T21:36:32.000Z",
-     "text": "Das chinesische Unternehmen wurde unter anderem wegen Bankbetrugs, Verstößen gegen Sanktionen und Diebstahl von Geschäftsgeheimnissen schuldig gesprochen. Huawei weist die Vorwürfe zurück."
-    },
-    {
-     "title": "Nvidia-Kontroverse: Medien: Huang will nach Rückkehr weiter keinen Nachfolgeplan",
-     "url": "https://www.handelsblatt.com/technik/it-internet/nvidia-kontroverse-medien-huang-will-nach-rueckkehr-weiter-keinen-nachfolgeplan/100272526.html",
-     "date": "2026-11-24T20:47:32.000Z",
-     "text": "Der alte und neue Nvidia-Chef Jensen Huang glaubt weiterhin nicht, dass Nvidia sich Gedanken über eine Nachfolgelösung für ihn machen muss. Und er sagt den Mitarbeitern, dass er in Therapie sei."
     }
    ]
   },
@@ -655,6 +649,18 @@
    "name": "Bundesbank",
    "ok": true,
    "items": [
+    {
+     "title": "Ankündigung Tenderverfahren – Aufstockung der Bundesobligationen Serie 194",
+     "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/bundeswertpapiere/ankuendigung-tenderverfahren-aufstockung-der-bundesobligationen-serie-194-965008",
+     "date": "2026-11-25T08:30:00.000Z",
+     "text": ""
+    },
+    {
+     "title": "Auction announcement – Reopening of five-year Federal notes (Bundesobligationen – “Bobls”) series 194 by auction",
+     "url": "https://www.bundesbank.de/en/press/press-releases/federal-securities/auction-announcement-reopening-of-five-year-federal-notes-bundesobligationen-bobls-series-194-by-auction-964488",
+     "date": "2026-11-25T08:30:00.000Z",
+     "text": ""
+    },
     {
      "title": "Tägliche Rendite der börsennotierten Bundeswertpapiere",
      "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/bundeswertpapiere/taegliche-rendite-der-boersennotierten-bundeswertpapiere--964496",
@@ -717,6 +723,13 @@
      "via": "DIE ZEIT"
     },
     {
+     "title": "Konjunkturerholung in Deutschland 2026: BIP wächst im dritten Quartal trotz Krisen und Niedrigwasser - Produktion Online",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM0Q2S1lmeGtGc05razljVXExWGNRQjlVRjNlOW5XQnlYOEcyT1ZtRE1WUk4yV1RrX1o2QnVNcS0xZUtHZGFFOHJtWk0zX3lrTHIyRW0xYTVWRGtFUGRNV3hVUWVlTWFOcTZqcjZHNjNJVWFURXZJTzJNSzktV2dPTUZnSDFTbjM0b09LME9jeTZZd3hiX215T3lxRHo2R3VHQWwzenFUUTVkN1JwMVZZSkhnUjBnVnktaDBUUENFYlVUUkZETzBhbTRXNkVBMjljUVVIRG1pMmhEcUQ4ckE?oc=5",
+     "date": "2026-11-25T07:24:44.000Z",
+     "text": "Konjunkturerholung in Deutschland 2026: BIP wächst im dritten Quartal trotz Krisen und Niedrigwasser Produktion Online",
+     "via": "Produktion Online"
+    },
+    {
      "title": "Konjunktur: Ifo-Geschäftsklima steigt auf Höchststand seit Frühjahr 2023 - Spiegel",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTTlMcmFSOHozcUJzbUk5d2tmS2J2a3RHRS1MZGN2cGgxNEFka2tFM3Z3X2J5RzRlTFltRHJ6ZVRZUHQ3cFZoWG9CcER6bl9OSnRCaW9TR3QyaFdlbGlXb1luNGhLbXV3eXRmRW01MjZ4TDJrczFWQjFFUWxubm9vaUdGV1IyQmpRNV94WU9KbGZiUWhldXg4akVNM3BGeGlyMmtfeWRKOTFVaVpFdkF6encwbXFINmhFNkJTS0s0YmFVMEZMSG9xTkM2N21IV09lZm9oaHFySjRHcmF2cjZIenJVS2ttck05RlctSFN1dW4?oc=5",
      "date": "2026-11-24T09:33:00.000Z",
@@ -729,6 +742,20 @@
      "date": "2026-11-24T10:37:48.000Z",
      "text": "Konjunktur: Ifo-Geschäftsklima steigt auf Höchststand seit Frühjahr 2023 WirtschaftsWoche",
      "via": "WirtschaftsWoche"
+    },
+    {
+     "title": "Deutsche Wirtschaft wächst etwas weniger als erwartet - Deutschland und Weltweit - Pforzheimer-Zeitung - PZ-news.de",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDl3LV9yTXVrdFoyUkZrVl9tUDVrLTB5QmloWGdOaHZROVB5eGpLSXBBQmYzX0cySlM1YzI2V3gzaTBXODR5M3BjbEtXNng3WHZSYTQ4UE9GcXIwSzVFbHJTdEVlOGwtMDF4cy1vS2pQZ3E3eFQySExwMkg3ZFFXX2RsVHBuN0xDdGV3R0x4ekpRTlVLT2FhVDN6RTVfRzJmenI5SWxVck04blN6dkhUeUdQLV8?oc=5",
+     "date": "2026-11-25T07:30:00.000Z",
+     "text": "Deutsche Wirtschaft wächst etwas weniger als erwartet - Deutschland und Weltweit - Pforzheimer-Zeitung PZ-news.de",
+     "via": "PZ-news.de"
+    },
+    {
+     "title": "News, Wirtschaft: Wachstum der Wirtschaft im dritten Quartal etwas schwächer - tixio - Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUIzQWUybVk2WjVWZkNBamlzMWUtMzE3eDFHc3A5VFppeEdZNnFud2g5UVNFZGpBNmRfVXRlU1hwS2pSVXhSWEg4TmhEYk1wRV9oXzN2ODBsSk5KRG03c0RPOTV5cjgzeTN5S2J2cXRveXF5T0NNME4zRzI5anBQbDRzS0I0RlNiaGpKdkh0bF9Oamx2dDl0Rw?oc=5",
+     "date": "2026-11-25T07:29:56.000Z",
+     "text": "News, Wirtschaft: Wachstum der Wirtschaft im dritten Quartal etwas schwächer tixio - Nachrichten",
+     "via": "tixio - Nachrichten"
     },
     {
      "title": "Ifo-Geschäftsklimaindex: Siebter Anstieg in Folge – Ökonomen sehen Aufschwung - Wirtschaft - SZ.de - SZ.de",
@@ -745,13 +772,6 @@
      "via": "FAZ"
     },
     {
-     "title": "Ifo-Geschäftsklima: Deutsche Wirtschaft auf Erholungskurs - Hit Radio FFH",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPanVQWVF5NmExTFpmaFR0RVY4V3djN1RDZEt4N29qTVpCcWF0VU1oWXJpVFktenJlYlRFVHRkTzV6b2duamF2RGx6dWt2STcyRVFMVjBVbjByOEt3OWFXWklIS1Y2VEtpNlUwNjBpeDNReEtIdHhpV0U3T2NPVHU3S2t0eUJ1U01zWlhrRTFfTjVuTE11QzFXOExyS091Y3F2MTVmUWhfVQ?oc=5",
-     "date": "2026-11-24T14:28:01.000Z",
-     "text": "Ifo-Geschäftsklima: Deutsche Wirtschaft auf Erholungskurs Hit Radio FFH",
-     "via": "Hit Radio FFH"
-    },
-    {
      "title": "„Es brennt lichterloh“ – Deutschlands Top-Verdiener verweigern den Konsum - WELT",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcGlsMGM5bW1iSENxOGdMZzVRbFNpbTJFSFN0c20yMDNoU25KUk5Ja0ZiODNEVXVKMElQMUZUbjFEcXdablpWTTJXOThuRjlLOE9tVG42b3Nwc0JKUktNVmJtYXZfaXhVMHY3cDZuS0xtSkdDU3FEcGNvN0xjRVdKQTJTSm9wQUxlZWZ6ZzFoSzBwdVdZMWRKcmZSaTZhSzVKVjluWmJBUURYQl9ZX2VBQnVOaWpvZEhxejV3MWhEUWc1NWhyTEh0VFVwWklsejg?oc=5",
      "date": "2026-11-24T10:49:33.000Z",
@@ -759,25 +779,11 @@
      "via": "WELT"
     },
     {
-     "title": "Deutsche Wirtschaft schöpft Hoffnung – doch ein Risiko bleibt - MOPO",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTXVBOVBqaW11MTZvcC1pYXR0aTJFMjFpb2VwQkZSQnliWEdlQzF0elNwZVVSWjB1cjZhS1F4YWZVSmdaeTAweFV3c2duR0Jkdl9waWw4eEkxSnpjOGt1QnlqT05aU2ZyTUJTSjUxR1pSY2d6VFI5RjNpMjFGZU0xWEl1WGxlLXpkQlI5cDZOQVBsQmRsV0tWYVhnZTlwLWpUUDNRallQTGttUm5pbVhUNGpTODV1ZmtwSmc?oc=5",
-     "date": "2026-11-24T11:31:19.000Z",
-     "text": "Deutsche Wirtschaft schöpft Hoffnung – doch ein Risiko bleibt MOPO",
-     "via": "MOPO"
-    },
-    {
-     "title": "Deutschland hinkt beim Einkaufen mit KI deutlich hinterher - Wirtschaft weltweit - Pforzheimer-Zeitung - PZ-news.de",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWN1eDB0TkpVeVFHR2sxYV84dmlmS3RVTlQ4WVQ1TUtpczJONXppcWM0WkE1XzROZlg4UDlqeTVjSTB4N0M4aHBwZU1vOV9qUlFlRU1vekhadW5HcGlhOEprM0hKLXlGOGNOQjdYN21fR3ExZEQ3Ry1rVWp3SzJoejBNUUVkcmFmR3hYOTFiZUk3UDBJWlRfOGxKMk45RjdDakhFaV85eUpvN3ZMWkxBcVhYb3c2UHdQWjFqQ2NkNjNNWW1NT1lYRHF2LVRZVXF5Slp6MF9pbw?oc=5",
-     "date": "2026-11-25T03:04:00.000Z",
-     "text": "Deutschland hinkt beim Einkaufen mit KI deutlich hinterher - Wirtschaft weltweit - Pforzheimer-Zeitung PZ-news.de",
-     "via": "PZ-news.de"
-    },
-    {
-     "title": "EU-Schuldenregeln: Deutschland überschreitet Defizitgrenze – Brüssel schont Klingbeil - Wirtschaft - SZ.de - SZ.de",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVRjTkNTdWFsa1RxRUx0alJHN0dGUzNSTm1oVklzS2ZTWEQ3WHlLOEpDSlQxN1VoSFkybUk1VkhlZ1Z0MzRBRWM0cHZJRUtmMEhzdjRuOXcyenVoU3N0amw2STBFaHkxRDhnVm1BX1VWSlV1QzBmdFJBSEQ5MmRiUDRPNngxUGpUQlBLeW1qMk1TUjVJ?oc=5",
-     "date": "2026-11-24T15:03:25.000Z",
-     "text": "EU-Schuldenregeln: Deutschland überschreitet Defizitgrenze – Brüssel schont Klingbeil - Wirtschaft - SZ.de SZ.de",
-     "via": "SZ.de"
+     "title": "Ifo-Geschäftsklima: Deutsche Wirtschaft auf Erholungskurs - Hit Radio FFH",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPanVQWVF5NmExTFpmaFR0RVY4V3djN1RDZEt4N29qTVpCcWF0VU1oWXJpVFktenJlYlRFVHRkTzV6b2duamF2RGx6dWt2STcyRVFMVjBVbjByOEt3OWFXWklIS1Y2VEtpNlUwNjBpeDNReEtIdHhpV0U3T2NPVHU3S2t0eUJ1U01zWlhrRTFfTjVuTE11QzFXOExyS091Y3F2MTVmUWhfVQ?oc=5",
+     "date": "2026-11-24T14:28:01.000Z",
+     "text": "Ifo-Geschäftsklima: Deutsche Wirtschaft auf Erholungskurs Hit Radio FFH",
+     "via": "Hit Radio FFH"
     },
     {
      "title": "Konjunktur in Deutschland: Exporte bei Maschinenbau und Elektro ziehen an - WirtschaftsWoche",
@@ -787,6 +793,20 @@
      "via": "WirtschaftsWoche"
     },
     {
+     "title": "EU-Schuldenregeln: Deutschland überschreitet Defizitgrenze – Brüssel schont Klingbeil - Wirtschaft - SZ.de - SZ.de",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVRjTkNTdWFsa1RxRUx0alJHN0dGUzNSTm1oVklzS2ZTWEQ3WHlLOEpDSlQxN1VoSFkybUk1VkhlZ1Z0MzRBRWM0cHZJRUtmMEhzdjRuOXcyenVoU3N0amw2STBFaHkxRDhnVm1BX1VWSlV1QzBmdFJBSEQ5MmRiUDRPNngxUGpUQlBLeW1qMk1TUjVJ?oc=5",
+     "date": "2026-11-24T15:03:25.000Z",
+     "text": "EU-Schuldenregeln: Deutschland überschreitet Defizitgrenze – Brüssel schont Klingbeil - Wirtschaft - SZ.de SZ.de",
+     "via": "SZ.de"
+    },
+    {
+     "title": "Deutschland hinkt beim Einkaufen mit KI deutlich hinterher - Wirtschaft weltweit - Pforzheimer-Zeitung - PZ-news.de",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWN1eDB0TkpVeVFHR2sxYV84dmlmS3RVTlQ4WVQ1TUtpczJONXppcWM0WkE1XzROZlg4UDlqeTVjSTB4N0M4aHBwZU1vOV9qUlFlRU1vekhadW5HcGlhOEprM0hKLXlGOGNOQjdYN21fR3ExZEQ3Ry1rVWp3SzJoejBNUUVkcmFmR3hYOTFiZUk3UDBJWlRfOGxKMk45RjdDakhFaV85eUpvN3ZMWkxBcVhYb3c2UHdQWjFqQ2NkNjNNWW1NT1lYRHF2LVRZVXF5Slp6MF9pbw?oc=5",
+     "date": "2026-11-25T03:04:00.000Z",
+     "text": "Deutschland hinkt beim Einkaufen mit KI deutlich hinterher - Wirtschaft weltweit - Pforzheimer-Zeitung PZ-news.de",
+     "via": "PZ-news.de"
+    },
+    {
      "title": "Einzelhandel-Honig ist häufig nicht aus Deutschland - Wirtschaft weltweit - Pforzheimer-Zeitung - PZ-news.de",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWEl5UVBuZnVZQzlTNDRLUUJoZUxwWmlmejB6ZGZ1ampPMU1BNV9ma3VnSUNEOWJfSEVJaURhMC01bVhscWc4djJoNDU4dWdVTFlKdVdrUlVpaDFqY0R3TGtVUlZtTTBiMjVQWkZDaklvbUhETGtlYkx0SHRoMk5HYS0zR1luSW92aC1LOWhiMmJSNlFFV2FUTkdIQVRhRlNDTUNvMWZib1FWaExJOHNKY0FIWWhHb2NVZ0JWSlBiaGF6VFlkVW5kLS14UlYwS2M?oc=5",
      "date": "2026-11-25T04:03:00.000Z",
@@ -794,24 +814,17 @@
      "via": "PZ-news.de"
     },
     {
+     "title": "Deutsche Wirtschaft schöpft Hoffnung – doch ein Risiko bleibt - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTXVBOVBqaW11MTZvcC1pYXR0aTJFMjFpb2VwQkZSQnliWEdlQzF0elNwZVVSWjB1cjZhS1F4YWZVSmdaeTAweFV3c2duR0Jkdl9waWw4eEkxSnpjOGt1QnlqT05aU2ZyTUJTSjUxR1pSY2d6VFI5RjNpMjFGZU0xWEl1WGxlLXpkQlI5cDZOQVBsQmRsV0tWYVhnZTlwLWpUUDNRallQTGttUm5pbVhUNGpTODV1ZmtwSmc?oc=5",
+     "date": "2026-11-24T11:31:19.000Z",
+     "text": "Deutsche Wirtschaft schöpft Hoffnung – doch ein Risiko bleibt MOPO",
+     "via": "MOPO"
+    },
+    {
      "title": "Steinmeier: Wirtschaft sollte Chancen in Afrika nutzen - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS0JpYS0xU1YtLWloRG11WkxTbWtCOGhQcTRNeTd5a2RBdURsZG5rWWlCenhlVW1IOEpVU2ludExLMExKX1EtUXlGdmhOTjdNY1d2c2czOWtQcXNOaFMxZVEtOG1rLWc4Si1SQXplbUNWN0VnYVl6TGQ5d3NCVzZLS0ZTVWJTSWF4NzMwUlNEemNHUjNhMHl1Sko1MHktaHowVy1lRXlNTEVidnRzaU9iYU1ncDBHRlh1eWhaOERaN19ISlh0OXB4WQ?oc=5",
      "date": "2026-11-24T13:07:00.000Z",
      "text": "Steinmeier: Wirtschaft sollte Chancen in Afrika nutzen Allgemeine Zeitung",
-     "via": "Allgemeine Zeitung"
-    },
-    {
-     "title": "ifo-Präsident Fuest: Wo die Wirtschaft zulegt – und wo sie schwächelt - Der Aktionär",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGFXLXUyd2tEcDdDZVVZRWFGSzhtLXMtVmR6WXg1MDR0UUlKNS1ObjhuaWJJcUdvc2dmbGprV0JqYXpzVnhlNl9WSUNIZTgtdHhMQ0o0cG12V3pFdDh5dGNNazdobm1XUENtTmZ6V3BqUWZiMmU4bjg0a3ZNNlMxd2JOTU5BZkdORW9DQjdWaElxY1lqY29nTzhEbElSUWNCZG0tdm0wRFU3N3JJUTlJUXNNeWluUTNQcGg2YmtGaG1uTENxOXFzS3dRN09NUQ?oc=5",
-     "date": "2026-11-24T09:45:00.000Z",
-     "text": "ifo-Präsident Fuest: Wo die Wirtschaft zulegt – und wo sie schwächelt Der Aktionär",
-     "via": "Der Aktionär"
-    },
-    {
-     "title": "Preise für Computer und Konsolen steigen deutlich - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSm90Z1JkdmxrY2hQS2kzSldFUGlUbFZlN1Z6OFpPTGVRT295dE1EUHpSN29EU2ZycmlUeGtCVGc2M281QkF6X2QyaUxTRDg3WjJPeUR4TGJQVVdEaTU5WDVKSEdlSm9ybFItUWpObl9raFhhdFpaTzUtRndvSVZsOTdDcmhaQmlCY3MtNm9Ndnc5THlGZUlpV0NjU1E0eFJqYXNqZTJTb3pIWE9yRGkzaVZUeVdIVi1jYlUyUGhfR0JvUWtF?oc=5",
-     "date": "2026-11-24T08:11:00.000Z",
-     "text": "Preise für Computer und Konsolen steigen deutlich Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
@@ -829,10 +842,31 @@
      "via": "Instagram"
     },
     {
+     "title": "ifo-Präsident Fuest: Wo die Wirtschaft zulegt – und wo sie schwächelt - Der Aktionär",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGFXLXUyd2tEcDdDZVVZRWFGSzhtLXMtVmR6WXg1MDR0UUlKNS1ObjhuaWJJcUdvc2dmbGprV0JqYXpzVnhlNl9WSUNIZTgtdHhMQ0o0cG12V3pFdDh5dGNNazdobm1XUENtTmZ6V3BqUWZiMmU4bjg0a3ZNNlMxd2JOTU5BZkdORW9DQjdWaElxY1lqY29nTzhEbElSUWNCZG0tdm0wRFU3N3JJUTlJUXNNeWluUTNQcGg2YmtGaG1uTENxOXFzS3dRN09NUQ?oc=5",
+     "date": "2026-11-24T09:45:00.000Z",
+     "text": "ifo-Präsident Fuest: Wo die Wirtschaft zulegt – und wo sie schwächelt Der Aktionär",
+     "via": "Der Aktionär"
+    },
+    {
+     "title": "IMK: Hohe Spritpreise dämpfen Konsum und Konjunktur in Deutschland - fuldainfo.de",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHJ3cTd2VFNlbU1VT3hBVEVwOUpKN1gteFYtTnlISlZKUWt5OU9OanhmV0paODRDS1lPNlJxR0lFU0hDY3V6OF9qb3pHb2QzbnVNc0NPZnJRR2FSYXk2SjNwcnVoQktKOC1kRnJDUXBuNGU5djZxeWlmcUNPVVZ6VzFpdFpXbVlNUHVGcElMOXNxbEdlS3Nv?oc=5",
+     "date": "2026-11-24T06:28:06.000Z",
+     "text": "IMK: Hohe Spritpreise dämpfen Konsum und Konjunktur in Deutschland fuldainfo.de",
+     "via": "fuldainfo.de"
+    },
+    {
      "title": "Industrie drängt auf Tempo bei Reformen - KI als Chance - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNakx3alhFWXAyRlRhaTVPNVQ0X0w4UE4yZC1BMFh2R1BMVVZYVXJ1QVU5S0FzZ3JKOTFfa1V4Y0sybERSaUF6bktDeWZ3SlhXenQ5MWRWWFktOTdIc1RQYUF3cVFlSFFtUFZVT1JZSVZibXVldlpwT3E0ejh6NDhFWHNSTGhrZkJCVHJkTlFtV3NrMEU3OHdCSEgtclA1bDNuQ1J1NHhTMEctZDdKMVFJUGUyaDhIaV85U1FkOGk1d3N6V2FDSEpQM3RB?oc=5",
      "date": "2026-11-24T11:59:00.000Z",
      "text": "Industrie drängt auf Tempo bei Reformen - KI als Chance Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Verhandler unter Druck: Klappt Pilotabschluss in Mannheim? - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaTFRbFlfMkFKMVBOWHpHZDFIdFlvWkhjaEJHYm9wYlA1T0JaZGFpQ0RqdUg4QU10a0lQNkJqZWVXWnZaWWFpSkxtUEw5Q3d3VHRYV01pZElwSW9KOGpmY0RXT3R1S1g0Q0V0WkxMQzJsSGpHMDNvdHdEU3BVVTV3Q1NNUjJxZnROUlBjSjRUcEpqcXNuWnZZWnFuYWZGZllabEwzeHZxMVI0VmVXdldOZXA5aGstQ3JlTm1TWXNBbnJwZ1YxcGhzLXhSYTQ?oc=5",
+     "date": "2026-11-24T17:30:00.000Z",
+     "text": "Verhandler unter Druck: Klappt Pilotabschluss in Mannheim? Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
@@ -843,10 +877,10 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "Ein Grüner hält sich unter Schwarz-Rot im Chefsessel - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFNRVTJpaTZoSmxwQU1mQ0hqOXpibGo2Mk9tUW9BVGQzcERNdnVLOVNVUVl5RUQySVY4bHRsZG05OTRyeWJiQjdyQVFMbVJiTnRoWnBqNnNVZXRsNzF5SjdXczFBSE40T0dSSE9uVlZHYXFGZlUxeFYzb2FuV0tTQjhhQjItT001a19yRENVZExaS3FGdHZjMG52endzQzM4OEViSDhmUUJEVlQxMEVTWGxDemZLZWswdUNIWm5BV1Z5ZC1JNXNETEJn?oc=5",
-     "date": "2026-11-23T13:29:00.000Z",
-     "text": "Ein Grüner hält sich unter Schwarz-Rot im Chefsessel Allgemeine Zeitung",
+     "title": "Preise für Computer und Konsolen steigen deutlich - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSm90Z1JkdmxrY2hQS2kzSldFUGlUbFZlN1Z6OFpPTGVRT295dE1EUHpSN29EU2ZycmlUeGtCVGc2M281QkF6X2QyaUxTRDg3WjJPeUR4TGJQVVdEaTU5WDVKSEdlSm9ybFItUWpObl9raFhhdFpaTzUtRndvSVZsOTdDcmhaQmlCY3MtNm9Ndnc5THlGZUlpV0NjU1E0eFJqYXNqZTJTb3pIWE9yRGkzaVZUeVdIVi1jYlUyUGhfR0JvUWtF?oc=5",
+     "date": "2026-11-24T08:11:00.000Z",
+     "text": "Preise für Computer und Konsolen steigen deutlich Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
@@ -864,25 +898,11 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "IMK: Hohe Spritpreise dämpfen Konsum und Konjunktur in Deutschland - Presse Augsburg",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa09jVWxJNWtXd3RfaC1DOHpvU0VyQk1BTzljWl9saGxwdkNhMTBzOHkta0pQUlhIejFHcE5jenlfY0ZKUDRwdV9HVHBSdWk0OTE1bTBNcmJqLW5zVTVqcjhoZkl4RFk2SnhPX3RBTktyYUs3enJEZ2xBbklqbEFNTENkQ2JJeV9UNnZOVHBaOFNHOXNncVhhV0FB?oc=5",
-     "date": "2026-11-23T23:05:45.000Z",
-     "text": "IMK: Hohe Spritpreise dämpfen Konsum und Konjunktur in Deutschland Presse Augsburg",
-     "via": "Presse Augsburg"
-    },
-    {
      "title": "Streit über Mercosur-Abkommen: Deutschland verpasst Milliardeneinnahmen – \"Rückschlag\" - T-Online",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYkVIeGlvZTkzRmlQd2xRcjFsRHV3SmdmcldyaEJUWUxXdVQ1RWRoRmJOSUc1VUliR0FMeFlXTXlGMnNTX3hpNnFMbG1Pd3hrQzQ5MllMZ0ROTkhlcWRlcjJpaXNPa1lpcTc0dVFzLU5WOG92eGdRME1kcGNfSE1sNW5Yem9BQ3VsMU5XY2pNLU9TenkzVmlTZFhIYS1vZHR0anF0WVlwNjZ5bGZ5YldzaTNGRlRMNVZBRmQ4WGpsZjQ5TmRZUmI0ZHVLNFJ6NU9tcUFJWA?oc=5",
      "date": "2026-11-23T09:33:46.000Z",
      "text": "Streit über Mercosur-Abkommen: Deutschland verpasst Milliardeneinnahmen – \"Rückschlag\" T-Online",
      "via": "T-Online"
-    },
-    {
-     "title": "EU-Haushalt: Deutschland bleibt größter Nettozahler, Institut der deutschen Wirtschaft Köln e.V., Story - lifePR",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGg1QkdOVWh0bVRVbDRKQVJvcnI3ZlpvMTAtWHhuQVJHaUxEM0tKbzlrQ2NTdFN6cnJ2ZjJWWmxwWEpmaVhla1dybFJXY2lmWlc0UnV2UzQya0Fhb3h4WUhiWVp5dEc5RktOdHYzdDN0Z1IzMTBIQjdGYUN1Zm84WFluQkxBb2c0RWYzMUpsZFQyQUx1TVQtUkM5Q21nQWpOWml5ZVVJNnpKczdHSy02OGdyM1pPUTlvSGozeXpmVVhNX1p3WkNTNFc1TlYycEt5?oc=5",
-     "date": "2026-11-24T10:34:00.000Z",
-     "text": "EU-Haushalt: Deutschland bleibt größter Nettozahler, Institut der deutschen Wirtschaft Köln e.V., Story lifePR",
-     "via": "lifePR"
     },
     {
      "title": "ING Deutschland führt Kreditkarte ein - aber nicht für alle - Wirtschaft weltweit - Pforzheimer-Zeitung - PZ-news.de",
@@ -899,24 +919,10 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "Urteil: Schwarz muss konkrete Gefahr durch Register belegen - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZlVacXVTSlpsTzZPNlI3SkR1SWktQlJWNGFXVGN5d0NOd1B4S29UMzBlZXV4TTk5Zk1Val9BbEQ3WEJHTGxYaWxhc3hHYXptYlhMb1pNX084RXp1RFF6R2thcHlaTXktUWNqMFVrdF9BRUZ4Z052R1lVcXhXZkJYZ1loM0J1UURxdHBuZjN1TWYyeTZCZ19HLVptcDE3cVlrX0dNZU1ZeU5ydHJ6Y2F6VTFpYUxIeURJb1A0U0wwZDhfdVRUQlotTklpbHMyQVk?oc=5",
-     "date": "2026-11-23T18:04:00.000Z",
-     "text": "Urteil: Schwarz muss konkrete Gefahr durch Register belegen Allgemeine Zeitung",
-     "via": "Allgemeine Zeitung"
-    },
-    {
      "title": "Hellweg verschwindet – Was wird jetzt aus den Baumärkten? - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT1BoUURqTGRKQ2VvV2lQSmlUSEF3SnNnVm9LeTRHcjRVb3gxQ2hNZzI1WEhELWxUXy04WmgtZHQ0dEV4T0lMR2wyN1d3b3ROQUJySkl6ck4zWThXUzhwNEFxY243R0UzQUd6RUxGc1BDSVBLNWhCTHRCTElPNmJaYndPamxvWFZGeFUzVkJMdGoyMTVjZnQ0QTBkRXhySTNjLTZrY1pqVGhSSXlkVXFZc2ZLUW45UEpoM1lKclBHcGY0QUQyX18yeWYwUQ?oc=5",
      "date": "2026-11-23T18:30:00.000Z",
      "text": "Hellweg verschwindet – Was wird jetzt aus den Baumärkten? Allgemeine Zeitung",
-     "via": "Allgemeine Zeitung"
-    },
-    {
-     "title": "Baumarktkette Toom verschwindet – Obi wird noch größer - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTkVrNnpvWFdSa05zRjVuNDBCMk1keDE3bUl2akpQc25lLWdrTnFfRzZmejFETng5SW12Yl9teEVuU1pIcTI0WGtaeUpGSEpMNGUzZ2JyMVpVXzZKc1pHZXFwRDRQYVE0RHVDVVhPdGk2eExqT3RQekZad21kRlZic1MtY1h0QVpteEdybGNnWTJLUXc3bzFqb0xsSzFITUtGOVExLWZjY1pQU05oTzBVTGVka0dWdHRjTE9vRW1NbVN0eFFnXzBGSEx3?oc=5",
-     "date": "2026-11-23T15:25:59.000Z",
-     "text": "Baumarktkette Toom verschwindet – Obi wird noch größer Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     }
    ]
@@ -926,6 +932,42 @@
    "focus": "Nur Wirtschaft, Arbeitsmarkt, Energie- und Strompreise, Haushalt. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
    "ok": true,
    "items": [
+    {
+     "title": "Bund streicht Gelder für NGO-Szene",
+     "url": "https://nius.de/politik/bund-streicht-gelder-fuer-ngo-szene",
+     "date": "2026-11-25T08:09:26.000Z",
+     "text": "Bundesfamilienministerin Karin Prien (CDU) vergibt die Gelder aus dem Programm „Demokratie leben!“ für 2027 neu."
+    },
+    {
+     "title": "Wachstum halbiert sich auf 0,1 Prozent: Deutsche Wirtschaft wächst noch weniger als gedacht",
+     "url": "https://nius.de/news/deutsche-wirtschaft-waechst-weniger",
+     "date": "2026-11-25T07:36:41.000Z",
+     "text": "Deutschlands Wirtschaft wächst im dritten Quartal nur um 0,1 statt 0,2 Prozent. Schwache Exporte und zurückhaltende Verbraucher bremsen."
+    },
+    {
+     "title": "Merz feiert Heino als „deutsche Legende“",
+     "url": "https://nius.de/gesellschaft/merz-feiert-heino-deutsche-legende",
+     "date": "2026-11-25T06:29:43.000Z",
+     "text": "Friedrich Merz ehrt Heino als „deutsche Legende“. Der 87-Jährige scherzt über die Beatles, stichelt gegen die Toten Hosen und denkt nicht ans Aufhören."
+    },
+    {
+     "title": "Kerzen vor Weihnachten deutlich teurer: Hersteller erhöhen Preise um bis zu 50 Prozent",
+     "url": "https://nius.de/wirtschaft/kerzen-vor-weihnachten-deutlich-teurer",
+     "date": "2026-11-25T06:22:05.000Z",
+     "text": "Kerzen werden zu Weihnachten deutlich teurer. Hersteller erhöhen ihre Preise um bis zu 50 Prozent. Auch EU-Zölle treiben die Kosten."
+    },
+    {
+     "title": "Sex-Flaute bei jungen Deutschen: Jeder Vierte hat kaum noch oder gar keinen Sex",
+     "url": "https://nius.de/gesellschaft/sex-flaute-bei-jungen-deutschen",
+     "date": "2026-11-25T06:15:09.000Z",
+     "text": "Junge Deutsche haben immer seltener Sex. Nur noch 43 Prozent der unter 35-Jährigen werden wöchentlich intim. Selbstbefriedigung nimmt deutlich zu."
+    },
+    {
+     "title": "Fernster Quasar entdeckt: Euclid blickt 13,1 Milliarden Jahre zurück",
+     "url": "https://nius.de/ausland/quasar-rekord-euclid-entdeckung",
+     "date": "2026-11-25T05:39:47.000Z",
+     "text": "Ein Team um Julien Wolf findet Dun Aonghasa. Sein Schwarzes Loch wiegt 360 Millionen Sonnen und gibt Rätsel auf."
+    },
     {
      "title": "Antalya ist kein Scheitern – es ist ein Segen für Deutschland",
      "url": "https://nius.de/analyse/antalya-kein-scheitern-segen-deutschland",
@@ -1069,42 +1111,6 @@
      "url": "https://nius.de/nachrichten/mord-in-frankfurt-jugendliche-verdaechtig",
      "date": "2026-11-24T11:44:59.000Z",
      "text": "Zwei Jugendliche (16 und 17) stehen unter Mordverdacht. Sie sollen einen Geschäftsmann (38) in Frankfurt getötet haben."
-    },
-    {
-     "title": "Gravitation: Forscher senden erstmals Nachricht durch eine Wand",
-     "url": "https://nius.de/nachrichten/gravitation-nachricht-wand-aufzug",
-     "date": "2026-11-24T11:27:19.000Z",
-     "text": "Ein Aufzug als Sender, ein Messgerät im Bad: Für ein einziges Wort brauchte das System rund eine Stunde."
-    },
-    {
-     "title": "Reichelt: „Der Staat wettet auf hohe Strompreise“",
-     "url": "https://nius.de/nius-live/strompreise-2027-stromsteuer-entlastung",
-     "date": "2026-11-24T11:26:16.000Z",
-     "text": "Über 200 Versorger erhöhen zum 1. Januar die Tarife. Aus 80 Euro Entlastung werden bei vielen Haushalten Mehrkosten."
-    },
-    {
-     "title": "Rentenreform: Unions-Mittelstand fordert Abschaffung der Rente mit 63",
-     "url": "https://nius.de/politik/rentenreform-mittelstand-abschaffung-rente-63",
-     "date": "2026-11-24T10:53:54.000Z",
-     "text": "Der Unions-Mittelstand fordert die Abschaffung der Rente mit 63. Die SPD bleibt beim Nein. Friedrich Merz gerät unter Druck."
-    },
-    {
-     "title": "Kölns Grundsicherungszahlungen an Rumänen steigen auf mehr als das Siebenfache",
-     "url": "https://nius.de/gesellschaft/koelns-grundsicherungszahlungen-an-rumaenen-steigen-auf-mehr-als-das-siebenfache",
-     "date": "2026-11-24T10:45:18.000Z",
-     "text": "Die Grundsicherungsansprüche rumänischer Staatsbürger in Köln sind seit 2010 von rund 1,28 Millionen auf 9,39 Millionen Euro im Jahr 2025 gestiegen."
-    },
-    {
-     "title": "+++ Frau (41) bremst Auto aus und sticht auf Beifahrer (21) ein +++ Schüsse vor Bremer Imbiss nach Messerattacke +++ Mann (43) drückt Ehefrau (43) in Badewanne unter Wasser +++",
-     "url": "https://nius.de/kriminalitaet/gewalt-in-deutschland",
-     "date": "2026-11-24T10:34:25.000Z",
-     "text": "Messerübergriffe, Vergewaltigungen und Tötungsdelikte sind inzwischen trauriger Alltag in Deutschland. Durch die fortgesetzte Masseneinwanderung in den vergangenen zehn Jahren haben die Übergriffe und Gewaltdelikte eine neue Qualität erreicht. In vielen Medien laufen die Nachrichten darüber nur noch „unter ferner liefen“ – wenn denn überhaupt berichtet wird."
-    },
-    {
-     "title": "Nichtdeutsche bei Sexualstraftaten und Partnerschaftsgewalt deutlich überrepräsentiert",
-     "url": "https://nius.de/kriminalitaet/nichtdeutsche-bei-sexualstraftaten-und-partnerschaftsgewalt-deutlich-ueberrepraesentiert",
-     "date": "2026-11-24T10:20:25.000Z",
-     "text": "Bei Sexualstraftaten, häuslicher Gewalt und Tötungsdelikten gegen Frauen liegt der Anteil nichtdeutscher Tatverdächtiger deutlich über ihrem Bevölkerungsanteil."
     }
    ]
   }
