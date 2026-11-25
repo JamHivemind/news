@@ -1,109 +1,120 @@
 {
-  "date": "2026-11-24",
-  "intro": "Die Börse erholt sich nach einer Verlustserie, und bei VW beginnt ein harter Tarifstreit. In Berlin rücken Union und SPD beim Streit um die Rente offenbar näher zusammen.",
-  "top": [
-    {
-      "title": "Börsen erholen sich nach Nvidia-Nachricht",
-      "text": "Der Dax hatte sechs Handelstage in Folge verloren und war auf den tiefsten Stand seit Anfang Oktober gefallen. Am Montag erholte er sich erst zaghaft. Dann trieb die Rückkehr von Jensen Huang an die Nvidia-Spitze KI-Aktien nach oben. An der Wall Street schloss der Nasdaq-Index (Technologiebörse) mehr als sechs Prozent im Plus.",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Börse & Märkte"
-    },
-    {
-      "title": "VW und IG Metall starten harte Tarifrunde",
-      "text": "Volkswagen verlangt von den Beschäftigten wegen der Krise der Autoindustrie massive Einschnitte, etwa Nullrunden, Änderungen bei der Arbeitszeit und bei Zulagen. Laut Handelsblatt will der Konzern sogar frühere Lohnzusagen kassieren. Die IG Metall wehrt sich, die Fronten gelten als verhärtet. Für die Beschäftigten geht es um ihr Einkommen, für VW um seine Kosten.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/fronten-verhaertet-ig-metall-und-vw-starten-tarifverhandlungen/100272235.html",
-      "source": "Handelsblatt",
-      "category": "Arbeit & Soziales",
-      "tipp": "VW-Beschäftigte und Gewerkschaftsmitglieder sollten die Informationen der IG Metall zu Warnstreik- und Verhandlungsterminen im Blick behalten."
-    },
-    {
-      "title": "Rentenstreit: Union und SPD deuten Kompromiss an",
-      "text": "Die Union will die „Rente mit 63“ am liebsten abschaffen, die SPD will sie behalten. Laut Handelsblatt sprechen beide Seiten inzwischen von Kompromissen. Wichtige Fragen der geplanten Reform sind aber weiter offen. Für Beschäftigte kurz vor der Rente entscheidet sich damit, ob frühes Aufhören teurer wird.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/rente-mit-63-union-macht-druck-bei-rente-spd-kompromissbereit/100272122.html",
-      "source": "Handelsblatt",
-      "category": "Arbeit & Soziales"
-    }
-  ],
-  "entries": [
-    {
-      "title": "Neue Warnstreiks in der Metall- und Elektroindustrie",
-      "summary": "In Norddeutschland läuft ein weiterer Warnstreik. Vielerorts sind die Tarifverhandlungen festgefahren.",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Stromspar-Check für weitere drei Jahre gesichert",
-      "summary": "Haushalte mit wenig Geld können sich weiter kostenlos zum Stromsparen beraten lassen und Zuschüsse bekommen. Die Finanzierung ist für drei weitere Jahre gesichert.",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Energie",
-      "tipp": "Haushalte mit geringem Einkommen können die kostenlose Stromspar-Beratung nutzen."
-    },
-    {
-      "title": "Nachfrage nach MINT-Fachkräften steigt wieder",
-      "summary": "Erstmals seit 2023 suchen Firmen wieder mehr Fachkräfte aus Mathematik, Informatik, Naturwissenschaften und Technik (MINT). Die bessere Konjunktur wirkt sich damit auf den Arbeitsmarkt aus.",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mint-fachkraefte-steigende-nachfrage-100.html",
-      "source": "tagesschau Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Obi und Toom wollen fusionieren",
-      "summary": "Die beiden Baumarktketten wollen ihre mehr als 600 Märkte unter einem Dach vereinen. Die Marke Toom soll wegfallen. Für Kunden heißt das: Märkte unter dem Namen Obi.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/baumarktketten-obi-und-toom-schliessen-sich-zusammen-a-3a984bb7-6185-415f-a62e-146a593dd5c7#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "BYD darf SUV Ti7 in der EU nicht verkaufen",
-      "summary": "Ein Gericht in Den Haag untersagt den Verkauf, weil das Modell dem Land Rover Defender zu ähnlich sieht. Die BYD-Aktie reagierte mit Kursverlusten.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/byd-aktie-faellt-nach-eu-verkaufsverbot-fuer-ti7-suv-wegen-defender-aehnlichkeit-a-d3dce60e-82ac-4c8f-b443-41e969718b32#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Spritpreisdeckel: Reiche will Autobahntankstellen ausnehmen",
-      "summary": "Wirtschaftsministerin Katherina Reiche befürchtet bei einem harten Preisdeckel knappes Benzin und Diesel und will Ausnahmen für Autobahntankstellen. Linke und Grüne kritisieren das.",
-      "url": "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Energie"
-    },
-    {
-      "title": "Altersteilzeit: Strengere Regeln könnten Milliarden bringen",
-      "summary": "Die Rentenkommission der Bundesregierung will die Altersteilzeit strenger regeln. Das DIW (ein Wirtschaftsforschungsinstitut) hat ausgerechnet, was das dem Staat einbringen würde.",
-      "url": "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss",
-      "source": "Spiegel Wirtschaft",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "Regierung lehnt Söders Ruf nach Steuerentlastung ab",
-      "summary": "CSU-Chef Markus Söder fordert, die kalte Progression (steigende Steuer allein durch Inflation) für 2027 voll auszugleichen. Die Bundesregierung will darüber nicht neu verhandeln.",
-      "url": "https://nius.de/politik/bundesregierung-erteilt-soeders-forderung-nach-steuerentlastung-eine-absage",
-      "source": "NIUS",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "Junge sehen Aktien als Altersvorsorge, Ältere zögern",
-      "summary": "Das Vertrauen in die gesetzliche Rente sinkt. Laut einer Umfrage setzen besonders junge Menschen auf Aktien, Ältere sind skeptischer. Am beliebtesten ist trotzdem eine andere Form der Vorsorge.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/graben-zwischen-generationen-junge-sehen-aktien-als-gute-altersvorsorge-aeltere-zoegern/100272214.html",
-      "source": "Handelsblatt",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "BMW und Rheinmetall planen Handelshaus für Rohstoffe",
-      "summary": "Mehrere Unternehmen wollen Rohstoffe gemeinsam einkaufen, um unabhängiger von China zu werden. Auch die Bundesregierung soll dabei eine Rolle spielen.",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/industrie-bmw-und-rheinmetall-planen-handelshaus-fuer-rohstoffe/100271875.html",
-      "source": "Handelsblatt",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "Exporte bei Maschinenbau und Elektro ziehen an",
-      "summary": "Laut WirtschaftsWoche steigen die Ausfuhren in zwei wichtigen Industriezweigen. Das passt zu Meldungen über eine anziehende Konjunktur.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVndUQmtnM19NTjhFdlZSOExCRlAtamQxWjdaOEFOa181MFVrYWxMendNbzBvSzdieXVmdHVJX3d0RGdfUFZHOGtLM194NS02ZmpVX24xbm9ZVVk1cHE5NnhacnkzZ2twTDd6ZHBwV1R0a093dlpKSDRNMDRIMGR6aURIdV9WR0FsX01GLTlaODZ5cVdTSEcyd2ZCV2F1aEMtMXRfVmNXUkpZNDVLbzJKN0pB?oc=5",
-      "source": "WirtschaftsWoche",
-      "category": "Konjunktur",
-      "tipp": "Am Mittwoch um 8 Uhr erscheint die zweite Schätzung zum Bruttoinlandsprodukt, die erste Zahl lag bei plus 0,2 Prozent."
-    }
-  ]
+ "date": "2026-11-25",
+ "intro": "Die Stimmung in der deutschen Wirtschaft hellt sich weiter auf, doch in der Autoindustrie wird um Jobs und Arbeitszeit gestritten. Dazu drohen neue US-Zölle.",
+ "top": [
+  {
+   "title": "Ifo-Index steigt zum siebten Mal in Folge",
+   "text": "Das Ifo-Geschäftsklima (eine monatliche Umfrage unter Unternehmen) ist im November erneut gestiegen. Nach Spiegel-Angaben liegt es so hoch wie zuletzt im Frühjahr 2023. Ökonomen sehen die Erholung der deutschen Wirtschaft vorankommen. Für Beschäftigte heißt das: Die Lage am Arbeitsmarkt könnte sich stabilisieren, auch wenn die Erholung laut FAZ nicht in der Breite ankommt.",
+   "category": "Konjunktur",
+   "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html",
+   "source": "tagesschau Wirtschaft"
+  },
+  {
+   "title": "VW-Tarifrunde startet in Emden",
+   "text": "Für rund 120.000 Beschäftigte von Volkswagen beginnt die Tarifrunde, mitten in der tiefsten Krise der Konzerngeschichte. Es geht um Löhne und um Arbeitsplätze. Laut Spiegel wackelt in der Branche auch die 35-Stunden-Woche, weil die Konzerne trotz Stellenabbau mehr Einsparungen wollen.",
+   "category": "Arbeit & Soziales",
+   "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html",
+   "source": "tagesschau Wirtschaft"
+  },
+  {
+   "title": "USA planen offenbar neue Zölle gegen EU und China",
+   "text": "Laut Medienberichten will die US-Regierung neue Zölle gegen 16 wichtige Handelspartner verhängen. Begründet wird das mit angeblichen Überkapazitäten in der Industrie. Für Deutschland als Exportland wäre das ein Risiko. Bisher beruht die Meldung auf Berichten, nicht auf einem Beschluss.",
+   "category": "Politik & Handel",
+   "url": "https://www.handelsblatt.com/politik/international/handelskonflikt-usa-planen-offenbar-neue-zoelle-gegen-die-eu-und-china/100272509.html",
+   "source": "Handelsblatt"
+  }
+ ],
+ "entries": [
+  {
+   "title": "DAX fällt zurück, Tech-Aktien sinken",
+   "summary": "Der Kurssprung bei Nvidia nach der Rückkehr von Konzernchef Huang ist an den Märkten schon wieder verpufft. Auch der DAX gab nach.",
+   "category": "Börse & Märkte",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
+   "source": "tagesschau Wirtschaft"
+  },
+  {
+   "title": "Ölpreise stabilisieren sich",
+   "summary": "Nach den Verlusten vom Vortag hat sich der Ölpreis gefangen. Hintergrund ist vorsichtiger Optimismus bei den Verhandlungen zwischen den USA und Iran.",
+   "category": "Energie",
+   "url": "https://www.spiegel.de/wirtschaft/oel-preise-stabilisieren-sich-sich-nach-vortagsverlusten-a-bc31a2d2-29a0-493f-990a-53971fb94289#ref=rss",
+   "source": "Spiegel Wirtschaft"
+  },
+  {
+   "title": "Hohe Spritpreise bremsen Konsum und Konjunktur",
+   "summary": "Laut dem gewerkschaftsnahen Institut IMK dämpfen die hohen Spritpreise den privaten Konsum und damit die Konjunktur in Deutschland.",
+   "category": "Energie",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa09jVWxJNWtXd3RfaC1DOHpvU0VyQk1BTzljWl9saGxwdkNhMTBzOHkta0pQUlhIejFHcE5jenlfY0ZKUDRwdV9HVHBSdWk0OTE1bTBNcmJqLW5zVTVqcjhoZkl4RFk2SnhPX3RBTktyYUs3enJEZ2xBbklqbEFNTENkQ2JJeV9UNnZOVHBaOFNHOXNncVhhV0FB?oc=5",
+   "source": "Presse Augsburg"
+  },
+  {
+   "title": "Deutschland überschreitet Defizitgrenze, Brüssel zeigt sich nachsichtig",
+   "summary": "Deutschland reißt die EU-Grenze für neue Schulden. Laut SZ schont Brüssel Finanzminister Klingbeil dennoch.",
+   "category": "Politik & Handel",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVRjTkNTdWFsa1RxRUx0alJHN0dGUzNSTm1oVklzS2ZTWEQ3WHlLOEpDSlQxN1VoSFkybUk1VkhlZ1Z0MzRBRWM0cHZJRUtmMEhzdjRuOXcyenVoU3N0amw2STBFaHkxRDhnVm1BX1VWSlV1QzBmdFJBSEQ5MmRiUDRPNngxUGpUQlBLeW1qMk1TUjVJ?oc=5",
+   "source": "SZ.de"
+  },
+  {
+   "title": "EU begrenzt ab Dezember die Einfuhr von Hybridautos",
+   "summary": "Ab dem 1. Dezember gelten für mehrere Herkunftsländer Obergrenzen für Hybridautos. Das trifft vor allem Hersteller, die Fahrzeuge nach Europa einführen.",
+   "category": "Politik & Handel",
+   "url": "https://nius.de/wirtschaft/eu-begrenzt-ab-dezember-die-einfuhr-von-hybridautos",
+   "source": "NIUS"
+  },
+  {
+   "title": "E-Autos boomen in der EU, vor allem aus China",
+   "summary": "Die Neuzulassungen von Elektroautos stiegen zuletzt um 61,4 Prozent. Besonders stark legen Hersteller aus China zu.",
+   "category": "Unternehmen",
+   "url": "https://www.spiegel.de/wirtschaft/unternehmen/e-auto-elektrofahrzeuge-boomen-in-der-eu-rekordanteil-von-chinesischen-modellen-a-5a77379f-8945-4230-94a7-3e7a5acd5b01#ref=rss",
+   "source": "Spiegel Wirtschaft"
+  },
+  {
+   "title": "BYD will frühere Smart-Fabrik in Lothringen kaufen",
+   "summary": "Bisher laufen alle in Europa verkauften BYD-Autos in China vom Band. Mit einem eigenen Werk in Frankreich soll sich das ändern.",
+   "category": "Unternehmen",
+   "url": "https://www.spiegel.de/wirtschaft/unternehmen/autohersteller-byd-will-ehemalige-smart-fabrik-in-lothringen-kaufen-a-44e5dc8a-e3da-4da7-a649-ee629bffa281#ref=rss",
+   "source": "Spiegel Wirtschaft"
+  },
+  {
+   "title": "Metall- und Elektroindustrie: Pilotabschluss wackelt",
+   "summary": "Die IG Metall fordert fünf Prozent mehr Lohn. Die Arbeitgeber bieten eine Einmalzahlung und später eine Tabellenstufe. In Mannheim ringen die Verhandler um einen Abschluss, der als Vorbild für andere Regionen dienen soll.",
+   "category": "Arbeit & Soziales",
+   "url": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-verhandler-unter-druck-klappt-pilotabschluss-in-mannheim/100272546.html",
+   "source": "Handelsblatt"
+  },
+  {
+   "title": "Butter kostet bei zwei Discountern unter einen Euro",
+   "summary": "Im Oktober 2024 lag das günstigste Päckchen noch bei 2,39 Euro. Sinkende Rohstoffpreise geben den Preisrückgang weiter.",
+   "category": "Konjunktur",
+   "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/supermarkt-butter-kostet-weniger-als-ein-euro-rohstoffpreise-sinken/100272516.html",
+   "source": "Handelsblatt"
+  },
+  {
+   "title": "Preise für Computer und Konsolen steigen deutlich",
+   "summary": "Laut Statistischem Bundesamt kosten Laptops, PCs und Spielekonsolen spürbar mehr als vor einem Jahr.",
+   "category": "Konjunktur",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSm90Z1JkdmxrY2hQS2kzSldFUGlUbFZlN1Z6OFpPTGVRT295dE1EUHpSN29EU2ZycmlUeGtCVGc2M281QkF6X2QyaUxTRDg3WjJPeUR4TGJQVVdEaTU5WDVKSEdlSm9ybFItUWpObl9raFhhdFpaTzUtRndvSVZsOTdDcmhaQmlCY3MtNm9Ndnc5THlGZUlpV0NjU1E0eFJqYXNqZTJTb3pIWE9yRGkzaVZUeVdIVi1jYlUyUGhfR0JvUWtF?oc=5",
+   "source": "Allgemeine Zeitung"
+  },
+  {
+   "title": "Körperschaftsteuer bricht um 13 Prozent ein, Lohnsteuer steigt",
+   "summary": "Nach Zahlen des Finanzministeriums zahlen Unternehmen deutlich weniger Körperschaftsteuer, die Lohnsteuer legt um 4,3 Prozent zu.",
+   "category": "Konjunktur",
+   "url": "https://nius.de/wirtschaft/steuereinnahmen-koerperschaftsteuer-einbruch-lohnsteuer",
+   "source": "NIUS"
+  },
+  {
+   "title": "Dekabank spürt Abflüsse bei offenen Immobilienfonds",
+   "summary": "Aus den offenen Immobilienfonds der Dekabank (Fonds, in die viele Kleinanleger investieren) fließt inzwischen Geld ab. In anderen Sparten legt das Sparkassen-Institut zu.",
+   "category": "Börse & Märkte",
+   "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/buero-gewerbe/dekabbank-meldet-moderate-abfluesse-aus-offenen-immobilienfonds-accg-201698324.html",
+   "source": "FAZ Wirtschaft"
+  },
+  {
+   "title": "EZB lässt mehr digitale Wertpapiere als Sicherheit zu",
+   "summary": "Der EZB-Rat erweitert die Zulassung von Wertpapieren auf DLT-Plattformen (eine Art digitale Register) als Sicherheiten für Notenbankgeschäfte.",
+   "category": "Zinsen & Geldpolitik",
+   "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/ezb-weitet-zulassung-von-dlt-basierten-wertpapieren-als-notenbankfaehige-sicherheiten-des-eurosystems-aus-1017044",
+   "source": "Bundesbank"
+  }
+ ]
 }
