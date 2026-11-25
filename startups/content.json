@@ -1,57 +1,92 @@
 {
-  "date": "2026-11-24",
-  "intro": "Rüstungs- und Sicherheitstechnik (Defense-Tech) bleibt der Wachstumsmotor der europäischen Szene, dazu kommen kleinere Runden für KI und Robotik. Meldungen aus Hamburg und Norddeutschland gab es heute nicht.",
-  "top": [
-    {
-      "title": "Agon sammelt 70 Millionen Dollar für Verteidigungs-KI ein",
-      "text": "Das Londoner Start-up Agon baut Infrastruktur für autonome Militärsysteme in Europa. In einer Series A (frühe Wachstumsrunde) bekam es 70 Millionen Dollar, der Firmenwert liegt bei 450 Millionen Dollar. Laut Sifted sind unter anderem Northzone und Lakestar dabei.",
-      "url": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/",
-      "source": "Sifted",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Playbook aus München holt 8 Millionen Euro für sichere Pharma-KI",
-      "text": "Playbook entwickelt KI, die Dokumente in Daten verwandelt, die eine KI lesen, aber nicht verändern kann. Zielkunden sind Pharmafirmen mit strengen Regeln. Die Runde über 8 Millionen Euro führt Heal Capital an.",
-      "url": "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/",
-      "source": "EU-Startups",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Defense-Tech: Start-ups sollen die Bundeswehr voranbringen",
-      "text": "Verteidigungstechnik gehört zu den am schnellsten wachsenden Bereichen Europas. Laut dem Report „State of Defence Tech 2026“ haben Defense-Start-ups in diesem Jahr schon mehr als sechs Milliarden Euro eingesammelt. Gründerszene fragt, wie sie die Bundeswehr konkret stärken sollen.",
-      "url": "https://www.businessinsider.de/gruenderszene/defense-tech-wie-startups-die-bundeswehr-voranbringen-sollen/t5czfrz/",
-      "source": "Gründerszene",
-      "category": "Europa & Welt"
-    }
-  ],
-  "entries": [
-    {
-      "title": "Coprod bekommt 6 Millionen Dollar für Robotik-Bauteile",
-      "summary": "Das Schweizer Start-up baut modulare Hardware für Robotik und „Physical AI“ (KI, die Maschinen in der realen Welt steuert). Es will damit die „Integrationshölle“ beim Zusammenbau lösen. Die Pre-Seed-Runde (sehr frühe Finanzierung) beträgt 5,45 Millionen Euro.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzBhLWtWTVk4U1RtMklmVkxSSHF6elhVWi1TMzRsd1NEVE1waE9RNmMzNm04NjNiRW1aV29KTDZJU0F6M2toX053REtxazF5MnB0TWVua1RzeXZ2cDBDMGdoOGpKX0FoT181akg5MTRBTllHSjR6SzlQeTNBZEdTNUhR?oc=5",
-      "source": "Inside IT",
-      "category": "Deep Tech & Forschung"
-    },
-    {
-      "title": "HoloSolis sammelt über 15 Millionen Euro für Solar-Gigafactory",
-      "summary": "Das Pariser Start-up will eine Solarfabrik für 1 Milliarde Euro in Frankreich bauen. Vier neue Investoren steigen ein, darunter Crédit Agricole.",
-      "url": "https://www.eu-startups.com/2026/11/paris-based-holosolis-raises-over-e15-million-to-advance-e1-billion-solar-gigafactory-in-france/",
-      "source": "EU-Startups",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Acorda erhält 2,15 Millionen Euro gegen Zahlungsbetrug",
-      "summary": "Das Londoner Fintech hilft Zahlungsanbietern, Betrugsmaschen zu erkennen, bevor Geld fließt. Die Pre-Seed-Runde führt Concept Ventures an.",
-      "url": "https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/",
-      "source": "EU-Startups",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Sequoia schließt Londoner Büro: Wendet sich das Silicon Valley von Europa ab?",
-      "summary": "Die Entscheidung des US-Investors hat die Debatte über das Engagement amerikanischer Geldgeber in Europa neu entfacht, auch wegen weiterer Abgänge. Ein Investor ordnet das im Interview ein.",
-      "url": "https://www.eu-startups.com/2026/11/is-silicon-valley-turning-its-back-on-europe-plug-and-plays-thomas-bigagli-weighs-in/",
-      "source": "EU-Startups",
-      "category": "Europa & Welt"
-    }
-  ]
+ "date": "2026-11-25",
+ "intro": "Heute prägen Verteidigungs-KI und frisches Geld für junge Fonds die Szene. In Hamburg-Lurup eröffnet ein neues Gründerzentrum für Quanten- und Materialforschung.",
+ "top": [
+  {
+   "title": "Agon sammelt 64 Millionen Euro für Verteidigungs-KI",
+   "text": "Das Londoner Startup Agon will eine europäische, unabhängige Infrastruktur für autonome Militärsysteme bauen. Es hat dafür rund 64 Millionen Euro eingesammelt und wird mit 411 Millionen Euro bewertet. Verteidigungstechnik gilt in Europa derzeit als besonders gefragter Bereich für Investoren.",
+   "category": "Finanzierungen",
+   "url": "https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/",
+   "source": "EU-Startups"
+  },
+  {
+   "title": "CommerzVentures schließt Fonds IV mit 50 Millionen Euro",
+   "text": "Der Frankfurter Wagniskapitalgeber setzt mit seinem vierten Fonds auf junge Firmen aus Finanztechnik (FinTech) und KI. Für Gründer in diesen Feldern gibt es damit eine weitere Geldquelle in Deutschland.",
+   "category": "Finanzierungen",
+   "url": "https://www.eu-startups.com/2026/11/frankfurt-based-commerzventures-closes-e50-million-fund-iv-betting-on-early-stage-fintech-and-ai/",
+   "source": "EU-Startups"
+  },
+  {
+   "title": "DESY eröffnet Gründerzentrum in Hamburg-Lurup",
+   "text": "In Lurup sollen Gründer Unternehmen aufbauen, etwa zu Quantentechnologie, Photonik und neuen Materialien. Laut Hamburger Medien eröffnen DESY und die Stadt das Zentrum gemeinsam. Es soll wissenschaftliche Ideen in Firmen verwandeln.",
+   "category": "Hamburg & Norddeutschland",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVG5lRFNQNnVVb1M0eWRnaEU1elFsZnE3SHhYeXYzU1pZQzFpOVYzdUtVQjREeVFRWXZ6T1RZdVhEazI2Y0I5OGlBSnFhbDhtUkQxU2FZclNPMTVOOVk0OWt2bno2VFJualVrdEl2ZERzaEpVc1EtUnYtT0h0S0JNeklveVhQM0U1ZWk2bkYyTDlucThtLUVMNUdaUWhDMW03M2FSUzJCX1dRRmNlWUNV?oc=5",
+   "source": "NDR.de"
+  }
+ ],
+ "entries": [
+  {
+   "title": "Bcomp erhält 20 Millionen Euro von der EIB",
+   "summary": "Das Schweizer Cleantech-Startup stellt Materialien aus Flachsfasern her, die Kohlefaser, Glasfaser und Kunststoff ersetzen sollen. Das Geld kommt von der Europäischen Investitionsbank.",
+   "category": "Finanzierungen",
+   "url": "https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/",
+   "source": "EU-Startups"
+  },
+  {
+   "title": "Good Heat sammelt 2 Millionen Euro für Wärmespeicher",
+   "summary": "Das Amsterdamer Startup will gasbefeuerte Dampfkessel in der Industrie durch Wärmebatterien ersetzen und liefert emissionsfreie Wärme als Dienstleistung.",
+   "category": "Finanzierungen",
+   "url": "https://www.eu-startups.com/2026/11/amsterdams-good-heat-raises-e2-million-to-replace-industrial-gas-fired-steam-boilers-with-heat-batteries/",
+   "source": "EU-Startups"
+  },
+  {
+   "title": "Elbic erhält 3 Millionen Dollar für europäische Sprach-KI",
+   "summary": "Das Startup baut Sprach-KI für den europäischen Markt. Die Meldung stammt von Startbase.",
+   "category": "Finanzierungen",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQci1wanc2Ym5pZ1lqSVRubE9Wd0VEWkdRWFU3ZXN3TUFoZXNSb05mRk1NdjF5OXYya3NEWWd1eGRQbm1INzVBS0t1WUt3UkQyVW50VWF5ZE05SmZoWmxCVVFGeE9WOTVyNWpvZUZYY0J4eEc5RWNfS1F3dXgybkJ0UUduc1dZQl9xaTViQWhLUXBPdlFCTms4RE9B?oc=5",
+   "source": "Startbase"
+  },
+  {
+   "title": "Maple sammelt 5,3 Millionen Dollar für verschlüsselte KI",
+   "summary": "Das Startup baut KI-Produkte, bei denen selbst die Firma keinen Zugriff auf die Daten der Nutzer haben soll.",
+   "category": "Gründungen & Produkte",
+   "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "source": "TechCrunch Startups"
+  },
+  {
+   "title": "Supertake bekommt 20 Millionen Dollar",
+   "summary": "Nutzer können dort Marktprognosen eingeben, und KI-Agenten bauen daraus ein Aktienportfolio, ohne dass die Nutzer einzelne Aktien auswählen müssen.",
+   "category": "Gründungen & Produkte",
+   "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "source": "TechCrunch Startups"
+  },
+  {
+   "title": "Wie Startups die Bundeswehr voranbringen sollen",
+   "summary": "Defense-Tech, also Technik für Verteidigung, ist laut Gründerszene der am schnellsten wachsende Bereich in Europa. Der Artikel erklärt, welche Rolle junge Firmen für die Bundeswehr spielen sollen.",
+   "category": "Förderung & Politik",
+   "url": "https://www.businessinsider.de/gruenderszene/bundeswehr-flottillenadmiral-verraet-wie-neue-technik-zur-truppe-kommt/t5czfrz/",
+   "source": "Gründerszene"
+  },
+  {
+   "title": "Adyen-Mitgründer Pieter van der Does gibt Co-Chefposten ab",
+   "summary": "Ingo Uytdehaage wird alleiniger Chef des niederländischen Zahlungsdienstleisters.",
+   "category": "Europa & Welt",
+   "url": "https://www.eu-startups.com/2026/11/adyens-co-founder-pieter-van-der-does-to-retire-as-co-ceo-ingo-uytdehaage-to-become-sole-ceo/",
+   "source": "EU-Startups"
+  },
+  {
+   "title": "Plural: Milliardenfonds und Verteidigungstechnik",
+   "summary": "Sten Tamkivi vom europäischen Investor Plural spricht laut Sifted über den Fonds mit einer Milliarde Euro, Defense-Tech und darüber, warum Europa die KI-Welle nicht verpasst habe. Der Artikel ist nur teilweise lesbar.",
+   "category": "Europa & Welt",
+   "url": "https://sifted.eu/articles/plural-fund-ai-podcast/",
+   "source": "Sifted"
+  },
+  {
+   "title": "Anthropic-Aktie unter Ausgabepreis: Warnsignal für KI-Startups",
+   "summary": "Der schwache Börsenstart von Anthropic könnte den Druck auf die Bewertungen anderer KI-Startups erhöhen.",
+   "category": "Exits & Übernahmen",
+   "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "source": "TechCrunch Startups"
+  }
+ ]
 }
