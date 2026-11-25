@@ -1,296 +1,310 @@
 {
-  "date": "2026-11-24",
-  "intro": "Der Ukraine-Krieg erreicht das Mittelmeer: Ukrainische Drohnen haben im libyschen Hafen Bengasi ein russisches Kriegsschiff versenkt. Dazu kommen Berichte über russische Atomwaffenpläne im All und die überraschende Rückkehr von Jensen Huang an die Nvidia-Spitze.",
-  "regionen": {
-    "Europa": "Russland und die Nato stehen sich nach Marschflugkörpern in Polen, Drohnenangriffen auf Schiffe und Berichten über eine Atomwaffe im All angespannt gegenüber.",
-    "Nahost": "Im Krieg zwischen den USA und Iran melden die Revolutionswächter brennende Tanker bei Hormus, im Gazastreifen warnt Oxfam vor Giftstoffen und verseuchtem Wasser.",
-    "Asien": "Russische Militärflugzeuge näherten sich Südkoreas Luftraum, und nach dem Genozid-Urteil gegen Myanmar sanktioniert Großbritannien Militärführer.",
-    "Amerika": "In den USA streiten Kongress und Weißes Haus über Trumps Rolle bei Huangs Rückkehr, die Demokraten kommen im Repräsentantenhaus auf ihre größte Mehrheit seit Jahrzehnten, in Haiti greift El Salvador militärisch ein.",
-    "Afrika": "Libyen fürchtet, in den Ukraine-Krieg hineingezogen zu werden, und der Kongo stoppt erneut Kobalt-Exporte."
+ "date": "2026-11-25",
+ "intro": "Der Ukraine-Krieg greift aufs Mittelmeer über, und Berichte über eine russische Atomwaffe im Weltall beunruhigen die Nato. Dazu kommen neue US-Zolldrohungen und Spannungen rund um Iran und Jemen.",
+ "regionen": {
+  "Europa": "Russland und die Ukraine liefern sich Angriffe bis ins Mittelmeer, Polen erlebt erneut Luftalarm, und Ungarns Regierungschef Magyar sucht wieder Annäherung an die Ukraine.",
+  "Nahost": "Israel greift trotz Waffenruhe weiter im Gazastreifen an, die Huthi-Miliz beschießt erneut einen Wolkenkratzer in Riad.",
+  "Asien": "China startet erstmals mit einem Astronauten aus Pakistan zur eigenen Raumstation, Nordkorea setzt die Schweizer Vertretung unter Druck.",
+  "Amerika": "Die USA bereiten neue Zölle gegen mehrere Handelspartner vor, in Kalifornien warnen Experten vor Extrem-Hochwasser, in Kolumbien explodiert eine Autobombe.",
+  "Afrika": "Aus dem Osten der DR Kongo wird ein vermisstes Militärflugzeug gemeldet."
+ },
+ "top": [
+  {
+   "title": "Ukraine versenkt russisches Kriegsschiff vor Libyen",
+   "text": "Nach Reuters-Angaben hat die Ukraine ein russisches Kriegsschiff in Libyen versenkt, der Konflikt reicht damit über Europa hinaus. Kiew spricht von Selbstverteidigung. Verteidigungsminister Pistorius mahnte laut WELT, der Krieg dürfe sich nicht auf die Ostsee ausweiten. Die Lage ist heikel, weil neue Schauplätze das Risiko einer Ausweitung erhöhen.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Libyen (Bengasi)",
+    "lat": 32.12,
+    "lon": 20.07
+   },
+   "hamburg": "Die Ostsee ist eine wichtige Handelsroute für norddeutsche Häfen, deshalb wird ein Übergreifen des Krieges aufs Meer in Norddeutschland genau beobachtet.",
+   "stimmen": [
+    {
+     "source": "tagesschau",
+     "richtung": "mitte",
+     "url": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html"
+    },
+    {
+     "source": "WELT",
+     "richtung": "rechts",
+     "url": "https://www.welt.de/politik/ausland/plus6b0540247ad921347675fe61/angriff-in-libyen-kriegsschauplatz-mittelmeer-die-neue-dimension-von-kiews-kampf-gegen-russland.html"
+    },
+    {
+     "source": "NZZ",
+     "richtung": "rechts",
+     "url": "https://www.nzz.ch/international/libysche-streitkraefte-fangen-vor-bengasi-mehr-als-zwoelf-drohnenboote-ab-ld.10071748"
+    }
+   ],
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVOaXhUTVZWaDZ0YnlSQnRpZk1JdVpWdkJKVUlmQVpETHVkYV9CazJxR0xnS041MUYxQXcyV3IxZWpqbkVrWk9ZU1NaY2NyNTdHTjd6YmFHSFRIX0NpTE8tV3ZYaS1LajllOGxZZlAzclF3OGpiWU1Jd1dTNVB2VWtJMEZQd1lROVhxUnhYUUJ3TFBsMUV2YlFaQktHU0Q4RHktYnpTLXRndjl2aEZlQ3VzZWZSSFRSVzJiZjJsa3JaSkV4?oc=5",
+   "source": "Reuters"
   },
-  "top": [
+  {
+   "title": "Nato will sich gegen Bedrohung aus dem All wappnen",
+   "text": "Nach Medienberichten, Russland plane einen Satelliten mit Atomwaffe, kündigte der Nato-Chef an, sich gegen Gefahren aus dem Weltall zu verteidigen. Eine Explosion im Orbit könnte viele Satelliten gleichzeitig ausschalten. Die Bundeswehr setzt laut Deutschlandfunk auf elektronische Abwehr. Belegt ist bisher nur der Bericht von Geheimdiensten über die Pläne, nicht der Start.",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "hamburg": "Navigation, Kommunikation und Wetterdaten hängen an Satelliten, auch für Schifffahrt und Luftverkehr in Hamburg.",
+   "stimmen": [
     {
-      "title": "Ukraine versenkt russisches Kriegsschiff in Libyen",
-      "text": "Mit Seedrohnen hat die Ukraine im ostlibyschen Hafen Bengasi die russische Korvette „Merkury“ versenkt. Präsident Selenskyj bekannte sich zu dem Angriff. Es ist laut tagesschau das erste Mal, dass im Krieg ein Hafen im Mittelmeer getroffen wurde. Moskau kündigt „schmerzvolle Konsequenzen“ an, in Libyen wächst die Sorge, in den Konflikt hineingezogen zu werden.",
-      "url": "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html",
-      "source": "tagesschau",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Bengasi, Libyen",
-        "lat": 32.12,
-        "lon": 20.07
-      },
-      "hamburg": "Angriffe auf Schiffe machen Seewege unsicherer, was Reedereien und Häfen wie Hamburg betrifft. Konkrete Folgen nennen die Quellen noch nicht.",
-      "stimmen": [
-        {
-          "source": "taz",
-          "richtung": "links",
-          "url": "https://taz.de/Ukraine-greift-russische-Schiffe-an/!6227614/"
-        },
-        {
-          "source": "Reuters",
-          "richtung": "mitte",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVOaXhUTVZWaDZ0YnlSQnRpZk1JdVpWdkJKVUlmQVpETHVkYV9CazJxR0xnS041MUYxQXcyV3IxZWpqbkVrWk9ZU1NaY2NyNTdHTjd6YmFHSFRIX0NpTE8tV3ZYaS1LajllOGxZZlAzclF3OGpiWU1Jd1dTNVB2VWtJMEZQd1lROVhxUnhYUUJ3TFBsMUV2YlFaQktHU0Q4RHktYnpTLXRndjl2aEZlQ3VzZWZSSFRSVzJiZjJsa3JaSkV4?oc=5"
-        },
-        {
-          "source": "WELT",
-          "richtung": "rechts",
-          "url": "https://www.welt.de/politik/ausland/video6b040dad5842ff528b9e531c/libysche-kueste-russisches-kriegsschiff-im-mittelmeer-versenkt-ukraine-reklamiert-wasserdrohnen-angriff-fuer-sich.html"
-        }
-      ]
+     "source": "taz",
+     "richtung": "links",
+     "url": "https://taz.de/Atomwaffen-im-All/!6227623/"
     },
     {
-      "title": "Berichte: Russland bereitet Atomwaffe im All vor",
-      "text": "Nach Berichten von WDR, NDR und Süddeutscher Zeitung könnte Russland noch in diesem Jahr einen Satelliten mit Atomsprengkopf ins All bringen. Kanzler Merz nennt die Berichte „schockierend“, die Nato kündigt Verteidigung gegen Bedrohungen aus dem All an. Ein solcher Satellit könnte laut FAZ-Einschätzung fast alle Systeme im Erdorbit lahmlegen. Bestätigt von offizieller Seite ist die Planung nicht.",
-      "url": "https://www.spiegel.de/ausland/russland-moskau-soll-laut-medienberichten-atomwaffe-im-weltraum-vorbereiten-a-10573e3d-4a7d-4f77-8b22-6af9dbabf94c#ref=rss",
-      "source": "Spiegel",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Moskau, Russland",
-        "lat": 55.76,
-        "lon": 37.62
-      },
-      "hamburg": "Ausfälle von Satelliten träfen auch Systeme im Erdorbit, auf die Deutschland angewiesen ist. Konkrete Folgen für Hamburg nennen die Quellen nicht.",
-      "stimmen": [
-        {
-          "source": "Deutschlandfunk",
-          "richtung": "mitte",
-          "url": "https://www.deutschlandfunk.de/merz-berichte-ueber-moskaus-atom-plaene-im-all-schockierend-102.html"
-        },
-        {
-          "source": "FAZ",
-          "richtung": "rechts",
-          "url": "https://www.faz.net/aktuell/politik/ausland/russland-plant-nuklear-bestueckten-satelliten-im-weltraum-accg-201708566.html"
-        },
-        {
-          "source": "NZZ",
-          "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/russland-plant-offenbar-die-stationierung-einer-atomwaffe-im-all-ld.10072611"
-        }
-      ]
+     "source": "Deutschlandfunk",
+     "richtung": "mitte",
+     "url": "https://www.deutschlandfunk.de/bundeswehr-setzt-auf-elektronische-abwehr-104.html"
     },
     {
-      "title": "Nvidia holt Jensen Huang zurück, Trump reklamiert den Erfolg",
-      "text": "Der Chipkonzern Nvidia hat Jensen Huang nur wenige Tage nach seinem Rücktritt wegen einer Affäre mit Spionageverdacht als Chef zurückgeholt. Laut US-Medien hat Präsident Trump dabei Einfluss genommen. Im Kongress kritisieren das Demokraten wie Republikaner. Die US-Regierung setzte zugleich die Firma Megaspeed auf eine Sperrliste. Die Börsen reagierten mit einem Kurssprung bei KI-Werten.",
-      "url": "https://www.deutschlandfunk.de/us-praesident-trump-nahm-einfluss-auf-rueckkehr-von-huang-an-die-spitze-von-nvidia-100.html",
-      "source": "Deutschlandfunk",
-      "category": "Wirtschaft & Handel",
-      "art": "wirtschaft",
-      "ort": {
-        "name": "Santa Clara, USA",
-        "lat": 37.35,
-        "lon": -121.96
-      },
-      "hamburg": "Der Dax erholte sich nach sechs Verlusttagen auch dank der Nachricht, die KI-Werte nach oben zog.",
-      "stimmen": [
-        {
-          "source": "taz",
-          "richtung": "links",
-          "url": "https://taz.de/Nvidia-holt-zurueckgetreten-Chef-zurueck/!6232572/"
-        },
-        {
-          "source": "WELT",
-          "richtung": "rechts",
-          "url": "https://www.welt.de/politik/ausland/article6b047a67172877701c070837/nvidia-trump-veroeffentlicht-meme-mit-jensen-huang.html"
-        },
-        {
-          "source": "NZZ",
-          "richtung": "rechts",
-          "url": "https://www.nzz.ch/international/das-comeback-von-jensen-huang-eine-chronologie-der-ereignisse-ld.10061069"
-        }
-      ]
+     "source": "FAZ",
+     "richtung": "rechts",
+     "url": "https://www.faz.net/aktuell/politik/ausland/russland-plant-stationierung-von-atomwaffe-im-weltraum-accg-201708566.html"
     }
-  ],
-  "entries": [
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
+  },
+  {
+   "title": "Selenskyj: USA wollen Frieden mit Russland bis Januar",
+   "text": "Der ukrainische Präsident sagt, die USA wollten bis Januar einen Friedensschluss. Die Forderungen an die Ukraine seien aber hart. Laut WELT soll die nächste Gesprächsrunde nur ohne Europäer stattfinden, der Kreml-Sprecher spottete über deren möglichen Mehrwert. Die NZZ berichtet, dass wieder über einen Nato-Beitritt der Ukraine gesprochen wird.",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Ukraine",
+    "lat": 50.45,
+    "lon": 30.52
+   },
+   "hamburg": "Ein Ende des Krieges oder ein schlechter Frieden würde Energiepreise und Sicherheitslage in Deutschland beeinflussen.",
+   "stimmen": [
     {
-      "title": "Polen: Russische Marschflugkörper, Luftalarm, Nato verlegt Awacs",
-      "summary": "Drei russische Marschflugkörper waren in Polens Luftraum eingedrungen und abgestürzt. Die Nato verlegt ein Awacs-Frühwarnflugzeug und verstärkt die Überwachung. Am Montag gab es erneut Luftalarm, Anwohner im Südosten sollten Schutzräume aufsuchen.",
-      "url": "https://www.spiegel.de/ausland/nato-verstaerkt-kontrolle-von-polens-luftraum-verlegt-awacs-fruehwarnflugzeug-a-a1541387-9b0d-4e4f-a179-60f84dd226cf#ref=rss",
-      "source": "Spiegel",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Südostpolen",
-        "lat": 50.04,
-        "lon": 22
-      },
-      "hamburg": "Deutschland ist Nato-Partner an der Ostflanke. Kanzler Merz warnte Russland vor „gefährlichen Provokationen“."
+     "source": "WELT",
+     "richtung": "rechts",
+     "url": "https://www.welt.de/politik/ausland/article6b0583526a4309d5f179c77f/ukraine-krieg-wir-verstehen-nicht-welchen-mehrwert-die-teilnahme-der-europaeer-bringen-koennte-spottet-peskow.html"
     },
     {
-      "title": "Weltklimakonferenz COP31 endet ohne Einigung",
-      "summary": "Die Klimakonferenz in Antalya war die längste in der Geschichte der UN und endete ohne Abschlusserklärung. Streit gab es über fossile Brennstoffe und Geld.",
-      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "category": "Katastrophen & Klima",
-      "art": "politik",
-      "ort": {
-        "name": "Antalya, Türkei",
-        "lat": 36.9,
-        "lon": 30.7
-      },
-      "hamburg": "Hamburgs Umweltsenatorin Katharina Fegebank zeigte sich enttäuscht und macht die Öl- und Gaslobby verantwortlich."
-    },
-    {
-      "title": "Iran greift Tanker und Militäranlagen am Golf an",
-      "summary": "Laut NZZ erhöht Teheran den Druck: Die Revolutionswächter melden brennende Tanker bei Hormus, Bahrain gerät erneut unter Beschuss. Die USA und Iran befinden sich seit Februar 2026 im Kriegszustand.",
-      "url": "https://www.nzz.ch/international/drohnen-auf-stuetzpunkte-jagd-auf-schiffe-iran-ist-zurzeit-im-angriffsmodus-ld.10070685",
-      "source": "NZZ",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Straße von Hormus",
-        "lat": 26.57,
-        "lon": 56.25
-      },
-      "hamburg": "Der Golf ist eine wichtige Öl-Route, Vorfälle dort können auf Energiepreise wirken. Konkrete Preisfolgen nennt die Quelle nicht."
-    },
-    {
-      "title": "Gaza: Oxfam spricht von „toxischer Wüste“",
-      "summary": "Laut dem Bericht gibt es in fast ganz Gaza Hinweise auf mögliche Verseuchung. Auf den Straßen sammelt sich Müll, in zerstörten Häusern steckt Asbest. Die Kriegsfolgen könnten Jahrzehnte spürbar sein.",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Gazastreifen",
-        "lat": 31.5,
-        "lon": 34.47
-      }
-    },
-    {
-      "title": "Myanmar: Sanktionen nach Genozid-Urteil des IGH",
-      "summary": "Großbritannien sanktioniert Spitzen des Militärs, mehrere Staaten schließen sich an. Westliche Länder begrüßen das Urteil, die Nachbarländer Myanmars reagieren laut NZZ verhalten.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Naypyidaw, Myanmar",
-        "lat": 19.76,
-        "lon": 96.08
-      }
-    },
-    {
-      "title": "Südkorea: Russische Militärflugzeuge in der Luftverteidigungszone",
-      "summary": "Mehrere russische Maschinen sind am Dienstagmorgen in Südkoreas Luftverteidigungszone eingedrungen. Taiwan und Japan hatten kürzlich Ähnliches gemeldet.",
-      "url": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
-      "source": "tagesschau",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Seoul, Südkorea",
-        "lat": 37.57,
-        "lon": 126.98
-      }
-    },
-    {
-      "title": "Haiti: El Salvador schickt Soldaten, Bukele wird gefeiert",
-      "summary": "Nachdem internationale Missionen kaum etwas gegen die Gewalt in Haiti ausrichten konnten, griff El Salvadors Präsident Bukele mit mehreren Tausend Soldaten ein, ohne UN-Mandat.",
-      "url": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
-      "source": "tagesschau",
-      "category": "Weltpolitik",
-      "art": "konflikt",
-      "ort": {
-        "name": "Port-au-Prince, Haiti",
-        "lat": 18.54,
-        "lon": -72.34
-      }
-    },
-    {
-      "title": "US-Zwischenwahlen: Demokraten mit größter Mehrheit seit Jahrzehnten",
-      "summary": "Drei Wochen nach der Wahl steht fest, dass die Demokraten im Repräsentantenhaus die größte Mehrheit seit Jahrzehnten haben. Für die Republikaner ist es die schwerste Niederlage seit 1958.",
-      "url": "https://www.nzz.ch/international/auszaehlung-in-den-usa-fast-beendet-schwerste-wahlniederlage-der-republikaner-seit-1958-ld.10070048",
-      "source": "NZZ",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Washington, USA",
-        "lat": 38.9,
-        "lon": -77.04
-      }
-    },
-    {
-      "title": "EU will russische Sportler unter russischer Flagge ausschließen",
-      "summary": "Die EU-Kommission schlägt vor, dass russische Athleten bei europäischen Wettkämpfen nicht mehr für ihr Land antreten dürfen. Neutral dürfen sie weiter starten. Der Vorschlag ist Teil eines Sanktionspakets und noch nicht beschlossen.",
-      "url": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
-      "source": "tagesschau",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Brüssel, Belgien",
-        "lat": 50.85,
-        "lon": 4.35
-      }
-    },
-    {
-      "title": "Kongo stoppt Kobalt-Exporte erneut",
-      "summary": "Die Aufsichtsbehörde will so ein Überangebot bekämpfen und die Preise stützen.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjhmU2RxdS1CQXQ5ZnZkQTZXczg4THYzbDNLRlJFWHZTQy1yblF2Z3ZNb0ZzdWtCVW1TeW1TMlVtVVdvNHVNeFpzSklBMXpjTDk5LWZGNE5pSlB0aHV0R2dvVGRKanJtSU5fNWxXeUNNRVV0bVdMc21ESmkxMGY5TzdscVpicGxGN3AyR0E1RlVhOE9jOGVVcFRnejBrT1JGb05GTUVjUGpQc0ZadDk5RTM0VzR1WTV4QlUxZmRqSjA?oc=5",
-      "source": "Reuters",
-      "category": "Wirtschaft & Handel",
-      "art": "wirtschaft",
-      "ort": {
-        "name": "Kinshasa, Kongo",
-        "lat": -4.44,
-        "lon": 15.27
-      }
-    },
-    {
-      "title": "Nepal: Wiederaufbau nach der Flut kommt nur langsam voran",
-      "summary": "Drei Monate nach der Sturzflut im Himalaja warten viele Menschen noch auf Hilfe. Erst wenige Brücken und Straßen sind repariert. Indien hat Hilfe zugesagt.",
-      "url": "https://www.nzz.ch/international/in-nepal-kommt-der-wiederaufbau-nach-der-flutkatastrophe-nur-langsam-voran-nun-sagt-indien-hilfe-zu-ld.10072137",
-      "source": "NZZ",
-      "category": "Katastrophen & Klima",
-      "art": "katastrophe",
-      "ort": {
-        "name": "Kathmandu, Nepal",
-        "lat": 27.72,
-        "lon": 85.32
-      }
-    },
-    {
-      "title": "Frachter „Sparta II“ nach Drohnentreffer in russische Gewässer geschleppt",
-      "summary": "Das vor Finnland von einer Drohne getroffene und in Brand geratene Schiff wird nach Russland geschleppt. Laut FAZ verlief die Bergung zwischen Finnland und Russland erstaunlich reibungslos.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/russisches-frachtschiff-sparta-ii-warum-finnland-es-nicht-beschlagnahmte-201708325.html",
-      "source": "FAZ",
-      "category": "Hafen & Schifffahrt",
-      "art": "konflikt",
-      "ort": {
-        "name": "Finnischer Meerbusen",
-        "lat": 60,
-        "lon": 27
-      },
-      "hamburg": "Die Ostsee ist eine zentrale Handelsroute auch für Hamburger Schiffe. Die Nato will dort eine Eskalation verhindern."
-    },
-    {
-      "title": "Ukrainische Drohnen sollen in Deutschland gebaut werden",
-      "summary": "Ukrainische Aufklärungsdrohnen sollen künftig auch in Deutschland hergestellt werden. Verteidigungsminister Pistorius wurde bei der Zusammenarbeit konkreter.",
-      "url": "https://www.deutschlandfunk.de/ukrainische-drohne-soll-in-deutschland-produziert-werden-108.html",
-      "source": "Deutschlandfunk",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Berlin, Deutschland",
-        "lat": 52.52,
-        "lon": 13.4
-      },
-      "hamburg": "Die Rüstungsproduktion in Deutschland wächst, der Bundeswehr-Etat 2027 soll laut NZZ rund 140 Milliarden Euro betragen."
-    },
-    {
-      "title": "Norddeutsche Seehäfen: Bund sagt Nein zu mehr Geld",
-      "summary": "Der Bund lehnt laut NDR zusätzliche Mittel für die norddeutschen Seehäfen ab.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTQ0a0JlNDZMbmpQWmdtTVpVODBjMW9XT3REZTE1cmxOUmJKclp1ZlRHMm01dFlodFhBaW43RTVrbi1MUzJDOHpkd04wLWZkdVFlSUN2cnE0WEdXb0RvVjNBVzNIRUQwTXVvU1QxUTRZc0lrbHVMUE5GWFVGeXNrXy1iaXAwbm8yemRLc0pKLXg2U1FmVmFGdjFXcG8yTlpVVWd1NVZzZE5aT01h?oc=5",
-      "source": "NDR",
-      "category": "Hafen & Schifffahrt",
-      "art": "wirtschaft",
-      "ort": {
-        "name": "Hamburg, Deutschland",
-        "lat": 53.55,
-        "lon": 9.99
-      },
-      "hamburg": "Das betrifft auch den Hamburger Hafen."
+     "source": "NZZ",
+     "richtung": "rechts",
+     "url": "https://www.nzz.ch/international/diplomatische-offensive-warum-nun-ploetzlich-wieder-ueber-einen-nato-beitritt-der-ukraine-gesprochen-wird-ld.10073266"
     }
-  ]
+   ],
+   "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-frieden-russland-usa-forderungen-li.3571967",
+   "source": "Süddeutsche Zeitung"
+  }
+ ],
+ "entries": [
+  {
+   "title": "Russland: Fast 500.000 Tote im Krieg, zeigen geleakte Zahlen",
+   "summary": "Laut BBC belegen russische Daten, die an die Öffentlichkeit gelangten, fast 500.000 Tote. Der Krieg verändert die russische Gesellschaft tiefgreifend.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Ukraine",
+    "lat": 50.45,
+    "lon": 30.52
+   },
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
+  },
+  {
+   "title": "Zwei Tote bei russischem Luftangriff auf Saporischschja",
+   "summary": "Dutzende Menschen wurden verletzt. Russland nimmt die Großstadt erneut ins Visier.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Saporischschja",
+    "lat": 47.84,
+    "lon": 35.14
+   },
+   "url": "https://www.spiegel.de/ausland/ukraine-zwei-tote-und-dutzende-verletzte-nach-russischem-luftangriff-auf-saporischschja-a-9a03cb06-c651-4db0-9f30-21fcd38438f4#ref=rss",
+   "source": "Spiegel"
+  },
+  {
+   "title": "Israel tötet Hamas-Sicherheitschef trotz Waffenruhe",
+   "summary": "Die israelische Armee meldet einen Luftangriff, bei dem der innere Sicherheitschef der Hamas starb. Die Waffenruhe im Gazastreifen bleibt damit instabil.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Gazastreifen",
+    "lat": 31.5,
+    "lon": 34.47
+   },
+   "url": "https://www.spiegel.de/ausland/gazastreifen-israels-armee-meldet-toetung-des-hamas-sicherheitschefs-nach-luftangriff-a-c22627ce-c517-4c35-8785-ad95dfd736b2#ref=rss",
+   "source": "Spiegel"
+  },
+  {
+   "title": "Huthi-Miliz greift erneut Wolkenkratzer in Riad an",
+   "summary": "Die Miliz aus dem Jemen hat nach Angaben des Deutschlandfunks wieder den höchsten Wolkenkratzer der saudischen Hauptstadt angegriffen.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Riad",
+    "lat": 24.71,
+    "lon": 46.68
+   },
+   "url": "https://www.deutschlandfunk.de/jemenitische-huthi-miliz-greift-erneut-wolkenkratzer-in-riad-an-106.html",
+   "source": "Deutschlandfunk"
+  },
+  {
+   "title": "Ölpreise stabilisieren sich",
+   "summary": "Nach Verlusten am Vortag hat sich der Ölpreis gefangen. Grund ist vorsichtiger Optimismus bei den Verhandlungen zwischen den USA und Iran.",
+   "category": "Wirtschaft & Handel",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Iran",
+    "lat": 35.69,
+    "lon": 51.39
+   },
+   "hamburg": "Der Ölpreis wirkt direkt auf Heiz- und Spritpreise in Deutschland.",
+   "url": "https://www.spiegel.de/ausland/kroatien-tod-von-psychiatriepatient-nach-fixierung-loest-proteste-aus-a-7672111a-f020-4e84-970c-c926f6c9640c#ref=rss",
+   "source": "Spiegel"
+  },
+  {
+   "title": "USA verdächtigen Iran hinter Cyberangriffen auf Schiffe",
+   "summary": "Laut einem Zeitungsbericht, den Reuters aufgreift, sehen die USA Iran als möglichen Urheber Dutzender neuer Cyberangriffe auf Schiffe.",
+   "category": "Hafen & Schifffahrt",
+   "art": "konflikt",
+   "ort": {
+    "name": "Iran",
+    "lat": 35.69,
+    "lon": 51.39
+   },
+   "hamburg": "Reedereien und Häfen wie Hamburg sind auf sichere Schiffsdaten angewiesen.",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjR1WG9RTVdfSTNnS1RTOWcwVlhpeGMtaUdMZGVIU1I0ZWt1ZlhtQ2F1ODJZOEwxVzB2ZHBYNDIxMkEtdjdMY1Z2X050QjY2VjYwR1VmTDZSbWxiQTNwZ09nZTRHYzdweXEzajYxcnZxTUp3eWdSdEtvX2RMTllnY205N3VoTlJnTEQtOEYySEVHNDZMa0p5bHdPWG9KTUw1Zzg3VnZuVEVGV3czanhjQUJxdDNqTXFvMXlZT1k4bmlQYkJfYXUya0lsbzRoUQ?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "title": "USA planen offenbar neue Zölle gegen China und die EU",
+   "summary": "Laut US-Medienberichten bereitet die Regierung neue Zölle gegen China, die EU und weitere Länder vor. Beschlossen ist noch nichts.",
+   "category": "Wirtschaft & Handel",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Washington",
+    "lat": 38.91,
+    "lon": -77.04
+   },
+   "hamburg": "Neue Zölle könnten deutsche Exporte und damit auch den Containerumschlag im Hamburger Hafen belasten.",
+   "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html",
+   "source": "tagesschau"
+  },
+  {
+   "title": "Hamburger Hafen: Umschlag geht in diesem Jahr zurück",
+   "summary": "Der Umbau der Terminals beim Betreiber HHLA verläuft langsamer als erhofft. Deshalb sinkt der Umschlag.",
+   "category": "Hafen & Schifffahrt",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Hamburg",
+    "lat": 53.55,
+    "lon": 9.99
+   },
+   "hamburg": "Das betrifft Hafenfirmen und Jobs in der Stadt direkt.",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObW5YTVNkWUlVRE5mZGt6aWpZblFhV2pfVUFzNTJUUmY4aFJxS1NGUjZ2aDBZZFZwNTYxWE5TZF8yMzJVQzZ1UEVXd3ZabFFhcEo1emEydkdFTjl2TndMVGxnOHNuR1hKSkQyd3VhZHlRcTRnT1E4aW5paUhXOExzRjhsMVgzakJ1OERsanV0alhIMGxMVG11YVhlRW1nYk5sLW5rY0stbjBtT0k4Q0FpdkdhREc2RXJDSmZpUTVvSVZuaTZxSUEwdmRIQQ?oc=5",
+   "source": "NDR.de"
+  },
+  {
+   "title": "Venezuela legt 237,5 Milliarden Dollar Schulden offen",
+   "summary": "Der Schritt ist wichtig für eine Umschuldung, bei der das Land mit Gläubigern neu verhandelt.",
+   "category": "Wirtschaft & Handel",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Caracas",
+    "lat": 10.48,
+    "lon": -66.9
+   },
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakxRRS1xODNKVEMzdlowcjUzd2g4amNoV0JSSzdQc0JEUXg1WWxSbGxOaGhYWDZWSlQzeldBelpvUnpXb3g3bHdMUWd4NWhiZFJRZnEtSWU4TDBXS0Q1Q21CWE9QUkxkT2YxYVI5MzlJNkVJS3FRZ3NuMG90Y0JBMFNKRGEtOEhlOUktTVJwU2hoSHVVVW56NXI0ZlZIOHo3TGt0UTc3VnA4VlV5MGZoTmlfS05qQlpQcWpiUWNtSjI?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "title": "Ungarns Regierungschef Magyar will sich der Ukraine annähern",
+   "summary": "Bei seinem ersten Besuch als Regierungschef kündigt Peter Magyar ein neues Kapitel an. Unter Vorgänger Orbán gab es Jahre voller Spannungen.",
+   "category": "Europa",
+   "art": "politik",
+   "ort": {
+    "name": "Kiew",
+    "lat": 50.45,
+    "lon": 30.52
+   },
+   "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-friedensschluss-russland-lukaschenko-ungarn-li.3585810",
+   "source": "Süddeutsche Zeitung"
+  },
+  {
+   "title": "\"Koalition der Willigen\" übt erstmals in Polen",
+   "summary": "Es war die erste Militärübung der Staatengruppe, die der Ukraine zur Seite steht.",
+   "category": "Europa",
+   "art": "politik",
+   "ort": {
+    "name": "Polen",
+    "lat": 52.23,
+    "lon": 21.01
+   },
+   "url": "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
+   "source": "tagesschau"
+  },
+  {
+   "title": "Australien und Salomonen schließen Sicherheitspakt",
+   "summary": "Laut Reuters ist das ein Rückschlag für China, das im Pazifik um Einfluss wirbt.",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Honiara",
+    "lat": -9.43,
+    "lon": 159.95
+   },
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSG1oWFgtQ2pTYWVManFSTHhtZmk2UFl6VllsZFBkTWpHWUF0WGZ6LTNZaTZqTXJpeEhBWHVUallaaXhORWxVbmlaRUk0NkhPdEJXQ3puZHA4RFNIS01rdUVNS2MzdlcyalFTU0NNN2dUSFBuMy1rUmVDdWVFWlhTdGNpYVU2ZUc0bzRiZ0FWR3NiSG5hMEhF?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "title": "Nordkorea: Schweiz muss ihre Vertretung in Pjöngjang schließen",
+   "summary": "Die Schweiz gehörte zu den wenigen Ländern mit einer diplomatischen Vertretung in Nordkorea. Zuvor hatte Pjöngjang laut FAZ mit der Schließung gedroht, weil sich Bern EU-Sanktionen anschloss.",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Pjöngjang",
+    "lat": 39.04,
+    "lon": 125.76
+   },
+   "url": "https://www.spiegel.de/ausland/nordkorea-schweiz-muss-vertretung-in-pjoengjang-schliessen-a-50b0dd63-9c9f-45d8-92b5-cd6d2b352e65#ref=rss",
+   "source": "Spiegel"
+  },
+  {
+   "title": "Experten warnen vor Extrem-Hochwasser in Kalifornien",
+   "summary": "Der US-Bundesstaat ist weiter von Überschwemmungen betroffen.",
+   "category": "Katastrophen & Klima",
+   "art": "katastrophe",
+   "ort": {
+    "name": "Kalifornien",
+    "lat": 38.58,
+    "lon": -121.49
+   },
+   "url": "https://www.deutschlandfunk.de/experten-warnen-vor-extrem-hochwasser-in-kalifornien-102.html",
+   "source": "Deutschlandfunk"
+  },
+  {
+   "title": "Autobombe verletzt mehr als 20 Menschen in Kolumbien",
+   "summary": "Es ist laut BBC der jüngste in einer Reihe von Anschlägen auf Gebäude.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Kolumbien",
+    "lat": 4.71,
+    "lon": -74.07
+   },
+   "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
+  },
+  {
+   "title": "DR Kongo: Militärflugzeug vermisst, Rebellen melden Abschuss",
+   "summary": "Unter den Vermissten sollen ein südafrikanischer Kampfpilot und ein ugandischer Offizier sein. Die Rebellen behaupten, das Flugzeug abgeschossen zu haben.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "DR Kongo",
+    "lat": -4.44,
+    "lon": 15.27
+   },
+   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
+  }
+ ]
 }
