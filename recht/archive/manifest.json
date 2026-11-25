@@ -1,6 +1,27 @@
 {
   "briefs": [
     {
+      "date": "2026-11-25",
+      "file": "2026-11-25.html",
+      "headline": "Verbraucherzentrale klagt gegen Meta-Kamerabrillen",
+      "count": 14,
+      "sources": 10,
+      "cats": {
+        "Arbeit & Digitales": 1,
+        "Urteile": 3,
+        "Warnungen & Betrug": 2,
+        "Neue Gesetze & Fristen": 3,
+        "Geld, Verträge & Versicherung": 2,
+        "Tests": 3
+      },
+      "ents": {
+        "Verbraucherzentrale": 3,
+        "Datenschutz": 1,
+        "Amazon": 1,
+        "Stiftung Warentest": 2
+      }
+    },
+    {
       "date": "2026-11-24",
       "file": "2026-11-24.html",
       "headline": "Neue Regeln für Verbraucherkredite: Bonitätsprüfung schon bei kleinen Summen",
