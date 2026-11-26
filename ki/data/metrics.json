@@ -79,10 +79,6 @@
  "stocks": {
   "NVDA": [
    [
-    "2026-08-25",
-    213.05
-   ],
-   [
     "2026-08-26",
     209.66
    ],
@@ -337,13 +333,13 @@
    [
     "2026-11-24",
     155.38
+   ],
+   [
+    "2026-11-25",
+    149.3
    ]
   ],
   "MSFT": [
-   [
-    "2026-08-25",
-    491.71
-   ],
    [
     "2026-08-26",
     496.37
@@ -599,13 +595,13 @@
    [
     "2026-11-24",
     496.13
+   ],
+   [
+    "2026-11-25",
+    489.93
    ]
   ],
   "GOOGL": [
-   [
-    "2026-08-25",
-    346.96
-   ],
    [
     "2026-08-26",
     342
@@ -861,13 +857,13 @@
    [
     "2026-11-24",
     279.05
+   ],
+   [
+    "2026-11-25",
+    273.1
    ]
   ],
   "META": [
-   [
-    "2026-08-25",
-    570.05
-   ],
    [
     "2026-08-26",
     576.14
@@ -1123,6 +1119,10 @@
    [
     "2026-11-24",
     589.82
+   ],
+   [
+    "2026-11-25",
+    609.89
    ]
   ]
  },
@@ -1135,41 +1135,41 @@
  "hf": [
   {
    "id": "thinkingmachines/Inkling-2-Mini",
-   "likes": 5870,
-   "downloads": 69042,
+   "likes": 6045,
+   "downloads": 96527,
    "task": "image-text-to-text"
   },
   {
    "id": "unsloth/Inkling-2-Mini-GGUF",
-   "likes": 1294,
-   "downloads": 1913407,
+   "likes": 1380,
+   "downloads": 2445633,
    "task": "image-text-to-text"
   },
   {
    "id": "inworld/voice-isolator",
-   "likes": 843,
-   "downloads": 12733,
+   "likes": 897,
+   "downloads": 15244,
    "task": "audio-to-audio"
   },
   {
    "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-   "likes": 781,
-   "downloads": 573775,
+   "likes": 842,
+   "downloads": 762491,
    "task": "image-text-to-text"
   },
   {
    "id": "SulphurAI/Sulphur-3",
-   "likes": 966,
-   "downloads": 160965,
+   "likes": 1090,
+   "downloads": 189735,
    "task": ""
   },
   {
-   "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-   "likes": 1083,
-   "downloads": 3529,
-   "task": "image-text-to-text"
+   "id": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+   "likes": 347,
+   "downloads": 59366,
+   "task": "text-generation"
   }
  ],
- "updated": "2026-11-25T10:22:36.650Z",
+ "updated": "2026-11-26T02:36:59.661Z",
  "updatedDay": "2026-11-06"
 }
