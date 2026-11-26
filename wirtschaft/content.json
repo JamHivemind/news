@@ -1,120 +1,99 @@
 {
- "date": "2026-11-25",
- "intro": "Die Stimmung in der deutschen Wirtschaft hellt sich weiter auf, doch in der Autoindustrie wird um Jobs und Arbeitszeit gestritten. Dazu drohen neue US-Zölle.",
- "top": [
-  {
-   "title": "Ifo-Index steigt zum siebten Mal in Folge",
-   "text": "Das Ifo-Geschäftsklima (eine monatliche Umfrage unter Unternehmen) ist im November erneut gestiegen. Nach Spiegel-Angaben liegt es so hoch wie zuletzt im Frühjahr 2023. Ökonomen sehen die Erholung der deutschen Wirtschaft vorankommen. Für Beschäftigte heißt das: Die Lage am Arbeitsmarkt könnte sich stabilisieren, auch wenn die Erholung laut FAZ nicht in der Breite ankommt.",
-   "category": "Konjunktur",
-   "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html",
-   "source": "tagesschau Wirtschaft"
-  },
-  {
-   "title": "VW-Tarifrunde startet in Emden",
-   "text": "Für rund 120.000 Beschäftigte von Volkswagen beginnt die Tarifrunde, mitten in der tiefsten Krise der Konzerngeschichte. Es geht um Löhne und um Arbeitsplätze. Laut Spiegel wackelt in der Branche auch die 35-Stunden-Woche, weil die Konzerne trotz Stellenabbau mehr Einsparungen wollen.",
-   "category": "Arbeit & Soziales",
-   "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html",
-   "source": "tagesschau Wirtschaft"
-  },
-  {
-   "title": "USA planen offenbar neue Zölle gegen EU und China",
-   "text": "Laut Medienberichten will die US-Regierung neue Zölle gegen 16 wichtige Handelspartner verhängen. Begründet wird das mit angeblichen Überkapazitäten in der Industrie. Für Deutschland als Exportland wäre das ein Risiko. Bisher beruht die Meldung auf Berichten, nicht auf einem Beschluss.",
-   "category": "Politik & Handel",
-   "url": "https://www.handelsblatt.com/politik/international/handelskonflikt-usa-planen-offenbar-neue-zoelle-gegen-die-eu-und-china/100272509.html",
-   "source": "Handelsblatt"
-  }
- ],
- "entries": [
-  {
-   "title": "DAX fällt zurück, Tech-Aktien sinken",
-   "summary": "Der Kurssprung bei Nvidia nach der Rückkehr von Konzernchef Huang ist an den Märkten schon wieder verpufft. Auch der DAX gab nach.",
-   "category": "Börse & Märkte",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
-   "source": "tagesschau Wirtschaft"
-  },
-  {
-   "title": "Ölpreise stabilisieren sich",
-   "summary": "Nach den Verlusten vom Vortag hat sich der Ölpreis gefangen. Hintergrund ist vorsichtiger Optimismus bei den Verhandlungen zwischen den USA und Iran.",
-   "category": "Energie",
-   "url": "https://www.spiegel.de/wirtschaft/oel-preise-stabilisieren-sich-sich-nach-vortagsverlusten-a-bc31a2d2-29a0-493f-990a-53971fb94289#ref=rss",
-   "source": "Spiegel Wirtschaft"
-  },
-  {
-   "title": "Hohe Spritpreise bremsen Konsum und Konjunktur",
-   "summary": "Laut dem gewerkschaftsnahen Institut IMK dämpfen die hohen Spritpreise den privaten Konsum und damit die Konjunktur in Deutschland.",
-   "category": "Energie",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa09jVWxJNWtXd3RfaC1DOHpvU0VyQk1BTzljWl9saGxwdkNhMTBzOHkta0pQUlhIejFHcE5jenlfY0ZKUDRwdV9HVHBSdWk0OTE1bTBNcmJqLW5zVTVqcjhoZkl4RFk2SnhPX3RBTktyYUs3enJEZ2xBbklqbEFNTENkQ2JJeV9UNnZOVHBaOFNHOXNncVhhV0FB?oc=5",
-   "source": "Presse Augsburg"
-  },
-  {
-   "title": "Deutschland überschreitet Defizitgrenze, Brüssel zeigt sich nachsichtig",
-   "summary": "Deutschland reißt die EU-Grenze für neue Schulden. Laut SZ schont Brüssel Finanzminister Klingbeil dennoch.",
-   "category": "Politik & Handel",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVRjTkNTdWFsa1RxRUx0alJHN0dGUzNSTm1oVklzS2ZTWEQ3WHlLOEpDSlQxN1VoSFkybUk1VkhlZ1Z0MzRBRWM0cHZJRUtmMEhzdjRuOXcyenVoU3N0amw2STBFaHkxRDhnVm1BX1VWSlV1QzBmdFJBSEQ5MmRiUDRPNngxUGpUQlBLeW1qMk1TUjVJ?oc=5",
-   "source": "SZ.de"
-  },
-  {
-   "title": "EU begrenzt ab Dezember die Einfuhr von Hybridautos",
-   "summary": "Ab dem 1. Dezember gelten für mehrere Herkunftsländer Obergrenzen für Hybridautos. Das trifft vor allem Hersteller, die Fahrzeuge nach Europa einführen.",
-   "category": "Politik & Handel",
-   "url": "https://nius.de/wirtschaft/eu-begrenzt-ab-dezember-die-einfuhr-von-hybridautos",
-   "source": "NIUS"
-  },
-  {
-   "title": "E-Autos boomen in der EU, vor allem aus China",
-   "summary": "Die Neuzulassungen von Elektroautos stiegen zuletzt um 61,4 Prozent. Besonders stark legen Hersteller aus China zu.",
-   "category": "Unternehmen",
-   "url": "https://www.spiegel.de/wirtschaft/unternehmen/e-auto-elektrofahrzeuge-boomen-in-der-eu-rekordanteil-von-chinesischen-modellen-a-5a77379f-8945-4230-94a7-3e7a5acd5b01#ref=rss",
-   "source": "Spiegel Wirtschaft"
-  },
-  {
-   "title": "BYD will frühere Smart-Fabrik in Lothringen kaufen",
-   "summary": "Bisher laufen alle in Europa verkauften BYD-Autos in China vom Band. Mit einem eigenen Werk in Frankreich soll sich das ändern.",
-   "category": "Unternehmen",
-   "url": "https://www.spiegel.de/wirtschaft/unternehmen/autohersteller-byd-will-ehemalige-smart-fabrik-in-lothringen-kaufen-a-44e5dc8a-e3da-4da7-a649-ee629bffa281#ref=rss",
-   "source": "Spiegel Wirtschaft"
-  },
-  {
-   "title": "Metall- und Elektroindustrie: Pilotabschluss wackelt",
-   "summary": "Die IG Metall fordert fünf Prozent mehr Lohn. Die Arbeitgeber bieten eine Einmalzahlung und später eine Tabellenstufe. In Mannheim ringen die Verhandler um einen Abschluss, der als Vorbild für andere Regionen dienen soll.",
-   "category": "Arbeit & Soziales",
-   "url": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-verhandler-unter-druck-klappt-pilotabschluss-in-mannheim/100272546.html",
-   "source": "Handelsblatt"
-  },
-  {
-   "title": "Butter kostet bei zwei Discountern unter einen Euro",
-   "summary": "Im Oktober 2024 lag das günstigste Päckchen noch bei 2,39 Euro. Sinkende Rohstoffpreise geben den Preisrückgang weiter.",
-   "category": "Konjunktur",
-   "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/supermarkt-butter-kostet-weniger-als-ein-euro-rohstoffpreise-sinken/100272516.html",
-   "source": "Handelsblatt"
-  },
-  {
-   "title": "Preise für Computer und Konsolen steigen deutlich",
-   "summary": "Laut Statistischem Bundesamt kosten Laptops, PCs und Spielekonsolen spürbar mehr als vor einem Jahr.",
-   "category": "Konjunktur",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSm90Z1JkdmxrY2hQS2kzSldFUGlUbFZlN1Z6OFpPTGVRT295dE1EUHpSN29EU2ZycmlUeGtCVGc2M281QkF6X2QyaUxTRDg3WjJPeUR4TGJQVVdEaTU5WDVKSEdlSm9ybFItUWpObl9raFhhdFpaTzUtRndvSVZsOTdDcmhaQmlCY3MtNm9Ndnc5THlGZUlpV0NjU1E0eFJqYXNqZTJTb3pIWE9yRGkzaVZUeVdIVi1jYlUyUGhfR0JvUWtF?oc=5",
-   "source": "Allgemeine Zeitung"
-  },
-  {
-   "title": "Körperschaftsteuer bricht um 13 Prozent ein, Lohnsteuer steigt",
-   "summary": "Nach Zahlen des Finanzministeriums zahlen Unternehmen deutlich weniger Körperschaftsteuer, die Lohnsteuer legt um 4,3 Prozent zu.",
-   "category": "Konjunktur",
-   "url": "https://nius.de/wirtschaft/steuereinnahmen-koerperschaftsteuer-einbruch-lohnsteuer",
-   "source": "NIUS"
-  },
-  {
-   "title": "Dekabank spürt Abflüsse bei offenen Immobilienfonds",
-   "summary": "Aus den offenen Immobilienfonds der Dekabank (Fonds, in die viele Kleinanleger investieren) fließt inzwischen Geld ab. In anderen Sparten legt das Sparkassen-Institut zu.",
-   "category": "Börse & Märkte",
-   "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/buero-gewerbe/dekabbank-meldet-moderate-abfluesse-aus-offenen-immobilienfonds-accg-201698324.html",
-   "source": "FAZ Wirtschaft"
-  },
-  {
-   "title": "EZB lässt mehr digitale Wertpapiere als Sicherheit zu",
-   "summary": "Der EZB-Rat erweitert die Zulassung von Wertpapieren auf DLT-Plattformen (eine Art digitale Register) als Sicherheiten für Notenbankgeschäfte.",
-   "category": "Zinsen & Geldpolitik",
-   "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/ezb-weitet-zulassung-von-dlt-basierten-wertpapieren-als-notenbankfaehige-sicherheiten-des-eurosystems-aus-1017044",
-   "source": "Bundesbank"
-  }
- ]
+  "date": "2026-11-26",
+  "intro": "Neue US-Zölle gegen die EU und eine Verkaufswelle bei Tech-Aktien prägen den Tag. Zu Hause zeigen Ifo-Index und schwaches Wachstum ein gemischtes Bild der deutschen Wirtschaft.",
+  "top": [
+    {
+      "title": "USA kündigen neue Zölle an – auch gegen die EU",
+      "text": "Die USA haben neue Sonderzölle gegen die EU und weitere Handelspartner angekündigt. Für betroffene EU-Produkte ist ein Zollsatz von 15 Prozent vorgesehen. Zölle sind Steuern auf eingeführte Waren; sie verteuern Exporte und können deutsche Exportfirmen Aufträge kosten. Die Ankündigung belastete auch die US-Börsen.",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
+      "source": "tagesschau",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "KI-Ernüchterung: Verkaufswelle bei Tech-Aktien geht weiter",
+      "text": "An den US-Börsen geben Technologieaktien weiter nach. Anleger sorgen sich um die Geschäfte mit Künstlicher Intelligenz; zusätzlich belastet Unruhe um den Chipkonzern Nvidia. Die Ratingagentur S&P hat Nvidia vor einer möglichen Herabstufung seiner Kreditwürdigkeit gewarnt. Wer Aktienfonds oder ETFs besitzt, spürt das oft über große Tech-Werte im Fonds.",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html",
+      "source": "tagesschau",
+      "category": "Börse & Märkte"
+    },
+    {
+      "title": "Euro fällt zum Dollar auf Tiefstand seit anderthalb Jahren",
+      "text": "Der Euro ist zum US-Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen. Als Hintergrund nennt die tagesschau den KI-Boom, der Kapital in die USA zieht. Ein schwacher Euro macht Importe, etwa Öl, teurer und hilft Exporteuren; Urlaub in den USA wird teurer.",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html",
+      "source": "tagesschau",
+      "category": "Börse & Märkte"
+    }
+  ],
+  "entries": [
+    {
+      "title": "Ifo-Geschäftsklima steigt auf höchsten Wert seit Frühjahr 2023",
+      "summary": "Der Ifo-Index, eine monatliche Umfrage unter Unternehmen, steigt zum siebten Mal in Folge. Ökonomen sehen darin Zeichen für einen Aufschwung.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTDdUWWpFQUJtcUlmSGxZWnpmdV9pVHJwb21EaXVHZkQ1WXVUcFREc3pLSjdYWTFMV3pBbHIyVEN0MmwyMFVwMXItdWxFWUppNS1LRUFKdm1pT0xVbk5GWHZDUThSOFVBM0hBelNkaWZlWmNySmJyT3Mzc2Vlem5FVDlQa2EtdVJmVGlMLTNnZ29Id05kOHpCLS1XZDRzaU9WTEdVdndvTnVKZERxc0RkZTlzWGhOdw?oc=5",
+      "source": "DIE ZEIT",
+      "category": "Konjunktur"
+    },
+    {
+      "title": "Wirtschaft wuchs im dritten Quartal nur um 0,1 Prozent",
+      "summary": "Die deutsche Wirtschaftsleistung legte von Juli bis September kaum zu. Das passt zum Bild einer schleppenden Erholung.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcE5ZNDgxeURyTk5VWTI3ZkRkdUVDY05BYjBKX200S2dORmRkSXA3SzhhbWczXzhCbjBQQ3A3elZ6VFFGeEVUZ0EwS01VY3NvejZNLVBabWxwLWNPRk9OSmk5WUt5d2NucE5ULUk5YWRJalVVMlp2RnlxaFh0VlV4ckF1enUtVXQwV2p5eVUzZVRqcWJyWlFhT1dpS3ZNaDlkTDVjWExLMVNYeHBZa1F3U0hqRnE1V3R3QXctMUV0WElrVFV3QnZfcF9zLUVnZ2xEeFkyYVg1QjB0U2lDdWxsZFFVSDlPZVh6SzNkdlJ4bDZCcF9ZZzY1eXgyZDEwZw?oc=5",
+      "source": "Spiegel",
+      "category": "Konjunktur"
+    },
+    {
+      "title": "Private Investitionen bleiben schwach",
+      "summary": "Laut FAZ ist die Investitionsschwäche der wichtigste Grund für das langsame Wachstum. Sie habe Deutschland seit 2022 mehr als 125 Milliarden Euro gekostet.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/private-investitionen-schwaecheln-125-milliarden-euro-verlust-fuer-deutschland-201716175.html",
+      "source": "FAZ",
+      "category": "Konjunktur"
+    },
+    {
+      "title": "EU verlängert Lockerung bei Staatshilfen wegen Energiekrise",
+      "summary": "Deutschland und andere Staaten dürfen Landwirte, Industrie und andere Firmen länger besonders entlasten. Die EU lockert dafür ihre Beihilferegeln weiter.",
+      "url": "https://www.spiegel.de/wirtschaft/eu-verlaengert-lockerung-bei-staatshilfen-wegen-energiekrise-a-2a42cfb1-d7a5-4d1b-8873-cdb7f9feaa4f#ref=rss",
+      "source": "Spiegel",
+      "category": "Energie"
+    },
+    {
+      "title": "Finanzministerium erwägt Einstieg bei Netzbetreiber Amprion",
+      "summary": "Der Staat könnte laut Handelsblatt einen Verbund aller Übertragungsnetzbetreiber schaffen und so mehr Kontrolle über die Stromnetze bekommen. Ein alter Plan kehrt damit zurück.",
+      "url": "https://www.handelsblatt.com/unternehmen/energie/energie-finanzministerium-erwaegt-einstieg-bei-netzbetreiber-amprion/100272487.html",
+      "source": "Handelsblatt",
+      "category": "Energie"
+    },
+    {
+      "title": "Aldi und Lidl senken Butterpreis unter einen Euro",
+      "summary": "Die Discounter begründen den Schritt mit gesunkenen Einkaufspreisen. Der Bauernverband kritisiert den Preiskampf.",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/butter-preis-preiskampf-discounter-bauern-100.html",
+      "source": "tagesschau",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "EU verhängt 470 Millionen Euro Strafe gegen Parfümkartell",
+      "summary": "Drei große Duftstoffhersteller sollen sich über Jahre bei Preisen und Kosten abgesprochen haben.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-470-millionen-euro-strafe-gegen-parfuemkartell-a-b67298ac-ea3c-4961-8257-0d44689c4b2b#ref=rss",
+      "source": "Spiegel",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Bahn erzielt Teilerfolg im Streit um Provisionen",
+      "summary": "Es ging darum, ob die Bahn konkurrierenden Ticketplattformen eine Provision zahlen muss, weil diese Zahlungen abwickeln. Das Bundesgericht gab ihr teilweise recht.",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-streit-ueber-provisionen-bahn-erzielt-teilerfolg-vor-gericht-a-695a6d76-519f-43df-b9b2-887a0a2739d0#ref=rss",
+      "source": "Spiegel",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Union legt Kompromiss zur „Rente mit 63“ vor",
+      "summary": "Im Streit um die abschlagsfreie Rente nach 45 Beitragsjahren macht die Unionsfraktion der SPD ein Angebot. Ein schneller Durchbruch gilt laut Handelsblatt als unsicher.",
+      "url": "https://www.handelsblatt.com/politik/deutschland/reformplaene-union-wirbt-fuer-neuen-vorstoss-im-rentenstreit/100272840.html",
+      "source": "Handelsblatt",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "TK-Report: Frauen zwischen 35 und 55 im Fokus",
+      "summary": "Die Techniker Krankenkasse hat im Gesundheitsreport die Lage dieser Beschäftigtengruppe untersucht, auch mit Blick auf die Wechseljahre am Arbeitsplatz.",
+      "url": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
+      "source": "tagesschau",
+      "category": "Arbeit & Soziales"
+    }
+  ]
 }
