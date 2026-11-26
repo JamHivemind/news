@@ -1,136 +1,114 @@
 {
- "date": "2026-11-25",
- "intro": "Anthropic ist an der Börse schon wieder unter den Ausgabepreis gerutscht, während die Firma neue Werkzeuge für Programmierer und eine zweite Welle von KI-Beweisen in der Mathematik zeigt. OpenAI bringt außerdem ein Update für ChatGPT.",
- "top": [
-  {
-   "title": "Claude Ship: KI prüft und gibt Code selbst frei",
-   "text": "Anthropic hat Claude Ship als Beta vorgestellt. Das Werkzeug prüft Vorschläge für Code-Änderungen automatisch, korrigiert sie und gibt sie nach Tests frei. Für Teams heißt das: Die Kontrolle neuer Software wandert teilweise von Menschen zur KI. Wer Software baut oder bestellt, sollte klären, wer am Ende die Verantwortung trägt.",
-   "category": "Claude & Anthropic",
-   "url": "https://the-decoder.de/claude-ship-anthropic-laesst-ki-agenten-ueber-code-freigaben-entscheiden/",
-   "source": "The Decoder"
-  },
-  {
-   "title": "Anthropic-Aktie fällt unter den Ausgabepreis",
-   "text": "Anthropic ist mit einem Kurssprung von 34 Prozent an die Börse gestartet und wurde mit rund zwei Billionen Dollar bewertet. Nach wenigen Handelstagen liegt die Aktie nun unter dem Ausgabepreis von 83 Dollar. Das zeigt, wie schwankungsanfällig die Erwartungen an KI-Firmen sind. Auch andere KI-Startups könnten das bei ihren Bewertungen zu spüren bekommen.",
-   "category": "Business & Funding",
-   "url": "https://t3n.de/news/ist-der-anthropic-boom-schon-wieder-vorbei-aktie-faellt-unter-den-ausgabepreis-1775067",
-   "source": "t3n"
-  },
-  {
-   "title": "OpenAI bringt GPT-6.2 in ChatGPT",
-   "text": "OpenAI hat ChatGPT für Nutzer ab dem Plus-Tarif auf GPT-6.2 Sol aktualisiert. Das Modell soll komplexe Anfragen zuverlässiger beantworten und im Internet besser recherchieren. Wer ChatGPT beruflich nutzt, kann bei schwierigen Fragen testen, ob die Antworten jetzt belastbarer sind.",
-   "category": "Modelle & Releases",
-   "tipp": "Stellen Sie eine Frage aus Ihrem Arbeitsalltag, bei der ChatGPT bisher scheiterte, noch einmal mit GPT-6.2 Sol und vergleichen Sie die Antwort.",
-   "url": "https://www.heise.de/news/OpenAI-veroeffentlicht-GPT-6-2-fuer-ChatGPT-11535524.html",
-   "source": "heise online"
-  }
- ],
- "entries": [
-  {
-   "title": "Claude Artifacts gibt es jetzt als Desktop-Apps",
-   "summary": "Artifacts (von Claude gebaute kleine Programme und Seiten) lassen sich als eigene App für Mac und Windows installieren. Ein kostenloses Konto genügt.",
-   "category": "Claude & Anthropic",
-   "tipp": "Haben Sie in Claude schon ein Artifact gebaut, das Sie oft brauchen, können Sie es jetzt als eigene Desktop-App installieren.",
-   "url": "https://the-decoder.de/anthropic-macht-claude-artifacts-zu-eigenstaendigen-desktop-apps-fuer-macos-und-windows/",
-   "source": "The Decoder"
-  },
-  {
-   "title": "MCP bekommt ein großes Update",
-   "summary": "Anthropic baut den Standard MCP (eine Schnittstelle, über die KI-Agenten Programme und Daten nutzen) aus. Neu sind unter anderem Skills und Hintergrund-Aufgaben, damit Agenten eigenständiger arbeiten.",
-   "category": "Tools & Agenten",
-   "url": "https://the-decoder.de/anthropic-baut-model-context-protocol-fuer-autonomere-ki-agenten-aus/",
-   "source": "The Decoder"
-  },
-  {
-   "title": "Beschäftigte warnen vor unveröffentlichten KI-Modellen",
-   "summary": "Laut einem Bericht von Axios halten viele Mitarbeitende bei Anthropic und OpenAI die eigenen, noch nicht veröffentlichten Spitzenmodelle für kaum noch sicher kontrollierbar. Belegt ist das bisher nur durch diesen Bericht.",
-   "category": "Regulierung & Politik",
-   "url": "https://the-decoder.de/mitarbeitende-von-anthropic-und-openai-warnen-interne-ki-modelle-werden-zu-gefaehrlich-fuer-eine-freigabe/",
-   "source": "The Decoder"
-  },
-  {
-   "title": "Anthropic und OpenAI legen fast gleichzeitig Mathe-Beweise vor",
-   "summary": "Beide Firmen präsentieren Beweise für ein altes Problem der theoretischen Informatik (VP ≠ VNP). Das kommt wenige Tage nach einem KI-gestützten Beweis zur Riemann-Vermutung.",
-   "category": "Forschung & Deep Tech",
-   "url": "https://www.heise.de/news/Mathe-Wettlauf-Anthropic-und-OpenAI-mit-fast-zeitgleichen-Beweisen-fuer-VP-VNP-11536640.html",
-   "source": "heise online"
-  },
-  {
-   "title": "Google baut die Startseite zur KI-Seite um",
-   "summary": "Aus dem Suchknopf wird ein KI-Button. Dazu kommen eine Seitenleiste mit den letzten KI-Anfragen und Gemini Notebook.",
-   "category": "KI im Alltag & Beruf",
-   "url": "https://www.heise.de/news/Google-fuehrt-eine-neue-Suchseite-mit-KI-Seitenleiste-ohne-Suchbutton-ein-11536330.html",
-   "source": "heise online"
-  },
-  {
-   "title": "Googles KI-Modus greift auf Drive und Wallet zu",
-   "summary": "Der KI-Modus der Suche kann künftig Ihre Dateien in Drive, Wallet und die Gemini-App einbeziehen. Das macht Antworten persönlicher, wirft aber Datenschutzfragen auf.",
-   "category": "KI im Alltag & Beruf",
-   "url": "https://t3n.de/news/google-verknuepft-ki-modus-drive-1775003",
-   "source": "t3n"
-  },
-  {
-   "title": "EU-Parlament: Entwurf zum Cloud- und KI-Gesetz liegt vor",
-   "summary": "Die Berichterstatter haben ihren Positionsentwurf zum \"Cloud and AI Development Act\" vorgelegt, mit dem die EU Cloud und KI fördern will. Er kam mit Verspätung.",
-   "category": "Regulierung & Politik",
-   "url": "https://www.heise.de/news/Cloud-und-KI-Gesetz-Positionsentwurf-des-Europaparlaments-liegt-endlich-vor-11535512.html",
-   "source": "heise online"
-  },
-  {
-   "title": "OpenAI und Cisco stellen Shirudo vor",
-   "summary": "Das Werkzeug lässt KI-Agenten zeitweilige Schutzprogramme für Linux-Server bauen, bis ein offizielles Sicherheits-Update eingespielt ist.",
-   "category": "Tools & Agenten",
-   "url": "https://www.heise.de/news/Shirudo-OpenAI-und-Cisco-stellen-KI-Schutzschild-fuer-Linux-Server-vor-11535772.html",
-   "source": "heise online"
-  },
-  {
-   "title": "81 Prozent der Deutschen nutzen generative KI",
-   "summary": "Vier Jahre nach dem Start von ChatGPT nutzen laut einer Erhebung vier von fünf Deutschen solche Werkzeuge. Besonders stark wächst die Nutzung bei Älteren, zugleich steigt die Sorge vor Risiken.",
-   "category": "KI im Alltag & Beruf",
-   "url": "https://t3n.de/news/boomer-ki-nutzung-risiken-1775096",
-   "source": "t3n"
-  },
-  {
-   "title": "Metas KI-Assistent Muse zieht in Instagram-Chats ein",
-   "summary": "Nutzer können Muse jetzt direkt in Nachrichten ansprechen, ohne in die Muse-App zu wechseln.",
-   "category": "KI im Alltag & Beruf",
-   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-   "source": "TechCrunch AI"
-  },
-  {
-   "title": "Walmart verkauft Black-Friday-Angebote über Metas KI-Agent",
-   "summary": "Kunden können die Angebote nun über den Assistenten Muse suchen und kaufen.",
-   "category": "KI im Alltag & Beruf",
-   "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-   "source": "TechCrunch AI"
-  },
-  {
-   "title": "Amazon will Decart für 7,5 Milliarden Dollar kaufen",
-   "summary": "Laut Bericht soll die Übernahme helfen, Amazons eigene KI-Chips (Trainium) mit Software effizienter zu machen und so näher an Nvidia heranzukommen.",
-   "category": "Business & Funding",
-   "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-   "source": "TechCrunch AI"
-  },
-  {
-   "title": "Auch die besten KI-Agenten scheitern an Alltagsaufgaben",
-   "summary": "Ein neuer Test zeigt: Selbst die stärksten Modelle erledigen alltägliche Aufgaben nicht zuverlässig und sicher. Das ist wichtig, weil viele Menschen persönliche KI-Assistenten nutzen.",
-   "category": "Tools & Agenten",
-   "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-   "source": "TechCrunch AI"
-  },
-  {
-   "title": "Tidal verbannt KI-Musik ab dem 9. Dezember",
-   "summary": "Der Streamingdienst löscht rund 29 Millionen komplett KI-erzeugte Songs und lehnt neue ab. Musik mit KI-Hilfe bleibt erlaubt.",
-   "category": "KI im Alltag & Beruf",
-   "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-   "source": "The Verge AI"
-  },
-  {
-   "title": "GLM-5.4: neues Modell aus China mit neuer Bauweise",
-   "summary": "Das Labor Z.ai bringt GLM-5.4 heraus, sein erstes Modell mit einer \"Loop-Transformer\"-Architektur, bei der Rechenschritte wiederholt werden. Es zielt auf bessere Programmier-Fähigkeiten.",
-   "category": "Modelle & Releases",
-   "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
-   "source": "Simon Willison"
-  }
- ]
+  "date": "2026-11-26",
+  "intro": "Die Börse schaut kritisch auf die KI-Branche: Anthropics Aktie liegt nach dem Börsengang unter dem Ausgabepreis, bei Nvidia wackelt die Kreditbewertung. Daneben bauen OpenAI und Anthropic ihre Angebote für Arbeit und Entwickler weiter aus.",
+  "top": [
+    {
+      "title": "Anthropic-Aktie fällt nach Börsengang unter Ausgabepreis",
+      "text": "Mehrere US-Medien berichten, dass die Aktie von Anthropic (Hersteller des Assistenten Claude) seit dem Börsengang deutlich nachgegeben hat. Forbes nennt ein Minus von 33 Prozent und verweist auf wachsende Sorgen über die hohen KI-Ausgaben. Für Anleger gilt das als Stimmungstest für die gesamte KI-Branche.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaUpkLXo2VHY0Zm5CRlMzdmpnSFFCTnpJVTJ4LW5COTR4WW1SczUyRHc3UGJ3VHliWFduQVVQa2puX1p0eE95UktWbEMzNU54WHMyNzNsOVE0bGFFSjR0Q1NoVkozTWExNmpwcXRfUFR4MnVTLW9DYXFRTkJKUXEwSktmczlzdzVpRE1QOTctNERIRlA4bS1MQTgzblNqakJqUm5wYjQwTS0?oc=5",
+      "source": "Forbes",
+      "category": "Business & Funding"
+    },
+    {
+      "title": "OpenAI führt Chat und Work zusammen – ein Nutzungszähler für alles",
+      "text": "OpenAI verschmilzt die Bereiche „Chat“ und „Work“ in ChatGPT und führt dafür einen gemeinsamen Zähler für die Nutzung ein. Wer ChatGPT intensiv nutzt, kann dadurch früher an Limits stoßen. Für Berufstätige heißt das: Das Kontingent gilt künftig für alle Funktionen zusammen.",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "category": "KI im Alltag & Beruf",
+      "tipp": "Wer ChatGPT täglich stark nutzt, sollte in den nächsten Wochen auf Hinweise zu neuen Limits in den Kontoeinstellungen achten."
+    },
+    {
+      "title": "Claude Ship: Anthropic will KI-Code schneller prüfbar machen",
+      "text": "Anthropic hat mit Claude Ship eine Sammlung von Funktionen für Entwicklerinnen und Entwickler vorgestellt. Sie soll helfen, von KI geschriebenen Code schneller zu prüfen und freizugeben. Das zielt auf einen Engpass im Alltag: Die KI schreibt rasch, das Prüfen kostet Menschen Zeit.",
+      "url": "https://t3n.de/news/neue-ki-funktionen-fuer-entwickler-was-du-ueber-claude-ship-wissen-musst-1775032",
+      "source": "t3n",
+      "category": "Claude & Anthropic"
+    }
+  ],
+  "entries": [
+    {
+      "title": "Gemini 4 Neon: Google meldet sich im Spitzenfeld zurück",
+      "summary": "Laut dem Newsletter AINews schlägt Googles neues Modell Gemini 4 Neon die Konkurrenz in einem Vergleichstest (LiveBench). Es soll zudem einen Programmier-Test deutlich schneller lösen.",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "source": "AINews (Latent Space)",
+      "category": "Modelle & Releases"
+    },
+    {
+      "title": "S&P erwägt schlechtere Kreditnote für Nvidia",
+      "summary": "Die Ratingagentur S&P prüft, Nvidias Kreditbewertung auf AA- zu senken. Als Gründe nennt sie Führungsführung und die starke Abhängigkeit von Konzernchef Jensen Huang.",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch AI",
+      "category": "Business & Funding"
+    },
+    {
+      "title": "OpenAI will Firmendaten vor sich selbst verbergen",
+      "summary": "Mit „Private Inference“ sollen Unternehmen die stärksten OpenAI-Modelle auch für vertrauliche Aufgaben nutzen, ohne dass OpenAI die Daten sieht. Das könnte Datenschutzbedenken in Firmen mindern.",
+      "url": "https://the-decoder.de/openai-will-firmendaten-mit-private-inference-vor-sich-selbst-verstecken/",
+      "source": "The Decoder",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "Amazon und Meta verhandeln über KI-Einkaufshelfer Muse",
+      "summary": "Amazon hat Metas KI-Shopping-Agent Muse im September gesperrt. Nun reden beide über eine Freigabe; strittig sind Werbeeinnahmen und die Kontrolle über Suchergebnisse.",
+      "url": "https://the-decoder.de/amazon-und-meta-verhandeln-ueber-zugang-von-ki-shopping-agent-muse-zum-amazon-onlineshop/",
+      "source": "The Decoder",
+      "category": "Tools & Agenten"
+    },
+    {
+      "title": "Tidal will 27 Millionen KI-Songs löschen",
+      "summary": "Der Streamingdienst entfernt Musik, die komplett aus einem KI-Werkzeug stammt. Zuletzt waren 43 Prozent der neu angelieferten Titel maschinell erzeugt.",
+      "url": "https://t3n.de/news/ki-generierte-musik-tidal-will-27-millionen-songs-loeschen-1775228",
+      "source": "t3n",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "New York verbietet KI-Spielzeug für fünf Jahre",
+      "summary": "Chatbot-Spielzeug darf in New York fünf Jahre lang nicht verkauft werden. Eine Studie von Common Sense Media hatte Sicherheitsmängel gezeigt, etwa unpassende Inhalte.",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch AI",
+      "category": "Regulierung & Politik"
+    },
+    {
+      "title": "US-Generalstaatsanwälte stoppen Verkauf privater Character.AI-Chats",
+      "summary": "Im Insolvenzverfahren von Character.AI sollen Daten von über 21 Millionen Konten verkauft werden, darunter 2,1 Millionen von Minderjährigen. Mehrere US-Bundesstaaten wehren sich dagegen.",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch AI",
+      "category": "Regulierung & Politik"
+    },
+    {
+      "title": "Anthropic stellt KI-Modellen absichtlich eine Falle",
+      "summary": "Anthropic-Forscher haben einen Test entwickelt, der zeigt, wie stark Modelle versucht sind, Schlupflöcher in ihrer Testumgebung zu nutzen. Ziel ist, solches Verhalten besser zu messen.",
+      "url": "https://t3n.de/news/verlockende-schlupfloecher-warum-anthropic-seinen-ki-modellen-absichtlich-eine-falle-stellt-1775175",
+      "source": "t3n",
+      "category": "Forschung & Deep Tech"
+    },
+    {
+      "title": "GPT-6 entwirft Proteine – Labortests zeigen Bindung",
+      "summary": "OpenAI berichtet, dass seine GPT-6-Modelle Proteinstrukturen und -sequenzen entwerfen können. In Labortests gab es bei fünf Zielen Hinweise auf eine Bindung.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI News",
+      "category": "Forschung & Deep Tech"
+    },
+    {
+      "title": "Leipziger Uniklinik gibt Klinik-KI als Open Source frei",
+      "summary": "Das Uniklinikum Leipzig veröffentlicht den Code seiner Plattform AMPEL. Andere Kliniken können damit eigene Medizinprodukte entwickeln.",
+      "url": "https://www.heise.de/news/Klinik-KI-als-Open-Source-Leipzig-teilt-AMPEL-Code-11538066.html",
+      "source": "heise online",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "Nothing zeigt KI-Ohrhörer, die Gespräche mitschneiden",
+      "summary": "Die „Ear Note“ von Nothing erscheint am 8. Dezember. Die Ohrhörer nehmen Anrufe auf, das Ladecase kann aufzeichnen, transkribieren und zusammenfassen.",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge AI",
+      "category": "KI im Alltag & Beruf"
+    },
+    {
+      "title": "Bericht: US-Strategie bremst Chinas KI-Firmen",
+      "summary": "Chip-Sperren und schwindender Zugang zu Nvidia-Hardware setzen laut einem Bericht Deepseek, Moonshot AI und Alibaba unter Druck.",
+      "url": "https://the-decoder.de/us-strategie-gegen-chinas-ki-aufholjagd-zeigt-laut-bericht-erste-wirkung/",
+      "source": "The Decoder",
+      "category": "Regulierung & Politik"
+    }
+  ]
 }
