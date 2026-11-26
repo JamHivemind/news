@@ -1,6 +1,25 @@
 {
   "briefs": [
     {
+      "date": "2026-11-26",
+      "file": "2026-11-26.html",
+      "headline": "USA kündigen neue Zölle an – auch gegen die EU",
+      "count": 13,
+      "sources": 5,
+      "cats": {
+        "Politik & Handel": 1,
+        "Börse & Märkte": 2,
+        "Konjunktur": 3,
+        "Energie": 2,
+        "Unternehmen": 3,
+        "Arbeit & Soziales": 2
+      },
+      "ents": {
+        "USA": 2,
+        "ifo": 1
+      }
+    },
+    {
       "date": "2026-11-25",
       "file": "2026-11-25.html",
       "headline": "Ifo-Index steigt zum siebten Mal in Folge",
