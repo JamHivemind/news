@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-26T03:53:52.169Z",
+ "fetched": "2026-11-26T05:17:32.534Z",
  "hours": 48,
  "sources": [
   {
@@ -320,6 +320,12 @@
    "ok": true,
    "items": [
     {
+     "title": "Newsblog zu Nahost: Richter empfehlen: Meiste Anklagepunkte gegen Netanjahu fallen lassen",
+     "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-hamas-fuehrungsmitglied-getoetet-gazastreifen-israel-bestechlichkeit-li.3586371",
+     "date": "2026-11-26T03:51:19.000Z",
+     "text": "Seit 2020 läuft gegen Israels Regierungschef ein Korruptionsprozess, in dem er alle Vorwürfe der Bestechlichkeit, Untreue und des Betrugs bestreitet. Nun äußern sich die Richter gegenüber der Staatsanwaltschaft."
+    },
+    {
      "title": "Newsblog zu KI: Space-X darf eine Million Satelliten für Rechenzentren ins All schicken",
      "url": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-anthropic-boersengang-huang-musk-space-x-li.3586337",
      "date": "2026-11-26T00:45:05.000Z",
@@ -402,12 +408,6 @@
      "url": "https://www.sueddeutsche.de/politik/ministerpraesidentenwahl-in-sachsen-anhalt-siegmund-und-angern-treten-an-li.3586129",
      "date": "2026-11-25T13:38:17.000Z",
      "text": ""
-    },
-    {
-     "title": "Bei Auftritt von Ex-Mossad-Chef im Bundestag: Linken-Abgeordnete blockieren Tür",
-     "url": "https://www.sueddeutsche.de/politik/bei-auftritt-von-ex-mossad-chef-im-bundestag-linken-abgeordnete-blockieren-tuer-li.3586089",
-     "date": "2026-11-25T13:33:41.000Z",
-     "text": ""
     }
    ]
   },
@@ -415,6 +415,18 @@
    "name": "tagesschau",
    "ok": true,
    "items": [
+    {
+     "title": "Wetterchaos an Thanksgiving in USA befürchtet",
+     "url": "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html",
+     "date": "2026-11-26T04:41:15.000Z",
+     "text": "Extreme Springflut und Überschwemmungen in Kalifornien - Sturmwarnung und viel Regen an der Ostküste. Pünktlich zu Thanksgiving könnte das Wetter die Reise- und Feiertagspläne vieler US-Amerikaner durcheinander bringen."
+    },
+    {
+     "title": "EU-Haushalt: Kampf um bis zu zwei Billionen Euro",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
+     "date": "2026-11-26T04:00:53.000Z",
+     "text": "Die Staats- und Regierungschefs der 27 EU-Länder beraten bei einem Sondergipfel in Brüssel über den langfristigen EU-Haushalt. Dabei geht es auch um mögliche neue Einnahmequellen wie etwa eine Digitalsteuer. Von C. Feld."
+    },
     {
      "title": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
      "url": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
@@ -438,12 +450,6 @@
      "url": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
      "date": "2026-11-25T16:29:03.000Z",
      "text": "Landwirte, Industrie und andere Unternehmen können wegen der anhaltenden Energiekrise weiterhin mit staatlichen Zuschüssen rechnen. Laut EU-Kommission bleibt es bis mindestens Ende Juni 2027 bei den gelockerten Regeln zur Beihilfe."
-    },
-    {
-     "title": "Gewalt gegen Frauen in Brasilien: Auf Streife gegen Femizide",
-     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-gewalt-gegen-frauen-100.html",
-     "date": "2026-11-25T14:36:37.000Z",
-     "text": "In Brasilien hat die Zahl der Frauenmorde vergangenes Jahr einen Höchststand erreicht. Eine Spezialeinheit der Polizei soll gefährdete Frauen schützen - unterwegs mit einer Patrouille in Rio de Janeiro. Von Xenia Böttcher."
     },
     {
      "title": "Run auf kostenlose Finnland-Reise für Singles",
@@ -474,6 +480,12 @@
      "url": "https://www.tagesschau.de/ausland/europa/emgr-urteil-pushbacks-100.html",
      "date": "2026-11-24T13:28:55.000Z",
      "text": "Eigentlich dürfen Migranten nicht dahin zurückgeschickt werden, wo ihnen Menschenrechtsverletzungen drohen. Ein Grundsatzurteil ändert das - wenn Migranten als Druckmittel eingesetzt und nicht besonders schutzbedürftig sind."
+    },
+    {
+     "title": "Gewalt gegen Frauen in Brasilien: Auf Streife gegen Femizide",
+     "url": "https://www.tagesschau.de/ausland/amerika/brasilien-gewalt-gegen-frauen-100.html",
+     "date": "2026-11-25T14:36:37.000Z",
+     "text": "In Brasilien hat die Zahl der Frauenmorde vergangenes Jahr einen Höchststand erreicht. Eine Spezialeinheit der Polizei soll gefährdete Frauen schützen - unterwegs mit einer Patrouille in Rio de Janeiro. Von Xenia Böttcher."
     },
     {
      "title": "USA kündigen neue Zölle an - auch gegen EU und China",
@@ -522,18 +534,6 @@
      "url": "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
      "date": "2026-11-25T05:18:30.000Z",
      "text": "In Israel bleibt Gadi Eisenkot nicht mehr viel Zeit, eine Regierung zu bilden. Aktuell laufen die Gespräche mit Netanjahus Likud-Partei. Dabei gibt es große Differenzen - und kaum Alternativen. Von J. Segador."
-    },
-    {
-     "title": "Kriegsfolgen im Gazastreifen: Verschmutztes Wasser, Asbest in den Trümmern",
-     "url": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-162.html",
-     "date": "2026-11-24T04:09:27.000Z",
-     "text": "Auf den Straßen sammelt sich der Müll, in den zerstörten Gebäuden steckt Asbest: Im Gazastreifen leidet die Bevölkerung. Die Folgen des Krieges könnten noch Jahrzehnte spürbar sein, so die Hilfsorganisation Oxfam. Von Julio Segador."
-    },
-    {
-     "title": "Südkorea meldet russische Militärflugzeuge vor seiner Küste",
-     "url": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
-     "date": "2026-11-24T04:23:38.000Z",
-     "text": "Mehrere russische Militärflugzeuge sind südkoreanischen Sicherheitsbehörden zufolge am Dienstagmorgen in Südkoreas Luftverteidigungszone eingedrungen. Erst kürzlich meldeten Taiwan und Japan ähnliche Vorfälle."
     }
    ]
   },
@@ -545,169 +545,169 @@
     {
      "title": "Bundestagspräsidentin - Klöckner will Sanktionen nach Blockade durch Linke-Politikerinnen im Bundestag",
      "url": "https://www.deutschlandfunk.de/kloeckner-will-sanktionen-nach-blockade-durch-linke-politikerinnen-im-bundestag-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Nach der Blockadeaktion zweier Linken-Abgeordneten im Parlament strebt Bundestagspräsidentin Klöckner Strafmaßnahmen an."
+    },
+    {
+     "title": "Brüssel - EU-Staats- und Regierungschefs beraten über Haushalt - Kanzler Merz drängt auf gemeinsame Finanzierung neuer Ukraine-Hilfen",
+     "url": "https://www.deutschlandfunk.de/eu-staats-und-regierungschefs-beraten-ueber-haushalt-kanzler-merz-draengt-auf-gemeinsame-finanzierun-100.html",
+     "date": "2026-11-26T04:53:23.000Z",
+     "text": "Die Staats- und Regierungschefs der Europäischen Union kommen heute zu einem zweitägigen Sondergipfel in Brüssel zusammen. Zentrales Thema ist der nächste langfristige Haushalt."
+    },
+    {
+     "title": "Verhandlungen in Brüssel - DGB: Forderung von Merz nach niedrigerem EU-Haushalt ginge auch zu Lasten von Menschen in Deutschland",
+     "url": "https://www.deutschlandfunk.de/dgb-forderung-von-merz-nach-niedrigerem-eu-haushalt-ginge-auch-zu-lasten-von-menschen-in-deutschland-100.html",
+     "date": "2026-11-26T04:53:23.000Z",
+     "text": "Die auch von Bundeskanzler Merz geforderten Kürzungen im künftigen Haushalt der EU gingen nach Berechnungen des Deutschen Gewerkschaftsbundes zu Lasten von Menschen auch in Deutschland."
     },
     {
      "title": "Medienkonsum - Bundesfamilienministerin Prien fordert 1.000 erste bildschirmfreie Tage für Kleinkinder",
      "url": "https://www.deutschlandfunk.de/bundesfamilienministerin-prien-fordert-1-000-erste-bildschirmfreie-tage-fuer-kleinkinder-100.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Bundesfamilienministerin Prien hat an Eltern appelliert, ihre Kinder in den ersten drei Lebensjahren ohne Fernsehen, Smartphone, Computer und Tablet aufwachsen zu lassen."
     },
     {
      "title": "Nach dem Bericht der Expertenkommission - Forderungen aus Union und von Grünen nach komplettem Verbot von Prostitution",
      "url": "https://www.deutschlandfunk.de/forderungen-aus-union-und-von-gruenen-nach-komplettem-verbot-von-prostitution-100.html",
-     "date": "2026-11-26T03:45:10.000Z",
-     "text": "Nach dem Bericht einer Expertenkommission zum Schutz von Prostitierten kommen aus der Union und von den Grünen weitreichendere Forderungen."
+     "date": "2026-11-26T04:53:23.000Z",
+     "text": "Nach dem Bericht einer Expertenkommission zum Schutz von Prostitierten kommen aus der Union und von den Grünen weitreichendere Forderungen. Der Justiziar der Unionsfraktion, Plum, sagte der \"Rheinischen Post\", einzelne Nachbesserungen reichten nicht aus."
     },
     {
      "title": "Berlin - Bundestag setzt heute Beratungen über Einzeletats der Ministerien fort",
      "url": "https://www.deutschlandfunk.de/bundestag-setzt-heute-beratungen-ueber-einzeletats-der-ministerien-fort-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Der Deutsche Bundestag setzt heute seine abschließenden Beratungen über den Etat für das kommende Jahr fort."
     },
     {
      "title": "Schulregeln - Nordrhein-Westfalen verbietet Gesichtsschleier im Unterricht",
      "url": "https://www.deutschlandfunk.de/nordrhein-westfalen-verbietet-gesichtsschleier-im-unterricht-100.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "In Nordrhein-Westfalen ist das Tragen von Gesichtschleiern im Schulunterricht künftig untersagt."
     },
     {
      "title": "Kultur - Deutscher Kleinkunstpreis 2027 unter anderem an Schweizer Kabarettistin Patti Basler",
      "url": "https://www.deutschlandfunk.de/deutscher-kleinkunstpreis-2027-unter-anderem-an-schweizer-kabarettistin-patti-basler-100.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Die Schweizer Kabarettistin Patti Basler erhält den Deutschen Kleinkunstpreis 2027 in der Sparte Kabarett."
-    },
-    {
-     "title": "Brüssel - EU-Staats- und Regierungschefs beraten über Haushalt - Kanzler Merz drängt auf gemeinsame Finanzierung neuer Ukraine-Hilfen",
-     "url": "https://www.deutschlandfunk.de/eu-staats-und-regierungschefs-beraten-ueber-haushalt-kanzler-merz-draengt-auf-gemeinsame-finanzierun-100.html",
-     "date": "2026-11-26T03:45:10.000Z",
-     "text": "Die Staats- und Regierungschefs der Europäischen Union kommen heute zu einem zweitägigen Sondergipfel in Brüssel zusammen."
     },
     {
      "title": "Justitz - Mutmaßliche russische Spionin steht heute vor Gericht",
      "url": "https://www.deutschlandfunk.de/mutmassliche-russische-spionin-steht-heute-vor-gericht-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "In Berlin beginnt heute vor dem Kammergericht ein Prozess gegen eine mutmaßliche russische Spionin."
     },
     {
      "title": "Champions League - Bayern und Stuttgart verlieren auswärts in Lille und Mailand",
      "url": "https://www.deutschlandfunk.de/bayern-und-stuttgart-verlieren-auswaerts-in-lille-und-mailand-104.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "In der Fußball-Champions-League haben beide deutschen Mannschaften auswärts Niederlagen hinnehmen müssen. Der FC Bayern München verlor beim OSC Lille in Frankreich mit 1:2 (1:0). Der VfB Stuttgart unterlag beim italienischen Klub Inter Mailand mit 0:2 (0:0)."
     },
     {
      "title": "\"New Romantics\" - \"Duran Duran\"-Gitarrist Andy Taylor mit 65 Jahren gestorben",
      "url": "https://www.deutschlandfunk.de/duran-duran-gitarrist-andy-taylor-mit-65-jahren-gestorben-104.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Der britische Musiker Andy Taylor ist tot. Der frühere Gitarrist der Band Duran Duran starb im Alter von 65 Jahren an einer Krebserkrankung. Das teilten seine Familie und die Band mit."
     },
     {
      "title": "Asteroid Dimorphos - \"Weit mehr als eine wissenschaftliche Sensation\": ESA veröffentlicht Bilder der Raumsonde Hera von Asteroiden-Abwehrmission",
      "url": "https://www.deutschlandfunk.de/weit-mehr-als-eine-wissenschaftliche-sensation-esa-veroeffentlicht-bilder-der-raumsonde-hera-von-ast-106.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Vor vier Jahren krachte erstmals eine Sonde gezielt in einen Asteroiden. Nun wurden erste detaillierte Bilder veröffentlicht. Experten sprechen von einem Beleg, dass die Menschheit den Gefahren aus dem All nicht mehr handlungsunfähig ausgeliefert ist."
     },
     {
      "title": "Raumfahrt - SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All bringen",
      "url": "https://www.deutschlandfunk.de/spacex-darf-eine-million-satelliten-fuer-ki-rechenzentren-ins-all-bringen-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
-     "text": "Das ​Raumfahrtunternehmen SpaceX darf ein Netzwerk aus einer Million Satelliten für Rechenzentren im Weltraum aufbauen."
+     "date": "2026-11-26T04:53:23.000Z",
+     "text": "Das ​Raumfahrtunternehmen SpaceX darf ein Netzwerk aus einer Million Satelliten für Rechenzentren im Orbit aufbauen."
     },
     {
      "title": "\"Respekt-Rente\" - Union schlägt Kompromiss im Streit um \"Rente mit 63\" vor",
      "url": "https://www.deutschlandfunk.de/union-schlaegt-kompromiss-im-streit-um-rente-mit-63-vor-106.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Die Union hat im koalitionsinternen Streit um die abschlagsfreie Frühverrentung nach 45 Beitragsjahren einen Kompromissvorschlag vorgelegt. Ein entsprechendes Papier liegt unserem Hauptstadtstudio vor."
-    },
-    {
-     "title": "Vor Wahl in Spanien - Tausende Migranten erreichen Kanaren - Regionalpräsident bittet EU um Hilfe",
-     "url": "https://www.deutschlandfunk.de/tausende-migranten-erreichen-kanaren-regionalpraesident-bittet-eu-um-hilfe-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
-     "text": "Nach Angaben der spanischen Behörden sind am Dienstag fast 2.000 Migranten auf den Kanarischen Inseln angekommen."
     },
     {
      "title": "Israel - Richter empfehlen, zentrale Bestechlichkeitsvorwürfe gegen Premier Netanjahu fallen zu lassen",
      "url": "https://www.deutschlandfunk.de/richter-empfehlen-zentrale-bestechlichkeitsvorwuerfe-gegen-premier-netanjahu-fallen-zu-lassen-100.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Im langjährigen Korruptionsprozess gegen Israels geschäftsführenden Ministerpräsidenten Netanjahu haben die Richter empfohlen, zentrale Vorwürfe fallen zu lassen."
     },
     {
      "title": "Ägypten - Mindestens 30 Tote bei Brand nahe Kairo",
      "url": "https://www.deutschlandfunk.de/mindestens-30-tote-bei-brand-nahe-kairo-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Bei einem Brand in der ägyptischen Provinz Gizeh nahe der Hauptstadt Kairo sind mindestens 30 Menschen ums Leben gekommen."
     },
     {
      "title": "Rechtsextremistische Chatgruppe \"Terror 18\" - Drei Teenager unter Terrorverdacht festgenommen - und mit Auflagen wieder freigekommen",
      "url": "https://www.deutschlandfunk.de/drei-teenager-unter-terrorverdacht-festgenommen-und-mit-auflagen-wieder-freigekommen-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Nach der Festnahme von drei mutmaßlichen Mitgliedern einer rechtsextremistischen Terrorgruppe sind die drei Beschuldigten wieder auf freiem Fuß. Die Haftbefehle wurden unter Auflagen außer Vollzug gesetzt, wie die Bundesanwaltschaft mitteilte."
     },
     {
      "title": "Medien - Kontroverse Debatte um VRM-Verlagsgruppe wegen Druckauftrag für \"Nius\"-Wochenzeitung",
      "url": "https://www.deutschlandfunk.de/kontroverse-debatte-um-vrm-verlagsgruppe-wegen-druckauftrag-fuer-nius-wochenzeitung-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Die Übernahme des Druckauftrags für die neue Wochenzeitung des Online-Portals \"Nius\" durch das Medienunternehmen VRM hat eine kontroverse Debatte ausgelöst."
     },
     {
-     "title": "Gesundheitsbehörde CDC - Bereits mehr als 6.000 Masernfälle in den USA in diesem Jahr",
-     "url": "https://www.deutschlandfunk.de/bereits-mehr-als-6-000-masernfaelle-in-den-usa-in-diesem-jahr-104.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "title": "USA - Gesundheitsbehörde: Bereits mehr als 6.000 Masernfälle",
+     "url": "https://www.deutschlandfunk.de/gesundheitsbehoerde-bereits-mehr-als-6-000-masernfaelle-104.html",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "In den USA steigt die Zahl der Maserninfektionen deutlich an."
     },
     {
      "title": "Trump-Regierung - USA kündigen neue Zölle gegen EU, China und andere Handelspartner an",
      "url": "https://www.deutschlandfunk.de/usa-kuendigen-neue-zoelle-gegen-eu-china-und-andere-handelspartner-an-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Die US-Regierung ‌plant ⁠neue Zölle ⁠gegen die Europäische Union und 13 weitere Wirtschaftspartner. Der Handelsbeauftragte Greer kündigte die Sonderabgaben nach dem Abschluss einer Untersuchung an, die sich mit unfairen Praktiken befasst habe."
     },
     {
      "title": "Brüssel - EU-Kommission weist Begründung für neue US-Zölle zurück",
      "url": "https://www.deutschlandfunk.de/eu-kommission-weist-begruendung-fuer-neue-us-zoelle-zurueck-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Die EU-Kommission hat die von Washington angegebene Begründung für neue US-Zölle zurückgewiesen."
     },
     {
      "title": "Streit um verschleppte ukrainische Kinder - Schweiz bedauert plötzliche Schließung von diplomatischer Vertretung in Nordkorea",
      "url": "https://www.deutschlandfunk.de/schweiz-bedauert-ploetzliche-schliessung-von-diplomatischer-vertretung-in-nordkorea-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Die Schweiz hat die plötzliche Schließung ihrer erst kürzlich wiedereröffneten diplomatischen Vertretung in Pjöngjang durch Nordkorea bedauert."
     },
     {
      "title": "Kulturstaatsminister - Erinnerung an Opfer des deutschen Kolonialismus: Weimer schlägt Bremen als Gedenkort vor",
      "url": "https://www.deutschlandfunk.de/erinnerung-an-opfer-des-deutschen-kolonialismus-weimer-schlaegt-bremen-als-gedenkort-vor-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Kulturstaatsminister Weimer will in Bremen einen Ort der Erinnerung an das Unrecht und die Opfer des deutschen Kolonialismus schaffen."
     },
     {
      "title": "Sachsen-Anhalt - AfD reicht Wahlvorschlag für Siegmund offiziell ein - Protest in Magdeburg für 8. Dezember geplant",
      "url": "https://www.deutschlandfunk.de/afd-reicht-wahlvorschlag-fuer-siegmund-offiziell-ein-protest-in-magdeburg-fuer-8-dezember-geplant-102.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Die AfD-Landtagsfraktion in Sachsen-Anhalt hat ihren Spitzenkandidaten Siegmund offiziell für die Wahl des Ministerpräsidenten vorgeschlagen. Sie beantragte im Magdeburger Parlament die Einberufung einer Sondersitzung."
     },
     {
      "title": "Verordnung - Schleswig-Holsteins Landesregierung verbietet PFAS-Pflanzenschutzmittel in Wasserschutzgebieten",
      "url": "https://www.deutschlandfunk.de/schleswig-holsteins-landesregierung-verbietet-pfas-pflanzenschutzmittel-in-wasserschutzgebieten-106.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Schleswig-Holstein verbietet ab dem kommenden Jahr den Einsatz von Pflanzenschutzmitteln mit PFAS in Wasserschutzgebieten."
     },
     {
      "title": "Früheres Supermodel \"Veruschka\" - Vera Gräfin von Lehndorff im Alter von 87 Jahren gestorben",
      "url": "https://www.deutschlandfunk.de/vera-graefin-von-lehndorff-im-alter-von-87-jahren-gestorben-112.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Die einst unter dem Künstlernamen Veruschka als Fotomodell bekannt gewordene Vera Gräfin von Lehndorff ist im Alter von 87 Jahren gestorben."
     },
     {
      "title": "Bachmann-Jubiläum - Österreichisch-deutscher Lyrikpreis vergeben",
      "url": "https://www.deutschlandfunk.de/oesterreichisch-deutscher-lyrikpreis-vergeben-106.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Die Schriftstellerinnen Esther Kinsky und Ann Cotten sind mit dem deutsch-österreichischen Preis für Lyrik ausgezeichnet worden. Die Ehrung wurde anlässlich des 100. Geburtstags der österreichischen Schriftstellerin Ingeborg Bachmann ins Leben gerufen."
     },
     {
      "title": "Wetter - Am Donnerstag verbreitet wolkig, im Nordwesten sonnige Abschnitte",
      "url": "https://www.deutschlandfunk.de/am-donnerstag-verbreitet-wolkig-im-nordwesten-sonnige-abschnitte-120.html",
-     "date": "2026-11-26T03:45:10.000Z",
+     "date": "2026-11-26T04:53:23.000Z",
      "text": "Das Wetter: In der Nacht im Süden stark bewölkt und meist trocken. Sonst teils aufgelockert, teils neblig. An den Küsten Regen- oder Schneeschauer. 0 bis minus 7 Grad. Am Tag im Nordwesten sonnige Abschnitte. Im Rest des Landes wolkig oder trüb mit Schneegriesel. In Südostbayern leichter Schneefall. Temperaturen minus 3 bis plus 3 Grad."
     }
    ]
@@ -719,7 +719,7 @@
     {
      "title": "US announces new tariffs on host of countries including China",
      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-26T03:01:40.000Z",
+     "date": "2026-11-26T04:10:58.000Z",
      "text": "The new levies would hit many of America's biggest trading partners, including China and the EU."
     },
     {
@@ -765,16 +765,22 @@
      "text": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday."
     },
     {
+     "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+     "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T03:27:33.000Z",
+     "text": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year."
+    },
+    {
      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
      "date": "2026-11-25T16:42:11.000Z",
      "text": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant."
     },
     {
-     "title": "Macy's postpones Thanksgiving parade due to weather",
+     "title": "Macy's postpones Thanksgiving parade due to severe weather",
      "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-25T23:57:03.000Z",
-     "text": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms."
+     "date": "2026-11-26T04:04:14.000Z",
+     "text": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday."
     },
     {
      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
@@ -825,12 +831,6 @@
      "text": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong."
     },
     {
-     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-25T10:52:09.000Z",
-     "text": "The verdict follows a months-long trial in New York."
-    },
-    {
      "title": "What we know about Trump's Thanksgiving tariffs",
      "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
      "date": "2026-11-25T19:38:05.000Z",
@@ -840,7 +840,7 @@
      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
      "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
      "date": "2026-11-25T20:11:46.000Z",
-     "text": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says."
+     "text": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says."
     },
     {
      "title": "Greatest catch ever? Man on motorbike takes incredible grab",
@@ -917,13 +917,6 @@
      "via": "Reuters"
     },
     {
-     "title": "Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVFLRmpLV05rVWloZTZ2X1V3M3dsRVE2U1ZhZHloWElnNkpMN1hSanhjV0RzMnU2QnNqcmxpZmphVjhobS1PMG05NUx1cWh6MUVsbkdCd05OWE45MFhzS2gwRWYxNWVFLWZRdGNpdTdLbHN1YVNWSU5ITVlqVEt1RmpSOVpFZkk2dFRHRjkxa1pRQ1RIQkRrVjh3aVdmcFNEajJhYk96QnJaV1lWRk13?oc=5",
-     "date": "2026-11-25T19:09:43.000Z",
-     "text": "Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "US consumer confidence jumps to highest level in nearly two years - Reuters",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlNZMXlsT1hncHloZ0owYU5ZTlZmbFVsTlFtSFRNdGNhTVFia0RMVGVEeE4wbHVYalhxWkl1WkdJNzRGajN4cVN2N2N6YU1Kc3N0dWo3RGVRQXBpel9sSUNFNDVRMDYyeHhHczQ0RkVNbnF5d3pBMTAzTVQ3WjZ1cVFvSWZEcnpSSWR1cDl5MElSNm54ek9UbER6ZE51Q1BTT28tR25Ya3A?oc=5",
      "date": "2026-11-24T17:25:47.000Z",
@@ -980,13 +973,6 @@
      "via": "Reuters"
     },
     {
-     "title": "Saudi-led coalition issues evacuation warning for Yemen's Hodeidah port - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVG1zbDJSYngzOXYyX0pnWnBSUFB6Q0FYVzBkUzNtSVpRQm9ZZEY1S3VtMFJFWHVVbjFqQ29aeXhILVNwekVkX0Y1SUp1T3lUZXFCY2hOVWd1YWhVZVBVRFhoeWF2Y01jUkFGQTl0LWRsWUVNZU0xSGJsTE5hVjlOMm1KOVBOVlJtSGcwYm1zV3d2OE52VHJ1ZEFNeXdQRjhPTGhLMmRDNk14QVo4UHg1THdEQ2xMekJ2ZzJxXw?oc=5",
-     "date": "2026-11-24T22:11:43.000Z",
-     "text": "Saudi-led coalition issues evacuation warning for Yemen's Hodeidah port Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "Ukraine says attack on Russian ships in Libya was self-defence - Reuters",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzIzWjZLTEdiVXRtR0I1cEJ3MFVCUzF5ZktKdWRUQlNtMEVDTnQ4Mk5xU2tvODVlRUJFeE5KOGlieGxsYkp5c1dhZklONzRZNW1VWTR4OVM1MGFQM0cxRXBaQm93b1lhWG1qR3F0ZGV2VTRRRGxtbTRkU1VYQ2c2dEtHckpXQmJCbmpYZlNKeFVrNW8zVjBldDFEWGc1TmIzRTJTM0ozNy1yanVq?oc=5",
      "date": "2026-11-24T12:40:00.000Z",
@@ -994,10 +980,31 @@
      "via": "Reuters"
     },
     {
+     "title": "Saudi-led coalition issues evacuation warning for Yemen's Hodeidah port - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVG1zbDJSYngzOXYyX0pnWnBSUFB6Q0FYVzBkUzNtSVpRQm9ZZEY1S3VtMFJFWHVVbjFqQ29aeXhILVNwekVkX0Y1SUp1T3lUZXFCY2hOVWd1YWhVZVBVRFhoeWF2Y01jUkFGQTl0LWRsWUVNZU0xSGJsTE5hVjlOMm1KOVBOVlJtSGcwYm1zV3d2OE52VHJ1ZEFNeXdQRjhPTGhLMmRDNk14QVo4UHg1THdEQ2xMekJ2ZzJxXw?oc=5",
+     "date": "2026-11-24T22:11:43.000Z",
+     "text": "Saudi-led coalition issues evacuation warning for Yemen's Hodeidah port Reuters",
+     "via": "Reuters"
+    },
+    {
      "title": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles - Reuters",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDQ4VmpuUGp3SW9fRFdmaWowcnNZTXZkNl9ZX3NyTHhid1ZkYldlYWtkeGJ0VnRucTR3MDJoUzN4NnJ5ckdBdnRIT0c0UG82djYyQklKTUM3NG1ianZlUkNOUjVOU2xMYldsU1Y5cEI1R0ludFFaekQxRkc0RkM4OXhYOWxNOTBVdFJXS2txcjhXcnpzX0cwT1lBWnlEZmtaVVE?oc=5",
      "date": "2026-11-24T11:30:00.000Z",
      "text": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGJIcm9ZVllVLXpXNEx0M2d3VE5CSmhwcS1nNzl6S1I0eGp2bE1HZk90UzA3dDVKWVdlRHNhSGd1YmNiYlRkX1NybzRJQ1lHb3A0VDhCSk1JUXFlckQ0YTRORzhIVmpQa21hNElGUjRxcl9yVl9Oc0JyZUJaVzhxR01PYnMwM2VraEx1dmhBOVZkSUxnOVM0a2ItQ1JmblZtQjd5T0MtN0N4eENxSzgwQTBKRlJwQWtvUWRJZFlZM1M?oc=5",
+     "date": "2026-11-26T02:33:00.000Z",
+     "text": "Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says Reuters",
+     "via": "Reuters"
+    },
+    {
+     "title": "For Trump, doubling down on tariffs is about power, not popularity - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGF3UXNuQWFId2NPaERJLTVlLUhkQlp0WGpPNWRaamVTN3BmVFc5YkY3NVkzNHhJLUx6aTN4c2hZVnRucS13S1hMVlJWMEhzNllrYjJDSzczMndmRm5EeUhreW1qb0dpUG1HdTBrdnUtdGRLdFRVaDBWcFFEOXBsZ3gxMXlMNjJFbWk4ZzVtYXF3bWF2Z2NzZ3dTMmE5THV4VGdnRw?oc=5",
+     "date": "2026-11-25T23:31:00.000Z",
+     "text": "For Trump, doubling down on tariffs is about power, not popularity Reuters",
      "via": "Reuters"
     },
     {
@@ -1015,13 +1022,6 @@
      "via": "Reuters"
     },
     {
-     "title": "For Trump, doubling down on tariffs is about power, not popularity - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGF3UXNuQWFId2NPaERJLTVlLUhkQlp0WGpPNWRaamVTN3BmVFc5YkY3NVkzNHhJLUx6aTN4c2hZVnRucS13S1hMVlJWMEhzNllrYjJDSzczMndmRm5EeUhreW1qb0dpUG1HdTBrdnUtdGRLdFRVaDBWcFFEOXBsZ3gxMXlMNjJFbWk4ZzVtYXF3bWF2Z2NzZ3dTMmE5THV4VGdnRw?oc=5",
-     "date": "2026-11-25T23:31:00.000Z",
-     "text": "For Trump, doubling down on tariffs is about power, not popularity Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "EXCLUSIVE: India's Adani signs 3-year copper supply deal with Attero, sources say - Reuters",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjVXaWxRMzZOZGdsLWo3S2MzZnk3YXc0RjRVcGFIZzBVc25Vb2VtVklsSllVSnk1X0htN0JIcWNNbld5YUtnSFVWTUw1dzQ5dmhvNHFsay1ldzB1YlpCWEZnVjc0NTR4T3paMWowV1JidnNWQXZMLU8tNUFzRFFZcEI3aGlhNjdXQnctOEN3dHVMUWNyekxtYWVBd0FlRkZjUzNYenN5MkNDclVGTk1JT1N0c2tiTXc?oc=5",
      "date": "2026-11-24T09:52:39.000Z",
@@ -1036,10 +1036,10 @@
      "via": "Reuters"
     },
     {
-     "title": "Bangladesh minimum wage hike misses garment worker demands, sparks fresh protests - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX25GRDZCYm1IVFNncXVSenBCSUFwYTVUbEZYU1JvQktGWTNZa0FsNzl5bXQyazNzeXF1ODl1VXJBa1hYZkdZc0s2dUFPRi1JS3V1SXFnTjQ3M0hRTEtQaE1GaF9lVm9KNUc2amhiYkFudk5WT0M4RXpUMWJNRzVvQzFneHp6TUF5Vng2YWd2UUJFRlBmU2pxc3RidmZ3SlUzLXViTmw4VmhtclBDVUFxSDdhNFlfTTFEcVZyYm5KRkU?oc=5",
-     "date": "2026-11-25T03:13:00.000Z",
-     "text": "Bangladesh minimum wage hike misses garment worker demands, sparks fresh protests Reuters",
+     "title": "Israeli strike kills Hamas official, his wife and children - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjNlV0dRZTd0cDZJZVBnNFl6VUpTMDFlQlFIY0tJQzR5ZmNrYm9lNS1kMTRYbEpyM2FNMWp6Qms1NGh4VTU0YkxQN0NaY1FRV1diOENoQmdIQjJ0eU12VGZfamhNWHpsZUQ0MXczanBWZW1uWUZsVXpwcElhR2RXdG80RTBIcjZ1WjVHYW94MUhfUDI5dTA0ODZWRlBiVkFYNlhwR1RSaW1OZ2M?oc=5",
+     "date": "2026-11-25T14:19:53.000Z",
+     "text": "Israeli strike kills Hamas official, his wife and children Reuters",
      "via": "Reuters"
     },
     {
@@ -1050,17 +1050,17 @@
      "via": "Reuters"
     },
     {
+     "title": "Bangladesh minimum wage hike misses garment worker demands, sparks fresh protests - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX25GRDZCYm1IVFNncXVSenBCSUFwYTVUbEZYU1JvQktGWTNZa0FsNzl5bXQyazNzeXF1ODl1VXJBa1hYZkdZc0s2dUFPRi1JS3V1SXFnTjQ3M0hRTEtQaE1GaF9lVm9KNUc2amhiYkFudk5WT0M4RXpUMWJNRzVvQzFneHp6TUF5Vng2YWd2UUJFRlBmU2pxc3RidmZ3SlUzLXViTmw4VmhtclBDVUFxSDdhNFlfTTFEcVZyYm5KRkU?oc=5",
+     "date": "2026-11-25T03:13:00.000Z",
+     "text": "Bangladesh minimum wage hike misses garment worker demands, sparks fresh protests Reuters",
+     "via": "Reuters"
+    },
+    {
      "title": "Gold falls to more than one-year low after data shows US inflation rose further - Reuters",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1p3ZkduX2FrdGJhMEMtbmNXNTgxN05HeDFsX2xxNDBkWXZQVkFWS3NzNFpITzZ2RnRyYXVZQ1k5bmthekYzdG9aSDVxcGZGS1RxMnNTTHNRRkQyQWFoWm1zNXVfd2hVQW96VHQ1ZFd4eU04cXNTRWk0cFJ4LS1PLUd1eUFmN3Y4ZjJQbXZpVkd3UQ?oc=5",
      "date": "2026-11-25T00:49:00.000Z",
      "text": "Gold falls to more than one-year low after data shows US inflation rose further Reuters",
-     "via": "Reuters"
-    },
-    {
-     "title": "Number of EU laws has more than doubled since 2010, study shows - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWNpUUdiNzVaUzFSNmZJUV93dVFKc05Cc19FVS01c0FwN1F4OURYUHRnVFhjZXYxQWFwOUx2ZG5OV3Y2Mm1RQ0dqR0l4NzJoZmo0dThaN2RhVDYtMjlPSDh2cXpIalBnRm5CZ19KNjRGOXBDblF1LWN0czl5eDZ0c3VOTkQ5WkE3N2l3dVJGcTFjN093M3hCeQ?oc=5",
-     "date": "2026-11-24T13:08:39.000Z",
-     "text": "Number of EU laws has more than doubled since 2010, study shows Reuters",
      "via": "Reuters"
     },
     {
@@ -1078,13 +1078,6 @@
      "via": "Reuters"
     },
     {
-     "title": "Trump administration pauses joint military operations with Ecuador, NYT says - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVpvMXZiV3QtTzBUWGJ2NlhRVUlrZndMTnplZXBmUWFWb3NfckVEWm1aRTlhajROMC1OR2lDdVdIZlJ0MFBuTnJpVTd6Y0NTX3dYQ3g0clBNOFZOUlBMemNTdEdOc01iTXM1emN6YXdBd2d6SHVoUmxmbm5IYXBxTGJNX2ZDQzBZcm53MFdndy1qOVcxbTNTQUJXUXFNdmlZeVNvdEhaeUQxX2Y2WE9HNHFoakVlVnJ6NmVWQVV6OTRTdV9H?oc=5",
-     "date": "2026-11-25T01:02:00.000Z",
-     "text": "Trump administration pauses joint military operations with Ecuador, NYT says Reuters",
-     "via": "Reuters"
-    },
-    {
      "title": "Kremlin rejects ex-UK PM Johnson's call for a token Western force in Ukraine as unacceptable - Reuters",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmFWemFoRm1velN4TUw2c1BVOFZQcW9QNmRwMXVOQzcyWklQd2pqV0tfMDlUbEFISGRlZ2ZKaUh6T01QNVIyUVhqWTROMmttWjZWU2FZU1FGYzVFTllEWWNxaF9sVFdfRENhQ2tMWFY5YW9adkpCbkV1NE9xUDJEeWVmcmNudGN3T1RmZXhKbDJZekJOZXVNU21pM2xjUWs4Rm1XLVJ1a2JQU1lOelducXRXMjlWRW83WUUzZEt0MHhlVGkxalBF?oc=5",
      "date": "2026-11-25T10:51:44.000Z",
@@ -1092,10 +1085,10 @@
      "via": "Reuters"
     },
     {
-     "title": "UK warns of Russian sabotage threat to companies that supply Ukraine - Reuters",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWthWEU2V2VxbjBhWTVtNE5wdC1LWFBYM24tVF92ekgyb25wMDRablR5eUJCQXFNUFVXU2NMYnkwWUlkWmpmNnhNaUhXZGdOSjUxeVItUzdING0xbDZZRENTTmFHdzJyWXZHM0NCbl91QU1DR3ZpMlpWNGYyVmVVV3dXM2RJSWMxUk1qckdVR18tSjJfbml3enVHUFpZcDBEaG5lSVlDQQ?oc=5",
-     "date": "2026-11-24T21:32:51.000Z",
-     "text": "UK warns of Russian sabotage threat to companies that supply Ukraine Reuters",
+     "title": "Trump administration pauses joint military operations with Ecuador, NYT says - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVpvMXZiV3QtTzBUWGJ2NlhRVUlrZndMTnplZXBmUWFWb3NfckVEWm1aRTlhajROMC1OR2lDdVdIZlJ0MFBuTnJpVTd6Y0NTX3dYQ3g0clBNOFZOUlBMemNTdEdOc01iTXM1emN6YXdBd2d6SHVoUmxmbm5IYXBxTGJNX2ZDQzBZcm53MFdndy1qOVcxbTNTQUJXUXFNdmlZeVNvdEhaeUQxX2Y2WE9HNHFoakVlVnJ6NmVWQVV6OTRTdV9H?oc=5",
+     "date": "2026-11-25T01:02:00.000Z",
+     "text": "Trump administration pauses joint military operations with Ecuador, NYT says Reuters",
      "via": "Reuters"
     },
     {
@@ -1111,6 +1104,13 @@
      "date": "2026-11-24T19:30:04.000Z",
      "text": "Argentina economic activity declines in September for third straight annual drop Reuters",
      "via": "Reuters"
+    },
+    {
+     "title": "Dutch lawmakers urge government to resist US MATCH bill targeting ASML - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzVHX3hnSlM5Wlc1cnprdlZlZ2tEUi1TNkJHYTRzMjUzbnVtek5JSVVFNjZLdXZmeXlUT2lGRFFRaHdZd2pwMWY0MkI3M0tZRVI1d3NmRmotalRHQXdOd3NzUi1ocmJFZU9CY3ByUmZZN3pBSTc3V2NkS0V6d2Jfbzg4V2hJZF81ZHp4djVOU2RJTExUOG1fUlNmYXk3Uy1GWlYxbnR1NmFYcWxjSTRLblNzMmU4UQ?oc=5",
+     "date": "2026-11-24T21:21:47.000Z",
+     "text": "Dutch lawmakers urge government to resist US MATCH bill targeting ASML Reuters",
+     "via": "Reuters"
     }
    ]
   },
@@ -1118,6 +1118,12 @@
    "name": "WELT",
    "ok": true,
    "items": [
+    {
+     "title": "„Dann wird es keine Einigung geben“ – Showdown im Streit um den EU-Haushalt",
+     "url": "https://www.welt.de/politik/ausland/plus6b06e4e05b0e340c047ac96d/sondergipfel-dann-wird-es-keine-einigung-geben-showdown-im-streit-um-den-eu-haushalt.html",
+     "date": "2026-11-26T04:20:09.000Z",
+     "text": "Der Kampf um die EU-Milliarden geht beim Sondergipfel am Donnerstag in die nächste Runde. Deutschland und andere Staaten verlangen Kürzungen, eine Einigung ist nicht in Sicht. Jetzt soll eine ungewöhnliche Idee helfen."
+    },
     {
      "title": "EU macht Westbalkan-Staaten Hoffnung auf Aufnahme",
      "url": "https://www.welt.de/politik/ausland/article6b0789bfc75e09cb88d164dc/gipfeltreffen-eu-macht-westbalkan-staaten-hoffnung-auf-aufnahme.html",
@@ -1291,12 +1297,6 @@
      "url": "https://www.welt.de/politik/ausland/article6b05ada0d4a4a3142c571486/ukraine-selenskyj-spricht-ueber-druck-der-usa-und-bestaetigt-angriff-auf-frachter-in-ostsee.html",
      "date": "2026-11-24T16:19:28.000Z",
      "text": "Wolodymyr Selenskyj bestätigt Berichte, wonach die US-Regierung Druck auf die Ukraine ausübt, einem baldigen Friedensdeal zuzustimmen. Zudem müsste es seinen Worten nach ein Interesse Putins geben, die Ukraine in der Nato zu wissen."
-    },
-    {
-     "title": "Mossad verhinderte laut Ex-Chef Anschlag auf Taylor-Swift-Konzerte",
-     "url": "https://www.welt.de/politik/ausland/article6b05ae2e460ead0fdbd8086e/mossad-verhinderte-laut-ex-chef-anschlag-auf-taylor-swift-konzerte.html",
-     "date": "2026-11-24T16:11:12.000Z",
-     "text": "Drei Taylor-Swift-Konzerte in Wien wurden 2024 wegen Terrorgefahr abgesagt. Nun schildert Israels Ex-Mossad-Chef erstmals die Rolle seines Dienstes. Er fordert außerdem Krieg gegen das Regime in Teheran."
     }
    ]
   },
@@ -1353,9 +1353,9 @@
      "text": "Ukrainische militärnahe Telegramkanäle zählten bis zu acht Raketen +++ Polen will Flugverbotszone an Grenze zur Ukraine einrichten +++ Medien: Britische Luftwaffe schützt Flugzeuge nachts vor Drohnen +++ alle Neuigkeiten im Liveblog"
     },
     {
-     "title": "USA unter Trump: Rutte verteidigt Trumps Umgang mit Putin",
-     "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-rutte-verteidigt-trumps-umgang-mit-putin-faz-19444916.html",
-     "date": "2026-11-25T17:50:31.000Z",
+     "title": "USA unter Trump: Trump und Rutte: Russland soll Ukrainekrieg nicht „ausweiten“",
+     "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-und-rutte-russland-soll-ukrainekrieg-nicht-ausweiten-faz-19444916.html",
+     "date": "2026-11-26T04:05:00.000Z",
      "text": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
     },
     {
@@ -1455,34 +1455,34 @@
    "ok": true,
    "items": [
     {
-     "title": "Wie der EGMR seinen Kurs korrigiert: Das Recht auf ein Asylverfahren verliert in Europa an Rückhalt",
-     "url": "https://www.nzz.ch/international/europaeischer-gerichtshof-pushbacks-unter-bestimmten-bedingungen-zulaessig-ld.10074167",
-     "date": "2026-11-25T15:00:00.000Z",
-     "text": "Schleusen feindliche Staaten Migranten absichtlich Richtung Europa, um dort die Lage zu destabilisieren, muss laut dem Europäischen Gerichtshof für Menschenrechte nicht mehr in allen Fällen ein Asylverfahren gewährt werden. Das Urteil hat Signalwirkung."
+     "title": "«Das Schlimmste ist, dass wir vielleicht die Wahrheit nie erfahren»: Republikaner reagieren alarmiert auf Jensen Huangs Rückkehr zu Nvidia",
+     "url": "https://www.nzz.ch/international/jensen-huang-zurueck-als-nvidia-ceo-republikaner-sind-alarmiert-ld.10074484",
+     "date": "2026-11-26T04:30:00.000Z",
+     "text": "Im amerikanischen Kongress ist die Empörung nach Trumps beispielloser Intervention beim Verwaltungsrat des Chipherstellers gross. Führende Republikaner sehen die nationale Sicherheit gefährdet."
     },
     {
-     "title": "Australien weist China im Pazifik in die Schranken – jedenfalls für den Moment",
-     "url": "https://www.nzz.ch/international/australien-staerkt-pazifik-partnerschaften-gegen-chinas-einfluss-ld.10074103",
-     "date": "2026-11-25T13:00:00.000Z",
-     "text": "Canberra schliesst mit den Salomonen ein Sicherheitsabkommen. Solche Abkommen mit mehreren Ländern der Region dienen Australien als Schutz vor China."
+     "title": "Der Suizid des Ex-Polizeichefs De Gennaro bringt Roms Rechte in Bedrängnis",
+     "url": "https://www.nzz.ch/international/der-suizid-von-ex-polizeichef-de-gennaro-bringt-roms-rechte-in-bedraengnis-ld.10073593",
+     "date": "2026-11-26T04:30:00.000Z",
+     "text": "In seinen Abschiedsbriefen rechnet der einstige Mafia-Jäger scharf mit den Ermittlern der sizilianischen Justiz ab. Sein Tod diskreditiert ausgerechnet jenen Staatsanwalt, auf dessen Aussagen die Regierung Meloni ihre Neudeutung der Mafia-Attentate von 1992 stützen wollte."
     },
     {
-     "title": "Knapp 12 000 Migranten in drei Wochen: so viele Menschen wie kaum zuvor erreichen die Kanarischen Inseln",
-     "url": "https://www.nzz.ch/international/knapp-7000-migranten-in-einer-woche-die-kanarischen-inseln-rufen-den-notstand-aus-ld.10058957",
-     "date": "2026-11-25T12:21:17.000Z",
-     "text": "Spaniens Aussengrenze gerät erneut unter Druck. Seit Wochen erreichen Hunderte Boote aus Westafrika die Inseln im Atlantik. Für Madrid kommen sie zur Unzeit."
+     "title": "Vom Schützengraben auf die Konzertbühne: Russland sucht nach Arbeitsplätzen für seine Soldaten",
+     "url": "https://www.nzz.ch/international/putins-elite-wie-russland-seine-kriegsveteranen-integrieren-will-ld.10069727",
+     "date": "2026-11-26T04:30:00.000Z",
+     "text": "Was passiert, wenn die russischen Invasoren ins zivile Leben zurückkehren? Moskau macht sich Gedanken – und verpflichtet Arbeitgeber zu Quoten für Kriegsteilnehmer."
     },
     {
-     "title": "Wenn der Bismarckhering sauer aufstösst: So macht Jean-Luc Mélenchon die Germanophobie wieder salonfähig",
-     "url": "https://www.nzz.ch/international/warum-jean-luc-melenchon-deutschland-als-feindbild-sieht-ld.10073238",
-     "date": "2026-11-25T11:46:15.000Z",
-     "text": "Der französische Präsidentschaftskandidat bemüht seit Jahren das Schreckbild deutscher Vorherrschaft in Europa. Nun reist der Linkspopulist nach Berlin, wo er politische Verbündete hat."
+     "title": "Die altehrwürdige BBC steckt in einer tiefen Krise",
+     "url": "https://www.nzz.ch/international/bbc-in-der-krise-stellenabbau-und-neuorientierung-ld.10065472",
+     "date": "2026-11-26T04:30:00.000Z",
+     "text": "Der berühmteste Sender der Welt muss wegen einbrechender Gebühreneinnahmen 2000 Stellen streichen und sich neu orientieren. 1922 gegründet, kämpft die BBC um ihren Platz in einem Mediensystem, das sich auch in Grossbritannien radikal wandelt."
     },
     {
-     "title": "Das Essen an Indonesiens Schulen macht Zehntausende Kinder krank. Nun gehen ihre Mütter auf die Strasse",
-     "url": "https://www.nzz.ch/international/gratismittagessen-in-indonesien-wird-zum-symbol-fuer-korruption-ld.10046753",
-     "date": "2026-11-25T08:05:11.000Z",
-     "text": "Tausende Mütter protestieren gegen das Essen in den Schulen. Es war das grosse Wahlversprechen des Präsidenten Prabowo und sollte Unterernährung bekämpfen. Was ist passiert?"
+     "title": "Einst sollten die Kurden gegen Iran kämpfen – jetzt werden sie von allen im Stich gelassen",
+     "url": "https://www.nzz.ch/international/iran-besuch-bei-den-kurden-die-in-iran-einmarschieren-sollten-ld.10024720",
+     "date": "2026-11-26T04:30:00.000Z",
+     "text": "Donald Trump wollte sie gegen Teheran ins Feld schicken. Doch den iranischen Kurden im Nordirak fehlt es an Verbündeten. Ein Besuch auf ihrer geheimen Militärbasis."
     },
     {
      "title": "DIE NEUESTEN ENTWICKLUNGEN - Lage im Gazastreifen: Israels Armee tötet den Leiter des Hamas-Sicherheitsapparats",
@@ -1501,6 +1501,42 @@
      "url": "https://www.nzz.ch/international/die-usa-nach-den-midterms-trotz-harscher-kritik-bezeichnet-trump-putin-erneut-als-freund-ld.10056111",
      "date": "2026-11-24T19:20:16.000Z",
      "text": "Die neuesten Meldungen aus den USA während der zweiten Amtszeit von Präsident Donald Trump."
+    },
+    {
+     "title": "Wie der EGMR seinen Kurs korrigiert: Das Recht auf ein Asylverfahren verliert in Europa an Rückhalt",
+     "url": "https://www.nzz.ch/international/europaeischer-gerichtshof-pushbacks-unter-bestimmten-bedingungen-zulaessig-ld.10074167",
+     "date": "2026-11-25T15:00:00.000Z",
+     "text": "Schleusen feindliche Staaten Migranten absichtlich Richtung Europa, um dort die Lage zu destabilisieren, muss laut dem Europäischen Gerichtshof für Menschenrechte nicht mehr in allen Fällen ein Asylverfahren gewährt werden. Das Urteil hat Signalwirkung."
+    },
+    {
+     "title": "Australien weist China im Pazifik in die Schranken – jedenfalls für den Moment",
+     "url": "https://www.nzz.ch/international/australien-staerkt-pazifik-partnerschaften-gegen-chinas-einfluss-ld.10074103",
+     "date": "2026-11-25T13:00:00.000Z",
+     "text": "Canberra schliesst mit den Salomonen ein Sicherheitsabkommen. Solche Abkommen mit mehreren Ländern der Region dienen Australien als Schutz vor China."
+    },
+    {
+     "title": "Knapp 12 000 Migranten in drei Wochen: so viele Menschen wie kaum zuvor erreichen die Kanarischen Inseln",
+     "url": "https://www.nzz.ch/international/knapp-7000-migranten-in-einer-woche-die-kanarischen-inseln-rufen-den-notstand-aus-ld.10058957",
+     "date": "2026-11-25T12:21:17.000Z",
+     "text": "Spaniens Aussengrenze gerät erneut unter Druck. Seit Wochen erreichen Hunderte Boote aus Westafrika die Inseln im Atlantik. Für Madrid kommen sie zur Unzeit."
+    },
+    {
+     "title": "Taiwans Konservative haben ein China-Problem",
+     "url": "https://www.nzz.ch/international/eine-ozean-welle-rollt-durch-taiwans-politik-zerschellt-sie-an-alten-strukturen-ld.10069708",
+     "date": "2026-11-25T12:17:04.000Z",
+     "text": "Bei den Lokalwahlen wird die pekingtreue Parteichefin zur Belastung für die Kuomintang. Die Progressiven trumpfen derweil mit einem charismatischen Professor auf."
+    },
+    {
+     "title": "Wenn der Bismarckhering sauer aufstösst: So macht Jean-Luc Mélenchon die Germanophobie wieder salonfähig",
+     "url": "https://www.nzz.ch/international/warum-jean-luc-melenchon-deutschland-als-feindbild-sieht-ld.10073238",
+     "date": "2026-11-25T11:46:15.000Z",
+     "text": "Der französische Präsidentschaftskandidat bemüht seit Jahren das Schreckbild deutscher Vorherrschaft in Europa. Nun reist der Linkspopulist nach Berlin, wo er politische Verbündete hat."
+    },
+    {
+     "title": "Das Essen an Indonesiens Schulen macht Zehntausende Kinder krank. Nun gehen ihre Mütter auf die Strasse",
+     "url": "https://www.nzz.ch/international/gratismittagessen-in-indonesien-wird-zum-symbol-fuer-korruption-ld.10046753",
+     "date": "2026-11-25T08:05:11.000Z",
+     "text": "Tausende Mütter protestieren gegen das Essen in den Schulen. Es war das grosse Wahlversprechen des Präsidenten Prabowo und sollte Unterernährung bekämpfen. Was ist passiert?"
     },
     {
      "title": "Bombenanschlag vor dem Jahrestag des Friedensvertrags in Kolumbien",
@@ -1527,40 +1563,10 @@
      "text": "Mit den Luftraumverletzungen will Moskau seinen Einfluss in Chisinau geltend machen. Gleichzeitig drängt Russland offenbar zu einer Föderalisierung des Landes."
     },
     {
-     "title": "INTERVIEW - «Die Einwanderung ist ein Segen», sagt Spaniens führender Produktivitätsforscher",
-     "url": "https://www.nzz.ch/international/die-einwanderung-ist-ein-segen-sagt-spaniens-fuehrender-produktivitaetsforscher-ld.10069948",
-     "date": "2026-11-25T04:30:00.000Z",
-     "text": "Vor der Parlamentswahl spricht der Ökonom Juan Francisco Jimeno über Spaniens stolze Wachstumszahlen, die strukturellen Probleme dahinter – und den Eindruck vieler Menschen, dass sie vom Aufschwung zu wenig spürten."
-    },
-    {
-     "title": "LIVE-TICKER - Iran-Krieg: Revolutionswächter melden weitere Explosionen an Tankern +++ Huthi-Miliz greift höchsten Wolkenkratzer in Riad an",
-     "url": "https://www.nzz.ch/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss-ld.10021246",
-     "date": "2026-11-24T17:10:03.000Z",
-     "text": "Angriffe, Gegenangriffe und internationale Reaktionen: Der Krieg in Iran verändert die Lage im Nahen Osten. Die neuesten Entwicklungen im Ticker."
-    },
-    {
-     "title": "Auf einen Schlag Tausende von Satelliten zerstören: Was hinter den Plänen von Atomwaffen im Weltall steckt",
-     "url": "https://www.nzz.ch/international/auf-einen-schlag-tausende-von-satelliten-zerstoeren-was-hinter-den-plaenen-von-atomwaffen-im-weltall-steckt-ld.10072125",
-     "date": "2026-11-24T15:29:03.000Z",
-     "text": "Laut Geheimdienstberichten könnte Russland bis Ende des Jahres einen Satelliten mit nuklearen Sprengköpfen ins All schiessen. Eine atomare Detonation im Orbit hätte dramatische Folgen. Die sicherheitspolitische Bedeutung des Weltraums nimmt zu."
-    },
-    {
-     "title": "Migration: Pushbacks können laut einem Urteil bei Instrumentalisierung legal sein",
-     "url": "https://www.nzz.ch/international/migration-pushbacks-koennen-laut-einem-urteil-bei-instrumentalisierung-legal-sein-ld.10073419",
-     "date": "2026-11-24T12:59:01.000Z",
-     "text": "Das Menschenrechtsgericht verurteilt Polen, Lettland und Litauen für ihren Umgang mit Migranten, die über Weissrussland in die EU wollten. Aber es schränkt Schutzpflichten in Ausnahmesituationen ein."
-    },
-    {
-     "title": "Südkorea schickt Bewohner einer Insel wegen russischer Militärflugzeuge in Deckung",
-     "url": "https://www.nzz.ch/international/suedkorea-fliegeralarm-wegen-russischer-militaerflugzeuge-ld.10073104",
-     "date": "2026-11-24T12:09:38.000Z",
-     "text": "Der Zwischenfall in der südkoreanischen Luftüberwachungszone kommt, eine Woche nachdem russische Militärflugzeuge auch in der Nähe von Japan und Taiwan gesichtet worden sind. Was bezweckt der Kreml mit solchen Provokationen?"
-    },
-    {
-     "title": "Trotz schleppender Auszählung ist nun klar: Die Republikaner erleiden ihre schwerste Wahlniederlage seit 1958",
-     "url": "https://www.nzz.ch/international/auszaehlung-in-den-usa-fast-beendet-schwerste-wahlniederlage-der-republikaner-seit-1958-ld.10070048",
-     "date": "2026-11-24T04:30:00.000Z",
-     "text": "Drei Wochen nach den Zwischenwahlen steht fest, dass die Demokraten im Repräsentantenhaus über die grösste Mehrheit seit Jahrzehnten verfügen werden. Auch in anderer Hinsicht zeigt sich das Ausmass ihres Erfolges nun klarer als in der Wahlnacht."
+     "title": "KOMMENTAR - Angriffe auf russische Schiffe: Der Kreml erntet, was er gesät hat",
+     "url": "https://www.nzz.ch/meinung/angriffe-auf-russische-schiffe-der-kreml-erntet-was-er-gesaet-hat-ld.10074299",
+     "date": "2026-11-26T04:30:00.000Z",
+     "text": "Die Ukraine macht Jagd auf russische Schiffe weitab des osteuropäischen Kriegsschauplatzes. Das wirft die Frage auf, ob dies legal oder politisch klug ist."
     },
     {
      "title": "INTERAKTIV - Alle Angriffe und Rückeroberungen der letzten vier Kriegsjahre – klicken Sie sich durch unsere Karte",
@@ -1575,10 +1581,22 @@
      "text": "Die Mobilmachung in der Ukraine hinterlässt tiefe Spuren im Alltag. Die Zahl der pro Monat an der Front ausgeschalteten Russen beträgt derweil mehr als 50 000. Der Schriftsteller Sergei Gerasimow aus Charkiw beschreibt, wie das die Menschen prägt."
     },
     {
-     "title": "«Viele Staatsanwälte und Richter, die im Dienst des Vucic-Regimes standen, versuchen nun, die Seite zu wechseln», sagt ein serbischer Richter nach dem Sturz des Langzeitherrschers",
-     "url": "https://www.nzz.ch/international/richter-und-krimi-autor-in-serbien-ein-insider-spricht-ueber-das-justizsystem-ld.10058451",
-     "date": "2026-11-24T04:30:00.000Z",
-     "text": "Miodrag Majic verarbeitet in seinen Kriminalromanen, was er als Richter im vom früheren Präsidenten Aleksandar Vucic gekaperten Justizsystem erlebte. Nun plädiert er dafür, die Verfehlungen der vergangenen anderthalb Jahrzehnte aufzuarbeiten."
+     "title": "Auf einen Schlag Tausende von Satelliten zerstören: Was hinter den Plänen von Atomwaffen im Weltall steckt",
+     "url": "https://www.nzz.ch/international/auf-einen-schlag-tausende-von-satelliten-zerstoeren-was-hinter-den-plaenen-von-atomwaffen-im-weltall-steckt-ld.10072125",
+     "date": "2026-11-24T15:29:03.000Z",
+     "text": "Laut Geheimdienstberichten könnte Russland bis Ende des Jahres einen Satelliten mit nuklearen Sprengköpfen ins All schiessen. Eine atomare Detonation im Orbit hätte dramatische Folgen. Die sicherheitspolitische Bedeutung des Weltraums nimmt zu."
+    },
+    {
+     "title": "LIVE-TICKER - Iran-Krieg: Revolutionswächter melden weitere Explosionen an Tankern +++ Huthi-Miliz greift höchsten Wolkenkratzer in Riad an",
+     "url": "https://www.nzz.ch/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss-ld.10021246",
+     "date": "2026-11-24T17:10:03.000Z",
+     "text": "Angriffe, Gegenangriffe und internationale Reaktionen: Der Krieg in Iran verändert die Lage im Nahen Osten. Die neuesten Entwicklungen im Ticker."
+    },
+    {
+     "title": "INTERVIEW - «Die Einwanderung ist ein Segen», sagt Spaniens führender Produktivitätsforscher",
+     "url": "https://www.nzz.ch/international/die-einwanderung-ist-ein-segen-sagt-spaniens-fuehrender-produktivitaetsforscher-ld.10069948",
+     "date": "2026-11-25T04:30:00.000Z",
+     "text": "Vor der Parlamentswahl spricht der Ökonom Juan Francisco Jimeno über Spaniens stolze Wachstumszahlen, die strukturellen Probleme dahinter – und den Eindruck vieler Menschen, dass sie vom Aufschwung zu wenig spürten."
     },
     {
      "title": "PODCAST «NZZ GEOPOLITIK» - Von Nvidia bis zur ETH: Wie China uns seit Jahrzehnten systematisch ausspioniert",
@@ -1599,40 +1617,22 @@
      "text": "Kaum eröffnet, schon wieder zu: Nordkorea ordnet die Schliessung des Schweizer Büros an. Die frühere Deza-Chefin in Pjongjang Katharina Zellweger sieht auch Versäumnisse in Bern – und warnt vor einem Schnellschuss."
     },
     {
-     "title": "Ein Krater, so gross wie ein Fussballfeld: Die Raumsonde Hera fotografiert die Narben auf dem Asteroiden Dimorphos",
-     "url": "https://www.nzz.ch/wissenschaft/ein-krater-so-gross-wie-ein-fussballfeld-die-raumsonde-hera-fotografiert-die-narben-auf-dem-asteroiden-dimorphos-ld.10073156",
-     "date": "2026-11-25T19:39:34.000Z",
-     "text": "Vor vier Jahren wurde der Himmelskörper von einer Raumsonde gerammt. Die ersten Bilder der ESA zeigen das Ausmass der Zerstörung und liefern eine handfeste Überraschung."
+     "title": "Südkorea schickt Bewohner einer Insel wegen russischer Militärflugzeuge in Deckung",
+     "url": "https://www.nzz.ch/international/suedkorea-fliegeralarm-wegen-russischer-militaerflugzeuge-ld.10073104",
+     "date": "2026-11-24T12:09:38.000Z",
+     "text": "Der Zwischenfall in der südkoreanischen Luftüberwachungszone kommt, eine Woche nachdem russische Militärflugzeuge auch in der Nähe von Japan und Taiwan gesichtet worden sind. Was bezweckt der Kreml mit solchen Provokationen?"
     },
     {
-     "title": "Eine Schweizer Blockchain für die Zukunft des Finanzplatzes",
-     "url": "https://www.nzz.ch/wirtschaft/eine-schweizer-blockchain-fuer-die-zukunft-des-finanzplatzes-ld.10073656",
-     "date": "2026-11-25T09:00:23.000Z",
-     "text": "Die Nationalbank und Schweizer Finanzinstitute prüfen die Lancierung eines Swiss Financial Ledger. Sie wollen damit im geopolitischen Wettbewerb dem technologischen Wandel und der zunehmenden Popularität von US-Stablecoins begegnen."
+     "title": "Nach dem Eklat an der COP31 in Antalya: Es braucht weniger und kleinere Klimakonferenzen",
+     "url": "https://www.nzz.ch/pro/nach-eklat-an-der-cop31-in-antalya-es-braucht-weniger-und-kleinere-klimakonferenzen-ld.10073611",
+     "date": "2026-11-26T04:30:00.000Z",
+     "text": "Auch die Schweizer Delegation an der Klimakonferenz in Antalya hat gegen die Abschlusserklärung gestimmt. Der Delegationsleiter erklärt die Gründe – und warum er dennoch optimistisch ist für die Klimapolitik."
     },
     {
-     "title": "Russland und die Ukraine dehnen ihren Krieg aus: von der Ostsee bis nach Nordafrika",
-     "url": "https://www.nzz.ch/pro/russland-und-die-ukraine-dehnen-ihren-krieg-aus-von-der-ostsee-bis-nach-nordafrika-ld.10072071",
-     "date": "2026-11-25T08:34:55.000Z",
-     "text": "Die Nato und auch Russland haben kein Interesse an einer direkten Konfrontation. Dennoch steigt das Risiko einer unkontrollierten Eskalation. Es gibt auch ein deutlich besseres Szenario."
-    },
-    {
-     "title": "Teamchef Trump greift zum Hörer: Wie Jensen Huang dank dem amerikanischen Präsidenten zu Nvidia zurückfand",
-     "url": "https://www.nzz.ch/wirtschaft/teamchef-trump-greift-zum-hoerer-wie-jensen-huang-dank-dem-us-praesidenten-zu-nvidia-zurueckfand-ld.10073489",
-     "date": "2026-11-25T04:30:00.000Z",
-     "text": "Der Verwaltungsrat des Technologiekonzerns liess sich vom Weissen Haus überzeugen, Huang eine zweite Chance zu geben. Auch Trump selbst sicherte Nvidia zu, dass Huang nichts Illegales getan habe."
-    },
-    {
-     "title": "KOMMENTAR - Sich schöner durchwursteln mit Premierminister Andy Burnham",
-     "url": "https://www.nzz.ch/meinung/schoener-durchwursteln-mit-premierminister-andy-burnham-ld.10067910",
-     "date": "2026-11-24T04:35:00.000Z",
-     "text": "Der neue britische Premierminister hat Labour und das Land aus der gefühlten Hoffnungslosigkeit herausgeholt. Seine Politik schwankt zwischen populären Gesten und radikalen Ankündigungen. Alle grossen Herausforderungen des Landes harren einer Lösung."
-    },
-    {
-     "title": "Rekordetat für die Bundeswehr – doch kauft Deutschland auch die richtigen Waffen?",
-     "url": "https://www.nzz.ch/pro/rekordausgaben-fuer-die-bundeswehr-doch-kauft-deutschland-die-richtigen-waffen-ld.10068959",
-     "date": "2026-11-24T04:30:00.000Z",
-     "text": "Die Regierung in Berlin sieht für 2027 rund 140 Milliarden Euro für die Verteidigung vor. Das ist so viel wie seit dem Kalten Krieg nicht mehr. An der deutschen Brigade in Litauen wird sich zeigen, ob das Land jetzt die richtigen Entscheidungen trifft."
+     "title": "Europas Infrastrukturen sind schlecht vor Cyberattacken geschützt. Wenn Russland oder Iran angreifen, kann das zu gefährlichen Ausfällen führen",
+     "url": "https://www.nzz.ch/pro/europas-infrastrukturen-sind-schlecht-vor-cyberattacken-geschuetzt-wenn-russland-oder-iran-angreifen-kann-das-zu-gefaehrlichen-ausfaellen-fuehren-ld.10068484",
+     "date": "2026-11-26T04:30:00.000Z",
+     "text": "Der Unterbruch bei Microsoft oder die Sabotageaktionen gegen Kühlregale zeigen, welche gravierenden Folgen technische Störungen im Alltag haben können. Das können Angreifer wie Iran oder Russland ausnutzen."
     }
    ]
   },
@@ -1877,12 +1877,6 @@
      "text": "On 22/11/2026, a flood started in Uganda, lasting until 24/11/2026 (last update). The flood caused 0 deaths and 0 displaced ."
     },
     {
-     "title": "Green forest fire notification in Bolivia",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034027",
-     "date": "2026-11-24T04:00:57.000Z",
-     "text": "On 22/11/2026, a forest fire started in Bolivia, until 23/11/2026."
-    },
-    {
      "title": "Green forest fire notification in Australia",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034046",
      "date": "2026-11-24T08:01:38.000Z",
@@ -1926,6 +1920,12 @@
     },
     {
      "title": "Green forest fire notification in Australia",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034047",
+     "date": "2026-11-24T12:01:36.000Z",
+     "text": "On 21/11/2026, a forest fire started in Australia, until 24/11/2026."
+    },
+    {
+     "title": "Green forest fire notification in Australia",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034061",
      "date": "2026-11-25T08:02:11.000Z",
      "text": "On 21/11/2026, a forest fire started in Australia, until 25/11/2026."
@@ -1935,24 +1935,6 @@
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034062",
      "date": "2026-11-25T08:02:43.000Z",
      "text": "On 21/11/2026, a forest fire started in Australia, until 25/11/2026."
-    },
-    {
-     "title": "Green forest fire notification in Australia",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034047",
-     "date": "2026-11-24T12:01:36.000Z",
-     "text": "On 21/11/2026, a forest fire started in Australia, until 24/11/2026."
-    },
-    {
-     "title": "Green forest fire notification in Australia",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034038",
-     "date": "2026-11-24T04:01:20.000Z",
-     "text": "On 21/11/2026, a forest fire started in Australia, until 23/11/2026."
-    },
-    {
-     "title": "Green forest fire notification in Togo, Burkina Faso, Benin",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034039",
-     "date": "2026-11-24T04:01:03.000Z",
-     "text": "On 21/11/2026, a forest fire started in Togo, Burkina Faso, Benin, until 23/11/2026."
     },
     {
      "title": "Green flood alert in Portugal",
@@ -1991,6 +1973,12 @@
      "text": "On 20/11/2026, a forest fire started in Burkina Faso, until 24/11/2026."
     },
     {
+     "title": "Green forest fire notification in Australia",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034065",
+     "date": "2026-11-26T00:04:23.000Z",
+     "text": "On 20/11/2026, a forest fire started in Australia, until 25/11/2026."
+    },
+    {
      "title": "Green forest fire notification in Mozambique",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034073",
      "date": "2026-11-25T16:02:42.000Z",
@@ -1998,15 +1986,27 @@
     },
     {
      "title": "Green forest fire notification in Australia",
-     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034065",
-     "date": "2026-11-26T00:04:23.000Z",
-     "text": "On 20/11/2026, a forest fire started in Australia, until 25/11/2026."
-    },
-    {
-     "title": "Green forest fire notification in Australia",
      "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034066",
      "date": "2026-11-26T00:05:40.000Z",
      "text": "On 19/11/2026, a forest fire started in Australia, until 25/11/2026."
+    },
+    {
+     "title": "Green forest fire notification in Australia",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034083",
+     "date": "2026-11-26T00:05:48.000Z",
+     "text": "On 19/11/2026, a forest fire started in Australia, until 25/11/2026."
+    },
+    {
+     "title": "Green forest fire notification in South Sudan",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034042",
+     "date": "2026-11-24T08:03:39.000Z",
+     "text": "On 19/11/2026, a forest fire started in South Sudan, until 23/11/2026."
+    },
+    {
+     "title": "Green forest fire notification in Nigeria",
+     "url": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034057",
+     "date": "2026-11-26T00:06:00.000Z",
+     "text": "On 19/11/2026, a forest fire started in Nigeria, until 24/11/2026."
     }
    ]
   },
@@ -2044,13 +2044,6 @@
      "via": "DIE ZEIT"
     },
     {
-     "title": "Unternehmen fordern mehr öffentliche Fähren und Busse im Hafen - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTm55Nm1nT2llU2lta3BBZmg2bEI5MEd3SXBXOXdONWJxd2s3WFhxYnFLYlB5WHJ3S2lCenJVYXJnVTNoYkJmcGdZbFlKNnN4QVYzMXMzQXo4MHhKT3BmLTI2YWZVRHoxVU4tSmdXOFQ1M1Jsdl9kZTVpVjVBSGZrN2xBR3Y5d1ZLeGNlaFRuWC10Ymlib3l1Ums1Zk5fc3diZWRUYWxJbmVFU3l3YVlSdndJd19NVHh5UXc?oc=5",
-     "date": "2026-11-25T07:00:35.000Z",
-     "text": "Unternehmen fordern mehr öffentliche Fähren und Busse im Hafen NDR.de",
-     "via": "NDR.de"
-    },
-    {
      "title": "Rodung am Hamburger Hafen: Das nackte Ufer - taz.de",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aNUhJSHRWdVB1V3l2Z3RqYWFDNGd1VGkycUZ0ZVg5WDRRMk80M1VmT0tIV3Jwd29HSlVxNlllbVRNbUd4QlZOaFN2TlZqZlQ3dGJvN1pfY2dkWVhNbEtz?oc=5",
      "date": "2026-11-24T12:42:29.000Z",
@@ -2058,10 +2051,17 @@
      "via": "taz.de"
     },
     {
-     "title": "Unfall im Portugiesenviertel: Mercedes-SUV prallt heftig gegen Streifenwagen der Polizei Hamburg - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOR0VoQU5jTnpMdUZjU1dfcFNfT2hpTS0xOTl5azRUdGFCYzhXb0RUaDJlOVBYY21zZnQyX2ZwUnFLTFhMaXdoamZsTkdlSHhPWU16N3RxTkhaNVVrajFxeHN5a0JPR3FpZmM4OTJNZkFKSXQwOVp0SjNXaVdEa24xQWVpQTJHREI3MEpBZlhob3BPN1VIX0IyQWhBX2J1X3IzSFdhMkdWQ2dZN3VwVWVLQVkzMWRMM29ZLU5sVWtFVmxpS1RhTXZMWC1oUmFxZTBWNWI2SDY4NnU5NWF2dDlMLXFEckhmV2JGejUyMHlGaUpxWlJRdTFERQ?oc=5",
-     "date": "2026-11-25T12:37:29.000Z",
-     "text": "Unfall im Portugiesenviertel: Mercedes-SUV prallt heftig gegen Streifenwagen der Polizei Hamburg Hamburger Abendblatt",
+     "title": "Hafenunternehmen fordern mehr öffentliche Fähren und Busse für Mitarbeiter - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTm55Nm1nT2llU2lta3BBZmg2bEI5MEd3SXBXOXdONWJxd2s3WFhxYnFLYlB5WHJ3S2lCenJVYXJnVTNoYkJmcGdZbFlKNnN4QVYzMXMzQXo4MHhKT3BmLTI2YWZVRHoxVU4tSmdXOFQ1M1Jsdl9kZTVpVjVBSGZrN2xBR3Y5d1ZLeGNlaFRuWC10Ymlib3l1Ums1Zk5fc3diZWRUYWxJbmVFU3l3YVlSdndJd19NVHh5UXc?oc=5",
+     "date": "2026-11-25T07:00:35.000Z",
+     "text": "Hafenunternehmen fordern mehr öffentliche Fähren und Busse für Mitarbeiter NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Viele Staus, zu hohe Kosten: Hafenwirtschaft leidet unter Wettbewerbsnachteilen - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDJQLVBGNTZlSTdpU1VVNVJtdVN1d0VGWHNmazFiZ29JOHp3VERnRWVzS083M3QwMi00UmUwV3k5UGtzaktLSndDWS1tdnBhN3RJZEQ2SXdvcW9rZlZCQk5UYmFoQ1ZDbXd3ckVUbkdxdDhITS1RS2hRYnh5cU1udjdxRmNsNE9oR3VCcGFLNDFfR29iZDBUM3JxTmw3NFZFS2tEemJuSC1xbS1QY2hQby1OanVvbXVCMTE3RFI0UF9RbTljYTRoZkFrLW9pTHNOaGVhUVRIR3g5b2x3?oc=5",
+     "date": "2026-11-24T17:15:00.000Z",
+     "text": "Viele Staus, zu hohe Kosten: Hafenwirtschaft leidet unter Wettbewerbsnachteilen Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
@@ -2093,17 +2093,10 @@
      "via": "THB - Täglicher Hafenbericht"
     },
     {
-     "title": "Hamburg Journal im TV Programm: 25.11. - 09:30 - NDR - HÖRZU",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4NU0zTHB3NlpXMUZTSFJXcjYtU2tLc2NGQ21mRk5MazdiVl9UaWdSUHFhdE1QR19BSUhLU3BiYVVIZ1pNT3p5VDlZcEZVM1psT2pmTkNLMWhuNUs3NElGbmQ4OWNfLWZ0aEFXcDF5Ulh3UQ?oc=5",
-     "date": "2026-11-25T03:17:51.000Z",
-     "text": "Hamburg Journal im TV Programm: 25.11. - 09:30 - NDR HÖRZU",
-     "via": "HÖRZU"
-    },
-    {
-     "title": "Viele Staus, zu hohe Kosten: Hafenwirtschaft leidet unter Wettbewerbsnachteilen - Hamburger Abendblatt",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDJQLVBGNTZlSTdpU1VVNVJtdVN1d0VGWHNmazFiZ29JOHp3VERnRWVzS083M3QwMi00UmUwV3k5UGtzaktLSndDWS1tdnBhN3RJZEQ2SXdvcW9rZlZCQk5UYmFoQ1ZDbXd3ckVUbkdxdDhITS1RS2hRYnh5cU1udjdxRmNsNE9oR3VCcGFLNDFfR29iZDBUM3JxTmw3NFZFS2tEemJuSC1xbS1QY2hQby1OanVvbXVCMTE3RFI0UF9RbTljYTRoZkFrLW9pTHNOaGVhUVRIR3g5b2x3?oc=5",
-     "date": "2026-11-24T17:15:00.000Z",
-     "text": "Viele Staus, zu hohe Kosten: Hafenwirtschaft leidet unter Wettbewerbsnachteilen Hamburger Abendblatt",
+     "title": "Unfall im Portugiesenviertel: Mercedes-SUV prallt heftig gegen Streifenwagen der Polizei Hamburg - Hamburger Abendblatt",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOR0VoQU5jTnpMdUZjU1dfcFNfT2hpTS0xOTl5azRUdGFCYzhXb0RUaDJlOVBYY21zZnQyX2ZwUnFLTFhMaXdoamZsTkdlSHhPWU16N3RxTkhaNVVrajFxeHN5a0JPR3FpZmM4OTJNZkFKSXQwOVp0SjNXaVdEa24xQWVpQTJHREI3MEpBZlhob3BPN1VIX0IyQWhBX2J1X3IzSFdhMkdWQ2dZN3VwVWVLQVkzMWRMM29ZLU5sVWtFVmxpS1RhTXZMWC1oUmFxZTBWNWI2SDY4NnU5NWF2dDlMLXFEckhmV2JGejUyMHlGaUpxWlJRdTFERQ?oc=5",
+     "date": "2026-11-25T12:37:29.000Z",
+     "text": "Unfall im Portugiesenviertel: Mercedes-SUV prallt heftig gegen Streifenwagen der Polizei Hamburg Hamburger Abendblatt",
      "via": "Hamburger Abendblatt"
     },
     {
@@ -2128,13 +2121,6 @@
      "via": "T-Online"
     },
     {
-     "title": "Libyen: Selenskyj bestätigt ukrainischen Angriff auf russisches Kriegsschiff - DIE ZEIT",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZF93M1VsaTF2R0RZMXhuU1l0anFfT2h3TzZrVl9NUkZqZ1o4ei1WTHJ0enFZTkZrY2FGVkJkaWZkSHZTRjRJQVE0NnVrbUItSGgxVEJrUWptMUdHc0tPUTFjRWxBMHVmamdEdjNFTTBISURqVHlNTGxUR3U0WXJxelRvQUJuM2dmZU1jcDJGWE9SZmFSLVFPbThJRzE2VXdsbFJj?oc=5",
-     "date": "2026-11-23T09:11:06.000Z",
-     "text": "Libyen: Selenskyj bestätigt ukrainischen Angriff auf russisches Kriegsschiff DIE ZEIT",
-     "via": "DIE ZEIT"
-    },
-    {
      "title": "Feuerwehr Hamburg übt auf „Cap San Diego“ den Ernstfall – mit 100 Statisten - Hamburger Abendblatt",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTGFoMlp6c3hkd1RCaGc5VjFtWXRYTmJUUzBHRDZ5eUU1Z3dpa3J2Q2I4dzhzZXU2VERwbm9DUlhpV1dZajhGR1JXS3JVaHl5bERRQ0pTbU1ZTGc1R0k3NnUzdS1MVF9KWkxjS1dDTXZFamdMTlBXSjRxRXEyenJNbFI2N0JVY3BQbHR4YUo0bmpGaHZZb2xYT2Mwd2JMeE5QbzRMSWZfVGJ3a1FVbVBlTExLajlRWFJJZnpjMDhtalhpRXEydTZUUzJVZlNSRUl1TDVmS3k1SVJjZnBx?oc=5",
      "date": "2026-11-24T10:58:00.000Z",
@@ -2142,25 +2128,25 @@
      "via": "Hamburger Abendblatt"
     },
     {
+     "title": "Libyen: Selenskyj bestätigt ukrainischen Angriff auf russisches Kriegsschiff - DIE ZEIT",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZF93M1VsaTF2R0RZMXhuU1l0anFfT2h3TzZrVl9NUkZqZ1o4ei1WTHJ0enFZTkZrY2FGVkJkaWZkSHZTRjRJQVE0NnVrbUItSGgxVEJrUWptMUdHc0tPUTFjRWxBMHVmamdEdjNFTTBISURqVHlNTGxUR3U0WXJxelRvQUJuM2dmZU1jcDJGWE9SZmFSLVFPbThJRzE2VXdsbFJj?oc=5",
+     "date": "2026-11-23T09:11:06.000Z",
+     "text": "Libyen: Selenskyj bestätigt ukrainischen Angriff auf russisches Kriegsschiff DIE ZEIT",
+     "via": "DIE ZEIT"
+    },
+    {
+     "title": "Hamburg Journal im TV Programm: 25.11. - 09:30 - NDR - HÖRZU",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4NU0zTHB3NlpXMUZTSFJXcjYtU2tLc2NGQ21mRk5MazdiVl9UaWdSUHFhdE1QR19BSUhLU3BiYVVIZ1pNT3p5VDlZcEZVM1psT2pmTkNLMWhuNUs3NElGbmQ4OWNfLWZ0aEFXcDF5Ulh3UQ?oc=5",
+     "date": "2026-11-25T03:17:51.000Z",
+     "text": "Hamburg Journal im TV Programm: 25.11. - 09:30 - NDR HÖRZU",
+     "via": "HÖRZU"
+    },
+    {
      "title": "ZDF wirft beliebten Hamburg-Krimi aus dem Programm – das ist der Grund - t-online – Hamburg",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2N3VHN4RTdmbUh5Y0JxX1J4Qm03T0dkM1BaZ0xkS2p1Z1pZR19fRlVVbGFETm4zcUVuVEdTd3lPbmc5U1dSV1pTRml0bnBNaDBXTjlEMktPeDc5VTA3NXFZVWktRzdNUjZZRGh2bVlpZEp4NUxPWDBObVRRTU4tN0JDazFZM3RTY01tTUNDSzVidEJjU0VWSFVUS2dxejVENWczVmstaVJUanlpR3NHdGhFTmJlaTBlUHJIZVlERW5xLTNicmZYMU9JcEtmZw?oc=5",
      "date": "2026-11-24T13:30:16.000Z",
      "text": "ZDF wirft beliebten Hamburg-Krimi aus dem Programm – das ist der Grund t-online – Hamburg",
      "via": "t-online – Hamburg"
-    },
-    {
-     "title": "AI Summit Hamburg: Bis zu 1.000 Gäste beraten über KI für Stromnetz und Hafen - ad-hoc-news.de",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2R5bHlkbUE0My1xdVhkZDBxRVVTa1l6WUZXd3BuRjE1ci1XdU1YNmhRYnI0dVRveEh4X2M4YmNyY1RFWjk2UTJlTDdLcVNNVG1ZQWdnSVplNzJFVHBhN3VaTDBZbnYwcHh4ZThfMHRJbWNOZGQ4UWZuaFNfT3BUYWxZQ0JoOGhxMDhsQnpva0tUS0VqczhrOUlUZjdzM2NRVldjREY3aWxZdWlrZExfZ0pxMHV5WVpiTmo1T1Y0UjdLSnNlOHU4?oc=5",
-     "date": "2026-11-24T17:25:13.000Z",
-     "text": "AI Summit Hamburg: Bis zu 1.000 Gäste beraten über KI für Stromnetz und Hafen ad-hoc-news.de",
-     "via": "ad-hoc-news.de"
-    },
-    {
-     "title": "Von Drohnen attackiert? Russisches Kriegsschiff in Hafen explodiert - TAG24",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkRYREVEUDJ0T0J4Q2F5MjJUVDJKdzgyQVJmZkZNejNXQ2RQNTQzM3BMMHVPamlubk1aeTVheDFPTmRPQkJuV2lkOVNXSmIyampkdXVfaHJnX3IxTEJ0ek1SckNJNkRYb213bEUxQ19henlRY3laU01mQ2JFdkhvVEVFS3NGS01wSEtTR0RGUTFDa0s2UndmM3NSSmZJbE9qc3R2bzZnZFVBUVpTX1E0S015RkVMZW8?oc=5",
-     "date": "2026-11-22T17:52:00.000Z",
-     "text": "Von Drohnen attackiert? Russisches Kriegsschiff in Hafen explodiert TAG24",
-     "via": "TAG24"
     }
    ]
   }
