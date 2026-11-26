@@ -1,6 +1,26 @@
 {
   "briefs": [
     {
+      "date": "2026-11-26",
+      "file": "2026-11-26.html",
+      "headline": "Gen-Z-Proteste: Bürgerschaft streitet über Kürzungen",
+      "count": 13,
+      "sources": 5,
+      "cats": {
+        "Stadt & Politik": 2,
+        "Verkehr": 1,
+        "Kultur & Freizeit": 4,
+        "Bauen & Wohnen": 3,
+        "Wirtschaft & Hafen": 1,
+        "Polizei & Sicherheit": 2
+      },
+      "ents": {
+        "Senat": 2,
+        "Bürgerschaft": 1,
+        "Hafen": 1
+      }
+    },
+    {
       "date": "2026-11-25",
       "file": "2026-11-25.html",
       "headline": "Hafen: Umschlag sinkt in diesem Jahr",
