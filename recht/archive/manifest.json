@@ -1,6 +1,27 @@
 {
   "briefs": [
     {
+      "date": "2026-11-26",
+      "file": "2026-11-26.html",
+      "headline": "Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Abo",
+      "count": 13,
+      "sources": 12,
+      "cats": {
+        "Geld, Verträge & Versicherung": 4,
+        "Urteile": 2,
+        "Neue Gesetze & Fristen": 4,
+        "Warnungen & Betrug": 2,
+        "Tests": 1
+      },
+      "ents": {
+        "Verbraucherzentrale": 3,
+        "BGH": 2,
+        "Mieter": 1,
+        "PayPal": 1,
+        "Stiftung Warentest": 1
+      }
+    },
+    {
       "date": "2026-11-25",
       "file": "2026-11-25.html",
       "headline": "Verbraucherzentrale klagt gegen Meta-Kamerabrillen",

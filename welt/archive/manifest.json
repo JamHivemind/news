@@ -1,6 +1,32 @@
 {
   "briefs": [
     {
+      "date": "2026-11-26",
+      "file": "2026-11-26.html",
+      "headline": "USA kündigen neue Zölle gegen EU, China und andere an",
+      "count": 16,
+      "sources": 8,
+      "cats": {
+        "Wirtschaft & Handel": 1,
+        "Europa": 2,
+        "Weltpolitik": 3,
+        "Krieg & Konflikte": 6,
+        "Katastrophen & Klima": 3,
+        "Hafen & Schifffahrt": 1
+      },
+      "ents": {
+        "USA": 3,
+        "China": 2,
+        "EU": 3,
+        "Ukraine": 3,
+        "Israel": 2,
+        "Russland": 2,
+        "Gaza": 1,
+        "Iran": 1,
+        "Sudan": 1
+      }
+    },
+    {
       "date": "2026-11-25",
       "file": "2026-11-25.html",
       "headline": "Ukraine versenkt russisches Kriegsschiff vor Libyen",

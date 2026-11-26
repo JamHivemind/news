@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-26T05:20:27.887Z",
+ "fetched": "2026-11-26T05:21:37.501Z",
  "hours": 48,
  "sources": [
   {
@@ -184,9 +184,45 @@
   },
   {
    "name": "Google News: Finanzierungsrunden DE",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Finanzierungsrunden deutscher Startups mit Betrag",
+   "ok": true,
+   "items": [
+    {
+     "title": "eventfirst erhält 4,5 Millionen Euro für KI-gestützte Eventplanung - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSV9yZk41MzVocFp2UWN4UUVVMWJqWkR5UHFhRGR1T1pKQnRwZGZYeEthTS1feWNyZFpmd05VRWFweUxpREJLeGtnWV9WUXlFRkNqdU81LUVnRWhFVktDNVhQVE94TzBDX1NlSWt0ejdYc0xiazAtWTZLZmExQWJUcjZELV9nZk90LW4xY3FLYWllcUFZS2hPZ2VxMHBVYTRQ?oc=5",
+     "date": "2026-11-25T08:00:00.000Z",
+     "text": "eventfirst erhält 4,5 Millionen Euro für KI-gestützte Eventplanung Startbase",
+     "via": "Startbase"
+    },
+    {
+     "title": "Robotik-Start-up Coprod sammelt 6 Millionen US-Dollar ein - Netzwoche",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3l5RFVubzRrbHhHVFg1MmpYSU42ZmR5NlJPSmRTdzBpNEhkTUc3Y2Z6MjdERlJ0V0ZnUm9zV3ppUE5GRlNlNWdHWjJrdEdZRXVqME9tMWlDR0hYNkxKT2tvUDhTV0hXcE9fLUNBVERMSU95Y3VxT1FiT254U1hQUU4tNE5xd2oxR2dEZnE0X0t4TUxaQl9HcmRjNzRpcE0?oc=5",
+     "date": "2026-11-25T10:11:20.000Z",
+     "text": "Robotik-Start-up Coprod sammelt 6 Millionen US-Dollar ein Netzwoche",
+     "via": "Netzwoche"
+    },
+    {
+     "title": "Marlowe: 277 Millionen Dollar für KI-Infrastruktur - NeoTeo",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOFRQN1pHVE9QUDJBcDlVUmV5NlZ6eGtZRzdFUTcyS0t1bjdQRml0bkJXSy1IaldOa2RnUlFXakViN1lpQ1liRFRCbWVaS25FOFRSQko1Z1VrdG42WU5qWWFPeHhqNHpuMDVxNGU0enBXWTc2dXJKOFd2TnNnNHA3QnZ1dFYzT2s?oc=5",
+     "date": "2026-11-25T22:51:55.000Z",
+     "text": "Marlowe: 277 Millionen Dollar für KI-Infrastruktur NeoTeo",
+     "via": "NeoTeo"
+    },
+    {
+     "title": "Chinesisches Robotik-Startup erhält 100 Mio. US$ Finanzierung von Ant Group - IDNFinancials",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEVUSlpZU3U2T0gtaldydE5fcjhKZkVRZlFmZWN2VlBtSklRNFZwa0pSS0FUZzhBNnhaSEl5RjV5djU5Zmt0NFRfYW1JdmkwT05ZWlFGODlLd250dTBybzR4ZFk4UzJ4QWFIN21xZ0NNT0J1eTh0RXNIcVZ0NEt2OEpXUjF1amR6Rkk4UjBsaUtjc2xENmxpQ0hWZW1XSHMtSVBCNUdydHFrcVpKd1JiLTVBWnpBQ0trcDB1OTNIRQ?oc=5",
+     "date": "2026-11-25T07:00:00.000Z",
+     "text": "Chinesisches Robotik-Startup erhält 100 Mio. US$ Finanzierung von Ant Group IDNFinancials",
+     "via": "IDNFinancials"
+    },
+    {
+     "title": "Elbic erhält drei Millionen Dollar für europäische Sprach-KI - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQci1wanc2Ym5pZ1lqSVRubE9Wd0VEWkdRWFU3ZXN3TUFoZXNSb05mRk1NdjF5OXYya3NEWWd1eGRQbm1INzVBS0t1WUt3UkQyVW50VWF5ZE05SmZoWmxCVVFGeE9WOTVyNWpvZUZYY0J4eEc5RWNfS1F3dXgybkJ0UUduc1dZQl9xaTViQWhLUXBPdlFCTms4RE9B?oc=5",
+     "date": "2026-11-25T05:00:00.000Z",
+     "text": "Elbic erhält drei Millionen Dollar für europäische Sprach-KI Startbase",
+     "via": "Startbase"
+    }
+   ]
   }
  ]
 }
