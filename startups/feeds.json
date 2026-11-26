@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-26T08:44:08.480Z",
+ "fetched": "2026-11-26T10:22:23.671Z",
  "hours": 48,
  "sources": [
   {
@@ -12,24 +12,22 @@
    "name": "deutsche-startups.de (Google News)",
    "focus": "Ersatzweg, falls der direkte Feed ausfällt (sperrt GitHub-Server). Doppelte nur einmal nehmen.",
    "ok": true,
-   "items": [
-    {
-     "title": "+++ Carsten Maschmeyer +++ Fly Ventures +++ Allocator One +++ Konux +++ Roll-ups +++ Playbook +++ - deutsche-startups.de",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVW1aTkZCQl9vbFZLZF9KUi16bDVpUU5vclJBM1dRMFE2bzQ4dllTcXpxZ0dEY2NtUURCMjBVNy1aZ1NOQ0VuZjRlUHFNMHlBSWl5dVpJaFdIbHVIQlEyY3dtUkxKRmtEb1VfMGs3SVBoaHhPNnRjY1FRb2kxbDZtaFRIMUREaE5vaWdXa3U0M1dNdFdtbWpNUzh3d1VEcGNhX1c0NjROZld1M0ZCUjJsY0ptX0w?oc=5",
-     "date": "2026-11-24T08:51:36.000Z",
-     "text": "+++ Carsten Maschmeyer +++ Fly Ventures +++ Allocator One +++ Konux +++ Roll-ups +++ Playbook +++ deutsche-startups.de",
-     "via": "deutsche-startups.de"
-    }
-   ]
+   "items": []
   },
   {
    "name": "Gründerszene",
    "ok": true,
    "items": [
     {
+     "title": "Philip Morris macht den 150.000 m² großen Berliner Startup-Hub NLND dicht",
+     "url": "https://www.businessinsider.de/gruenderszene/philip-morris-stoppt-nlnd-berlin-startups-trifft-es-ueberraschend/81qvtt8/",
+     "date": "2026-11-26T09:28:49.000Z",
+     "text": "Der Tabakkonzern Philip Morris zieht sich aus seinem Berliner Innovationsprojekt NLND zurück. Das geht aus einem Schreiben von Philip Morris an die Partner und Community-Mitglieder des Projekts hervor, das Gründerszene vorliegt."
+    },
+    {
      "title": "Wie Startups die Bundeswehr voranbringen sollen",
-     "url": "https://www.businessinsider.de/gruenderszene/wie-startups-die-bundeswehr-voranbringen-sollen/t5czfrz/",
-     "date": "2026-11-25T10:10:00.000Z",
+     "url": "https://www.businessinsider.de/gruenderszene/bundeswehr-startups-sollen-innovation-bringen/t5czfrz/",
+     "date": "2026-11-26T08:49:00.000Z",
      "text": "Defense-Tech gehört zum schnellsten Wachstumssektor in Europa. Mehr als sechs Milliarden Euro haben Defense-Startups in diesem Jahr bereits eingesammelt, wie aus dem Report „State of Defence Tech 2026“ im Oktober dieses Jahres hervorgeht."
     }
    ]
@@ -45,7 +43,7 @@
    "ok": true,
    "items": [
     {
-     "title": "Exclusive: Starforge raises $6.6m to build nuclear fusion reactors at scale",
+     "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
      "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
      "date": "2026-11-26T05:00:51.000Z",
      "text": ""
@@ -167,6 +165,13 @@
    "ok": true,
    "items": [
     {
+     "title": "Das Startup Qynara steht für den Innovationsstandort Altona - Hamburg Startups",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkRDNnNZTFpibENiTXJ1M1RSaUs0cWlUUGZicjg2ME9lRG9jenotMzhBZWVXbE9OSkJKeTh5Ym1QNDY1c0p5Q0JpcGpUMVZEdUk3c2ZVTlZ3NEJOUlMyUVFsUGE5dk1ycUwzQ004Nkt0Tmh6RUkxTUlZU0dnQkNhU2ctVk1GaUVvLU94MmJfUVA1b1NOVFdFSjl3?oc=5",
+     "date": "2026-11-26T08:52:50.000Z",
+     "text": "Das Startup Qynara steht für den Innovationsstandort Altona Hamburg Startups",
+     "via": "Hamburg Startups"
+    },
+    {
      "title": "DESY eröffnet Gründerzentrum in Lurup: Startups tüfteln an Quantentechnologie und neuen Materialien - NDR.de",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVG5lRFNQNnVVb1M0eWRnaEU1elFsZnE3SHhYeXYzU1pZQzFpOVYzdUtVQjREeVFRWXZ6T1RZdVhEazI2Y0I5OGlBSnFhbDhtUkQxU2FZclNPMTVOOVk0OWt2bno2VFJualVrdEl2ZERzaEpVc1EtUnYtT0h0S0JNeklveVhQM0U1ZWk2bkYyTDlucThtLUVMNUdaUWhDMW03M2FSUzJCX1dRRmNlWUNV?oc=5",
      "date": "2026-11-24T18:55:00.000Z",
@@ -202,6 +207,13 @@
      "via": "Startbase"
     },
     {
+     "title": "WaterSense holt 5,75 Millionen Euro für Echtzeit-Daten aus Flüssen und Seen - Trending Topics",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzNHhGcXN3WEd5YTFWX1JYbXVtaUx6dDFlZHdxejdudUdXclNweUZpZ05oN0JyS1BIS3ZNSktLbkVPbVFIOGliQ2ZlLXZNODNaLVV6bUlSY2xHY1Z1THRwSm5KbldkakJaUkhCVDZFRDZKcmNRSEpGbkdB?oc=5",
+     "date": "2026-11-26T08:00:00.000Z",
+     "text": "WaterSense holt 5,75 Millionen Euro für Echtzeit-Daten aus Flüssen und Seen Trending Topics",
+     "via": "Trending Topics"
+    },
+    {
      "title": "nextesy schliesst Seed-Runde über 10,4 Millionen USD ab: Swisscom Ventures führt ... - Presseportal.ch",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yalF0cjVuS0c1UFJtV2FWZW95ckhucGlwcDVaQlBGQUMtd01hcjdMc3dOYzZ0M2JtLU9tN2ZYdkh0a2JmZU5XTjF3OEZOVVVFR2RkbVQ5U2JQY2E4d3p0QWhOdw?oc=5",
      "date": "2026-11-26T08:00:00.000Z",
@@ -221,13 +233,6 @@
      "date": "2026-11-25T22:51:55.000Z",
      "text": "Marlowe: 277 Millionen Dollar für KI-Infrastruktur NeoTeo",
      "via": "NeoTeo"
-    },
-    {
-     "title": "Chinesisches Robotik-Startup erhält 100 Mio. US$ Finanzierung von Ant Group - IDNFinancials",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEVUSlpZU3U2T0gtaldydE5fcjhKZkVRZlFmZWN2VlBtSklRNFZwa0pSS0FUZzhBNnhaSEl5RjV5djU5Zmt0NFRfYW1JdmkwT05ZWlFGODlLd250dTBybzR4ZFk4UzJ4QWFIN21xZ0NNT0J1eTh0RXNIcVZ0NEt2OEpXUjF1amR6Rkk4UjBsaUtjc2xENmxpQ0hWZW1XSHMtSVBCNUdydHFrcVpKd1JiLTVBWnpBQ0trcDB1OTNIRQ?oc=5",
-     "date": "2026-11-25T07:00:00.000Z",
-     "text": "Chinesisches Robotik-Startup erhält 100 Mio. US$ Finanzierung von Ant Group IDNFinancials",
-     "via": "IDNFinancials"
     },
     {
      "title": "Elbic erhält drei Millionen Dollar für europäische Sprach-KI - Startbase",
