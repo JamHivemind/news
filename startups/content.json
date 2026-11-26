@@ -1,92 +1,85 @@
 {
- "date": "2026-11-25",
- "intro": "Heute prägen Verteidigungs-KI und frisches Geld für junge Fonds die Szene. In Hamburg-Lurup eröffnet ein neues Gründerzentrum für Quanten- und Materialforschung.",
- "top": [
-  {
-   "title": "Agon sammelt 64 Millionen Euro für Verteidigungs-KI",
-   "text": "Das Londoner Startup Agon will eine europäische, unabhängige Infrastruktur für autonome Militärsysteme bauen. Es hat dafür rund 64 Millionen Euro eingesammelt und wird mit 411 Millionen Euro bewertet. Verteidigungstechnik gilt in Europa derzeit als besonders gefragter Bereich für Investoren.",
-   "category": "Finanzierungen",
-   "url": "https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/",
-   "source": "EU-Startups"
-  },
-  {
-   "title": "CommerzVentures schließt Fonds IV mit 50 Millionen Euro",
-   "text": "Der Frankfurter Wagniskapitalgeber setzt mit seinem vierten Fonds auf junge Firmen aus Finanztechnik (FinTech) und KI. Für Gründer in diesen Feldern gibt es damit eine weitere Geldquelle in Deutschland.",
-   "category": "Finanzierungen",
-   "url": "https://www.eu-startups.com/2026/11/frankfurt-based-commerzventures-closes-e50-million-fund-iv-betting-on-early-stage-fintech-and-ai/",
-   "source": "EU-Startups"
-  },
-  {
-   "title": "DESY eröffnet Gründerzentrum in Hamburg-Lurup",
-   "text": "In Lurup sollen Gründer Unternehmen aufbauen, etwa zu Quantentechnologie, Photonik und neuen Materialien. Laut Hamburger Medien eröffnen DESY und die Stadt das Zentrum gemeinsam. Es soll wissenschaftliche Ideen in Firmen verwandeln.",
-   "category": "Hamburg & Norddeutschland",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVG5lRFNQNnVVb1M0eWRnaEU1elFsZnE3SHhYeXYzU1pZQzFpOVYzdUtVQjREeVFRWXZ6T1RZdVhEazI2Y0I5OGlBSnFhbDhtUkQxU2FZclNPMTVOOVk0OWt2bno2VFJualVrdEl2ZERzaEpVc1EtUnYtT0h0S0JNeklveVhQM0U1ZWk2bkYyTDlucThtLUVMNUdaUWhDMW03M2FSUzJCX1dRRmNlWUNV?oc=5",
-   "source": "NDR.de"
-  }
- ],
- "entries": [
-  {
-   "title": "Bcomp erhält 20 Millionen Euro von der EIB",
-   "summary": "Das Schweizer Cleantech-Startup stellt Materialien aus Flachsfasern her, die Kohlefaser, Glasfaser und Kunststoff ersetzen sollen. Das Geld kommt von der Europäischen Investitionsbank.",
-   "category": "Finanzierungen",
-   "url": "https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/",
-   "source": "EU-Startups"
-  },
-  {
-   "title": "Good Heat sammelt 2 Millionen Euro für Wärmespeicher",
-   "summary": "Das Amsterdamer Startup will gasbefeuerte Dampfkessel in der Industrie durch Wärmebatterien ersetzen und liefert emissionsfreie Wärme als Dienstleistung.",
-   "category": "Finanzierungen",
-   "url": "https://www.eu-startups.com/2026/11/amsterdams-good-heat-raises-e2-million-to-replace-industrial-gas-fired-steam-boilers-with-heat-batteries/",
-   "source": "EU-Startups"
-  },
-  {
-   "title": "Elbic erhält 3 Millionen Dollar für europäische Sprach-KI",
-   "summary": "Das Startup baut Sprach-KI für den europäischen Markt. Die Meldung stammt von Startbase.",
-   "category": "Finanzierungen",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQci1wanc2Ym5pZ1lqSVRubE9Wd0VEWkdRWFU3ZXN3TUFoZXNSb05mRk1NdjF5OXYya3NEWWd1eGRQbm1INzVBS0t1WUt3UkQyVW50VWF5ZE05SmZoWmxCVVFGeE9WOTVyNWpvZUZYY0J4eEc5RWNfS1F3dXgybkJ0UUduc1dZQl9xaTViQWhLUXBPdlFCTms4RE9B?oc=5",
-   "source": "Startbase"
-  },
-  {
-   "title": "Maple sammelt 5,3 Millionen Dollar für verschlüsselte KI",
-   "summary": "Das Startup baut KI-Produkte, bei denen selbst die Firma keinen Zugriff auf die Daten der Nutzer haben soll.",
-   "category": "Gründungen & Produkte",
-   "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-   "source": "TechCrunch Startups"
-  },
-  {
-   "title": "Supertake bekommt 20 Millionen Dollar",
-   "summary": "Nutzer können dort Marktprognosen eingeben, und KI-Agenten bauen daraus ein Aktienportfolio, ohne dass die Nutzer einzelne Aktien auswählen müssen.",
-   "category": "Gründungen & Produkte",
-   "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-   "source": "TechCrunch Startups"
-  },
-  {
-   "title": "Wie Startups die Bundeswehr voranbringen sollen",
-   "summary": "Defense-Tech, also Technik für Verteidigung, ist laut Gründerszene der am schnellsten wachsende Bereich in Europa. Der Artikel erklärt, welche Rolle junge Firmen für die Bundeswehr spielen sollen.",
-   "category": "Förderung & Politik",
-   "url": "https://www.businessinsider.de/gruenderszene/bundeswehr-flottillenadmiral-verraet-wie-neue-technik-zur-truppe-kommt/t5czfrz/",
-   "source": "Gründerszene"
-  },
-  {
-   "title": "Adyen-Mitgründer Pieter van der Does gibt Co-Chefposten ab",
-   "summary": "Ingo Uytdehaage wird alleiniger Chef des niederländischen Zahlungsdienstleisters.",
-   "category": "Europa & Welt",
-   "url": "https://www.eu-startups.com/2026/11/adyens-co-founder-pieter-van-der-does-to-retire-as-co-ceo-ingo-uytdehaage-to-become-sole-ceo/",
-   "source": "EU-Startups"
-  },
-  {
-   "title": "Plural: Milliardenfonds und Verteidigungstechnik",
-   "summary": "Sten Tamkivi vom europäischen Investor Plural spricht laut Sifted über den Fonds mit einer Milliarde Euro, Defense-Tech und darüber, warum Europa die KI-Welle nicht verpasst habe. Der Artikel ist nur teilweise lesbar.",
-   "category": "Europa & Welt",
-   "url": "https://sifted.eu/articles/plural-fund-ai-podcast/",
-   "source": "Sifted"
-  },
-  {
-   "title": "Anthropic-Aktie unter Ausgabepreis: Warnsignal für KI-Startups",
-   "summary": "Der schwache Börsenstart von Anthropic könnte den Druck auf die Bewertungen anderer KI-Startups erhöhen.",
-   "category": "Exits & Übernahmen",
-   "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-   "source": "TechCrunch Startups"
-  }
- ]
+  "date": "2026-11-26",
+  "intro": "Viel Geld fließt in diesen Tagen in Robotik, Fusionsenergie und KI-Infrastruktur. In Hamburg eröffnet ein neues Gründungszentrum. Die Quellenlage ist heute dünn; mehrere Meldungen lagen nur als Überschrift vor.",
+  "top": [
+    {
+      "title": "Desy und Stadt eröffnen Gründungszentrum in Hamburg-Lurup",
+      "text": "Das Forschungszentrum Desy und die Stadt Hamburg haben in Lurup ein Gründungszentrum eröffnet. Es soll Gründerinnen und Gründern aus der Wissenschaft Raum geben. Mehr Einzelheiten stehen im verlinkten Beitrag der WELT.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHNwZnZ2WDhxMHJaaU10Z1lGUFJ3cWVjdUlJemtmVEwwczdfRWV6RllVYnlCcXVIbGtBTmNCWElRWHdYcmN2Zm1DNnJhR1EtNGFlTnJvWmRqcmRPdlJ6bVRMLW5oUVNzTTREU0RPdDJpb05fY2hnYkhBcWxFYXFoSERKWTlyeWpobXYtOHN3MTNDTzNlbHlNMHQtSnM1WVY1bjQ4X1Y5ekN2TzlHRkhpWXpzT2ZTMzRsaHQ4Q2tmTDBHNEtLXzBzVGdUUmxtZVZK?oc=5",
+      "source": "WELT",
+      "category": "Hamburg & Norddeutschland"
+    },
+    {
+      "title": "Starforge sammelt 6,6 Mio. Dollar für Fusionsreaktoren ein",
+      "text": "Das Start-up Starforge will Kernfusionsreaktoren in großem Maßstab bauen und hat dafür 6,6 Millionen US-Dollar eingesammelt, wie Sifted exklusiv meldet. Kernfusion gilt als mögliche saubere Energiequelle, ist aber noch in der Forschungsphase. Die Details zu Investoren stehen hinter der Meldung.",
+      "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
+      "source": "Sifted",
+      "category": "Finanzierungen"
+    },
+    {
+      "title": "Ex-KI-Chef von PolyAI gründet Robotik-Start-up mit 20 Mio. Dollar",
+      "text": "Der frühere Leiter für maschinelles Lernen bei PolyAI hat ein neues Robotik-Start-up gegründet. Es hat 20 Millionen US-Dollar eingesammelt. Robotik zieht derzeit viel Kapital an, wie auch weitere Runden zeigen.",
+      "url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/",
+      "source": "Sifted",
+      "category": "Finanzierungen"
+    }
+  ],
+  "entries": [
+    {
+      "title": "eventfirst erhält 4,5 Millionen Euro für KI-Eventplanung",
+      "summary": "Das Start-up plant Events mit Hilfe von KI. Die Finanzierung beträgt 4,5 Millionen Euro.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSV9yZk41MzVocFp2UWN4UUVVMWJqWkR5UHFhRGR1T1pKQnRwZGZYeEthTS1feWNyZFpmd05VRWFweUxpREJLeGtnWV9WUXlFRkNqdU81LUVnRWhFVktDNVhQVE94TzBDX1NlSWt0ejdYc0xiazAtWTZLZmExQWJUcjZELV9nZk90LW4xY3FLYWllcUFZS2hPZ2VxMHBVYTRQ?oc=5",
+      "source": "Startbase",
+      "category": "Finanzierungen"
+    },
+    {
+      "title": "Robotik-Start-up Coprod sammelt 6 Millionen Dollar ein",
+      "summary": "Coprod bekommt 6 Millionen US-Dollar für seine Robotik-Lösungen.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3l5RFVubzRrbHhHVFg1MmpYSU42ZmR5NlJPSmRTdzBpNEhkTUc3Y2Z6MjdERlJ0V0ZnUm9zV3ppUE5GRlNlNWdHWjJrdEdZRXVqME9tMWlDR0hYNkxKT2tvUDhTV0hXcE9fLUNBVERMSU95Y3VxT1FiT254U1hQUU4tNE5xd2oxR2dEZnE0X0t4TUxaQl9HcmRjNzRpcE0?oc=5",
+      "source": "Netzwoche",
+      "category": "Finanzierungen"
+    },
+    {
+      "title": "Marlowe sichert sich 277 Millionen Dollar für KI-Infrastruktur",
+      "summary": "Eine der größeren Runden des Tages: 277 Millionen US-Dollar für den Ausbau von KI-Infrastruktur.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOFRQN1pHVE9QUDJBcDlVUmV5NlZ6eGtZRzdFUTcyS0t1bjdQRml0bkJXSy1IaldOa2RnUlFXakViN1lpQ1liRFRCbWVaS25FOFRSQko1Z1VrdG42WU5qWWFPeHhqNHpuMDVxNGU0enBXWTc2dXJKOFd2TnNnNHA3QnZ1dFYzT2s?oc=5",
+      "source": "NeoTeo",
+      "category": "Finanzierungen"
+    },
+    {
+      "title": "Chinesisches Robotik-Start-up erhält 100 Mio. Dollar von Ant Group",
+      "summary": "Die Ant Group steckt 100 Millionen US-Dollar in ein chinesisches Robotik-Unternehmen.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEVUSlpZU3U2T0gtaldydE5fcjhKZkVRZlFmZWN2VlBtSklRNFZwa0pSS0FUZzhBNnhaSEl5RjV5djU5Zmt0NFRfYW1JdmkwT05ZWlFGODlLd250dTBybzR4ZFk4UzJ4QWFIN21xZ0NNT0J1eTh0RXNIcVZ0NEt2OEpXUjF1amR6Rkk4UjBsaUtjc2xENmxpQ0hWZW1XSHMtSVBCNUdydHFrcVpKd1JiLTVBWnpBQ0trcDB1OTNIRQ?oc=5",
+      "source": "IDNFinancials",
+      "category": "Europa & Welt"
+    },
+    {
+      "title": "Monzo-Mitgründer Blomfield verlässt Anthropic nach weniger als sechs Monaten",
+      "summary": "Laut Berichten, auf die sich Sifted beruft, hat Tom Blomfield Anthropic wieder verlassen.",
+      "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/",
+      "source": "Sifted",
+      "category": "Gründungen & Produkte"
+    },
+    {
+      "title": "Proxima Fusion warnt vor Kurzfristdenken im KI-Boom",
+      "summary": "Der Chef des Fusions-Start-ups Proxima Fusion kritisiert, dass der KI-Boom langfristige Investitionen verdrängen könnte.",
+      "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/",
+      "source": "Sifted",
+      "category": "Deep Tech & Forschung"
+    },
+    {
+      "title": "Goldfish gewinnt Slush 100 und will Apple angreifen",
+      "summary": "Das Start-up gehört zu den Siegern des Slush-100-Wettbewerbs und zielt auf Apple als Konkurrenten.",
+      "url": "https://sifted.eu/articles/goldfish-slush-100-winners/",
+      "source": "Sifted",
+      "category": "Gründungen & Produkte"
+    },
+    {
+      "title": "Rechenzentren für KI werden schwerer zu bauen",
+      "summary": "Nvidia will ein KI-Rechenzentrum erst absichern, wenn es nahezu betriebsbereit ist. Gleichzeitig melden Neocloud-Anbieter Bauverzögerungen und teurere Kredite.",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch Startups",
+      "category": "Europa & Welt"
+    }
+  ]
 }
