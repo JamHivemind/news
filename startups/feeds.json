@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-27T08:44:30.784Z",
+ "fetched": "2026-11-27T10:18:43.738Z",
  "hours": 48,
  "sources": [
   {
@@ -12,7 +12,15 @@
    "name": "deutsche-startups.de (Google News)",
    "focus": "Ersatzweg, falls der direkte Feed ausfällt (sperrt GitHub-Server). Doppelte nur einmal nehmen.",
    "ok": true,
-   "items": []
+   "items": [
+    {
+     "title": "5 junge Frankfurter Startups, die jeder kennen sollte - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXl4MlN4ejQ2TkU5NTFiakJCX09xVDNhX3NtM2lnOUZJekt0b2N0RGZMSlQ0STYtUmoxbGhNMzhWdXJkQkpoWlBYQmV4S08zQ2cwQ0xWQ09ud09VQzJDTHZRSWtPZGZhcG5MajFTYWlIc3JwSkNVVVU0VjBUN1NBS1BRUnI3ckhpWlRTdG53?oc=5",
+     "date": "2026-11-26T19:09:58.000Z",
+     "text": "5 junge Frankfurter Startups, die jeder kennen sollte deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    }
+   ]
   },
   {
    "name": "Gründerszene",
@@ -113,12 +121,6 @@
      "url": "https://sifted.eu/articles/the-best-christmas-gifts-for-founders/",
      "date": "2026-11-25T10:40:53.000Z",
      "text": ""
-    },
-    {
-     "title": "How much do you know about your AI agents?",
-     "url": "https://sifted.eu/articles/how-much-do-you-know-about-your-ai-agents-brnd/",
-     "date": "2026-11-25T09:00:46.000Z",
-     "text": ""
     }
    ]
   },
@@ -143,38 +145,9 @@
   },
   {
    "name": "Google News: Startups Hamburg",
-   "focus": "Nur echte Startup-Meldungen aus Hamburg und Norddeutschland (Gründung, Finanzierung, Produkt). Restaurants, Läden und Nachrufe ignorieren. Reicht 7 Tage zurück.",
-   "ok": true,
-   "items": [
-    {
-     "title": "DESY eröffnet Gründerzentrum in Lurup: Startups tüfteln an Quantentechnologie und neuen Materialien - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVG5lRFNQNnVVb1M0eWRnaEU1elFsZnE3SHhYeXYzU1pZQzFpOVYzdUtVQjREeVFRWXZ6T1RZdVhEazI2Y0I5OGlBSnFhbDhtUkQxU2FZclNPMTVOOVk0OWt2bno2VFJualVrdEl2ZERzaEpVc1EtUnYtT0h0S0JNeklveVhQM0U1ZWk2bkYyTDlucThtLUVMNUdaUWhDMW03M2FSUzJCX1dRRmNlWUNV?oc=5",
-     "date": "2026-11-24T18:55:00.000Z",
-     "text": "DESY eröffnet Gründerzentrum in Lurup: Startups tüfteln an Quantentechnologie und neuen Materialien NDR.de",
-     "via": "NDR.de"
-    },
-    {
-     "title": "Desy und Stadt eröffnen Gründungszentrum in Hamburg-Lurup - WELT",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHNwZnZ2WDhxMHJaaU10Z1lGUFJ3cWVjdUlJemtmVEwwczdfRWV6RllVYnlCcXVIbGtBTmNCWElRWHdYcmN2Zm1DNnJhR1EtNGFlTnJvWmRqcmRPdlJ6bVRMLW5oUVNzTTREU0RPdDJpb05fY2hnYkhBcWxFYXFoSERKWTlyeWpobXYtOHN3MTNDTzNlbHlNMHQtSnM1WVY1bjQ4X1Y5ekN2TzlHRkhpWXpzT2ZTMzRsaHQ4Q2tmTDBHNEtLXzBzVGdUUmxtZVZK?oc=5",
-     "date": "2026-11-24T14:48:24.000Z",
-     "text": "Desy und Stadt eröffnen Gründungszentrum in Hamburg-Lurup WELT",
-     "via": "WELT"
-    },
-    {
-     "title": "Saugroboter-Aufsatz aus Die Millionenidee: Heike (64) aus Hamburg-Sasel und die Wollmäuse - Gründerfreunde",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KcHpXSkw5MktaYk5TTG81X0lYOWtlX2VzVHo0ZGl1TnJLRzdETFYyaGUyb2ZTYUFLaWs1ZksxRDdiVm5MR2RWVzRobkx3OU1ELUVSaGVNLUhtU3ExbVJMQjFxNGpJZkpoZ0xKU25jWDhidFk?oc=5",
-     "date": "2026-11-22T17:21:57.000Z",
-     "text": "Saugroboter-Aufsatz aus Die Millionenidee: Heike (64) aus Hamburg-Sasel und die Wollmäuse Gründerfreunde",
-     "via": "Gründerfreunde"
-    },
-    {
-     "title": "DESY - neues Gründerzentrum in Hamburg-Lurup - NDR.de",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDdVazdXZ2N6NVJYd1NvVld4SDVJdXVDdUU5blg0cW9ReVl5YjJHS055SFlPZkdTT1h2TEtncXFoalNDT2pOTlhBYzRLNjFhZVYwanY4Q0lYdWdINUlBeE05VjZMQWNCQnRpWEdGTXV1aE8yZzhNcm5mRlRSX0JDTFByTUU0ejlrdmN5M19FU01QbnVlYVYwMFp1YW5rOGhzc09ja1VjRjM2V2U3UDllNUloWFY4cW9sTG9N?oc=5",
-     "date": "2026-11-24T19:35:42.000Z",
-     "text": "DESY - neues Gründerzentrum in Hamburg-Lurup NDR.de",
-     "via": "NDR.de"
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 429",
+   "items": []
   },
   {
    "name": "Google News: Finanzierungsrunden DE",
@@ -189,25 +162,18 @@
      "via": "Startbase"
     },
     {
-     "title": "KI-Startup Surelio sammelt eine Million - Inside IT",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nazhwMl9iWFNMTEdPZHRhclQ0MGhHMmdmakJfMVh1S0JPQ1dqbnhvZG1PcDZUcy0zN2Nwa2hyd2xXQUcyd0ZqSkFiRzM5ZkhfaUZ5RWNLUlpfQU53S0w4OVFiWDNMNXVPTzVYeV9aZ2lxTXpfVTNqZXZVTDg0QQ?oc=5",
-     "date": "2026-11-26T15:51:00.000Z",
-     "text": "KI-Startup Surelio sammelt eine Million Inside IT",
-     "via": "Inside IT"
-    },
-    {
-     "title": "Robotik-Start-up Coprod sammelt 6 Millionen US-Dollar ein - Netzwoche",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3l5RFVubzRrbHhHVFg1MmpYSU42ZmR5NlJPSmRTdzBpNEhkTUc3Y2Z6MjdERlJ0V0ZnUm9zV3ppUE5GRlNlNWdHWjJrdEdZRXVqME9tMWlDR0hYNkxKT2tvUDhTV0hXcE9fLUNBVERMSU95Y3VxT1FiT254U1hQUU4tNE5xd2oxR2dEZnE0X0t4TUxaQl9HcmRjNzRpcE0?oc=5",
-     "date": "2026-11-25T10:11:20.000Z",
-     "text": "Robotik-Start-up Coprod sammelt 6 Millionen US-Dollar ein Netzwoche",
-     "via": "Netzwoche"
-    },
-    {
      "title": "nextesy schliesst Seed-Runde über 10,4 Millionen USD ab: Swisscom Ventures führt ... - Presseportal.ch",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yalF0cjVuS0c1UFJtV2FWZW95ckhucGlwcDVaQlBGQUMtd01hcjdMc3dOYzZ0M2JtLU9tN2ZYdkh0a2JmZU5XTjF3OEZOVVVFR2RkbVQ5U2JQY2E4d3p0QWhOdw?oc=5",
      "date": "2026-11-26T08:00:00.000Z",
      "text": "nextesy schliesst Seed-Runde über 10,4 Millionen USD ab: Swisscom Ventures führt ... Presseportal.ch",
      "via": "Presseportal.ch"
+    },
+    {
+     "title": "KI-Startup Surelio sammelt eine Million - Inside IT",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nazhwMl9iWFNMTEdPZHRhclQ0MGhHMmdmakJfMVh1S0JPQ1dqbnhvZG1PcDZUcy0zN2Nwa2hyd2xXQUcyd0ZqSkFiRzM5ZkhfaUZ5RWNLUlpfQU53S0w4OVFiWDNMNXVPTzVYeV9aZ2lxTXpfVTNqZXZVTDg0QQ?oc=5",
+     "date": "2026-11-26T15:51:00.000Z",
+     "text": "KI-Startup Surelio sammelt eine Million Inside IT",
+     "via": "Inside IT"
     },
     {
      "title": "Starforge holt sich 6,6 Millionen Euro für Fusionsreaktoren aus der Serienfertigung - Startbase",
@@ -222,13 +188,6 @@
      "date": "2026-11-26T09:00:00.000Z",
      "text": "Anori Tech sichert sich über eine Million Euro für Batteriemanagementsysteme Startbase",
      "via": "Startbase"
-    },
-    {
-     "title": "WaterSense sammelt 5,75 Millionen Euro für Wasser-KI - n24.com.tr",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT184ZnJUdlZwOHhoaF9WV2l2ZTk5b01FeENzeG5iS2kxcXFZTHlpMGtHWng0Qk1qR1hRRTZnRjhBa2NvS3hlSmsxS3FZeDktSVM3TlR2bURfa3haeXZjbnZ0YVZzOG52WmMtQ3h1U2tmUDBVMml4VGFzNDlQZ0JWaGJQQm42TnktYkJIdzRVNA?oc=5",
-     "date": "2026-11-27T03:13:11.000Z",
-     "text": "WaterSense sammelt 5,75 Millionen Euro für Wasser-KI n24.com.tr",
-     "via": "n24.com.tr"
     }
    ]
   }
