@@ -1,85 +1,99 @@
 {
-  "date": "2026-11-26",
-  "intro": "Viel Geld fließt in diesen Tagen in Robotik, Fusionsenergie und KI-Infrastruktur. In Hamburg eröffnet ein neues Gründungszentrum. Die Quellenlage ist heute dünn; mehrere Meldungen lagen nur als Überschrift vor.",
-  "top": [
-    {
-      "title": "Desy und Stadt eröffnen Gründungszentrum in Hamburg-Lurup",
-      "text": "Das Forschungszentrum Desy und die Stadt Hamburg haben in Lurup ein Gründungszentrum eröffnet. Es soll Gründerinnen und Gründern aus der Wissenschaft Raum geben. Mehr Einzelheiten stehen im verlinkten Beitrag der WELT.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHNwZnZ2WDhxMHJaaU10Z1lGUFJ3cWVjdUlJemtmVEwwczdfRWV6RllVYnlCcXVIbGtBTmNCWElRWHdYcmN2Zm1DNnJhR1EtNGFlTnJvWmRqcmRPdlJ6bVRMLW5oUVNzTTREU0RPdDJpb05fY2hnYkhBcWxFYXFoSERKWTlyeWpobXYtOHN3MTNDTzNlbHlNMHQtSnM1WVY1bjQ4X1Y5ekN2TzlHRkhpWXpzT2ZTMzRsaHQ4Q2tmTDBHNEtLXzBzVGdUUmxtZVZK?oc=5",
-      "source": "WELT",
-      "category": "Hamburg & Norddeutschland"
-    },
-    {
-      "title": "Starforge sammelt 6,6 Mio. Dollar für Fusionsreaktoren ein",
-      "text": "Das Start-up Starforge will Kernfusionsreaktoren in großem Maßstab bauen und hat dafür 6,6 Millionen US-Dollar eingesammelt, wie Sifted exklusiv meldet. Kernfusion gilt als mögliche saubere Energiequelle, ist aber noch in der Forschungsphase. Die Details zu Investoren stehen hinter der Meldung.",
-      "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
-      "source": "Sifted",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Ex-KI-Chef von PolyAI gründet Robotik-Start-up mit 20 Mio. Dollar",
-      "text": "Der frühere Leiter für maschinelles Lernen bei PolyAI hat ein neues Robotik-Start-up gegründet. Es hat 20 Millionen US-Dollar eingesammelt. Robotik zieht derzeit viel Kapital an, wie auch weitere Runden zeigen.",
-      "url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/",
-      "source": "Sifted",
-      "category": "Finanzierungen"
-    }
-  ],
-  "entries": [
-    {
-      "title": "eventfirst erhält 4,5 Millionen Euro für KI-Eventplanung",
-      "summary": "Das Start-up plant Events mit Hilfe von KI. Die Finanzierung beträgt 4,5 Millionen Euro.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSV9yZk41MzVocFp2UWN4UUVVMWJqWkR5UHFhRGR1T1pKQnRwZGZYeEthTS1feWNyZFpmd05VRWFweUxpREJLeGtnWV9WUXlFRkNqdU81LUVnRWhFVktDNVhQVE94TzBDX1NlSWt0ejdYc0xiazAtWTZLZmExQWJUcjZELV9nZk90LW4xY3FLYWllcUFZS2hPZ2VxMHBVYTRQ?oc=5",
-      "source": "Startbase",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Robotik-Start-up Coprod sammelt 6 Millionen Dollar ein",
-      "summary": "Coprod bekommt 6 Millionen US-Dollar für seine Robotik-Lösungen.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3l5RFVubzRrbHhHVFg1MmpYSU42ZmR5NlJPSmRTdzBpNEhkTUc3Y2Z6MjdERlJ0V0ZnUm9zV3ppUE5GRlNlNWdHWjJrdEdZRXVqME9tMWlDR0hYNkxKT2tvUDhTV0hXcE9fLUNBVERMSU95Y3VxT1FiT254U1hQUU4tNE5xd2oxR2dEZnE0X0t4TUxaQl9HcmRjNzRpcE0?oc=5",
-      "source": "Netzwoche",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Marlowe sichert sich 277 Millionen Dollar für KI-Infrastruktur",
-      "summary": "Eine der größeren Runden des Tages: 277 Millionen US-Dollar für den Ausbau von KI-Infrastruktur.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOFRQN1pHVE9QUDJBcDlVUmV5NlZ6eGtZRzdFUTcyS0t1bjdQRml0bkJXSy1IaldOa2RnUlFXakViN1lpQ1liRFRCbWVaS25FOFRSQko1Z1VrdG42WU5qWWFPeHhqNHpuMDVxNGU0enBXWTc2dXJKOFd2TnNnNHA3QnZ1dFYzT2s?oc=5",
-      "source": "NeoTeo",
-      "category": "Finanzierungen"
-    },
-    {
-      "title": "Chinesisches Robotik-Start-up erhält 100 Mio. Dollar von Ant Group",
-      "summary": "Die Ant Group steckt 100 Millionen US-Dollar in ein chinesisches Robotik-Unternehmen.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEVUSlpZU3U2T0gtaldydE5fcjhKZkVRZlFmZWN2VlBtSklRNFZwa0pSS0FUZzhBNnhaSEl5RjV5djU5Zmt0NFRfYW1JdmkwT05ZWlFGODlLd250dTBybzR4ZFk4UzJ4QWFIN21xZ0NNT0J1eTh0RXNIcVZ0NEt2OEpXUjF1amR6Rkk4UjBsaUtjc2xENmxpQ0hWZW1XSHMtSVBCNUdydHFrcVpKd1JiLTVBWnpBQ0trcDB1OTNIRQ?oc=5",
-      "source": "IDNFinancials",
-      "category": "Europa & Welt"
-    },
-    {
-      "title": "Monzo-Mitgründer Blomfield verlässt Anthropic nach weniger als sechs Monaten",
-      "summary": "Laut Berichten, auf die sich Sifted beruft, hat Tom Blomfield Anthropic wieder verlassen.",
-      "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/",
-      "source": "Sifted",
-      "category": "Gründungen & Produkte"
-    },
-    {
-      "title": "Proxima Fusion warnt vor Kurzfristdenken im KI-Boom",
-      "summary": "Der Chef des Fusions-Start-ups Proxima Fusion kritisiert, dass der KI-Boom langfristige Investitionen verdrängen könnte.",
-      "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/",
-      "source": "Sifted",
-      "category": "Deep Tech & Forschung"
-    },
-    {
-      "title": "Goldfish gewinnt Slush 100 und will Apple angreifen",
-      "summary": "Das Start-up gehört zu den Siegern des Slush-100-Wettbewerbs und zielt auf Apple als Konkurrenten.",
-      "url": "https://sifted.eu/articles/goldfish-slush-100-winners/",
-      "source": "Sifted",
-      "category": "Gründungen & Produkte"
-    },
-    {
-      "title": "Rechenzentren für KI werden schwerer zu bauen",
-      "summary": "Nvidia will ein KI-Rechenzentrum erst absichern, wenn es nahezu betriebsbereit ist. Gleichzeitig melden Neocloud-Anbieter Bauverzögerungen und teurere Kredite.",
-      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-      "source": "TechCrunch Startups",
-      "category": "Europa & Welt"
-    }
-  ]
+ "date": "2026-11-27",
+ "intro": "ElevenLabs verhandelt laut Berichten über eine Finanzierung mit riesiger Bewertung, und die EU plant einen großen Quantenfonds. Auf der anderen Seite zieht sich Philip Morris aus dem Berliner Startup-Hub NLND zurück.",
+ "top": [
+  {
+   "title": "ElevenLabs verhandelt über Finanzierung mit 33 Milliarden Dollar Bewertung",
+   "text": "Der KI-Sprachspezialist ElevenLabs spricht laut Medienberichten mit Investoren über eine neue Runde. Die Firma würde dabei mit 33 Milliarden US-Dollar bewertet. Zu Betrag und Investoren nennt die Überschrift nichts; bestätigt ist die Runde nicht.",
+   "category": "Finanzierungen",
+   "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
+   "source": "Sifted"
+  },
+  {
+   "title": "Philip Morris schließt Berliner Startup-Hub NLND",
+   "text": "Der Tabakkonzern Philip Morris zieht sich aus dem Berliner Innovationsprojekt NLND zurück. Das geht laut Gründerszene aus einem Schreiben an die Partner und die Community des Projekts hervor. Der Hub ist rund 150.000 Quadratmeter groß.",
+   "category": "Gründungen & Produkte",
+   "url": "https://www.businessinsider.de/gruenderszene/philip-morris-stoppt-nlnd-berlin-startups-trifft-es-ueberraschend/81qvtt8/",
+   "source": "Gründerszene"
+  },
+  {
+   "title": "EU stellt Quantum Act mit Fonds von rund 50 Milliarden Euro vor",
+   "text": "Die EU hat einen Quantum Act vorgestellt, der Quantentechnologie in Europa stärken soll. Laut Sifted sind Pläne für einen Fonds von 50 Milliarden Euro Teil davon. Quantentechnologie nutzt Quanteneffekte für Rechnen und Verschlüsselung. Es handelt sich um einen Vorschlag der EU-Kommission.",
+   "category": "Förderung & Politik",
+   "url": "https://sifted.eu/articles/au-quantum-act-sovereign-tech-fund/",
+   "source": "Sifted"
+  }
+ ],
+ "entries": [
+  {
+   "title": "Defense-Tech: Startups sollen Bundeswehr voranbringen",
+   "summary": "Defense-Startups haben in Europa dieses Jahr laut Report „State of Defence Tech 2026“ bereits mehr als sechs Milliarden Euro eingesammelt. Gründerszene beleuchtet, wie sie die Bundeswehr unterstützen sollen.",
+   "category": "Europa & Welt",
+   "url": "https://www.businessinsider.de/gruenderszene/bundeswehr-startups-sollen-innovation-bringen/t5czfrz/",
+   "source": "Gründerszene"
+  },
+  {
+   "title": "WaterSense erhält 5,75 Millionen Euro",
+   "summary": "Das Startup entwickelt eine intelligente Wasserüberwachung und sammelt 5,75 Millionen Euro ein.",
+   "category": "Finanzierungen",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXZVOHZCZzcwcmM1U2w2ZlpFUUJyQVQ4OUpDQXVMUDhVampBcE92VTZoaV9GY3NVOVhNc0hyTFkwdFI2aXVsMHdlSkszMVUzbzJ5b0FuZnJLTVNTVm16N1lleHZic0QwUjZYTDNoSXJNeWJoZzFHdlIwMFBlckdHRlJsMmZ3NFpRZ0pwSlJ4SWl1Vjd5TFVWZmJHb2E1dWpBd25wYUNwMFM?oc=5",
+   "source": "Startbase"
+  },
+  {
+   "title": "nextesy schließt Seed-Runde über 10,4 Millionen Dollar ab",
+   "summary": "Die Seed-Runde (frühe Finanzierung) wird von Swisscom Ventures angeführt.",
+   "category": "Finanzierungen",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yalF0cjVuS0c1UFJtV2FWZW95ckhucGlwcDVaQlBGQUMtd01hcjdMc3dOYzZ0M2JtLU9tN2ZYdkh0a2JmZU5XTjF3OEZOVVVFR2RkbVQ5U2JQY2E4d3p0QWhOdw?oc=5",
+   "source": "Presseportal.ch"
+  },
+  {
+   "title": "Starforge holt 6,6 Millionen Euro für Fusionsreaktoren",
+   "summary": "Das Startup will Fusionsreaktoren aus der Serienfertigung bauen und hat dafür 6,6 Millionen Euro eingeworben.",
+   "category": "Deep Tech & Forschung",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEx2QTE4RkpJTzgwU2J3bjEwT2JRX3ZmbENHazZQN1NraEliaTZHeGJHY3dJblJiTGMwelFDWHIxcE9pVWhfZW04dnpoV1RMVlhTaW9mZzZ1ZGwtUW1JTVBLd240Nm9RdEQ1MUhqbHhUYmF3NndrUzZ3Wjdpb3NNajNUajZ3NzZZVDRtWU9JV0t1OV9WQU1oOC13WUFFa09iZ19DdFVCeXZWT3pYR0ZjNFBKdlM?oc=5",
+   "source": "Startbase"
+  },
+  {
+   "title": "Anori Tech sichert sich über eine Million Euro",
+   "summary": "Das Startup entwickelt Batteriemanagementsysteme und hat über eine Million Euro erhalten.",
+   "category": "Finanzierungen",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX3p2OGxjU2VaRlloM2F5ZnMteWY4Z2dPbWg2R3hsUGVhWGwwVGZZaklGTml5THd0WmN6TDd6S09jdmQyNkZzdkV1NXlXREpPNUFZajZGYnZBWW5yZmV3U2JDUlIwWnpUVEVYdFo5c1NRUVFOa1BzLWxodFlqc3VPWGtwcEtjRTU4S1lEVGZsWU1JVFNxNXpwVTNDeE5jYUF6ZzBoNlZBWmFvRzN2bUE?oc=5",
+   "source": "Startbase"
+  },
+  {
+   "title": "KI-Startup Surelio sammelt eine Million ein",
+   "summary": "Das Schweizer KI-Startup Surelio hat eine Million eingeworben, so Inside IT. Die Währung ist in der Überschrift nicht genannt.",
+   "category": "Finanzierungen",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nazhwMl9iWFNMTEdPZHRhclQ0MGhHMmdmakJfMVh1S0JPQ1dqbnhvZG1PcDZUcy0zN2Nwa2hyd2xXQUcyd0ZqSkFiRzM5ZkhfaUZ5RWNLUlpfQU53S0w4OVFiWDNMNXVPTzVYeV9aZ2lxTXpfVTNqZXZVTDg0QQ?oc=5",
+   "source": "Inside IT"
+  },
+  {
+   "title": "Hamburgs Öko-Startups kämpfen ums Überleben",
+   "summary": "Die MOPO fragt, ob der Hype um Hamburger Öko-Startups vorbei ist. Der Artikel ist teilweise kostenpflichtig.",
+   "category": "Hamburg & Norddeutschland",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2x1aElNeXhhem1heEFsU25mUDNsdlRxZlo3c3BsM21lV2E0T1VZOWZhWV9kbElDRkQ0enc4cjJJSmQ5QlNuU1JTRW5SM2FMYWh6dk5PNFZxaXV3eWFteDljdmd3OWsxV1d2Rm1DaTNWVU1jcVZrb2hhSl9HRTdwRXpsYjhoWFpwenBkLVR0UDVPWXlRTG44Z3U3RUh5dw?oc=5",
+   "source": "MOPO"
+  },
+  {
+   "title": "DESY bekommt Gründerzentrum in Hamburg-Lurup",
+   "summary": "Das Forschungszentrum DESY richtet in Hamburg-Lurup ein neues Gründerzentrum ein.",
+   "category": "Hamburg & Norddeutschland",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDdVazdXZ2N6NVJYd1NvVld4SDVJdXVDdUU5blg0cW9ReVl5YjJHS055SFlPZkdTT1h2TEtncXFoalNDT2pOTlhBYzRLNjFhZVYwanY4Q0lYdWdINUlBeE05VjZMQWNCQnRpWEdGTXV1aE8yZzhNcm5mRlRSX0JDTFByTUU0ejlrdmN5M19FU01QbnVlYVYwMFp1YW5rOGhzc09ja1VjRjM2V2U3UDllNUloWFY4cW9sTG9N?oc=5",
+   "source": "NDR.de"
+  },
+  {
+   "title": "Character.AI: 42 US-Staaten stoppen Verkauf privater Chats",
+   "summary": "Im Insolvenzverkauf von Character.AI sollen Daten von über 21 Millionen US-Konten verkauft werden, darunter 2,1 Millionen Konten von Minderjährigen. Mehrere US-Generalstaatsanwälte wehren sich dagegen.",
+   "category": "Europa & Welt",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "source": "TechCrunch Startups"
+  },
+  {
+   "source": "Impossible Founders",
+   "url": "https://impossible-founders.com",
+   "title": "Deep Tech Startup Monitor: mehr Gründer, aber Lücke zum Markt",
+   "summary": "Laut Startup-Verband und Joachim Herz Stiftung entstehen in Deutschland dieses Jahr über 300 neue Deep-Tech-Startups, die Investitionen sollen 8,1 Milliarden Euro erreichen. 45 Prozent der Gründer haben promoviert, doch nur jeder fünfte sagt, Förderung habe beim Kundenzugang geholfen.",
+   "category": "Deep Tech & Forschung"
+  }
+ ]
 }
