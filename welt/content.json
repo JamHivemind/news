@@ -1,260 +1,312 @@
 {
-  "date": "2026-11-26",
-  "intro": "Neue US-Zölle treffen auch die EU, die Staats- und Regierungschefs ringen in Brüssel um den Haushalt, und in Israel könnte der Prozess gegen Netanjahu schrumpfen. Dazu Spannungen an Polens Grenze und im Golf.",
-  "top": [
+ "date": "2026-11-27",
+ "intro": "Der EU-Haushaltsgipfel in Brüssel ist ohne Ergebnis abgebrochen worden, im Iran-Krieg sind in Kuwait zwei Rheinmetall-Techniker getötet worden. Dazu kündigt die US-Regierung neue Zölle an, ein Wintersturm legt die US-Küsten lahm.",
+ "regionen": {
+  "Europa": "Die EU streitet ergebnislos über den Haushalt, die Ukraine meldet neue Angriffe auf russische Schiffe, und die Entscheidung über einen US-Truppenabzug aus Europa verschiebt sich wohl ins neue Jahr.",
+  "Nahost": "Im Iran-Krieg sterben bei einem Drohnenangriff in Kuwait zwei Italiener, die für Rheinmetall arbeiteten; in Israel bahnt sich ein Koalitionswechsel an.",
+  "Asien": "Nvidia stoppt Serverlieferungen nach Südostasien, Nordkoreas Machthaber will mehr taktische Atomwaffen, in Bangkok explodiert eine Raffinerie.",
+  "Amerika": "Die USA planen neue Zölle gegen die EU und weitere Länder, und ein Sturm lässt zu Thanksgiving fast eine Million Kunden ohne Strom.",
+  "Afrika": "In der DR Kongo drängen Rebellen mitten im Ebola-Gebiet die Armee zurück."
+ },
+ "top": [
+  {
+   "title": "EU-Haushaltsgipfel ohne Ergebnis abgebrochen",
+   "text": "Die 27 Staats- und Regierungschefs haben ihren Sondergipfel zum EU-Haushalt vorzeitig beendet. Kanzler Merz sagte, die Vorstellungen lägen zu weit auseinander. Der zweite Verhandlungstag fiel aus. Es geht um fast 1,8 Billionen Euro, zudem um die Ukraine-Hilfe, gegen die sich laut tagesschau unter anderem die Slowakei, Polen, Ungarn und Tschechien stellen. Merz setzt auf eine Einigung bis Jahresende.",
+   "category": "Europa",
+   "art": "politik",
+   "ort": {
+    "name": "Brüssel",
+    "lat": 50.85,
+    "lon": 4.35
+   },
+   "hamburg": "Merz pocht auf Rabatte für Deutschland; wie viel Deutschland künftig nach Brüssel zahlt, hängt also an dieser Einigung.",
+   "stimmen": [
     {
-      "title": "USA kündigen neue Zölle gegen EU, China und andere an",
-      "text": "Die USA haben neue Sonderzölle auf viele Handelspartner angekündigt. Für betroffene EU-Produkte sind 15 Prozent vorgesehen; WELT nennt für einzelne Partner bis zu 20 Prozent. Zölle sind Steuern auf Importe, die Waren verteuern. Die Ankündigung drückte die Börsen weltweit.",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
-      "source": "tagesschau",
-      "category": "Wirtschaft & Handel",
-      "art": "wirtschaft",
-      "ort": {
-        "name": "USA",
-        "lat": 38.9,
-        "lon": -77.04
-      },
-      "hamburg": "Deutsche Exporteure und der Hamburger Hafen, über den viele Waren in die USA gehen, könnten die Zölle durch weniger Aufträge spüren.",
-      "stimmen": [
-        {
-          "source": "BBC",
-          "richtung": "mitte",
-          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "WELT",
-          "richtung": "rechts",
-          "url": "https://www.welt.de/politik/ausland/article6b06e5805b0e340c047ac985/handelskonflikt-bis-zu-20-prozent-usa-planen-neue-zoelle-gegen-eu-und-weitere-handelspartner.html"
-        }
-      ]
+     "source": "Süddeutsche Zeitung",
+     "richtung": "links",
+     "url": "https://www.sueddeutsche.de/politik/bruessel-eu-haushalt-gipfel-merz-li.3584884"
     },
     {
-      "title": "EU-Sondergipfel ringt um den Haushalt",
-      "text": "Die Staats- und Regierungschefs der 27 EU-Länder beraten in Brüssel über den langfristigen EU-Haushalt. Es geht um bis zu zwei Billionen Euro und auch um neue Einnahmen wie eine Digitalsteuer. Kanzler Merz drängt laut Deutschlandfunk auf eine gemeinsame Finanzierung neuer Ukraine-Hilfen und auf einen kleineren Haushalt.",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
-      "source": "tagesschau",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Brüssel",
-        "lat": 50.85,
-        "lon": 4.35
-      },
-      "hamburg": "Wie viel Geld Deutschland nach Brüssel zahlt und welche Förderprogramme bleiben, wirkt sich auch auf Projekte in Hamburg aus.",
-      "stimmen": [
-        {
-          "source": "WELT",
-          "richtung": "rechts",
-          "url": "https://www.welt.de/politik/ausland/plus6b06e4e05b0e340c047ac96d/sondergipfel-dann-wird-es-keine-einigung-geben-showdown-im-streit-um-den-eu-haushalt.html"
-        },
-        {
-          "source": "Deutschlandfunk",
-          "richtung": "mitte",
-          "url": "https://www.deutschlandfunk.de/eu-staats-und-regierungschefs-beraten-ueber-haushalt-kanzler-merz-draengt-auf-gemeinsame-finanzierun-100.html"
-        }
-      ]
+     "source": "WELT",
+     "richtung": "rechts",
+     "url": "https://www.welt.de/politik/ausland/plus6b08cb1e1c4d5a00bfba0c2b/eu-haushalt-das-bringt-alles-nichts-der-sondergipfel-endet-mit-einem-eklat.html"
     },
     {
-      "title": "Netanjahu: Richter empfehlen, die schwersten Anklagepunkte fallen zu lassen",
-      "text": "Im Korruptionsprozess gegen Israels Ministerpräsidenten haben Richter empfohlen, den Bestechungsvorwurf in einem von drei Fällen fallen zu lassen. Sie sehen dort wenig Aussicht auf eine Verurteilung. Netanjahu sagt, sein Prozess solle enden. Entschieden ist noch nichts.",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
-      "source": "tagesschau",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Israel",
-        "lat": 31.77,
-        "lon": 35.21
-      },
-      "stimmen": [
-        {
-          "source": "BBC",
-          "richtung": "mitte",
-          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Süddeutsche Zeitung",
-          "richtung": "links",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-hamas-fuehrungsmitglied-getoetet-gazastreifen-israel-bestechlichkeit-li.3586371"
-        }
-      ]
+     "source": "NZZ",
+     "richtung": "rechts",
+     "url": "https://www.nzz.ch/international/koennen-kein-bancomat-fuer-die-eu-sein-die-ukraine-unterstuetzer-kritisieren-osteuropaeische-abweichler-scharf-ld.10075241"
     }
-  ],
-  "entries": [
+   ],
+   "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+   "source": "tagesschau"
+  },
+  {
+   "title": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
+   "text": "Bei einem Drohnenangriff in Kuwait sind zwei Italiener getötet worden, die für den deutschen Rüstungskonzern Rheinmetall arbeiteten. Italien macht den Iran verantwortlich, Teheran bestreitet den Angriff. Der Iran-Krieg verändert laut NZZ die Lage im Nahen Osten; Reuters meldet zudem Minen in der Straße von Hormus, die Schiffe getroffen haben sollen.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Kuwait",
+    "lat": 29.38,
+    "lon": 47.99
+   },
+   "hamburg": "Die Straße von Hormus ist eine wichtige Route für Öl- und Frachtschiffe; Störungen dort können Energiepreise und Seeverbindungen auch für Deutschland beeinflussen.",
+   "stimmen": [
     {
-      "title": "Polen plant Flugverbotszone an der Grenze zur Ukraine",
-      "summary": "Nach Abstürzen russischer Marschflugkörper will Polen im Osten eine Flugverbotszone einrichten. Die Regierung ist laut Spiegel frustriert über die geringe Reaktion der USA.",
-      "url": "https://www.spiegel.de/ausland/polen-plant-flugverbotszone-an-grenze-zur-ukraine-a-48f2a001-0790-4c83-9d83-5ef4c91a389d#ref=rss",
-      "source": "Spiegel",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Polen",
-        "lat": 52.23,
-        "lon": 21.01
-      },
-      "hamburg": "Die Ostflanke der NATO betrifft auch die Sicherheit Deutschlands."
+     "source": "BBC",
+     "richtung": "mitte",
+     "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Israelische Armee tötet Chef des Hamas-Sicherheitsapparats",
-      "summary": "Trotz Waffenruhe im Gazastreifen meldet die NZZ den Tod des Leiters der Hamas-Sicherheit. Die UN warnt vor einer großen Finanzierungslücke beim Palästinenserhilfswerk UNRWA.",
-      "url": "https://www.nzz.ch/international/waffenruhe-im-gazastreifen-guterres-warnt-vor-100-millionen-us-dollar-grosser-finanzierungsluecke-bei-palaestinenserhilfswerk-unrwa-ld.1920307",
-      "source": "NZZ",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Gazastreifen",
-        "lat": 31.5,
-        "lon": 34.47
-      }
+     "source": "NZZ",
+     "richtung": "rechts",
+     "url": "https://www.nzz.ch/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss-ld.10021246"
     },
     {
-      "title": "Iran meldet Explosionen an Öltankern in der Straße von Hormus",
-      "summary": "Laut FAZ-Liveblog sind mehrere Schiffe in der Meerenge auf Seeminen gefahren. Die Straße von Hormus ist eine wichtige Route für Öl.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-iran-meldet-wieder-explosionen-an-oeltankern-faz-200583539.html",
-      "source": "FAZ",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Straße von Hormus",
-        "lat": 26.57,
-        "lon": 56.25
-      },
-      "hamburg": "Störungen auf dieser Ölroute können Energie- und Spritpreise in Deutschland nach oben treiben."
-    },
-    {
-      "title": "Huthi melden Angriff auf Saudi-Arabiens größte Raffinerie",
-      "summary": "Die Huthi im Jemen sagen, sie hätten die größte Raffinerie Saudi-Arabiens angegriffen, so Reuters. Eine unabhängige Bestätigung liegt in der Meldung nicht vor.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOakM0aVEtei1RVzZkTUVZYlFabWlDYWpzTktyaGU2WHZqaGRkU0hJOHdsNDFUdU5GYzNOYzdZYnkwWnFYZ2daNlNvYkJ3ZWNjeDNTRm5HOUFtNW5nRjNYSVpaaGF0SF9xbjN6S1FpbVJ6MmFBYkdUeF9CMTZKRUdJT2RITmVSelAzWUJtTEIxQTN5Ry1YZEczX29iOHVuc0Q1bllidlBoN0VDNWVzYzZqU2RaNm5JRUctRDdsdGt2ZkEydWRVMV9wQUdHYw?oc=5",
-      "source": "Reuters",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Saudi-Arabien",
-        "lat": 24.71,
-        "lon": 46.68
-      }
-    },
-    {
-      "title": "Selenskyj: Ukraine traf russisches Schiff im Finnischen Meerbusen",
-      "summary": "Der ukrainische Präsident bestätigt den Treffer. Verbündete wie Norwegen mahnen laut Reuters zur Vorsicht.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2ZZQnd0c3JtbHl5NFozeGhRRUotLUVZODlvQTVHT2ZmdVBoQ2lnanJyNVFkM0RaSXdCT3BncnMtRVdLdjM4UTVpS2JZeHNwbWlKSnhoZ0NQcmd3N1Mtd2hZaGxkZDBoUW80TXpVMHVtS0ctNmlWTE5nYlZXZXpqb2kxcW85VzRCTlFEWGprbTlhYnFpUFhiN3RzYW5MQU9GcTR2NVd6SHhSRTN3VWV2bjktWHRkdnY0djdRdlJXRG5VUEU?oc=5",
-      "source": "Reuters",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Finnischer Meerbusen",
-        "lat": 60,
-        "lon": 26
-      },
-      "hamburg": "Die Ostsee ist auch für Hamburgs Hafen und die Schifffahrt eine wichtige Route."
-    },
-    {
-      "title": "Großbrand auf Autobahn bei Kairo: mehr als 30 Tote",
-      "summary": "Ein Lkw mit Gasflaschen löste in Gizeh einen Großbrand aus. Die BBC meldet 31 Tote und 21 Verletzte.",
-      "url": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
-      "source": "tagesschau",
-      "category": "Katastrophen & Klima",
-      "art": "katastrophe",
-      "ort": {
-        "name": "Kairo",
-        "lat": 30.04,
-        "lon": 31.24
-      }
-    },
-    {
-      "title": "Thanksgiving-Wetterchaos in den USA befürchtet",
-      "summary": "In Kalifornien drohen extreme Springflut und Überschwemmungen, an der Ostküste Sturm und viel Regen. Das könnte die Reisepläne vieler Menschen stören.",
-      "url": "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html",
-      "source": "tagesschau",
-      "category": "Katastrophen & Klima",
-      "art": "katastrophe",
-      "ort": {
-        "name": "Kalifornien",
-        "lat": 36.78,
-        "lon": -119.42
-      }
-    },
-    {
-      "title": "COP31 gescheitert: Frust bei den Inselstaaten",
-      "summary": "Nach dem Scheitern der Klimakonferenz sind besonders die pazifischen Inselstaaten enttäuscht. Sie sehen eine Antwort, die Öl und Gas begünstigt.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/gescheiterte-klimakonferenz-der-frust-der-inselstaaten-201712087.html",
-      "source": "FAZ",
-      "category": "Katastrophen & Klima",
-      "art": "politik"
-    },
-    {
-      "title": "EU macht Westbalkan-Staaten Hoffnung auf Aufnahme",
-      "summary": "Ein EU-Gipfel zum Westbalkan: der EU-Ratspräsident nennt den Beitritt eine reale Chance. Nach dem Machtwechsel in Serbien will die EU die Annäherung beschleunigen.",
-      "url": "https://www.welt.de/politik/ausland/article6b0789bfc75e09cb88d164dc/gipfeltreffen-eu-macht-westbalkan-staaten-hoffnung-auf-aufnahme.html",
-      "source": "WELT",
-      "category": "Europa",
-      "art": "politik",
-      "ort": {
-        "name": "Serbien",
-        "lat": 44.79,
-        "lon": 20.45
-      }
-    },
-    {
-      "title": "Hamburger Hafen verliert 2026 Ladung",
-      "summary": "Der Hafen kämpft laut NDR mit einem Rückgang. Genannt werden automatische Brücken, Stau und abgewanderte Liniendienste.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkM3TTctd2ZnNnl4QzJRbl9QMWJtaWZhTnBlN1VGRHBsbnVNY253ejBVSkxzVEg0MzF4N1BOTXRKSnZOaVdxVlhLaTFGQ1RTQlFXTzRjQkdfWUFwSXJsOXR2cndydEdjamJrcVVMQWNyUmRWZkFVU0syT0FxUnUzQjY5ODdFcG0wUUVJZXBMTVpRNW1HcWs5dERqTzhaeXp3WHZuOC1uS1pPQQ?oc=5",
-      "source": "NDR",
-      "category": "Hafen & Schifffahrt",
-      "art": "wirtschaft",
-      "ort": {
-        "name": "Hamburg",
-        "lat": 53.55,
-        "lon": 9.99
-      },
-      "hamburg": "Weniger Ladung bedeutet weniger Geschäft für Hafenbetriebe und Logistik in der Stadt."
-    },
-    {
-      "title": "Sudan: Über eine Million Frauen und Kinder nach Tschad geflohen",
-      "summary": "Zum Welttag gegen Gewalt an Frauen berichtet die taz über Geflüchtete aus dem Sudan, die im Tschad unter Hunger und Krankheit leiden.",
-      "url": "https://taz.de/Welttag-gegen-Gewalt-gegen-Frauen/!6214234/",
-      "source": "taz",
-      "category": "Krieg & Konflikte",
-      "art": "konflikt",
-      "ort": {
-        "name": "Tschad",
-        "lat": 12.13,
-        "lon": 15.06
-      }
-    },
-    {
-      "title": "Istanbul verbietet Demo gegen Gewalt an Frauen – Tausende kommen trotzdem",
-      "summary": "Die Behörden hatten die Proteste verboten. Dennoch gingen laut Spiegel Tausende in Istanbul und anderen Städten auf die Straße.",
-      "url": "https://www.spiegel.de/ausland/tuerkei-tausende-demonstrieren-gegen-gewalt-an-frauen-a-1cbc9fe0-4f48-495c-b616-90a1b5af9d5b#ref=rss",
-      "source": "Spiegel",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Istanbul",
-        "lat": 41.01,
-        "lon": 28.96
-      }
-    },
-    {
-      "title": "China: Ermittlungen gegen Shanghais Parteichef",
-      "summary": "Der Spiegel berichtet, dass gegen Chen Jining ermittelt wird, der als Shootingstar der Kommunistischen Partei galt. Der Beitrag ordnet das als Zeichen von Xis Machtapparat ein.",
-      "url": "https://www.spiegel.de/ausland/chen-jining-xi-jinping-laesst-gegen-shanghais-parteichef-ermitteln-die-angst-schmiert-seine-machtmaschine-a-064febf6-98c7-4f63-9a15-3ef355c12df9#ref=rss",
-      "source": "Spiegel",
-      "category": "Weltpolitik",
-      "art": "politik",
-      "ort": {
-        "name": "Shanghai",
-        "lat": 31.23,
-        "lon": 121.47
-      }
+     "source": "Reuters",
+     "richtung": "mitte",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmFmdlRJUnlMaVRFNERwb2YxLVVObG9leTlORFRtOTAyd2pvMTNuOGM5d0diMzNUb1NHaDVWOGlTeWg3bmcwU21BdHRHZlB6a0VDeXlNcUtYMDBiZUpyVFRyMkhIQjlpemZIeGVQNEdXb2hCOHZwYW5VZUt4V3MySnpZWUViYTA5MEp2eDlBbGNoVjB5dk5CcHdZR3NyUjZIVlV3d0s2Z3BUMTQ?oc=5"
     }
-  ],
-  "regionen": {
-    "Europa": "Polen plant nach russischen Marschflugkörpern eine Flugverbotszone, und der EU-Sondergipfel ringt um den Haushalt.",
-    "Nahost": "Israels Armee tötet den Hamas-Sicherheitschef, im Golf werden Zwischenfälle an Öltankern gemeldet, und Netanjahus Prozess könnte schrumpfen.",
-    "Asien": "In China wird gegen Shanghais Parteichef ermittelt.",
-    "Amerika": "Die USA kündigen neue Zölle an, und zu Thanksgiving drohen Unwetter.",
-    "Afrika": "Bei Kairo sterben über 30 Menschen bei einem Großbrand, im Tschad leiden Geflüchtete aus dem Sudan."
+   ],
+   "url": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
+   "source": "tagesschau"
+  },
+  {
+   "title": "USA planen neue Zölle von bis zu 20 Prozent",
+   "text": "Die US-Regierung will neue Zölle gegen die EU und 13 weitere Länder verhängen, bis zu 20 Prozent. Washington wirft ihnen vor, mit Überkapazitäten die US-Industrie zu schädigen. Laut Reuters rüttelt das die Börsen, die weltweit nachgaben.",
+   "category": "Wirtschaft & Handel",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Washington",
+    "lat": 38.9,
+    "lon": -77.04
+   },
+   "hamburg": "Die EU gehört zu den betroffenen Ländern; neue US-Zölle könnten den Warenhandel über den Hamburger Hafen treffen.",
+   "stimmen": [
+    {
+     "source": "Reuters",
+     "richtung": "mitte",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5"
+    },
+    {
+     "source": "Reuters",
+     "richtung": "mitte",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5"
+    }
+   ],
+   "url": "https://www.welt.de/politik/ausland/article6b06e5805b0e340c047ac985/handelskonflikt-bis-zu-20-prozent-usa-planen-neue-zoelle-gegen-eu-und-weitere-handelspartner.html",
+   "source": "WELT"
   }
+ ],
+ "entries": [
+  {
+   "title": "Ukrainische Angriffe auf russische Schiffe im Mittelmeer alarmieren Anrainer",
+   "summary": "Libyen und Italien kritisieren die Attacken scharf. Die Ukraine versichert, sie wolle den Krieg nicht ausweiten.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Libyen",
+    "lat": 32.89,
+    "lon": 13.19
+   },
+   "url": "https://www.spiegel.de/ausland/libyen-libyen-und-italien-kritisieren-ukrainischen-angriff-auf-russische-schiffe-a-6534c9d8-90ef-4e6b-9845-63a0937c11d4#ref=rss",
+   "source": "Spiegel"
+  },
+  {
+   "title": "Selenskyj bestätigt Teilzerstörung der Krim-Brücke",
+   "summary": "Laut Hersteller Destinus und dem Wall Street Journal haben günstige Marschflugkörper des Typs Ruta dazu beigetragen. Russland beruft eine Krisensitzung ein.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Krim-Brücke",
+    "lat": 45.31,
+    "lon": 36.51
+   },
+   "url": "https://www.welt.de/politik/ausland/video6b07e838d4a4a3142c5743c4/ukraine-krieg-selenskyj-bestaetigt-teil-zerstoerung-von-krim-bruecke-russland-beruft-krisensitzung-ein.html",
+   "source": "WELT"
+  },
+  {
+   "title": "US-Truppenabzug aus Europa: Entscheidung verschiebt sich",
+   "summary": "Das Pentagon überprüft seine Präsenz in Europa. Die Entscheidung dauert Berichten zufolge bis ins neue Jahr, ursprünglich sollte die Nato schon im Dezember Ergebnisse bekommen.",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Washington",
+    "lat": 38.9,
+    "lon": -77.04
+   },
+   "url": "https://www.spiegel.de/ausland/usa-nato-entscheidung-ueber-us-truppenabzug-verschiebt-sich-offenbar-a-97bd5f73-6d1c-44ab-a265-3a84b9b0a070#ref=rss",
+   "source": "Spiegel"
+  },
+  {
+   "title": "Thanksgiving-Sturm: fast eine Million Kunden ohne Strom",
+   "summary": "Ein schwerer Sturm hat an beiden Küsten der USA Stromausfälle und Überschwemmungen verursacht. Hunderte Flüge fallen aus, die Thanksgiving-Parade in New York wurde erstmals wetterbedingt verschoben.",
+   "category": "Katastrophen & Klima",
+   "art": "katastrophe",
+   "ort": {
+    "name": "New York",
+    "lat": 40.71,
+    "lon": -74.01
+   },
+   "url": "https://www.spiegel.de/ausland/thanksgiving-sturm-legt-ostkueste-lahm-parade-in-new-york-verschoben-a-91358455-f9be-4968-b156-81516d60641d#ref=rss",
+   "source": "Spiegel"
+  },
+  {
+   "title": "Tanker mit 7.000 Tonnen Diesel vor Ibiza gekentert",
+   "summary": "Ein Seemann kam ums Leben. Die spanischen Behörden haben wegen möglicher Umweltgefahren einen Notfallplan aktiviert.",
+   "category": "Katastrophen & Klima",
+   "art": "katastrophe",
+   "ort": {
+    "name": "Ibiza",
+    "lat": 38.91,
+    "lon": 1.43
+   },
+   "url": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
+   "source": "tagesschau"
+  },
+  {
+   "title": "Neuseeland: Regierung verfehlt Mehrheit um einen Sitz",
+   "summary": "Das konservative Bündnis von Premier Luxon hat bei der Parlamentswahl die Mehrheit verloren. Es fehlt ein Sitz, nun wird verhandelt.",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Wellington",
+    "lat": -41.29,
+    "lon": 174.78
+   },
+   "url": "https://www.spiegel.de/ausland/neuseeland-konservatives-buendnis-verpasst-mehrheit-um-einen-sitz-a-9783f65d-4955-4ef5-8905-feecd02e7340#ref=rss",
+   "source": "Spiegel"
+  },
+  {
+   "title": "Israel: Eisenkot einigt sich mit Demokraten auf Koalition",
+   "summary": "Gadi Eisenkot muss bis Anfang Dezember eine Mehrheit in der Knesset sammeln. Mit den linksliberalen Demokraten klappt es besser als mit Netanjahus Partei.",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Jerusalem",
+    "lat": 31.77,
+    "lon": 35.22
+   },
+   "url": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-einigt-sich-mit-oppositionspartei-auf-koalitionsvereinbarung-a-a5b9f938-bb22-4de1-b33b-8a89e1d65c2d#ref=rss",
+   "source": "Spiegel"
+  },
+  {
+   "title": "Israel: Richter wollen fast alle Vorwürfe gegen Netanjahu fallen lassen",
+   "summary": "Nach sechs Jahren könnte der Korruptionsprozess ein rasches Ende finden. Netanjahu freut sich laut Spiegel bereits.",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Jerusalem",
+    "lat": 31.77,
+    "lon": 35.22
+   },
+   "url": "https://www.spiegel.de/ausland/israel-richter-empfehlen-fast-alle-anklagepunkte-gegen-benjamin-netanyahu-fallen-zu-lassen-a-dc70405a-edcb-4b93-a749-7142539a56da#ref=rss",
+   "source": "Spiegel"
+  },
+  {
+   "title": "Israelische Angriffe töten acht Palästinenser im Gazastreifen",
+   "summary": "Unter den Toten sind laut BBC ein politischer Hamas-Funktionär und seine Frau. Es sind die jüngsten einer Reihe fast täglicher Angriffe.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Gaza",
+    "lat": 31.5,
+    "lon": 34.47
+   },
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
+  },
+  {
+   "title": "Nvidia stoppt Serverlieferungen nach Südostasien",
+   "summary": "Laut Financial Times liefert Nvidia vorerst keine Server nach Malaysia, Singapur, Thailand und Indonesien. Hintergrund sind strengere US-Exportregeln für KI-Chips.",
+   "category": "Wirtschaft & Handel",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Singapur",
+    "lat": 1.35,
+    "lon": 103.82
+   },
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1ZtZ1FmQ3d0Nk9xZzFmaDNtd3ZURjZ1cm1sWkptUktqcm1aOUc3eWpIYjVpUGoxWGxWd2FjRTZiTzBGRGtaTTA3ZUFsTEJLNk5BV3VfV2VKNHJVbk1mTDJqYkZkdEFPQ09jdzVHRzBHazlKVko5bVp4WDZMSUpUaEpyZk5ZUUUxbm42MjBIRWJCaGZzVXRkNklKN2dfdDRES3RwazQ1UU55Q3Bf?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "title": "Kim Jong Un will mehr taktische Atomwaffen",
+   "summary": "Nordkorea soll mindestens 60 Atomsprengköpfe haben. Der Machthaber drängt auf einen breiteren Einsatz taktischer Atomwaffen.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "Pjöngjang",
+    "lat": 39.04,
+    "lon": 125.76
+   },
+   "url": "https://www.spiegel.de/ausland/nordkorea-kim-jong-un-draengt-auf-breiteren-einsatz-taktischer-atomwaffen-a-f6e5f64e-8f4c-4ad9-b6c0-8ff08a308f51#ref=rss",
+   "source": "Spiegel"
+  },
+  {
+   "title": "Raffinerie-Explosion in Bangkok",
+   "summary": "Neun Menschen wurden verletzt, drei davon lebensgefährlich. Schwarzer Rauch stand über der Stadt, Anwohner sollten das Gebiet verlassen.",
+   "category": "Katastrophen & Klima",
+   "art": "katastrophe",
+   "ort": {
+    "name": "Bangkok",
+    "lat": 13.76,
+    "lon": 100.5
+   },
+   "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
+  },
+  {
+   "title": "DR Kongo: Rebellen drängen Armee im Ebola-Gebiet zurück",
+   "summary": "Mitten im Ebola-Gebiet geraten die Regierungstruppen laut taz in die Defensive.",
+   "category": "Krieg & Konflikte",
+   "art": "konflikt",
+   "ort": {
+    "name": "DR Kongo",
+    "lat": -4.44,
+    "lon": 15.27
+   },
+   "url": "https://taz.de/Ebola-und-Krieg-in-der-DR-Kongo/!6233557/",
+   "source": "taz"
+  },
+  {
+   "title": "74 Peitschenhiebe für iranische Sängerin lösen Empörung aus",
+   "summary": "Parastu Ahmadi trat in einem Onlinekonzert ohne Kopftuch auf und wurde bestraft. International wird die Strafe als „grausam und unmenschlich“ kritisiert.",
+   "category": "Weltpolitik",
+   "art": "politik",
+   "ort": {
+    "name": "Teheran",
+    "lat": 35.69,
+    "lon": 51.39
+   },
+   "url": "https://www.tagesschau.de/ausland/asien/iran-saengerin-peitschenhiebe-100.html",
+   "source": "tagesschau"
+  },
+  {
+   "title": "2.100 Migranten an einem Tag auf El Hierro",
+   "summary": "Auf der kleinen Kanareninsel sind die Bewohner überfordert. Der Regionalpräsident fordert Hilfe vom Militär und warnt: „Die Kanaren können nicht mehr.“",
+   "category": "Europa",
+   "art": "politik",
+   "ort": {
+    "name": "El Hierro",
+    "lat": 27.74,
+    "lon": -18.02
+   },
+   "url": "https://www.welt.de/politik/ausland/article6b07d24c0ba62538f716dded/ausnahmezustand-in-el-hierro-2100-migranten-erreichen-innerhalb-eines-tages-kanareninsel-jetzt-soll-das-militaer-helfen.html",
+   "source": "WELT"
+  },
+  {
+   "title": "HHLA verlässt nach 19 Jahren die Börse",
+   "summary": "Die verbliebenen Minderheitsaktionäre wurden herausgedrängt. Alle Anteile liegen künftig bei der Stadt Hamburg und der Reederei MSC.",
+   "category": "Hafen & Schifffahrt",
+   "art": "wirtschaft",
+   "ort": {
+    "name": "Hamburg",
+    "lat": 53.55,
+    "lon": 9.99
+   },
+   "hamburg": "Der Hafenkonzern gehört damit nur noch der Stadt Hamburg und MSC.",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb2ttV3d1dFJwR3piUkVreVBtal9ZTlhDMzZtZXZ0T0NBR1p5bDljQXlxVTlrY0d6eko4NDVpTEhMRThWRUlHT3JSaVNxaXhRcXlkUGREd0cyRm1uQVhpN2lCSERIdUxfc3FhTGxtTDNIN3dmQVVkdi1CcTh6cEJOUUNrbVV0NWJLck9RdFAzYVk0Rkh2Z1FaTEpCSFVqNGsxdTlEYTk1TDdsajVSVDRyX2diTHlsejlJMWdDeERYVVpzVDl5Ym9XbXA3cmk?oc=5",
+   "source": "Hamburger Abendblatt"
+  }
+ ]
 }
