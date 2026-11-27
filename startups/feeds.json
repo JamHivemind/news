@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-26T10:22:23.671Z",
+ "fetched": "2026-11-27T02:36:42.806Z",
  "hours": 48,
  "sources": [
   {
@@ -42,6 +42,18 @@
    "name": "Sifted",
    "ok": true,
    "items": [
+    {
+     "title": "Introducing the Skinner-Shah Award for Journalism",
+     "url": "https://sifted.eu/articles/the-skinner-shah-award-for-journalism/",
+     "date": "2026-11-26T12:00:10.000Z",
+     "text": ""
+    },
+    {
+     "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
+     "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
+     "date": "2026-11-26T10:48:32.000Z",
+     "text": ""
+    },
     {
      "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
      "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
@@ -107,24 +119,6 @@
      "url": "https://sifted.eu/articles/how-to-build-an-ai-native-vc-fund/",
      "date": "2026-11-25T05:00:06.000Z",
      "text": ""
-    },
-    {
-     "title": "Why Europe’s sovereignty debate is heading to Luxembourg this March",
-     "url": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/",
-     "date": "2026-11-24T14:29:19.000Z",
-     "text": ""
-    },
-    {
-     "title": "Exclusive: Starling veteran to take over as CEO",
-     "url": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/",
-     "date": "2026-11-24T13:57:46.000Z",
-     "text": ""
-    },
-    {
-     "title": "Who could be Starling’s next CEO?",
-     "url": "https://sifted.eu/articles/starlings-next-ceo/",
-     "date": "2026-11-24T11:00:37.000Z",
-     "text": ""
     }
    ]
   },
@@ -144,18 +138,6 @@
      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
      "date": "2026-11-25T15:41:43.000Z",
      "text": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]"
-    },
-    {
-     "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-     "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-     "date": "2026-11-24T21:19:52.000Z",
-     "text": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
-    },
-    {
-     "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-     "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-     "date": "2026-11-24T18:30:42.000Z",
-     "text": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
     }
    ]
   },
@@ -165,13 +147,6 @@
    "ok": true,
    "items": [
     {
-     "title": "Das Startup Qynara steht für den Innovationsstandort Altona - Hamburg Startups",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkRDNnNZTFpibENiTXJ1M1RSaUs0cWlUUGZicjg2ME9lRG9jenotMzhBZWVXbE9OSkJKeTh5Ym1QNDY1c0p5Q0JpcGpUMVZEdUk3c2ZVTlZ3NEJOUlMyUVFsUGE5dk1ycUwzQ004Nkt0Tmh6RUkxTUlZU0dnQkNhU2ctVk1GaUVvLU94MmJfUVA1b1NOVFdFSjl3?oc=5",
-     "date": "2026-11-26T08:52:50.000Z",
-     "text": "Das Startup Qynara steht für den Innovationsstandort Altona Hamburg Startups",
-     "via": "Hamburg Startups"
-    },
-    {
      "title": "DESY eröffnet Gründerzentrum in Lurup: Startups tüfteln an Quantentechnologie und neuen Materialien - NDR.de",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVG5lRFNQNnVVb1M0eWRnaEU1elFsZnE3SHhYeXYzU1pZQzFpOVYzdUtVQjREeVFRWXZ6T1RZdVhEazI2Y0I5OGlBSnFhbDhtUkQxU2FZclNPMTVOOVk0OWt2bno2VFJualVrdEl2ZERzaEpVc1EtUnYtT0h0S0JNeklveVhQM0U1ZWk2bkYyTDlucThtLUVMNUdaUWhDMW03M2FSUzJCX1dRRmNlWUNV?oc=5",
      "date": "2026-11-24T18:55:00.000Z",
@@ -179,11 +154,25 @@
      "via": "NDR.de"
     },
     {
+     "title": "(+) Warum Hamburgs Öko-Start-ups jetzt kämpfen - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2x1aElNeXhhem1heEFsU25mUDNsdlRxZlo3c3BsM21lV2E0T1VZOWZhWV9kbElDRkQ0enc4cjJJSmQ5QlNuU1JTRW5SM2FMYWh6dk5PNFZxaXV3eWFteDljdmd3OWsxV1d2Rm1DaTNWVU1jcVZrb2hhSl9HRTdwRXpsYjhoWFpwenBkLVR0UDVPWXlRTG44Z3U3RUh5dw?oc=5",
+     "date": "2026-11-26T20:00:43.000Z",
+     "text": "(+) Warum Hamburgs Öko-Start-ups jetzt kämpfen MOPO",
+     "via": "MOPO"
+    },
+    {
      "title": "Desy und Stadt eröffnen Gründungszentrum in Hamburg-Lurup - WELT",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHNwZnZ2WDhxMHJaaU10Z1lGUFJ3cWVjdUlJemtmVEwwczdfRWV6RllVYnlCcXVIbGtBTmNCWElRWHdYcmN2Zm1DNnJhR1EtNGFlTnJvWmRqcmRPdlJ6bVRMLW5oUVNzTTREU0RPdDJpb05fY2hnYkhBcWxFYXFoSERKWTlyeWpobXYtOHN3MTNDTzNlbHlNMHQtSnM1WVY1bjQ4X1Y5ekN2TzlHRkhpWXpzT2ZTMzRsaHQ4Q2tmTDBHNEtLXzBzVGdUUmxtZVZK?oc=5",
      "date": "2026-11-24T14:48:24.000Z",
      "text": "Desy und Stadt eröffnen Gründungszentrum in Hamburg-Lurup WELT",
      "via": "WELT"
+    },
+    {
+     "title": "Saugroboter-Aufsatz aus Die Millionenidee: Heike (64) aus Hamburg-Sasel und die Wollmäuse - Gründerfreunde",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KcHpXSkw5MktaYk5TTG81X0lYOWtlX2VzVHo0ZGl1TnJLRzdETFYyaGUyb2ZTYUFLaWs1ZksxRDdiVm5MR2RWVzRobkx3OU1ELUVSaGVNLUhtU3ExbVJMQjFxNGpJZkpoZ0xKU25jWDhidFk?oc=5",
+     "date": "2026-11-22T17:21:57.000Z",
+     "text": "Saugroboter-Aufsatz aus Die Millionenidee: Heike (64) aus Hamburg-Sasel und die Wollmäuse Gründerfreunde",
+     "via": "Gründerfreunde"
     },
     {
      "title": "DESY - neues Gründerzentrum in Hamburg-Lurup - NDR.de",
@@ -207,13 +196,6 @@
      "via": "Startbase"
     },
     {
-     "title": "WaterSense holt 5,75 Millionen Euro für Echtzeit-Daten aus Flüssen und Seen - Trending Topics",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzNHhGcXN3WEd5YTFWX1JYbXVtaUx6dDFlZHdxejdudUdXclNweUZpZ05oN0JyS1BIS3ZNSktLbkVPbVFIOGliQ2ZlLXZNODNaLVV6bUlSY2xHY1Z1THRwSm5KbldkakJaUkhCVDZFRDZKcmNRSEpGbkdB?oc=5",
-     "date": "2026-11-26T08:00:00.000Z",
-     "text": "WaterSense holt 5,75 Millionen Euro für Echtzeit-Daten aus Flüssen und Seen Trending Topics",
-     "via": "Trending Topics"
-    },
-    {
      "title": "nextesy schliesst Seed-Runde über 10,4 Millionen USD ab: Swisscom Ventures führt ... - Presseportal.ch",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yalF0cjVuS0c1UFJtV2FWZW95ckhucGlwcDVaQlBGQUMtd01hcjdMc3dOYzZ0M2JtLU9tN2ZYdkh0a2JmZU5XTjF3OEZOVVVFR2RkbVQ5U2JQY2E4d3p0QWhOdw?oc=5",
      "date": "2026-11-26T08:00:00.000Z",
@@ -221,24 +203,31 @@
      "via": "Presseportal.ch"
     },
     {
-     "title": "Robotik-Start-up Coprod sammelt 6 Millionen US-Dollar ein - Netzwoche",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3l5RFVubzRrbHhHVFg1MmpYSU42ZmR5NlJPSmRTdzBpNEhkTUc3Y2Z6MjdERlJ0V0ZnUm9zV3ppUE5GRlNlNWdHWjJrdEdZRXVqME9tMWlDR0hYNkxKT2tvUDhTV0hXcE9fLUNBVERMSU95Y3VxT1FiT254U1hQUU4tNE5xd2oxR2dEZnE0X0t4TUxaQl9HcmRjNzRpcE0?oc=5",
-     "date": "2026-11-25T10:11:20.000Z",
-     "text": "Robotik-Start-up Coprod sammelt 6 Millionen US-Dollar ein Netzwoche",
-     "via": "Netzwoche"
+     "title": "KI-Startup Surelio sammelt eine Million - Inside IT",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nazhwMl9iWFNMTEdPZHRhclQ0MGhHMmdmakJfMVh1S0JPQ1dqbnhvZG1PcDZUcy0zN2Nwa2hyd2xXQUcyd0ZqSkFiRzM5ZkhfaUZ5RWNLUlpfQU53S0w4OVFiWDNMNXVPTzVYeV9aZ2lxTXpfVTNqZXZVTDg0QQ?oc=5",
+     "date": "2026-11-26T15:51:00.000Z",
+     "text": "KI-Startup Surelio sammelt eine Million Inside IT",
+     "via": "Inside IT"
     },
     {
-     "title": "Marlowe: 277 Millionen Dollar für KI-Infrastruktur - NeoTeo",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOFRQN1pHVE9QUDJBcDlVUmV5NlZ6eGtZRzdFUTcyS0t1bjdQRml0bkJXSy1IaldOa2RnUlFXakViN1lpQ1liRFRCbWVaS25FOFRSQko1Z1VrdG42WU5qWWFPeHhqNHpuMDVxNGU0enBXWTc2dXJKOFd2TnNnNHA3QnZ1dFYzT2s?oc=5",
-     "date": "2026-11-25T22:51:55.000Z",
-     "text": "Marlowe: 277 Millionen Dollar für KI-Infrastruktur NeoTeo",
-     "via": "NeoTeo"
+     "title": "Starforge holt sich 6,6 Millionen Euro für Fusionsreaktoren aus der Serienfertigung - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEx2QTE4RkpJTzgwU2J3bjEwT2JRX3ZmbENHazZQN1NraEliaTZHeGJHY3dJblJiTGMwelFDWHIxcE9pVWhfZW04dnpoV1RMVlhTaW9mZzZ1ZGwtUW1JTVBLd240Nm9RdEQ1MUhqbHhUYmF3NndrUzZ3Wjdpb3NNajNUajZ3NzZZVDRtWU9JV0t1OV9WQU1oOC13WUFFa09iZ19DdFVCeXZWT3pYR0ZjNFBKdlM?oc=5",
+     "date": "2026-11-26T10:00:00.000Z",
+     "text": "Starforge holt sich 6,6 Millionen Euro für Fusionsreaktoren aus der Serienfertigung Startbase",
+     "via": "Startbase"
     },
     {
-     "title": "Elbic erhält drei Millionen Dollar für europäische Sprach-KI - Startbase",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQci1wanc2Ym5pZ1lqSVRubE9Wd0VEWkdRWFU3ZXN3TUFoZXNSb05mRk1NdjF5OXYya3NEWWd1eGRQbm1INzVBS0t1WUt3UkQyVW50VWF5ZE05SmZoWmxCVVFGeE9WOTVyNWpvZUZYY0J4eEc5RWNfS1F3dXgybkJ0UUduc1dZQl9xaTViQWhLUXBPdlFCTms4RE9B?oc=5",
-     "date": "2026-11-25T05:00:00.000Z",
-     "text": "Elbic erhält drei Millionen Dollar für europäische Sprach-KI Startbase",
+     "title": "Chinesisches Robotik-Startup erhält 100 Mio. US$ Finanzierung von Ant Group - IDNFinancials",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEVUSlpZU3U2T0gtaldydE5fcjhKZkVRZlFmZWN2VlBtSklRNFZwa0pSS0FUZzhBNnhaSEl5RjV5djU5Zmt0NFRfYW1JdmkwT05ZWlFGODlLd250dTBybzR4ZFk4UzJ4QWFIN21xZ0NNT0J1eTh0RXNIcVZ0NEt2OEpXUjF1amR6Rkk4UjBsaUtjc2xENmxpQ0hWZW1XSHMtSVBCNUdydHFrcVpKd1JiLTVBWnpBQ0trcDB1OTNIRQ?oc=5",
+     "date": "2026-11-25T07:00:00.000Z",
+     "text": "Chinesisches Robotik-Startup erhält 100 Mio. US$ Finanzierung von Ant Group IDNFinancials",
+     "via": "IDNFinancials"
+    },
+    {
+     "title": "Anori Tech sichert sich über eine Million Euro für Batteriemanagementsysteme - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX3p2OGxjU2VaRlloM2F5ZnMteWY4Z2dPbWg2R3hsUGVhWGwwVGZZaklGTml5THd0WmN6TDd6S09jdmQyNkZzdkV1NXlXREpPNUFZajZGYnZBWW5yZmV3U2JDUlIwWnpUVEVYdFo5c1NRUVFOa1BzLWxodFlqc3VPWGtwcEtjRTU4S1lEVGZsWU1JVFNxNXpwVTNDeE5jYUF6ZzBoNlZBWmFvRzN2bUE?oc=5",
+     "date": "2026-11-26T09:00:00.000Z",
+     "text": "Anori Tech sichert sich über eine Million Euro für Batteriemanagementsysteme Startbase",
      "via": "Startbase"
     },
     {

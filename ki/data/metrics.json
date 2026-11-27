@@ -1140,41 +1140,41 @@
  "hf": [
   {
    "id": "thinkingmachines/Inkling-2-Mini",
-   "likes": 6116,
+   "likes": 6271,
    "downloads": 96527,
    "task": "image-text-to-text"
   },
   {
    "id": "unsloth/Inkling-2-Mini-GGUF",
-   "likes": 1406,
+   "likes": 1500,
    "downloads": 2445633,
    "task": "image-text-to-text"
   },
   {
-   "id": "inworld/voice-isolator",
-   "likes": 916,
-   "downloads": 15244,
-   "task": "audio-to-audio"
-  },
-  {
    "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-   "likes": 866,
+   "likes": 939,
    "downloads": 762491,
    "task": "image-text-to-text"
   },
   {
    "id": "SulphurAI/Sulphur-3",
-   "likes": 1141,
+   "likes": 1218,
    "downloads": 189735,
    "task": ""
   },
   {
+   "id": "inworld/voice-isolator",
+   "likes": 968,
+   "downloads": 15244,
+   "task": "audio-to-audio"
+  },
+  {
    "id": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-   "likes": 412,
+   "likes": 529,
    "downloads": 59366,
    "task": "text-generation"
   }
  ],
- "updated": "2026-11-26T10:22:46.094Z",
+ "updated": "2026-11-27T02:37:13.339Z",
  "updatedDay": "2026-11-06"
 }
