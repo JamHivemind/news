@@ -1,92 +1,121 @@
 {
-  "date": "2026-11-26",
-  "intro": "In Hamburg bremsen überlastete Gerichte den Wohnungsmarkt, und im Hafenumfeld sowie an der Elbe tut sich bei Gewerbeflächen und Hotels einiges. Bundesweit geht es um Büros als Wohnraum und um die Krise bei Immobilienfonds.",
-  "top": [
-    {
-      "title": "Überlastete Gerichte lassen Hamburger Wohnungen leer stehen",
-      "text": "Nach dem Tod eines Mieters dauert es in Hamburg im Schnitt neun Monate, bis die Wohnung wieder vermietet werden kann. Grund sind lange Nachlass- und Räumungsverfahren bei den Gerichten. Aktuell stehen deshalb rund 750 Wohnungen leer. Eine Umfrage unter Hamburger Wohnungsunternehmen bestätigt das Bild: Über 90 Prozent klagen über große Verzögerungen.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/gerichtsueberlastung-blockiert-wohnraum-in-hamburg,nachlassgerichte-100.html",
-      "source": "NDR Hamburg",
-      "category": "Wohnungsmarkt Hamburg"
-    },
-    {
-      "title": "Foodlogistiker mietet 9.700 m² in Hamburg-Billbrook",
-      "text": "Ein internationaler Lebensmittellogistiker mietet Flächen auf dem früheren Karstadt-Areal in Billbrook. Eigentümer ist die Kaldox Group. Auch Savills meldet die Vermittlung von 9.700 Quadratmetern Logistikfläche in Hamburg; ob es sich um dasselbe Geschäft handelt, geht aus den Meldungen nicht hervor. Die Nachfrage nach Logistikflächen im Hamburger Osten bleibt damit sichtbar.",
-      "url": "https://www.immobilienmanager.de/foodlogistiker-mietet-9-700-quadratmeter-in-hamburg-25112026",
-      "source": "Immobilien Manager",
-      "category": "Unternehmen & Deals"
-    },
-    {
-      "title": "Frankfurt: Leere Büros helfen kaum gegen Wohnungsnot",
-      "text": "Eine Analyse aus Frankfurt kommt zu dem Schluss, dass leerstehende Büros nur wenig Potenzial bieten, die Wohnraumknappheit zu lindern. Der Umbau passt oft nicht zu Lage, Zuschnitt oder Kosten. Die Debatte um Büro-zu-Wohnen-Umbauten gibt es auch in Hamburg, wo es ebenfalls Leerstand gibt.",
-      "url": "https://www.konii.de/news/frankfurt-leerstehende-bueros-bieten-wenig-potenzial-gegen-wohnraumknappheit/",
-      "source": "konii",
-      "category": "Markt Deutschland"
-    }
-  ],
-  "entries": [
-    {
-      "title": "May&Co baut Parkhotel Teufelsbrücke zum Luxushotel um",
-      "summary": "Das denkmalgeschützte Haus an der Hamburger Elbe wird saniert. Bis Sommer 2027 sollen 41 Zimmer und Suiten entstehen.",
-      "url": "https://www.immobilienmanager.de/hamburg-may-und-co-entwickelt-luxushotel-an-der-elbe-25112026",
-      "source": "Immobilien Manager",
-      "category": "Bau & Projekte"
-    },
-    {
-      "title": "Scout24-Chef: „Deutschland hat zwei Immobilienmärkte“",
-      "summary": "Der Chef des Immobilienportals beschreibt laut WELT einen gespaltenen Markt. Die Meldung liegt hinter einer Bezahlschranke, mehr als die Überschrift ist nicht lesbar.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb0ZNa01MVmd4c3hXR0lON193dmpWd09KQVF4VTlEdzB2Nm9mTVgtX19pa001a0JTd09jUHlwaEJUSWl5YXN5YXVGMExpLUlIUFRnaG9pcTZPUExWYlRPaEpNVGZUcWp2cldwMXZhOTByM1B5eVZ4ODQ3a0p1YnpUdEJMRjhiRkdjeFBuT1FsN045bHRoVEJVb0kwNGpZVkJWUElPTGJnOTQyTTFha0llVDJQZHhLWTVHUXJFZEhkdFlNbXJUbHhsRzBBT0E5a3VITkpUTw?oc=5",
-      "source": "WELT",
-      "category": "Markt Deutschland"
-    },
-    {
-      "title": "Immobilienfonds-Krise verschärft sich",
-      "summary": "WELT schreibt, die Krise bei Immobilienfonds eskaliere, ein Investor setze dennoch auf Deutschland. Mehr als die Überschrift ist nicht frei lesbar.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX1Vma1M2WEdzaHplMnBIRGNEZmc4eWg2TlMtYVZFcGJJbXUtRDdyN0tJNmN2ekRsV25uU25MWW9ONDVzUkNyTkVBcDFoaUdBR2d0WW1mOUFHdlRJODBsZlFmWlY2MGU2cmlSYnpBZWhsakc3ZjI5Q0ZGbmE4ZU9tWXhubDVhVTJ2dGptQVlFQjJsVW5abEZ1Y3I2ekxWVF8zTm5KMzdpelRzNXVPYlk1ZEV0NUg0WmVYcTJUTWFiQ2syc2p0eldBZVJvZllTUWF4ZFE2ME1RZ0FjTmFtTnBIeHNvN3g?oc=5",
-      "source": "WELT",
-      "category": "Zinsen & Finanzierung"
-    },
-    {
-      "title": "Stepstone bleibt im Düsseldorfer „Silvers“",
-      "summary": "Das Unternehmen verlängert den Mietvertrag über rund 7.200 m² langfristig. Eigentümer Deka plant Modernisierungen und eine Photovoltaikanlage.",
-      "url": "https://www.immobilienmanager.de/duesseldorf-stepstone-verlaengert-mietvertrag-ueber-7-200-quadratmeter-25112026",
-      "source": "Immobilien Manager",
-      "category": "Unternehmen & Deals"
-    },
-    {
-      "title": "Trigea übernimmt Mehrheit am Einkaufszentrum Minto",
-      "summary": "Der Fonds kauft 89,9 Prozent des Mönchengladbacher Centers von Unibail-Rodamco-Westfield. Das Center hat rund 42.000 m² Mietfläche.",
-      "url": "https://www.immobilienmanager.de/moenchengladbach-trigea-uebernimmt-mehrheit-am-minto-25112026",
-      "source": "Immobilien Manager",
-      "category": "Unternehmen & Deals"
-    },
-    {
-      "title": "Nürnberg: Bau des Schocken-Carrés startet",
-      "summary": "Es entstehen 200 Mietwohnungen, Einzelhandelsflächen und soziale Einrichtungen. BayernHeim soll das Quartier 2029 übernehmen.",
-      "url": "https://www.immobilienmanager.de/nuernberg-ten-brinke-startet-bau-des-schocken-carr%C3%A9s-25112026",
-      "source": "Immobilien Manager",
-      "category": "Bau & Projekte"
-    },
-    {
-      "title": "Berlin-Marzahn: Büro wird teilweise zu temporärem Wohnen",
-      "summary": "Im Projekt RHIN 84-88 wird der Teil RHIN 88 vom Bürostandort zu einem Angebot für temporäres Wohnen umgenutzt.",
-      "url": "https://www.konii.de/news/trockland-projekt-rhin-84-88p-erhaelt-eine-partielle-nutzungsaenderung/",
-      "source": "konii",
-      "category": "Bau & Projekte"
-    },
-    {
-      "title": "Lahnstein: Baugenehmigung für 56 Wohnungen",
-      "summary": "Die Stadt gibt grünes Licht für ein Wohnensemble auf dem ehemaligen Güterbahnhofsgelände. Bauherr ist die Capella-Gruppe.",
-      "url": "https://www.konii.de/news/capella-gruppe-erhaelt-baugenehmigungen-fuer-56-wohnungen-in-lahnstein/",
-      "source": "konii",
-      "category": "Bau & Projekte"
-    },
-    {
-      "title": "Hamburger Hauptbahnhof: Zwei Pläne gegen den Kollaps",
-      "summary": "Für 2040 werden 750.000 Fahrgäste erwartet. Das Abendblatt stellt zwei Wege zur Entlastung vor: Gleise verlegen oder tunneln. Beides würde die Umgebung des Bahnhofs stark verändern.",
-      "url": "https://www.abendblatt.de/hamburg/politik/article413706176/hamburg-hauptbahnhof-zwei-realistische-plaene-um-fahrgaeste-und-gleise-zu-entlasten.html",
-      "source": "Hamburger Abendblatt",
-      "category": "Bau & Projekte"
-    }
-  ]
+ "date": "2026-11-27",
+ "intro": "In Hamburg geht der Senat gegen überhöhte Mieten vor und plant dauerhafte Flüchtlingsunterkünfte statt Hotels. Bundesweit bleibt die Lage bei Wohnungskonzernen wie Adler angespannt.",
+ "top": [
+  {
+   "title": "Taskforce Mietwucher gibt erste Fälle an die Justiz",
+   "text": "Die vom Hamburger Senat eingerichtete Taskforce Mietwucher hat die ersten Fälle an die Staatsanwaltschaft übergeben. Mietwucher bedeutet, dass Vermieter deutlich überhöhte Mieten verlangen und dabei eine Notlage der Mieter ausnutzen. Für Vermieter in Hamburg steigt damit das Risiko, dass überhöhte Forderungen Folgen haben.",
+   "category": "Politik & Recht",
+   "tipp": "Mieter, die ihre Miete für überzogen halten, können den Fall der Taskforce melden; Näheres steht auf hamburg.de.",
+   "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-taskforce-mietwucher-uebergibt-erste-faelle-an-die-gerichte,kurzehh-5012.html",
+   "source": "NDR Hamburg"
+  },
+  {
+   "title": "Senat will 20 feste Flüchtlingsunterkünfte bauen",
+   "text": "Der Hamburger Senat plant bis 2030 rund 20 dauerhafte Unterkünfte für geflüchtete Menschen mit etwa 7.000 Plätzen. Dafür soll die Unterbringung in Hotels deutlich sinken. Das berührt den Wohnungsmarkt, weil Bauflächen und Bauaufträge gebunden werden.",
+   "category": "Bau & Projekte",
+   "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/senat-will-20-feste-unterkuenfte-fuer-gefluechtete-menschen-bauen,hamj-16900.html",
+   "source": "NDR Hamburg"
+  },
+  {
+   "title": "56 günstige Mietwohnungen statt Eigentum in Hamburg",
+   "text": "Eine Baufirma und ein Wohnungskonzern kooperieren in Hamburg: Aus geplanten Eigentumswohnungen werden 56 günstigere Mietwohnungen. Das Abendblatt nennt die Preise und den Fertigstellungstermin; im frei lesbaren Teaser steht dazu nichts Genaues.",
+   "category": "Wohnungsmarkt Hamburg",
+   "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413777891/56-neue-wohnungen-was-an-diesem-projekt-in-hamburg-ungewoehnlich-ist.html",
+   "source": "Hamburger Abendblatt"
+  }
+ ],
+ "entries": [
+  {
+   "title": "Luxuswohnungen an der Alster: Zwangsversteigerung ohne Bieter",
+   "summary": "Nach der Pleite der Firmengruppe des Investors Tomislav Karajica sind Luxuswohnungen an der Alster zwangsversteigert worden. Laut Abendblatt wollte sie niemand haben.",
+   "category": "Wohnungsmarkt Hamburg",
+   "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413776184/luxuswohnungen-an-der-alster-kommen-unter-den-hammer-und-keiner-will-sie-haben.html",
+   "source": "Hamburger Abendblatt"
+  },
+  {
+   "title": "71 Wohnungen in Steilshoop stehen leer",
+   "summary": "Im Einkaufszentrum Steilshoop und im angrenzenden Ärztetower stehen 71 Wohnungen wohl schon seit Monaten leer. Die Behörden äußern sich bisher zurückhaltend.",
+   "category": "Wohnungsmarkt Hamburg",
+   "url": "https://www.abendblatt.de/hamburg/wandsbek/article413755728/71-wohnungen-im-ekz-und-aerztetower-steilshoop-stehen-seit-monaten-leer-unfassbar1.html",
+   "source": "Hamburger Abendblatt"
+  },
+  {
+   "title": "Brandschutzmängel im EKZ Steilshoop",
+   "summary": "Die Feuerwehr fand im Einkaufszentrum und im Ärztetower zahlreiche Mängel. Der Eigentümer soll auf Meldungen nicht reagiert haben.",
+   "category": "Politik & Recht",
+   "url": "https://www.abendblatt.de/hamburg/wandsbek/article413752140/brandschutzmaengel-im-ekz-steilshoop-eigentuemer-ignorierte-mehrere-mitteilungen1.html",
+   "source": "Hamburger Abendblatt"
+  },
+  {
+   "title": "Studie: Mehr Auswahl am Hamburger Wohnungsmarkt?",
+   "summary": "Eine Studie beschäftigt sich damit, ob Wohnungssuchende in Hamburg künftig mehr Auswahl haben. Über den Teaser hinaus liegen keine Details vor.",
+   "category": "Wohnungsmarkt Hamburg",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlJ1WlgtUkllWlBuSEJIekJ2RXFpLTg2SFo4ZGNjaGZFX2xjM1NzRmRiMTNiRHMxQnVGOFFVaU9RRUxKdS1GY19VaVV3RXdlQlBNRDloclNlaTE3amtfaE94QjA0OFVKdThXeFZiYnZSdFloUTFIWURTSndqay04REJkbnkySWZDM0N2RUhoLVlYWjdELTZHRk1rTWZzZnZGRDJGWg?oc=5",
+   "source": "Hamburgportal"
+  },
+  {
+   "title": "Büromarkt Hamburg: Mieter gewinnen Verhandlungsspielraum",
+   "summary": "Laut einem Bericht zum Hamburger Büromarkt 2026 haben Mieter bei Verhandlungen mehr Spielraum.",
+   "category": "Büromarkt Hamburg",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjNCaHZxXy1UX3ViTWFfRVdzNllJNkZ2NEdkRFM0M0YtS3JLRHVqajBGUUhRcFo4bk00MG9oOENDZ2FLVkJIQ1AwZjVTNC1nRUpQYmZGM1hUWjNMMzgxb2p2OEtyYWJRS3Jyck5fZ3dIdUROdmYtZEN2TUFOblJ6bUpNa0Qxck1yU2JUd2FRbGlRNmZrdU9nVVNTcFowSVc0RE1UX005eEhRcDBX?oc=5",
+   "source": "businessportal24"
+  },
+  {
+   "title": "Linke und SPD stellen Anträge zur Schwarzen Scheibe",
+   "summary": "Zur Schwarzen Scheibe in Hamburg liegen Anträge von Linken und SPD vor. Mehr als die Überschrift ist frei nicht lesbar.",
+   "category": "Bau & Projekte",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2ZRZUMwdHIzM3ZXd2Z5NGtOQTI3eWF0Uk9HbjNJa3c1RnM4SzI4WEt4d3RDZ19TS1lYLU9ORG05Tnk4ckZXLTUteFY3ZWpmNlFLcnNrQk1kSGg4cXYwWUVfVklSQ2IxS1RLVktzNlBzRDJpbzExbGI2TEpRWEVxRWItRWctSUJ5cXFOOWY0NE5KRkhNWFFxMFZyekR4NDdqNFAtVHpWQmhrQWlSY19r?oc=5",
+   "source": "Immobilien Zeitung"
+  },
+  {
+   "title": "Fördergelder für Sassenhof in Schnelsen verfallen",
+   "summary": "Für die Sanierung des seit Jahrzehnten leeren Hof-Ensembles Sassenhof hatte der Bund 2021 Fördergeld zugesagt. Es kann nicht mehr rechtzeitig abgerufen werden und verfällt.",
+   "category": "Bau & Projekte",
+   "url": "https://www.ndr.de/nachrichten/hamburg/millionen-foerdergelder-fuer-sassenhof-in-schnelsen-verfallen,sassenhof-112.html",
+   "source": "NDR Hamburg"
+  },
+  {
+   "title": "Adler Group: Schuldenquote steigt auf 81,2 Prozent",
+   "summary": "Trotz weiterer Schuldentilgung steigt bei der Adler Group der Verschuldungsgrad (Kredite im Verhältnis zum Immobilienwert) auf 81,2 Prozent. Die Mieten im Berliner Bestand wachsen um 3,5 Prozent.",
+   "category": "Unternehmen & Deals",
+   "url": "https://www.immobilienmanager.de/adler-group-verschuldungsgrad-steigt-auf-81-2-prozent-26112026",
+   "source": "Immobilien Manager"
+  },
+  {
+   "title": "Aroundtown: Chef Bar-Hen geht",
+   "summary": "Aroundtown-Chef Barak Bar-Hen verlässt das Unternehmen. Sein Stellvertreter Kamaldeep Manaktala und Finanzchef Jonas Titelnot übernehmen seine Aufgaben.",
+   "category": "Unternehmen & Deals",
+   "url": "https://www.immobilienmanager.de/stuehleruecken-bei-aroundtown-26112026",
+   "source": "Immobilien Manager"
+  },
+  {
+   "title": "Vonovia und Bayern wollen Milliarden in Wohnraum investieren",
+   "summary": "Der Freistaat Bayern und Vonovia haben eine Absichtserklärung für Investitionen in Neubau, Modernisierung und Quartiersentwicklung unterzeichnet. Das Volumen liegt im Milliardenbereich.",
+   "category": "Markt Deutschland",
+   "url": "https://www.konii.de/news/vonovia-und-freistaat-bayern-planen-milliarden-investition-in-neubau-modernisierung-und-quartiersentwicklung/",
+   "source": "konii"
+  },
+  {
+   "title": "Obi und Toom: Kartellamt könnte Fusion bremsen",
+   "summary": "Käme es zur Fusion, hätte Obi mehr als doppelt so viele Kunden wie der nächste Wettbewerber. In vielen Städten droht deshalb ein Eingreifen des Kartellamts.",
+   "category": "Unternehmen & Deals",
+   "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/baumaerkte-kartellrecht-koennte-fusion-von-obi-und-toom-erschweren/100273004.html",
+   "source": "Handelsblatt"
+  },
+  {
+   "title": "ZIA legt Leitfaden mit 270 Handlungsoptionen vor",
+   "summary": "Der Immobilienverband ZIA stellt beim Innovationskongress einen Praxisleitfaden zur Zukunft der Immobilienwirtschaft vor.",
+   "category": "Politik & Recht",
+   "url": "https://www.immobilienmanager.de/zia-zeigt-wege-in-die-zukunft-der-immobilienwirtschaft-26112026",
+   "source": "Immobilien Manager"
+  },
+  {
+   "title": "Rheinmetall bekommt Logistikzentrum bei Kassel",
+   "summary": "Panattoni baut für Rheinmetall am Kassel Airport ein Logistik- und Trainingszentrum mit 38.000 Quadratmetern. Die Übergabe ist für Juni 2027 geplant.",
+   "category": "Bau & Projekte",
+   "url": "https://www.immobilienmanager.de/baustart-fuer-defence-hub-in-calden-26112026",
+   "source": "Immobilien Manager"
+  }
+ ]
 }
