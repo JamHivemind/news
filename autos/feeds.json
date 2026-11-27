@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-27T02:36:06.396Z",
+ "fetched": "2026-11-27T03:55:09.689Z",
  "hours": 48,
  "sources": [
   {
@@ -190,14 +190,239 @@
   },
   {
    "name": "Auto Bild Klassik (Google News)",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Nur Klassiker, Youngtimer, Preise und Wertentwicklung. Doppelte mit dem Auto-Bild-Feed nur einmal.",
+   "ok": true,
+   "items": [
+    {
+     "title": "Knight-Rider-Auto findet bei Zürcher Auktion keinen neuen Besitzer - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUFhacTlSTFpkREkxRU1PUTgxTXl1Y1Z1RE12Zmo3MG9hTlFNMERhRklKN194amZWaHBfNW9OeXdVeEg1VS1wc3o3SUgxbS1FN0tuYjZyNUxmR09JVjFEVlZBZGJOekY4RVJxRm1fSlVEdVJQSnpUV0FzUURsRkxhWg?oc=5",
+     "date": "2026-11-25T15:54:00.000Z",
+     "text": "Knight-Rider-Auto findet bei Zürcher Auktion keinen neuen Besitzer Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Video: Ford GT41 - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MZC02OTRtR1czdWJXWWEyUXV0b2lRaWtVdjNVTERqci1FVWJNWXZLY3hzc0Q4ZkZyMjdoVVVTOG00c2J1cHgzSm5nWmNXcHFDMzJGWGNiVGVaekx2VjlSNVM3OC0?oc=5",
+     "date": "2026-11-26T18:00:00.000Z",
+     "text": "Video: Ford GT41 Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Skoda Kamiq im Leasing: Infos zu Laufzeit, Ausstattung und Co - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQndBRE1Kcl9aZkFWS3AtY2ZvZWhTLVVXY3R4WmJWUFI5dGJUNmxnbC12WGJtOGtxa2FJQzcySk05eTRfOWZ0MFVpLVB1dlVSQWVNdC1BRXNoSTh3NWNvMnhWcHZwMnBSM0FwaExQdzJGc2FISUo1Wll3STR6NDNONm5yUTJOMmtKS2tMR1JB?oc=5",
+     "date": "2026-11-26T11:43:00.000Z",
+     "text": "Skoda Kamiq im Leasing: Infos zu Laufzeit, Ausstattung und Co Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Euro 7 bringt dem Leon 10 PS mehr! - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTnlxdzh5VWdnLUJsN0hjYU9UeEI4M0xyazM0MVlQWkZxSUNlM1pGcUxIbkJDcEVOaVFLSENGYTYwczh5Zl83ajJNWDNkSlFwclBET2xhR2hJcmpfeFF4akhTSzgtS2d2bDNIZEdKZDlGbGc0cjRoYWRhdmFIeHdrTG0yNXJ1VTZlMzJUWjl3VS1IalFnQlE?oc=5",
+     "date": "2026-11-25T12:43:00.000Z",
+     "text": "Euro 7 bringt dem Leon 10 PS mehr! Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Vettel verrät: Deshalb scheiterte sein Ferrari-Traum - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZlgyaWszcE5yV1E3a2lWZzdITUlwVFlLSHpaUTNHUW9lYkFGaW02Q3N0a2s3U3h5U0Ytc3YwM0Rha0VEU1YyeDJ6SFNaekl6NTd3ekQ1Tm1NU242cHFrT0lmWG5ISTNON0FOWllTcmZBSXpQMENZbTdmQU9RMlA4eFNBRVp2X3lHQXNiUEhXaFFMbFRDODRyTEVEdG90NVE?oc=5",
+     "date": "2026-11-25T14:26:00.000Z",
+     "text": "Vettel verrät: Deshalb scheiterte sein Ferrari-Traum Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Geräumiger Familienkombi zum kleinen Preis: Skoda Octavia Kombi im Privatleasing - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYzNCVXdDN1JaeGVRQ2tZdGJ3dXVtc29tMm5QRk1xOC00T0QtNnU4ZUVsaGFaazNQV2xvSzdkRk4xQThwYTJQTjBZcm5MZWVNdVItc0pGdTdjOGs0SmozX0lrTktjQlBpYjh1VTBya25JdzQ2a0FLWml3SzFGQ0t2NXo5ZFlSUGdvNWE3eWh3NWxfSzhqOGF3UTAyREM0ZDgtbUstaDJRM2VWUQ?oc=5",
+     "date": "2026-11-26T10:14:00.000Z",
+     "text": "Geräumiger Familienkombi zum kleinen Preis: Skoda Octavia Kombi im Privatleasing Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Neuer WhatsApp-Dienst: So einfach wird die Autosuche - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQekwyNWlDSlk2RUpfRmtvendsSU1jX3lUX1ZWdmcwNzJCUVhTNXdLcmktS2JfUlBKbmhlTk5jQkFDdjdmb1JXT1BOR21UejFMSVpSdE44b0tUTzNCQmU3eXRJZ2VqS3FTWW84bUZWMy1ZeF9tZjBlVTgzVExqTFBqZXVBSklwVTRRRUxfUHl5QjY3Uk1yTmEzM2pTVzhGNnlxUWZQa2hVZDR1bzVQ?oc=5",
+     "date": "2026-11-25T11:08:00.000Z",
+     "text": "Neuer WhatsApp-Dienst: So einfach wird die Autosuche Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Französisches SUV-Coupé zum kleinen Preis: Peugeot 3008 im Privatleasing - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3FkblFXSVFIUTZWVzRmY2Y2MGpaRV9LSDZ0YTZaR29ua29WYmtxWW9VOWxFbnlDNFp1WXQtRElNVDdLZ1dQd3pONHdzSldvb3lkLU8wN1pHdW9BUFBPcFJXdEU0RGs2UzVzVkJYYnVaN3U1cXFTU0hhRUpSbW5ZNDZNN2ZCMUhVZ2dVNW4zZ0UxR2R4Xy1lSXIyQW0wZG8?oc=5",
+     "date": "2026-11-25T13:37:00.000Z",
+     "text": "Französisches SUV-Coupé zum kleinen Preis: Peugeot 3008 im Privatleasing Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Dieser Autositz hat eine Funktion, die kaum jemand erwartet - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR1pPNUIweldyblJLNGREQS1rRlNWX2dwYWNmaVV4bmFQMUgwYlVrbWc0M0FIZmpwMFFXWmc3LTJxOHdmTndHWjRpTnB5NG5uQXhwMTFROGJCbDV6bW5OTDl2bmNSejRFY18xR1dhY3kyT2ttUlRFV21YbEpMNXhiZGFQYTBkTTBYZlZTZ3VwOXhuTUFJenc?oc=5",
+     "date": "2026-11-26T05:00:00.000Z",
+     "text": "Dieser Autositz hat eine Funktion, die kaum jemand erwartet Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Haut hier ein Parksünder auf drei Rädern ab? - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcEgweDh5LWpIWkJ3bWt1NHRsNDJTczh1dF9MeXctTFY3YlVRYVlBOGNnWExXTm0wZ0tQdFhlSVZ0czIzRGxyV1F6azlIY0pob3pvVDhjcGotMjVUX2lZclBWQmVESEV0NmxmWEJLQUg5eV9BT3JicDd5Q2lMTFBXWDNNdTc5U1M5V1ptM29sYTVCeHR1Q28tM0MzZndsSWlDWUlGYzB1UmEzUDhsRkRKRUxzbnE?oc=5",
+     "date": "2026-11-25T14:20:00.000Z",
+     "text": "Haut hier ein Parksünder auf drei Rädern ab? Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "VW kitzelt beim ID.Cross R-Line etwas mehr PS raus! - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN3BWWWd2YllEZ0NMem9WbnI5NU5KN2Q0eHh0bFBubHdlN3I0dnA2bm0xenNTQVZFWlRKdjU1aVB3WFplQUhBUE1seFRXeElaVjc1M2gzZXZib3JsMlRINnJrbGJqVXBhNlZYWnlYZkdKSnZDVWRsb0djczA2X0Y5RXB6eHBrdFVyYTJacUZCLWdFZw?oc=5",
+     "date": "2026-11-25T11:00:00.000Z",
+     "text": "VW kitzelt beim ID.Cross R-Line etwas mehr PS raus! Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Black Friday: Elektro-Kia mit 204 PS für nur 129 Euro monatlich im Leasing - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmlnTTg3TmVwRGFkTFFtVDFLRFpwYTMxVXVybVpYcW9SSUtCWHdzY1IwSDZVbXkxT0JYQS1nOVlzbjFDeTU3RmxXSm1wZ05KMXRDQlJNNXNKcmdLR3gzWlVGS0JCWERYeWNKbFptek5iS0ZuSG84Q3ZHREYtbGwyZnNfNEFoZjNPajRfc2FVS1dNTkRnNHlic3dNdGI3Z3BCYUJzY2RR?oc=5",
+     "date": "2026-11-25T12:47:00.000Z",
+     "text": "Black Friday: Elektro-Kia mit 204 PS für nur 129 Euro monatlich im Leasing Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Hyundai verlost sieben Neuwagen: exklusiver Hinweis! - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdnc5ekJlSXF0VUdKLUh1M2R3a0pCVTlVa1pRNHJmRTBOalRmdkFkV2tzaEVvQTF5RlJ4Q1JaZjFCajVEWU55MmFLZ0lSR25yOGc1NWhHVTdIdzJlZkhaYlBraFltZnlFSUFWRE5BMUpEblY1M05mY2tIQUtCZGdjUjl4QXVZSHBVR2NJM1hUTGRLZw?oc=5",
+     "date": "2026-11-26T05:32:00.000Z",
+     "text": "Hyundai verlost sieben Neuwagen: exklusiver Hinweis! Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Neues Elektroauto für 53 Euro? Das steckt hinter dem Angebot - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZVpvNVc1Y0ladFJjWEp4VDlPNjIyTElNTDJSQ3lTX1Vfb2lwRzNUV1JENTR3bUlValYxSEVfZGNBSFV3d1pON2VxU0llSlhwYnpyS3l5LV9Ba0hjM0R0SDFrUW9xWTAzOTI1b2xRQTdOeGZXR05pTjY0SkkySkVvVXdFc184d0p6a2FzRDR6MHVPUS1YNVFYd0YyZW5XZThzbDZVQjduRlFKb2p5LXA3bGhGbmlQeTZQaXFjMUJB?oc=5",
+     "date": "2026-11-25T14:29:00.000Z",
+     "text": "Neues Elektroauto für 53 Euro? Das steckt hinter dem Angebot Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "So kommt man(n) mit allem durch: Kommentar zum Comeback von JP Kraemer - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUZncFktTS1xaUhHWFY4a19yTGdXdFB1N0dYakdKaEptRDFpeHNFQ2dHcUxvZFMyRkJVTUR1WVBUWEd2Y0llQXdHbTZRbnF5UExfeEVJNVI2cGJaM3Ezcjh2WTYxZHlhajRETlAzU3hRdkMxaEhxWk41WWFpdjMwcmlUQkIzS2tjcU5NSVB2aHV0ZHFjN0syQk9MQmg1cXNQZ1kwREx1eFZ2M3VULVln?oc=5",
+     "date": "2026-11-25T10:48:00.000Z",
+     "text": "So kommt man(n) mit allem durch: Kommentar zum Comeback von JP Kraemer Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Dreimal in nur sieben Minuten! Audi R8 tappt in die Radarfalle - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLU51Nk12NTZYMmZJMjJkLWRWYUVuQ3l3SjdzN2NlRWhHNmNnTmpYczB2ZUFwMWVSa3ZvbWVqMS1aYV9Bb1pQSUxSSE4xX1RydHFxOGlkb0l5Ti00Z1I2UmlWb3poY1FYUlUtNDN1UDA0cWJ3UndmNWw3aVlrLUw2ZWlsd2dObVFlelBSRjhJRTNtMElQUVRiNGVSNThYQXM?oc=5",
+     "date": "2026-11-26T19:11:00.000Z",
+     "text": "Dreimal in nur sieben Minuten! Audi R8 tappt in die Radarfalle Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Noch 5 Tage für den Kfz-Versicherungswechsel: Das sind die günstigsten Tarife! - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXU3X3c4SlVOaUgxTkRoZ0E1MzI3X1RsZWM1ckhRVEZoelN0bkt1b1JEVUVyVHB0NlBPcmVXTVYwMzRZTXVDeVVybGczVzJEcWJIR21waU9VMk5sbUJvcUFFUGZjWjA2WUJjVWg5cGhiVEQzQ2ZXLVdYa05Bcm9QRXdPMVEwZ2RERDFHMEFSeGk3QmFIUVE?oc=5",
+     "date": "2026-11-26T05:00:00.000Z",
+     "text": "Noch 5 Tage für den Kfz-Versicherungswechsel: Das sind die günstigsten Tarife! Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Allrad-Pick-up mit 163 PS jetzt 11.700 Euro günstiger - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1hNOVh4TC1UNmlIcEtmeXBzZ2xtU0VZNXRDbThzaldwbUhCQWFRZlZLaEhIMFQ1ejQ3bnliUEdraVF6NXd3Njl3bXdjX1RHcWctcFBHRjVHc0VNRUdEa1MtUC1HWW5vZXNiWWRxRFFleXRHOVpQTlRHSDBHdHhWQllocVhjNW5TTUtuYnd3eHNQeFVvU0ZpdENyUUtUclQwTDdpbg?oc=5",
+     "date": "2026-11-25T14:09:00.000Z",
+     "text": "Allrad-Pick-up mit 163 PS jetzt 11.700 Euro günstiger Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Suzuki bringt das Kei-Car nach Deutschland - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3hkUkRaMGpNQktJMjdvLUJQS0hlRzM3RWhzYmFQN0lmZjBIV1hfSmw0b2hJY0FWSE9pWk0ySUFEclVJOEdGX2ZoYUtocy1ycldSVXdPMFdQV2tFM0JlNzBTc2RNOTNhZXpfU24yMWxyWGxId3g0MGNpMXJWbzNOSEZKbEt2Y0lDM0RvWmJJVUFXQmpEQ2NKcjFka3Q4SGQ4cjVEdm1aeWtJd2EyV2NmWnV6NFo3clYzY0N6SjBzVzd4XzFUa0E?oc=5",
+     "date": "2026-11-25T10:17:00.000Z",
+     "text": "Suzuki bringt das Kei-Car nach Deutschland Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Fast 74 Prozent Wertverlust! Dieser Toyota ist spottbillig - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWERETzlnVFdRc1RXMkVnM2toZHlsTUVYV2IxYk9lZVR6MkFCbnQtX3J0alp5VWNIYkJFWkR5QlJEWUR6aGlpYzdjSVlPWlY4bVZreXVWMVFLam1QMDBqTkpJQ0lYNzZGTGNYb3lIRzJtNko3YUF3Y0tvaVhYUURNS3FiWWRhS0trUUkzNjlUaEJMUElxbndjWXJJd1ZEa1k?oc=5",
+     "date": "2026-11-26T12:35:00.000Z",
+     "text": "Fast 74 Prozent Wertverlust! Dieser Toyota ist spottbillig Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Nissan will künftig Carbon durch Ananas ersetzen - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHR3QnBVSGZDTUtmQWR2MnlTcUdPRUpuNi1qV3ZUZ01BTDlSRW90NV84M2tyUThMX0tCRWxTTmN4dktlZHh0X3laYmVaUGdzcjdXWjJkNWRSejgtenpnaXRQeFd4MUF5VWs4QTdmbTVWSWl4bkVOSTlKUXFNallQODlRY09yV2FNYWhuMmM3dGFsWnhXbWNvcElYTlhiOFNmSEEyWGliZU5qN25sOWpkM0F1S1o5b2xJS2RZ?oc=5",
+     "date": "2026-11-25T05:38:00.000Z",
+     "text": "Nissan will künftig Carbon durch Ananas ersetzen Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Diebe klauen Bundeswehr-Mercedes direkt vom Werkstatthof - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcDN4RndhS3JpaFFEWmluOFF5S2RZWkJqczFtYU00QlJQbUtrcVE3dmJLM0dyUjhCMmcyWkFKY3czX1lrTXEtcWNIQ3BIa0ZHRGlQWDhGbThkeTBmc1lTYVJ5aFRhMWtzT1VHaFlhdGlLalVkLUpSb0lJSWw0SlA4b000dkZjYzhXX3ZKbGU5U2ZScFlRdUh2M29OZTg1TWZNZ3BDRg?oc=5",
+     "date": "2026-11-25T11:53:00.000Z",
+     "text": "Diebe klauen Bundeswehr-Mercedes direkt vom Werkstatthof Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Vanlife unter Srom: VW ID.Buzz mit hohem Wertverlust - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUVpRnp1MVQydllKSTFVYkZxZ3dSVHJ0TkxZVm9sUUJGWW5RVHNDMFlMRm40a1Q1SWxMazV1R21Hb3BLbmlyczRQYzI2WWxuQU1RWTJYaHlHdm1uc01sQ0JPTElNMWNnMl9kanFQVFJ6bHVPX19PcFlVUzRrbnlGQUZiRkZJUQ?oc=5",
+     "date": "2026-11-26T07:20:00.000Z",
+     "text": "Vanlife unter Srom: VW ID.Buzz mit hohem Wertverlust Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Dieser Elektro-Kombi kostet keine 18.000 Euro - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRmVQVTVhclBnYUdidml4YmR5Sm5VTGw3UnpNeE5pbUlzYXlRVG1PZl95Q0IyUXY2eEJ3dllGcU9xQzQzT0dwRUxCelJiQ0xtNWU1c2V5ODkxcTVROWcwV3ZQNmNJYXlrN3laZG52enRNakNPSGVXYmxnVWRINzU1UWZ1VmVmbDZIWEd3VEhYVWpJMGZBSlpIMjJHNmM3Y1hMS3NKXzg2U28?oc=5",
+     "date": "2026-11-26T05:24:00.000Z",
+     "text": "Dieser Elektro-Kombi kostet keine 18.000 Euro Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Drei Jahre alter Seat Leon Sportstourer für 19.450 Euro - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMWpWNlBqWXE4TlZoZ0FCSE5DR0ZDYnBldVRXYnk3bnlwdVRZZlNRQW1FYWl3OUtrYmp4WXVqTjdrNHRBTENNYi1JU3I3VWE1cHR3MUpJd3JKdkhnSmpXYlgwOHR0OVFiRTZMMlBpS3pfdTJwYnpoWVhPQTlwRjNOcEVZaF9JMDVUTkJLS3ZrQkhmSExnSC12VHl3?oc=5",
+     "date": "2026-11-26T11:06:00.000Z",
+     "text": "Drei Jahre alter Seat Leon Sportstourer für 19.450 Euro Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Skoda Superb: fast neuer Kombi 11.100 Euro günstiger! - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZENlUkhtb1pRZFBfRzhvWElZM2xLLWhtMFpYXzRpWFZUdjJadmlTMmRLMnRxbGVRUHk5YzhWRWtZaWlKa2lBbkpVaVJpMmlSU3JuenBoUjN3QnExWVljVmx5MzhPaW5XM29BR3VnTDNyMVljOFBLUDA0NUN4alVFZ1dQdGdVVDhOZlJ1MDkwa29ISEZMajlPNDZsOF9SYjhHTVpsRmd4WEp3R0k?oc=5",
+     "date": "2026-11-25T14:40:00.000Z",
+     "text": "Skoda Superb: fast neuer Kombi 11.100 Euro günstiger! Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Peugeot 3008 Hybrid ab 398 Euro \"Monatsflatrate\" - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYXZxRG91U2RCUVpOUkM4WW5jNUhDeDZMbUpZaW5jUDRoZHFkbFZYVDNoZ1FJVjdETjZ0RlF1YWNqWFk4aTRFalpaY21mZWtPVnBZT0FqWkNuekNrRzV5d3p4TkRLRlQ0V0dnVVQ4ZkhpSmZ3RlVxUnVvMExPYS14bS1oMGtDbXFxWGo3N2pB?oc=5",
+     "date": "2026-11-25T13:32:00.000Z",
+     "text": "Peugeot 3008 Hybrid ab 398 Euro \"Monatsflatrate\" Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Assistenzsysteme im Auto: viele Autofahrer genervt - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLUpEVlFJSGlFSEQ4YlRMZU02QlpNbVZNbERaVjdEZndtSnJ5WkRqQV9EdWtlZnZRVlRjN29HMmJUTHduRllzckNPb3hhUjhCc0lXV3M3NUF5OE9rY245Q1ZYR0NfajhVdjhQWks1SG5qdzRFYVl4anZ6aHctMGh3WUdZaGlRVTJPYkFhZG1tcw?oc=5",
+     "date": "2026-11-25T05:12:00.000Z",
+     "text": "Assistenzsysteme im Auto: viele Autofahrer genervt Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Was dieser Youtuber mit einem 3,2-Millionen-Koenigsegg anstellt, tut weh - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNm9aVWRDTmVQMVZzdzJrdTh3dzgyU2ZlVDdnTG1tSGg4UDd5elpVVTVYUE1TQ2hpTkl2WkRsUi02ZE1CcHJiMmRMTkg0LUFlZ19sbTNiaFdTME5wQVpzOGs1bWhJczVlV25GN1J0dHlfWDBsNFk5aFZCTUpYMDk3X1NUWjdmVHhrcEE5c0JjSEhFWlNETWJzcHFmV2ZZaURMVkVOVlFjS24za3hCcDl4Rm1YYjNRdUNHOUFCS3NR?oc=5",
+     "date": "2026-11-26T15:05:00.000Z",
+     "text": "Was dieser Youtuber mit einem 3,2-Millionen-Koenigsegg anstellt, tut weh Autobild.de",
+     "via": "Autobild.de"
+    },
+    {
+     "title": "Black-Deal-Endspurt bis Montag: Toyota Aygo X Hybrid ab 277 Euro im Auto-Abo - Autobild.de",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2ZRS2xlb3pLcl8wdVNIZmlGeE5jTGJqa3lZT2VRMXNIVWVOTm9RaFFaSDdTWGhPZzE1TWI0U2Z3TTUzS2ZyYmFOT3BBNjZMdnpHMEp4YUtUTnQ0RGt0MWEya1dVTmJickpnb05kUDRVNUYyUWo3R284ZDJ0TWFoWXVreHlIMWVWemJXa29NN2tFeVZHU1lyR01Ib3BiWGVEQktiSHp4QzNxVUM2?oc=5",
+     "date": "2026-11-26T10:21:00.000Z",
+     "text": "Black-Deal-Endspurt bis Montag: Toyota Aygo X Hybrid ab 277 Euro im Auto-Abo Autobild.de",
+     "via": "Autobild.de"
+    }
+   ]
   },
   {
    "name": "auto motor und sport (Google News)",
    "ok": true,
    "items": [
+    {
+     "title": "Neuer Dacia Jogger ab 2028: Kommt der 7-Sitzer auch als E-Kombi? - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzBtS2NfODlxR0kwaExKWk14V2ZQN19nei1PbnFEQzZLcUdEVmxtQlB4c3RCUktlM1FKXzU0U2I4Mm9FdUdtVzdFQnFEQnJZNkh4QWhodFVfVUN0UE5YOTJObmZyQzlGa1pxZjBhQWFyWjVmT1FadEN6bjJQS2pzOWlLSlFITUdJNjNwbWxCYjYtZjVjckhLMVpTY3BFcHNQV2kydmU0SDg1WGdvZnc?oc=5",
+     "date": "2026-11-25T10:30:24.000Z",
+     "text": "Neuer Dacia Jogger ab 2028: Kommt der 7-Sitzer auch als E-Kombi? Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Wirtschaftsexperte Schularick: VW an China verkaufen, solange man noch was dafür bekommt - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbHpGeTF2T3h3aFlOLVRvcUZkcGlSX21QTHFaV1JoLWQ5LWJ5SGNmMWl1dVVNa2JPNmt4cS0yTzlRNEJxcWdDMGVHQi00Y3FvRUJfNzMwaWp2bGJ5d3dycEpxMVdqMXpEeEhmaUV6UmhybGhkTGN5cERFc3ZBbkZfbFdGMWNKZmZxVzRleGQtblpmRXhrNVZlZWM5bDBpQXdzdUlGaWtrOFhPLVg5V2dOZUdONVJkLTJwQlVvUU9Da1RsNFZMWElxVGo1V2s?oc=5",
+     "date": "2026-11-25T11:40:24.000Z",
+     "text": "Wirtschaftsexperte Schularick: VW an China verkaufen, solange man noch was dafür bekommt Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
     {
      "title": "Schumacher-Fans aufgepasst: Letzter Ferrari-V10 unterm Hammer - Auto Motor und Sport",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQWpaMWJTdWFtaEc5b1VXbGtTYU45WXdqSndWQlBLejhrbzBjMnAxNFdSWFFMSWJwTml2MUs5dHFmQzFzYnlhUHQ1b3JBdDFMeHlNQTZhOG9sTGgzRGxJMU9lOXhXOHZBcV9Ra3ZGZWdGR1RQa3JVVmtpeHhwM2NRMTVOZw?oc=5",
@@ -206,10 +431,24 @@
      "via": "Auto Motor und Sport"
     },
     {
+     "title": "Regenreifen-Entwicklung für 2027: Was Pirelli wirklich plant - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNm1hSUVEOHFqRE5zYUt1Qy1Sc1N0eDZ4dXNRanBpdVZIM3JEU3YwUW1FSVBYeFZwUENVOWFWNkFxUHlLQXpGSUNTcjNLNFFJYWpvc0JIYXJRWHQtNGg4SkRiWVVXTVpDRUhNYk85VUdQYnFwTkpQbWRxNXc2SEJadXRMbkRZMXdLOFdoaHowdGx0OFZzM3NLRElLUVdDbGZnT3ZSOGNSYTI?oc=5",
+     "date": "2026-11-25T12:05:24.000Z",
+     "text": "Regenreifen-Entwicklung für 2027: Was Pirelli wirklich plant Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
      "title": "Katar-GP 2026: Warum Pirelli nur 27 Runden in Katar erlaubt - Auto Motor und Sport",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMzRSeHFFNDZYVEdFZDJIMFNqTllybmRKVUIzQ2lJUmtoM2p2TTlNUkJoMndmVlV0N3NMQjV1MmVCTDJCVFBPUkdkUV9BbEo2T010aUxMZFRqLWRNYWFkTGU3MTEyY05TbXFUNVRSRGJaMWxQWHJDWThyR0c2WEhlbE1lWElEdFotMXNPQWJ5RXBhVTg2RS1tWDVEaDNhMHhHNjZ3?oc=5",
      "date": "2026-11-26T11:00:29.000Z",
      "text": "Katar-GP 2026: Warum Pirelli nur 27 Runden in Katar erlaubt Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Warum diese zwei Mercedes W124 je 74.890 Euro kosten sollen - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTQ3RmhObWQ3ekEzM0VoYkI5OWp5UXpNaHJPdEh2T3FrYjZiczNybVJRNFphQUZhbjg1T1U1eTdNbTJXQndidmJ0bHh0aVFhVXdjR05ReDNkWmt4dlZOZDdrZ21WOTlWNDZGSTNVZ3FSWFV5ZS01Y2Q3d0xHdDcwV1pudnczZG9kczRDUGVwMHRFZm1QS1BJWmw2cFRscVc0SFppN0Q0dlVCLTVUUUE?oc=5",
+     "date": "2026-11-25T10:50:24.000Z",
+     "text": "Warum diese zwei Mercedes W124 je 74.890 Euro kosten sollen Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
@@ -234,87 +473,10 @@
      "via": "Auto Motor und Sport"
     },
     {
-     "title": "727 km/h: Neuer Rekord für E-Drohne aus Deutschland - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXVNMURaYmdjc2lsalhwN1liX3ZNdmdEYVd6UW5UUHdrM3dPZmVFVDdjbUpiQWJDeXZJWmdyTjg1U3BEMHdmUWRuWXVVY2tHVmxOdGJmbjJObUQtbDNIQTBaOXBSM0xhLWxGTUdQQ1FHeW8wdHFfWUtsdkJDVG5CVTBBSDViYzhSbnpqTDBMelItMjZPMlhMZ0M4S29pSjFKY0tJQ09RT1R4c3R2ajRNQ1dIYw?oc=5",
-     "date": "2026-11-26T11:02:01.000Z",
-     "text": "727 km/h: Neuer Rekord für E-Drohne aus Deutschland Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Wirtschaftsexperte Schularick: VW an China verkaufen, solange man noch was dafür bekommt - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbHpGeTF2T3h3aFlOLVRvcUZkcGlSX21QTHFaV1JoLWQ5LWJ5SGNmMWl1dVVNa2JPNmt4cS0yTzlRNEJxcWdDMGVHQi00Y3FvRUJfNzMwaWp2bGJ5d3dycEpxMVdqMXpEeEhmaUV6UmhybGhkTGN5cERFc3ZBbkZfbFdGMWNKZmZxVzRleGQtblpmRXhrNVZlZWM5bDBpQXdzdUlGaWtrOFhPLVg5V2dOZUdONVJkLTJwQlVvUU9Da1RsNFZMWElxVGo1V2s?oc=5",
-     "date": "2026-11-25T11:40:24.000Z",
-     "text": "Wirtschaftsexperte Schularick: VW an China verkaufen, solange man noch was dafür bekommt Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Sternzeichen Zwillinge: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFFDc1V1S1ZMT0ctbjVDZUNxcUJ4Qk81M2NueGJBblJ1ekJvV1FxbHlTUlBrbFl6cjZnRGV2Y2g2Q19ydXZ6N2pUcEVIQ0Foc05DYzBweElydWVRVEZpLXg4ZEQ0Qk1Lb2xDNnlQS09yX3FfN0REZVYtZnNWbTVaMDJtQ3NoczJn?oc=5",
-     "date": "2026-11-27T00:57:45.000Z",
-     "text": "Sternzeichen Zwillinge: Charakter, Stärken und Fahrstil Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Neuer Dacia Jogger ab 2028: Kommt der 7-Sitzer auch als E-Kombi? - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzBtS2NfODlxR0kwaExKWk14V2ZQN19nei1PbnFEQzZLcUdEVmxtQlB4c3RCUktlM1FKXzU0U2I4Mm9FdUdtVzdFQnFEQnJZNkh4QWhodFVfVUN0UE5YOTJObmZyQzlGa1pxZjBhQWFyWjVmT1FadEN6bjJQS2pzOWlLSlFITUdJNjNwbWxCYjYtZjVjckhLMVpTY3BFcHNQV2kydmU0SDg1WGdvZnc?oc=5",
-     "date": "2026-11-25T10:30:24.000Z",
-     "text": "Neuer Dacia Jogger ab 2028: Kommt der 7-Sitzer auch als E-Kombi? Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Sternzeichen Fische: Charakter, Stärken und Fahrstil - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHAxZ0lJTk4tVS1rd1p1MGdxSEdMQm5rNjBaRTg5LVZoeHowTlpRSmJaRmo1NFdnYng0UkR1cWdYOVBVNDZMVmszM3lTaWFtRVNUYk9fbGRKbDgzQ0VPMVAyYzI4MUdOejRWazA2ZGk0SkJUcGk3aEpoTE9Dd0FsTWUtV2o?oc=5",
-     "date": "2026-11-27T00:35:42.000Z",
-     "text": "Sternzeichen Fische: Charakter, Stärken und Fahrstil Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Regenreifen-Entwicklung für 2027: Was Pirelli wirklich plant - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNm1hSUVEOHFqRE5zYUt1Qy1Sc1N0eDZ4dXNRanBpdVZIM3JEU3YwUW1FSVBYeFZwUENVOWFWNkFxUHlLQXpGSUNTcjNLNFFJYWpvc0JIYXJRWHQtNGg4SkRiWVVXTVpDRUhNYk85VUdQYnFwTkpQbWRxNXc2SEJadXRMbkRZMXdLOFdoaHowdGx0OFZzM3NLRElLUVdDbGZnT3ZSOGNSYTI?oc=5",
-     "date": "2026-11-25T12:05:24.000Z",
-     "text": "Regenreifen-Entwicklung für 2027: Was Pirelli wirklich plant Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Tarifkonflikt bei VW und Mercedes: Die 35-Stunden-Woche wackelt - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2tDWU00NGhDMUp4RWwxQXpBeHlOa2pCLWliRnNSUUxrRlNVT1ItbkV1R1loa1dkd0hLNklPRUdCVzJJdzZ6VlhLb2RBMnlFUHdoTmhoUUE2aGdUVGNkYlAwdVdxTDZzYmZFYy1yaDZpUWM5Um4yZTJYSk1FQ1FXUWVhUG1SSEo2NTVCLVZJdlVWOFNYWHMyLTlPRlZjdw?oc=5",
-     "date": "2026-11-26T10:30:24.000Z",
-     "text": "Tarifkonflikt bei VW und Mercedes: Die 35-Stunden-Woche wackelt Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Warum diese zwei Mercedes W124 je 74.890 Euro kosten sollen - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTQ3RmhObWQ3ekEzM0VoYkI5OWp5UXpNaHJPdEh2T3FrYjZiczNybVJRNFphQUZhbjg1T1U1eTdNbTJXQndidmJ0bHh0aVFhVXdjR05ReDNkWmt4dlZOZDdrZ21WOTlWNDZGSTNVZ3FSWFV5ZS01Y2Q3d0xHdDcwV1pudnczZG9kczRDUGVwMHRFZm1QS1BJWmw2cFRscVc0SFppN0Q0dlVCLTVUUUE?oc=5",
-     "date": "2026-11-25T10:50:24.000Z",
-     "text": "Warum diese zwei Mercedes W124 je 74.890 Euro kosten sollen Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "1.400 Kilometer Reichweite? Renault hat große Pläne für den neuen Rafale - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUNqXzJMczNmU2hqTHY3ckhuR2hIVXU4RTZicGppTjg2Sm1IRjBDQ1IwSjlWU0x1aWowY2pJdDVDSzVmNXBlc20ycmN3ekU4QnB0VVBHZVoybkpVM0wxajRWVXNObzlLOFZRM0wzUmQ5RUMyZXRxN2ZFUzVweWZWWVJ6MldXMDJfcm1Mak9udUFuVi1uZFlraVdQcE9KNTVJWGhFQWliankyTG51Q3c?oc=5",
-     "date": "2026-11-26T08:29:32.000Z",
-     "text": "1.400 Kilometer Reichweite? Renault hat große Pläne für den neuen Rafale Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
      "title": "Mercedes VLE gegen Hyundai Staria Elektro: Luxus-Raumschiffe im Vergleich - Auto Motor und Sport",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONVlCT1AyeTBGclFvcF81cExBSllPeWpXVEY5V0xGQ0gweUc0VHZEeG9aNGlkMlY0SU9pbkktdzVJNnd5OTF5d1NyZi1BenJqRHluZ3duNmFvOEhVTjJneTctRGZFalpEVXlURFZqblNZZ2tHa21FeGVvRFJicUlIU0dtUWYzTlctbmhtNktnbGxvTGRJRGQ5WC1jTEQ1WEFOWEIwUGRsNl91am0xMnpWSVBKMml6clFXSUxWVnRB?oc=5",
      "date": "2026-11-26T09:46:47.000Z",
      "text": "Mercedes VLE gegen Hyundai Staria Elektro: Luxus-Raumschiffe im Vergleich Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Mit dem Tesla Model S P85 über die Alpen: Wie weit reicht der Akku? - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZXBOYUhxeXB1S0h2Y0NmZi1QMF9TamZhRjdYRFNEam1VMS1abThjRVN4UGJXWjU0YnlZbkJQUTZCbFg1VDIwazZ3T0xaVmpUWE1COVo5MThzVF9TLWxrb2FHNmoxSEllZ0xmSzdUVHlSVTd6OFoxQXRKT0tFMEFOY0R1Um1rTlpVUU10aUNuNndDTXFTSUluMk95eXFOWnlERk5BUzI2dUhTNmFwOTBDMmd3VnZDYzQ?oc=5",
-     "date": "2026-11-25T15:00:24.000Z",
-     "text": "Mit dem Tesla Model S P85 über die Alpen: Wie weit reicht der Akku? Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Koenigseggs Rekordjagd, der elektrische Porsche 718 und die L.A. Auto Show - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRy1LNUZaUVQyRlJPazRSTWNYMnJwQWVWVlAzblNqdFJlQjNQeUhlUGk5Tm5XeHZab0VSZFRIbFZvQ3F0Zkp1STdtckZRUGM2QzFRMGJ3NHQwd0hMazc2NjJRMVdoSzJUbkR4MUVKd3ppcmd1MHBDLVNOY1djRnpiZzFyaGVQU0NSRFRYY1JrbXdkYVZCTDNpbHl3?oc=5",
-     "date": "2026-11-26T00:20:24.000Z",
-     "text": "Koenigseggs Rekordjagd, der elektrische Porsche 718 und die L.A. Auto Show Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
@@ -325,10 +487,73 @@
      "via": "Auto Motor und Sport"
     },
     {
+     "title": "727 km/h: Neuer Rekord für E-Drohne aus Deutschland - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXVNMURaYmdjc2lsalhwN1liX3ZNdmdEYVd6UW5UUHdrM3dPZmVFVDdjbUpiQWJDeXZJWmdyTjg1U3BEMHdmUWRuWXVVY2tHVmxOdGJmbjJObUQtbDNIQTBaOXBSM0xhLWxGTUdQQ1FHeW8wdHFfWUtsdkJDVG5CVTBBSDViYzhSbnpqTDBMelItMjZPMlhMZ0M4S29pSjFKY0tJQ09RT1R4c3R2ajRNQ1dIYw?oc=5",
+     "date": "2026-11-26T11:02:01.000Z",
+     "text": "727 km/h: Neuer Rekord für E-Drohne aus Deutschland Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Koenigseggs Rekordjagd, der elektrische Porsche 718 und die L.A. Auto Show - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRy1LNUZaUVQyRlJPazRSTWNYMnJwQWVWVlAzblNqdFJlQjNQeUhlUGk5Tm5XeHZab0VSZFRIbFZvQ3F0Zkp1STdtckZRUGM2QzFRMGJ3NHQwd0hMazc2NjJRMVdoSzJUbkR4MUVKd3ppcmd1MHBDLVNOY1djRnpiZzFyaGVQU0NSRFRYY1JrbXdkYVZCTDNpbHl3?oc=5",
+     "date": "2026-11-26T00:20:24.000Z",
+     "text": "Koenigseggs Rekordjagd, der elektrische Porsche 718 und die L.A. Auto Show Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Mit dem Tesla Model S P85 über die Alpen: Wie weit reicht der Akku? - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZXBOYUhxeXB1S0h2Y0NmZi1QMF9TamZhRjdYRFNEam1VMS1abThjRVN4UGJXWjU0YnlZbkJQUTZCbFg1VDIwazZ3T0xaVmpUWE1COVo5MThzVF9TLWxrb2FHNmoxSEllZ0xmSzdUVHlSVTd6OFoxQXRKT0tFMEFOY0R1Um1rTlpVUU10aUNuNndDTXFTSUluMk95eXFOWnlERk5BUzI2dUhTNmFwOTBDMmd3VnZDYzQ?oc=5",
+     "date": "2026-11-25T15:00:24.000Z",
+     "text": "Mit dem Tesla Model S P85 über die Alpen: Wie weit reicht der Akku? Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Tarifkonflikt bei VW und Mercedes: Die 35-Stunden-Woche wackelt - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2tDWU00NGhDMUp4RWwxQXpBeHlOa2pCLWliRnNSUUxrRlNVT1ItbkV1R1loa1dkd0hLNklPRUdCVzJJdzZ6VlhLb2RBMnlFUHdoTmhoUUE2aGdUVGNkYlAwdVdxTDZzYmZFYy1yaDZpUWM5Um4yZTJYSk1FQ1FXUWVhUG1SSEo2NTVCLVZJdlVWOFNYWHMyLTlPRlZjdw?oc=5",
+     "date": "2026-11-26T10:30:24.000Z",
+     "text": "Tarifkonflikt bei VW und Mercedes: Die 35-Stunden-Woche wackelt Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "1.400 Kilometer Reichweite? Renault hat große Pläne für den neuen Rafale - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUNqXzJMczNmU2hqTHY3ckhuR2hIVXU4RTZicGppTjg2Sm1IRjBDQ1IwSjlWU0x1aWowY2pJdDVDSzVmNXBlc20ycmN3ekU4QnB0VVBHZVoybkpVM0wxajRWVXNObzlLOFZRM0wzUmQ5RUMyZXRxN2ZFUzVweWZWWVJ6MldXMDJfcm1Mak9udUFuVi1uZFlraVdQcE9KNTVJWGhFQWliankyTG51Q3c?oc=5",
+     "date": "2026-11-26T14:40:27.000Z",
+     "text": "1.400 Kilometer Reichweite? Renault hat große Pläne für den neuen Rafale Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Ford Ranger Wolftrak Premiere: Kerniger Pick-up für Arbeit und Freizeit - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2FTeERuWlRpUERRY2dJcEFfTkJ4eWo1dVV1aXZXWmVsV3lUaFhlc2VYY2VrVnNmWHFURXlaY0lzYV9DbFJQY2xkTmtxVmJDMU9aUUk3MFdfVFBScnJKUTd0MEI4SkhLanU0MjNwQkdJVlNNUWdQeVlCbzNwUE9Nc3QxVGNraUo4WUZneHFCc0p6V0RoVTgtZ1oyTE8wUGhIR2xIWWdVU09WNUdkNzRzelVOWUhlWnpXaVE?oc=5",
+     "date": "2026-11-25T13:40:24.000Z",
+     "text": "Ford Ranger Wolftrak Premiere: Kerniger Pick-up für Arbeit und Freizeit Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Ab 15 mit AM unterwegs: Was Cavaliers Eingriff beim Fiat Topolino rechtlich bedeutet - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHdac3BxeEt6UzRURnNwZ1BDNk1fMEFNV1dFbmd1cDlrTXdLUVBKRmZObVBwMjhkUXdQekJ4MmFFSzBMVjJnb2V4eVV2OElIZWE3R0xfR2FLWVRDcTdOWE5jdWV6N3dUcW1WYVh2SlU0TXdxMjYxamhRZlRObEtLZnZyS0xITUtxSmVqYUw3ako3LS0zR3oxTzJaMmRIZGNRWTk4Sg?oc=5",
+     "date": "2026-11-25T13:40:24.000Z",
+     "text": "Ab 15 mit AM unterwegs: Was Cavaliers Eingriff beim Fiat Topolino rechtlich bedeutet Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
      "title": "BMW bringt Riesen-Software-Update zum Jahresende: 24 neue und überarbeitete Funktionen - Auto Motor und Sport",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcHBzejE4OEtRSHJrREJRa1dJVGVMV0FEVHJNQlNJc1o4d3ZOUTR6Wi14T1JGOHppZldjRXBwVmNRVktlTWtwMHNIVWN2ekxGY2xKTnZ3b3pONC1JNVJlOThhQ1NrNFdSdF9LVVRidnBHM2wta0NDMVB2c2ZrTTN3T3RpcTB0dWFaS1FYZnVxVXBzX3l0OUw2cWlhdlNsRFlEbzV4SmhrclVlMXZ5Wm5tVnpzSEhkRFdBZjB6MWVOcDh6MDFoR2lNSkZjMm04YURBaUE?oc=5",
      "date": "2026-11-26T12:22:27.000Z",
      "text": "BMW bringt Riesen-Software-Update zum Jahresende: 24 neue und überarbeitete Funktionen Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Honda S2000: Rückruf 17 Jahre nach Produktionsende - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3ZMUGtvQjZtLXN1S1ludHY2MlZEUGFudzBkNDdPZjRsOERuS2pwX3B3SVJybUYwLUxVYWRYU0phQ25YSF9xc29ad0JEakdpdTBLZnpTSHRrRUNGc3dkaWtSVHJiZW1NdnNNcWllWGhmZ29OazlENk9xLTh3RmYteWRVRFdoSTBaY29nN05vVFBwSzE0UnZ5VkZhbkxsREJrWXR2d0RhaEZmckU?oc=5",
+     "date": "2026-11-25T06:40:24.000Z",
+     "text": "Honda S2000: Rückruf 17 Jahre nach Produktionsende Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Ineos lobt die amerikanischen Rahmenbedingungen und plant eine US-Fertigung. - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlA4d1ItVHVadnVyN1JIZGRxa1UyRmFkY3ZvaEJqRG40WTNYWWVTT04wVmw0WmNNd2E0SlgwR2lZSFdIX3FqeUxPUHMtdExQbmdHRFYwT1p4dVVFMHZwenFQT2RhUzhlOFVGUWtpTW01MG00MF9yOEVHLWFjcWRvMG1OVEVRd2dqQWxEQ01ONVg?oc=5",
+     "date": "2026-11-25T15:25:24.000Z",
+     "text": "Ineos lobt die amerikanischen Rahmenbedingungen und plant eine US-Fertigung. Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
@@ -346,6 +571,13 @@
      "via": "Auto Motor und Sport"
     },
     {
+     "title": "VW ID.Cross gefahren - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zZnlDUVc5OHhpdFVBUzlad0dkbTVFaEpyVTVEdjdVY19lYnd0MXBaVi05d0ZRSjlxdG1BWG1JeFRGdnpscTRfdEIzTzVzOEVYTGtJMVRxSUY5YXM3dk1xdUh1cXdSeDFHYUFHVzJxR2pqR2Rjb1Rn?oc=5",
+     "date": "2026-11-27T00:11:15.000Z",
+     "text": "VW ID.Cross gefahren Auto Motor und Sport",
+     "via": "Auto Motor und Sport"
+    },
+    {
      "title": "Amazon Black Week Deals 2026: 5 Fahrradträger von Thule - Auto Motor und Sport",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTTBfTDNKZW5aYjlJaVBpSXRmSFJtTWF2VHhRaVZmQ1ptbEFkbWJCU1lYckNKeUduakFZTy1sZ1FLQWRfYmxzT29fRU1xVElTbUttZHNDRzNoTFRKa0pzaHgwYnBwUzJ1V3RkdEg5VmoyX19VWHJyRFg1VGRHVlRZWTdqeHBlcjNFeU0ybEZUdUhBMU1aTmZvbFAwUkpWYjhSMXc?oc=5",
      "date": "2026-11-26T05:54:42.000Z",
@@ -360,17 +592,17 @@
      "via": "Auto Motor und Sport"
     },
     {
-     "title": "VW ID.Cross gefahren - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zZnlDUVc5OHhpdFVBUzlad0dkbTVFaEpyVTVEdjdVY19lYnd0MXBaVi05d0ZRSjlxdG1BWG1JeFRGdnpscTRfdEIzTzVzOEVYTGtJMVRxSUY5YXM3dk1xdUh1cXdSeDFHYUFHVzJxR2pqR2Rjb1Rn?oc=5",
-     "date": "2026-11-27T00:11:15.000Z",
-     "text": "VW ID.Cross gefahren Auto Motor und Sport",
+     "title": "Seat Leon Mildhybrid: Mehr Power dank Euro 7 - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUTZqcHlNN0FHMmpjbU41bEZiU0xGN3pDU1hlMVhuUnhRNUgtaW9mWGlsaW1pbUMwSmNHenU0blVYQ3RrQVdpYmRnQURrWlpjbmgtNzRZWFB2YW05cHFzb3VZbXEyOXBuWlEwSnFaejVsMUw1ZUt6bERiVmhKSkpvZFVLSWVBYUZ5bkpVRTNURzN5TUlU?oc=5",
+     "date": "2026-11-25T14:30:24.000Z",
+     "text": "Seat Leon Mildhybrid: Mehr Power dank Euro 7 Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
-     "title": "Ford Ranger Wolftrak Premiere: Kerniger Pick-up für Arbeit und Freizeit - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2FTeERuWlRpUERRY2dJcEFfTkJ4eWo1dVV1aXZXWmVsV3lUaFhlc2VYY2VrVnNmWHFURXlaY0lzYV9DbFJQY2xkTmtxVmJDMU9aUUk3MFdfVFBScnJKUTd0MEI4SkhLanU0MjNwQkdJVlNNUWdQeVlCbzNwUE9Nc3QxVGNraUo4WUZneHFCc0p6V0RoVTgtZ1oyTE8wUGhIR2xIWWdVU09WNUdkNzRzelVOWUhlWnpXaVE?oc=5",
-     "date": "2026-11-25T13:40:24.000Z",
-     "text": "Ford Ranger Wolftrak Premiere: Kerniger Pick-up für Arbeit und Freizeit Auto Motor und Sport",
+     "title": "Beim Audi A8 50 TDI D5 hängt die Dieselrechnung nicht nur von 7,0 Litern WLTP ab - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNl9nOVBvLTNrSjNGUVlQVEE3M081bkVNV0ppQjdFa0ZpMFY1djN5MmNFN2RleFBSblI2N0NRSDdNbE5iZTVEclkxanpjdGF3czdjMFZrUF9qNHU2QmF6THk3ZFdfQ3BvS0RCN1c3cHZJSnVaQmhIQ2lqWkpIMXRzLUFYTV9yTjJDbVFDSVpLSUxBLXlLY3dzTmM0a2NGNThwVmdRbk9mOEM5VDRZdFctNDBaM28zWHBwTnlpMg?oc=5",
+     "date": "2026-11-25T15:00:24.000Z",
+     "text": "Beim Audi A8 50 TDI D5 hängt die Dieselrechnung nicht nur von 7,0 Litern WLTP ab Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     },
     {
@@ -381,31 +613,10 @@
      "via": "Auto Motor und Sport"
     },
     {
-     "title": "7.000 Tonnen Diesel an Bord: Tanker \"Med Emre“ kentert vor Ibiza - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTBvMThzNW5uOU9MVS0tZ0F4VFJSa2haejlVLUZ3S1Rub0ZUUjJxX05BanRiX1VHZEYxaVNwT0lLZ3JMOWtlaXRtYXdWMllrUnpmWjRVLU9qV1UxZlhZVlhpUGluZHhmQVZTd2w0elJ5a2QxVzBwMkk5RURxaVVvTWlMWVhmRExpLTU1WXZidzJOUDlBUnJ4clRPNmN0R0p3cndScHNLd2tMZw?oc=5",
-     "date": "2026-11-26T11:08:16.000Z",
-     "text": "7.000 Tonnen Diesel an Bord: Tanker \"Med Emre“ kentert vor Ibiza Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "KGM Tivoli Limited 50-Sondermodell: Ausstattung voll, Preis niedrig, Haken einer - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObXdELWRQVF9pVWZJRmFfLUVyNlN6enNYVjNHckZaaVYwOFY5dUdCUmFLV1NHZktEamVwYXcwT2VQU0VaR1ZkaUtRMU1HbUxRdUR0dFZuN2dDRGNwQXo3M0VfUnhIZDR1OWduOWRpb09ma3VsZWdkQWh2VlhjNGFPdEtXMUx6Ml9tbldkbkd4MmZFQk12V0tabkVybUQ3d084LVVEV29OdWxOSzUzM1dHRXRxUzFEWHpETGNpUkVuaUZVUQ?oc=5",
-     "date": "2026-11-26T10:30:24.000Z",
-     "text": "KGM Tivoli Limited 50-Sondermodell: Ausstattung voll, Preis niedrig, Haken einer Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Ineos lobt die amerikanischen Rahmenbedingungen und plant eine US-Fertigung. - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlA4d1ItVHVadnVyN1JIZGRxa1UyRmFkY3ZvaEJqRG40WTNYWWVTT04wVmw0WmNNd2E0SlgwR2lZSFdIX3FqeUxPUHMtdExQbmdHRFYwT1p4dVVFMHZwenFQT2RhUzhlOFVGUWtpTW01MG00MF9yOEVHLWFjcWRvMG1OVEVRd2dqQWxEQ01ONVg?oc=5",
-     "date": "2026-11-25T15:25:24.000Z",
-     "text": "Ineos lobt die amerikanischen Rahmenbedingungen und plant eine US-Fertigung. Auto Motor und Sport",
-     "via": "Auto Motor und Sport"
-    },
-    {
-     "title": "Hyundai Ioniq V bekommt einen Benziner als Stromgenerator - Auto Motor und Sport",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTdsUUU0S0VEZkpNaUJmbVh4UHFGU0dzdG9pM09ueF93U3ctWWtyQUNtR1RaSnZfaE85UFFqaXNXSHlXaktxMmtvNjJ3aFdlMF9DeHRZcEdRd0QyTS1wT2xpV1N4TnJEYXhTYjdCdXUwNk1tLWNqQWhnM0E4U1ltT2Ric0xZV1VDSW9icmtBdmh0Um1pOUpiXzI5MVVYdzZuOE9KU2pZSzd6aHZWb2FWWE5SN3VzNnowY2cxemFNLWY?oc=5",
-     "date": "2026-11-26T14:13:08.000Z",
-     "text": "Hyundai Ioniq V bekommt einen Benziner als Stromgenerator Auto Motor und Sport",
+     "title": "Was die geplante Stromsteuersenkung bei 2.700 kWh Wallbox-Strom bedeuten würde. - Auto Motor und Sport",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXFjYXJLaS1DSm9LOVJ6Vk1hUWRtOF9Ibzl2MlhoTWVRMV9FNmZUcHY5WTVqd2swejdKTXhEWVkyNHlXLWpEb1p5TTNhWVlFYURIdFlkdHRvRDU2YWlrWmJVWTh6bEQyeWZvV1JvUXMxQVJMOWV3aWdNQW0xdVh0QWtoUnUxNXFPZ3h4OGZ1eGMtSXBkdm84NDJnWmNwXzNKZWlTQTR0RWdhUQ?oc=5",
+     "date": "2026-11-25T09:35:24.000Z",
+     "text": "Was die geplante Stromsteuersenkung bei 2.700 kWh Wallbox-Strom bedeuten würde. Auto Motor und Sport",
      "via": "Auto Motor und Sport"
     }
    ]
@@ -989,6 +1200,12 @@
    "ok": true,
    "items": [
     {
+     "title": "Geheimpapier zur EU-Chatkontrolle: Warum es jetzt auf Justizministerin Hubig ankommt",
+     "url": "https://nius.de/politik/geheimpapier-eu-chatkontrolle-justizministerin-hubig",
+     "date": "2026-11-27T03:00:38.000Z",
+     "text": "Die umstrittene EU-Chatkontrolle geht in die entscheidende Verhandlungsphase – und die irische Ratspräsidentschaft greift zu einem ungewöhnlichen Mittel: Wie aus einem vertraulichen diplomatischen Bericht hervorgeht, der NIUS vorliegt, will sie nun die Fraktionsvorsitzenden des Europaparlaments direkt in die Verhandlungen einbinden."
+    },
+    {
      "title": "Wie die Politik zum Nachteil der AfD seit Jahren die Spielregeln verändert",
      "url": "https://nius.de/analyse/afd-politik-spielregeln-veraendert",
      "date": "2026-11-27T02:00:38.000Z",
@@ -1161,12 +1378,6 @@
      "url": "https://nius.de/politik/union-spd-rente-mit-63",
      "date": "2026-11-25T20:13:52.000Z",
      "text": "Im Streit um die abschlagsfreie Frühverrentung nach 45 Beitragsjahren – besser bekannt als „Rente mit 63“ – hat die Unionsfraktion der SPD einen Kompromiss vorgeschlagen."
-    },
-    {
-     "title": "Linke wollte jüdischen Redner bei Meinungsfreiheits-Konferenz canceln",
-     "url": "https://nius.de/nachrichten/eu-konferenz-meinungsfreiheit",
-     "date": "2026-11-25T19:02:24.000Z",
-     "text": "Cancel-Versuch und Sabotage: Wirbel um eine Veranstaltung zum Thema Meinungsfreiheit im EU-Parlament ."
     }
    ]
   },
@@ -1273,11 +1484,39 @@
    "ok": true,
    "items": [
     {
+     "title": "Lkw-Markt im Umbruch: OEM müssen E-Lkw-Restwert sichern - Eurotransport",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWEySzA4d3dZVDRUX1dkNWZPbE5Mb2hOYzdYQ3gyMnIzTDNzd2p3ZmxPRVdQamlOYXowUko3bl83TjNjZE9rdkcyY09WS085NWRXQUE1MUJ6el9wXzltaTRnN2Y0b0VVSTBpUG03OWxSbXg3OWF3dUFGTWpEamsxb0tEVE5HRklZT3lCZEtRVEwxNnVpQ3M5Y2hrWEFQR2l3V3dlTXo2VERpZw?oc=5",
+     "date": "2026-11-26T11:35:54.000Z",
+     "text": "Lkw-Markt im Umbruch: OEM müssen E-Lkw-Restwert sichern Eurotransport",
+     "via": "Eurotransport"
+    },
+    {
+     "title": "Der Tesla Cybertruck ist ein begehrtes Sammlerstück auf dem Gebrauchtwagenmarkt. - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdENnbnVtTFFzZEpDYWV4bnE2WVRJQ242WGVOVk5DWWdPU2RjUDBuRDNwMnE3SGRxMnVWaVhobHBhNV9WQ3p0VGN0Wmk5WllHeE52R3BfT2VwTzZER0oxSkZLY2wzdjFRSHh1Yk5iYjBJWTduLXdzei1BMml6VjFLc2ROdVVwQQ?oc=5",
+     "date": "2026-11-27T01:53:18.000Z",
+     "text": "Der Tesla Cybertruck ist ein begehrtes Sammlerstück auf dem Gebrauchtwagenmarkt. Vietnam.vn",
+     "via": "Vietnam.vn"
+    },
+    {
      "title": "AUTO1 Group Price Index: Rückgang der Gebrauchtwagenpreise in Europa verlangsamt sich im November weiter - MarketScreener Deutschland",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPU3pHQV9JOHFUUm4zbmpLbUF0Rnd6Z01SNUk3UlZhb3pRWWp2a0FvcjRFakdGRVBaVHZzdlhZWk9aZmt4amRoTHg0Szg5VmlrdlpJTnBQX1BQX0RfSENVcE5DaHY4VmtIWEZiLUstc2dIRllQUzltcFJncG9sQUdwN0RTa3FzMzd3NnUyWDVnVnkwOEdoQkxRZ09lZ0o5ZXk5dmFlNElKYTlqdUllVE1XYUJTR21RVEVpbWoyNFc4bFlGaEtXVk9xMjFOcEZsMm9oN1VoZHNFaDVLTGZxTV9DcXlZTTl0UEh6bFptaFUtY0VDWVJtTXNRUkZR?oc=5",
      "date": "2026-11-26T08:07:08.000Z",
      "text": "AUTO1 Group Price Index: Rückgang der Gebrauchtwagenpreise in Europa verlangsamt sich im November weiter MarketScreener Deutschland",
      "via": "MarketScreener Deutschland"
+    },
+    {
+     "title": "Earnings Call: Zeda verzeichnet Gewinnrückgang im Geschäftsjahr 2026 – Schwacher Gebrauchtwagenmarkt belastet - Investing.com Deutsch",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVzItV1dUOWZIVFg5ZmlUY3dsem9yc0pvOUw0U18xcjJJc0xONlo3RklxRnk2bTlZX190RFd5NTVBNjBfaUZtaFdoY2EwT2NzN2FLZVRoUW1jcTVRUzJrVmx5R1JYV3UwenV0VFAxdkNCNWdqWkI3QThwVWt2NlJhcXk2dW9CU2lIcUMtZGw5OUpVS25MTUpUbjVTMnlIdlhOZlZuWWIydkxKbmhiY0RiT0Rra0lmQmVLb1U4ekVzT0F2cnljd2Q0TnBwbWpOS2dvT29rNENCUWI3OXhpeVZySzN2Z0RnRUEwNjRtRk10WEFhSkl5?oc=5",
+     "date": "2026-11-24T10:15:00.000Z",
+     "text": "Earnings Call: Zeda verzeichnet Gewinnrückgang im Geschäftsjahr 2026 – Schwacher Gebrauchtwagenmarkt belastet Investing.com Deutsch",
+     "via": "Investing.com Deutsch"
+    },
+    {
+     "title": "Thanh Hoa: Der Gebrauchtwagenmarkt bleibt zum Jahresende hin träge. - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV094Vkx2VV9lSXNHaGFTb2llTVpNOFZWU1JzeGhGV0c5ZmJNYkk0ekcyaFA0cmhmRGtFYmItUXowU3NMZTVVNXZFSzVkTzd0TzFjZDBPTDFnc2w2MHJCOHpaQ1FzZDlVbGNQczJySWRpcklYU2MycVFzbzRUQ0hkTlcyYw?oc=5",
+     "date": "2026-11-23T11:19:39.000Z",
+     "text": "Thanh Hoa: Der Gebrauchtwagenmarkt bleibt zum Jahresende hin träge. Vietnam.vn",
+     "via": "Vietnam.vn"
     }
    ]
   },
@@ -1293,25 +1532,18 @@
      "via": "Porsche Newsroom"
     },
     {
-     "title": "Der Porsche 911 GT3 R feiert 2026 weltweit Titelgewinne und Rennsiege - Porsche Newsroom",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2o4aHhLX0JxTkVpZzZKOGN6Zzlpa1NQZDRTRGtuN3VCYWEzd3VLakpBSHkzOTVfem4tVjVmRG5NM0FiOWpyRDJjUXZncTVuenlzVlhFTTIzTzRwQ0h5enRXYk4yci1OYWJEeWYxR0dfNEsyVGJqUV9QUFMtbm1rV0ExQnIyVWVKYVRmSnlZaFpXaWhuZlNF?oc=5",
-     "date": "2026-11-25T08:01:05.000Z",
-     "text": "Der Porsche 911 GT3 R feiert 2026 weltweit Titelgewinne und Rennsiege Porsche Newsroom",
-     "via": "Porsche Newsroom"
-    },
-    {
-     "title": "Hochemotionales Fahrerlebnis: Entwicklung des ersten vollelektrischen 718 Boxster auf der Zielgeraden - Porsche Newsroom",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNzdzd2NNbklkcEVxbU1xaGM2TGhXa0E3NkJRMF8zNjM2REdPVEk5bzFPdFlzOFB0bWlJZy10X3dfcndRWlFhclg1ZWI3RnBWb2R6ZzN0UkxiT3dpY1JTX2RpZ3BLRHA4QllvM1VDeFl4TDJMNmdaZ21xZU5YcXpDWDZJdnhPNWhVTC1MTHd4eVBNTnlDNzhvMU5QSEJiX3JWVlo2VDNVODc?oc=5",
-     "date": "2026-11-25T11:11:27.000Z",
-     "text": "Hochemotionales Fahrerlebnis: Entwicklung des ersten vollelektrischen 718 Boxster auf der Zielgeraden Porsche Newsroom",
-     "via": "Porsche Newsroom"
-    },
-    {
      "title": "Hommage an eine Legende - Porsche 911 GT3: Ein Unikat mit Rennsportgeschichte - LEADERSNET.de",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONFB1OXBVT01BTVdQOE9UWWZtWWFROS1WTkloa2lYdC1uRzNWQ3NKam4yd042YmlESGdqS3dlSkp0SzFGQlhPSmJMTl9PWHNhTFJrNEhmd0wwUmY2ZFd3bWhCbXY2VFhVVzJ4U3FGUWdCVml1SlZwWk1Kdm1PejVSMHcwTmpLdE5qSUdMa0licHVPWTN2bmk2OQ?oc=5",
      "date": "2026-11-26T05:55:00.000Z",
      "text": "Hommage an eine Legende - Porsche 911 GT3: Ein Unikat mit Rennsportgeschichte LEADERSNET.de",
      "via": "LEADERSNET.de"
+    },
+    {
+     "title": "Der Porsche 911 GT3 R feiert 2026 weltweit Titelgewinne und Rennsiege - Porsche Newsroom",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2o4aHhLX0JxTkVpZzZKOGN6Zzlpa1NQZDRTRGtuN3VCYWEzd3VLakpBSHkzOTVfem4tVjVmRG5NM0FiOWpyRDJjUXZncTVuenlzVlhFTTIzTzRwQ0h5enRXYk4yci1OYWJEeWYxR0dfNEsyVGJqUV9QUFMtbm1rV0ExQnIyVWVKYVRmSnlZaFpXaWhuZlNF?oc=5",
+     "date": "2026-11-25T08:01:05.000Z",
+     "text": "Der Porsche 911 GT3 R feiert 2026 weltweit Titelgewinne und Rennsiege Porsche Newsroom",
+     "via": "Porsche Newsroom"
     },
     {
      "title": "Porsche 911, BMW M4 und Mercedes-AMG GT im Vergleich - autorevue.at",
@@ -1333,6 +1565,20 @@
      "date": "2026-11-26T05:00:46.000Z",
      "text": "Porsche 911 GT3 würdigt den GT1-Sieg in Zhuhai Tuningblog",
      "via": "Tuningblog"
+    },
+    {
+     "title": "435 PS und leichter als ein Porsche 911: Chinas Elektro-Roadster SC01 bekommt eigene Fabrik in Europa - Netzwelt",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2RMbklpMExCQnBTV0N3WDFRblhYRTUyV1Z2d3pjMjA2d2J0dVpETlZHMWp2bllrUUFJSE43MDV6MnBEWXdnRFZHb0VoaVZWSzdNa2RqQzFSX0FMS2FYOUlfZUlDeEVrY21PQk1CenZ0ek9jS1VjNjlSTEZXY2hMeXFmZkVPZE9QZEdLNWN4bjBXRGpkQnBxbmVwejAxdVU2bTRNbUhPb29ldUV1ZzIwUkxfZ09qUFZGSmtrTUxuTDh0Nk95?oc=5",
+     "date": "2026-11-23T16:02:26.000Z",
+     "text": "435 PS und leichter als ein Porsche 911: Chinas Elektro-Roadster SC01 bekommt eigene Fabrik in Europa Netzwelt",
+     "via": "Netzwelt"
+    },
+    {
+     "title": "Hochemotionales Fahrerlebnis: Entwicklung des ersten vollelektrischen 718 Boxster auf der Zielgeraden - Porsche Newsroom",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNzdzd2NNbklkcEVxbU1xaGM2TGhXa0E3NkJRMF8zNjM2REdPVEk5bzFPdFlzOFB0bWlJZy10X3dfcndRWlFhclg1ZWI3RnBWb2R6ZzN0UkxiT3dpY1JTX2RpZ3BLRHA4QllvM1VDeFl4TDJMNmdaZ21xZU5YcXpDWDZJdnhPNWhVTC1MTHd4eVBNTnlDNzhvMU5QSEJiX3JWVlo2VDNVODc?oc=5",
+     "date": "2026-11-25T11:11:27.000Z",
+     "text": "Hochemotionales Fahrerlebnis: Entwicklung des ersten vollelektrischen 718 Boxster auf der Zielgeraden Porsche Newsroom",
+     "via": "Porsche Newsroom"
     },
     {
      "title": "Porsche 718 Boxster in Bildern - Netzwelt",
@@ -1377,13 +1623,6 @@
      "via": "Tuningblog"
     },
     {
-     "title": "GTA 6: Alle Autos (Liste, Bilder & Fundorte) - Giga",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnh4ZU1ocWF4TkJBZ2FDTV9OYU1oVzBBTU9WX2t3T0F2bmRIZnNZdmVKdFV3VHFCb2N0NEJhek5yZ3dtZlE4LXZJUjNHU0tqR1JWaVV0c3FKejM0TDhxbkZHRWZOUEYyUUJES2NNYUNUWWR5elFZTFVnSmllN0JxeVBpb1N0VnNuWUdyQ3dlNXN0eUFvendj?oc=5",
-     "date": "2026-11-26T09:24:03.000Z",
-     "text": "GTA 6: Alle Autos (Liste, Bilder & Fundorte) Giga",
-     "via": "Giga"
-    },
-    {
      "title": "Fast 2,5 Tonnen schwer, aber agil wie ein Sportwagen - Wir sind die neue Mercedes-Benz C-Klasse elektrisch gefahren - carwow.de",
      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdXVWcVNJTlVGZ01ucVpLUnpLQS05MUoxNl9LQ1JNTmV2NDBacDctR2xHMWt6djV2eDNhQk9LWWdHWHROcENZSWVkTmN3eTNOelRud0VwTFVYNjNxaFpSME1NU3ZqajE4ak0wQVoySnpSVlZ5aG94Z3BkUlV4Mk9HM1ljY0NXNXJxVGJwNjBXREhRQmhtTU5aZ1B4YWw4aHhLRTZmS0I2eFFqMnFWcEg1SEkyWVNIbjdrZ0NSdmJpcXVDOTdCdG93cHZCS01XT3ktXzA4aGs1XzEtU2lCaWUzbll2Q2hQbDhrTTZJTjRDWjRmMTRsVGI4Z0hrVENLaURMY1hBMHg4Zjg3M0VjV1JwSUxzSUNOZk43LVE?oc=5",
      "date": "2026-11-25T07:00:00.000Z",
@@ -1391,11 +1630,11 @@
      "via": "carwow.de"
     },
     {
-     "title": "Vom Sportwagen zum Kinderwagen: Mercedes bringt AMG-Design in den Babyalltag - Wochenblatt Reporter",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGVRbWFhNVZQRHV5MUJWSlJSdmZjVUo0YTZGS3JIWXhjTGdYTEhRc3Y5Ql9rYTktOHgxc0pWTnp1QmxQX1lZMWhCdzBqNEs5cDN6QXJFRjJ0dWZ5WUxsSDBhNGpzd3N0bmEza2w1d0lfX3VxVzFUMTlFVTFWXzN0LS1XZTR2ZUxMUGZ3UVl2OUxfem1YSU9TQUUzckpxaHNhY2xjcVVvZUlIbTVLelM3TXlWRTkyTGp0dXl3ZTU1Q3J5MDJDaDNycFh3?oc=5",
-     "date": "2026-11-26T09:24:45.000Z",
-     "text": "Vom Sportwagen zum Kinderwagen: Mercedes bringt AMG-Design in den Babyalltag Wochenblatt Reporter",
-     "via": "Wochenblatt Reporter"
+     "title": "GTA 6: Alle Autos (Liste, Bilder & Fundorte) - Giga",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnh4ZU1ocWF4TkJBZ2FDTV9OYU1oVzBBTU9WX2t3T0F2bmRIZnNZdmVKdFV3VHFCb2N0NEJhek5yZ3dtZlE4LXZJUjNHU0tqR1JWaVV0c3FKejM0TDhxbkZHRWZOUEYyUUJES2NNYUNUWWR5elFZTFVnSmllN0JxeVBpb1N0VnNuWUdyQ3dlNXN0eUFvendj?oc=5",
+     "date": "2026-11-26T09:24:03.000Z",
+     "text": "GTA 6: Alle Autos (Liste, Bilder & Fundorte) Giga",
+     "via": "Giga"
     },
     {
      "title": "Dieser Elektro-Porsche schaltet wie ein echter Sportwagen! - Autobild.de",
@@ -1403,6 +1642,13 @@
      "date": "2026-11-24T15:01:00.000Z",
      "text": "Dieser Elektro-Porsche schaltet wie ein echter Sportwagen! Autobild.de",
      "via": "Autobild.de"
+    },
+    {
+     "title": "Vom Sportwagen zum Kinderwagen: Mercedes bringt AMG-Design in den Babyalltag - Wochenblatt Reporter",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGVRbWFhNVZQRHV5MUJWSlJSdmZjVUo0YTZGS3JIWXhjTGdYTEhRc3Y5Ql9rYTktOHgxc0pWTnp1QmxQX1lZMWhCdzBqNEs5cDN6QXJFRjJ0dWZ5WUxsSDBhNGpzd3N0bmEza2w1d0lfX3VxVzFUMTlFVTFWXzN0LS1XZTR2ZUxMUGZ3UVl2OUxfem1YSU9TQUUzckpxaHNhY2xjcVVvZUlIbTVLelM3TXlWRTkyTGp0dXl3ZTU1Q3J5MDJDaDNycFh3?oc=5",
+     "date": "2026-11-26T09:24:45.000Z",
+     "text": "Vom Sportwagen zum Kinderwagen: Mercedes bringt AMG-Design in den Babyalltag Wochenblatt Reporter",
+     "via": "Wochenblatt Reporter"
     },
     {
      "title": "Für diesen Mercedes sollen Fans einst Blankoschecks geschickt haben – jetzt steht der C111 zum Verkauf - Merkur",
@@ -1482,6 +1728,13 @@
    "ok": true,
    "items": [
     {
+     "title": "Ford GT41: Rückkehr in die FIA-Langstrecken-Weltmeisterschaft und Le Mans 2027 - Ford From the Road",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOV9ZN0R6M0lTSHlJcExwak9qeHAzd045cWNud0tXcWxZMUhTSGNvQUNpMEZrR0k4d3VFNTItRXFqT1ppTUgzd3VEMjIzNjZpWkJMQ2JZcXRZZzdVRkZ4VVppVm1oamxTZFhqY2k2ZVlCV1AwcmE3Wmt0TDdIeDRkalpwUEtCYk56VWJyYTFYaFU2Y19WeDlzOA?oc=5",
+     "date": "2026-11-26T23:50:19.000Z",
+     "text": "Ford GT41: Rückkehr in die FIA-Langstrecken-Weltmeisterschaft und Le Mans 2027 Ford From the Road",
+     "via": "Ford From the Road"
+    },
+    {
      "title": "Ricardo Feller als IMSA-Pilot im \"Rexy\" bestätigt: DTM-Zukunft in Gefahr? - Motorsport-Total.com",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmQ5WXVYMGEyMEVNT2tEdWJUN0RIVW5ieXVlbG43cDRSQlVGT0ZhOEs4MVJRVWs1eHNoeUJuMjRfTzhqem53VkFkTTZNNmhfUTNfNUQ1MGthWmpUMmJUazJPT0J0VFpnLXkwcFVqZDNWRHI3MkdJTHRFNkw4MHBpc1VaaUl3MkVPVGJDUjhTeHpVYmIwWS1VNUdGRnYwb0FfU0dteHNndW9KMHNGYlNjeldQbm9tMVFBWWhvTldB?oc=5",
      "date": "2026-11-26T11:15:00.000Z",
@@ -1489,18 +1742,18 @@
      "via": "Motorsport-Total.com"
     },
     {
-     "title": "Ford GT41: Rückkehr in die FIA-Langstrecken-Weltmeisterschaft und Le Mans 2027 - Motor1.com Deutschland",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwRVNURV9VVGxYd2dLWWNqUTNETjdwQkdrNVFMb1I5bHY3amxtcjhtRVgzeFZtY01wZGpXckhTNTBCRm0yRVg5bEpzaTJ0RzhUQy11YmpocUNFb2Y2cVo2QlZZcnpYampCbTNYWHhHMnE?oc=5",
-     "date": "2026-11-26T18:00:00.000Z",
-     "text": "Ford GT41: Rückkehr in die FIA-Langstrecken-Weltmeisterschaft und Le Mans 2027 Motor1.com Deutschland",
-     "via": "Motor1.com Deutschland"
-    },
-    {
      "title": "Ford zeigt GT41 für Le Mans: So kam das Hypercar zu seinem Namen - Auto Motor und Sport",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMmJwX0tyYmtmM2h0VDVxQUF0Rk5LZXZWN0ljV2U5X0FaSFBGb0lhaTJ2RVY0REVnMk9jUFJZRU9GSHRHeXZmbTZZRHFzU1A2cDN3NUw5dFBJNGxQc043N01TSU5MTW5nUjNneElSSTc2RkVuVXNKdnpZc0xncmcyT2lqUUxTWHJzbGx6VTNoQzhvLUlkaFgw?oc=5",
      "date": "2026-11-26T18:05:24.000Z",
      "text": "Ford zeigt GT41 für Le Mans: So kam das Hypercar zu seinem Namen Auto Motor und Sport",
      "via": "Auto Motor und Sport"
+    },
+    {
+     "title": "Ford GT41: Rückkehr in die FIA-Langstrecken-Weltmeisterschaft und Le Mans 2027 - Motor1.com Deutschland",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwRVNURV9VVGxYd2dLWWNqUTNETjdwQkdrNVFMb1I5bHY3amxtcjhtRVgzeFZtY01wZGpXckhTNTBCRm0yRVg5bEpzaTJ0RzhUQy11YmpocUNFb2Y2cVo2QlZZcnpYampCbTNYWHhHMnE?oc=5",
+     "date": "2026-11-26T18:00:00.000Z",
+     "text": "Ford GT41: Rückkehr in die FIA-Langstrecken-Weltmeisterschaft und Le Mans 2027 Motor1.com Deutschland",
+     "via": "Motor1.com Deutschland"
     },
     {
      "title": "Ford enthüllt GT41 für WEC 2027: Angriff auf Le-Mans-Sieg - Motorsport-Magazin.com",
@@ -1517,13 +1770,6 @@
      "via": "Porsche Newsroom"
     },
     {
-     "title": "Stellantis beendet WEC- und Formel-E-Engagement und stärkt Kundensport - ecomento.de",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcm9QVzYzZ01qM3EzWHBOeXhWSFVuMVQ5RVVUQjNkRXVLY1VXMUFvR0g2LXp4Mkg1REhnQmREUFBkMHV1dDdqcmR0VTR5bFh3WC1nMzFvT2R6Qkp4MTVvWXdmWmw2c2xlUWFPTkQ3WTM1V1ZVZ250TXpmaWFHZDZhWWU3YjlKNFA1YXo0cHRqMU5PRnF6V0xhQTViZFlPczBEQjQxRw?oc=5",
-     "date": "2026-11-26T11:19:32.000Z",
-     "text": "Stellantis beendet WEC- und Formel-E-Engagement und stärkt Kundensport ecomento.de",
-     "via": "ecomento.de"
-    },
-    {
      "title": "Le Mans FC - Lille OSC Wett Tipp & Quoten 28.11.2026 - sport.de",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEozU09xUGJGV3F2TjF5bkN5Uld5OE9xc2U1R2drR0o0RlVkZ0pPQm1nSDh2SWRHWi1SWllqbGJ1U0Y5Vm1jbl9JOVBuQ09aSVJ3R0VIb2pDcmdKQVhfWkxJcWV0QUEyWndYTXJiUzZNQmNzYk9ubnVxTGV3cTJac3FiUHpTUlhZdVViag?oc=5",
      "date": "2026-11-27T00:07:10.000Z",
@@ -1531,11 +1777,25 @@
      "via": "sport.de"
     },
     {
+     "title": "Stellantis beendet WEC- und Formel-E-Engagement und stärkt Kundensport - ecomento.de",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcm9QVzYzZ01qM3EzWHBOeXhWSFVuMVQ5RVVUQjNkRXVLY1VXMUFvR0g2LXp4Mkg1REhnQmREUFBkMHV1dDdqcmR0VTR5bFh3WC1nMzFvT2R6Qkp4MTVvWXdmWmw2c2xlUWFPTkQ3WTM1V1ZVZ250TXpmaWFHZDZhWWU3YjlKNFA1YXo0cHRqMU5PRnF6V0xhQTViZFlPczBEQjQxRw?oc=5",
+     "date": "2026-11-26T11:19:32.000Z",
+     "text": "Stellantis beendet WEC- und Formel-E-Engagement und stärkt Kundensport ecomento.de",
+     "via": "ecomento.de"
+    },
+    {
      "title": "Ford GT41: Filmdebüt für das Le-Mans-Hypercar - Tuningblog",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQazB3R2IyckdHSjk5bjY2NlpaLVpNVnhuSG5iVVI0Z2NiWlAwUXVXNFR4dWhpcE8xYTJuZUFlSktxSjRuOEtJdjJBXzUzbV9GY1hSUU5HdU5ENUJKUUYtWllHY3BvUUZ4LWVpZVhOcjR1Vi1tb2JseEJYMDE4aWk5R3FUNGs?oc=5",
      "date": "2026-11-26T18:33:55.000Z",
      "text": "Ford GT41: Filmdebüt für das Le-Mans-Hypercar Tuningblog",
      "via": "Tuningblog"
+    },
+    {
+     "title": "Davide Rigon: «In FIA WEC geht es um die pure Performance» - SPEEDWEEK.com",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KZllsOTRWOElnRk9jN3BrdG4zRm1ZTHREdmUtV05aNGZWQ1F6cF9tTWtVbDlGaV9MVnFMZzRpeUI5anM3WFdqOXN4bFd1UVdpblZGaVBnY0FhZmVIVDdxWWZOaXdhYkd1Y1lSYktZUjRqMDA?oc=5",
+     "date": "2026-11-25T06:34:24.000Z",
+     "text": "Davide Rigon: «In FIA WEC geht es um die pure Performance» SPEEDWEEK.com",
+     "via": "SPEEDWEEK.com"
     },
     {
      "title": "DTM vor Nennstart für Saison 2027: Neue Teams, neunte Marke, Herstellerwechsel? - Motorsport-Total.com",
@@ -1566,17 +1826,17 @@
      "via": "Motorsport-Total.com"
     },
     {
-     "title": "ADAC GT Masters: HRT verkündet erste Details für 2027 - Motorsport-Total.com",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FNUnFFT1hzMjRNMHlaMHNYQy1MMS1HQnRvd2lwOXJ4TkNqSGhlRDdCNGl4bExEU3ZMWVNGOFhTQ2FjM0hyR09OOE5SRHVyWmF5M2xseWpyYllSLTdrNGZoX051WkNOLTc0NGFqbnVUQmJ2RXhuSDNyNEpNenZOWGhXQXRUeHRLc19NcUlsbU54OFdLaDJYbXRfUEhOdThCTkFQNkcyVHQtaGRCS1YzSHF3?oc=5",
-     "date": "2026-11-26T08:41:10.000Z",
-     "text": "ADAC GT Masters: HRT verkündet erste Details für 2027 Motorsport-Total.com",
-     "via": "Motorsport-Total.com"
-    },
-    {
      "title": "Die Hypercar-Ära der WEC boomt - doch diese Hersteller sind schon wieder weg - Motorsport-Total.com",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenJNMUNOSTZhQzVKa21DX0pHaFRzcnVmYWh4UmVrNHY0NTNJUHhxTHBvUU5ER0J0dkZURTZBbHN6NDF5YXV2NTg0eDRrS0tIRHBsbUxkQjNidUNlZkVXUm00U0NaODFUNTFtTzNEWkhHeU0ySTdfdlZ0Sm1PcUt0ZmZoczhBa3UwcUVPQ18zZW51SHU5UjJ1RHJBY25qMkd0UTUzMFBadkw0Zm12cGNDRmp5dVFYNlNQRU9yS0d2LWNWdVNuWENHVzVjeVRkc0xZZE9ocDNqWmtZb3ZCQWc?oc=5",
      "date": "2026-11-24T13:54:15.000Z",
      "text": "Die Hypercar-Ära der WEC boomt - doch diese Hersteller sind schon wieder weg Motorsport-Total.com",
+     "via": "Motorsport-Total.com"
+    },
+    {
+     "title": "ADAC GT Masters: HRT verkündet erste Details für 2027 - Motorsport-Total.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FNUnFFT1hzMjRNMHlaMHNYQy1MMS1HQnRvd2lwOXJ4TkNqSGhlRDdCNGl4bExEU3ZMWVNGOFhTQ2FjM0hyR09OOE5SRHVyWmF5M2xseWpyYllSLTdrNGZoX051WkNOLTc0NGFqbnVUQmJ2RXhuSDNyNEpNenZOWGhXQXRUeHRLc19NcUlsbU54OFdLaDJYbXRfUEhOdThCTkFQNkcyVHQtaGRCS1YzSHF3?oc=5",
+     "date": "2026-11-26T08:41:10.000Z",
+     "text": "ADAC GT Masters: HRT verkündet erste Details für 2027 Motorsport-Total.com",
      "via": "Motorsport-Total.com"
     },
     {
@@ -1669,27 +1929,6 @@
      "date": "2026-11-25T13:35:10.000Z",
      "text": "Ford Le Mans Hypercar absolviert ersten 30-Stunden-Test Tuningblog",
      "via": "Tuningblog"
-    },
-    {
-     "title": "Stellantis verzichtet bei der WEC und der Formel E auf Peugeot, Citroën und Opel … rettet aber Maserati und Lancia - ItalPassion",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVEIxNHhEcXpwandpZWxqcm5aeG1tZkRSMXMwWkpSQ0RadlRzT3kwWXF6dVNtYThCenRPNk1Obm11ZnhoZWR2RHQ0eHlTdkhMVkltanNKRTV1TTEzZWJIS0JYTkVvcXhETVo2TTJIeHp4WGxDenZiNkN3cVU0SDFZNGl0aE9jNE12Rzc0RXFrZzFqMUlQblRYTVdOQ3dwcVJqcXFlNTRDcm1LTk1QSkNidzFieFB5TERsdm5XLUkzbnVOSGxZZ2tvMkxGOENiNlIwTjBwVzFudjNvLWlUQkpDLTE3RUVLY191?oc=5",
-     "date": "2026-11-26T06:15:12.000Z",
-     "text": "Stellantis verzichtet bei der WEC und der Formel E auf Peugeot, Citroën und Opel … rettet aber Maserati und Lancia ItalPassion",
-     "via": "ItalPassion"
-    },
-    {
-     "title": "Ferrari erneuert die Identität seines 499P für die WEC 2027 - Foro3D",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMF9mMVo2R3RYZFpIbkxLbWFkcTZ2TlJBRDZmT3NvX1NRT0NUb18tYVZfTm52RWxheDZDRGNZVEdIRWIyTXM3TDlxSFBGeThGV3FhRnA4cEprX1BXQ08yZE14eHBFYVd6bWpsWWV1c0M4Um9nSzRWRHBqWndNMklZX3VyQ0ZRY3ZDS1hrbjR3RkhhNWVJWWtTbE55RDBYekU?oc=5",
-     "date": "2026-11-26T17:46:28.000Z",
-     "text": "Ferrari erneuert die Identität seines 499P für die WEC 2027 Foro3D",
-     "via": "Foro3D"
-    },
-    {
-     "title": "Le Mans Classic 2027 öffnet seinen Ticketverkauf am 26. November 2026 - Foro3D",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUhmcThFeHgteXRzN0FhTnlRT0lRV0l3Ymt1NHFVWVI4dFpoOS1ZXzIwWVh6bXUzSENQNzhVOE5yeDNyTzc0WUY3b3Y1Q0tKRHM1MFF5ZjlIdzM2OXM5WjNqZ2lrZ3NXdy1VYzJLc3lWU1NHUFFTaE9DTFh3ZWo1VU1jajkxOXlFenFpd2VmY0NrZUw4VXUyeHlLNU9lR2xJUTlmeEhUbGR0S3lJZ1E?oc=5",
-     "date": "2026-11-24T11:06:33.000Z",
-     "text": "Le Mans Classic 2027 öffnet seinen Ticketverkauf am 26. November 2026 Foro3D",
-     "via": "Foro3D"
     }
    ]
   },
