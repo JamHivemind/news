@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-27T05:22:11.889Z",
+ "fetched": "2026-11-27T05:23:38.403Z",
  "hours": 48,
  "sources": [
   {
@@ -16,9 +16,21 @@
   },
   {
    "name": "Gründerszene",
-   "ok": false,
-   "error": "HTTP 403",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "Philip Morris macht den 150.000 m² großen Berliner Startup-Hub NLND dicht",
+     "url": "https://www.businessinsider.de/gruenderszene/philip-morris-stoppt-nlnd-berlin-startups-trifft-es-ueberraschend/81qvtt8/",
+     "date": "2026-11-26T09:28:49.000Z",
+     "text": "Der Tabakkonzern Philip Morris zieht sich aus seinem Berliner Innovationsprojekt NLND zurück. Das geht aus einem Schreiben von Philip Morris an die Partner und Community-Mitglieder des Projekts hervor, das Gründerszene vorliegt."
+    },
+    {
+     "title": "Wie Startups die Bundeswehr voranbringen sollen",
+     "url": "https://www.businessinsider.de/gruenderszene/bundeswehr-startups-sollen-innovation-bringen/t5czfrz/",
+     "date": "2026-11-26T08:49:00.000Z",
+     "text": "Defense-Tech gehört zum schnellsten Wachstumssektor in Europa. Mehr als sechs Milliarden Euro haben Defense-Startups in diesem Jahr bereits eingesammelt, wie aus dem Report „State of Defence Tech 2026“ im Oktober dieses Jahres hervorgeht."
+    }
+   ]
   },
   {
    "name": "EU-Startups",
