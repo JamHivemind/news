@@ -1,99 +1,121 @@
 {
-  "date": "2026-11-26",
-  "intro": "In Hamburg wird über den Sparkurs und die Proteste junger Menschen gestritten. Dazu geht es um den Hauptbahnhof, das Hamburg Service und das drohende Aus eines Festivals.",
-  "top": [
-    {
-      "title": "Gen-Z-Proteste: Bürgerschaft streitet über Kürzungen",
-      "text": "In der Hamburgischen Bürgerschaft ging es um die Frage, wo bei knappem Geld gespart werden kann. Anlass sind Proteste junger Menschen, die um ihre Zukunft bangen. Die Opposition macht den Senat mitverantwortlich und wirft ihm einen Sparkurs zulasten Jüngerer vor.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/hamburgische-buergerschaft,buergerschaft-210.html",
-      "source": "NDR Hamburg",
-      "category": "Stadt & Politik"
-    },
-    {
-      "title": "Hauptbahnhof: Verlegen oder tunneln gegen den Kollaps",
-      "text": "Für 2040 rechnet man mit 750.000 Fahrgästen am Hauptbahnhof pro Tag. Dann droht Überlastung. Das Abendblatt stellt zwei Wege vor, Fahrgäste und Gleise zu entlasten: den Bahnhof verlegen oder tunneln. Als Vorbild dient Frankfurt.",
-      "url": "https://www.abendblatt.de/hamburg/politik/article413706176/hamburg-hauptbahnhof-zwei-realistische-plaene-um-fahrgaeste-und-gleise-zu-entlasten.html",
-      "source": "Hamburger Abendblatt",
-      "category": "Verkehr"
-    },
-    {
-      "title": "Hamburg Service: Mehr Termine, kürzere Wartezeiten geplant",
-      "text": "Das Hamburg Service soll größere Standorte, mehr Termine und kürzere Wartezeiten bekommen. Senator Dressel hält trotz Kritik an dem Konzept fest. Eine Kundenbefragung habe es laut Stadt bestätigt.",
-      "url": "https://www.abendblatt.de/hamburg/politik/article413775256/behoerdengang-in-hamburg-was-sich-beim-hamburg-service-aendern-soll.html",
-      "source": "Hamburger Abendblatt",
-      "category": "Stadt & Politik"
-    }
-  ],
-  "entries": [
-    {
-      "title": "Altonale vor dem Aus",
-      "summary": "Trotz 200.000 Besuchern ist die Zukunft des Stadtteilfestivals offenbar entschieden: Es steht vor dem Aus. Details nennt die Mopo im verlinkten Beitrag.",
-      "url": "https://www.mopo.de/hamburg/trotz-200000-besuchern-hamburger-festival-vor-dem-aus-entscheidung-ist-gefallen/5105383",
-      "source": "Hamburger Morgenpost",
-      "category": "Kultur & Freizeit"
-    },
-    {
-      "title": "Energiebunker in Altona: Verein beerdigt Projekt endgültig",
-      "summary": "Der Verein KEBAP gibt das Millionenprojekt im Bunker an der Schomburgstraße auf. Das Abendblatt spricht von einem gescheiterten Vorzeigeprojekt.",
-      "url": "https://www.abendblatt.de/hamburg/altona/article413758678/energiebunker-in-altona-verein-kebap-beerdigt-hamburger-vorzeigeprojekt-endgueltig.html",
-      "source": "Hamburger Abendblatt",
-      "category": "Bauen & Wohnen"
-    },
-    {
-      "title": "Sternbrücke: Alter Anstrich enthielt Asbest und Blei",
-      "summary": "Laut einem Medienbericht war die alte Brücke in Altona damit belastet. Beim Zerschneiden könnten die Stoffe freigesetzt worden sein; die Gefahr wird noch geprüft.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/sternbruecken-abriss-gefahr-durch-schadstoffe,kurzehh-5006.html",
-      "source": "NDR Hamburg",
-      "category": "Bauen & Wohnen"
-    },
-    {
-      "title": "Überlastete Gerichte blockieren Wohnungen",
-      "summary": "Nach dem Tod von Mietern dauert es im Schnitt neun Monate, bis Wohnungen wieder vermietet werden. Aktuell stehen 750 Wohnungen leer.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/gerichtsueberlastung-blockiert-wohnraum-in-hamburg,nachlassgerichte-100.html",
-      "source": "NDR Hamburg",
-      "category": "Bauen & Wohnen"
-    },
-    {
-      "title": "Rodung am Hamburger Hafen: „Das nackte Ufer“",
-      "summary": "Die taz berichtet über Rodungsarbeiten am Hafen und ihre Folgen für das Ufer.",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aNUhJSHRWdVB1V3l2Z3RqYWFDNGd1VGkycUZ0ZVg5WDRRMk80M1VmT0tIV3Jwd29HSlVxNlllbVRNbUd4QlZOaFN2TlZqZlQ3dGJvN1pfY2dkWVhNbEtz?oc=5",
-      "source": "taz",
-      "category": "Wirtschaft & Hafen"
-    },
-    {
-      "title": "Circus Roncalli kommt zurück nach Hamburg",
-      "summary": "Nach zwei Jahren gastiert der Zirkus wieder in der Stadt und feiert laut Abendblatt eine besondere Premiere.",
-      "url": "https://www.abendblatt.de/hamburg/hamburg-mitte/article413771241/zirkus-roncalli-kommt-zurueck-nach-hamburg-und-feiert-besondere-premiere.html",
-      "source": "Hamburger Abendblatt",
-      "category": "Kultur & Freizeit"
-    },
-    {
-      "title": "Alstertanne leuchtet mit über 1.000 Lichtern",
-      "summary": "Die Tanne am Neuen Jungfernstieg ist seit 1994 ein weihnachtliches Wahrzeichen. Darsteller des „Großstadtreviers“ halfen bei der Beleuchtung.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/ueber-tausend-lichter-leuchten-auf-der-alstertanne,kurzehh-5002.html",
-      "source": "NDR Hamburg",
-      "category": "Kultur & Freizeit"
-    },
-    {
-      "title": "JazzHall Hamburg erhält bundesweiten APPLAUS-Award",
-      "summary": "Ausgezeichnet wird das Livemusikprogramm der JazzHall.",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTkFLSjhDRXJ0eFZKaHJ3TXdVaGZQcFJQZHBtdnowTENpQkltN0NKeFFYdXVzbHFBQ29JQWh2VWN6akwzQUJZcmNicGx6eTN5VTN3cjUyV3RGNTE1SHBraGxseHEySU9qUzc3VmdrMzFORnVFQ2RRdWx5a2JpV2xaMXQzcDlVdFhlSmhKWlI0QU85bl84MHo4YkpoOThDSmRySkxfNXZ2dDNKTlNQcktOc1dYaDFUdFBGYjViSGk5NlRnX3NEbnIwcWRiSk9wVF9HSy1oN3NMYmpaZGMwN243T3NaODBDVXQzc0VWbjFkTHpaZi1lRUNCaS15emNNb3ltNnFj?oc=5",
-      "source": "hamburg.de",
-      "category": "Kultur & Freizeit"
-    },
-    {
-      "title": "Razzia gegen Jugendgruppe „Terror 18“ – Ermittlungen auch in Hamburg",
-      "summary": "Bei einer bundesweiten Razzia wurden in anderen Ländern drei Jugendliche festgenommen. Auch in Hamburg wird ermittelt.",
-      "url": "https://www.ndr.de/nachrichten/hamburg/rechtsextreme-jugendgruppe-terror-18-ermittlungen-in-hamburg,terror-180.html",
-      "source": "NDR Hamburg",
-      "category": "Polizei & Sicherheit"
-    },
-    {
-      "title": "Edeka-Rückruf: Kartoffeln mit erhöhten Werten",
-      "summary": "Die Kartoffeln weisen erhöhte Werte einer natürlichen Substanz auf, was Beschwerden auslösen kann. Mehrere Handelsketten rufen sie zurück.",
-      "url": "https://www.mopo.de/hamburg/edeka-rueckruf-essen-sie-diese-kartoffeln-auf-keinen-fall/5105288",
-      "source": "Hamburger Morgenpost",
-      "category": "Polizei & Sicherheit"
-    }
-  ]
+ "date": "2026-11-27",
+ "intro": "Hamburg plant dauerhafte Unterkünfte für Geflüchtete statt Hotels, Studierende protestieren gegen Sparpläne, und die HHLA verlässt die Börse. Dazu kommt ein neuer HVV-Fahrplan ab Mitte Dezember.",
+ "top": [
+  {
+   "title": "Senat will 20 dauerhafte Flüchtlingsunterkünfte bauen",
+   "text": "Hamburg will bis 2030 rund 20 feste Unterkünfte für geflüchtete Menschen bauen. Dadurch sollen etwa 7.000 Plätze entstehen. Die Notunterbringung in Hotels soll deutlich sinken.",
+   "category": "Stadt & Politik",
+   "url": "https://www.ndr.de/nachrichten/hamburg/unterbringung-von-gefluechteten-senat-will-20-dauerhafte-unterkuenfte-bauen,hotel-fluechtlinge-100.html",
+   "source": "NDR Hamburg"
+  },
+  {
+   "title": "4.000 protestieren gegen Kürzungen an Hamburgs Hochschulen",
+   "text": "Rund 4.000 Studierende und Beschäftigte der Hochschulen sind durch die Innenstadt gezogen. Die Demonstration blieb friedlich. Sie richtet sich gegen Sparmaßnahmen und den geplanten Abbau von Studienplätzen. NDR nennt mehr als 1.000 Studienplätze weniger.",
+   "category": "Stadt & Politik",
+   "url": "https://www.ndr.de/nachrichten/hamburg/hamburger-hochschulen-protestieren-gegen-sparpolitik,unihamburg-124.html",
+   "source": "NDR Hamburg"
+  },
+  {
+   "title": "HVV ändert Fahrpläne ab 13. Dezember",
+   "text": "Zum Fahrplanwechsel am 13. Dezember ändern sich viele Fahrpläne bei S-Bahn und Bus. Zwischen Bergedorf und Altona fährt dann zum Beispiel wieder eine S2. Auch bei wichtigen Buslinien gibt es Änderungen.",
+   "category": "Verkehr",
+   "tipp": "Vor dem 13. Dezember die eigene Verbindung im HVV-Fahrplan prüfen.",
+   "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-hvv-aendert-viele-fahrplaene-ab-mitte-dezember,hvv-152.html",
+   "source": "NDR Hamburg"
+  }
+ ],
+ "entries": [
+  {
+   "title": "HHLA verlässt nach 19 Jahren die Börse",
+   "summary": "Die verbliebenen Minderheitsaktionäre wurden herausgedrängt. Alle Anteile gehören künftig der Stadt Hamburg und der Reederei MSC. Die Abfindung lag laut 4investors bei 21,16 Euro je Aktie.",
+   "category": "Wirtschaft & Hafen",
+   "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413786912/nach-19-jahren-ist-schluss-hafenkonzern-hhla-verlaesst-die-boerse.html",
+   "source": "Hamburger Abendblatt"
+  },
+  {
+   "title": "Hamburg, Rotterdam und Antwerpen weiten Hafenkooperation aus",
+   "summary": "Die drei Häfen verstärken laut Hamburg.de ihre Zusammenarbeit im Kampf gegen internationale Drogenkriminalität.",
+   "category": "Wirtschaft & Hafen",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbUVxQmxDRTU5bGlpdHBKbnBqVDdSRk1DSlNzZHZOckJtZnhBc3paMW9zX2RJRFVTOW1IdklsN1FEcVAyUWRMT0ZfUHc4Nnh1MkQ2R3dReGVpNkpYbkFlZ0FjZDE2aVBGdS01bW9jLUdqejdFd3FCY0E0czdwZUhTd2J2X2tKOGxTVDRjUHBDQ1hFZGxnV0U3S3VUcEZuOUFXODhDb3FWZWhvUWlvbGlkTVg4T09ucXNwaWY3SQ?oc=5",
+   "source": "shz.de"
+  },
+  {
+   "title": "Hamburgs Hafen verliert in diesem Jahr an Ladung",
+   "summary": "Laut WELT ist die umgeschlagene Ladung im Hafen im laufenden Jahr rückläufig. Details sind im frei lesbaren Teil nicht genannt.",
+   "category": "Wirtschaft & Hafen",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZEtUM1dIZ0l1YnhIX1V3bTZrS3dDTUxWbFBkZmJfZlFWNWlsX1BTSHRXZ3Rmc01HZHF4MGxyOTA0WVlvZkJXTUt0RjhkdThyYUc3UVZGaHN4NWRmYS1SeVRvSHFGTXoySmVhZGlqdFBTVGtKQ2doQ25SbXZhajN0cl96cUNmZHY2UVZ1dVprYTF3SVZYa3VrSUpGVzVaLVoyZ3l5NzdHUWtxN0ZScEtQNXljczFjdl83NWNtZjdQXzVYenBXVnc?oc=5",
+   "source": "WELT"
+  },
+  {
+   "title": "S-Bahn Hamburg: Pünktlichkeit hat abgenommen",
+   "summary": "Bei den Pünktlichkeitswerten der Linien gibt es ein neues Schlusslicht. Dort stehen außerdem bald Gleissperrungen an.",
+   "category": "Verkehr",
+   "url": "https://www.ndr.de/nachrichten/hamburg/puenktlichkeit-bei-hamburgs-s-bahnen-hat-abgenommen,sbahn-220.html",
+   "source": "NDR Hamburg"
+  },
+  {
+   "title": "Elbchaussee soll Mitte Dezember wieder öffnen",
+   "summary": "Die Straße am Hohenzollernring ist seit September voll gesperrt. Laut Hamburg Wasser wird der Verkehr voraussichtlich Mitte Dezember wieder freigegeben.",
+   "category": "Verkehr",
+   "url": "https://www.ndr.de/nachrichten/hamburg/elbchaussee-wird-wieder-fuer-verkehr-geoeffnet,elbchaussee-112.html",
+   "source": "NDR Hamburg"
+  },
+  {
+   "title": "Taskforce Mietwucher übergibt erste Fälle an die Justiz",
+   "summary": "Die vom Senat eingerichtete Taskforce hat die ersten Fälle an die Staatsanwaltschaft übergeben. Der Linken geht das laut NDR nicht weit genug.",
+   "category": "Bauen & Wohnen",
+   "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-taskforce-mietwucher-uebergibt-erste-faelle-an-die-gerichte,kurzehh-5012.html",
+   "source": "NDR Hamburg"
+  },
+  {
+   "title": "Luxuswohnungen an der Alster: Zwangsversteigerung ohne Interesse",
+   "summary": "Nach der Pleite der Firmengruppe von Investor Tomislav Karajica wurden Luxuswohnungen zwangsversteigert. Laut Abendblatt wollte sie keiner haben.",
+   "category": "Bauen & Wohnen",
+   "url": "https://www.abendblatt.de/hamburg/wirtschaft/article413776184/luxuswohnungen-an-der-alster-kommen-unter-den-hammer-und-keiner-will-sie-haben.html",
+   "source": "Hamburger Abendblatt"
+  },
+  {
+   "title": "71 Wohnungen in Steilshoop stehen leer",
+   "summary": "Im Einkaufszentrum und im Ärztetower bleiben 71 Wohnungen wohl schon länger leer. Das Bezirksamt hält sich bedeckt. Außerdem hatte die Feuerwehr dort Brandschutzmängel festgestellt.",
+   "category": "Bauen & Wohnen",
+   "url": "https://www.abendblatt.de/hamburg/wandsbek/article413755728/71-wohnungen-im-ekz-und-aerztetower-steilshoop-stehen-seit-monaten-leer-unfassbar1.html",
+   "source": "Hamburger Abendblatt"
+  },
+  {
+   "title": "Fördergeld für Sassenhof in Schnelsen verfällt",
+   "summary": "Der Bund hatte 2021 Geld für die Sanierung des leerstehenden Hof-Ensembles zugesagt. Es kann nicht rechtzeitig abgerufen werden.",
+   "category": "Bauen & Wohnen",
+   "url": "https://www.ndr.de/nachrichten/hamburg/millionen-foerdergelder-fuer-sassenhof-in-schnelsen-verfallen,sassenhof-112.html",
+   "source": "NDR Hamburg"
+  },
+  {
+   "title": "Hamburger Carlsen Verlag verklagt OpenAI",
+   "summary": "Der Verlag klagt seit August wegen der Kinderbuchfigur „NEINhorn“. Mit ChatGPT sollen sich Bilder und Geschichten der Reihe erstellen lassen. Der Fall könnte für die Buchbranche wegweisend sein.",
+   "category": "Kultur & Freizeit",
+   "url": "https://www.ndr.de/nachrichten/hamburg/neinhorn-hamburger-carlsen-verlag-verklagt-openai,carlsenopenai-100.html",
+   "source": "NDR Hamburg"
+  },
+  {
+   "title": "Altonale gerettet",
+   "summary": "Die MOPO berichtet, was sich für Besucher des Stadtteilfests nach der Rettung ändert.",
+   "category": "Kultur & Freizeit",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjdHc2dLclRTMkdPdjhlMWNoNEQ2NERFU08tbDdpUjZZUVM4UzZuY0ZGWG55cE9pQTlqdVhudU41QzBuWW5mTjJ6OWZCeGpaRFp4SkVIQmlMeVVNUUZfY0Y3ZnVXZE1EZ0tieThzQzlxU1pyUVRXeDNsdU1OclAzdHlJSktZZGJJcWprMHRjckhNeG8?oc=5",
+   "source": "MOPO"
+  },
+  {
+   "title": "St. Pauli hat eine neue Stadionhymne",
+   "summary": "„Wo die Elbe fließt“ hat den Song Contest des Zweitligisten gewonnen.",
+   "category": "Sport",
+   "url": "https://www.ndr.de/sport/fussball/wo-die-elbe-fliesst-ist-st-paulis-neue-stadionhymne,pauli-728.html",
+   "source": "NDR Hamburg"
+  },
+  {
+   "title": "„Terror 18“: Ermittlungen auch in Hamburg",
+   "summary": "Nach einer bundesweiten Razzia gegen eine rechtsextreme Jugendgruppe ermitteln die Behörden auch in Hamburg.",
+   "category": "Polizei & Sicherheit",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzg4dzNfeU41NjRHaDlCZ3h0VEN3bGRTYUtZenZ1dy1xSWcxQmw4ZGhoWVFYUkFJY21Fb0V4U3podzJaQ2lOTmZScTUtbkxOWWFPR21HdlA0UDFueXY5ZHotU1BrandnZ0pmSEJZakM1NWo1dmJVbU0xUnc3NDQ2VTExT3VLSlhXSWJQWWVtQ24yOFJCdWU0eXF6YzJBby1UV0ZTWHl0YzAtX2otQ1hFUl9MWXU0UQ?oc=5",
+   "source": "NDR.de"
+  }
+ ]
 }
