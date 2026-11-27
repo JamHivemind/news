@@ -1,12 +1,75 @@
 {
- "fetched": "2026-11-27T05:17:41.915Z",
+ "fetched": "2026-11-27T05:19:18.655Z",
  "hours": 48,
  "sources": [
   {
    "name": "Google News: Erbschaftsteuer",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "Mathias Döpfner: Die Kunst, rechtzeitig zu verarmen - DIE ZEIT",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWdqSzY1WFFHa3VBLU51empuWUN1SjZPMmJBVHI4S0ZOS3ZvNlM0LXdmQ1AtcVBoNWh2Q2l3amdjc3ZqUVg5OUEwWHdNU0J2dTBDdTFGS2RaWllGSUo0Tlp3UkRsUFh0VE1TYnk3MFBXQlJXMHRWYjNkT2l3b25pWWhR?oc=5",
+     "date": "2026-11-26T12:27:00.000Z",
+     "text": "Mathias Döpfner: Die Kunst, rechtzeitig zu verarmen DIE ZEIT",
+     "via": "DIE ZEIT"
+    },
+    {
+     "title": "Erbschaftsteuer-Trick: Wie Milliardenvermögen fast steuerfrei vererbt werden - Telepolis",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEpJWjU1LWhTbjZnbkVCYTNYcmthQWZHd1VuRUJDWEJ3VGIwX2RvOEkxNGdxZ2t3NVl4RDBtb0pkRU1sVEpFclJyc1BtM3puM0RBVGNSNmo4SmNzU2RLYm5ja0VlcU5WS1ZqOFJXZnl6bDlnWXJaTk5MZmliMjBCemZQbVhZaDQ4cFpqY0N6cElGejRSazRGOUFyRWx4N3B1MXVmVVN6QVBYUk9vZE5OV1VfY1prNDlZdDlpVkQ5WFE?oc=5",
+     "date": "2026-11-26T14:40:00.000Z",
+     "text": "Erbschaftsteuer-Trick: Wie Milliardenvermögen fast steuerfrei vererbt werden Telepolis",
+     "via": "Telepolis"
+    },
+    {
+     "title": "Erbschaftsteuer nach dem Wegzug aus Deutschland | Steuern - Haufe. Intelligenz, die bewegt.",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkxTWlVxNWxBTXlmU0RNcnhQUXpYVlhnUWwzcVZfcXoxZGZpNmJzT1RMbVF6RC03akZsM2tQZkhOcDRZRUgyUEJmMmFSSVhLaG16ajJMdEVSSnFKQ3ZKX0F4eWdUUkR1czdkalFyR3RSWW1DeXV4b0RGa2xKTk1IcFUxMjkzbkIyRFhhb29lR0ZkZkcyN2wwZlU4ZWd1SU5PZW1iWUE3OTRUT005VmhSMg?oc=5",
+     "date": "2026-11-25T06:44:59.000Z",
+     "text": "Erbschaftsteuer nach dem Wegzug aus Deutschland | Steuern Haufe. Intelligenz, die bewegt.",
+     "via": "Haufe. Intelligenz, die bewegt."
+    },
+    {
+     "title": "10-Jahres-Regel: So schenken Eltern ihrem Kind bis zu 800.000 Euro steuerfrei - Merkur",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWJpZmY2VzlLR3ctUklrWTBCdmM5MnF1aDJiMHNjbHhvaUxwMW16MFV4MjM4Y0liWmxsMi1zR281SzhsSHlURUNDanJzNFl2Qy02elJjUkxnZHJIQTBBNzFwclRONXFwM21lQTkwWHdURVhiMnhIZE5jX2tNQUUydXlUVXVoUUd0S0dxRGVncVVaMENoZmJ1LU90TjZfSmZQcWo2WTBGMWRmZndabnc3eTc2T3lLd3ZCQ0NoTGVmMl9oNF9u?oc=5",
+     "date": "2026-11-26T15:32:00.000Z",
+     "text": "10-Jahres-Regel: So schenken Eltern ihrem Kind bis zu 800.000 Euro steuerfrei Merkur",
+     "via": "Merkur"
+    },
+    {
+     "title": "Erbschaftsteuer: Grüne fordern Ende der Verschonungsbedarfsprüfung ab 26 Millionen Euro - EU-Schwerbehinderung",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZEEzaWppZjNOSXVVZXR5NmtIUHZwZjVyV0w3WjJQNlQ1LThpVDRhbU1peEZMNmlKTEh3WWRJNjg5b3pRVHRoMlJGWlJYWWFOS3YtYVZfUTJOUnF0a3JxRkZvYmVpRE40SXFhdEx0bC1rNmhPamdaN09uSHRyWnZkaVdVMDlmLW1JenBweDNudFR3T3VJYWZjOHJ1a2hpNjRmU1NzZ0pOb1RpOWxhY29Ob1Blc2NvakFTVVhkYTVVSm5HYTYtYXFVcWEyNUlvN1NfOWNkaVNSWDJMY0NDR2tlTkg2TWZLT19z?oc=5",
+     "date": "2026-11-26T03:10:00.000Z",
+     "text": "Erbschaftsteuer: Grüne fordern Ende der Verschonungsbedarfsprüfung ab 26 Millionen Euro EU-Schwerbehinderung",
+     "via": "EU-Schwerbehinderung"
+    },
+    {
+     "title": "Erbschaftsteuer: Auslandsvereine unter Prüfung - openPR.de",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlExcHlnX2kyR1JlNWpGektWaUVZN0F0TWVWOFdTc3hIdUJNRnZGQU0zMHdRR01Xd2xKWklHTzJiY1I2M2dSVlBla2E4a3A2eHhaUmluQkM1WU85enFRc1l1aEVzQl91akI4a1M4dTYwTWJ3VWRkR3BHY3hwTlplU0lyQThSX3M5cnJDVjdZOA?oc=5",
+     "date": "2026-11-25T15:30:00.000Z",
+     "text": "Erbschaftsteuer: Auslandsvereine unter Prüfung openPR.de",
+     "via": "openPR.de"
+    },
+    {
+     "title": "„Zutiefst ungerecht“ – Grünen-Fraktionschefin kritisiert Merz wegen Erbschaftsteuer - Schwarzwälder Bote",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPb2RyMXdfQ2owS0ZOdFRGWDc3bXExc092NTVHMHd2WG53MlVjQmtUTGpTN0VwVGhSSTd4a0Yta0phUS05cTR2SkkzQ0FzajdYMkJtaTRLQnU0cFlnTzlGSEtvR0QwekxnemJrRWdMemIyWEZTOUUxRE5mLTZMbkltSUN2aFpLN1B5VHdDQkp1bXlQLUVGVnlfNDRMQkpBbVJNOUNMRHNjQWNaeV9ZeklzcWpoUktpRGpSdGVoVjJLZ0RZV0hfUEtVT1FnWE1pVndnTWx4UEhZWXdyVXNhd3U5RG1VSkFtMHdBcTJmelM0V0tESW92dzlN?oc=5",
+     "date": "2026-11-25T10:35:37.000Z",
+     "text": "„Zutiefst ungerecht“ – Grünen-Fraktionschefin kritisiert Merz wegen Erbschaftsteuer Schwarzwälder Bote",
+     "via": "Schwarzwälder Bote"
+    },
+    {
+     "title": "Steuern für Reiche: Gewerkschaftsbund will Vermögensabgabe »für die Allerreichsten« - DIE ZEIT",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2x6WVpFQ0twTmZkN2lBR0JmSnBONV9DWG5RVkc3NjNYa0dBaHFhZ1BvRTN3LVRfRFBUNV9FQzlPVUFtZ2tkQUJyb3BXNjRNTGN3bVBRZ3B5Znl5Vk5wc29lNlFDQWRXY1JlU3dGS1Z0bE9sdWV3Mm5aOHkyMV9zc1dTdkFTVWNJcFR0eS10d3Z2MDR5dmFkZkNMYmczOFVBb1lNVmF6QUFKaFVYRk5mWmN0NVVFRlU?oc=5",
+     "date": "2026-11-26T04:04:32.000Z",
+     "text": "Steuern für Reiche: Gewerkschaftsbund will Vermögensabgabe »für die Allerreichsten« DIE ZEIT",
+     "via": "DIE ZEIT"
+    },
+    {
+     "title": "Schenkungsteuer: Ehepaare können pro Kind 400.000 Euro übertragen - ad-hoc-news.de",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU2NzNy1obklpQlZkSm1DYk9PLWZDZ0FhMVdudGVfN3M3WDM3YmkweUM1UzdmS2pSRnotWHI3TjdxcWRzY0RkYzQwYzN3OEVzX2dEUi1lY1pFS3FsQ1FjZzZ5TEh2SXNDOVFZNkhUWnotS2d0emd5R05fRldLV2pEYkRLUU9lR3F2dWxqZGRwSGxmM1ZmMUZMY2QtNUtZdzJiZGJ4N3JoejhpS3Q5OFJZWVRPeDNfdw?oc=5",
+     "date": "2026-11-27T01:18:30.000Z",
+     "text": "Schenkungsteuer: Ehepaare können pro Kind 400.000 Euro übertragen ad-hoc-news.de",
+     "via": "ad-hoc-news.de"
+    }
+   ]
   },
   {
    "name": "Google News: Grundsteuer",
@@ -165,20 +228,6 @@
      "date": "2026-11-25T09:58:50.000Z",
      "text": "Keine Million geerbt? Wie Normalverdiener ohne Erbe die eigene Immobilie finanzieren können Frankfurter Rundschau",
      "via": "Frankfurter Rundschau"
-    },
-    {
-     "title": "Grunderwerbsteuer ab Juli 2027: Neue Regeln für Share Deals geplant - ad-hoc-news.de",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblZfZk0xa1FqT1JSM2luazh4MG9IQ1g4ejJPV3pDRjlIRW5xWkZOVVMwS0J3aGl4VkN0a0JVNExNUDlXTWlxQXZxUzhZREtEeVVBNDVoTXJka01VaE9FaWhXSzRlQzAxaWpYUnh4T0ppQWhRcVo5ZjFRcG5CVzkzcXNRMUxPZmVWYmEwS0xkdVR1WWlqY0FtdUl4dnRuRi1uYXREU2U3SjZ2MW91Q0xXa01jMHA?oc=5",
-     "date": "2026-11-25T10:03:29.000Z",
-     "text": "Grunderwerbsteuer ab Juli 2027: Neue Regeln für Share Deals geplant ad-hoc-news.de",
-     "via": "ad-hoc-news.de"
-    },
-    {
-     "title": "Grunderwerbsteuer: Neue Regeln sollen Steuertricks bei Immobiliengeschäften eindämmen - Epoch Times (Deutsch)",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNVGo0VmVwV0IzQW90X3JqbHZwMWhyVWVrRUFWSUg1WUpEMHY5aU5XcjdVcW04LWZHYTFpMVVaeTA1TEtrOXlnbFFPUWNoYkZVNWtuNVBOdEtBSlRkeElQeHU4cnU4aGJtWk1CVVd0MVhVTFVCUThyVk9raG9naDZfM1R0ak5WOTJ5TXJpa2F5UG9MYnAxSGRLWkhYc1d1UmpPRHJ1c3N0YmxtZ1h5cEhCZ0lFUEdUVW9uX01mc1JLRE1ZRnFCMzJRdGF1M19xbUV2NVlHeUF6cWZQWWRkaUZsb2g3VEJWTll0cDFzR0dNMlJLZTFoNTUtbF9DeUZQZGFiNloxSjNnV19kM2t1ZGhFcnR3OWg?oc=5",
-     "date": "2026-11-26T12:07:49.000Z",
-     "text": "Grunderwerbsteuer: Neue Regeln sollen Steuertricks bei Immobiliengeschäften eindämmen Epoch Times (Deutsch)",
-     "via": "Epoch Times (Deutsch)"
     }
    ]
   },
@@ -215,14 +264,35 @@
      "date": "2026-11-25T20:30:00.000Z",
      "text": "Steuer- und Arbeitsmarktreform: Union will Steuerreform erst 2027 beschließen – und auch nur bei SPD-Gegenleistung RP Online",
      "via": "RP Online"
+    },
+    {
+     "title": "Familien, Sparer, Minijobber: Was sich 2027 bei Steuern grundlegend ändert - inFranken.de",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2NGMDd4SW1BRjBZbDRTeFk5TTFMcUo1MGtCOGljeXdjZTdlZ2tnTE5IR29pS1UtSVlsYURJWXFPaHJuV05odmlwWnBhUFU3bHl4djJERkhvQ3dZVkllLVpMQTVIVFZaVUZMM0I0ZGxUMkF4UHVuSGUyRHJDWkdzalE4Q0VVQ2xIWkNCNFpJcUsxYVp0Rk5kNHA5dmJrYmpCcndGTFdBVFlxOGFHc3djejBoR2lVZ0FFTXNPdGRXdmRUbXFtVU9GR201UQ?oc=5",
+     "date": "2026-11-25T10:50:00.000Z",
+     "text": "Familien, Sparer, Minijobber: Was sich 2027 bei Steuern grundlegend ändert inFranken.de",
+     "via": "inFranken.de"
     }
    ]
   },
   {
    "name": "LTO (Google News)",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "Steuerberater / Steuerassistent (m/w/d) Internationale Unternehmensbesteuerung - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV0VySkVSdm8wTEtfb3NnLUJTMHBwV3hsVVYyWkVkcEhUNXc1Zy1Sa1AxQjIwazA0R3hkZDROemZlUEQwaVp5dlJ2dkJ6bFlwUjFZWndHblRwUk11N0FfU1lGZG1kYlB3NGE3Q1lkdTA0eG1tYWRQTDd1bG5hSjlBMkZLSHJ0Tm1hd1NicmVYNW5JQ250LXp3aTdzc185QmYwOExVam5qd2VMaVlVVFlLN3NxaWZEb0FZdmc4dHNJV3FxQTMtZnJqZWtyYm80WkMydl94c2hxVks4TTYyWHZvWGtZQ191VVpBd2FFLTIyYw?oc=5",
+     "date": "2026-11-26T19:06:20.000Z",
+     "text": "Steuerberater / Steuerassistent (m/w/d) Internationale Unternehmensbesteuerung Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    },
+    {
+     "title": "Referendar / Wissenschaftlicher Mitarbeiter (m/w/d) Gesellschaftsrecht / M&A - Legal Tribune Online",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMlNfTE9FY0Q1Q0xUdkR5dUJwTTlLdW1pRHFDRXBsMmkteVlLZlh1WkdiVjdLTkx2U3lQMnVSZDVISnBPY1pMZTh0Z2MxOTAycFd6bzhoSThQSXlUclJsaXFEWG1qU2M3UkNZNFNPOHBlWmJNYmlaWHk1dmN4WEs5SklGZldWazFBeFFYay1RUUtldWhWOHpVYm5jSjMyYmwyak1DOVBVWFk2OGE0WC1qZmZYRW9MZVNsTGhHWFU0cnpqVUVKOHlxTmZKQjV4VEI5U3lUUXZjUXREWC1OX2c?oc=5",
+     "date": "2026-11-26T19:06:21.000Z",
+     "text": "Referendar / Wissenschaftlicher Mitarbeiter (m/w/d) Gesellschaftsrecht / M&A Legal Tribune Online",
+     "via": "Legal Tribune Online"
+    }
+   ]
   },
   {
    "name": "Haufe Steuern (Google News)",
