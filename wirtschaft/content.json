@@ -1,99 +1,121 @@
 {
-  "date": "2026-11-26",
-  "intro": "Neue US-Zölle gegen die EU und eine Verkaufswelle bei Tech-Aktien prägen den Tag. Zu Hause zeigen Ifo-Index und schwaches Wachstum ein gemischtes Bild der deutschen Wirtschaft.",
-  "top": [
-    {
-      "title": "USA kündigen neue Zölle an – auch gegen die EU",
-      "text": "Die USA haben neue Sonderzölle gegen die EU und weitere Handelspartner angekündigt. Für betroffene EU-Produkte ist ein Zollsatz von 15 Prozent vorgesehen. Zölle sind Steuern auf eingeführte Waren; sie verteuern Exporte und können deutsche Exportfirmen Aufträge kosten. Die Ankündigung belastete auch die US-Börsen.",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
-      "source": "tagesschau",
-      "category": "Politik & Handel"
-    },
-    {
-      "title": "KI-Ernüchterung: Verkaufswelle bei Tech-Aktien geht weiter",
-      "text": "An den US-Börsen geben Technologieaktien weiter nach. Anleger sorgen sich um die Geschäfte mit Künstlicher Intelligenz; zusätzlich belastet Unruhe um den Chipkonzern Nvidia. Die Ratingagentur S&P hat Nvidia vor einer möglichen Herabstufung seiner Kreditwürdigkeit gewarnt. Wer Aktienfonds oder ETFs besitzt, spürt das oft über große Tech-Werte im Fonds.",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html",
-      "source": "tagesschau",
-      "category": "Börse & Märkte"
-    },
-    {
-      "title": "Euro fällt zum Dollar auf Tiefstand seit anderthalb Jahren",
-      "text": "Der Euro ist zum US-Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen. Als Hintergrund nennt die tagesschau den KI-Boom, der Kapital in die USA zieht. Ein schwacher Euro macht Importe, etwa Öl, teurer und hilft Exporteuren; Urlaub in den USA wird teurer.",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html",
-      "source": "tagesschau",
-      "category": "Börse & Märkte"
-    }
-  ],
-  "entries": [
-    {
-      "title": "Ifo-Geschäftsklima steigt auf höchsten Wert seit Frühjahr 2023",
-      "summary": "Der Ifo-Index, eine monatliche Umfrage unter Unternehmen, steigt zum siebten Mal in Folge. Ökonomen sehen darin Zeichen für einen Aufschwung.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTDdUWWpFQUJtcUlmSGxZWnpmdV9pVHJwb21EaXVHZkQ1WXVUcFREc3pLSjdYWTFMV3pBbHIyVEN0MmwyMFVwMXItdWxFWUppNS1LRUFKdm1pT0xVbk5GWHZDUThSOFVBM0hBelNkaWZlWmNySmJyT3Mzc2Vlem5FVDlQa2EtdVJmVGlMLTNnZ29Id05kOHpCLS1XZDRzaU9WTEdVdndvTnVKZERxc0RkZTlzWGhOdw?oc=5",
-      "source": "DIE ZEIT",
-      "category": "Konjunktur"
-    },
-    {
-      "title": "Wirtschaft wuchs im dritten Quartal nur um 0,1 Prozent",
-      "summary": "Die deutsche Wirtschaftsleistung legte von Juli bis September kaum zu. Das passt zum Bild einer schleppenden Erholung.",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcE5ZNDgxeURyTk5VWTI3ZkRkdUVDY05BYjBKX200S2dORmRkSXA3SzhhbWczXzhCbjBQQ3A3elZ6VFFGeEVUZ0EwS01VY3NvejZNLVBabWxwLWNPRk9OSmk5WUt5d2NucE5ULUk5YWRJalVVMlp2RnlxaFh0VlV4ckF1enUtVXQwV2p5eVUzZVRqcWJyWlFhT1dpS3ZNaDlkTDVjWExLMVNYeHBZa1F3U0hqRnE1V3R3QXctMUV0WElrVFV3QnZfcF9zLUVnZ2xEeFkyYVg1QjB0U2lDdWxsZFFVSDlPZVh6SzNkdlJ4bDZCcF9ZZzY1eXgyZDEwZw?oc=5",
-      "source": "Spiegel",
-      "category": "Konjunktur"
-    },
-    {
-      "title": "Private Investitionen bleiben schwach",
-      "summary": "Laut FAZ ist die Investitionsschwäche der wichtigste Grund für das langsame Wachstum. Sie habe Deutschland seit 2022 mehr als 125 Milliarden Euro gekostet.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/private-investitionen-schwaecheln-125-milliarden-euro-verlust-fuer-deutschland-201716175.html",
-      "source": "FAZ",
-      "category": "Konjunktur"
-    },
-    {
-      "title": "EU verlängert Lockerung bei Staatshilfen wegen Energiekrise",
-      "summary": "Deutschland und andere Staaten dürfen Landwirte, Industrie und andere Firmen länger besonders entlasten. Die EU lockert dafür ihre Beihilferegeln weiter.",
-      "url": "https://www.spiegel.de/wirtschaft/eu-verlaengert-lockerung-bei-staatshilfen-wegen-energiekrise-a-2a42cfb1-d7a5-4d1b-8873-cdb7f9feaa4f#ref=rss",
-      "source": "Spiegel",
-      "category": "Energie"
-    },
-    {
-      "title": "Finanzministerium erwägt Einstieg bei Netzbetreiber Amprion",
-      "summary": "Der Staat könnte laut Handelsblatt einen Verbund aller Übertragungsnetzbetreiber schaffen und so mehr Kontrolle über die Stromnetze bekommen. Ein alter Plan kehrt damit zurück.",
-      "url": "https://www.handelsblatt.com/unternehmen/energie/energie-finanzministerium-erwaegt-einstieg-bei-netzbetreiber-amprion/100272487.html",
-      "source": "Handelsblatt",
-      "category": "Energie"
-    },
-    {
-      "title": "Aldi und Lidl senken Butterpreis unter einen Euro",
-      "summary": "Die Discounter begründen den Schritt mit gesunkenen Einkaufspreisen. Der Bauernverband kritisiert den Preiskampf.",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/butter-preis-preiskampf-discounter-bauern-100.html",
-      "source": "tagesschau",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "EU verhängt 470 Millionen Euro Strafe gegen Parfümkartell",
-      "summary": "Drei große Duftstoffhersteller sollen sich über Jahre bei Preisen und Kosten abgesprochen haben.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-470-millionen-euro-strafe-gegen-parfuemkartell-a-b67298ac-ea3c-4961-8257-0d44689c4b2b#ref=rss",
-      "source": "Spiegel",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Bahn erzielt Teilerfolg im Streit um Provisionen",
-      "summary": "Es ging darum, ob die Bahn konkurrierenden Ticketplattformen eine Provision zahlen muss, weil diese Zahlungen abwickeln. Das Bundesgericht gab ihr teilweise recht.",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-streit-ueber-provisionen-bahn-erzielt-teilerfolg-vor-gericht-a-695a6d76-519f-43df-b9b2-887a0a2739d0#ref=rss",
-      "source": "Spiegel",
-      "category": "Unternehmen"
-    },
-    {
-      "title": "Union legt Kompromiss zur „Rente mit 63“ vor",
-      "summary": "Im Streit um die abschlagsfreie Rente nach 45 Beitragsjahren macht die Unionsfraktion der SPD ein Angebot. Ein schneller Durchbruch gilt laut Handelsblatt als unsicher.",
-      "url": "https://www.handelsblatt.com/politik/deutschland/reformplaene-union-wirbt-fuer-neuen-vorstoss-im-rentenstreit/100272840.html",
-      "source": "Handelsblatt",
-      "category": "Arbeit & Soziales"
-    },
-    {
-      "title": "TK-Report: Frauen zwischen 35 und 55 im Fokus",
-      "summary": "Die Techniker Krankenkasse hat im Gesundheitsreport die Lage dieser Beschäftigtengruppe untersucht, auch mit Blick auf die Wechseljahre am Arbeitsplatz.",
-      "url": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
-      "source": "tagesschau",
-      "category": "Arbeit & Soziales"
-    }
-  ]
+ "date": "2026-11-27",
+ "intro": "Die Metall-Tarifrunde ist beendet, die EZB bekommt einen neuen Chef – und der EU-Haushaltsgipfel endet ohne Ergebnis. Die Konjunktur bleibt dagegen schwach.",
+ "top": [
+  {
+   "title": "Metall-Tarifabschluss: 4,3 Prozent mehr Lohn in zwei Stufen",
+   "text": "Arbeitgeber und IG Metall haben sich nach einem langen Verhandlungstag geeinigt. Die Beschäftigten bekommen in zwei Stufen insgesamt 4,3 Prozent mehr Lohn. Der Pilotabschluss (ein Muster-Vertrag für andere Regionen) erlaubt aber auch Ausnahmen, etwa von der 35-Stunden-Woche. Er soll auch im Norden übernommen werden können.",
+   "category": "Arbeit & Soziales",
+   "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html",
+   "source": "tagesschau Wirtschaft"
+  },
+  {
+   "title": "Spanier Hernández de Cos soll neuer EZB-Präsident werden",
+   "text": "Die EU-Spitzen haben sich auf Pablo Hernández de Cos als Nachfolger von EZB-Chefin Christine Lagarde geeinigt. Lagarde hat angekündigt, ihren Posten im Februar aufzugeben. Als Chefvolkswirt der Notenbank ist ein Deutscher vorgesehen. Die EZB legt den Leitzins im Euroraum fest und beeinflusst damit Kredit- und Sparzinsen.",
+   "category": "Zinsen & Geldpolitik",
+   "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
+   "source": "tagesschau Wirtschaft"
+  },
+  {
+   "title": "EU-Haushaltsgipfel ohne Einigung beendet",
+   "text": "Die EU-Staats- und Regierungschefs haben ihren Sondergipfel zum nächsten langfristigen EU-Haushalt vorzeitig abgebrochen. Kanzler Merz glaubt dennoch an eine Einigung vor Jahresende. Streitpunkte sind laut Berichten unter anderem Agrarsubventionen und die Ukraine-Hilfen. Es geht um bis zu zwei Billionen Euro.",
+   "category": "Politik & Handel",
+   "url": "https://www.faz.net/aktuell/wirtschaft/eu-haushaltsgipfel-abgebrochen-merz-bleibt-zuversichtlich-201721642.html",
+   "source": "FAZ Wirtschaft"
+  }
+ ],
+ "entries": [
+  {
+   "title": "Wirtschaft wächst im dritten Quartal nur um 0,1 Prozent",
+   "summary": "Das Bruttoinlandsprodukt ist im dritten Quartal weniger gestiegen als zunächst geschätzt: nur um 0,1 Prozent. Die Erholung bleibt damit sehr schwach.",
+   "category": "Konjunktur",
+   "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-deutschland-wirtschaftsleistung-100.html",
+   "source": "tagesschau Wirtschaft"
+  },
+  {
+   "title": "Reallöhne steigen weiter, aber langsamer",
+   "summary": "Nach Abzug der Inflation hatten die Beschäftigten im Sommer im Schnitt 1,3 Prozent mehr Geld. Das ist der geringste Anstieg seit Anfang 2025.",
+   "category": "Arbeit & Soziales",
+   "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/loehne-wachstum-inflation-100.html",
+   "source": "tagesschau Wirtschaft"
+  },
+  {
+   "title": "DAX springt wieder über 25.000 Punkte",
+   "summary": "Getragen von Technologie-Aktien legt der DAX zu. Das Vertrauen in die Erholung bleibt laut Marktbericht aber angeschlagen.",
+   "category": "Börse & Märkte",
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
+   "source": "tagesschau Wirtschaft"
+  },
+  {
+   "title": "UniCredit am Ziel bei der Commerzbank",
+   "summary": "Alle Behörden haben der Übernahme zugestimmt. UniCredit-Chef Orcel soll den Aufsichtsrat führen, den bisherigen Vorständen will die Bank das Vertrauen entziehen. Dafür hat sie eine Hauptversammlung beantragt.",
+   "category": "Unternehmen",
+   "url": "https://www.spiegel.de/wirtschaft/unternehmen/unicredit-ist-bei-commerzbank-am-ziel-und-will-schnell-personal-austauschen-a-ca320f98-a8ad-4687-a3e5-e6930ac6ff09#ref=rss",
+   "source": "Spiegel Wirtschaft"
+  },
+  {
+   "title": "Ver.di bestreikt am Black Friday elf Amazon-Standorte",
+   "summary": "Die Gewerkschaft will damit rechtsverbindliche Tarifverträge bei Amazon erreichen. Der Streik trifft den wichtigsten Einkaufstag des Onlinehändlers.",
+   "category": "Arbeit & Soziales",
+   "url": "https://www.spiegel.de/wirtschaft/amazon-ver-di-ruft-am-black-friday-an-elf-standorten-zum-streik-auf-a-244aa9b2-39a8-4bad-97f2-a1d3c44bc4dd#ref=rss",
+   "source": "Spiegel Wirtschaft"
+  },
+  {
+   "title": "Konzerne protestieren gegen höhere Bahn-Trassenpreise",
+   "summary": "BASF, Bayer und Salzgitter beklagen steigende Kosten für den Gütertransport auf der Schiene. In einem Brief an den Verkehrsminister fordern sie Reformen bei den Gleisgebühren.",
+   "category": "Unternehmen",
+   "url": "https://www.spiegel.de/wirtschaft/unternehmen/grosskonzerne-laufen-sturm-gegen-steigende-transportkosten-auf-der-schiene-a-3d67f09d-ff17-44f3-92af-c541a159d151#ref=rss",
+   "source": "Spiegel Wirtschaft"
+  },
+  {
+   "title": "Obi und Toom: Kartellamt könnte Fusion erschweren",
+   "summary": "Nach einem Zusammenschluss hätte Obi mehr als doppelt so viele Kunden wie der nächste Wettbewerber. In vielen Städten droht daher ein Eingreifen des Kartellamts.",
+   "category": "Unternehmen",
+   "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/baumaerkte-kartellrecht-koennte-fusion-von-obi-und-toom-erschweren/100273004.html",
+   "source": "Handelsblatt"
+  },
+  {
+   "title": "Adventskerzen könnten 30 bis 50 Prozent teurer werden",
+   "summary": "Hersteller rechnen in diesem Jahr mit deutlichen Preissteigerungen bei Kerzen.",
+   "category": "Konjunktur",
+   "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html",
+   "source": "tagesschau Wirtschaft"
+  },
+  {
+   "title": "BGH stärkt Mieter bei Balkonkraftwerken",
+   "summary": "Mieter haben Anspruch darauf, Solaranlagen am Balkon anzubringen. Vermieter können das nur in Ausnahmefällen verbieten, die Hürden dafür sind hoch.",
+   "category": "Energie",
+   "tipp": "Mieter können ein Balkonkraftwerk nun mit besseren Karten beim Vermieter einfordern.",
+   "url": "https://www.tagesschau.de/wirtschaft/verbraucher/mietrecht-balkonkraftwerke-bgh-100.html",
+   "source": "tagesschau Wirtschaft"
+  },
+  {
+   "title": "Solarstrom knackt 100 Terawattstunden",
+   "summary": "Noch nie wurde in Deutschland so viel Solarstrom erzeugt wie in diesem Jahr: erstmals über 100 Terawattstunden.",
+   "category": "Energie",
+   "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/solarstrom-erzielt-neuen-rekord-in-deutschland-erstmals-ueber-100-twh-accg-201715487.html",
+   "source": "FAZ Wirtschaft"
+  },
+  {
+   "title": "Geldmenge im Euroraum wächst weiter um 3,6 Prozent",
+   "summary": "Die weit gefasste Geldmenge M3 lag im Oktober unverändert bei einem Jahreswachstum von 3,6 Prozent.",
+   "category": "Zinsen & Geldpolitik",
+   "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/geldmengenentwicklung-im-euroraum-oktober-2026-1017098",
+   "source": "Bundesbank"
+  },
+  {
+   "title": "Digitaler Führerschein startet erst Mitte Dezember",
+   "summary": "Der eigentlich für Ende November geplante Start verzögert sich um einige Wochen.",
+   "category": "Politik & Handel",
+   "url": "https://www.tagesschau.de/wirtschaft/verbraucher/digitaler-fuehrerschein-verspaetung-start-mitte-dezember-100.html",
+   "source": "tagesschau Wirtschaft"
+  },
+  {
+   "title": "SAP meldet verdächtige Aktivitäten",
+   "summary": "Der Softwarekonzern SAP hat nach eigenen Angaben verdächtige Aktivitäten festgestellt und schnell reagiert. Laut Handelsblatt zielten die Angreifer auf die Softwareentwicklung.",
+   "category": "Unternehmen",
+   "url": "https://www.handelsblatt.com/technik/ki/sap-it-sicherheitsvorfall-bei-sap-haben-verdaechtige-aktivitaeten-identifiziert/100273138.html",
+   "source": "Handelsblatt"
+  }
+ ]
 }
