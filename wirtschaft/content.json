@@ -1,121 +1,85 @@
 {
- "date": "2026-11-27",
- "intro": "Die Metall-Tarifrunde ist beendet, die EZB bekommt einen neuen Chef – und der EU-Haushaltsgipfel endet ohne Ergebnis. Die Konjunktur bleibt dagegen schwach.",
- "top": [
-  {
-   "title": "Metall-Tarifabschluss: 4,3 Prozent mehr Lohn in zwei Stufen",
-   "text": "Arbeitgeber und IG Metall haben sich nach einem langen Verhandlungstag geeinigt. Die Beschäftigten bekommen in zwei Stufen insgesamt 4,3 Prozent mehr Lohn. Der Pilotabschluss (ein Muster-Vertrag für andere Regionen) erlaubt aber auch Ausnahmen, etwa von der 35-Stunden-Woche. Er soll auch im Norden übernommen werden können.",
-   "category": "Arbeit & Soziales",
-   "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html",
-   "source": "tagesschau Wirtschaft"
-  },
-  {
-   "title": "Spanier Hernández de Cos soll neuer EZB-Präsident werden",
-   "text": "Die EU-Spitzen haben sich auf Pablo Hernández de Cos als Nachfolger von EZB-Chefin Christine Lagarde geeinigt. Lagarde hat angekündigt, ihren Posten im Februar aufzugeben. Als Chefvolkswirt der Notenbank ist ein Deutscher vorgesehen. Die EZB legt den Leitzins im Euroraum fest und beeinflusst damit Kredit- und Sparzinsen.",
-   "category": "Zinsen & Geldpolitik",
-   "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
-   "source": "tagesschau Wirtschaft"
-  },
-  {
-   "title": "EU-Haushaltsgipfel ohne Einigung beendet",
-   "text": "Die EU-Staats- und Regierungschefs haben ihren Sondergipfel zum nächsten langfristigen EU-Haushalt vorzeitig abgebrochen. Kanzler Merz glaubt dennoch an eine Einigung vor Jahresende. Streitpunkte sind laut Berichten unter anderem Agrarsubventionen und die Ukraine-Hilfen. Es geht um bis zu zwei Billionen Euro.",
-   "category": "Politik & Handel",
-   "url": "https://www.faz.net/aktuell/wirtschaft/eu-haushaltsgipfel-abgebrochen-merz-bleibt-zuversichtlich-201721642.html",
-   "source": "FAZ Wirtschaft"
-  }
- ],
- "entries": [
-  {
-   "title": "Wirtschaft wächst im dritten Quartal nur um 0,1 Prozent",
-   "summary": "Das Bruttoinlandsprodukt ist im dritten Quartal weniger gestiegen als zunächst geschätzt: nur um 0,1 Prozent. Die Erholung bleibt damit sehr schwach.",
-   "category": "Konjunktur",
-   "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-deutschland-wirtschaftsleistung-100.html",
-   "source": "tagesschau Wirtschaft"
-  },
-  {
-   "title": "Reallöhne steigen weiter, aber langsamer",
-   "summary": "Nach Abzug der Inflation hatten die Beschäftigten im Sommer im Schnitt 1,3 Prozent mehr Geld. Das ist der geringste Anstieg seit Anfang 2025.",
-   "category": "Arbeit & Soziales",
-   "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/loehne-wachstum-inflation-100.html",
-   "source": "tagesschau Wirtschaft"
-  },
-  {
-   "title": "DAX springt wieder über 25.000 Punkte",
-   "summary": "Getragen von Technologie-Aktien legt der DAX zu. Das Vertrauen in die Erholung bleibt laut Marktbericht aber angeschlagen.",
-   "category": "Börse & Märkte",
-   "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
-   "source": "tagesschau Wirtschaft"
-  },
-  {
-   "title": "UniCredit am Ziel bei der Commerzbank",
-   "summary": "Alle Behörden haben der Übernahme zugestimmt. UniCredit-Chef Orcel soll den Aufsichtsrat führen, den bisherigen Vorständen will die Bank das Vertrauen entziehen. Dafür hat sie eine Hauptversammlung beantragt.",
-   "category": "Unternehmen",
-   "url": "https://www.spiegel.de/wirtschaft/unternehmen/unicredit-ist-bei-commerzbank-am-ziel-und-will-schnell-personal-austauschen-a-ca320f98-a8ad-4687-a3e5-e6930ac6ff09#ref=rss",
-   "source": "Spiegel Wirtschaft"
-  },
-  {
-   "title": "Ver.di bestreikt am Black Friday elf Amazon-Standorte",
-   "summary": "Die Gewerkschaft will damit rechtsverbindliche Tarifverträge bei Amazon erreichen. Der Streik trifft den wichtigsten Einkaufstag des Onlinehändlers.",
-   "category": "Arbeit & Soziales",
-   "url": "https://www.spiegel.de/wirtschaft/amazon-ver-di-ruft-am-black-friday-an-elf-standorten-zum-streik-auf-a-244aa9b2-39a8-4bad-97f2-a1d3c44bc4dd#ref=rss",
-   "source": "Spiegel Wirtschaft"
-  },
-  {
-   "title": "Konzerne protestieren gegen höhere Bahn-Trassenpreise",
-   "summary": "BASF, Bayer und Salzgitter beklagen steigende Kosten für den Gütertransport auf der Schiene. In einem Brief an den Verkehrsminister fordern sie Reformen bei den Gleisgebühren.",
-   "category": "Unternehmen",
-   "url": "https://www.spiegel.de/wirtschaft/unternehmen/grosskonzerne-laufen-sturm-gegen-steigende-transportkosten-auf-der-schiene-a-3d67f09d-ff17-44f3-92af-c541a159d151#ref=rss",
-   "source": "Spiegel Wirtschaft"
-  },
-  {
-   "title": "Obi und Toom: Kartellamt könnte Fusion erschweren",
-   "summary": "Nach einem Zusammenschluss hätte Obi mehr als doppelt so viele Kunden wie der nächste Wettbewerber. In vielen Städten droht daher ein Eingreifen des Kartellamts.",
-   "category": "Unternehmen",
-   "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/baumaerkte-kartellrecht-koennte-fusion-von-obi-und-toom-erschweren/100273004.html",
-   "source": "Handelsblatt"
-  },
-  {
-   "title": "Adventskerzen könnten 30 bis 50 Prozent teurer werden",
-   "summary": "Hersteller rechnen in diesem Jahr mit deutlichen Preissteigerungen bei Kerzen.",
-   "category": "Konjunktur",
-   "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html",
-   "source": "tagesschau Wirtschaft"
-  },
-  {
-   "title": "BGH stärkt Mieter bei Balkonkraftwerken",
-   "summary": "Mieter haben Anspruch darauf, Solaranlagen am Balkon anzubringen. Vermieter können das nur in Ausnahmefällen verbieten, die Hürden dafür sind hoch.",
-   "category": "Energie",
-   "tipp": "Mieter können ein Balkonkraftwerk nun mit besseren Karten beim Vermieter einfordern.",
-   "url": "https://www.tagesschau.de/wirtschaft/verbraucher/mietrecht-balkonkraftwerke-bgh-100.html",
-   "source": "tagesschau Wirtschaft"
-  },
-  {
-   "title": "Solarstrom knackt 100 Terawattstunden",
-   "summary": "Noch nie wurde in Deutschland so viel Solarstrom erzeugt wie in diesem Jahr: erstmals über 100 Terawattstunden.",
-   "category": "Energie",
-   "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/solarstrom-erzielt-neuen-rekord-in-deutschland-erstmals-ueber-100-twh-accg-201715487.html",
-   "source": "FAZ Wirtschaft"
-  },
-  {
-   "title": "Geldmenge im Euroraum wächst weiter um 3,6 Prozent",
-   "summary": "Die weit gefasste Geldmenge M3 lag im Oktober unverändert bei einem Jahreswachstum von 3,6 Prozent.",
-   "category": "Zinsen & Geldpolitik",
-   "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/geldmengenentwicklung-im-euroraum-oktober-2026-1017098",
-   "source": "Bundesbank"
-  },
-  {
-   "title": "Digitaler Führerschein startet erst Mitte Dezember",
-   "summary": "Der eigentlich für Ende November geplante Start verzögert sich um einige Wochen.",
-   "category": "Politik & Handel",
-   "url": "https://www.tagesschau.de/wirtschaft/verbraucher/digitaler-fuehrerschein-verspaetung-start-mitte-dezember-100.html",
-   "source": "tagesschau Wirtschaft"
-  },
-  {
-   "title": "SAP meldet verdächtige Aktivitäten",
-   "summary": "Der Softwarekonzern SAP hat nach eigenen Angaben verdächtige Aktivitäten festgestellt und schnell reagiert. Laut Handelsblatt zielten die Angreifer auf die Softwareentwicklung.",
-   "category": "Unternehmen",
-   "url": "https://www.handelsblatt.com/technik/ki/sap-it-sicherheitsvorfall-bei-sap-haben-verdaechtige-aktivitaeten-identifiziert/100273138.html",
-   "source": "Handelsblatt"
-  }
- ]
+  "date": "2026-11-28",
+  "intro": "Der Bundestag hat den Haushalt 2027 mit hoher Neuverschuldung beschlossen, die Metallbranche einigt sich im Tarifstreit, und der Arbeitsmarkt bleibt trotz leichtem Rückgang schwach.",
+  "top": [
+    {
+      "title": "Metall-Tarifstreit: Einigung mit mehr Spielraum für Firmen",
+      "text": "Arbeitgeber und IG Metall haben sich in der Metall- und Elektroindustrie geeinigt. Firmen sollen künftig in bestimmten Fällen Mehrarbeit ohne zusätzlichen Lohn und auch Lohnverzicht vereinbaren können. Die IG Metall betont, dass die 35-Stunden-Woche grundsätzlich bleibt. Für Beschäftigte heißt das: Je nach Betrieb können sich Arbeitszeit und Bezahlung verändern.",
+      "url": "https://www.spiegel.de/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-in-tarifstreit-a-152b7f28-1470-44a8-9958-c6fe9db5d584#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "Arbeitslosenzahl sinkt im November nur leicht",
+      "text": "Die übliche Herbstbelebung am Arbeitsmarkt ist größtenteils ausgeblieben. Im November ging die Zahl der Arbeitslosen nur leicht zurück, obwohl es der Wirtschaft zuletzt etwas besser ging. Für Jobsuchende bleiben die Chancen damit schwierig.",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosenzahlen-november-108.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "Bundestag beschließt Haushalt 2027 mit 210 Mrd. Euro neuen Schulden",
+      "text": "Der Bundestag hat den Bundeshaushalt 2027 mit den Stimmen der schwarz-roten Koalition beschlossen. Er sieht Ausgaben von 555,9 Milliarden Euro vor, die Neuverschuldung liegt bei mehr als 210 Milliarden Euro. Der Bund nimmt also deutlich mehr Kredit auf, als er über Steuern deckt.",
+      "url": "https://www.handelsblatt.com/video/politik/etat-210-milliarden-euro-neue-schulden-bundestag-verabschiedet-haushalt-fuer-2027/100273360.html",
+      "source": "Handelsblatt",
+      "category": "Politik & Handel"
+    }
+  ],
+  "entries": [
+    {
+      "title": "EU-Sondergipfel zum Haushalt endet vorzeitig ohne Einigung",
+      "summary": "Die 27 Staats- und Regierungschefs lagen beim langfristigen EU-Haushalt weit auseinander. Laut Kanzler Merz fiel deshalb der zweite Gipfeltag aus.",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Politik & Handel"
+    },
+    {
+      "title": "Reallöhne wachsen im Sommer langsamer",
+      "summary": "Nach Abzug der Inflation blieb im Sommer ein Lohnplus von 1,3 Prozent. Das ist so wenig wie zuletzt Anfang 2025.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHdacHBzenZRazI5TG9pb1h4ZHhwN0R6Wi1VRmhJNGZ1d0VXOWJXZkw1RG9iLVlWSzRaaHJ6OXFkNzVRQ3BfWFRPbVc0bDJyNElNb3VSR3FBLVUyYWhtMzNhak9iTDUyVHVvdTFwZHdoWmVtTEdxaG8tN1Zicnd6ei1kaldGbU5JaFJROWYyUFFPcHhvSFgyWlRoNkF5UE1hRjFnSVRBd0kxbVRHX2tKeXQtMm9pZEtNSl9xVk96NVpTMlk?oc=5",
+      "source": "tagesschau Wirtschaft",
+      "category": "Konjunktur"
+    },
+    {
+      "title": "Wofür steht der künftige EZB-Präsident Hernández de Cos?",
+      "summary": "Der Spanier ist 55 und bringt viel geldpolitische Erfahrung mit. Tagesschau fragt, welchen Kurs die Europäische Zentralbank unter ihm nehmen könnte.",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html",
+      "source": "tagesschau Wirtschaft",
+      "category": "Zinsen & Geldpolitik"
+    },
+    {
+      "title": "SAP erwägt Abbau von mehr als 10.000 Stellen",
+      "summary": "Laut Berichten lässt der Softwarekonzern Pläne für einen umfangreichen Stellenabbau erarbeiten. Hintergrund ist der Druck durch künstliche Intelligenz auf das Geschäftsmodell.",
+      "url": "https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen-a-c4a7caff-a097-4ccb-867a-da1e469855fc#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Uber übernimmt fast 90 Prozent von Delivery Hero",
+      "summary": "Die milliardenschwere Übernahme des Berliner Essenskuriers durch Uber ist fast abgeschlossen.",
+      "url": "https://www.spiegel.de/wirtschaft/uber-sichert-sich-fast-90-prozent-der-anteile-von-delivery-hero-a-e3ce4aeb-2c38-4e99-9069-dc1159a62ca3#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Rente: Schweitzer schickt Entwurf ohne Abstimmung los",
+      "summary": "Arbeitsminister Schweitzer hat einen Rentenentwurf ohne Abstimmung an die anderen Ministerien gegeben. Die Aufregung in der Koalition ist groß.",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss",
+      "source": "Spiegel Wirtschaft",
+      "category": "Arbeit & Soziales"
+    },
+    {
+      "title": "Rheinmetall senkt Prognose wegen verzögerter Aufträge",
+      "summary": "Der Rüstungskonzern kappt seine Jahresprognose und ist auch bei den Mittelfristzielen vorsichtiger. Auf dem Kapitalmarkttag kam das bei Anlegern gut an.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-senkt-ziele-armin-papperger-will-konservativer-planen-201723237.html",
+      "source": "FAZ Wirtschaft",
+      "category": "Unternehmen"
+    },
+    {
+      "title": "Billigflieger Norse Atlantic meldet Insolvenz an",
+      "summary": "Die Airline streicht alle Flüge, 1.071 Beschäftigte sind betroffen. Hohe Kerosinpreise belasten laut Handelsblatt die ganze Branche.",
+      "url": "https://www.handelsblatt.com/unternehmen/dienstleister/norse-atlantic-billigflieger-streicht-alle-fluege-und-beantragt-insolvenz/100273357.html",
+      "source": "Handelsblatt",
+      "category": "Unternehmen"
+    }
+  ]
 }
