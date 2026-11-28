@@ -1,99 +1,72 @@
 {
- "date": "2026-11-27",
- "intro": "ElevenLabs verhandelt laut Berichten über eine Finanzierung mit riesiger Bewertung, und die EU plant einen großen Quantenfonds. Auf der anderen Seite zieht sich Philip Morris aus dem Berliner Startup-Hub NLND zurück.",
- "top": [
-  {
-   "title": "ElevenLabs verhandelt über Finanzierung mit 33 Milliarden Dollar Bewertung",
-   "text": "Der KI-Sprachspezialist ElevenLabs spricht laut Medienberichten mit Investoren über eine neue Runde. Die Firma würde dabei mit 33 Milliarden US-Dollar bewertet. Zu Betrag und Investoren nennt die Überschrift nichts; bestätigt ist die Runde nicht.",
-   "category": "Finanzierungen",
-   "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
-   "source": "Sifted"
-  },
-  {
-   "title": "Philip Morris schließt Berliner Startup-Hub NLND",
-   "text": "Der Tabakkonzern Philip Morris zieht sich aus dem Berliner Innovationsprojekt NLND zurück. Das geht laut Gründerszene aus einem Schreiben an die Partner und die Community des Projekts hervor. Der Hub ist rund 150.000 Quadratmeter groß.",
-   "category": "Gründungen & Produkte",
-   "url": "https://www.businessinsider.de/gruenderszene/philip-morris-stoppt-nlnd-berlin-startups-trifft-es-ueberraschend/81qvtt8/",
-   "source": "Gründerszene"
-  },
-  {
-   "title": "EU stellt Quantum Act mit Fonds von rund 50 Milliarden Euro vor",
-   "text": "Die EU hat einen Quantum Act vorgestellt, der Quantentechnologie in Europa stärken soll. Laut Sifted sind Pläne für einen Fonds von 50 Milliarden Euro Teil davon. Quantentechnologie nutzt Quanteneffekte für Rechnen und Verschlüsselung. Es handelt sich um einen Vorschlag der EU-Kommission.",
-   "category": "Förderung & Politik",
-   "url": "https://sifted.eu/articles/au-quantum-act-sovereign-tech-fund/",
-   "source": "Sifted"
-  }
- ],
- "entries": [
-  {
-   "title": "Defense-Tech: Startups sollen Bundeswehr voranbringen",
-   "summary": "Defense-Startups haben in Europa dieses Jahr laut Report „State of Defence Tech 2026“ bereits mehr als sechs Milliarden Euro eingesammelt. Gründerszene beleuchtet, wie sie die Bundeswehr unterstützen sollen.",
-   "category": "Europa & Welt",
-   "url": "https://www.businessinsider.de/gruenderszene/bundeswehr-startups-sollen-innovation-bringen/t5czfrz/",
-   "source": "Gründerszene"
-  },
-  {
-   "title": "WaterSense erhält 5,75 Millionen Euro",
-   "summary": "Das Startup entwickelt eine intelligente Wasserüberwachung und sammelt 5,75 Millionen Euro ein.",
-   "category": "Finanzierungen",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXZVOHZCZzcwcmM1U2w2ZlpFUUJyQVQ4OUpDQXVMUDhVampBcE92VTZoaV9GY3NVOVhNc0hyTFkwdFI2aXVsMHdlSkszMVUzbzJ5b0FuZnJLTVNTVm16N1lleHZic0QwUjZYTDNoSXJNeWJoZzFHdlIwMFBlckdHRlJsMmZ3NFpRZ0pwSlJ4SWl1Vjd5TFVWZmJHb2E1dWpBd25wYUNwMFM?oc=5",
-   "source": "Startbase"
-  },
-  {
-   "title": "nextesy schließt Seed-Runde über 10,4 Millionen Dollar ab",
-   "summary": "Die Seed-Runde (frühe Finanzierung) wird von Swisscom Ventures angeführt.",
-   "category": "Finanzierungen",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yalF0cjVuS0c1UFJtV2FWZW95ckhucGlwcDVaQlBGQUMtd01hcjdMc3dOYzZ0M2JtLU9tN2ZYdkh0a2JmZU5XTjF3OEZOVVVFR2RkbVQ5U2JQY2E4d3p0QWhOdw?oc=5",
-   "source": "Presseportal.ch"
-  },
-  {
-   "title": "Starforge holt 6,6 Millionen Euro für Fusionsreaktoren",
-   "summary": "Das Startup will Fusionsreaktoren aus der Serienfertigung bauen und hat dafür 6,6 Millionen Euro eingeworben.",
-   "category": "Deep Tech & Forschung",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEx2QTE4RkpJTzgwU2J3bjEwT2JRX3ZmbENHazZQN1NraEliaTZHeGJHY3dJblJiTGMwelFDWHIxcE9pVWhfZW04dnpoV1RMVlhTaW9mZzZ1ZGwtUW1JTVBLd240Nm9RdEQ1MUhqbHhUYmF3NndrUzZ3Wjdpb3NNajNUajZ3NzZZVDRtWU9JV0t1OV9WQU1oOC13WUFFa09iZ19DdFVCeXZWT3pYR0ZjNFBKdlM?oc=5",
-   "source": "Startbase"
-  },
-  {
-   "title": "Anori Tech sichert sich über eine Million Euro",
-   "summary": "Das Startup entwickelt Batteriemanagementsysteme und hat über eine Million Euro erhalten.",
-   "category": "Finanzierungen",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX3p2OGxjU2VaRlloM2F5ZnMteWY4Z2dPbWg2R3hsUGVhWGwwVGZZaklGTml5THd0WmN6TDd6S09jdmQyNkZzdkV1NXlXREpPNUFZajZGYnZBWW5yZmV3U2JDUlIwWnpUVEVYdFo5c1NRUVFOa1BzLWxodFlqc3VPWGtwcEtjRTU4S1lEVGZsWU1JVFNxNXpwVTNDeE5jYUF6ZzBoNlZBWmFvRzN2bUE?oc=5",
-   "source": "Startbase"
-  },
-  {
-   "title": "KI-Startup Surelio sammelt eine Million ein",
-   "summary": "Das Schweizer KI-Startup Surelio hat eine Million eingeworben, so Inside IT. Die Währung ist in der Überschrift nicht genannt.",
-   "category": "Finanzierungen",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nazhwMl9iWFNMTEdPZHRhclQ0MGhHMmdmakJfMVh1S0JPQ1dqbnhvZG1PcDZUcy0zN2Nwa2hyd2xXQUcyd0ZqSkFiRzM5ZkhfaUZ5RWNLUlpfQU53S0w4OVFiWDNMNXVPTzVYeV9aZ2lxTXpfVTNqZXZVTDg0QQ?oc=5",
-   "source": "Inside IT"
-  },
-  {
-   "title": "Hamburgs Öko-Startups kämpfen ums Überleben",
-   "summary": "Die MOPO fragt, ob der Hype um Hamburger Öko-Startups vorbei ist. Der Artikel ist teilweise kostenpflichtig.",
-   "category": "Hamburg & Norddeutschland",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2x1aElNeXhhem1heEFsU25mUDNsdlRxZlo3c3BsM21lV2E0T1VZOWZhWV9kbElDRkQ0enc4cjJJSmQ5QlNuU1JTRW5SM2FMYWh6dk5PNFZxaXV3eWFteDljdmd3OWsxV1d2Rm1DaTNWVU1jcVZrb2hhSl9HRTdwRXpsYjhoWFpwenBkLVR0UDVPWXlRTG44Z3U3RUh5dw?oc=5",
-   "source": "MOPO"
-  },
-  {
-   "title": "DESY bekommt Gründerzentrum in Hamburg-Lurup",
-   "summary": "Das Forschungszentrum DESY richtet in Hamburg-Lurup ein neues Gründerzentrum ein.",
-   "category": "Hamburg & Norddeutschland",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDdVazdXZ2N6NVJYd1NvVld4SDVJdXVDdUU5blg0cW9ReVl5YjJHS055SFlPZkdTT1h2TEtncXFoalNDT2pOTlhBYzRLNjFhZVYwanY4Q0lYdWdINUlBeE05VjZMQWNCQnRpWEdGTXV1aE8yZzhNcm5mRlRSX0JDTFByTUU0ejlrdmN5M19FU01QbnVlYVYwMFp1YW5rOGhzc09ja1VjRjM2V2U3UDllNUloWFY4cW9sTG9N?oc=5",
-   "source": "NDR.de"
-  },
-  {
-   "title": "Character.AI: 42 US-Staaten stoppen Verkauf privater Chats",
-   "summary": "Im Insolvenzverkauf von Character.AI sollen Daten von über 21 Millionen US-Konten verkauft werden, darunter 2,1 Millionen Konten von Minderjährigen. Mehrere US-Generalstaatsanwälte wehren sich dagegen.",
-   "category": "Europa & Welt",
-   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-   "source": "TechCrunch Startups"
-  },
-  {
-   "source": "Impossible Founders",
-   "url": "https://impossible-founders.com",
-   "title": "Deep Tech Startup Monitor: mehr Gründer, aber Lücke zum Markt",
-   "summary": "Laut Startup-Verband und Joachim Herz Stiftung entstehen in Deutschland dieses Jahr über 300 neue Deep-Tech-Startups, die Investitionen sollen 8,1 Milliarden Euro erreichen. 45 Prozent der Gründer haben promoviert, doch nur jeder fünfte sagt, Förderung habe beim Kundenzugang geholfen.",
-   "category": "Deep Tech & Forschung"
-  }
- ]
+  "date": "2026-11-28",
+  "intro": "Der neue Deep Tech Startup Monitor zeigt: Mehr Gründungen aus der Forschung, aber der Weg zum Kunden bleibt schwer. Dazu gibt es Finanzierung für nextesy und Verluste und eine Pleite im deutschen Ticker.",
+  "top": [
+    {
+      "title": "Deep Tech Startup Monitor: Mehr Gründer, gleiche Lücke zum Markt",
+      "text": "In Deutschland werden dieses Jahr mehr als 300 neue Deep-Tech-Startups erwartet (Firmen, die auf Forschung und schwierige Technik setzen). Die Investitionen sollen mit 8,1 Milliarden Euro einen Rekord erreichen. 45 Prozent der Gründer haben einen Doktortitel, viele kommen direkt aus dem Labor. Doch nur jeder Fünfte sagt, die Unterstützung habe ihm geholfen, Kunden zu erreichen. Die Zahlen stammen vom Startup-Verband und der Joachim Herz Stiftung.",
+      "url": "https://impossible-founders.com",
+      "source": "Impossible Founders",
+      "category": "Deep Tech & Forschung",
+      "tipp": "Hamburger Termine: 1.12. Hardware Meetup bei CompriseTec, 3.12. AI Builders Hamburg, 4.12. Hackathon zu KI-Agenten."
+    },
+    {
+      "title": "nextesy erhält 10,4 Millionen Euro",
+      "text": "Das KI-Startup nextesy aus Zürich bekommt laut Berichten über 10 Millionen Euro. Der deutsche StartupTicker nennt 10,4 Millionen. Weitere Angaben zu Investoren liegen uns hier nicht vor.",
+      "url": "https://www.deutsche-startups.de/2026/11/27/circula-zahlen-bitte-wingcopter-n26-ratzfatz-nextesy/",
+      "source": "deutsche-startups.de",
+      "category": "Finanzierungen"
+    },
+    {
+      "title": "Drohnen-Startup Wingcopter macht 12,3 Mio. Euro Verlust",
+      "text": "Wingcopter, Hersteller von Lieferdrohnen, hat einen Verlust von 12,3 Millionen Euro ausgewiesen. Im selben Ticker: N26 peilt 12 Millionen Kundinnen und Kunden an, und das Startup ratzfatz ist insolvent.",
+      "url": "https://www.deutsche-startups.de/2026/11/27/circula-zahlen-bitte-wingcopter-n26-ratzfatz-nextesy/",
+      "source": "deutsche-startups.de",
+      "category": "Gründungen & Produkte"
+    }
+  ],
+  "entries": [
+    {
+      "title": "TimeTeller pitcht in Berlin",
+      "summary": "TimeTeller macht die innere Uhr des Körpers mit Speichelproben messbar, um etwa in der Krebstherapie die beste Uhrzeit für eine Behandlung zu finden. Das Team pitcht heute bei der Startup-Factories-Challenge in Berlin.",
+      "url": "https://impossible-founders.com",
+      "source": "Impossible Founders",
+      "category": "Deep Tech & Forschung"
+    },
+    {
+      "title": "Quantencomputer sind keine schnelleren Computer",
+      "summary": "eleQtron-Gründer Michael Johanning erklärt in einem Gastbeitrag Qubits und Fehlerkorrektur. Er rät Unternehmen, sich schon heute mit der Technik zu beschäftigen.",
+      "url": "https://www.deutsche-startups.de/2026/11/27/quantencomputer-sind-keine-schnelleren-computer/",
+      "source": "deutsche-startups.de",
+      "category": "Deep Tech & Forschung"
+    },
+    {
+      "title": "Reverse Exits: Gründer kaufen ihre Startups zurück",
+      "summary": "Der Ticker greift das Thema auf, dass Gründerinnen und Gründer ihre Firmen zurückkaufen. Außerdem: Zwei Gründer arbeiten mit sechs KI-Agenten bei AgentTeams.",
+      "url": "https://www.deutsche-startups.de/2026/11/26/finperks-reverse-exits-eventfirst-cylib-basf-agentteams/",
+      "source": "deutsche-startups.de",
+      "category": "Exits & Übernahmen"
+    },
+    {
+      "title": "Fünf junge Kölner Startups im Blick",
+      "summary": "deutsche-startups.de stellt requAIre, Beyond You, NuvaFace, eve.AI und MAIQ vor.",
+      "url": "https://www.deutsche-startups.de/2026/11/26/5-junge-koelner-startups-die-uns-aufgefallen-sind-2/",
+      "source": "deutsche-startups.de",
+      "category": "Gründungen & Produkte"
+    },
+    {
+      "title": "Ramp schließt weitere Übernahmen in Europa nicht aus",
+      "summary": "Der US-Fintech-Konzern Ramp sagt im Sifted-Interview „Never say never“ zu weiteren Zukäufen in Europa.",
+      "url": "https://sifted.eu/articles/ramp-europe-expansion-interview/",
+      "source": "Sifted",
+      "category": "Europa & Welt"
+    },
+    {
+      "title": "Können Europas „Neolabs“ den Hype erfüllen?",
+      "summary": "Sifted fragt, ob die neuen europäischen KI-Forschungslabore ihren Vorschusslorbeeren gerecht werden können. Nur die Überschrift war lesbar.",
+      "url": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/",
+      "source": "Sifted",
+      "category": "Europa & Welt"
+    }
+  ]
 }
