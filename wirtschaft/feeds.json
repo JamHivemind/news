@@ -1,11 +1,17 @@
 {
- "fetched": "2026-11-27T10:18:56.621Z",
+ "fetched": "2026-11-28T02:32:16.990Z",
  "hours": 48,
  "sources": [
   {
    "name": "tagesschau Wirtschaft",
    "ok": true,
    "items": [
+    {
+     "title": "Marktbericht: Schnäppchenjagd an der Börse",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
+     "date": "2026-11-27T17:30:38.000Z",
+     "text": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen."
+    },
     {
      "title": "Wie Firmen mit Weiterbildung gegen Fachkräftemangel vorbeugen",
      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/demografie-fachkraefte-weiterbildung-100.html",
@@ -25,10 +31,16 @@
      "text": "Menschen mit Schwerbehinderung bekommen die gesamtwirtschaftliche Lage besonders stark zu spüren. Die Arbeitslosenquote bei ihnen lag im Jahresdurchschnitt 2025 mit zwölf Prozent fast doppelt so hoch wie im gesamten Arbeitsmarkt."
     },
     {
-     "title": "Textilbranche: Einigung auf Mindestlohn-Erhöhung in Bangladesch",
-     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bangladesch-fast-fashion-100.html",
-     "date": "2026-11-27T07:59:40.000Z",
-     "text": "Beschäftigte der Textilbranche in Bangladesch fordern eine deutliche Verbesserung ihrer Lebens- und Arbeitsbedingungen. Inzwischen gibt es eine erste Einigung. Doch wie viel bleibt den Menschen zum Leben? Von Severine Naeve."
+     "title": "SAP erwägt offenbar Abbau von Tausenden Stellen",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html",
+     "date": "2026-11-27T11:09:46.000Z",
+     "text": "Der Software-Konzern SAP will Medienberichten zufolge Tausende Stellen streichen. Hintergrund soll auch die Automatisierung durch Künstliche Intelligenz sein."
+    },
+    {
+     "title": "SAP meldet verdächtige Aktivitäten",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html",
+     "date": "2026-11-27T06:48:30.000Z",
+     "text": "Mitarbeiter des Softwareriesen sollen prüfen, ob sie Zugangsdaten ändern müssen: Laut einem Medienbericht gab es einen Hackerangriff auf SAP. Das aber will der DAX-Konzern nicht bestätigen."
     },
     {
      "title": "Shopping: KI-Agenten werden beliebter",
@@ -43,16 +55,10 @@
      "text": "Früher war es ein einzelner Einkaufstag, heute zieht sich die Schnäppchenjagd über Wochen: Der Black Friday hat sich auf den ganzen Monat ausgedehnt. Verbraucher warten gezielt auf Rabatte, Händler müssen mitziehen. Von Anke Heinhaus."
     },
     {
-     "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
-     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html",
-     "date": "2026-11-26T16:12:10.000Z",
-     "text": "Der Spanier Pablo Hernández de Cos bringt viel geldpolitische Erfahrung mit. Welcher Kurs ist von dem 55-Jährigen Ökonomen zu erwarten, wenn er an die Spitze der Europäischen Zentralbank rückt?"
-    },
-    {
-     "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
-     "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
-     "date": "2026-11-26T17:28:08.000Z",
-     "text": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge geklärt: Die EU-Spitzen einigten sich auf den Spanier Hernández de Cos. Ein Deutscher ist als Chefvolkswirt vorgesehen."
+     "title": "Textilbranche: Einigung auf Mindestlohn-Erhöhung in Bangladesch",
+     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bangladesch-fast-fashion-100.html",
+     "date": "2026-11-27T07:59:40.000Z",
+     "text": "Beschäftigte der Textilbranche in Bangladesch fordern eine deutliche Verbesserung ihrer Lebens- und Arbeitsbedingungen. Inzwischen gibt es eine erste Einigung. Doch wie viel bleibt den Menschen zum Leben? Von Severine Naeve."
     },
     {
      "title": "Bundesregierung will KI-Anbieter zur Kasse bitten",
@@ -61,16 +67,46 @@
      "text": "KI-Anbieter sollen nach dem Willen der Bundesregierung künftig für die Erzeugung von Inhalten zahlen. Und zwar dann, wenn ihre Modelle Inhalte produzieren, die mit von Menschen geschaffenen Werken konkurrieren."
     },
     {
-     "title": "SAP meldet verdächtige Aktivitäten",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html",
-     "date": "2026-11-27T06:48:30.000Z",
-     "text": "Mitarbeiter des Softwareriesen sollen prüfen, ob sie Zugangsdaten ändern müssen: Laut einem Medienbericht gab es einen Hackerangriff auf SAP. Das aber will der DAX-Konzern nicht bestätigen."
-    },
-    {
      "title": "Einigung im Tarifstreit der Metall- und Elektroindustrie",
      "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html",
      "date": "2026-11-26T16:43:33.000Z",
      "text": "Die Beschäftigten in der Metall- und Elektroindustrie sollen in zwei Stufen insgesamt 4,3 Prozent mehr Lohn erhalten. Darauf haben sich Arbeitgeber und IG Metall geeinigt. Der Pilotabschluss ermöglicht aber auch Ausnahmen."
+    },
+    {
+     "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
+     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html",
+     "date": "2026-11-26T16:12:10.000Z",
+     "text": "Der Spanier Pablo Hernández de Cos bringt viel geldpolitische Erfahrung mit. Welcher Kurs ist von dem 55-Jährigen Ökonomen zu erwarten, wenn er an die Spitze der Europäischen Zentralbank rückt?"
+    },
+    {
+     "title": "Kommentar: Hernández de Cos - ein EZB-Chef im Sinne Frankreichs",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html",
+     "date": "2026-11-27T13:20:03.000Z",
+     "text": "Der neue EZB-Rat steht fest - eingefädelt durch Emmanuel Macron. Der künftige EZB-Präsident Pablo Hernández de Cos steht eher für eine lockere Geldpolitik. In Zeiten hoher Inflation sind Konflikte programmiert. Von Klaus-Rainer Jackisch."
+    },
+    {
+     "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
+     "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
+     "date": "2026-11-26T17:28:08.000Z",
+     "text": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge geklärt: Die EU-Spitzen einigten sich auf den Spanier Hernández de Cos. Ein Deutscher ist als Chefvolkswirt vorgesehen."
+    },
+    {
+     "title": "Anthropics wilde erste Börsenwoche",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-anthropic-ipo-ki-100.html",
+     "date": "2026-11-27T13:44:03.000Z",
+     "text": "Der KI-Konzern Anthropic ging mit großen Erwartungen an die Börse. Der Start der Aktie in New York verlief spektakulär. Doch nach einer Woche fällt die Bilanz alles andere als rosig aus."
+    },
+    {
+     "title": "Wirtschaft vor acht vom 26.11.2026",
+     "url": "https://www.tagesschau.de/video/video-1690646.html",
+     "date": "2026-11-26T19:23:55.000Z",
+     "text": "Wirtschaft vor acht vom 26.11.2026"
+    },
+    {
+     "title": "Update Wirtschaft vom 27.11.2026",
+     "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1690782.html",
+     "date": "2026-11-27T08:54:06.000Z",
+     "text": "Update Wirtschaft vom 27.11.2026"
     },
     {
      "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
@@ -89,30 +125,6 @@
      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
      "date": "2026-11-26T04:00:53.000Z",
      "text": "Die Staats- und Regierungschefs der 27 EU-Länder beraten bei einem Sondergipfel in Brüssel über den langfristigen EU-Haushalt. Dabei geht es auch um mögliche neue Einnahmequellen wie etwa eine Digitalsteuer. Von C. Feld."
-    },
-    {
-     "title": "Marktbericht: Anleger nutzen günstige Kurse zum Einkauf",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
-     "date": "2026-11-27T09:57:08.000Z",
-     "text": "Der DAX setzt seine Erholung schwungvoll fort, unterstützt von der Aussicht auf einen starken Handelsstart an der Wall Street. Trotz der Kursgewinne bleibt die Frage, wie nachhaltig der KI-Boom ist."
-    },
-    {
-     "title": "Wirtschaft vor acht vom 26.11.2026",
-     "url": "https://www.tagesschau.de/video/video-1690646.html",
-     "date": "2026-11-26T19:23:55.000Z",
-     "text": "Wirtschaft vor acht vom 26.11.2026"
-    },
-    {
-     "title": "Update Wirtschaft vom 27.11.2026",
-     "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1690782.html",
-     "date": "2026-11-27T08:54:06.000Z",
-     "text": "Update Wirtschaft vom 27.11.2026"
-    },
-    {
-     "title": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
-     "url": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
-     "date": "2026-11-25T17:37:52.000Z",
-     "text": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als gleichaltrige Männer. Von A. Kartschall."
     },
     {
      "title": "Chinesischer Online-Händler Temu sagt mehr Verbraucherschutz zu",
@@ -137,24 +149,6 @@
      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/digitaler-fuehrerschein-verspaetung-start-mitte-dezember-100.html",
      "date": "2026-11-26T07:10:45.000Z",
      "text": "Ab Ende November sollten Autofahrer in Deutschland eigentlich den digitalen Führerschein nutzen können. Doch der Start verzögert sich. Nun soll es Mitte Dezember losgehen."
-    },
-    {
-     "title": "KI-Ernüchterung an den Börsen greift um sich",
-     "url": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html",
-     "date": "2026-11-25T16:28:08.000Z",
-     "text": "An den US-Börsen geht die Verkaufswelle bei Tech-Aktien weiter. Die alten Sorgen von Investoren wegen der Geschäfts mit Künstlicher Intelligenz bleiben - und neue sind hinzugekommen. Von Heidi Radvilas."
-    },
-    {
-     "title": "Viele offene Fragen bei Chipkonzern Nvidia",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-offene-fragen-100.html",
-     "date": "2026-11-25T11:32:09.000Z",
-     "text": "Jensen Huang steht wieder an der Spitze von Nvidia - und die Tech-Welt scheint wieder in Ordnung. Aber das kurzlebige Ausscheiden des Mitgründers hat Fragen aufgeworfen - und viele davon bleiben erst mal offen. Von Antje Sieb."
-    },
-    {
-     "title": "Euro-Schwäche: Was der \"KI-Dollar\" für Firmen und Sparer bedeutet",
-     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html",
-     "date": "2026-11-25T11:47:38.000Z",
-     "text": "Der Euro ist zum Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen. Hintergrund ist der KI-Boom. Welche Folgen hat das für Unternehmen, Verbraucher und Anleger? Von Angela Göpfert."
     }
    ]
   },
@@ -163,13 +157,67 @@
    "ok": true,
    "items": [
     {
-     "title": "SAP erwägt den Abbau von mehr als 10.000 Stellen",
+     "title": "Rente: Riskanter Alleingang von Arbeitsminister Alexander Schweitzer",
+     "url": "https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss",
+     "date": "2026-11-27T22:40:00.000Z",
+     "text": "Der Arbeitsminister schickt einen Rentenentwurf ohne Abstimmung an die Ressorts, nun ist die Aufregung wieder groß. Es geht auch um politische Mechanik, mediale Wirkung und die Frage: Wer ist schuld, wenn's nicht gut wird?"
+    },
+    {
+     "title": "KI: Ex-US-Arbeitsminister Robert Reich will die Macht der Techmilliardäre brechen",
+     "url": "https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen-a-36aa8aa5-d8a0-4cd8-91a2-88d3fa5ed2e0#ref=rss",
+     "date": "2026-11-27T19:28:00.000Z",
+     "text": "Robert Reich gilt als Vordenker der Demokratischen Partei und war Arbeitsminister unter Bill Clinton. Er hat einen Vorschlag, wie die Macht der KI-Milliardäre zu brechen wäre."
+    },
+    {
+     "title": "René Benko: Gericht korrigiert Strafe nach oben – nun drei Jahre Haft",
+     "url": "https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651#ref=rss",
+     "date": "2026-11-27T15:29:00.000Z",
+     "text": "Die Prozessserie rund um den österreichischen Investor René Benko geht weiter. Nun hat das Oberlandesgericht Innsbruck die Strafe für ein Verfahren angepasst. Das sind schlechte Nachrichten für Benko."
+    },
+    {
+     "title": "Sauter: Klavierbauer stellt Insolvenzantrag",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag-a-a3df64ca-76e0-4225-8baf-a40c22fb35f0#ref=rss",
+     "date": "2026-11-27T14:58:00.000Z",
+     "text": "Seit mehr als 200 Jahren baut die Firma Sauter aus Baden-Württemberg Flügel und Klaviere. Was das Finanzielle betrifft, braucht sie nun offenbar Unterstützung."
+    },
+    {
+     "title": "Handgepäck: Oberlandesgericht Frankfurt am Main erlaubt nur eine Tasche",
+     "url": "https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss",
+     "date": "2026-11-27T14:34:00.000Z",
+     "text": "Welche Gepäckstücke Passagiere mit in die Kabine nehmen dürfen, regelt jede Airline anders. Das Oberlandesgericht Frankfurt hat nun entschieden: Eine kleine Tasche genügt. Rechtskräftig ist das Urteil bisher nicht."
+    },
+    {
+     "title": "Bundeshaushalt 2027: Diese Grafiken zeigen, wohin Ihr Steuergeld fließt",
+     "url": "https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss",
+     "date": "2026-11-27T14:07:00.000Z",
+     "text": "Der Haushalt 2027 ist beschlossen, es ist der größte in der Geschichte der Bundesrepublik. Sehen Sie hier, wo der Staat wie viel Geld ausgibt – und wo die Tücken für die Zukunft liegen."
+    },
+    {
+     "title": "Black-Friday-Geschichte: Wie das Shopping zum Kontaktsport wurde",
+     "url": "https://www.spiegel.de/wirtschaft/service/black-friday-geschichte-wie-das-shopping-zum-kontaktsport-wurde-a-f7053732-7607-4b87-9200-83a2582bac3b#ref=rss",
+     "date": "2026-11-27T14:00:00.000Z",
+     "text": "Tiger in den Straßen, Handgreiflichkeiten in Geschäften und sogar Tote und Verletzte: In der Geschichte des Black Friday geht es nicht immer nur um das günstigste Schnäppchen. Der Rückblick."
+    },
+    {
+     "title": "Delivery Hero: Uber sichert sich fast 90 Prozent der Anteile",
+     "url": "https://www.spiegel.de/wirtschaft/uber-sichert-sich-fast-90-prozent-der-anteile-von-delivery-hero-a-e3ce4aeb-2c38-4e99-9069-dc1159a62ca3#ref=rss",
+     "date": "2026-11-27T13:08:00.000Z",
+     "text": "Das US-Start-up Uber setzt seine aggressive Wachstumspolitik fort. Die milliardenschwere Übernahme des Berliner Essenskuriers Delivery Hero ist fast abgeschlossen."
+    },
+    {
+     "title": "IG Metall und Arbeitgeber einigen sich: Das Herz der Wirtschaft schlägt noch – Meinung",
+     "url": "https://www.spiegel.de/wirtschaft/tarifabschluss-in-der-metall-und-elektroindustrie-das-herz-der-deutschen-wirtschaft-schlaegt-noch-a-866a0dba-a8ab-471b-bdc7-ace99989afb2#ref=rss",
+     "date": "2026-11-27T12:54:00.000Z",
+     "text": "Nach erbitterten Auseinandersetzungen haben Arbeitgeber und IG Metall die Grundlage geschaffen, damit sich die deutsche Industrie erholen kann. Jetzt ist die Politik dran."
+    },
+    {
+     "title": "SAP erwägt Abbau von mehr als 10.000 Stellen",
      "url": "https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen-a-c4a7caff-a097-4ccb-867a-da1e469855fc#ref=rss",
      "date": "2026-11-27T10:08:00.000Z",
      "text": "Der Softwarekonzern SAP ist mit der rasanten Veränderung des Marktes durch künstliche Intelligenz konfrontiert. Das Management lässt offenbar schon Pläne für einen umfangreichen Stellenabbau schmieden."
     },
     {
-     "title": "Nvidia: Auch diese Beziehung einer Führungskraft wirft Fragen auf - womöglich Verbindungen nach China",
+     "title": "Nvidia: Weitere Beziehung einer Führungskraft mit China-Bezug wirft Fragen auf",
      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-auch-diese-beziehung-einer-fuehrungskraft-wirft-fragen-auf-womoeglich-verbindungen-nach-china-a-7f83f64a-dd44-44b2-abdb-b3ece72cd6fb#ref=rss",
      "date": "2026-11-27T09:39:00.000Z",
      "text": "Nvidia-Chef Huang stolperte über Affären, eine der Frauen soll eine chinesische Spionin sein. Das »Wall Street Journal« berichtet über eine weitere potenziell heikle Liaison aus dem Unternehmenskosmos."
@@ -227,60 +275,6 @@
      "url": "https://www.spiegel.de/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-in-tarifstreit-a-152b7f28-1470-44a8-9958-c6fe9db5d584#ref=rss",
      "date": "2026-11-26T15:28:00.000Z",
      "text": "Im Tarifkonflikt in der deutschen Metall- und Elektroindustrie haben die Vertreter von Arbeitgebern und Arbeitnehmern eine Vereinbarung getroffen. Auch unbezahlte Mehrarbeit und Lohnverzicht sollen künftig möglich sein."
-    },
-    {
-     "title": "»Nius«: Medienunternehmen VRM in Mainz beendet Druckauftrag für rechtes Portal",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/nius-medienunternehmen-vrm-in-mainz-beendet-druckauftrag-fuer-rechtes-portal-a-8512d47d-5dd8-46d4-a593-99a4fb6d8cfe#ref=rss",
-     "date": "2026-11-26T15:25:00.000Z",
-     "text": "Das rechte Onlineportal »Nius« veröffentlichte vor einer Woche erstmals auch eine gedruckte Zeitung, mithilfe des Medienunternehmens VRM. Nach heftiger Kritik will es die Zusammenarbeit wieder beenden. Für Julian Reichelt ein »Anschlag auf die Pressefreiheit«."
-    },
-    {
-     "title": "EZB: Spanier ​Pablo Hernández de Cos soll Nachfolger von Christine Lagarde werden",
-     "url": "https://www.spiegel.de/wirtschaft/ezb-spanier-pablo-hernandez-de-cos-soll-nachfolger-von-christine-lagarde-werden-a-9cbee37b-5d10-4e23-8cd8-6bb207ea6809#ref=rss",
-     "date": "2026-11-26T13:57:00.000Z",
-     "text": "Auch für die Bundesregierung ist er der Favorit: Der Spanier Pablo Hernández de Cos soll als Nachfolger von Christine Lagarde die Europäische Zentralbank leiten."
-    },
-    {
-     "title": "Lululemon-Gründer Chip Wilson soll sich auf Frauenkonferenz sexistisch geäußert haben",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/lululemon-gruender-chip-wilson-soll-sich-auf-frauenkonferenz-sexistisch-geaeussert-haben-a-7c6a208b-8462-43df-afb8-c82338e36a3b#ref=rss",
-     "date": "2026-11-26T11:26:00.000Z",
-     "text": "Angekündigt war ein »intimes Kamingespräch«, heraus kam offenbar eine Schuldzuweisung an kanadische Frauen. Chip Wilson, Chef der Yoga-Firma Lululemon, hat auf einer Konferenz für Aufsehen gesorgt. Es war nicht das erste Mal."
-    },
-    {
-     "title": "UniCredit ist bei Commerzbank am Ziel – und will schnell Personal austauschen",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/unicredit-ist-bei-commerzbank-am-ziel-und-will-schnell-personal-austauschen-a-ca320f98-a8ad-4687-a3e5-e6930ac6ff09#ref=rss",
-     "date": "2026-11-26T10:19:00.000Z",
-     "text": "Nachdem alle Behörden der Commerzbank-Übernahme zugestimmt haben, drücken die künftigen Eigentümer aus Italien aufs Tempo. Den Aufsichtsrat soll UniCredit-Chef Orcel führen, den bisherigen Vorständen wird das Vertrauen entzogen."
-    },
-    {
-     "title": "Jensen Huang: Was genau hat der Nvidia-Chef falsch gemacht?",
-     "url": "https://www.spiegel.de/wirtschaft/jensen-huang-was-genau-hat-der-nvidia-chef-falsch-gemacht-a-557707a4-35ac-4f45-aeda-32058f3e1b9b#ref=rss",
-     "date": "2026-11-26T10:18:00.000Z",
-     "text": "Als Frau kann man sich über das Comeback des Nvidia-Chefs fürchterlich aufregen. Am Ende ist das aber nur Penisneid."
-    },
-    {
-     "title": "Edeka ruft rote Kartoffeln zurück",
-     "url": "https://www.spiegel.de/wirtschaft/service/edeka-ruft-kartoffeln-zurueck-a-c151194d-a0ba-4491-b9ec-3ba7be3953bc#ref=rss",
-     "date": "2026-11-26T10:02:00.000Z",
-     "text": "Kartoffeln enthalten eine natürliche Substanz, die zu Beschwerden führen kann. Der Lebensmittelhändler Edeka meldet nun erhöhte Werte bei einer Sorte."
-    },
-    {
-     "title": "Cohere: Bundesregierung prüft höhere Beteiligung an kanadischem KI-Anbieter",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/cohere-bundesregierung-prueft-hoehere-beteiligung-an-kanadischem-ki-anbieter-a-b9034824-995b-4e64-8a60-61151d35136d#ref=rss",
-     "date": "2026-11-26T09:44:00.000Z",
-     "text": "Die Bundesregierung will sich zunächst mit einem symbolischen Euro am kanadischen KI-Anbieter Cohere beteiligen. Doch nach SPIEGEL-Informationen erwägt das Digitalministerium bereits eine deutlich höhere Staatsbeteiligung."
-    },
-    {
-     "title": "Amazon: Ver.di ruft am Black Friday an elf Standorten zum Streik auf",
-     "url": "https://www.spiegel.de/wirtschaft/amazon-ver-di-ruft-am-black-friday-an-elf-standorten-zum-streik-auf-a-244aa9b2-39a8-4bad-97f2-a1d3c44bc4dd#ref=rss",
-     "date": "2026-11-26T08:36:00.000Z",
-     "text": "Morgen steht der Black Friday an, ein wichtiger Shoppingtag für Onlinehändler Amazon. Die Gewerkschaft Ver.di lässt nun mehrere Zentren in Deutschland bestreiken – für rechtsverbindliche Tarifverträge."
-    },
-    {
-     "title": "EU-Gipfel: Friedrich Merz pocht auf Einsparungen – an die Landwirte traut sich niemand ran",
-     "url": "https://www.spiegel.de/wirtschaft/eu-gipfel-merz-pocht-auf-einsparungen-aber-an-die-landwirte-traut-sich-niemand-ran-a-b27412c3-5ed6-4552-b25b-378180c243a9#ref=rss",
-     "date": "2026-11-26T07:29:00.000Z",
-     "text": "Die EU-Spitzen streiten über das künftige Budget. Kanzler Merz und die »sparsamen Staaten« handeln die anderen immer weiter herunter. Doch gekürzt werden vor allem Posten, mit denen Europa viel bewirken kann."
     }
    ]
   },
@@ -289,46 +283,70 @@
    "ok": true,
    "items": [
     {
-     "title": "Winterblues: So tanken wir zuhause auf",
-     "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/gegen-winterblues-und-stimmungstief-so-wird-ihr-zuhause-zur-energiequelle-accg-201697944.html",
-     "date": "2026-11-27T09:58:53.000Z",
-     "text": "Wenn es draußen grau und regnerisch ist, schlägt das auf die Stimmung. Da kann das Zuhause zur Energiequelle werden. Wie, verraten zwei Wohnpsychologinnen und ein Sportwissenschaftler."
+     "title": "Hans-Werner Sinn: „Die fetten Jahre sind vorbei“",
+     "url": "https://www.faz.net/aktuell/wirtschaft/die-fetten-jahre-sind-vorbei-hans-werner-sinn-ueber-die-zukunft-deutschlands-accg-201716573.html",
+     "date": "2026-11-26T09:07:10.000Z",
+     "text": "Der Ökonom Hans-Werner Sinn über Deutschlands Aufrüstung, Rente ohne Kinder, hohe Stromkosten, Eurobonds gegen französische Atomwaffen, den richtigen Umgang mit China und die Zukunft der Arbeit im Zeitalter der Künstlichen Intelligenz."
+    },
+    {
+     "title": "Pharmabranche: Eine deutsche Hoffnung für viele Krebspatienten",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/keytruda-kopie-warum-formycon-die-hoffnung-fuer-krebspatienten-ist-201689484.html",
+     "date": "2026-11-27T20:38:54.000Z",
+     "text": "Das Krebsmittel Keytruda ist ein Segen für viele Patienten – aber leider auch sehr teuer. Bald wird die erste günstige Kopie zugelassen. Eine deutsche Firma arbeitet dran."
+    },
+    {
+     "title": "KI-Flut bei Gerichten: Was ist dran am „Agentic Flooding“?",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/agentic-flooding-wie-ki-die-sozialgerichte-ueberlastet-und-welche-loesungsansaetze-es-gibt-201697218.html",
+     "date": "2026-11-27T19:26:37.000Z",
+     "text": "Die KI sorgt für Unmut bei Gerichte, der Ruf nach Gebühren oder Beschränkungen wird lauter. Doch Kritiker warnen vor neuen Hürden."
+    },
+    {
+     "title": "Business-Ticker: 36 statt 30 Monate Haft für René Benko",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ramona-pop-verlaesst-verbraucherzentrale-bundesverband-faz-200452404.html",
+     "date": "2026-11-27T16:00:00.000Z",
+     "text": "Norse Atlantic meldet Insolvenz an und streicht alle Flüge +++ Deutsche Börse darf Fondsdienstleister Allfonds übernehmen +++ Ramona Pop verlässt Verbraucherzentrale Bundesverband +++ alle Neuigkeiten im Unternehmen-Liveblog"
+    },
+    {
+     "title": "Monsantos Milliarden: Wie Bayer aus dem Glyphosat-Albtraum erwacht",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/monsantos-milliarden-wie-bayer-aus-dem-glyphosat-albtraum-erwacht-201719032.html",
+     "date": "2026-11-27T17:47:41.000Z",
+     "text": "Bayer hat einen Befreiungsschlag gemacht, um sich des Rechtsrisikos rund um den umstrittenen Unkrautvernichter Glyphosat zu entledigen. Doch die nächste Herausforderung steht an."
+    },
+    {
+     "title": "Konsolidierung: Britischer Tabakkonzern Imperial ist Übernahmeziel",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/altria-group-will-imperial-brands-uebernehmen-201723313.html",
+     "date": "2026-11-27T17:35:37.000Z",
+     "text": "Der britische Tabakkonzern und Reemtsma-Käufer Imperial Brands könnte übernommen werden. Der amerikanische Marlboro-Hersteller Altria zeigt Interesse, möglicherweise zusammen mit Camel-Hersteller Japan Tobacco."
+    },
+    {
+     "title": "Großbritannien: Streit um das Ölfeld Rosebank wird zur Zerreißprobe für Labour",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/oelfeld-rosebank-spaltet-labour-rebellion-gegen-andy-burnham-201723867.html",
+     "date": "2026-11-27T17:35:03.000Z",
+     "text": "Die britische Regierungspartei ist tief gespalten in der Frage, ob das große Ölfeld Rosebank genehmigt werden soll. Klimaschützer kämpfen gegen Gewerkschaften. Den Haushalten droht im Januar ein Energiepreisschock."
+    },
+    {
+     "title": "Abstimmung im Bundestag: Ein Haushalt der Negativrekorde",
+     "url": "https://www.faz.net/aktuell/wirtschaft/rekordschulden-und-ein-schwacher-ausblick-ein-haushalt-der-negativrekorde-201722642.html",
+     "date": "2026-11-27T14:01:46.000Z",
+     "text": "Der Bundestag winkt einen Haushalt voller Rekorde durch, die Schuldenregel hält nur mit Tricks. Wachstum ohne Staatsausgaben kommt zu kurz. Das geht besser."
+    },
+    {
+     "title": "EU-Haushalt: Zu denken gibt, wie dieser Gipfel gescheitert ist",
+     "url": "https://www.faz.net/aktuell/wirtschaft/eu-gipfel-mit-merz-und-macron-scheitern-nach-plan-201722832.html",
+     "date": "2026-11-27T12:36:57.000Z",
+     "text": "Der abgebrochene Sondergipfel zum EU-Haushalt ist kein Drama. Ob sich die Staaten bis zum Jahresende einigen, ist leider nicht ausgemacht."
+    },
+    {
+     "title": "Wohnungsmangel: Schwerer Stand",
+     "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/baugenehmigungen-brechen-ein-schwerer-stand-fuer-verena-hubertz-201715044.html",
+     "date": "2026-11-27T11:12:00.000Z",
+     "text": "Die Kritik der Immobilienbranche an der Bundesregierung ist groß. Im September ist auch noch die Zahl der Baugenehmigungen eingebrochen."
     },
     {
      "title": "Tarifeinigung in der Industrie: Die Mitarbeiter in die Pflicht nehmen",
      "url": "https://www.faz.net/aktuell/wirtschaft/tarifeinigung-in-der-metallindustrie-die-mitarbeiter-in-die-pflicht-nehmen-201722276.html",
      "date": "2026-11-27T09:27:30.000Z",
      "text": "Industrieunternehmen, die in Deutschland investieren, sollen Löhne reduzieren und die Arbeitszeit verlängern können. Vorausgesetzt, die Mitarbeiter spielen mit. Nur so kann es gehen."
-    },
-    {
-     "title": "Gesamtmetall-Chef zur Tarifeinigung: „Wir haben geliefert, das kann auch eine Blaupause für die Politik sein“",
-     "url": "https://www.faz.net/aktuell/wirtschaft/gesamtmetall-chef-udo-dinglreiter-zur-tarifeinigung-das-ist-ein-grosser-wurf-accg-201722196.html",
-     "date": "2026-11-27T08:36:38.000Z",
-     "text": "Lohnsteigerungen, Einmalzahlung und ein Mechanismus, bei dem die Mitarbeiter verzichten, wenn Industrieunternehmen in Deutschland investieren: Gesamtmetall-Präsident Dinglreiter hält große Stücke auf den Tarifabschluss."
-    },
-    {
-     "title": "Business-Ticker: Ramona Pop verlässt Verbraucherzentrale Bundesverband",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-sap-haben-verdaechtige-aktivitaeten-identifiziert-faz-200452404.html",
-     "date": "2026-11-27T02:37:00.000Z",
-     "text": "Vertrag von früherer Grünen-Politikerin Pop endet 2027 +++ SAP: Haben „verdächtige Aktivitäten identifiziert“ +++ Gericht stoppt Übernahme der irischen Bank PTSB durch Bawag +++ alle Neuigkeiten im Unternehmen-Liveblog"
-    },
-    {
-     "title": "Photovoltaik und Biogas: Die Energiewende ist mehr als eine Kostenrechnung",
-     "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/die-energiewende-ist-mehr-als-eine-kostenrechnung-accg-201715367.html",
-     "date": "2026-11-27T07:10:20.000Z",
-     "text": "Warum die Forderung von 26 Ökonominnen und Ökonomen nach einer möglichst kostengünstigen Stromversorgung zu kurz greift. Eine Erwiderung."
-    },
-    {
-     "title": "Volksabstimmung: Wie die Schweizer ihr Rentengeschenk finanzieren wollen",
-     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schweiz-stimmt-fuer-13-monatsrente-und-mehrwertsteuererhoehung-ab-accg-201714231.html",
-     "date": "2026-11-27T05:33:46.000Z",
-     "text": "Für die vom Volk bestellte 13. Monatsrente soll die Mehrwertsteuer angehoben werden. Falls die Eidgenossen am Sonntag dazu Nein sagen, droht der staatlichen Rentenkasse ein noch höheres Defizit."
-    },
-    {
-     "title": "EU-Budget: Dann war es den sparsamen Staaten um Deutschland zu viel",
-     "url": "https://www.faz.net/aktuell/wirtschaft/eu-haushalt-das-scheitern-des-sondergipfels-wirft-zweifel-auf-accg-201721661.html",
-     "date": "2026-11-27T05:17:23.000Z",
-     "text": "Mit einer Einigung auf den EU-Haushalt auf dem Sondergipfel hatte kaum jemand gerechnet. Wie der gescheitert ist, wirft aber Fragen auf."
     },
     {
      "title": "Rente mit 63: Die Union steht dem Umverteilungsstreben der SPD hilflos gegenüber",
@@ -343,64 +361,70 @@
      "text": "Elon Musk stammelt während einer Liveschaltung herum. Sein Zustand war offensichtlich höchst labil. Konsequenzen? Wohl kaum. Ein weiterer Grund, sich ernsthaft zu sorgen."
     },
     {
-     "title": "Ohne Einigung: Gipfel zum EU-Haushalt vorzeitig beendet",
-     "url": "https://www.faz.net/aktuell/wirtschaft/eu-haushaltsgipfel-abgebrochen-merz-bleibt-zuversichtlich-201721642.html",
-     "date": "2026-11-26T21:42:26.000Z",
-     "text": "Die Spitzen der EU-Staaten brechen ihre Verhandlungen über den nächsten EU-Haushalt vorzeitig ab. Bundeskanzler Merz glaubt dennoch an eine Einigung vor Jahresende."
+     "title": "Rüstung: Rheinmetall senkt die Ziele",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-senkt-ziele-armin-papperger-will-konservativer-planen-201723237.html",
+     "date": "2026-11-27T17:24:31.000Z",
+     "text": "Deutschlands größter Rüstungskonzern hat wegen verzögerter Aufträge seine Prognose gekappt und wird nun auch für die Mittelfristziele pessimistischer. Auf dem Kapitalmarkttag kommt das gut an – und das hat Gründe."
     },
     {
-     "title": "Reisen 2027: Urlaub mit Rückgaberecht",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dertour-fuehrt-flexible-stornooption-fuer-pauschalreisen-ein-201719832.html",
-     "date": "2026-11-26T19:00:27.000Z",
-     "text": "2026 zögerten viele Urlauber mit Buchungen, wegen des Nahost-Konflikts und wegen begrenzter Budgets. Das soll sich nicht wiederholen. Dertour greift zu Konzepten, die Airlines und Hotelportale schon länger einsetzen."
-    },
-    {
-     "title": "Hans-Werner Sinn: „Die fetten Jahre sind vorbei“",
-     "url": "https://www.faz.net/aktuell/wirtschaft/die-fetten-jahre-sind-vorbei-hans-werner-sinn-ueber-die-zukunft-deutschlands-accg-201716573.html",
-     "date": "2026-11-26T09:07:10.000Z",
-     "text": "Der Ökonom Hans-Werner Sinn über Deutschlands Aufrüstung, Rente ohne Kinder, hohe Stromkosten, Eurobonds gegen französische Atomwaffen, den richtigen Umgang mit China und die Zukunft der Arbeit im Zeitalter der Künstlichen Intelligenz."
+     "title": "IG-Metall-Chefin Benner: „Die 35-Stunden-Woche bleibt“",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/christiane-benner-verteidigt-die-35-stunden-woche-der-ig-metall-201722993.html",
+     "date": "2026-11-27T17:23:51.000Z",
+     "text": "In der Metallindustrie soll Mehrarbeit ohne mehr Geld möglich werden. Gewerkschafterin Christiane Benner verteidigt den Tabubruch."
     },
     {
      "title": "Volkswagen: „Wenn ich nicht die Moral hätte, würde ich verkaufen“",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-krise-ernst-piech-wuerde-anteile-verkaufen-haelt-aber-aus-moral-durch-accg-201716307.html",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-krise-wenn-ich-nicht-die-moral-haette-wuerde-ich-verkaufen-accg-201716307.html",
      "date": "2026-11-26T06:47:57.000Z",
      "text": "Die Familien Porsche und Piëch haben VW geprägt. Doch das Erbe wird zur Last: Wie lange wollen – und können – die Nachfahren daran festhalten? Eine neue Folge des Podcasts „Die VW-Story“ blickt hinter die Kulissen einer Unternehmerdynastie in der Krise."
     },
     {
-     "title": "Abschlagsfrei in den Ruhestand?: Welche Chancen hat die „Respekt-Rente“?",
-     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/rente-mit-63-wer-soll-kuenftig-noch-ohne-abschlaege-in-rente-gehen-duerfen-201719066.html",
-     "date": "2026-11-26T18:33:20.000Z",
-     "text": "Öffentlich streiten Union und SPD über die wichtigste sozialpolitische Reform dieser Legislaturperiode. Was passiert hinter den geschlossenen Türen?"
+     "title": "EU-Budget: Dann war es den sparsamen Staaten um Deutschland zu viel",
+     "url": "https://www.faz.net/aktuell/wirtschaft/eu-haushalt-das-scheitern-des-sondergipfels-wirft-zweifel-auf-accg-201721661.html",
+     "date": "2026-11-27T05:17:23.000Z",
+     "text": "Mit einer Einigung auf den EU-Haushalt auf dem Sondergipfel hatte kaum jemand gerechnet. Wie der gescheitert ist, wirft aber Fragen auf."
     },
     {
-     "title": "Einkommen: Die Reallöhne in Deutschland sind weiter gestiegen",
-     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/realloehne-in-deutschland-steigen-weiter-aber-langsamer-201718919.html",
-     "date": "2026-11-26T15:29:22.000Z",
-     "text": "Arbeitnehmerinnen und Arbeitnehmer haben nach Abzug der Teuerung im Durchschnitt mehr Geld in der Tasche. Das ist eine gute Nachricht für die Konjunktur. Doch die vielen Krisenjahre wirken nach."
+     "title": "Neue Zahlen der BA: Schulden und ein trüber Arbeitsmarkt",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bundesarbeitsagentur-schulden-von-zehn-milliarden-und-trueber-arbeitsmarkt-201723118.html",
+     "date": "2026-11-27T17:16:56.000Z",
+     "text": "Gute Nachrichten bietet die Bundesarbeitsagentur derzeit nicht. Die Chancen für Arbeitslose blieben „historisch schlecht“, heißt es. Für die Behörde selbst wird das teuer."
     },
     {
-     "title": "Großbritannien: Bietet eine verstaatlichte Bahn besseren Service?",
-     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bahn-in-grossbritannien-warum-die-verstaatlichung-bisher-enttaeuscht-201715722.html",
-     "date": "2026-11-25T16:42:49.000Z",
-     "text": "Die britische Labour-Regierung hat die Eisenbahnen des Landes verstaatlicht. Doch offizielle Daten zeigen: Seitdem sind Pünktlichkeit und Zuverlässigkeit gesunken, der Service wurde schlechter. Zudem steigen die Verluste."
+     "title": "Koalition stolpert vorwärts: Haushalt 2027? Endlich durch! Steuerpaket? Vielleicht später!",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/cdu-und-spd-streiten-ueber-steuern-rente-und-benzinpreisdeckel-201722938.html",
+     "date": "2026-11-27T16:07:17.000Z",
+     "text": "Um den Koalitionsfrieden ist es weiterhin nicht gut bestellt. Der Streit über Steuern, Rente, Benzinpreisdeckel überlagert den Erfolg mit dem Etat, den die Koalition nach zähem Ringen vorweisen kann."
     },
     {
-     "title": "Bosch-Siemens-Hausgeräte: Streit um Sozialplan erschwert Verkauf von Brettener BSH-Werk",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bsh-in-bretten-streit-um-sozialplan-gefaehrdet-werkverkauf-201719092.html",
-     "date": "2026-11-26T17:44:08.000Z",
-     "text": "BSH will die Fertigung von Dunstabzugshauben in Bretten verkaufen und das Backofenwerk schließen. Über die Absicherung der Mitarbeiter gibt es bislang keine Einigung zwischen Hausgerätehersteller und Betriebsrat."
+     "title": "Volksabstimmung: Wie die Schweizer ihr Rentengeschenk finanzieren wollen",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schweiz-stimmt-fuer-13-monatsrente-und-mehrwertsteuererhoehung-ab-accg-201714231.html",
+     "date": "2026-11-27T05:33:46.000Z",
+     "text": "Für die vom Volk bestellte 13. Monatsrente soll die Mehrwertsteuer angehoben werden. Falls die Eidgenossen am Sonntag dazu Nein sagen, droht der staatlichen Rentenkasse ein noch höheres Defizit."
     },
     {
-     "title": "Poundland-Pleite: Discounter-Zusammenbruch beunruhigt britische Politik",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/poundland-insolvenz-bedroht-fast-11-000-jobs-in-grossbritannien-201720086.html",
-     "date": "2026-11-26T15:54:23.000Z",
-     "text": "Die Pleite von Poundland gefährdet fast 11.000 Arbeitsplätze. Zudem droht mit der Insolvenz der Billiggeschäfte noch mehr Leerstand von Läden in den Innenstädten. Aber es gibt auch Hoffnung auf eine Übernahme."
+     "title": "Bill Anderson: Der Bayer-Chef und seine klugen Cowboys",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-chef-bill-anderson-und-sein-zitat-aus-dem-westernroman-201721365.html",
+     "date": "2026-11-27T17:12:01.000Z",
+     "text": "Bill Anderson wuchs in Texas auf. Die Helden seiner Jugend begleiten ihn bis heute."
     },
     {
-     "title": "Tipps für Rabattschlacht: Diese Psychotricks sollte jeder am Black Friday kennen",
-     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/black-friday-diese-psychotricks-nutzen-shops-wie-temu-201695937.html",
-     "date": "2026-11-26T14:29:40.000Z",
-     "text": "Werbung und Shops greifen oft tief in die psychologische Trickkiste. Auf welche Verkaufsstrategien es ankommt, und wie man nicht darauf hereinfällt."
+     "title": "Deeptech: Der Herr der Roboter",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tamim-asfour-deutschlands-fuehrender-forscher-fuer-humanoide-roboter-201706783.html",
+     "date": "2026-11-27T13:48:05.000Z",
+     "text": "Tamim Asfour baut seit 30 Jahren humanoide Roboter. Für den Informatiker ist es ein „Problem“, dass Amerika und China schneller als Deutschland sind. Was muss sich hierzulande ändern?"
+    },
+    {
+     "title": "10.000 Stellen in Gefahr: SAP plant den zweiten Aderlass in zwei Jahren",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/10-000-jobs-in-gefahr-sap-plant-stellenabbau-und-meldet-hackerangriff-accg-201723017.html",
+     "date": "2026-11-27T13:18:05.000Z",
+     "text": "Nach gerade mal zwei Jahren plant SAP wieder einen groß angelegten Stellenabbau. Für Unruhe sorgt außerdem eine Cyberattacke."
+    },
+    {
+     "title": "Winterblues: So tanken wir zuhause auf",
+     "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/gegen-winterblues-und-stimmungstief-so-wird-ihr-zuhause-zur-energiequelle-accg-201697944.html",
+     "date": "2026-11-27T09:58:53.000Z",
+     "text": "Wenn es draußen grau und regnerisch ist, schlägt das auf die Stimmung. Da kann das Zuhause zur Energiequelle werden. Wie, verraten zwei Wohnpsychologinnen und ein Sportwissenschaftler."
     },
     {
      "title": "Immobilien vor Gericht: Mieter müssen nicht alle Kosten der neuen Heizung zahlen",
@@ -410,27 +434,21 @@
     },
     {
      "title": "Bezahlbare Wohnungen: „Das sind dann vielleicht 14 oder 15 Euro als Miete“",
-     "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/wie-vermieter-mit-neubau-hohe-renditen-erzielen-201672809.html",
+     "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/wie-mieten-und-kaufpreise-im-neubau-sinken-sollen-201672809.html",
      "date": "2026-11-26T13:27:36.000Z",
      "text": "Die Baukosten sollen sinken – und damit Mieten und Kaufpreise im Neubau. Kruno Crepulja von Instone verrät, wodurch das gelingt, wer noch Wohnungen kauft und wie Vermieter mit Steuervorteilen hohe Renditen bekommen sollen."
     },
     {
-     "title": "Immobilienfonds: Berliner Luxushotel soll nun mindestens 300 Millionen Euro einbringen",
-     "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/buero-gewerbe/hotel-adlon-jagdfeld-startet-neuen-verkaufsversuch-mit-hoeherem-mindestpreis-201715491.html",
-     "date": "2026-11-25T16:33:52.000Z",
-     "text": "Der erste Anlauf war gescheitert. Nun will Jagdfeld das Berliner Hotel Adlon wieder ins Schaufenster stellen. Was ist anders?"
+     "title": "Photovoltaik und Biogas: Die Energiewende ist mehr als eine Kostenrechnung",
+     "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/warum-die-energiewende-mehr-als-zu-kurz-greift-accg-201715367.html",
+     "date": "2026-11-27T07:10:20.000Z",
+     "text": "Warum die Forderung von 26 Ökonominnen und Ökonomen nach einer möglichst kostengünstigen Stromversorgung zu kurz greift. Eine Erwiderung."
     },
     {
-     "title": "Streit um die Normen: Die Rechenschaft fürs Klima gerät unter Druck",
-     "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/eu-nachhaltigkeitsregeln-unter-druck-efrag-ringt-um-neuen-kurs-201710353.html",
-     "date": "2026-11-25T13:12:52.000Z",
-     "text": "Unternehmen sollen ihre Klimarisiken aufdecken. Ein Blick in die geheimnisvolle Welt der Regelsetzer zeigt, wo die Fronten verlaufen. Klappt das mit der Nachhaltigkeit oder haben sich die Institute verrannt?"
-    },
-    {
-     "title": "Streitfall Wohnung: Deutschlands Vermieterschreck",
-     "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/daniel-halmer-leitet-ein-portal-das-an-der-mietpreisbremse-verdient-201690228.html",
-     "date": "2026-11-25T19:34:30.000Z",
-     "text": "Daniel Halmer hat die Mietpreisbremse zum Geschäft gemacht und hilft Mietern, ihr Recht umzusetzen. Was nach Altruismus klingt, ist ein knallhartes Geschäft."
+     "title": "Schneller Schlau: Vier Jahre ChatGPT: Wie steht die KI-Welt heute da?",
+     "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/vier-jahre-chatgpt-wie-steht-die-ki-welt-heute-da-201719777.html",
+     "date": "2026-11-27T16:54:28.000Z",
+     "text": "Mit dem Start von ChatGPT begann der große KI-Hype. Vier Jahre danach gehören Chatbots für viele Menschen fest zum Alltag und Milliarden werden in generative KI investiert. Eine Bestandsaufnahme – und ein Blick voraus."
     }
    ]
   },
@@ -439,184 +457,184 @@
    "ok": true,
    "items": [
     {
-     "title": "Führung: „Die besten Chefs sind Meister der strategischen Natürlichkeit“",
-     "url": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-fuehrung-ist-immer-auch-eine-rolle/100229671.html",
-     "date": "2026-11-27T10:11:00.000Z",
-     "text": "Das Ideal „Sei ganz du selbst im Job“ ist riskant, sagt Wirtschaftspsychologe Tomas Chamorro-Premuzic. So setzen gute Chefs Emotionen gezielt ein."
+     "title": "Schuldenkrise: Hohe Schulden, Politikrisiken: S&P droht Frankreich mit Abstufung",
+     "url": "https://www.handelsblatt.com/politik/international/schuldenkrise-hohe-schulden-politikrisiken-sp-droht-frankreich-mit-abstufung/100273395.html",
+     "date": "2026-11-27T22:40:39.000Z",
+     "text": "Sozialproteste für höhere Löhne und gegen Sozialkürzungen und in wenigen Monaten eine Präsidentschaftswahl. Dazu kommen historisch hohe Schulden – und die könnten künftig noch teurer werden."
     },
     {
-     "title": "EU-Gipfel: EU‑Haushalt – es kommt zum Showdown zwischen Merz und Macron vor Weihnachten",
-     "url": "https://www.handelsblatt.com/politik/international/eu-gipfel-euhaushalt-es-kommt-zum-showdown-vor-weihnachten/100273137.html",
-     "date": "2026-11-27T10:02:31.000Z",
-     "text": "Die EU-Chefs haben ihren Sondergipfel wegen verhärteter Fronten vorzeitig beendet. Doch Merz und Macron halten am Ziel einer Einigung fest – auch weil Le Pen ihnen im Nacken sitzt."
+     "title": "Künstliche Intelligenz: OpenAI reicht im Streit um KI-Technologie Gegenklage gegen Apple ein",
+     "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-reicht-im-streit-um-ki-technologie-gegenklage-gegen-apple-ein/100273392.html",
+     "date": "2026-11-27T22:13:23.000Z",
+     "text": "OpenAI wirft Apple den Diebstahl von Geschäftsgeheimnissen vor. Apple hatte zuvor ähnliche Vorwürfe gegen den ChatGPT-Entwickler erhoben."
     },
     {
-     "title": "Emag: Tesla will deutschen Roboter-Spezialisten übernehmen",
-     "url": "https://www.handelsblatt.com/unternehmen/industrie/emag-tesla-will-deutschen-roboter-spezialisten-uebernehmen/100273250.html",
-     "date": "2026-11-27T09:58:54.000Z",
-     "text": "Tesla baut sein Engagement in Deutschland weiter aus. Der US-Konzern plant die Übernahme des Maschinenbauers Emag. Das Unternehmen steckte zuletzt in der Krise."
+     "title": "Debatte um Parteivorsitz: Schweitzer: Trennung von Amt und Mandat bringt SPD nichts",
+     "url": "https://www.handelsblatt.com/politik/deutschland/debatte-um-parteivorsitz-schweitzer-trennung-von-amt-und-mandat-bringt-spd-nichts/100273389.html",
+     "date": "2026-11-27T20:52:35.000Z",
+     "text": "Die Kritik an Parteichef Klingbeil ist in der SPD-Basis groß - auch bei den Jusos. Sollte man gleichzeitig Minister sein und eine Partei führen?"
     },
     {
-     "title": "Gastronomie: Diese Top-Weine passen besonders gut zum Weihnachtsessen",
-     "url": "https://www.handelsblatt.com/arts_und_style/lifestyle/gastronomie-diese-top-weine-passen-besonders-gut-zum-weihnachtsessen-01/100272774.html",
-     "date": "2026-11-27T09:56:00.000Z",
-     "text": "Schon die Wahl des Festmahls ist schwierig, reicht die Bandbreite doch von Kartoffelsalat bis zu Hirschbraten. Und was trinkt man dazu? Hier finden Sie die passenden Weine und Sekte."
+     "title": "Reformpläne: Schweitzer kündigt eine der „größten Rentenreformen“ an",
+     "url": "https://www.handelsblatt.com/politik/deutschland/reformplaene-schweitzer-kuendigt-eine-der-groessten-rentenreformen-an/100273140.html",
+     "date": "2026-11-27T19:12:13.000Z",
+     "text": "Der Arbeitsminister legt vor: Bei der vorzeitigen Rente nach 45 Jahren soll es „harte Korrekturen“ geben, bei einer anderen Frührente höhere Abschläge. Kann das den Rentenstreit lösen?"
     },
     {
-     "title": "Rüstungsindustrie: Rheinmetall senkt Umsatzziel für 2030",
-     "url": "https://www.handelsblatt.com/unternehmen/industrie/rheinmetall-umsatzziel-fuer-2030-sinkt-auf-33-bis-37-milliarden-euro/100273257.html",
-     "date": "2026-11-27T09:54:15.000Z",
-     "text": "Der Bund verhandelt hart um den Boxer-Großauftrag „Arminius“. Rheinmetall liefert deshalb später als geplant. Konzernchef Papperger nennt eine Bedingung für seine Unterschrift."
+     "title": "Wall Street: US-Börsen schließen im Plus – Nvidia-Aktie sackt zwischenzeitlich ab",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-us-boersen-schliessen-im-plus-anthropic-wieder-ueber-ausgabepreis/100273324.html",
+     "date": "2026-11-27T18:04:00.000Z",
+     "text": "Die US-Börsen notierten an einem verkürzten Börsentag unter positiven Vorzeichen. Die Titel des KI-Entwicklers Anthropic notieren wieder über ihrem Ausgabepreis. Ein Medienbericht beeinflusste Nvidia."
     },
     {
-     "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-     "url": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-mit-diesem-ki-wissen-ueberzeugen-sie-headhunter-sofort/100240522.html",
-     "date": "2026-11-27T09:47:00.000Z",
-     "text": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert."
+     "title": "Interview mit Adrian Daub: „Das ist blanker Narzissmus mit ein paar Zwischenschritten“",
+     "url": "https://www.handelsblatt.com/technik/it-internet/tech-elite-das-ist-blanker-narzissmus-mit-ein-paar-zwischenschritten/100243247.html",
+     "date": "2026-11-27T17:48:00.000Z",
+     "text": "Der Stanford-Professor untersucht seit knapp 20 Jahren das Denken der Tech-Elite. Was treibt Thiel, Zuckerberg oder Musk an – und was bedeutet das für die Demokratie?"
     },
     {
-     "title": "Geld: Der Millionenerbe, der die Millionen nicht will",
-     "url": "https://www.handelsblatt.com/finanzen/steuern-recht/erbe-ich-moechte-die-rolle-des-geldgebers-irgendwann-verlassen/100204748.html",
-     "date": "2026-11-27T09:47:00.000Z",
-     "text": "Kai Viehof hat den Großteil seines Erbes ausgeschlagen, auch vom Rest will der Enkel des Allkauf-Gründers das meiste weggeben. Über einen Mann, dessen Beruf es ist, sinnvoll Geld loszuwerden."
+     "title": "Sachsen-Anhalt: BSW‑Parteitag eröffnet – Ruhnert sieht große Chance",
+     "url": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-bswparteitag-eroeffnet-ruhnert-sieht-grosse-chance/100273378.html",
+     "date": "2026-11-27T17:31:38.000Z",
+     "text": "Die Wagenknecht-Partei hat kein leichtes Jahr hinter sich – die meisten Landtagswahlen gingen verloren. Nun wird im BSW über die AfD gestritten. Der Generalsekretär macht der Partei Mut."
     },
     {
-     "title": "Geldanlage: Zehn Dinge, die ich als Anfänger über ETFs gelernt habe",
-     "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-das-haette-ich-beim-ersten-etf-gern-gewusst/100184984.html",
-     "date": "2026-11-27T09:47:00.000Z",
-     "text": "Aus dem Handelsblatt-Archiv: Unser Autor befasst sich zum ersten Mal in seinem Leben mit ETFs – und stellt fest, dass Altersvorsorge damit in der Theorie einfacher ist als in der Praxis."
+     "title": "Parteitag in Dresden: BSW-Streit über die AfD – Droht die Spaltung?",
+     "url": "https://www.handelsblatt.com/politik/deutschland/parteitag-in-dresden-bsw-streit-ueber-die-afd-droht-die-spaltung/100273173.html",
+     "date": "2026-11-27T17:25:25.000Z",
+     "text": "Vor drei Jahren verließ Sahra Wagenknecht die Linke und startete ihr eigenes Projekt. Nach einer Serie von Rückschlägen folgt nun ein Richtungsstreit. Der Ton ist rau, ein Kompromiss nicht in Sicht."
     },
     {
-     "title": "Abo-Inventur nötig?: Umfrage: Jeder fünfte Haushalt mit ungenutztem Streaming-Abo",
-     "url": "https://www.handelsblatt.com/technik/it-internet/abo-inventur-noetig-umfrage-jeder-fuenfte-haushalt-mit-ungenutztem-streaming-abo/100272874.html",
-     "date": "2026-11-27T09:46:13.000Z",
-     "text": "Verbraucher vergleichen Smartphone-Preise, optimieren ihre Versicherungen oder schielen nach der günstigsten Tanke. Aber Sparpotenzial beim Streaming lassen sie teils links liegen, zeigt eine Umfrage."
+     "title": "Parteien: Klüssendorf rechnet „jetzt endlich“ mit AfD-Verbotsantrag",
+     "url": "https://www.handelsblatt.com/politik/deutschland/parteien-kluessendorf-rechnet-jetzt-endlich-mit-afd-verbotsantrag/100273380.html",
+     "date": "2026-11-27T17:20:43.000Z",
+     "text": "Über ein AfD-Verbotsverfahren wird immer wieder diskutiert. Der SPD-Generalsekretär meint: Jetzt könnte es so weit sein."
     },
     {
-     "title": "Karriere: „Es ist in Ordnung, kein Karriereziel zu haben“",
-     "url": "https://www.handelsblatt.com/unternehmen/management/management-ich-setze-mich-nicht-unter-druck-um-ein-ziel-zu-erreichen/100248072.html",
-     "date": "2026-11-27T09:46:00.000Z",
-     "text": "Die Londoner Neurowissenschaftlerin Anne-Laure Le Cunff forscht über den Weg zu Erfolg und mehr Produktivität. Statt sich große Ziele zu setzen, rät sie zu einer anderen Strategie."
+     "title": "Viruserkrankung mit Folgen: Kampf gegen Masern: Amerika und Europa im Blick der WHO",
+     "url": "https://www.handelsblatt.com/technik/forschung-innovation/viruserkrankung-mit-folgen-kampf-gegen-masern-amerika-und-europa-im-blick-der-who/100273374.html",
+     "date": "2026-11-27T17:01:04.000Z",
+     "text": "Im Kampf gegen die hochansteckende Krankheit gab es in den vergangenen Jahren große Erfolge. Umso mehr warnen UN-Fachleute vor Rückschritten. Sie haben dabei etwa die USA und Europa im Blick."
     },
     {
-     "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-     "url": "https://www.handelsblatt.com/technik/ki/ki-unsere-gesellschaft-basiert-auf-vorhersehbarkeit/100223312.html",
-     "date": "2026-11-27T09:46:00.000Z",
-     "text": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen."
+     "title": "EU-Sanktionen: Wirtschaft warnt vor „Lex Schröder“ gegen Altkanzler und andere Manager in Russland",
+     "url": "https://www.handelsblatt.com/politik/deutschland/russland-warnungen-vor-eu-sanktionen-gegen-gerhard-schroeder-und-manager/100273308.html",
+     "date": "2026-11-27T16:59:43.000Z",
+     "text": "EU-Kommissionspräsidentin von der Leyen will EU-Bürgern sämtliche Führungsjobs in Russland verbieten. Wirtschaftsverbände sind alarmiert, die Bundesregierung ist gespalten."
     },
     {
-     "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
-     "url": "https://www.handelsblatt.com/politik/international/migration-was-polen-fuer-deutsche-auswanderer-aktuell-attraktiv-macht/100249315.html",
-     "date": "2026-11-27T09:45:00.000Z",
-     "text": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?"
+     "title": "Kommentar: 27 statt 100 Prozent – dieser Rentenkompromiss ist keiner",
+     "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-27-statt-100-prozent-dieser-rentenkompromiss-ist-keiner/100273370.html",
+     "date": "2026-11-27T16:55:57.000Z",
+     "text": "Arbeitsminister Schweitzer hat im Alleingang ein Gesetz im Rentenstreit vorgelegt. Die Union ist empört. Das kann sie auch sein – mehr über den Inhalt als über das Vorgehen."
     },
     {
-     "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-     "url": "https://www.handelsblatt.com/karriere/karriere-diese-studiengaenge-wappnen-sie-trotz-des-ki-booms-fuer-die-zukunft/100235558.html",
-     "date": "2026-11-27T09:45:00.000Z",
-     "text": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten."
+     "title": "Industrie: Verhandlungen bei Mercedes gehen weiter – Einigung der Metallindustrie hilft nur bedingt",
+     "url": "https://www.handelsblatt.com/unternehmen/industrie/industrie-trotz-tarifeinigung-verhandlungen-bei-mercedes-gehen-weiter/100273332.html",
+     "date": "2026-11-27T16:39:19.000Z",
+     "text": "Der Autobauer wird vermutlich an seinem Sparziel für die Arbeitskosten festhalten. Der Kompromiss der Metall- und Elektroindustrie reicht dem Management in Stuttgart wohl nicht aus."
     },
     {
-     "title": "Dax aktuell: Dax legt weiter zu – Immobilien-Aktie stürzt ab",
-     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-legt-weiter-zu-immobilien-aktie-stuerzt-ab/100273204.html",
-     "date": "2026-11-27T09:44:53.000Z",
-     "text": "Die Erholung an den Märkten setzt sich weiter fort. Unterstützung kommt dabei aus Asien und von den US-Futures. Anleger greifen bei hiesigen Tech-Aktien zu."
+     "title": "Banken: Unicredit erwägt Aufstockung von Anteil an Generali",
+     "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-unicredit-erwaegt-aufstockung-von-anteil-an-generali/100273371.html",
+     "date": "2026-11-27T16:24:40.000Z",
+     "text": "Nach dem Einstieg bei der Commerzbank nimmt UniCredit den italienischen Versicherer Generali stärker ins Visier. Die Beteiligung könnte auf bis zu 13,4 Prozent steigen."
     },
     {
-     "title": "Haushaltsdebatte im Bundestag: Rentenstreit: Schweitzer „froh über jeden Vorschlag“",
-     "url": "https://www.handelsblatt.com/politik/deutschland/haushaltsdebatte-im-bundestag-rentenstreit-schweitzer-froh-ueber-jeden-vorschlag/100273140.html",
-     "date": "2026-11-27T09:44:17.000Z",
-     "text": "Union und SPD liefern sich ein zähes Ringen zu Details der künftigen Alterssicherung. Äußerlich ist kaum Bewegung zu erkennen. Aber der Minister verbreitet Zuversicht."
+     "title": "Parteinachwuchs: Juso-Chef Türmer: SPD wirkt wie eingeschläfert",
+     "url": "https://www.handelsblatt.com/politik/deutschland/parteinachwuchs-juso-chef-tuermer-spd-wirkt-wie-eingeschlaefert/100273368.html",
+     "date": "2026-11-27T16:15:49.000Z",
+     "text": "Wenige Wochen vor der Wahl neuer SPD-Chefs trifft sich der Parteinachwuchs in Bochum. Deren Vorsitzender ist unzufrieden."
     },
     {
-     "title": "Friendflation: Warum Geld in Beziehungen relevanter wird",
-     "url": "https://www.handelsblatt.com/finanzen/friendflation-wie-unterschiede-beim-vermoegen-freundschaften-beeinflussen/100154689.html",
-     "date": "2026-11-27T09:44:00.000Z",
-     "text": "Wer gute Freunde hat, kommt leichter durchs Leben, hat eine bessere Beziehung und verringert sein Sterberisiko. Nur was, wenn die Freundschaft am Geld scheitert?"
+     "title": "Etat: 210 Milliarden Euro neue Schulden: Bundestag verabschiedet Haushalt für 2027",
+     "url": "https://www.handelsblatt.com/video/politik/etat-210-milliarden-euro-neue-schulden-bundestag-verabschiedet-haushalt-fuer-2027/100273360.html",
+     "date": "2026-11-27T16:09:48.000Z",
+     "text": "Der Bundestag hat mit der Mehrheit der schwarz-roten Regierungskoalition den Bundeshaushalt für 2027 verabschiedet. Der Etat sieht Ausgaben von 555,9 Milliarden Euro vor. Die Neuverschuldung des Bundes summiert sich auf mehr als 210 Milliarden Euro."
     },
     {
-     "title": "Antonio Filosa: Dieser Mann ist bald der wichtigste Automanager Europas",
-     "url": "https://www.handelsblatt.com/unternehmen/industrie/antonio-filosa-dieser-mann-ist-bald-der-wichtigste-automanager-europas/100272928.html",
-     "date": "2026-11-27T09:36:11.000Z",
-     "text": "Die zweijährige Amtszeit von Ola Källenius als Präsident des mächtigen Autobranche-Lobbyverbands Acea endet im Dezember. Das Handelsblatt erfuhr: Sein Nachfolger soll ein Italiener werden."
+     "title": "Today: Goldpreis dieses Jahr 15 Prozent im Minus – ein guter Einstiegszeitpunkt?",
+     "url": "https://www.handelsblatt.com/audio/today/podcast-handelsblatt-today-goldpreis-dieses-jahr-15-prozent-im-minus-ein-guter-einstiegszeitpunkt/100273361.html",
+     "date": "2026-11-27T16:04:47.000Z",
+     "text": "Gold-Experte Ronald Stöferle spricht über den Edelmetallmarkt. Und: SAP plant nach Handelsblatt-Informationen einen umfangreichen Stellenabbau."
     },
     {
-     "title": "Nikkei, Yen, CSI 300: Chinesische Märkte legen nach seltenem Regierungskommentar zu",
-     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-csi-300-chinesische-maerkte-legen-nach-seltenem-regierungskommentar-zu/100273175.html",
-     "date": "2026-11-27T09:16:12.000Z",
-     "text": "Ungewöhnlich deutlich hat Chinas Staatsrat am Freitag Unterstützung für die Aktienmärkte artikuliert. Das sorgte für einen Kurssprung bei chinesischen Aktien."
+     "title": "Immobilien: Hausverkauf – wie die Solaranlage den Preis beeinflusst",
+     "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-hausverkauf-wie-die-solaranlage-den-preis-beeinflusst/100271538.html",
+     "date": "2026-11-27T16:01:54.000Z",
+     "text": "Wer ein Haus mit Photovoltaik-Anlage veräußert, muss deren Wert ermitteln und mit dem Käufer einige wichtige Punkte im Kaufvertrag festhalten. Experten erklären, worauf es ankommt."
     },
     {
-     "title": "Leistungsfähigkeit: Warum Firmen ihre Mitarbeiter ausschlafen lassen sollten",
-     "url": "https://www.handelsblatt.com/karriere/arbeitszeit-warum-firmen-ihre-mitarbeiter-ausschlafen-lassen-sollten/100231866.html",
-     "date": "2026-11-27T09:10:00.000Z",
-     "text": "Die innere Uhr wirkt sich maßgeblich auf die Produktivität aus. Trotzdem arbeiten viele gegen ihren eigenen Rhythmus. Wie lässt sich das verhindern?"
+     "title": "Regierungsbildung in Israel: Eisenkot: Koalitionsgespräche mit Likud kommen nicht voran",
+     "url": "https://www.handelsblatt.com/politik/international/regierungsbildung-in-israel-eisenkot-koalitionsgespraeche-mit-likud-kommen-nicht-voran/100273364.html",
+     "date": "2026-11-27T16:00:23.000Z",
+     "text": "Ex-Militärchef Eisenkot hat den Auftrag, eine Regierung in Israel zu bilden. Gespräche führt er auch mit Netanjahus Partei – bislang ohne Erfolg. Er wirft ihr vor, Zeit zu schinden."
     },
     {
-     "title": "Führungskräfte: Hochqualifiziert, erfolgreich, arbeitssuchend – Vier Betroffene berichten",
-     "url": "https://www.handelsblatt.com/karriere/karriere-warum-der-jobverlust-fuer-high-performer-zur-existenzfrage-wird/100228751.html",
-     "date": "2026-11-27T09:10:00.000Z",
-     "text": "In der Krise finden auch Menschen, deren Karrieren bislang steil nach oben gingen, keinen Job mehr. Vier Betroffene erzählen, vor welche Herausforderungen sie das stellt."
+     "title": "+++ Ukraine-Krieg +++: Ukraine bietet Waffenruhe im Schwarzen Meer an",
+     "url": "https://www.handelsblatt.com/politik/international/ukraine-bietet-waffenruhe-im-schwarzen-meer-an/27982126.html",
+     "date": "2026-11-27T15:57:38.000Z",
+     "text": "Tote nach russischen Angriffen in der Nordukraine +++ Russland wirft Lettland Behinderung von Getreide-Transit vor +++ Kiew spricht Angriffe außerhalb der Kampfzone mit möglicherweise betroffenen Ländern ab +++ Der Newsblog."
     },
     {
-     "title": "Jürgen Klopp: Sieben Leadership-Lehren, die sich Chefs von ihm abschauen können",
-     "url": "https://www.handelsblatt.com/karriere/fuehrungskraefte-was-manager-von-juergen-klopps-fuehrungsstil-mitnehmen-koennen/100242667.html",
-     "date": "2026-11-27T09:09:00.000Z",
-     "text": "Klopp wird neuer Bundestrainer. Der DFB gewinnt einen Motivator. Sein Führungsstil ist so gut, dass auch andere Chefs sich davon etwas abschauen können, sagt ein Forscher – und erklärt, wie."
+     "title": "Modeindustrie: Wegen 138 Dollar Mindestlohn im Monat – Moderiesen verlassen Bangladesch",
+     "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/modeindustrie-wegen-138-dollar-mindestlohn-im-monat-moderiesen-verlassen-bangladesch/100273356.html",
+     "date": "2026-11-27T15:49:53.000Z",
+     "text": "Wegen Streiks und steigender Kosten ziehen Modekonzerne Aufträge aus Bangladesch ab. Indien und andere asiatische Länder profitieren davon."
     },
     {
-     "title": "Verbraucherin: Verbraucherschützerin Pop scheidet 2027 aus",
-     "url": "https://www.handelsblatt.com/politik/deutschland/verbraucherin-verbraucherschuetzerin-pop-scheidet-2027-aus/100273253.html",
-     "date": "2026-11-27T09:06:21.000Z",
-     "text": "Die Verbraucherzentralen sind ein Sensor für Alltags-Ärgernisse und machen sich für viele Belange von Kundinnen und Kunden stark. Beim Bundesverband gibt es bald eine Veränderung."
+     "title": "Norse Atlantic: Billigflieger streicht alle Flüge und beantragt Insolvenz",
+     "url": "https://www.handelsblatt.com/unternehmen/dienstleister/norse-atlantic-billigflieger-streicht-alle-fluege-und-beantragt-insolvenz/100273357.html",
+     "date": "2026-11-27T15:46:59.000Z",
+     "text": "Nach Air Baltic muss die nächste europäische Airline Insolvenz anmelden. 1071 Beschäftigte sind betroffen. Die hohen Kerosinpreise belasten die gesamte Branche."
     },
     {
-     "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-     "url": "https://www.handelsblatt.com/technik/ki/technologie-in-diesen-branchen-sind-fachkraefte-mit-ki-skills-besonders-gefragt/100251207.html",
-     "date": "2026-11-27T09:05:00.000Z",
-     "text": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?"
+     "title": "CA Immo: Was diese Österreich-Aktie neben der Sonderdividende ausmacht",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/ca-immo-diese-oesterreich-aktie-bietet-mehr-als-nur-eine-sonderdividende/100272102.html",
+     "date": "2026-11-27T15:45:31.000Z",
+     "text": "CA Immo plant eine hohe Extra-Ausschüttung vor Weihnachten. Weitere Zahlungen an die Anleger könnten folgen, dabei geht das Geschäft zurück. Welche Strategie dahintersteckt."
     },
     {
-     "title": "Arbeitsmarkt: Zahl der Arbeitslosen sinkt im November um 19.000",
-     "url": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-november-um-19000/100273243.html",
-     "date": "2026-11-27T09:00:56.000Z",
-     "text": "Die Zahl der Arbeitslosen in Deutschland ist im November leicht gesunken -ein saisonüblicher Rückgang. Ein Zeichen für eine Wende am Arbeitsmarkt ist das aber noch nicht."
+     "title": "Budget und Steuern: Bundestag beschließt Haushalt - aber noch offene Fragen",
+     "url": "https://www.handelsblatt.com/politik/deutschland/budget-und-steuern-bundestag-beschliesst-haushalt-aber-noch-offene-fragen/100273163.html",
+     "date": "2026-11-27T15:40:42.000Z",
+     "text": "Es ist einer der wichtigsten Parlamentsbeschlüsse, bei dem es diesmal aber bis zuletzt ziemlich ruckelte: Der Bundesetat für 2027 ist besiegelt. Wofür gibt Schwarz-Rot die Milliarden aus?"
     },
     {
-     "title": "Arbeitsagentur: Deutsche Arbeitslosenzahl fällt leicht auf 2,93 Millionen",
-     "url": "https://www.handelsblatt.com/politik/deutschland/arbeitsagentur-deutsche-arbeitslosenzahl-faellt-leicht-auf-293-millionen/100273230.html",
-     "date": "2026-11-27T08:59:39.000Z",
-     "text": "Im November gehen die Arbeitslosenzahlen meist zurück. Dieses Jahr fällt die Belebung allerdings schwach aus. Im Winter dürfte die Zahl der Jobsuchenden deutlich steigen."
+     "title": "Koalition: „Maximale Eskalation“: Arbeitsminister Schweitzer legt unabgestimmt Gesetzentwurf zur Rente vor",
+     "url": "https://www.handelsblatt.com/politik/deutschland/rentenreform-schweitzer-legt-neuen-gesetzentwurf-vor-union-laeuft-sturm/100273340.html",
+     "date": "2026-11-27T15:34:17.000Z",
+     "text": "Auf 287 Seiten plant der SPD-Minister zahlreiche neue Regeln. Die „Rente mit 63“ soll demnach bleiben – was die Union erzürnt. Geeint sei der Entwurf nicht, so das Kanzleramt."
     },
     {
-     "title": "Baufinanzierung: Bafin beanstandet Hypoport-Konzernabschluss 2023 – Aktie bricht bis zu rund sechs Prozent ein",
-     "url": "https://www.handelsblatt.com/finanzen/baufinanzierung-bafin-beanstandet-hypoport-konzernabschluss-2023/100273206.html",
-     "date": "2026-11-27T08:54:03.000Z",
-     "text": "Hypoport hat sein Ergebnis vor Steuern für 2023 um mindestens 10 Millionen Euro zu hoch ausgewiesen. Der Aktienkurs des Unternehmens gibt deutlich nach."
+     "title": "Quishing per Einschreiben: Verbraucherzentrale warnt vor Bankbriefen mit QR-Code",
+     "url": "https://www.handelsblatt.com/finanzen/steuern-recht/quishing-per-einschreiben-verbraucherzentrale-warnt-vor-bankbriefen-mit-qr-code/100273353.html",
+     "date": "2026-11-27T15:20:06.000Z",
+     "text": "Wer per Brief aufgefordert wird, den Online-Zugang seiner Bank zu erneuern, sollte genau hinsehen. Wie sich eine aktuelle Betrugsmasche erkennen lässt und was Betroffene im Schadensfall tun sollten."
     },
     {
-     "title": "Konjunktur: Frankreichs Wirtschaft schrumpft – Angst vor Rezession wächst",
-     "url": "https://www.handelsblatt.com/politik/international/konjunktur-frankreichs-wirtschaft-schrumpft-im-sommer-um-02-prozent/100273231.html",
-     "date": "2026-11-27T08:53:36.000Z",
-     "text": "Die Frühindikatoren sinken weiter, Ökonomen warnen vor einer technischen Rezession in Frankreich. Und der Finanzminister deutet an, dass die Regierung ihre Wachstumsprognose senkt."
+     "title": "Signa: Drei Jahre Haft für Benko nach weiterem Urteil",
+     "url": "https://www.handelsblatt.com/unternehmen/management/signa-drei-jahre-haft-fuer-benko-nach-weiterem-urteil/100273347.html",
+     "date": "2026-11-27T15:16:12.000Z",
+     "text": "Die Prozessserie rund um den österreichischen Investor René Benko läuft weiter. Nun hat das OLG Innsbruck die Strafe für ein Verfahren korrigiert und die Haftstrafe verlängert."
     },
     {
-     "title": "Börsen: Chinas Tech-Aktien legen nach Stützungszusage kräftig zu",
-     "url": "https://www.handelsblatt.com/technik/it-internet/boersen-chinas-tech-aktien-legen-nach-stuetzungszusage-kraeftig-zu/100273233.html",
-     "date": "2026-11-27T08:47:12.000Z",
-     "text": "Seit Monaten stehen Chinas Börsen unter Druck. Nun will Peking den Kursverfall stoppen und schickt erneut sein „National Team“ ins Rennen."
+     "title": "Kritische Infrastruktur: Telekom und Rheinmetall planen Schutzplattform",
+     "url": "https://www.handelsblatt.com/technik/it-internet/kritische-infrastruktur-telekom-und-rheinmetall-planen-schutzplattform/100273336.html",
+     "date": "2026-11-27T15:16:00.000Z",
+     "text": "Schutz vor Sabotage, Cyberangriffen und Drohnen: Telekom und Rheinmetall wollen Betreibern kritischer Infrastruktur eine neue Aufklärungsplattform verkaufen. Der Vertrieb soll bald starten."
     },
     {
-     "title": "Disrupt: Science-Fiction für Manager: Theresa Hannig über KI, Zukunft und Weltuntergangsszenarien",
-     "url": "https://www.handelsblatt.com/audio/disrupt-podcast/disrupt-science-fiction-fuer-manager-theresa-hannig-ueber-ki-zukunft-und-weltuntergangsszenarien/100273171.html",
-     "date": "2026-11-27T08:40:37.000Z",
-     "text": "Schon 2019 beschrieb sie eine KI, die in Europa die Macht ergreift. Im Podcast spricht sie darüber, warum Führungskräfte Science-Fiction lesen sollten, wie Unternehmen Dystopien und Utopien nutzen können – und hat Buchtipps dabei."
+     "title": "Streit um Gepäckstück: OLG-Urteil: Kleine Tasche reicht als Handgepäck",
+     "url": "https://www.handelsblatt.com/politik/deutschland/streit-um-gepaeckstueck-olg-urteil-kleine-tasche-reicht-als-handgepaeck/100273267.html",
+     "date": "2026-11-27T15:02:35.000Z",
+     "text": "Ein kleiner Rucksack statt zusätzlichem Kabinenkoffer: Im Streit um kostenfreies Handgepäck ist ein Urteil gefallen. Warum der Konflikt nun vor dem Bundesgerichtshof landet."
     },
     {
-     "title": "Hybrid-SUV: Mercedes legt Verbrenner-Varianten des GLA nach",
-     "url": "https://www.handelsblatt.com/mobilitaet/motor/hybrid-suv-mercedes-legt-verbrenner-varianten-des-gla-nach/100273221.html",
-     "date": "2026-11-27T08:39:19.000Z",
-     "text": "Mercedes ergänzt das Antriebsangebot beim neuen GLA. Neben den Elektrovarianten sind nun auch fünf Hybridmodelle zu haben. Angetrieben werden sie mit Motoren aus China."
+     "title": "Ex-Milliardär vor Gericht: Weiteres Urteil gegen Benko: nun drei Jahre Haft",
+     "url": "https://www.handelsblatt.com/politik/deutschland/ex-milliardaer-vor-gericht-weiteres-urteil-gegen-benko-nun-drei-jahre-haft/100273348.html",
+     "date": "2026-11-27T14:47:13.000Z",
+     "text": "Der Prozessserie rund um den österreichischen Investor René Benko nimmt Fahrt auf. Nun hat das OLG Innsbruck die Strafe für ein Verfahren korrigiert. Das sind schlechte Nachrichten für Benko."
     }
    ]
   },
@@ -625,6 +643,12 @@
    "focus": "Nur Zinsentscheidungen und wichtige Berichte",
    "ok": true,
    "items": [
+    {
+     "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+     "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+     "date": "2026-11-27T14:00:00.000Z",
+     "text": ""
+    },
     {
      "title": "ECB Consumer Expectations Survey results – October 2026",
      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
@@ -636,12 +660,6 @@
      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
      "date": "2026-11-26T12:30:00.000Z",
      "text": ""
-    },
-    {
-     "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
-     "date": "2026-11-25T17:30:00.000Z",
-     "text": ""
     }
    ]
   },
@@ -649,6 +667,12 @@
    "name": "Bundesbank",
    "ok": true,
    "items": [
+    {
+     "title": "Beschlüsse des EZB-Rats (ohne Zinsbeschlüsse)",
+     "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/beschluesse-des-ezb-rats-ohne-zinsbeschluesse--1017182",
+     "date": "2026-11-27T14:00:00.000Z",
+     "text": "Am 25. November 2026 gab die EZB bekannt, dass sie mit der Sveriges Riksbank eine Vereinbarung über den Beitritt Schwedens zu T2, dem Echtzeit-Bruttoabwicklungssystem des Eurosystems, geschlossen hat."
+    },
     {
      "title": "Announcement of auction – 3-months Bills of the European Stability Mechanism (ESM)",
      "url": "https://www.bundesbank.de/en/press/press-releases/esm/announcement-of-auction-3-months-bills-of-the-european-stability-mechanism-esm--1017172",
@@ -668,6 +692,12 @@
      "text": ""
     },
     {
+     "title": "Ergebnisse der EZB-Umfrage zu den Verbrauchererwartungen: Oktober 2026",
+     "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/ergebnisse-der-ezb-umfrage-zu-den-verbrauchererwartungen-oktober-2026-1017178",
+     "date": "2026-11-27T09:00:00.000Z",
+     "text": "Der Median der von den Verbraucherinnen und Verbrauchern in den vergangenen zwölf Monaten wahrgenommenen Inflation und der Median der Erwartungen bezüglich der Inflation in den kommenden zwölf Monaten erhöhten sich deutlich. Der Median der Erwartungen bezüglich der Inflation in drei Jahren stieg indes leicht an, und jener bezüglich der Inflation in fünf Jahren blieb unverändert."
+    },
+    {
      "title": "Geldmengenentwicklung im Euroraum: Oktober 2026",
      "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/geldmengenentwicklung-im-euroraum-oktober-2026-1017098",
      "date": "2026-11-26T10:30:00.000Z",
@@ -678,18 +708,6 @@
      "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/ezb/klimawandel-indikatoren-november-2026-964552",
      "date": "2026-11-26T09:00:00.000Z",
      "text": "Die EZB hat aktualisierte statistische Klimaindikatoren veröffentlicht, um die Entwicklung der mit dem Klimawandel verbundenen Transitionsrisiken und physischen Risiken einzuschätzen. Die aktualisierten Daten basieren auf einer verbesserten Methodik, neuen Datenquellen und detaillierteren Informationen."
-    },
-    {
-     "title": "Aufstockung Anleihe des Bundes – Tenderergebnis",
-     "url": "https://www.bundesbank.de/de/presse/pressemitteilungen/bundeswertpapiere/-aufstockung-anleihe-des-bundes-tenderergebnis--965016",
-     "date": "2026-11-25T10:40:00.000Z",
-     "text": ""
-    },
-    {
-     "title": "Reopening Federal bond issue – Auction result",
-     "url": "https://www.bundesbank.de/en/press/press-releases/federal-securities/reopening-federal-bond-issue-auction-result--1017086",
-     "date": "2026-11-25T10:40:00.000Z",
-     "text": ""
     }
    ]
   },
@@ -698,13 +716,6 @@
    "ok": true,
    "items": [
     {
-     "title": "Konjunktur Deutschland: ifo 90,6, Konsumklima minus 30,2, Wirtschaftsweise heben Prognose an – trägt die Erholung den DAX über 25.000 Punkte? - AktienCheck.de",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1JBNTZRcFFMUmZVZlZrSkppUkZ6UDA4b25YVTRnRU9STXRHNzZSUk54SUJ0N0JPWjdrelV0UmFINkg0dXhVSXctLTVxa2o5R21kWGh0cmpaUWhZa2dkY01QTERKWThHakVmMzZjeDJzelFVMWNGbHlyUVVKZHdwYnRfbjVzb0hNQlAxalhLVGVFMGs1a01LTldWRFIwUGpwcG81R2NueHJwUQ?oc=5",
-     "date": "2026-11-27T06:20:11.000Z",
-     "text": "Konjunktur Deutschland: ifo 90,6, Konsumklima minus 30,2, Wirtschaftsweise heben Prognose an – trägt die Erholung den DAX über 25.000 Punkte? AktienCheck.de",
-     "via": "AktienCheck.de"
-    },
-    {
      "title": "Reallöhne in Deutschland steigen weiter, aber langsamer - FAZ",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHdacHBzenZRazI5TG9pb1h4ZHhwN0R6Wi1VRmhJNGZ1d0VXOWJXZkw1RG9iLVlWSzRaaHJ6OXFkNzVRQ3BfWFRPbVc0bDJyNElNb3VSR3FBLVUyYWhtMzNhak9iTDUyVHVvdTFwZHdoWmVtTEdxaG8tN1Zicnd6ei1kaldGbU5JaFJROWYyUFFPcHhvSFgyWlRoNkF5UE1hRjFnSVRBd0kxbVRHX2tKeXQtMm9pZEtNSl9xVk96NVpTMlk?oc=5",
      "date": "2026-11-26T15:29:22.000Z",
@@ -712,25 +723,25 @@
      "via": "FAZ"
     },
     {
-     "title": "Konjunktur Deutschland - Deutsche Wirtschaft wächst im dritten Quartal kaum - Lebensmittelpraxis.de",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLWJjMEZfVTVyZHFUZUF1M2lXZTAweE1FdDBOUFFGS3Ewek5mcG1LdWRUdnJVdDhxUmlSQzJGMmYyRUxBdV9PbS1DdnBhbDJjTnFQaGQ4Q3BVMV81ZGFNYW05aXZNWE5uNWQxY3hyUS1SZ2phVV9rb2Rfd3VqRHVid0RkcW03TmN5b2RGTGlFcGhXSVdyWGh6NDRJTWJyZXdVNUJUcE1FenFhSWRxYXc3SlNiWlRtOWtKa1ljY1RTSEs1LTRlczNZV1Rn?oc=5",
-     "date": "2026-11-25T12:02:00.000Z",
-     "text": "Konjunktur Deutschland - Deutsche Wirtschaft wächst im dritten Quartal kaum Lebensmittelpraxis.de",
-     "via": "Lebensmittelpraxis.de"
+     "title": "Konjunktur Deutschland: ifo 90,6, Konsumklima minus 30,2, Wirtschaftsweise heben Prognose an – trägt die Erholung den DAX über 25.000 Punkte? - AktienCheck.de",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1JBNTZRcFFMUmZVZlZrSkppUkZ6UDA4b25YVTRnRU9STXRHNzZSUk54SUJ0N0JPWjdrelV0UmFINkg0dXhVSXctLTVxa2o5R21kWGh0cmpaUWhZa2dkY01QTERKWThHakVmMzZjeDJzelFVMWNGbHlyUVVKZHdwYnRfbjVzb0hNQlAxalhLVGVFMGs1a01LTldWRFIwUGpwcG81R2NueHJwUQ?oc=5",
+     "date": "2026-11-27T06:20:11.000Z",
+     "text": "Konjunktur Deutschland: ifo 90,6, Konsumklima minus 30,2, Wirtschaftsweise heben Prognose an – trägt die Erholung den DAX über 25.000 Punkte? AktienCheck.de",
+     "via": "AktienCheck.de"
     },
     {
-     "title": "Der Black Friday zwischen Hype und Skepsis - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWJSaF9SNmhxOXd3aEVkeU5xNGR2RWNzcU9reWpOaUpYREhleVFTU3ZYekpHM2EtV3FmUzdJQ0dsRFcyV1E3anlWdXRoeEsyS25RWHJXVGgtalNLNkItaXlaQ04zRGhFSktHZmY0V29Qa1Bmb1N5dmJmM2ktOEZLYzZkMm55R0w4MFNqQW5OT19OWFVaRUNlbWJFelJ4YmF4WUs2VnIxdnlIZGpCNkVEeDR0RzVtRDN2bVE?oc=5",
-     "date": "2026-11-26T18:00:00.000Z",
-     "text": "Der Black Friday zwischen Hype und Skepsis Allgemeine Zeitung",
+     "title": "Arbeitsmarkt schwächelt - tun die Arbeitsagenturen zu wenig? - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFVUMnJPOE1CcEpzUTlOUEU5UVlselBwU05LRUg1MUtmMF9qNENheFEwZUJ4QjRJd2VSRVNuMHNRUHRhMGR1aUhCS1Bla09va2RZNUhzbWl5SVEwMXp3cDl6XzFSS2F5X2NXWEhfcUo3SzBRN21SeElpWDZOMkoxOXlUV253U0lqWDVRR0JJUEJZd0VtLTgyRmRrQUVQTGpTUEMxMkc3dWFzeTVzOHNpZjRJZ2llUkc2ZU02RFplQ3JQTndPMmNybzJ2MUc4dmc?oc=5",
+     "date": "2026-11-27T14:28:00.000Z",
+     "text": "Arbeitsmarkt schwächelt - tun die Arbeitsagenturen zu wenig? Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "Hessische Wirtschaft wächst dank KI und Rüstung - FAZ",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1dWU3I3WEhPMHJ0Y2p3NnAzX294TlBKMURLMVVnY0x0QVhYWk9yNW1sa1ZuT1RmT3YwajdYQkgtSG1Gb3JqWDUxZ1U0RklBa1IyVWY2MWxqbTZneUdRQ0lOVlZPNHhjbkVwc0R5c3NvSHR4NWR5R0pTS19wMndFc01zcTJlNTdxZElxTTVpV1NNUWxqT1h2V2lWQXpXaUVUU3lzaU5kTy1DaGp2U3V5OHNMQQ?oc=5",
-     "date": "2026-11-26T15:57:53.000Z",
-     "text": "Hessische Wirtschaft wächst dank KI und Rüstung FAZ",
-     "via": "FAZ"
+     "title": "News, Wirtschaft: Arbeitsagentur erwartet Arbeitsmarkt-Erholung frühestens im Sommer - tixio - Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOekRycGcyRkVreGczNWVYdWQ0dGJPUWNTZ0stTjdEUm0zbTV3VHIyRXRCXy1yR242a2pMamtuS2swem5iUk9QSFlONmRFT1dIWjhmY293UjB2WkRnZkhZT1hLZjl5NUhOeXJZbG96ZTBCOWk1T3p0eGphdVBmeHpkSEl2R0hFcjAwcDVIcFIwZ09UcU0xa3AycFRuQXJmVkN2TnBN?oc=5",
+     "date": "2026-11-28T00:11:40.000Z",
+     "text": "News, Wirtschaft: Arbeitsagentur erwartet Arbeitsmarkt-Erholung frühestens im Sommer tixio - Nachrichten",
+     "via": "tixio - Nachrichten"
     },
     {
      "title": "Konjunktur Deutschland: ifo auf höchstem Stand seit dreieinhalb Jahren, aber fast 3 Millionen Arbeitslose – trägt die Erholung bis zum Jahresende? - AktienCheck.de",
@@ -740,6 +751,20 @@
      "via": "AktienCheck.de"
     },
     {
+     "title": "Hessische Wirtschaft wächst dank KI und Rüstung - FAZ",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1dWU3I3WEhPMHJ0Y2p3NnAzX294TlBKMURLMVVnY0x0QVhYWk9yNW1sa1ZuT1RmT3YwajdYQkgtSG1Gb3JqWDUxZ1U0RklBa1IyVWY2MWxqbTZneUdRQ0lOVlZPNHhjbkVwc0R5c3NvSHR4NWR5R0pTS19wMndFc01zcTJlNTdxZElxTTVpV1NNUWxqT1h2V2lWQXpXaUVUU3lzaU5kTy1DaGp2U3V5OHNMQQ?oc=5",
+     "date": "2026-11-26T15:57:53.000Z",
+     "text": "Hessische Wirtschaft wächst dank KI und Rüstung FAZ",
+     "via": "FAZ"
+    },
+    {
+     "title": "Telekom und Rheinmetall planen Schutzplattform - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1RzNmN2WUpQcTd1ZGxKM3FQeHJLVGVPcWdHdkY0dlJneTVhWUxFUTBNRVJHTzY1dGJRNHcxUFhyQkNoS2F0enZQS0hNd1dRNTNGT1RFbzZ5dXdCekl4MmUwamtGQ3dvXzFXbWVpMGg1eVI4ZXJLQjdHMWRJckVzcmhFd3VaaU9tVXJzMjFmTkRydGJxTmowb19BSDNIeTZhUHJSNkdjYXg3RWJNUXQ3NDlqdHJQYm8xaDR4bDF2Yw?oc=5",
+     "date": "2026-11-27T14:06:31.000Z",
+     "text": "Telekom und Rheinmetall planen Schutzplattform Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
      "title": "Gericht erlaubt Augenchecks bei dm - aber Kritik an Werbung - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS1owVjhqanAtcHRNVWZhemJpTnc2YUg4OEZKRUYxVF9Zc0k1NjRHZWc2OWZmWjdRVDJfT1ZXeWMwMmx3LUFvOGlyRlFfOFU4RTVUNFd6YW9pT1gxQzZ1eDM4bS1veWhHYXE5R2VoUUdyaDh4TG1rYlpPczdkbmhvX25vNzV1Mldlc3g2aWJqeW4wWFplazJzNlNkTjNfUHpaRVhER1RIeTY1WnVlbGJmMWZhcEFmMnktOUNwR3NuZkhJZlJGREt2M0ZTVmZwQQ?oc=5",
      "date": "2026-11-26T14:54:00.000Z",
@@ -747,38 +772,24 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "Neuer Metalltarif lässt Ausnahmen von 35-Stunden-Woche zu - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORVlaSjZoaXN4S1NYemMyR1ZLbE05MWt1ODBaTmpKNlBuWHdwamFQcmpaZ1BPd0F0MmFGclp1blhZaGpqSUs1bUJOTlpzdk5FUFR3M2FlNnRqYnVBNUVpTGxUb1p1dlVQakoxRzRoZ1JMM3JmM1VuNjZmSmZJaEdxUTJCT0dkR2l2LTdfVWd1VnBsU0Z2c0dQSkJZSkwtaHR5S05EcklmSGxoaEpVZXhMazdkaUpERnl6MEZpVVVpM0VxcGdYRWhjTDdzOXhWQ2c?oc=5",
-     "date": "2026-11-26T17:34:00.000Z",
-     "text": "Neuer Metalltarif lässt Ausnahmen von 35-Stunden-Woche zu Allgemeine Zeitung",
+     "title": "Der Black Friday zwischen Hype und Skepsis - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWJSaF9SNmhxOXd3aEVkeU5xNGR2RWNzcU9reWpOaUpYREhleVFTU3ZYekpHM2EtV3FmUzdJQ0dsRFcyV1E3anlWdXRoeEsyS25RWHJXVGgtalNLNkItaXlaQ04zRGhFSktHZmY0V29Qa1Bmb1N5dmJmM2ktOEZLYzZkMm55R0w4MFNqQW5OT19OWFVaRUNlbWJFelJ4YmF4WUs2VnIxdnlIZGpCNkVEeDR0RzVtRDN2bVE?oc=5",
+     "date": "2026-11-26T18:00:00.000Z",
+     "text": "Der Black Friday zwischen Hype und Skepsis Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "Konjunktur: Ifo-Geschäftsklima legt auch im November weiter zu - KunststoffWeb",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWkt1eHZqNWRQbk1tWlhrNTYzaDhNeVlnT3pOdDQ0bW5DRFZqNlQ1MldnUXRGMFBPT18xeTl2NDFHNVVTemo3dmNzUkJHbzlYSjVOUWFoQlY2STliaTVUdFF3ZGVlckNOMXNraC1vTktGdE9tT0Q1cXdMaWdER2o1RUpwajBJQTNVNnZIYVR4THMzckMzdXIweVMwa25NemxjUFFPbDNFZURibjlHeWEtbGl2SQ?oc=5",
-     "date": "2026-11-25T23:11:06.000Z",
-     "text": "Konjunktur: Ifo-Geschäftsklima legt auch im November weiter zu KunststoffWeb",
-     "via": "KunststoffWeb"
-    },
-    {
-     "title": "SAP: Haben „verdächtige Aktivitäten identifiziert“ - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1I0RHhtVkpjRzZjSkN1Vm9GbGFfa2ppMlRqTHQ5dWZUV3VrTnY5NGExUTc1M2dDWG1vZzc2amlMWk1WeDcybmhYdEQxd3dpbko5eFF5UjQzLWhmUjFXcmhIOVNmX0FKV0lDR1kzS05aSHIzUUl5eEZGeDNKY1BaYzBoUGRDaUlJa01LQnpyV1g1N2FYSWNXNndwaHlDRzVYLXRVY1l4ZEozMEJ1VENqaUxpeFJTWENPcjJqMnAtN0VSX0k?oc=5",
-     "date": "2026-11-26T22:02:00.000Z",
-     "text": "SAP: Haben „verdächtige Aktivitäten identifiziert“ Allgemeine Zeitung",
+     "title": "Verbraucherschützerin Pop scheidet 2027 aus - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTFONURrZFpNbElyUW5oU05kOU5vWXVtaFNlMXMxcU9sTldnQ2hKMnk3WkR6d3ItRHZHcXhLUkFfSXc0TzYzampoS2VXdUV4aXJ3bkczTkY2T1pqdGNZaWEwd1d4Q2VzLWhzZGQxeFF1TXotV2dxeVdGS3FhTkV0clRwbHpqY1M4THozOWlsakwxSTk4QXhzZXI3TEhQLWZjNHJ4Q1g0RWhtUU04RF9FMmdXWFF6eGhzSEtoSQ?oc=5",
+     "date": "2026-11-27T09:06:00.000Z",
+     "text": "Verbraucherschützerin Pop scheidet 2027 aus Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "Berliner Firma A11 startet KI-Software gegen US-Konkurrenz - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2VhcUxxbVNuQlF0ZEtHUEFUXzZEdDUyN2UybXhOUXRQTERnU3R2bTFlT1E3ZjZsenFTX05YdHc3Yks3aXo2VVNwTlNzWXk0Ym1PSmNwY0RJMk1aRkRVaWJKN0xMUklnSWo4WTdXMjNvYUlqNzk3MFFMUnJmVFVZX1JiaF82Rm1WSHpIZXc3RE1vZW0zQkNNVjFrUWZ5VUhDdzBiYk04WjN1a1dBMjRDRTZlVm5CZkt0QmZ1NGFVcjYyV3lZRG5mTzZCa0dEUm8?oc=5",
-     "date": "2026-11-25T20:00:00.000Z",
-     "text": "Berliner Firma A11 startet KI-Software gegen US-Konkurrenz Allgemeine Zeitung",
-     "via": "Allgemeine Zeitung"
-    },
-    {
-     "title": "EU-Gipfel: Spanier Hernández de Cos soll EZB-Chef werden - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbTBiX0JSdU1ibUctQWQ1SGFIM3R1M0FNRmttZnM1VzZSanhQRmsta20zMEE0ZEFMWm1kSk5laEh1OUdodDgwbjIwdE9SQ2lsRVFJVlZHUTNBWU1WZ2ZQRG9jSDJ2QWpzTzVGbjBCNUMzMng0Y0MwX25SQktyZ2pBMFNnbHNZUHdVanFYVGd4ZExrTnBrck1lRGw5VlM4TWllVS0yczktSjRlRGktTzZvWmNGS2tSc3dTUHBfb3RKMW5rM0tQZDhMSm5haw?oc=5",
-     "date": "2026-11-26T18:06:00.000Z",
-     "text": "EU-Gipfel: Spanier Hernández de Cos soll EZB-Chef werden Allgemeine Zeitung",
+     "title": "IG-Metall-Chefin verteidigt Öffnungsklausel im Flächentarif - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSUoySnZXT3A5R1hhNkRCLVpva2M4LW9ZXzZVdU1yVUN3UDdSaFdkZGU4ME1IRHFhclMxeWJleDRLcVpPLTV5SGh1R2dVeWxjdGU2MzN4cDEwUjgweWhoNTl2WEduRmJUQUdkWEM0bEJzQVlxbnAtTHF2TzU0TG9TNFRLWHhnTUF0WUZqUjBBYmtmNHpWblNGcDBvTTVIN3ljNERKMHpiODJSZmNxSnRvN0xRcC1nWkpGT0p6d0pELVBDcjM3ZUpzUXNPZWxXa29OZFlF?oc=5",
+     "date": "2026-11-27T08:21:00.000Z",
+     "text": "IG-Metall-Chefin verteidigt Öffnungsklausel im Flächentarif Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
@@ -789,10 +800,10 @@
      "via": "SZ.de"
     },
     {
-     "title": "Pressekonferenz zu Metall- und Elektro-Verhandlung geplant - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYThQQVIwNUFRVWNwN24wZ2dtRGdZVGJOZFZIN3dJNl9Ed0pESE9NZ0FkLXlreDNyS3E1RDBaYUxtcTJ4U1hSY2ZmM2pUSFZoalpkOHQtdHZid3RNTF94TjBLWlFwUUpNN0ZsOFhveDVWeGhEek1YWVBjbUpWQ1B4a3pYWXIxSTEyT1BmZ015YW5mbWtUREtaNTdUT3NfeElSclNWazhxQlpRdUVSUHJmVXFXZTNxeURrU3N6ZkpKb18zRmtpN3hYRlg4MkNZUQ?oc=5",
-     "date": "2026-11-26T15:20:37.000Z",
-     "text": "Pressekonferenz zu Metall- und Elektro-Verhandlung geplant Allgemeine Zeitung",
+     "title": "Bulli und Rüstung? Lies' Pläne für VW in Hannover - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGFLTS0yam9fcFdqWmRFRi1VNEI5RHRmODRLaGoxQTdJT2UtTUdsa0ROaTBGclRlRU9waHZ2dFhFWjZOTnBDcGVELWV5ekZCeV9UUnlaTTFfdmtZaGdIVV9ZUU5kLW16RHlreEpqMEhlSldFUjRHY1BCQzB3NmpLMWNOa1lCcFpkNnFkR2xQYTQ3MWhxd1FCTzZPMkVFazBJZnhEVE9LdU5qVVFwYzdiS3hIUHdMRU5TdlozdURXT2FEZXRK?oc=5",
+     "date": "2026-11-26T21:07:00.000Z",
+     "text": "Bulli und Rüstung? Lies' Pläne für VW in Hannover Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
     },
     {
@@ -803,11 +814,25 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "News, Wirtschaft: Italo bangt um Deutschland-Einstieg 2028 - tixio - Nachrichten",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aWEQwNXB3OUZaOFJaWGszOGltVVo3ellPX3A5QUdsT2xoWDJjVlo4MjhJbXItS1BZX1lXSS16NmszTkhSNzlaakMtZFBsS3RWOWZiei1fLTduWlBTREZ3ZFF2NnBONm5fWlJjTGZTWm1UeHdjRmlvZUZaQVVVcjQ?oc=5",
-     "date": "2026-11-26T17:10:53.000Z",
-     "text": "News, Wirtschaft: Italo bangt um Deutschland-Einstieg 2028 tixio - Nachrichten",
-     "via": "tixio - Nachrichten"
+     "title": "Neuer Metalltarif lässt Ausnahmen von 35-Stunden-Woche zu - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORVlaSjZoaXN4S1NYemMyR1ZLbE05MWt1ODBaTmpKNlBuWHdwamFQcmpaZ1BPd0F0MmFGclp1blhZaGpqSUs1bUJOTlpzdk5FUFR3M2FlNnRqYnVBNUVpTGxUb1p1dlVQakoxRzRoZ1JMM3JmM1VuNjZmSmZJaEdxUTJCT0dkR2l2LTdfVWd1VnBsU0Z2c0dQSkJZSkwtaHR5S05EcklmSGxoaEpVZXhMazdkaUpERnl6MEZpVVVpM0VxcGdYRWhjTDdzOXhWQ2c?oc=5",
+     "date": "2026-11-26T17:34:00.000Z",
+     "text": "Neuer Metalltarif lässt Ausnahmen von 35-Stunden-Woche zu Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "Pressekonferenz zu Metall- und Elektro-Verhandlung geplant - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYThQQVIwNUFRVWNwN24wZ2dtRGdZVGJOZFZIN3dJNl9Ed0pESE9NZ0FkLXlreDNyS3E1RDBaYUxtcTJ4U1hSY2ZmM2pUSFZoalpkOHQtdHZid3RNTF94TjBLWlFwUUpNN0ZsOFhveDVWeGhEek1YWVBjbUpWQ1B4a3pYWXIxSTEyT1BmZ015YW5mbWtUREtaNTdUT3NfeElSclNWazhxQlpRdUVSUHJmVXFXZTNxeURrU3N6ZkpKb18zRmtpN3hYRlg4MkNZUQ?oc=5",
+     "date": "2026-11-26T15:20:37.000Z",
+     "text": "Pressekonferenz zu Metall- und Elektro-Verhandlung geplant Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "SAP: Haben „verdächtige Aktivitäten identifiziert“ - Allgemeine Zeitung",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1I0RHhtVkpjRzZjSkN1Vm9GbGFfa2ppMlRqTHQ5dWZUV3VrTnY5NGExUTc1M2dDWG1vZzc2amlMWk1WeDcybmhYdEQxd3dpbko5eFF5UjQzLWhmUjFXcmhIOVNmX0FKV0lDR1kzS05aSHIzUUl5eEZGeDNKY1BaYzBoUGRDaUlJa01LQnpyV1g1N2FYSWNXNndwaHlDRzVYLXRVY1l4ZEozMEJ1VENqaUxpeFJTWENPcjJqMnAtN0VSX0k?oc=5",
+     "date": "2026-11-26T22:02:00.000Z",
+     "text": "SAP: Haben „verdächtige Aktivitäten identifiziert“ Allgemeine Zeitung",
+     "via": "Allgemeine Zeitung"
     },
     {
      "title": "Covestro-Chef Steilemann bleibt Präsident der Chemielobby - Allgemeine Zeitung",
@@ -817,18 +842,18 @@
      "via": "Allgemeine Zeitung"
     },
     {
-     "title": "Metall und Elektro: Vierte Verhandlungsrunde begonnen - Allgemeine Zeitung",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd2hLdnNFV3A3NWVRcUVjV3FtbEpTWnNFb3RJU3ZDUE1rd29sMkFsOUdXQWJGQ1VHb0FLOWI0U3NzX3ExbVk3Y01IZFc4NFdrUjRkQWhHRUd2WXJNVS1Gb0pLaXd1andYLWRYdDZIZHo0cldhaHZNYXM1SXc5bTlzOGRKTXc3cWhIb0duVW5UdERVNWN5Qk5sU1Y2ajBkNjV4aGtVd3o4SlB0YmpJQkJzcF8tdUk3VnRaVm11SEY1bjJaank0WDVj?oc=5",
-     "date": "2026-11-25T13:26:00.000Z",
-     "text": "Metall und Elektro: Vierte Verhandlungsrunde begonnen Allgemeine Zeitung",
-     "via": "Allgemeine Zeitung"
-    },
-    {
      "title": "Verdi bestreikt elf Amazon-Standorte am Black Friday - Allgemeine Zeitung",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX041VUlJd2dnYjhlT1BHOXJOU1VRMHVWaEpvY0lJOU8wQ2JfV2tjUXN0QzVMbjhneHNwT295bi1KbWMtM202dGxRR0JnT2FkNzN4ci1fZjlxbXlFVU1mVjlERW9qem8yU2k0eF9Hdmp2QXdReE9uOFBOUUdSd2VQb2FqaHlMaXN3NEVsR0VTUUllb2NyZ1hJa0J4NU9XdzNiMmZlRW9Zb3J0RmxtZGhfRmNyQ1lWZ3dNN0hEcFFGMnlMM3lIZ0dZ?oc=5",
      "date": "2026-11-26T08:24:00.000Z",
      "text": "Verdi bestreikt elf Amazon-Standorte am Black Friday Allgemeine Zeitung",
      "via": "Allgemeine Zeitung"
+    },
+    {
+     "title": "News, Wirtschaft: Italo bangt um Deutschland-Einstieg 2028 - tixio - Nachrichten",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aWEQwNXB3OUZaOFJaWGszOGltVVo3ellPX3A5QUdsT2xoWDJjVlo4MjhJbXItS1BZX1lXSS16NmszTkhSNzlaakMtZFBsS3RWOWZiei1fLTduWlBTREZ3ZFF2NnBONm5fWlJjTGZTWm1UeHdjRmlvZUZaQVVVcjQ?oc=5",
+     "date": "2026-11-26T17:10:53.000Z",
+     "text": "News, Wirtschaft: Italo bangt um Deutschland-Einstieg 2028 tixio - Nachrichten",
+     "via": "tixio - Nachrichten"
     },
     {
      "title": "News, Wirtschaft: Bericht: BMW weitet Stellenabbau in Deutschland aus - tixio - Nachrichten",
@@ -840,7 +865,7 @@
     {
      "title": "Spannende Updates von Rheinmetall sowie frische Konjunkturdaten aus Deutschland - wallstreetONLINE",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUpCOHNmaWhEZmxoTUVKMFpEVnlyTDJKM1pmN0pPMUs3VE5JcjV3T2FaU3RuWkJ4cHhKSHpmZGJCbHExeFRWNzRoekdIRXQyYi12SHVIRjU2MzhCcHVEeThnRFNHXzd4Tm1Db2hLOElfRzdqcVpUWHBlZW9ENVQxN1RTMlZVOHJMMzlNTHJ0b2ZoNzJaVnNQejUzeXhodEh0MTgtWHBVZ0t0QVdla2NNQ1FoUHFDWmExOGY5WDlpRms4NlhSSm9XRUdpTjBsbGxrOWpZ?oc=5",
-     "date": "2026-11-26T03:35:47.000Z",
+     "date": "2026-11-26T03:30:00.000Z",
      "text": "Spannende Updates von Rheinmetall sowie frische Konjunkturdaten aus Deutschland wallstreetONLINE",
      "via": "wallstreetONLINE"
     },
@@ -858,6 +883,102 @@
    "focus": "Nur Wirtschaft, Arbeitsmarkt, Energie- und Strompreise, Haushalt. Talk- und Meinungsformate (NIUS Live, Zwei Helle, Kommentare) nicht als Nachricht nehmen.",
    "ok": true,
    "items": [
+    {
+     "title": "Schweitzer hält an Rente mit 63 fest: „Das muss weiterhin möglich sein“",
+     "url": "https://nius.de/politik/schweitzer-haelt-an-rente-mit-63-fest-das-muss-weiterhin-moeglich-sein",
+     "date": "2026-11-27T19:35:31.000Z",
+     "text": "Die Rente mit 63 soll in ihrem Kern erhalten bleiben. Gleichzeitig sollen Versicherte künftig höhere Beiträge zahlen und im Regelfall länger arbeiten."
+    },
+    {
+     "title": "Clara von Nathusius: „Wer heute noch in die Politik geht, ist entweder Masochist oder macht es aus Überzeugung“",
+     "url": "https://nius.de/schuler-fragen-was-ist/clara-von-nathusius-wer-heute-noch-in-die-politik-geht-ist-entweder-masochist-oder-macht-es-aus-ueberzeugung",
+     "date": "2026-11-27T16:47:12.000Z",
+     "text": "CDU-Influencerin Clara von Nathusius kritisiert Schwarz-Rot, fordert mehr Mut von der politischen Mitte und hält die Brandmauer für gescheitert."
+    },
+    {
+     "title": "Terrorverdächtiger war seit mindestens zwei Jahren ausreisepflichtig",
+     "url": "https://nius.de/kriminalitaet/terrorverdaechtiger-war-seit-mindestens-zwei-jahren-ausreisepflichtig",
+     "date": "2026-11-27T16:08:56.000Z",
+     "text": "Der in Köln festgenommene Terrorverdächtige Ameer J. war nach einem Bericht des Kölner Stadt-Anzeigers spätestens seit Herbst 2024 ausreisepflichtig."
+    },
+    {
+     "title": "19 Minuten nach dem Haushaltsbeschluss kommt der Renten-Frontalangriff der SPD",
+     "url": "https://nius.de/politik/19-minuten-nach-dem-haushaltsbeschluss-kommt-der-renten-frontalangriff-der-spd",
+     "date": "2026-11-27T15:51:19.000Z",
+     "text": "Mit einem geschickten Trick hat die SPD die Union bei der geplanten Rentenreform reingelegt: Der Entwurf, in dem die Rente mit 63 nahezu vollständig erhalten bleiben soll, wurde gezielt erst nach dem Beschluss über den Bundeshaushalt durchgestochen."
+    },
+    {
+     "title": "Journalist Ronen Steinke warnt vor Sprachverboten",
+     "url": "https://nius.de/news/ronen-steinke-meinungsfreiheit-sprachverbote",
+     "date": "2026-11-27T14:41:42.000Z",
+     "text": "Jurist Ronen Steinke warnt vor Einschränkung der Meinungsfreiheit: „Man gewinnt keine Debatte, indem man der Gegenseite den Mund verbietet“"
+    },
+    {
+     "title": "Bundestag stimmt für Mega-Schulden-Haushalt",
+     "url": "https://nius.de/politik/bundestag-abstimmung-mega-schulden-haushalt",
+     "date": "2026-11-27T13:49:54.000Z",
+     "text": "Der Bundestag hat mit den Stimmen der schwarz-roten Koalition den Bundeshaushalt verabschiedet."
+    },
+    {
+     "title": "Welle der Solidarität mit NIUS",
+     "url": "https://nius.de/nachrichten/solidaritaet-nius-druckerei-abo-unterstuetzung",
+     "date": "2026-11-27T13:45:47.000Z",
+     "text": "Deutschlandweite Welle der Solidarität mit NIUS."
+    },
+    {
+     "title": "Toter in leerstehender Schule entdeckt – Polizei nimmt 15-Jährigen fest",
+     "url": "https://nius.de/kriminalitaet/toter-in-leerstehender-schule-entdeckt-polizei-nimmt-15-jaehrigen-fest",
+     "date": "2026-11-27T13:06:59.000Z",
+     "text": "Nach dem Fund einer Männerleiche in einer leerstehenden Schule in Bergheim bei Köln hat die Polizei einen 15-Jährigen festgenommen."
+    },
+    {
+     "title": "Weidel rechnet mit AfD-Verbotsverfahren",
+     "url": "https://nius.de/nius-live/weidel-rechnet-mit-afd-verbotsverfahren",
+     "date": "2026-11-27T12:39:12.000Z",
+     "text": "Bei NIUS Live am Abend beleuchten wir immer das Wichtigste vom Tage. Am Freitag, den 27. November, begrüßt NIUS-Moderator Andreas Dorfmann im NIUS-Radio-Studio folgende Gäste: den ehemaligen Bundestagsabgeordneten Marcus Held, NIUS-Politikchef Ralf Schuler und Gunnar Schupelius, Chefredakteur NIUS – Die Wochenzeitung für Deutschland."
+    },
+    {
+     "title": "Taz-Journalistin über Aiwanger: „Über tote Faschisten sage ich nichts Gutes“",
+     "url": "https://nius.de/medien/taz-journalistin-aiwanger-beleidigung-faschist",
+     "date": "2026-11-27T12:37:21.000Z",
+     "text": "Eine Journalistin der linken Tageszeitung Taz hat den verstorbenen Freie-Wähler-Chef und bayerischen Wirtschaftsminister Hubert Aiwanger als „Faschisten“ verunglimpft."
+    },
+    {
+     "title": "Spieler und Fans von Beşiktaş Istanbul machen ein Fußballspiel zum Anti-Israel-Event",
+     "url": "https://nius.de/gesellschaft/besiktas-istanbul-israel",
+     "date": "2026-11-27T12:23:45.000Z",
+     "text": "Diese Woche erhalten Spieler und Fans von Beşiktaş Istanbul die Goldene Wassermelone von NIUS."
+    },
+    {
+     "title": "Pressefreiheit adé! Druckerei stoppt NIUS-Zeitung | Zwei Helle mit Waldi & Schupelius",
+     "url": "https://nius.de/zwei-helle/pressefreiheit-ade-druckerei-stoppt-nius-zeitung-zwei-helle-mit-waldi-schupelius",
+     "date": "2026-11-27T12:23:25.000Z",
+     "text": "Die erste Ausgabe von „NIUS – die Wochenzeitung für Deutschland“ ist gedruckt. Die Resonanz ist groß. So groß, dass sogar die SPD und Verdi die Druckerei zum Stopp der Produktion drängen – mit Erfolg."
+    },
+    {
+     "title": "AfD-Politiker Frohnmaier gewinnt vor Gericht gegen CDU",
+     "url": "https://nius.de/politik/afd-politiker-frohnmaier-gewinnt-vor-gericht-gegen-cdu",
+     "date": "2026-11-27T11:48:45.000Z",
+     "text": "CDU darf Behauptung über Markus Frohnmaier nicht mehr verbreiten."
+    },
+    {
+     "title": "Alice Weidel: „Ich finde Frauen und Männer attraktiv“",
+     "url": "https://nius.de/politik/alice-weidel-ich-finde-frauen-und-maenner-attraktiv",
+     "date": "2026-11-27T11:35:20.000Z",
+     "text": "Alice Weidel spricht über ihre ersten Erfahrungen mit einer gleichgeschlechtlichen Beziehung."
+    },
+    {
+     "title": "„Man muss den Leuten ins Gesicht schauen können“",
+     "url": "https://nius.de/nachrichten/verschleierungsverbot-in-nrw-umfrage-video",
+     "date": "2026-11-27T10:35:15.000Z",
+     "text": "NIUS hat die Passanten am Berliner Hauptbahnhof nach ihrer Meinung zum NRW-Verschleierungsverbot befragt."
+    },
+    {
+     "title": "Alice Weidel rechnet 2027 mit AfD-Verbotsverfahren",
+     "url": "https://nius.de/politik/alice-weidel-rechnet-2027-mit-afd-verbotsverfahren",
+     "date": "2026-11-27T10:23:06.000Z",
+     "text": "Alice Weidel erwartet 2027 einen politischen Angriff auf ihre Partei."
+    },
     {
      "title": "Juso-Chef Türmer fordert radikalen Linkskurs für die SPD",
      "url": "https://nius.de/politik/juso-chef-tuermer-fordert-radikalen-linkskurs-fuer-die-spd",
@@ -941,102 +1062,6 @@
      "url": "https://nius.de/politik/merz-bricht-eu-sondergipfel-vorzeitig-ab-haushalt",
      "date": "2026-11-26T22:07:22.000Z",
      "text": "Bundeskanzler Friedrich Merz erklärte: „Wir wissen, dass wir heute Abend nicht zu einem Ergebnis kommen.“"
-    },
-    {
-     "title": "Florian Schroeder wirft Ulf Poschardt „rechtsradikales Narrativ“ vor",
-     "url": "https://nius.de/medien/florian-schroeder-ulf-poschardt-zdf",
-     "date": "2026-11-26T21:00:40.000Z",
-     "text": "In der neuen ZDF-Sendung „Journal Deluxe“ hat Kabarettist Florian Schroeder Welt-Journalist Ulf Poschardt scharf kritisiert. Er warf ihm vor, in einem Kommentar zur Berliner Abgeordnetenhauswahl ein „rechtsradikales Narrativ“ bedient zu haben."
-    },
-    {
-     "title": "Krach im Ältestenrat! Alle Fraktionen kritisieren Linke nach Saalblockade",
-     "url": "https://nius.de/politik/aeltestenrat-fraktionen-kritik-linke-saalblockade",
-     "date": "2026-11-26T19:50:03.000Z",
-     "text": "Im Ältestenrat des Bundestages kam es am Donnerstag wegen der Blockade eines Sitzungssaals durch Abgeordnete der Linksfraktion zu heftigen Auseinandersetzungen. Alle anderen Fraktionen äußerten sich empört über die Aktion und kritisierten die Linke scharf. Die betroffenen Abgeordneten der Linksfraktion zeigten keinerlei Einsicht."
-    },
-    {
-     "title": "„Sauerei, bodenlose Sauerei ist das“",
-     "url": "https://nius.de/nachrichten/vrm-druck-aus-stimmen-berliner",
-     "date": "2026-11-26T18:31:41.000Z",
-     "text": "Erst massiver politischer Druck von Links, jetzt das Aus: Die Verlagsgruppe VRM beendet den Druck der NIUS-Wochenzeitung. NIUS hat sich am Hauptbahnhof umgehört, was die Berliner zum Druck-Stopp sagen."
-    },
-    {
-     "title": "Schalke 04 veröffentlicht Anti-Belästigungs-Video – und droht Kritikern",
-     "url": "https://nius.de/news/schalke-04-anti-belaestigungs-video",
-     "date": "2026-11-26T17:46:02.000Z",
-     "text": "Der FC Schalke 04 hat anlässlich des „Orange Day“, des Internationalen Tages zur Beseitigung von Gewalt gegen Frauen, ein Video gegen sexuelle Belästigung veröffentlicht."
-    },
-    {
-     "title": "Unternehmen können ihre KI-Systeme bald vom TÜV prüfen lassen",
-     "url": "https://nius.de/news/ki-systeme-bald-tuev-pruefung",
-     "date": "2026-11-26T17:15:26.000Z",
-     "text": "Deutschland ist bei der KI vorn dabei – zumindest bei Regulierung und Zertifizierung: Die TÜV-Organisationen bringen jetzt ein gemeinsames Programm zur Zertifizierung von Künstlicher Intelligenz 2027 an den Start."
-    },
-    {
-     "title": "Schulze kritisiert „Magdeburger Weg“ des BSW",
-     "url": "https://nius.de/politik/schulze-kritik-magdeburger-weg-bsw",
-     "date": "2026-11-26T15:55:56.000Z",
-     "text": "Sachsen-Anhalts geschäftsführender Ministerpräsident Sven Schulze (CDU) hat den von der BSW-Politikerin Claudia Wittig propagierten „Magdeburger Weg“ scharf kritisiert."
-    },
-    {
-     "title": "Gruppenvergewaltigung durch Syrer – Mädchen (13) soll bei Tat gefilmt worden sein",
-     "url": "https://nius.de/kriminalitaet/gruppenvergewaltigung-syrer-schweinfurt-opfer-gefilmt",
-     "date": "2026-11-26T14:55:03.000Z",
-     "text": "Im fränkischen Schweinfurt soll ein Mädchen (13) von sechs jugendlichen Syrern vergewaltigt worden sein. Das Opfer gab an, bei der Tat wohl gefilmt worden zu sein."
-    },
-    {
-     "title": "Wie Fußballstar Kimmich den FC Bayern aufmischt",
-     "url": "https://nius.de/kommentar/wie-fussballstar-kimmich-den-fc-bayern-aufmischt",
-     "date": "2026-11-26T14:41:25.000Z",
-     "text": "Joshua Kimmich, der Kapitän des FC Bayern (in Vertretung von Manuel Neuer) trat nach der 1:2‑Niederlage in der Champions League beim OSC Lille vor die Mikrofone und kritisierte den Verein für den Umgang mit Jamal Musiala."
-    },
-    {
-     "title": "Spanier Hernández de Cos soll EZB-Chef werden",
-     "url": "https://nius.de/ausland/hernandez-de-cos-ezb-chef",
-     "date": "2026-11-26T14:09:27.000Z",
-     "text": "Der Spanier Pablo Hernández de Cos soll neuer Präsident der Europäischen Zentralbank (EZB) werden."
-    },
-    {
-     "title": "Weimer will TikToks Europageschäft bis Ende 2027 chinesischer Kontrolle entziehen",
-     "url": "https://nius.de/politik/weimer-will-tiktoks-europageschaeft-bis-ende-2027-chinesischer-kontrolle-entziehen",
-     "date": "2026-11-26T13:56:27.000Z",
-     "text": "Kulturstaatsminister Wolfram Weimer will neue Eigentümer für TikToks Europageschäft – und europäische Kontrolle über den Empfehlungsalgorithmus. Gemeinsam mit Österreich treibt er eine Initiative voran, bei der europäische Investoren mindestens 51 Prozent übernehmen sollen."
-    },
-    {
-     "title": "Islam-Terror bedroht unseren Weihnachtsfrieden",
-     "url": "https://nius.de/nius-live/islam-terror-bedroht-unseren-weihnachtsfrieden",
-     "date": "2026-11-26T13:22:22.000Z",
-     "text": "Am Donnerstag, den 26. November, begrüßt NIUS-Moderator Andreas Dorfmann im NIUS-Radio-Studio folgende Gäste: NIUS-Moderator Alexander Purrucker und NIUS-Kommentatorin Julia Weishaupt."
-    },
-    {
-     "title": "VRM beendet Produktion der NIUS-Zeitung – wir machen trotzdem weiter!",
-     "url": "https://nius.de/medien/vrm-beendet-produktion-der-nius-zeitung-wir-machen-trotzdem-weiter",
-     "date": "2026-11-26T12:37:22.000Z",
-     "text": "Die Verlagsgruppe VRM stellt den Druck von „NIUS – Die Wochenzeitung für Deutschland“ ein. Der Entscheidung gehen öffentliche Angriffe auf den Druckauftrag und ausdrückliche Forderungen nach einem Ende der Zusammenarbeit voraus."
-    },
-    {
-     "title": "Medienstaatsverträge sollen künftig auch ohne Zustimmung aller Bundesländer gelten",
-     "url": "https://nius.de/politik/medienstaatsvertraege-sollen-kuenftig-auch-ohne-zustimmung-aller-bundeslaender-gelten",
-     "date": "2026-11-26T11:45:39.000Z",
-     "text": "Bei neuen Medienstaatsverträgen soll künftig die Zustimmung von 15 Bundesländern reichen. Bislang müssen alle 16 Länder zustimmen. Nach einem Bericht der Frankfurter Allgemeinen Zeitung will die Rundfunkkommission damit verhindern, dass die AfD entsprechende Vorhaben bundesweit verhindern kann."
-    },
-    {
-     "title": "Jensen Huang: Ein einzelner Mensch kann die Welt verändern",
-     "url": "https://nius.de/kommentar/jensen-huang-ein-einzelner-mensch-kann-die-welt-veraendern",
-     "date": "2026-11-26T11:28:47.000Z",
-     "text": "Die Geschichte vom erzwungenen Rücktritt und der Wiedereinstellung von Jensen Huang symbolisiert Hoffnung für den Individualismus. Von Huang lässt sich lernen: Individuen sind keine Sklaven des Zeitgeistes. Sie können sich ihm nicht nur widersetzen, sie können ihn ändern. Richtig ist, dass die meisten Menschen die Welt nicht wesentlich verändern. Aber dass einzelne Menschen die Welt verändern können, sollte alle Menschen fröhlich stimmen."
-    },
-    {
-     "title": "Return Hubs: Union nennt erstmals Kosten für Ruanda-Pläne",
-     "url": "https://nius.de/politik/return-hubs-union-nennt-erstmals-kosten-fuer-ruanda-plaene",
-     "date": "2026-11-26T11:14:45.000Z",
-     "text": "Für das geplante Rückkehrzentrum in Ruanda sind nach Angaben der Union zunächst fünf Millionen Euro vorgesehen."
-    },
-    {
-     "title": "NRW verbietet Gesichtsschleier an Schulen",
-     "url": "https://nius.de/politik/nrw-verbietet-gesichtsschleier-an-schulen",
-     "date": "2026-11-26T10:55:57.000Z",
-     "text": "Schüler in Nordrhein-Westfalen dürfen künftig weder im Unterricht noch auf dem Schulgelände einen Gesichtsschleier tragen, der die Kommunikation erschwert."
     }
    ]
   }

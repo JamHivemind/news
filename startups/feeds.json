@@ -1,26 +1,60 @@
 {
- "fetched": "2026-11-27T10:18:43.738Z",
+ "fetched": "2026-11-28T02:32:02.800Z",
  "hours": 48,
  "sources": [
   {
    "name": "deutsche-startups.de",
-   "ok": false,
-   "error": "HTTP 403",
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "#Gastbeitrag - Die fünf größten Fehler beim Einsatz von ChatGPT & Co. in der Buchhaltung",
+     "url": "https://www.deutsche-startups.de/2026/11/27/die-fuenf-groessten-fehler-beim-einsatz-von-chatgpt-co-in-der-buchhaltung/",
+     "date": "2026-11-27T14:55:00.000Z",
+     "text": "Rechnungen prüfen, Buchungen vorschlagen, Monatsabschlüsse vorbereiten: Generative KI verspricht der Buchhaltung enorme Entlastung. Warum viele KI-Projekte trotzdem keine Zeit sparen, sondern neue Arbeit erzeugen, erklärt Steuerberaterin Melanie Kell."
+    },
+    {
+     "title": "#Interview - „Der Alltag ist kein Pitch Deck. Er ist komplex“",
+     "url": "https://www.deutsche-startups.de/2026/11/27/der-alltag-ist-kein-pitch-deck-er-ist-komplex/",
+     "date": "2026-11-27T12:55:00.000Z",
+     "text": "Gründeralltag - gibt es das überhaupt? \"Ich starte ruhig. Erst Getränke für die Familie, dann Körper- und Atemübungen. Auf dem Weg ins Büro lasse ich mir per KI die wichtigsten Themen, Termine und Nachrichten zusammenfassen\", sagt Burkhard Schepermann, Gründer von PapierNest."
+    },
+    {
+     "title": "#Gastbeitrag - Quantencomputer sind keine schnelleren Computer",
+     "url": "https://www.deutsche-startups.de/2026/11/27/quantencomputer-sind-keine-schnelleren-computer/",
+     "date": "2026-11-27T10:55:00.000Z",
+     "text": "Quantencomputer gelten als eine der großen Zukunftstechnologien. Doch wie funktionieren sie? eleQtron-Gründer Michael Johanning erklärt Qubits, Fehlerkorrektur und warum Unternehmen sich schon heute mit der Technologie beschäftigen sollten."
+    },
+    {
+     "title": "#StartupTicker - +++ Circula +++ Zahlen, bitte! +++ Wingcopter +++ N26 +++ ratzfatz +++ nextesy +++",
+     "url": "https://www.deutsche-startups.de/2026/11/27/circula-zahlen-bitte-wingcopter-n26-ratzfatz-nextesy/",
+     "date": "2026-11-27T06:55:00.000Z",
+     "text": "+++ #StartupTicker +++ Live im STARTUPLAND: Nikolai Skatchkov (Circula) +++ Zahlen, Daten, Fakten! So tickt die deutsche Startup-Szene +++ Wingcopter fährt 12,3 Mio Verlust ein +++ N26 peilt 12 Mio Kund:innen an +++ ratzfatz ist insolvent +++ nextesy erhält 10,4 Millionen +++"
+    },
+    {
+     "title": "#Brandneu - 5 junge Kölner Startups, die uns aufgefallen sind",
+     "url": "https://www.deutsche-startups.de/2026/11/26/5-junge-koelner-startups-die-uns-aufgefallen-sind-2/",
+     "date": "2026-11-26T12:55:00.000Z",
+     "text": "Die Kölner Startup-Szene bleibt dynamisch. Hier sind erneut einige der vielversprechendsten, vor allem noch jungen Kölner Gründungen, die wir genauer verfolgen. Dazu gehören: requAIre, Beyond You, NuvaFace, eve.AI und MAIQ."
+    },
+    {
+     "title": "#Gastbeitrag - Europas Tech-Revolution: Das Warten hat ein Ende",
+     "url": "https://www.deutsche-startups.de/2026/11/26/europas-tech-revolution-das-warten-hat-ein-ende/",
+     "date": "2026-11-26T10:55:00.000Z",
+     "text": "Europa diskutiert noch über seine Schwächen, viele Gründer:innen schaffen längst Fakten. Suranga Chandratillake von Balderton Capital erklärt, warum Europas Tech-Revolution bereits begonnen hat und die Wahrnehmung der Realität oft hinterherhinkt."
+    },
+    {
+     "title": "#StartupTicker - +++ finperks +++ Reverse Exits +++ eventfirst +++ cylib +++ BASF +++ AgentTeams +++",
+     "url": "https://www.deutsche-startups.de/2026/11/26/finperks-reverse-exits-eventfirst-cylib-basf-agentteams/",
+     "date": "2026-11-26T06:55:00.000Z",
+     "text": "+++ #StartupTicker +++ Live im STARTUPLAND: Sebastian Seifert (finperks) +++ Reverse Exits: Wenn Gründer:innen ihre Startups zurückkaufen +++ eventfirst: Julian Stiefel setzt jetzt auf Events +++ cylib: Wenn David sich bei Goliath einkauft +++ AgentTeams: Zwei Gründer und sechs KI-Agenten +++"
+    }
+   ]
   },
   {
    "name": "deutsche-startups.de (Google News)",
    "focus": "Ersatzweg, falls der direkte Feed ausfällt (sperrt GitHub-Server). Doppelte nur einmal nehmen.",
    "ok": true,
-   "items": [
-    {
-     "title": "5 junge Frankfurter Startups, die jeder kennen sollte - deutsche-startups.de",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXl4MlN4ejQ2TkU5NTFiakJCX09xVDNhX3NtM2lnOUZJekt0b2N0RGZMSlQ0STYtUmoxbGhNMzhWdXJkQkpoWlBYQmV4S08zQ2cwQ0xWQ09ud09VQzJDTHZRSWtPZGZhcG5MajFTYWlIc3JwSkNVVVU0VjBUN1NBS1BRUnI3ckhpWlRTdG53?oc=5",
-     "date": "2026-11-26T19:09:58.000Z",
-     "text": "5 junge Frankfurter Startups, die jeder kennen sollte deutsche-startups.de",
-     "via": "deutsche-startups.de"
-    }
-   ]
+   "items": []
   },
   {
    "name": "Gründerszene",
@@ -50,6 +84,18 @@
    "name": "Sifted",
    "ok": true,
    "items": [
+    {
+     "title": "Welcome to venture feudalism",
+     "url": "https://sifted.eu/articles/welcome-to-venture-feudalism/",
+     "date": "2026-11-27T10:58:25.000Z",
+     "text": ""
+    },
+    {
+     "title": "Can Europe’s neolabs live up to the hype?",
+     "url": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/",
+     "date": "2026-11-27T10:50:20.000Z",
+     "text": ""
+    },
     {
      "title": "'Never say never': US fintech giant Ramp on more European acquisitions",
      "url": "https://sifted.eu/articles/ramp-europe-expansion-interview/",
@@ -103,24 +149,6 @@
      "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/",
      "date": "2026-11-26T05:00:01.000Z",
      "text": ""
-    },
-    {
-     "title": "PolyAI’s ex-machine learning chief raises $20m for new robotics startup",
-     "url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/",
-     "date": "2026-11-25T15:00:17.000Z",
-     "text": ""
-    },
-    {
-     "title": "EU unveils Quantum Act with ‘plans for €50bn fund’ to boost sovereign tech",
-     "url": "https://sifted.eu/articles/au-quantum-act-sovereign-tech-fund/",
-     "date": "2026-11-25T12:06:02.000Z",
-     "text": ""
-    },
-    {
-     "title": "The best Christmas gifts for founders",
-     "url": "https://sifted.eu/articles/the-best-christmas-gifts-for-founders/",
-     "date": "2026-11-25T10:40:53.000Z",
-     "text": ""
     }
    ]
   },
@@ -128,26 +156,42 @@
    "name": "TechCrunch Startups",
    "focus": "Nur Europa-Bezug oder sehr große Runden",
    "ok": true,
-   "items": [
-    {
-     "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-     "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-     "date": "2026-11-25T17:35:58.000Z",
-     "text": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
-    },
-    {
-     "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-     "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-     "date": "2026-11-25T15:41:43.000Z",
-     "text": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]"
-    }
-   ]
+   "items": []
   },
   {
    "name": "Google News: Startups Hamburg",
-   "ok": false,
-   "error": "HTTP 429",
-   "items": []
+   "focus": "Nur echte Startup-Meldungen aus Hamburg und Norddeutschland (Gründung, Finanzierung, Produkt). Restaurants, Läden und Nachrufe ignorieren. Reicht 7 Tage zurück.",
+   "ok": true,
+   "items": [
+    {
+     "title": "DESY eröffnet Gründerzentrum in Lurup: Startups tüfteln an Quantentechnologie und neuen Materialien - NDR.de",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVG5lRFNQNnVVb1M0eWRnaEU1elFsZnE3SHhYeXYzU1pZQzFpOVYzdUtVQjREeVFRWXZ6T1RZdVhEazI2Y0I5OGlBSnFhbDhtUkQxU2FZclNPMTVOOVk0OWt2bno2VFJualVrdEl2ZERzaEpVc1EtUnYtT0h0S0JNeklveVhQM0U1ZWk2bkYyTDlucThtLUVMNUdaUWhDMW03M2FSUzJCX1dRRmNlWUNV?oc=5",
+     "date": "2026-11-24T18:55:00.000Z",
+     "text": "DESY eröffnet Gründerzentrum in Lurup: Startups tüfteln an Quantentechnologie und neuen Materialien NDR.de",
+     "via": "NDR.de"
+    },
+    {
+     "title": "Discover-Zeile: Hamburger Chorleiter erhält Bundesverdienstorden – dann überraschen ihn 50 Senioren - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV25zSHpSMENxZ0ZoaEp6VTJ3c3lZcm9WaDZLX2FaTlhvT0lyMFdVZzZLSG53M195eW1oczdtUEdqVXN4dGZsV2RTY3JoZXNMc0N1alN6S3lvU1IzM1d4ak9SWXRxa0hJbjFJQm51b3VpWUNXbTl6SFR0MDRlUXlqWjFKYUhlYnlKRGR0aGNlVUk5RUc5Q2lRQ0JBcHRKc19pbUdfdA?oc=5",
+     "date": "2026-11-27T17:54:02.000Z",
+     "text": "Discover-Zeile: Hamburger Chorleiter erhält Bundesverdienstorden – dann überraschen ihn 50 Senioren MOPO",
+     "via": "MOPO"
+    },
+    {
+     "title": "Desy und Stadt eröffnen Gründungszentrum in Hamburg-Lurup - WELT",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHNwZnZ2WDhxMHJaaU10Z1lGUFJ3cWVjdUlJemtmVEwwczdfRWV6RllVYnlCcXVIbGtBTmNCWElRWHdYcmN2Zm1DNnJhR1EtNGFlTnJvWmRqcmRPdlJ6bVRMLW5oUVNzTTREU0RPdDJpb05fY2hnYkhBcWxFYXFoSERKWTlyeWpobXYtOHN3MTNDTzNlbHlNMHQtSnM1WVY1bjQ4X1Y5ekN2TzlHRkhpWXpzT2ZTMzRsaHQ4Q2tmTDBHNEtLXzBzVGdUUmxtZVZK?oc=5",
+     "date": "2026-11-24T14:48:24.000Z",
+     "text": "Desy und Stadt eröffnen Gründungszentrum in Hamburg-Lurup WELT",
+     "via": "WELT"
+    },
+    {
+     "title": "(+) Cannabis-Gründer und das bizarre „Omegabund“-Manifest - MOPO",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWtMN2h4Zl9ocU9ndC1Td09GT1lrY01rOGJLUnNQMmwtLWZsRW1xVUlmTHlIa3NnNFR4WDE1UXQ1NmxzazQtQlZaZlc5N3FMY2Z1dEV5TTZJTmxnblZLTlRhcjRRZWhabi04VEgwczVkYVI3bXk4UGdLWFpuOXpiQzIyVWFoQlhzVVdNNGw2d2JDcHZJZXVZd0Z6dlBPdmtQbldIQWFxMUpaZw?oc=5",
+     "date": "2026-11-27T14:01:39.000Z",
+     "text": "(+) Cannabis-Gründer und das bizarre „Omegabund“-Manifest MOPO",
+     "via": "MOPO"
+    }
+   ]
   },
   {
    "name": "Google News: Finanzierungsrunden DE",
@@ -162,6 +206,13 @@
      "via": "Startbase"
     },
     {
+     "title": "Zürcher KI-Startup Nextesy bekommt über 10 Millionen - Inside IT",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYXg4Z1kyWDJIc25ZTWlYSFR0UlozN2pyQjZsYVRreS1peU1rRi1fM092TnlaSEV6MG5sSFJQNy03UUxoeHFUOTIyVE80Ty1RYTBsVkFZS3pwM1NtM3FjYnIyRVNYaGRIWFNPZnlpeWcyUFFTeGo4d2dWZk9sUTJDQ0RsNWVZTUxuaFFlMVcwQmJ4dw?oc=5",
+     "date": "2026-11-27T14:17:00.000Z",
+     "text": "Zürcher KI-Startup Nextesy bekommt über 10 Millionen Inside IT",
+     "via": "Inside IT"
+    },
+    {
      "title": "nextesy schliesst Seed-Runde über 10,4 Millionen USD ab: Swisscom Ventures führt ... - Presseportal.ch",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yalF0cjVuS0c1UFJtV2FWZW95ckhucGlwcDVaQlBGQUMtd01hcjdMc3dOYzZ0M2JtLU9tN2ZYdkh0a2JmZU5XTjF3OEZOVVVFR2RkbVQ5U2JQY2E4d3p0QWhOdw?oc=5",
      "date": "2026-11-26T08:00:00.000Z",
@@ -169,18 +220,18 @@
      "via": "Presseportal.ch"
     },
     {
-     "title": "KI-Startup Surelio sammelt eine Million - Inside IT",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nazhwMl9iWFNMTEdPZHRhclQ0MGhHMmdmakJfMVh1S0JPQ1dqbnhvZG1PcDZUcy0zN2Nwa2hyd2xXQUcyd0ZqSkFiRzM5ZkhfaUZ5RWNLUlpfQU53S0w4OVFiWDNMNXVPTzVYeV9aZ2lxTXpfVTNqZXZVTDg0QQ?oc=5",
-     "date": "2026-11-26T15:51:00.000Z",
-     "text": "KI-Startup Surelio sammelt eine Million Inside IT",
-     "via": "Inside IT"
-    },
-    {
      "title": "Starforge holt sich 6,6 Millionen Euro für Fusionsreaktoren aus der Serienfertigung - Startbase",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEx2QTE4RkpJTzgwU2J3bjEwT2JRX3ZmbENHazZQN1NraEliaTZHeGJHY3dJblJiTGMwelFDWHIxcE9pVWhfZW04dnpoV1RMVlhTaW9mZzZ1ZGwtUW1JTVBLd240Nm9RdEQ1MUhqbHhUYmF3NndrUzZ3Wjdpb3NNajNUajZ3NzZZVDRtWU9JV0t1OV9WQU1oOC13WUFFa09iZ19DdFVCeXZWT3pYR0ZjNFBKdlM?oc=5",
      "date": "2026-11-26T10:00:00.000Z",
      "text": "Starforge holt sich 6,6 Millionen Euro für Fusionsreaktoren aus der Serienfertigung Startbase",
      "via": "Startbase"
+    },
+    {
+     "title": "KI-Startup Surelio sammelt eine Million - Inside IT",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nazhwMl9iWFNMTEdPZHRhclQ0MGhHMmdmakJfMVh1S0JPQ1dqbnhvZG1PcDZUcy0zN2Nwa2hyd2xXQUcyd0ZqSkFiRzM5ZkhfaUZ5RWNLUlpfQU53S0w4OVFiWDNMNXVPTzVYeV9aZ2lxTXpfVTNqZXZVTDg0QQ?oc=5",
+     "date": "2026-11-26T15:51:00.000Z",
+     "text": "KI-Startup Surelio sammelt eine Million Inside IT",
+     "via": "Inside IT"
     },
     {
      "title": "Anori Tech sichert sich über eine Million Euro für Batteriemanagementsysteme - Startbase",
