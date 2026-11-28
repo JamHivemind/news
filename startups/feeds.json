@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-28T03:51:35.947Z",
+ "fetched": "2026-11-28T05:17:46.412Z",
  "hours": 48,
  "sources": [
   {
@@ -54,7 +54,15 @@
    "name": "deutsche-startups.de (Google News)",
    "focus": "Ersatzweg, falls der direkte Feed ausfällt (sperrt GitHub-Server). Doppelte nur einmal nehmen.",
    "ok": true,
-   "items": []
+   "items": [
+    {
+     "title": "5 junge Frankfurter Startups, die jeder kennen sollte - deutsche-startups.de",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXl4MlN4ejQ2TkU5NTFiakJCX09xVDNhX3NtM2lnOUZJekt0b2N0RGZMSlQ0STYtUmoxbGhNMzhWdXJkQkpoWlBYQmV4S08zQ2cwQ0xWQ09ud09VQzJDTHZRSWtPZGZhcG5MajFTYWlIc3JwSkNVVVU0VjBUN1NBS1BRUnI3ckhpWlRTdG53?oc=5",
+     "date": "2026-11-26T19:09:58.000Z",
+     "text": "5 junge Frankfurter Startups, die jeder kennen sollte deutsche-startups.de",
+     "via": "deutsche-startups.de"
+    }
+   ]
   },
   {
    "name": "Gründerszene",
@@ -118,36 +126,6 @@
      "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
      "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
      "date": "2026-11-26T10:48:32.000Z",
-     "text": ""
-    },
-    {
-     "title": "Exclusive: Starforge raises €6.6m to build nuclear fusion reactors at scale",
-     "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
-     "date": "2026-11-26T05:00:51.000Z",
-     "text": ""
-    },
-    {
-     "title": "Meet Goldfish: The kings of Slush aiming to take on Apple",
-     "url": "https://sifted.eu/articles/goldfish-slush-100-winners/",
-     "date": "2026-11-26T05:00:35.000Z",
-     "text": ""
-    },
-    {
-     "title": "‘It’s not a fair fight’: Bolt’s Markus Villig on why Europe must protect homegrown tech",
-     "url": "https://sifted.eu/articles/bolt-markus-villig-ceo-interview-europe/",
-     "date": "2026-11-26T05:00:25.000Z",
-     "text": ""
-    },
-    {
-     "title": "Monzo cofounder Tom Blomfield leaves Anthropic after less than six months, reports say",
-     "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/",
-     "date": "2026-11-26T05:00:18.000Z",
-     "text": ""
-    },
-    {
-     "title": "Proxima Fusion CEO calls out ‘short-termism’ amid AI boom",
-     "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/",
-     "date": "2026-11-26T05:00:01.000Z",
      "text": ""
     }
    ]
