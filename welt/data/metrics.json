@@ -941,14 +941,6 @@
  },
  "quakes": [
   {
-   "mag": 6.8,
-   "place": "105 km NE of Lospalos, Timor Leste",
-   "time": "2026-11-21T09:42:09.120Z",
-   "lon": 127.5407,
-   "lat": -7.7324,
-   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij"
-  },
-  {
    "mag": 6.5,
    "place": "Vanuatu region",
    "time": "2026-11-23T02:40:58.052Z",
@@ -966,5 +958,5 @@
   }
  ],
  "gdacs": [],
- "updated": "2026-11-28T08:28:41.109Z"
+ "updated": "2026-11-28T10:03:02.329Z"
 }
