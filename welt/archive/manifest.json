@@ -1,6 +1,31 @@
 {
   "briefs": [
     {
+      "date": "2026-11-28",
+      "file": "2026-11-28.html",
+      "headline": "US-Militär beschießt Frachter im Golf von Oman",
+      "count": 18,
+      "sources": 8,
+      "cats": {
+        "Krieg & Konflikte": 4,
+        "Europa": 3,
+        "Weltpolitik": 5,
+        "Katastrophen & Klima": 3,
+        "Wirtschaft & Handel": 2,
+        "Hafen & Schifffahrt": 1
+      },
+      "ents": {
+        "Iran": 3,
+        "USA": 4,
+        "EU": 2,
+        "Ukraine": 2,
+        "Russland": 4,
+        "China": 2,
+        "NATO": 1,
+        "Israel": 1
+      }
+    },
+    {
       "date": "2026-11-27",
       "file": "2026-11-27.html",
       "headline": "EU-Haushaltsgipfel ohne Ergebnis abgebrochen",

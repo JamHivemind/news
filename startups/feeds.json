@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-28T05:21:32.994Z",
+ "fetched": "2026-11-28T05:23:27.740Z",
  "hours": 48,
  "sources": [
   {
@@ -54,33 +54,13 @@
    "name": "deutsche-startups.de (Google News)",
    "focus": "Ersatzweg, falls der direkte Feed ausfällt (sperrt GitHub-Server). Doppelte nur einmal nehmen.",
    "ok": true,
-   "items": [
-    {
-     "title": "5 junge Frankfurter Startups, die jeder kennen sollte - deutsche-startups.de",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXl4MlN4ejQ2TkU5NTFiakJCX09xVDNhX3NtM2lnOUZJekt0b2N0RGZMSlQ0STYtUmoxbGhNMzhWdXJkQkpoWlBYQmV4S08zQ2cwQ0xWQ09ud09VQzJDTHZRSWtPZGZhcG5MajFTYWlIc3JwSkNVVVU0VjBUN1NBS1BRUnI3ckhpWlRTdG53?oc=5",
-     "date": "2026-11-26T19:09:58.000Z",
-     "text": "5 junge Frankfurter Startups, die jeder kennen sollte deutsche-startups.de",
-     "via": "deutsche-startups.de"
-    }
-   ]
+   "items": []
   },
   {
    "name": "Gründerszene",
-   "ok": true,
-   "items": [
-    {
-     "title": "Philip Morris macht den 150.000 m² großen Berliner Startup-Hub NLND dicht",
-     "url": "https://www.businessinsider.de/gruenderszene/philip-morris-stoppt-nlnd-berlin-startups-trifft-es-ueberraschend/81qvtt8/",
-     "date": "2026-11-26T09:28:49.000Z",
-     "text": "Der Tabakkonzern Philip Morris zieht sich aus seinem Berliner Innovationsprojekt NLND zurück. Das geht aus einem Schreiben von Philip Morris an die Partner und Community-Mitglieder des Projekts hervor, das Gründerszene vorliegt."
-    },
-    {
-     "title": "Wie Startups die Bundeswehr voranbringen sollen",
-     "url": "https://www.businessinsider.de/gruenderszene/bundeswehr-startups-sollen-innovation-bringen/t5czfrz/",
-     "date": "2026-11-26T08:49:00.000Z",
-     "text": "Defense-Tech gehört zum schnellsten Wachstumssektor in Europa. Mehr als sechs Milliarden Euro haben Defense-Startups in diesem Jahr bereits eingesammelt, wie aus dem Report „State of Defence Tech 2026“ im Oktober dieses Jahres hervorgeht."
-    }
-   ]
+   "ok": false,
+   "error": "HTTP 403",
+   "items": []
   },
   {
    "name": "EU-Startups",
@@ -191,13 +171,6 @@
      "via": "Startbase"
     },
     {
-     "title": "Zürcher KI-Startup Nextesy bekommt über 10 Millionen - Inside IT",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYXg4Z1kyWDJIc25ZTWlYSFR0UlozN2pyQjZsYVRreS1peU1rRi1fM092TnlaSEV6MG5sSFJQNy03UUxoeHFUOTIyVE80Ty1RYTBsVkFZS3pwM1NtM3FjYnIyRVNYaGRIWFNPZnlpeWcyUFFTeGo4d2dWZk9sUTJDQ0RsNWVZTUxuaFFlMVcwQmJ4dw?oc=5",
-     "date": "2026-11-27T14:17:00.000Z",
-     "text": "Zürcher KI-Startup Nextesy bekommt über 10 Millionen Inside IT",
-     "via": "Inside IT"
-    },
-    {
      "title": "nextesy schliesst Seed-Runde über 10,4 Millionen USD ab: Swisscom Ventures führt ... - Presseportal.ch",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yalF0cjVuS0c1UFJtV2FWZW95ckhucGlwcDVaQlBGQUMtd01hcjdMc3dOYzZ0M2JtLU9tN2ZYdkh0a2JmZU5XTjF3OEZOVVVFR2RkbVQ5U2JQY2E4d3p0QWhOdw?oc=5",
      "date": "2026-11-26T08:00:00.000Z",
@@ -205,11 +178,11 @@
      "via": "Presseportal.ch"
     },
     {
-     "title": "Starforge holt sich 6,6 Millionen Euro für Fusionsreaktoren aus der Serienfertigung - Startbase",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEx2QTE4RkpJTzgwU2J3bjEwT2JRX3ZmbENHazZQN1NraEliaTZHeGJHY3dJblJiTGMwelFDWHIxcE9pVWhfZW04dnpoV1RMVlhTaW9mZzZ1ZGwtUW1JTVBLd240Nm9RdEQ1MUhqbHhUYmF3NndrUzZ3Wjdpb3NNajNUajZ3NzZZVDRtWU9JV0t1OV9WQU1oOC13WUFFa09iZ19DdFVCeXZWT3pYR0ZjNFBKdlM?oc=5",
-     "date": "2026-11-26T10:00:00.000Z",
-     "text": "Starforge holt sich 6,6 Millionen Euro für Fusionsreaktoren aus der Serienfertigung Startbase",
-     "via": "Startbase"
+     "title": "Zürcher KI-Startup Nextesy bekommt über 10 Millionen - Inside IT",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYXg4Z1kyWDJIc25ZTWlYSFR0UlozN2pyQjZsYVRreS1peU1rRi1fM092TnlaSEV6MG5sSFJQNy03UUxoeHFUOTIyVE80Ty1RYTBsVkFZS3pwM1NtM3FjYnIyRVNYaGRIWFNPZnlpeWcyUFFTeGo4d2dWZk9sUTJDQ0RsNWVZTUxuaFFlMVcwQmJ4dw?oc=5",
+     "date": "2026-11-27T14:17:00.000Z",
+     "text": "Zürcher KI-Startup Nextesy bekommt über 10 Millionen Inside IT",
+     "via": "Inside IT"
     },
     {
      "title": "KI-Startup Surelio sammelt eine Million - Inside IT",
@@ -217,6 +190,13 @@
      "date": "2026-11-26T15:51:00.000Z",
      "text": "KI-Startup Surelio sammelt eine Million Inside IT",
      "via": "Inside IT"
+    },
+    {
+     "title": "Starforge holt sich 6,6 Millionen Euro für Fusionsreaktoren aus der Serienfertigung - Startbase",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEx2QTE4RkpJTzgwU2J3bjEwT2JRX3ZmbENHazZQN1NraEliaTZHeGJHY3dJblJiTGMwelFDWHIxcE9pVWhfZW04dnpoV1RMVlhTaW9mZzZ1ZGwtUW1JTVBLd240Nm9RdEQ1MUhqbHhUYmF3NndrUzZ3Wjdpb3NNajNUajZ3NzZZVDRtWU9JV0t1OV9WQU1oOC13WUFFa09iZ19DdFVCeXZWT3pYR0ZjNFBKdlM?oc=5",
+     "date": "2026-11-26T10:00:00.000Z",
+     "text": "Starforge holt sich 6,6 Millionen Euro für Fusionsreaktoren aus der Serienfertigung Startbase",
+     "via": "Startbase"
     },
     {
      "title": "Anori Tech sichert sich über eine Million Euro für Batteriemanagementsysteme - Startbase",
